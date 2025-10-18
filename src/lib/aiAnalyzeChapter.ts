@@ -47,7 +47,7 @@ Provide the following fields:
   "externalContext": "Christianity was expanding rapidly...",
   "externalReferences": "John and Peter also taught these themes...",
   "seeAlso": ["Hebrews 11:36–38", "Matthew 5:12"],
-  "sectionTitles": [{ "range": "1–5", "title": "Call to Endurance" }],
+  "sectionTitles": [{ "range": "1-5", "title": "Call to Endurance" }],
   "themes": ["Faith", "Perseverance", "Community"],
   "practicalQuestions": ["How can we support others in trials?", "..."],
   "uncertainAreas": "none"
@@ -55,23 +55,26 @@ Provide the following fields:
 
 `.trim();
 
+const dashify = (o: string) => o.replace(/–/g, '-');
+const quotify = (o: string) => o.replace(/‘‘/g, '"').replace(/’’/g, '"');
+
 // Schema for the scriptural analysis response
 export const schema = z.object({
-  briefOverview: z.string(),
-  summary: z.string(),
-  externalContext: z.string(),
-  externalReferences: z.string(),
-  seeAlso: z.array(z.string()),
+  briefOverview: z.string().refine(quotify),
+  summary: z.string().refine(quotify),
+  externalContext: z.string().refine(quotify),
+  externalReferences: z.string().refine(quotify),
+  seeAlso: z.array(z.string().refine(dashify)),
   sectionTitles: z
     .array(
       z.object({
-        range: z.string(),
-        title: z.string(),
+        range: z.string().refine(dashify),
+        title: z.string().refine(quotify),
       }),
     )
     .default([]),
-  themes: z.array(z.string()),
-  practicalQuestions: z.array(z.string()),
+  themes: z.array(z.string().refine(quotify)),
+  practicalQuestions: z.array(z.string().refine(quotify)),
   uncertainAreas: z.string(),
 });
 

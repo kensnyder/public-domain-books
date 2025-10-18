@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Ne.2",
+  "briefOverview": "Lehi teaches Jacob that redemption through the Messiah enables genuine human agency amid necessary opposition, framing the Fall, law, resurrection, and the choice between life and death.",
+  "summary": "Lehi blesses Jacob, assuring him that his afflictions will be consecrated for good and that redemption comes through the Holy Messiah. He teaches that the law instructs but cannot justify, and that only the Messiah’s atoning sacrifice—received with a broken heart and contrite spirit—brings salvation and resurrection. Lehi lays out a metaphysical principle of opposition in all things, without which creation, righteousness, and joy would have no meaning. He recounts the Fall of Adam and Eve, presenting mortality as a probationary state where humans learn good from evil and become free to act rather than be acted upon. The Fall is portrayed as enabling posterity and joy, while the Messiah’s coming makes liberty possible. Lehi concludes by urging his sons to choose liberty and eternal life through the Mediator rather than captivity and death under the devil’s power.",
+  "externalContext": "Within the Book of Mormon narrative, these are Lehi’s final counsels to his family, set shortly after their departure from Jerusalem around the beginning of the 6th century BCE, a time of political and religious upheaval culminating in the Babylonian conquest. As an Israelite patriarch, Lehi’s speech functions like a testament or patriarchal blessing, a recognized form in ancient Near Eastern families that blends counsel, prophecy, and covenantal theology. His audience would have been schooled in the law of Moses and temple-centered worship, framing his contrast between law and grace. The expectation of a coming Messiah was part of Israelite hope, though conceptions varied; Lehi’s description emphasizes universal resurrection and mediation before divine judgment.",
+  "externalReferences": "Lehi’s narration of the creation, the forbidden fruit, the serpent, and expulsion from Eden mirrors Genesis 2–3 (Genesis 2:16–17; 3:1–24), including the claim that the Fall introduced knowledge of good and evil (Genesis 3:5, 22). His assertion that “by the law no flesh is justified” parallels Paul’s teaching (Romans 3:20; Galatians 2:16), while the requirement of a “broken heart and a contrite spirit” resonates with Psalm 51:17. The Messiah as the “firstfruits” of the resurrection aligns with 1 Corinthians 15:20–22, and the fall of an angel becoming the devil recalls Revelation 12:7–9.",
+  "seeAlso": [
+    "Genesis 2:16–3:24",
+    "Genesis 3:5,22",
+    "Romans 3:20",
+    "Galatians 2:16",
+    "Psalm 51:17",
+    "1 Corinthians 15:20–22",
+    "Revelation 12:7–9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Blessing and promise to Jacob"
+    },
+    {
+      "range": "5-16",
+      "title": "Law, grace, and opposition"
+    },
+    {
+      "range": "17-30",
+      "title": "Fall, agency, and the great choice"
+    }
+  ],
+  "themes": [
+    "Agency",
+    "Opposition",
+    "Atonement",
+    "Law and grace",
+    "Joy"
+  ],
+  "practicalQuestions": [
+    "Where might my present afflictions be consecrated for my gain, and how can I cooperate with God in that process?",
+    "What would it look like today to approach God with a broken heart and contrite spirit rather than relying on my own ‘law-keeping’?",
+    "How does the reality of opposition in all things change the way I interpret setbacks, temptations, and opportunities?",
+    "In daily decisions, what helps me actively choose liberty and eternal life rather than defaulting to impulses that lead to captivity and death?",
+    "How can I better live my ‘probationary state’ with purpose—repenting quickly, learning from experience, and acting rather than being acted upon?"
+  ],
+  "uncertainAreas": "The phrase “I have chosen the good part, according to the words of the prophet” (v. 30) may allude to a source not identified in the text; its precise referent is unclear. The distinctions between temporal and spiritual law (v. 5) and how they ‘cut off’ are not fully defined. The scope of phrases like “all men come unto God” for judgment (v. 10) and the exact mechanics of agency’s relationship to divine foreknowledge are asserted but not elaborated.",
+  "createdAt": "2025-10-18T21:49:34.605Z",
+  "modelId": "gpt-5-2025-08-07"
+}

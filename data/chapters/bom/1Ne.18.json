@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "1Ne.18",
+  "briefOverview": "Nephi builds and pilots a divinely directed ship, leading his family across the sea to the promised land despite rebellion and a perilous storm.",
+  "summary": "Nephi constructs a ship by revelation, frequently seeking the Lord on the mountain, and his brothers acknowledge the workmanship as good. The family loads provisions, boards, and sets sail. During the voyage some members become rude and disregard God’s power; when Nephi warns them, Laman and Lemuel bind him, whereupon the God-provided compass stops and a severe storm drives them back for four days. With their parents ill and the threat of destruction imminent, they repent and release Nephi; he praises God, prays, and the storm ceases. Nephi guides the ship and they arrive at the promised land, where they pitch tents, plant the seeds from Jerusalem with great success, find diverse animals, and discover ores of gold, silver, and copper.",
+  "externalContext": "Set roughly in the late 7th to early 6th century BCE, the narrative occurs during a period of upheaval around Jerusalem and subsequent migrations. Ancient Near Eastern family structures often prioritized primogeniture, creating tension when younger siblings assumed leadership. Long-distance seafaring was practiced in the broader Indian Ocean and Arabian regions, with seasonal winds enabling extended voyages, though shipbuilding techniques varied widely by locale. Agriculture and colonization commonly began with introduced seed stocks and reliance on local fauna and mineral resources.",
+  "externalReferences": "The “compass” or divine director is elsewhere called the Liahona (1 Nephi 16:10, 28; Alma 37:38–46), functioning according to faith and diligence. The storm that arises in response to disobedience echoes the theme in Jonah 1:4–16, where rebellion endangers a ship until repentance occurs. The calming of the sea after prayer resonates with the New Testament account of Jesus stilling the storm (Mark 4:39–41), highlighting divine mastery over nature. Another Book of Mormon sea crossing guided by the Lord appears in Ether 6:5–12, underscoring a pattern of providential oceanic travel.",
+  "seeAlso": [
+    "1 Nephi 16:10–16",
+    "1 Nephi 17:7–55",
+    "Alma 37:38–46",
+    "Ether 6:5–12",
+    "Jonah 1:4–16",
+    "Mark 4:39–41"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–8",
+      "title": "Ship Built and Launched"
+    },
+    {
+      "range": "9–20",
+      "title": "Rebellion, Binding, and Storm"
+    },
+    {
+      "range": "21–25",
+      "title": "Calm, Arrival, and Settlement"
+    }
+  ],
+  "themes": [
+    "Divine guidance",
+    "Obedience and rebellion",
+    "Authority and leadership",
+    "Deliverance"
+  ],
+  "practicalQuestions": [
+    "Where do I seek divine direction for complex tasks, and how consistently do I return for further guidance?",
+    "How do pride and forgetfulness show up in my celebrations or prosperity, and how can I remember the source of my blessings?",
+    "How do I respond when correction comes from someone younger or of lower status?",
+    "What practices help me praise rather than murmur during affliction?",
+    "In what ways can I realign quickly when I notice that my choices are steering me into figurative storms?"
+  ],
+  "uncertainAreas": "The precise location of the shipbuilding site and the landing place are not specified. The mechanics of the “compass” and how it ceased or resumed functioning are not detailed. The exact nature of the “rudeness,” the duration of the voyage (“many days”), and the identification of the animals listed in the new land are ambiguous.",
+  "createdAt": "2025-10-18T21:45:43.883Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Alma.18",
+  "briefOverview": "Lamoni struggles to interpret Ammon’s power, leading to a revelatory dialogue where Ammon clarifies God’s identity and teaches core doctrine.",
+  "summary": "After hearing witnesses of Ammon’s defense of the flocks, King Lamoni concludes Ammon must be the Great Spirit and fears his own past killings of servants. Ammon enters the king’s presence, discerns his thoughts by the Spirit, rejects being divine, and invites Lamoni to hear by what power he acted. Using Lamoni’s belief in a “Great Spirit,” Ammon identifies God as the creator who knows human thoughts, explains that man was created in God’s image, and states he is called by the Holy Spirit. He then rehearses sacred history from creation and the fall to Lehi’s departure from Jerusalem, including the rebellions of Laman and Lemuel, and expounds the plan of redemption and the coming of Christ. Lamoni believes, prays for mercy for himself and his people, and then collapses “as if dead,” remaining in that state for two days and two nights while his household mourns.",
+  "externalContext": "This episode occurs during the sons of Mosiah’s mission among the Lamanites, a people often in conflict with the Nephites. Lamoni appears to be a vassal king under his father, who rules a larger Lamanite domain—hence Lamoni’s preparation to attend a royal feast. Lamanite religion as portrayed here includes a belief in a singular “Great Spirit” alongside permissive moral traditions. Ancient Near Eastern and Book of Mormon royal courts commonly featured servants and strict accountability for entrusted goods, which can illuminate the harsh penalties against servants who lost flocks.",
+  "externalReferences": "Ammon’s teaching traces scriptural history from creation and the fall (Genesis 1–3) and proceeds through the Nephite narrative of Lehi’s departure and journey (1 Nephi 1–18), including the rebellions of Laman and Lemuel (1 Nephi 2–7; 16–18). He expounds the plan of redemption, a theme developed elsewhere in Alma (Alma 12:24–33), and bears witness of the coming of Christ consistent with earlier Nephite prophecies (1 Nephi 10:4–6; Mosiah 3). His statements that humans are created in God’s image (Genesis 1:26–27) and that God knows the thoughts and intents of the heart echo scriptural motifs (Psalm 139:1–4). The narrative builds directly on the prior episode at the waters of Sebus where Ammon defended the flocks (Alma 17).",
+  "seeAlso": [
+    "Alma 17",
+    "Alma 19:1–12",
+    "Genesis 1:26–27",
+    "1 Nephi 1:4–20",
+    "1 Nephi 2–7",
+    "1 Nephi 16–18",
+    "1 Nephi 10:4–6",
+    "Mosiah 3",
+    "Alma 12:24–33",
+    "Psalm 139:1–4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Lamoni’s Awe and Fears"
+    },
+    {
+      "range": "12-23",
+      "title": "Audience and Test of Faith"
+    },
+    {
+      "range": "24-43",
+      "title": "Doctrine Taught; Lamoni Overcome"
+    }
+  ],
+  "themes": [
+    "Revelation",
+    "True God",
+    "Repentance",
+    "Missionary teaching",
+    "Divine mercy"
+  ],
+  "practicalQuestions": [
+    "How can I build on someone’s existing beliefs to introduce clearer truths about God?",
+    "When I witness goodness or power, do I confuse the messenger with God, or do I seek the true source?",
+    "In what ways can I, like Ammon, combine faithful service with bold testimony?",
+    "How does believing that God knows my thoughts shape my integrity and repentance?",
+    "What core story of creation, fall, and redemption do I personally share when explaining my faith?"
+  ],
+  "uncertainAreas": "The exact meaning of “caught with guile” (v. 23) may indicate rhetorical strategy rather than deceit, but the nuance is unclear. The nature of Lamoni’s collapse “as if he were dead” (vv. 42–43) is unexplained. The reference to preparing “horses and chariots” (v. 9) raises cultural-historical questions not addressed in the text. The precise location and broader customs surrounding the waters of Sebus are not specified.",
+  "createdAt": "2025-10-18T20:20:28.727Z",
+  "modelId": "gpt-5-2025-08-07"
+}

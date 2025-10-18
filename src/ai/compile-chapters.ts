@@ -6,7 +6,7 @@ import bom from '../../data/verses/bom.json' with { type: 'json' };
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters(bom).slice(102, 104);
+  const allChapters = getAllChapters(bom).slice(37, 100);
   let idx = 1;
   for (const osisID of allChapters) {
     const path = `${import.meta.dir}/../../data/chapters/bom/${osisID}.json`;
@@ -37,8 +37,8 @@ async function main() {
     const took = Date.now() - start;
     const seconds = Math.ceil(took / 1000);
     console.log(` Saved ${json.length} bytes in ${seconds}s`);
-    if (res.warnings) {
-      console.log(res.warnings);
+    if (res.warnings && res.warnings.length > 0) {
+      console.log('Warnings!', res.warnings);
     }
   }
   console.log(`${idx - 1} Chapters saved.`);

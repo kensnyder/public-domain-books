@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Ne.15",
+  "briefOverview": "A prophetic lament using a vineyard metaphor to accuse Israel and Judah of unfruitfulness and social/religious corruption, followed by proclamations of divine judgment carried out through foreign nations.",
+  "summary": "The chapter opens with a ‘‘song of the vineyard’’ in which the owner carefully cultivates a vineyard (Israel/Judah) but finds only wild grapes, prompting a declaration that the hedge and wall will be removed and the vineyard laid waste. The text identifies the Lord’s vineyard as the house of Israel and enumerates the people’s failures: oppression instead of justice, drunken revelry, indifference to God’s works, and social practices that exclude the poor. A string of ‘‘woes’’ condemns those who manipulate property, indulge in wine, justify wickedness for gain, and invert moral categories by calling evil good. The passage ends with a vivid announcement that God will summon distant nations who will come swiftly and ruthlessly as instruments of judgment, bringing darkness and devastation.",
+  "externalContext": "This chapter corresponds closely to Isaiah 5, a prophetic poem commonly dated to the 8th century BCE in the kingdom of Judah. The vineyard image and the ‘‘woes’’ form are characteristic of Hebrew prophetic critique—addressing economic inequality, elite luxury, religious complacency, and failed covenant responsibilities. Historically, such prophecies are often read against the background of rising imperial powers (e.g., Assyria, later Babylon) and internal social tensions in Judah and Israel.",
+  "externalReferences": "The chapter is essentially the same material found in Isaiah 5:1–30, which provides the closest canonical parallel and original prophetic context. Jesus’ parable of the wicked tenants (e.g., Matthew 21:33–44; parallels Mark 12:1–12, Luke 20:9–18) reuses vineyard imagery to criticize religious leaders and to anticipate judgment, showing how later interpreters applied the vineyard motif to leaders’ responsibility.",
+  "seeAlso": [
+    "Isaiah 5:1–30",
+    "Matthew 21:33–44",
+    "Mark 12:1–12",
+    "Luke 20:9–18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Song of the Vineyard"
+    },
+    {
+      "range": "8-23",
+      "title": "Woes Against the People"
+    },
+    {
+      "range": "24-30",
+      "title": "Judgment by Nations"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Social Injustice",
+    "Vineyard Imagery",
+    "Divine Sovereignty"
+  ],
+  "practicalQuestions": [
+    "In what ways might our communities be ‘‘fruitless’’ despite material prosperity, and how should we measure spiritual fruit?",
+    "How should religious communities respond to economic practices that exclude or marginalize the poor?",
+    "What practices foster spiritual complacency (compare the text’s emphasis on feasting and drink), and how can they be resisted?",
+    "How do we discern legitimate prophetic warnings about national or communal failure without turning them into despair?"
+  ],
+  "uncertainAreas": "Uncertainty about the specific historical enemy referred to as the ‘‘nations from far’’—Isaiah-era readers often understood Assyria or Babylon, but the text itself does not name them. Some Hebrew expressions (e.g., ‘‘hell hath enlarged herself’’) carry translation and interpretive difficulties about imagery for judgment and the afterlife. It is also ambiguous in a few places whether particular condemnations target elites, common people, or both.",
+  "createdAt": "2025-10-18T23:03:05.197Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
