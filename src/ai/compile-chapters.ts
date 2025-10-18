@@ -1,31 +1,44 @@
 import { aiAnalyzeChapter } from '~/lib/aiAnalyzeChapter.ts';
+import { updateTokenCounts } from '~/lib/updateTokenCounts.ts';
 import { metadata } from '../../data/_metadata.ts';
 import bom from '../../data/verses/bom.json' with { type: 'json' };
 
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters(bom);
-  let idx = 0;
+  const allChapters = getAllChapters(bom).slice(82, 84);
+  let idx = 1;
   for (const osisID of allChapters) {
+    const path = `${import.meta.dir}/../../data/chapters/bom/${osisID}.json`;
+    const file = Bun.file(path);
+    if (file.size) {
+      continue;
+    }
     const chapter = bom.filter((v) => v.chapterOsisID === osisID);
     const firstVerse = chapter[0];
-    const verses = chapter.map((v) => `${v.verseNumber}. ${v.verseText}`).join('\n');
+    const verses = chapter
+      .map((v) => `${v.verseNumber}. ${v.verseText}`)
+      .join('\n');
     const heading = `${getBookName(firstVerse.bookOsisID)} Chapter ${firstVerse.chapterNumber}`;
     const text = `${heading}\n\n${verses}`;
-    process.stdout.write(`Sending AI ${heading}...`);
+    process.stdout.write(`${idx++}) AI is analyzing ${heading}...`);
 
     const start = Date.now();
     const res = await aiAnalyzeChapter(text);
-    const path = `${import.meta.dir}/../../data/books/${osisID}.json`;
-    const json = JSON.stringify(res.object);
-    await Bun.file(path).write(json);
+    await updateTokenCounts(res.usage);
+    const toSave = {
+      chapterOsisID: firstVerse.chapterOsisID,
+      ...res.object,
+      createdAt: new Date().toISOString(),
+      modelId: res.response.modelId,
+    };
+    const json = JSON.stringify(toSave, null, 2);
+    await file.write(json);
     const took = Date.now() - start;
-    console.log(` Saved ${json.length} bytes in ${took}ms`);
-    if (idx++ > 4) {
-      break;
-    }
+    const seconds = Math.ceil(took / 1000);
+    console.log(` Saved ${json.length} bytes in ${seconds}s`);
   }
+  console.log(`${idx - 1} Chapters saved.`);
 }
 
 function getBookName(bookOsisID: string) {

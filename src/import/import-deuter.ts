@@ -3,7 +3,10 @@ import { metadata } from '../../data/_metadata.ts';
 const baseUrl =
   'https://raw.githubusercontent.com/rodolfoapps/Deuter-Apocrypha/4e4ecb3da87fb736e2a18a10463664b487bcb5d9';
 
-const refTextHandler = (item: any) => ({ ref: item.reference, text: item.text });
+const refTextHandler = (item: any) => ({
+  ref: item.reference,
+  text: item.text,
+});
 const refTextFinder = (root: any) => root.verses;
 const flatHandler = (item: any) => ({
   ref: `${item.book} ${item.chapter}:${item.verse}`,
@@ -66,7 +69,9 @@ async function main() {
       const verseNumber = parseInt(parts.pop(), 10);
       const chapterNumber = parseInt(parts.pop(), 10);
       const givenName = parts.join(' ');
-      const meta = metadata.find((m) => m.name === givenName || m.aliases.includes(givenName));
+      const meta = metadata.find(
+        (m) => m.name === givenName || m.aliases.includes(givenName),
+      );
       if (!meta) {
         console.log(`Unable to find bookName=${givenName}`);
         process.exit(1);

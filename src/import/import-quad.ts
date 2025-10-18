@@ -63,8 +63,12 @@ async function main() {
         verseSequence = 1;
         // @ts-expect-error We know works[lastWork] will always be an object
         const finishedWork = works[lastWork];
-        await Bun.file(finishedWork.file).write(JSON.stringify(finishedWork.data, null, 2));
-        console.log(`Wrote ${lastWork} to ${finishedWork.file.split('/').pop()}`);
+        await Bun.file(finishedWork.file).write(
+          JSON.stringify(finishedWork.data, null, 2),
+        );
+        console.log(
+          `Wrote ${lastWork} to ${finishedWork.file.split('/').pop()}`,
+        );
       }
       console.log(`Starting ${workLongTitle}...`);
     }
