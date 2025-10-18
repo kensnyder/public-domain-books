@@ -1,7 +1,7 @@
 {
   "name": "public-domain-books",
   "version": "1.0.0",
-  "description": "Repository of Public Domain Books text, especially Biblical texts",
+  "description": "Repository of Public Domain book-chapter-verse texts",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
