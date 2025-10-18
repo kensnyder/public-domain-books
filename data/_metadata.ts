@@ -96,7 +96,7 @@ export const metadata = [
   { name: "Susanna θ", osisID: 'SusTh', paratext: 'SST', groups: ["Rahlfs' variant books", 'Apocrypha'], aliases: ['SusTh','SST'] },
   { name: "Daniel θ", osisID: 'DanTh', paratext: 'DNT', groups: ["Rahlfs' variant books", 'Apocrypha'], aliases: ['DanTh','DNT'] },
   { name: "Bel and the Dragon θ", osisID: 'BelTh', paratext: 'BLT', groups: ["Rahlfs' variant books", 'Apocrypha'], aliases: ['BelTh','BLT'] },
-  { name: "Epistle to the Laodiceans", osisID: 'EpLao', paratext: 'LAO', groups: ['Vulgate', 'Apocrypha'], aliases: ['EpLao','LAO'] },
+  { name: "Epistle to the Laodiceans", osisID: 'EpLao', paratext: 'LAO', groups: ['Vulgate', 'Apocrypha'], aliases: ['EpLao','LAO','Laodiceans'] },
   { name: "5 Ezra", osisID: '5Ezra', paratext: '5EZ', groups: ['Vulgate', 'Apocrypha'], aliases: ['5Ezra','5EZ'] },
   { name: "4 Ezra", osisID: '4Ezra', paratext: 'EZA', groups: ['Vulgate', 'Apocrypha'], aliases: ['Ezra Apocalypse','4Ezra','EZA'] },
   { name: "6 Ezra", osisID: '6Ezra', paratext: '6EZ', groups: ['Vulgate', 'Apocrypha'], aliases: ['6Ezra','6EZ'] },
