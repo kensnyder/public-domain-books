@@ -19,12 +19,7 @@
       "title": "Ambush, Battle, Encirclement"
     }
   ],
-  "themes": [
-    "Defense",
-    "Leadership",
-    "Faith",
-    "Warfare"
-  ],
+  "themes": ["Defense", "Leadership", "Faith", "Warfare"],
   "practicalQuestions": [
     "When, if ever, is the use of force justified to protect families and religious communities, and how should that be decided today?",
     "How do leaders balance practical strategy and moral restraint (as Moroni restrains slaughter) in wartime situations?",

@@ -19,12 +19,7 @@
       "title": "Military Instructions"
     }
   ],
-  "themes": [
-    "Liberty",
-    "Rebellion",
-    "Leadership",
-    "Warfare"
-  ],
+  "themes": ["Liberty", "Rebellion", "Leadership", "Warfare"],
   "practicalQuestions": [
     "When is it appropriate for civic leaders to resist internal threats with force, and what safeguards should guide that decision?",
     "How can leaders demonstrate that they seek office to protect the community rather than for personal power?",

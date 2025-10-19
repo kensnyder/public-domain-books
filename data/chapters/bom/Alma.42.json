@@ -4,11 +4,7 @@
   "summary": "Alma answers his son's objection about the justice of God by recounting the Fall: Adam and Eve were barred from the tree of life so that men would have a probationary time to repent. Because the Fall brought both temporal and spiritual death, an atonement was necessary so mercy could claim the penitent without overturning divine justice. Alma argues that law, punishment, and a just requirement are needed for true repentance to occur, and that the Atonement and resurrection restore men to God's presence to be judged according to their works. He concludes by urging his son to accept God's justice and mercy, repent of his sins, and preach so others may likewise receive mercy.",
   "externalContext": "This chapter is from the Book of Mormon, presented as a sermon by the Nephite prophet Alma to his son (commonly identified in the narrative as Corianton) within the larger Alma narrative. In the book's storyline, Alma's counsel follows earlier rebukes about moral failure and missionary duties; the text reflects 19th-century Latter-day Saint theology emphasizing free agency, the Fall, and Christ's Atonement. The chapter engages biblical motifs (the garden, cherubim, tree of life) but develops them in the book's distinct theological framework.",
   "externalReferences": "The chapter explicitly echoes Genesis 3:22–24, which describes God placing cherubim and a flaming sword to guard the tree of life after Adam and Eve's disobedience. Its discussion of universal sin, the need for an atonement, and God's justice and mercy resonates with Paul’s reflections on sin and justification in Romans 3:23–26, where atonement is presented as necessary for God to be just and the justifier. The argument about the Atonement's role in enabling mercy without nullifying justice also connects with Alma’s earlier teaching in Alma 7:11–13, which foretells Christ’s suffering to succor and atone for mankind.",
-  "seeAlso": [
-    "Genesis 3:22-24",
-    "Romans 3:23-26",
-    "Alma 7:11-13"
-  ],
+  "seeAlso": ["Genesis 3:22-24", "Romans 3:23-26", "Alma 7:11-13"],
   "sectionTitles": [
     {
       "range": "1-6",
@@ -23,12 +19,7 @@
       "title": "Justice, Mercy, Repentance"
     }
   ],
-  "themes": [
-    "Justice",
-    "Mercy",
-    "Atonement",
-    "Repentance"
-  ],
+  "themes": ["Justice", "Mercy", "Atonement", "Repentance"],
   "practicalQuestions": [
     "How does the idea that law and consequences make genuine repentance possible change the way I respond to my own failures?",
     "In what ways can I hold both a sense of divine justice and a posture of mercy toward others who have sinned?",

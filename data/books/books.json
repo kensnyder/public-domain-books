@@ -1,1 +1,1354 @@
-[]
+[
+  {
+    "name": "Genesis",
+    "osisID": "Gen",
+    "paratext": "GEN",
+    "groups": ["Old Testament", "Bible", "Pentatuech", "Torah"],
+    "aliases": ["Gen", "GEN", "The First Book of Moses called Genesis"]
+  },
+  {
+    "name": "Exodus",
+    "osisID": "Exod",
+    "paratext": "EXO",
+    "groups": ["Old Testament", "Bible", "Pentatuech", "Torah"],
+    "aliases": ["Exod", "EXO", "The Second Book of Moses called Exodus"]
+  },
+  {
+    "name": "Leviticus",
+    "osisID": "Lev",
+    "paratext": "LEV",
+    "groups": ["Old Testament", "Bible", "Pentatuech", "Torah"],
+    "aliases": ["Lev", "LEV", "The Third Book of Moses called Leviticus"]
+  },
+  {
+    "name": "Numbers",
+    "osisID": "Num",
+    "paratext": "NUM",
+    "groups": ["Old Testament", "Bible", "Pentatuech", "Torah"],
+    "aliases": ["Num", "NUM", "The Fourth Book of Moses called Numbers"]
+  },
+  {
+    "name": "Deuteronomy",
+    "osisID": "Deut",
+    "paratext": "DEU",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Deut", "DEU", "The Fifth Book of Moses called Deuteronomy"]
+  },
+  {
+    "name": "Joshua",
+    "osisID": "Josh",
+    "paratext": "JOS",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Josh", "JOS"]
+  },
+  {
+    "name": "Judges",
+    "osisID": "Judg",
+    "paratext": "JDG",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Judg", "JDG"]
+  },
+  {
+    "name": "Ruth",
+    "osisID": "Ruth",
+    "paratext": "RUT",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Ruth", "RUT"]
+  },
+  {
+    "name": "1 Samuel",
+    "osisID": "1Sam",
+    "paratext": "1SA",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["1Sam", "1SA"]
+  },
+  {
+    "name": "2 Samuel",
+    "osisID": "2Sam",
+    "paratext": "2SA",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["2Sam", "2SA"]
+  },
+  {
+    "name": "1 Kings",
+    "osisID": "1Kgs",
+    "paratext": "1KI",
+    "groups": ["Old Testament", "Bible", "Kings"],
+    "aliases": ["1Kgs", "1KI"]
+  },
+  {
+    "name": "2 Kings",
+    "osisID": "2Kgs",
+    "paratext": "2KI",
+    "groups": ["Old Testament", "Bible", "Kings"],
+    "aliases": ["2Kgs", "2KI"]
+  },
+  {
+    "name": "1 Chronicles",
+    "osisID": "1Chr",
+    "paratext": "1CH",
+    "groups": ["Old Testament", "Bible", "Persian Period"],
+    "aliases": ["1Chr", "1CH"]
+  },
+  {
+    "name": "2 Chronicles",
+    "osisID": "2Chr",
+    "paratext": "2CH",
+    "groups": ["Old Testament", "Bible", "Persian Period"],
+    "aliases": ["2Chr", "2CH"]
+  },
+  {
+    "name": "Ezra",
+    "osisID": "Ezra",
+    "paratext": "EZR",
+    "groups": ["Old Testament", "Bible", "Persian Period"],
+    "aliases": ["Ezra", "EZR"]
+  },
+  {
+    "name": "Nehemiah",
+    "osisID": "Neh",
+    "paratext": "NEH",
+    "groups": ["Old Testament", "Bible", "Persian Period"],
+    "aliases": ["Neh", "NEH"]
+  },
+  {
+    "name": "Esther",
+    "osisID": "Esth",
+    "paratext": "EST",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Esth", "EST"]
+  },
+  {
+    "name": "Job",
+    "osisID": "Job",
+    "paratext": "JOB",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Job", "JOB"]
+  },
+  {
+    "name": "Psalms",
+    "osisID": "Ps",
+    "paratext": "PSA",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Ps", "PSA"]
+  },
+  {
+    "name": "Proverbs",
+    "osisID": "Prov",
+    "paratext": "PRO",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Prov", "PRO"]
+  },
+  {
+    "name": "Ecclesiastes",
+    "osisID": "Eccl",
+    "paratext": "ECC",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Qohelet", "Eccl", "ECC"]
+  },
+  {
+    "name": "Song of Solomon",
+    "osisID": "Song",
+    "paratext": "SNG",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Canticle of Canticles", "Song", "SNG", "Solomon's Song"]
+  },
+  {
+    "name": "Isaiah",
+    "osisID": "Isa",
+    "paratext": "ISA",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Isa", "ISA"]
+  },
+  {
+    "name": "Jeremiah",
+    "osisID": "Jer",
+    "paratext": "JER",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Jer", "JER"]
+  },
+  {
+    "name": "Lamentations",
+    "osisID": "Lam",
+    "paratext": "LAM",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Lam", "LAM"]
+  },
+  {
+    "name": "Ezekiel",
+    "osisID": "Ezek",
+    "paratext": "EZK",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Ezek", "EZK"]
+  },
+  {
+    "name": "Daniel",
+    "osisID": "Dan",
+    "paratext": "DAN",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Dan", "DAN"]
+  },
+  {
+    "name": "Hosea",
+    "osisID": "Hos",
+    "paratext": "HOS",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Hos", "HOS"]
+  },
+  {
+    "name": "Joel",
+    "osisID": "Joel",
+    "paratext": "JOL",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Joel", "JOL"]
+  },
+  {
+    "name": "Amos",
+    "osisID": "Amos",
+    "paratext": "AMO",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Amos", "AMO"]
+  },
+  {
+    "name": "Obadiah",
+    "osisID": "Obad",
+    "paratext": "OBA",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Obad", "OBA"]
+  },
+  {
+    "name": "Jonah",
+    "osisID": "Jonah",
+    "paratext": "JON",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Jonah", "JON"]
+  },
+  {
+    "name": "Micah",
+    "osisID": "Mic",
+    "paratext": "MIC",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Mic", "MIC"]
+  },
+  {
+    "name": "Nahum",
+    "osisID": "Nah",
+    "paratext": "NAM",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Nah", "NAM"]
+  },
+  {
+    "name": "Habakkuk",
+    "osisID": "Hab",
+    "paratext": "HAB",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Hab", "HAB"]
+  },
+  {
+    "name": "Zephaniah",
+    "osisID": "Zeph",
+    "paratext": "ZEP",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Zeph", "ZEP"]
+  },
+  {
+    "name": "Haggai",
+    "osisID": "Hag",
+    "paratext": "HAG",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Hag", "HAG"]
+  },
+  {
+    "name": "Zechariah",
+    "osisID": "Zech",
+    "paratext": "ZEC",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Zech", "ZEC"]
+  },
+  {
+    "name": "Malachi",
+    "osisID": "Mal",
+    "paratext": "MAL",
+    "groups": ["Old Testament", "Bible"],
+    "aliases": ["Mal", "MAL"]
+  },
+  {
+    "name": "Matthew",
+    "osisID": "Matt",
+    "paratext": "MAT",
+    "groups": ["New Testament", "Bible", "Gospels"],
+    "aliases": ["Matt", "MAT"]
+  },
+  {
+    "name": "Mark",
+    "osisID": "Mark",
+    "paratext": "MRK",
+    "groups": ["New Testament", "Bible", "Gospels"],
+    "aliases": ["Mark", "MRK"]
+  },
+  {
+    "name": "Luke",
+    "osisID": "Luke",
+    "paratext": "LUK",
+    "groups": ["New Testament", "Bible", "Gospels"],
+    "aliases": ["Luke", "LUK"]
+  },
+  {
+    "name": "John",
+    "osisID": "John",
+    "paratext": "JHN",
+    "groups": ["New Testament", "Bible", "Gospels"],
+    "aliases": ["John", "JHN"]
+  },
+  {
+    "name": "Acts",
+    "osisID": "Acts",
+    "paratext": "ACT",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["Acts", "ACT"]
+  },
+  {
+    "name": "Romans",
+    "osisID": "Rom",
+    "paratext": "ROM",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["Rom", "ROM"]
+  },
+  {
+    "name": "1 Corinthians",
+    "osisID": "1Cor",
+    "paratext": "1CO",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["1Cor", "1CO"]
+  },
+  {
+    "name": "2 Corinthians",
+    "osisID": "2Cor",
+    "paratext": "2CO",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["2Cor", "2CO"]
+  },
+  {
+    "name": "Galatians",
+    "osisID": "Gal",
+    "paratext": "GAL",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["Gal", "GAL"]
+  },
+  {
+    "name": "Ephesians",
+    "osisID": "Eph",
+    "paratext": "EPH",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["Eph", "EPH"]
+  },
+  {
+    "name": "Philippians",
+    "osisID": "Phil",
+    "paratext": "PHP",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["Phil", "PHP"]
+  },
+  {
+    "name": "Colossians",
+    "osisID": "Col",
+    "paratext": "COL",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["Col", "COL"]
+  },
+  {
+    "name": "1 Thessalonians",
+    "osisID": "1Thess",
+    "paratext": "1TH",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["1Thess", "1TH"]
+  },
+  {
+    "name": "2 Thessalonians",
+    "osisID": "2Thess",
+    "paratext": "2TH",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["2Thess", "2TH"]
+  },
+  {
+    "name": "1 Timothy",
+    "osisID": "1Tim",
+    "paratext": "1TI",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["1Tim", "1TI"]
+  },
+  {
+    "name": "2 Timothy",
+    "osisID": "2Tim",
+    "paratext": "2TI",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["2Tim", "2TI"]
+  },
+  {
+    "name": "Titus",
+    "osisID": "Titus",
+    "paratext": "TIT",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["Titus", "TIT"]
+  },
+  {
+    "name": "Philemon",
+    "osisID": "Phlm",
+    "paratext": "PHM",
+    "groups": ["New Testament", "Bible", "Pauline Epistles"],
+    "aliases": ["Phlm", "PHM"]
+  },
+  {
+    "name": "Hebrews",
+    "osisID": "Heb",
+    "paratext": "HEB",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["Heb", "HEB"]
+  },
+  {
+    "name": "James",
+    "osisID": "Jas",
+    "paratext": "JAS",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["Jas", "JAS"]
+  },
+  {
+    "name": "1 Peter",
+    "osisID": "1Pet",
+    "paratext": "1PE",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["1Pet", "1PE"]
+  },
+  {
+    "name": "2 Peter",
+    "osisID": "2Pet",
+    "paratext": "2PE",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["2Pet", "2PE"]
+  },
+  {
+    "name": "1 John",
+    "osisID": "1John",
+    "paratext": "1JN",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["1John", "1JN"]
+  },
+  {
+    "name": "2 John",
+    "osisID": "2John",
+    "paratext": "2JN",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["2John", "2JN"]
+  },
+  {
+    "name": "3 John",
+    "osisID": "3John",
+    "paratext": "3JN",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["3John", "3JN"]
+  },
+  {
+    "name": "Jude",
+    "osisID": "Jude",
+    "paratext": "JUD",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["Jude", "JUD"]
+  },
+  {
+    "name": "Revelation",
+    "osisID": "Rev",
+    "paratext": "REV",
+    "groups": ["New Testament", "Bible"],
+    "aliases": ["Rev", "REV"]
+  },
+  {
+    "name": "Tobit",
+    "osisID": "Tob",
+    "paratext": "TOB",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Tob", "TOB"]
+  },
+  {
+    "name": "Judith",
+    "osisID": "Jdt",
+    "paratext": "JDT",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Jdt", "JDT"]
+  },
+  {
+    "name": "Greek Esther",
+    "osisID": "EsthGr",
+    "paratext": "ESG",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["EsthGr", "ESG"]
+  },
+  {
+    "name": "Additions to Esther",
+    "osisID": "AddEsth",
+    "paratext": "ADE",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["AddEsth", "ADE"]
+  },
+  {
+    "name": "Wisdom",
+    "osisID": "Wis",
+    "paratext": "WIS",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Wisdom of Solomon", "Wis", "WIS"]
+  },
+  {
+    "name": "Sirach Prologue",
+    "osisID": "SirP",
+    "paratext": null,
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["SirP"]
+  },
+  {
+    "name": "Sirach",
+    "osisID": "Sir",
+    "paratext": "SIR",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Ecclesiasticus", "Sir", "SIR"]
+  },
+  {
+    "name": "Baruch",
+    "osisID": "Bar",
+    "paratext": "BAR",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Bar", "BAR"]
+  },
+  {
+    "name": "Letter of Jeremiah",
+    "osisID": "EpJer",
+    "paratext": "LJE",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["EpJer", "LJE"]
+  },
+  {
+    "name": "Greek Daniel",
+    "osisID": "DanGr",
+    "paratext": "DAG",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["DanGr", "DAG"]
+  },
+  {
+    "name": "Additions to Daniel",
+    "osisID": "AddDan",
+    "paratext": null,
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["AddDan"]
+  },
+  {
+    "name": "Prayer of Azariah",
+    "osisID": "PrAzar",
+    "paratext": "S3Y",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Song of the Three Children", "PrAzar", "S3Y"]
+  },
+  {
+    "name": "Susanna",
+    "osisID": "Sus",
+    "paratext": "SUS",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Sus", "SUS"]
+  },
+  {
+    "name": "Bel and the Dragon",
+    "osisID": "Bel",
+    "paratext": "BEL",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["Bel", "BEL"]
+  },
+  {
+    "name": "1 Maccabees",
+    "osisID": "1Macc",
+    "paratext": "1MA",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["1Macc", "1MA"]
+  },
+  {
+    "name": "2 Maccabees",
+    "osisID": "2Macc",
+    "paratext": "2MA",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["2Macc", "2MA"]
+  },
+  {
+    "name": "3 Maccabees",
+    "osisID": "3Macc",
+    "paratext": "3MA",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["3Macc", "3MA"]
+  },
+  {
+    "name": "4 Maccabees",
+    "osisID": "4Macc",
+    "paratext": "4MA",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["4Macc", "4MA"]
+  },
+  {
+    "name": "Prayer of Manasseh",
+    "osisID": "PrMan",
+    "paratext": "MAN",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["PrMan", "MAN"]
+  },
+  {
+    "name": "1 Esdras",
+    "osisID": "1Esd",
+    "paratext": "1ES",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["1Esd", "1ES"]
+  },
+  {
+    "name": "2 Esdras",
+    "osisID": "2Esd",
+    "paratext": "2ES",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["2Esd", "2ES"]
+  },
+  {
+    "name": "Psalm 151",
+    "osisID": "AddPs",
+    "paratext": "PS2",
+    "groups": ["Deuterocannon", "Apocrypha"],
+    "aliases": ["AddPs", "PS2"]
+  },
+  {
+    "name": "Odes",
+    "osisID": "Odes",
+    "paratext": "ODA",
+    "groups": ["Rahlfs' LXX", "Apocrypha"],
+    "aliases": ["Odes", "ODA"]
+  },
+  {
+    "name": "Psalms of Solomon",
+    "osisID": "PssSol",
+    "paratext": "PSS",
+    "groups": ["Rahlfs' LXX", "Apocrypha"],
+    "aliases": ["PssSol", "PSS"]
+  },
+  {
+    "name": "Joshua A",
+    "osisID": "JoshA",
+    "paratext": "JSA",
+    "groups": ["Rahlfs' variant books", "Apocrypha"],
+    "aliases": ["JoshA", "JSA"]
+  },
+  {
+    "name": "Judges B",
+    "osisID": "JudgB",
+    "paratext": "JDB",
+    "groups": ["Rahlfs' variant books", "Apocrypha"],
+    "aliases": ["JudgB", "JDB"]
+  },
+  {
+    "name": "Tobit S",
+    "osisID": "TobS",
+    "paratext": "TBS",
+    "groups": ["Rahlfs' variant books", "Apocrypha"],
+    "aliases": ["TobS", "TBS"]
+  },
+  {
+    "name": "Susanna θ",
+    "osisID": "SusTh",
+    "paratext": "SST",
+    "groups": ["Rahlfs' variant books", "Apocrypha"],
+    "aliases": ["SusTh", "SST"]
+  },
+  {
+    "name": "Daniel θ",
+    "osisID": "DanTh",
+    "paratext": "DNT",
+    "groups": ["Rahlfs' variant books", "Apocrypha"],
+    "aliases": ["DanTh", "DNT"]
+  },
+  {
+    "name": "Bel and the Dragon θ",
+    "osisID": "BelTh",
+    "paratext": "BLT",
+    "groups": ["Rahlfs' variant books", "Apocrypha"],
+    "aliases": ["BelTh", "BLT"]
+  },
+  {
+    "name": "Epistle to the Laodiceans",
+    "osisID": "EpLao",
+    "paratext": "LAO",
+    "groups": ["Vulgate", "Apocrypha"],
+    "aliases": ["EpLao", "LAO", "Laodiceans"]
+  },
+  {
+    "name": "5 Ezra",
+    "osisID": "5Ezra",
+    "paratext": "5EZ",
+    "groups": ["Vulgate", "Apocrypha"],
+    "aliases": ["5Ezra", "5EZ"]
+  },
+  {
+    "name": "4 Ezra",
+    "osisID": "4Ezra",
+    "paratext": "EZA",
+    "groups": ["Vulgate", "Apocrypha"],
+    "aliases": ["Ezra Apocalypse", "4Ezra", "EZA"]
+  },
+  {
+    "name": "6 Ezra",
+    "osisID": "6Ezra",
+    "paratext": "6EZ",
+    "groups": ["Vulgate", "Apocrypha"],
+    "aliases": ["6Ezra", "6EZ"]
+  },
+  {
+    "name": "Prayer of Solomon",
+    "osisID": "PrSol",
+    "paratext": "PSO",
+    "groups": ["Vulgate", "Apocrypha"],
+    "aliases": ["PrSol", "PSO"]
+  },
+  {
+    "name": "Prayer of Jeremiah",
+    "osisID": "PrJer",
+    "paratext": "PJE",
+    "groups": ["Vulgate", "Apocrypha"],
+    "aliases": ["PrJer", "PJE"]
+  },
+  {
+    "name": "1 Enoch",
+    "osisID": "1En",
+    "paratext": "ENO",
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["Ethiopic Apocalypse of Enoch", "Ethiopic Enoch", "1En", "ENO"]
+  },
+  {
+    "name": "Jubilees",
+    "osisID": "Jub",
+    "paratext": "JUB",
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["Jub", "JUB"]
+  },
+  {
+    "name": "4 Baruch",
+    "osisID": "4Bar",
+    "paratext": "4BA",
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["Paraleipomena Jeremiou", "4Bar", "4BA"]
+  },
+  {
+    "name": "1 Meqabyan",
+    "osisID": "1Meq",
+    "paratext": "1MQ",
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["1Meq", "1MQ"]
+  },
+  {
+    "name": "2 Meqabyan",
+    "osisID": "2Meq",
+    "paratext": "2MQ",
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["2Meq", "2MQ"]
+  },
+  {
+    "name": "3 Meqabyan",
+    "osisID": "3Meq",
+    "paratext": "3MQ",
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["3Meq", "3MQ"]
+  },
+  {
+    "name": "Reproof",
+    "osisID": "Rep",
+    "paratext": "REP",
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["Tegsas", "Tegsats", "Taagsas", "Rep", "REP"]
+  },
+  {
+    "name": "Additions to Jeremiah",
+    "osisID": "AddJer",
+    "paratext": null,
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": ["Rest of Jeremiah", "AddJer"]
+  },
+  {
+    "name": "Pseudo-Josephus",
+    "osisID": "PsJos",
+    "paratext": null,
+    "groups": ["Ethiopian Orthodox Canon", "Apocrypha"],
+    "aliases": [
+      "Jossipon",
+      "Joseph ben Gorion's Medieval History of the Jews",
+      "PsJos"
+    ]
+  },
+  {
+    "name": "Epistle of the Corinthians to Paul",
+    "osisID": "EpCorPaul",
+    "paratext": "COP",
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["EpCorPaul", "COP"]
+  },
+  {
+    "name": "3 Corinthians",
+    "osisID": "3Cor",
+    "paratext": "3CO",
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["3Cor", "3CO"]
+  },
+  {
+    "name": "Words of Sirach",
+    "osisID": "WSir",
+    "paratext": "WSI",
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["WSir", "WSI"]
+  },
+  {
+    "name": "Prayer of Euthalius",
+    "osisID": "PrEuth",
+    "paratext": "EUT",
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["PrEuth", "EUT"]
+  },
+  {
+    "name": "Dormition of John",
+    "osisID": "DormJohn",
+    "paratext": "DOJ",
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["DormJohn", "DOJ"]
+  },
+  {
+    "name": "Joseph and Asenath",
+    "osisID": "JosAsen",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["JosAsen"]
+  },
+  {
+    "name": "Testaments of the Twelve Patriarchs (composed of:)",
+    "osisID": "T12Patr",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr"]
+  },
+  {
+    "name": "Testament of Asher",
+    "osisID": "T12Patr.TAsh",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TAsh"]
+  },
+  {
+    "name": "Testament of Benjamin",
+    "osisID": "T12Patr.TBenj",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TBenj"]
+  },
+  {
+    "name": "Testament of Dan",
+    "osisID": "T12Patr.TDan",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TDan"]
+  },
+  {
+    "name": "Testament of Gad",
+    "osisID": "T12Patr.TGad",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TGad"]
+  },
+  {
+    "name": "Testament of Issachar",
+    "osisID": "T12Patr.TIss",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TIss"]
+  },
+  {
+    "name": "Testament of Joseph",
+    "osisID": "T12Patr.TJos",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TJos"]
+  },
+  {
+    "name": "Testament of Judah",
+    "osisID": "T12Patr.TJud",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TJud"]
+  },
+  {
+    "name": "Testament of Levi",
+    "osisID": "T12Patr.TLevi",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TLevi"]
+  },
+  {
+    "name": "Testament of Naphtali",
+    "osisID": "T12Patr.TNaph",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TNaph"]
+  },
+  {
+    "name": "Testament of Reuben",
+    "osisID": "T12Patr.TReu",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TReu"]
+  },
+  {
+    "name": "Testament of Simeon",
+    "osisID": "T12Patr.TSim",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TSim"]
+  },
+  {
+    "name": "Testament of Zebulun",
+    "osisID": "T12Patr.TZeb",
+    "paratext": null,
+    "groups": ["Armenian Orthodox Canon", "Apocrypha"],
+    "aliases": ["T12Patr.TZeb"]
+  },
+  {
+    "name": "2 Baruch",
+    "osisID": "2Bar",
+    "paratext": "2BA",
+    "groups": ["Syriac Orthodox Canon", "Apocrypha"],
+    "aliases": ["(Syriac) Apocalypse of Baruch"]
+  },
+  {
+    "name": "Letter of Baruch",
+    "osisID": "EpBar",
+    "paratext": "LBA",
+    "groups": ["Syriac Orthodox Canon", "Apocrypha"],
+    "aliases": ["EpBar", "LBA"]
+  },
+  {
+    "name": "Additional Syriac Psalms",
+    "osisID": "5ApocSyrPss",
+    "paratext": "PS3",
+    "groups": ["Syriac Orthodox Canon", "Apocrypha"],
+    "aliases": ["5 Apocryphal Syriac Psalms"]
+  },
+  {
+    "name": "Josephus' Jewish War VI",
+    "osisID": "JosephusJWvi",
+    "paratext": null,
+    "groups": ["Syriac Orthodox Canon", "Apocrypha"],
+    "aliases": ["JosephusJWvi"]
+  },
+  {
+    "name": "1 Clement",
+    "osisID": "1Clem",
+    "paratext": "1CL",
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["1Clem", "1CL"]
+  },
+  {
+    "name": "2 Clement",
+    "osisID": "2Clem",
+    "paratext": "2CL",
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["2Clem", "2CL"]
+  },
+  {
+    "name": "Ignatius to the Ephesians",
+    "osisID": "IgnEph",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["IgnEph"]
+  },
+  {
+    "name": "Ignatius to the Magnesians",
+    "osisID": "IgnMagn",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["IgnMagn"]
+  },
+  {
+    "name": "Ignatius to the Trallians",
+    "osisID": "IgnTrall",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["IgnTrall"]
+  },
+  {
+    "name": "Ignatius to the Romans",
+    "osisID": "IgnRom",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["IgnRom"]
+  },
+  {
+    "name": "Ignatius to the Philadelphians",
+    "osisID": "IgnPhld",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["IgnPhld"]
+  },
+  {
+    "name": "Ignatius to the Smyrnaeans",
+    "osisID": "IgnSmyrn",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["IgnSmyrn"]
+  },
+  {
+    "name": "Ignatius to Polycarp",
+    "osisID": "IgnPol",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["IgnPol"]
+  },
+  {
+    "name": "Polycarp to the Philippians",
+    "osisID": "PolPhil",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["PolPhil"]
+  },
+  {
+    "name": "Martyrdom of Polycarp",
+    "osisID": "MartPol",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["MartPol"]
+  },
+  {
+    "name": "Didache",
+    "osisID": "Did",
+    "paratext": "DID",
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["Did", "DID"]
+  },
+  {
+    "name": "Barnabas",
+    "osisID": "Barn",
+    "paratext": "LBA",
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["Barn", "LBA"]
+  },
+  {
+    "name": "Shepherd of Hermas",
+    "osisID": "Herm",
+    "paratext": "SHE",
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["Herm", "SHE"]
+  },
+  {
+    "name": "Shepherd of Hermas, Mandates",
+    "osisID": "Herm.Mand",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["Herm.Mand"]
+  },
+  {
+    "name": "Shepherd of Hermas, Similitudes",
+    "osisID": "Herm.Sim",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["Herm.Sim"]
+  },
+  {
+    "name": "Shepherd of Hermas, Visions",
+    "osisID": "Herm.Vis",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["Herm.Vis"]
+  },
+  {
+    "name": "Diognetus",
+    "osisID": "Diogn",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["Diogn"]
+  },
+  {
+    "name": "Apostles' Creed",
+    "osisID": "AposCreed",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["AposCreed"]
+  },
+  {
+    "name": "Fragments of Papias",
+    "osisID": "PapFrag",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["PapFrag"]
+  },
+  {
+    "name": "Reliques of the Elders",
+    "osisID": "RelElders",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["RelElders"]
+  },
+  {
+    "name": "Fragment of Quadratus",
+    "osisID": "QuadFrag",
+    "paratext": null,
+    "groups": ["Apostolic Fathers", "Apocrypha"],
+    "aliases": ["QuadFrag"]
+  },
+  {
+    "name": "Diatessaron",
+    "osisID": "TatDiat",
+    "paratext": null,
+    "groups": ["Apocrypha", "Apocrypha"],
+    "aliases": ["Tatian's Diatessaron", "Tatian"]
+  },
+  {
+    "name": "Metrical Psalms",
+    "osisID": "PsMet",
+    "paratext": "PSB",
+    "groups": ["Apocrypha", "Apocrypha"],
+    "aliases": ["PsMet", "PSB"]
+  },
+  {
+    "name": "1 Nephi",
+    "osisID": "1Ne",
+    "paratext": null,
+    "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
+    "aliases": [
+      "1Ne",
+      "1 Ne",
+      "1st Nephi",
+      "First Nephi",
+      "The First Book of Nephi",
+      "I Nephi"
+    ]
+  },
+  {
+    "name": "2 Nephi",
+    "osisID": "2Ne",
+    "paratext": null,
+    "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
+    "aliases": [
+      "2Ne",
+      "2 Ne",
+      "2nd Nephi",
+      "Second Nephi",
+      "The Second Book of Nephi",
+      "II Nephi"
+    ]
+  },
+  {
+    "name": "Jacob",
+    "osisID": "Jac",
+    "paratext": null,
+    "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
+    "aliases": ["Jac"]
+  },
+  {
+    "name": "Enos",
+    "osisID": "Enos",
+    "paratext": null,
+    "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
+    "aliases": ["Eno"]
+  },
+  {
+    "name": "Jarom",
+    "osisID": "Jar",
+    "paratext": null,
+    "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
+    "aliases": ["Jar"]
+  },
+  {
+    "name": "Omni",
+    "osisID": "Omni",
+    "paratext": null,
+    "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
+    "aliases": ["Omn"]
+  },
+  {
+    "name": "Words of Mormon",
+    "osisID": "WoM",
+    "paratext": null,
+    "groups": ["Book of Mormon", "LDS", "Mormon"],
+    "aliases": ["WoM"]
+  },
+  {
+    "name": "Mosiah",
+    "osisID": "Mosi",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["Mosi"]
+  },
+  {
+    "name": "Alma",
+    "osisID": "Alma",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["Alm"]
+  },
+  {
+    "name": "Helaman",
+    "osisID": "Hel",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["He", "Hlm", "Helm"]
+  },
+  {
+    "name": "3 Nephi",
+    "osisID": "3Ne",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["3 Ne", "3rd Nephi", "Third Nephi", "III Nephi"]
+  },
+  {
+    "name": "4 Nephi",
+    "osisID": "4Ne",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["4 Ne", "4th Nephi", "Fourth Nephi", "IV Nephi"]
+  },
+  {
+    "name": "Mormon",
+    "osisID": "Morm",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["Mmn", "Morm"]
+  },
+  {
+    "name": "Ether",
+    "osisID": "Eth",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["Eth"]
+  },
+  {
+    "name": "Moroni",
+    "osisID": "Moro",
+    "paratext": null,
+    "groups": [
+      "Book of Mormon",
+      "LDS",
+      "Mormon",
+      "Large Plates of Nephi",
+      "Abridgement"
+    ],
+    "aliases": ["Mni", "Moro"]
+  },
+  {
+    "name": "Moses",
+    "osisID": "Mos",
+    "paratext": null,
+    "groups": [
+      "Pearl of Great Price",
+      "Inspired Translation",
+      "Joseph Smith Translation",
+      "JST",
+      "Joseph Smith",
+      "LDS"
+    ],
+    "aliases": ["Mos"]
+  },
+  {
+    "name": "Abraham",
+    "osisID": "Abr",
+    "paratext": null,
+    "groups": [
+      "Pearl of Great Price",
+      "Inspired Translation",
+      "Joseph Smith Translation",
+      "JST",
+      "Joseph Smith",
+      "LDS"
+    ],
+    "aliases": ["Abr"]
+  },
+  {
+    "name": "Articles of Faith",
+    "osisID": "AofF",
+    "paratext": null,
+    "groups": ["Pearl of Great Price", "LDS", "Joseph Smith"],
+    "aliases": ["AofF"]
+  },
+  {
+    "name": "Joseph Smith History",
+    "osisID": "JSH",
+    "paratext": null,
+    "groups": [
+      "Pearl of Great Price",
+      "Inspired Translation",
+      "Joseph Smith Translation",
+      "JST",
+      "Joseph Smith",
+      "LDS"
+    ],
+    "aliases": ["JSH", "Joseph Smith--History"]
+  },
+  {
+    "name": "Joseph Smith Matthew",
+    "osisID": "JSM",
+    "paratext": null,
+    "groups": [
+      "Pearl of Great Price",
+      "Inspired Translation",
+      "Joseph Smith Translation",
+      "JST",
+      "Joseph Smith",
+      "LDS"
+    ],
+    "aliases": ["JSM", "Joseph Smith--Matthew"]
+  },
+  {
+    "name": "Doctrine & Covenants",
+    "osisID": "D&C",
+    "paratext": null,
+    "groups": ["Doctrine & Covenants", "LDS"],
+    "aliases": [
+      "The Doctrine & Covenants",
+      "Doctrine and Covenants",
+      "The Doctrine and Covenants",
+      "D&C"
+    ]
+  }
+]

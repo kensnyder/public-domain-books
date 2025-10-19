@@ -66,6 +66,10 @@ async function main() {
     for (const verse of verses) {
       const { ref, text } = work.handler(verse);
       const parts = ref.split(/[ :]/);
+      if (parts[1] === 'Prologue') {
+        parts[0] = 'Sirach Prologue';
+        parts[1] = '1';
+      }
       const verseNumber = parseInt(parts.pop(), 10);
       const chapterNumber = parseInt(parts.pop(), 10);
       const givenName = parts.join(' ');
