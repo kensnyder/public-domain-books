@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Esd.5",
+  "briefOverview": "Ezra is shown alarming end-time signs and is taught by the angel Uriel about the limits of human understanding regarding God’s judgment and timing.",
+  "summary": "The chapter opens with a catalogue of ominous signs: truth and faith will disappear, unrighteousness will surge, nature will behave chaotically, and wisdom will withdraw. Ezra faints at the vision but is strengthened by the angel, then fasts seven days as commanded. He prays, arguing from God’s pattern of electing a single choice (vine, lily, dove, Zion, Israel) and laments Israel’s humiliation among the nations. Uriel challenges Ezra’s capacity to comprehend divine judgment, illustrating human limits with impossible tasks (gathering raindrops, opening the chambers of the winds, picturing a voice). God likens judgment to a circle and insists creation cannot hasten beyond its design; like a womb that bears children in order and an aging body, the world yields generations in sequence and diminishing vigor. Ezra finally asks to be shown the agent through whom God will visit the creation.",
+  "externalContext": "2 Esdras (often called 4 Ezra in scholarly literature) is a Jewish apocalypse likely composed in the late first century CE, in the aftermath of Jerusalem’s destruction in 70 CE. Its dialogues between Ezra and the angel Uriel address theodicy, Israel’s suffering, and the timing of divine intervention, using stock apocalyptic signs and symbolic imagery. The use of Ezra, a figure from the Persian period, is pseudonymous, a common literary strategy to lend authority to later revelations. Fasting, mourning, and angelic instruction reflect Second Temple Jewish piety and apocalyptic revelation patterns.",
+  "externalReferences": "The cosmic portents (sun and moon darkened or inverted, stars falling) echo prophetic and apocalyptic imagery such as Isaiah 13:10, Isaiah 34:4, and Joel 2:31, later taken up in Jesus’ discourse (Matthew 24:29–31; Mark 13:24–25). “Blood shall drip from wood, and the stone shall utter its voice” recalls Habakkuk 2:11, where inanimate materials cry out against injustice. The “sea of Sodom” casting up fish evokes a reversal akin to Ezekiel 47:8–10, where the Dead Sea comes alive with fish in the eschatological restoration. The withdrawal of wisdom and the increase of lawlessness resonate with broader biblical motifs of a time of testing preceding divine judgment.",
+  "seeAlso": [
+    "Isaiah 13:10",
+    "Isaiah 34:4",
+    "Joel 2:31",
+    "Matthew 24:29-31",
+    "Mark 13:24-25",
+    "Habakkuk 2:11",
+    "Ezekiel 47:8-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Portents and hidden wisdom"
+    },
+    {
+      "range": "14-20",
+      "title": "Ezra’s distress and fast"
+    },
+    {
+      "range": "21-56",
+      "title": "Debate on time and judgment"
+    }
+  ],
+  "themes": [
+    "Eschatological signs",
+    "Hidden wisdom",
+    "Divine election",
+    "Human limitation",
+    "Time and creation"
+  ],
+  "practicalQuestions": [
+    "How should I live when truth seems hidden and wisdom scarce?",
+    "What practices (prayer, fasting, lament) help me seek understanding without presumption?",
+    "Where do I need to accept human limits and trust God’s timing rather than forcing outcomes?",
+    "How can a sense of divine election motivate humility and faithfulness rather than despair or pride?",
+    "What does faithful waiting look like amid moral chaos and social fracture?"
+  ],
+  "uncertainAreas": "The identity of the unexpected ruler (v. 6) and the figure “through whom” God visits creation (v. 56) are not specified. The referent of “the land which you now see ruling” (v. 3) and the timing marker “after the third period” (v. 4) are ambiguous. The phrase “sea of Sodom” (v. 7) likely refers to the Dead Sea, but the exact nuance of the sign is debated.",
+  "createdAt": "2025-10-19T02:01:19.897Z",
+  "modelId": "gpt-5-2025-08-07"
+}

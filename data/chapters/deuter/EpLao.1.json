@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "EpLao.1",
+  "briefOverview": "A short Pauline-style exhortation urging perseverance, unity, and discernment, framed by Paul’s imprisonment and joy in Christ.",
+  "summary": "Paul greets the believers in Laodicea with grace and peace, thanking Christ that they persevere and warning them against vain talkers who would turn them from the gospel. He notes his visible bonds for Christ and rejoices that, through their prayers and the Spirit’s ministry, his life or death will serve salvation, for to him life is in Christ and death is joy. He exhorts them to hold fast what they heard, to work in the fear of God while recognizing that God works in them, and to act without duplicity. They are to rejoice in Christ, beware of those greedy for gain, present their petitions openly to God, and practice what is sound, true, sober, just, and lovely. He promises peace, sends greetings, blesses them with grace, and instructs them to exchange this letter with the one to the Colossians.",
+  "externalContext": "In the New Testament world, Laodicea was a wealthy city in Asia Minor (near Colossae and Hierapolis) known for banking, textiles, and a medical school. Colossians 4:16 mentions a letter to Laodicea, which prompted interest in such a correspondence. The text commonly known as the Epistle to the Laodiceans is widely regarded by scholars as a later Latin pastiche of Pauline phrases rather than an authentic Pauline letter, likely compiled in late antiquity and transmitted in some medieval Vulgate manuscripts. Its themes and wording closely resemble passages in Philippians and other Pauline writings, reflecting a prison-letter setting and typical exhortations to unity, joy, and ethical living.",
+  "externalReferences": "Several lines echo Philippians: the joy in imprisonment and the sentiment “to live is Christ, and to die is gain/joy” mirror Philippians 1:12–21; the call to “work” in fear while affirming “it is God who works in you” reflects Philippians 2:12–13; and presenting requests to God and dwelling on what is true, just, and lovely parallels Philippians 4:6–8. Warnings about “vain talkers” and greed for “filthy lucre” resemble language in Titus 1:7–11 and 1 Timothy 3:3; 1 Peter 5:2 also warns leaders against shameful gain. The instruction to exchange letters with Colossae directly recalls Colossians 4:16, where letters are to be read in both communities.",
+  "seeAlso": [
+    "Philippians 1:12-21",
+    "Philippians 2:12-13",
+    "Philippians 4:6-8",
+    "Colossians 4:16",
+    "Titus 1:7-11",
+    "1 Timothy 3:3",
+    "1 Peter 5:2",
+    "Revelation 3:14-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Greeting and perseverance"
+    },
+    {
+      "range": "6-9",
+      "title": "Bonds and joy in Christ"
+    },
+    {
+      "range": "10-17",
+      "title": "Ethical exhortations and unity"
+    }
+  ],
+  "themes": [
+    "Perseverance",
+    "Unity",
+    "Joy in suffering",
+    "Prayer",
+    "Discernment"
+  ],
+  "practicalQuestions": [
+    "Where might I be swayed by persuasive but empty talk, and how can I anchor myself in the gospel I have received?",
+    "How does Paul’s joy in hardship challenge my approach to suffering and uncertainty?",
+    "Are my actions done sincerely and openly before God, without duplicity or selfish gain?",
+    "What practices help me stay of one mind in Christ with my community?",
+    "Do my prayers and thought life reflect what is true, just, and lovely?"
+  ],
+  "uncertainAreas": "The text is non-canonical and likely pseudepigraphal, which affects assumptions about authorship and historical setting. Verse 9 includes a variant phrase (“And unto him (or And also)”), making the precise sense unclear. The expression “do ye without afterthought whatsoever ye do” (v. 12) is ambiguous and may reflect a translation choice; its nuance (sincerity vs. lack of anxiety) is uncertain.",
+  "createdAt": "2025-10-19T02:52:26.492Z",
+  "modelId": "gpt-5-2025-08-07"
+}

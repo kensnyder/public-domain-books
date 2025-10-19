@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "1Macc.11",
+  "briefOverview": "The chapter narrates shifting Hellenistic power struggles and Jonathan’s deft diplomacy and warfare amid Seleucid turmoil. It highlights royal favors, betrayals, and Jonathan’s continued consolidation of Jewish autonomy and military strength.",
+  "summary": "Ptolemee advances along the coastal cities, turns against Alexander, allies with Demetrius, and after Alexander is killed by an Arabian chieftain, Demetrius II takes the throne. Jonathan continues besieging the Jerusalem tower, yet visits Demetrius at Ptolemais with gifts and is reconfirmed as high priest; Demetrius issues letters granting territorial and tax privileges to Judea and attached districts. Demetrius then dismisses most native troops, breeding discontent, while Tryphon promotes the boy Antiochus (Alexander’s son) as a rival. At Demetrius’ request Jonathan sends 3,000 men who rescue him in Antioch, but the king later proves ungrateful and alienates Jonathan. Tryphon triumphs and controls Antioch; young Antiochus VI confirms Jonathan’s high priesthood, expands his authority, and appoints Simon over the coast from the Ladder of Tyre to Egypt. Jonathan campaigns through Philistia and Syria, compels Gaza to terms, Simon captures Beth-zur, and Jonathan defeats a large force near Gennesar after praying and rallying his fleeing troops, killing about 3,000 and returning to Jerusalem.",
+  "externalContext": "These events occur during the mid-second century BCE, when the Seleucid Empire was fractured by civil wars following the reign of Antiochus IV. Alexander Balas claimed the Seleucid throne and married Cleopatra Thea, daughter of Ptolemy VI Philometor of Egypt; Ptolemy later switched allegiance to Demetrius II Nicator. The “hundred sixty-seventh year” reflects the Seleucid dating system (Seleucid Era 167 = 145/144 BCE). The Jerusalem “tower” refers to the Akra, a Seleucid fortress garrisoned by hostile forces within or near the city. Elephants and mercenaries were common features of Hellenistic warfare, and coastal cities like Joppa, Ptolemais, Ascalon, and Gaza were strategic hubs along the Syro-Phoenician littoral.",
+  "externalReferences": "The burnt temple of Dagon at Azotus recalls Jonathan’s earlier campaign against the city and its temple (1 Maccabees 10:84–87). The Jerusalem tower and hostile garrisons hark back to the Akra established after Antiochus IV’s suppression (1 Maccabees 1:33–36; 9:52). Demetrius’ reconfirmation of Jonathan’s high priesthood and tax relief echoes prior grants from Alexander Balas (1 Maccabees 10:18–20; 10:30–45). The mention of Dagon at Ashdod/Azotus also evokes the earlier Philistine cult scene in 1 Samuel 5:1–7, though here the focus is historical rather than polemical.",
+  "seeAlso": [
+    "1 Maccabees 10:18-20",
+    "1 Maccabees 10:30-45",
+    "1 Maccabees 10:84-87",
+    "1 Maccabees 1:33-36",
+    "1 Maccabees 9:52",
+    "1 Maccabees 12:39-48",
+    "1 Maccabees 13:43-48",
+    "1 Samuel 5:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-19",
+      "title": "Ptolemy turns on Alexander"
+    },
+    {
+      "range": "20-37",
+      "title": "Jonathan’s audience and privileges"
+    },
+    {
+      "range": "38-74",
+      "title": "Demetrius falters; Jonathan’s campaigns"
+    }
+  ],
+  "themes": [
+    "Political intrigue",
+    "Loyalty and betrayal",
+    "Divine aid",
+    "Autonomy and privilege",
+    "Warfare"
+  ],
+  "practicalQuestions": [
+    "When political allies prove unreliable, how should leaders safeguard their community’s interests without abandoning integrity?",
+    "What practices help a community remain united when internal factions act against it?",
+    "How can prayer and renewed resolve shape response after a demoralizing setback?",
+    "What boundaries should guide accepting favors from powerful rulers whose commitments may be unstable?",
+    "How can negotiated peace (e.g., hostages, terms) be balanced with justice and long-term trust?"
+  ],
+  "uncertainAreas": "The opening reference to Ptolemy’s journey “into Spain” seems textually anomalous for this context (likely Syria); I left it uncorrected but treated the broader coastal campaign as the narrative implies. The precise identification of the “four governments” granted to Jonathan is not specified here. Phrases like “beyond the water,” the exact locations of Nasor and Cades in Galilee, and the scope of Simon’s jurisdiction from the Ladder of Tyre to Egypt involve some geographic uncertainty in this translation.",
+  "createdAt": "2025-10-19T02:21:13.882Z",
+  "modelId": "gpt-5-2025-08-07"
+}

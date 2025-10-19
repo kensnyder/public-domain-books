@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Sir.12",
+  "briefOverview": "Counsel on discerning generosity and guarding against false friends and enemies.",
+  "summary": "The chapter urges readers to direct generosity toward the just and humble, warning against aiding the impious lest one enable harm and share in their ruin. It affirms that even if the recipient does not repay, the Lord will, while emphasizing that God opposes persistent evildoers but pities the repentant. The text counsels prudence: do not trust an enemy, no matter how humble his posture or sweet his words, and avoid placing him in positions of influence. Adversity exposes true loyalties, revealing hidden enemies and genuine friends. Enemies may feign tears and help while plotting harm, so vigilance and distance are necessary to avoid being ensnared.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom work composed in Hebrew in the early second century BCE by Jesus ben Sira in Jerusalem; it circulated widely in Greek via the Septuagint. Wisdom literature from this period often applies Torah-shaped ethics to everyday life, including relationships, money, speech, and piety. Almsgiving and care for the poor were central virtues in Second Temple Judaism, yet were framed by community responsibility and concern about enabling injustice. The sharp warnings against aiding the wicked reflect social realities of patronage and reciprocity, where assistance could empower harmful actors or implicate one in their wrongdoing.",
+  "externalReferences": "The promise that God will repay the generous echoes Proverbs 19:17 (“Whoever is generous to the poor lends to the LORD, and he will repay him”). The caution against joining sinners parallels Proverbs 1:10–15, which warns against being enticed into violence and theft. The portrayal of duplicitous enemies—smooth speech concealing hostility—resonates with Psalm 55:21. The assertion that God opposes evildoers and the expectation of divine retribution align with Psalm 5:5–6 and the broader biblical motif of a coming day of vengeance (Isaiah 61:2).",
+  "seeAlso": [
+    "Proverbs 19:17",
+    "Proverbs 1:10-15",
+    "Psalm 55:21",
+    "Psalm 5:5-6",
+    "Isaiah 61:2",
+    "Proverbs 14:20",
+    "Proverbs 19:4",
+    "Sirach 6:5-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Discernment in charity"
+    },
+    {
+      "range": "8-19",
+      "title": "Beware false friends and enemies"
+    }
+  ],
+  "themes": [
+    "Discernment",
+    "Charity",
+    "Prudence",
+    "Retribution",
+    "Friendship and enmity"
+  ],
+  "practicalQuestions": [
+    "How can I practice generosity that helps the vulnerable without empowering harmful behavior?",
+    "What criteria can I use to discern when to give, and when to withhold, in order to align with justice and mercy?",
+    "Where might I be overlooking signs of manipulation or false friendship because of flattering words or displays of emotion?",
+    "What boundaries should I set to prevent those with harmful intent from gaining influence in my life or community?",
+    "How do I hold together compassion for the repentant with a realistic appraisal of persistent wrongdoing?"
+  ],
+  "uncertainAreas": "The scope of “do not assist the sinner” is open to interpretation—whether it forbids all aid to morally compromised individuals or specifically warns against enabling ongoing injustice. Nuances may depend on translation (e.g., “receive from a sinner,” “impious”), and the intensity of statements like “the Most High hates sinners” must be read alongside the mention of divine pity for the repentant and broader scriptural tensions about loving enemies.",
+  "createdAt": "2025-10-19T03:02:23.542Z",
+  "modelId": "gpt-5-2025-08-07"
+}

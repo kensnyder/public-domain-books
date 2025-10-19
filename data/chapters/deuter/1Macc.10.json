@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "1Macc.10",
+  "briefOverview": "As Demetrius I and Alexander Balas vie for control, both court Jonathan; Alexander appoints him high priest, securing Jewish alliance and setting the stage for Jonathan’s military victories and expanding privileges.",
+  "summary": "Demetrius sends flattering letters to Jonathan, authorizing him to raise troops and releasing hostages, which enables Jonathan to secure Jerusalem and fortify the city while foreign garrisons withdraw, except at Beth-zur where lawbreakers remain. Alexander Balas then outbids Demetrius by naming Jonathan high priest and “king’s friend,” and Jonathan dons the holy vestments at the Feast of Tabernacles in the 160th year. Demetrius counters with sweeping promises—tax exemptions, control of the Jerusalem tower, liberation of Jewish captives, religious freedoms, funds for the temple and city walls, and Jewish units in royal service—but the Jews reject him, remembering his past harms, and remain allied with Alexander. Alexander defeats and kills Demetrius in battle, then forges alliance with Ptolemy of Egypt by marrying his daughter Cleopatra at Ptolemais; Jonathan honors both kings and is publicly vindicated against accusers, clothed in purple, and enrolled among the king’s chief friends. When Demetrius II arrives, Alexander appoints Apollonius to challenge Jonathan; Jonathan captures Joppa, then defeats Apollonius near Azotus by outlasting his cavalry and routing the foot soldiers, burning Azotus and its Dagon temple with about eight thousand slain. Returning with spoils, Jonathan is further honored by Alexander with a golden buckle and the grant of Ekron with its border.",
+  "externalContext": "This chapter unfolds amid a Seleucid civil war: Alexander Balas (claiming to be the son of Antiochus IV) contested Demetrius I for the throne, while Ptolemy VI Philometor of Egypt maneuvered to influence Syria via marriage diplomacy. The “160th year” follows the Seleucid era (roughly 152/151 BCE), and Jonathan’s investiture at the Feast of Tabernacles (Sukkot) in the seventh month would have been freighted with national-religious symbolism. The “tower” in Jerusalem likely refers to the Akra, a Seleucid stronghold housing a garrison and hostile elements. Coastal cities mentioned (Joppa, Jamnia, Azotus, Ascalon, Ekron) sit along the southern Levantine littoral, long associated with Philistia; Azotus (Ashdod) was historically a center of Dagon worship. Alexander’s bride “Cleopatra” is commonly identified with Cleopatra Thea, a royal figure who later played a significant role in Seleucid dynastic politics.",
+  "externalReferences": "Jonathan’s investiture occurs at the Feast of Tabernacles, the seven-day festival commanded in Leviticus 23:34–36 and Deuteronomy 16:13–15. The destruction of the Dagon temple at Azotus recalls biblical confrontations with Dagon and Philistine cultic sites (Judges 16:23–30; 1 Samuel 5:1–5). The royal grant of temple asylum (10:43) echoes episodes where individuals seek sanctuary by seizing the altar (1 Kings 1:50; 1 Kings 2:28), though here it functions within Hellenistic royal privilege rather than Mosaic jurisprudence.",
+  "seeAlso": [
+    "Leviticus 23:34-36",
+    "Deuteronomy 16:13-15",
+    "Judges 16:23-30",
+    "1 Samuel 5:1-5",
+    "1 Kings 1:50",
+    "1 Kings 2:28",
+    "1 Maccabees 9:28-73",
+    "1 Maccabees 11:1-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-21",
+      "title": "Rival overtures; high priesthood"
+    },
+    {
+      "range": "22-66",
+      "title": "Demetrius’ concessions and royal alliance"
+    },
+    {
+      "range": "67-89",
+      "title": "War with Apollonius; honors to Jonathan"
+    }
+  ],
+  "themes": [
+    "Political alliances",
+    "High priesthood",
+    "Autonomy and privilege",
+    "Military strategy",
+    "Reputation and honor"
+  ],
+  "practicalQuestions": [
+    "When competing powers offer incentives, how can a community discern which promises are credible and align with its long-term good?",
+    "What responsibilities accompany religious office when it is obtained through political appointment or patronage?",
+    "How might leaders convert political favor and resources into tangible protection and welfare for their people without compromising convictions?",
+    "What practices help resist slander and secure public vindication through integrity rather than counter-accusation?",
+    "What can Jonathan’s cautious tactics (endurance against provocation, timing, and discipline) teach about responding to threats today?"
+  ],
+  "uncertainAreas": "Verse 1 is absent in the provided text, so the initial setup is inferred from context. The identity of the “tower” in Jerusalem is likely the Akra, but the narrative mixes promises and later realities, making timing of actual control uncertain. The “three governments” added to Judea are not named here (elsewhere they are specified), and Seleucid-year conversions (160th, 162nd, 165th) depend on calendar assumptions. The exact import of the “golden buckle” as a badge of royal kinship is a courtly detail whose precise rank connotations may vary by source.",
+  "createdAt": "2025-10-19T02:19:58.056Z",
+  "modelId": "gpt-5-2025-08-07"
+}

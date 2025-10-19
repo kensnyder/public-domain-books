@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Jdt.11",
+  "briefOverview": "Judith presents a persuasive plan to Holofernes, claiming Israel will soon incur divine anger and offering to guide his victory.",
+  "summary": "Holofernes reassures Judith of safety and asks why she left her people. Judith flatters his power and skill, invokes Nebuchadnezzar’s universal rule, and affirms Achior’s claim that Israel cannot be defeated unless they sin against their God. She asserts that famine has driven the Judeans to plan violations of their laws—consuming forbidden foods and even sacred tithes and firstfruits—thereby provoking divine wrath. Judith proposes to remain in the camp, go out nightly to pray, and report the moment Israel sins so Holofernes can strike successfully; she even promises to lead him through Judah to Jerusalem. Her rhetoric impresses Holofernes and his servants, who praise her beauty and wisdom, and Holofernes promises honor if her plan succeeds.",
+  "externalContext": "Judith is set in a stylized, composite Near Eastern imperial context, presenting Nebuchadnezzar with exaggerated universal sovereignty—language reflective of ancient imperial propaganda. Siege warfare routinely produced famine and water scarcity, pressures that historically could tempt besieged populations to compromise religious norms. The Torah restricts consumption of consecrated offerings and distinguishes clean from unclean foods; only priests could lawfully consume certain sacred portions. Judith’s appeal leverages this framework: if Israel violates cultic laws under duress, covenantal protection would, by their own tradition, be forfeit.",
+  "externalReferences": "Judith explicitly builds on Achior’s earlier testimony that Israel is invincible unless it sins (Judith 5:5–21; 6:1–14). Her claims about firstfruits, tithes, and the sanctity of priestly portions echo laws such as Numbers 18:8–19, Deuteronomy 18:1–5, and Leviticus 22:2–7. Her imagery of Israel as sheep without a shepherd recalls Numbers 27:17 and 1 Kings 22:17. The line about “a dog shall not so much as open his mouth” echoes and inverts Exodus 11:7, intensifying the rhetorical effect.",
+  "seeAlso": [
+    "Judith 5:5-21",
+    "Judith 6:1-14",
+    "Numbers 18:8-19",
+    "Leviticus 22:2-7",
+    "Deuteronomy 14:22-29",
+    "Deuteronomy 18:1-5",
+    "Numbers 27:17",
+    "1 Kings 22:17",
+    "Exodus 11:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Holofernes Receives Judith"
+    },
+    {
+      "range": "5-19",
+      "title": "Judith’s Persuasive Proposal"
+    },
+    {
+      "range": "20-23",
+      "title": "Holofernes Impressed and Promises Honor"
+    }
+  ],
+  "themes": [
+    "Strategic persuasion",
+    "Covenant obedience",
+    "Sanctified offerings",
+    "Divine providence"
+  ],
+  "practicalQuestions": [
+    "When resources are scarce, how do we maintain faithfulness to our core convictions without capitulating to fear?",
+    "What is the ethical line between shrewd persuasion and deception in service of a just cause?",
+    "How does reverence for sacred commitments and offerings translate into contemporary practices of integrity and stewardship?",
+    "How can wise speech dismantle hostility and create opportunity in adversarial settings?",
+    "What criteria help us discern when timing and patience are essential to success?"
+  ],
+  "uncertainAreas": "It is unclear whether Judith’s report about the Judeans’ imminent transgressions is factual or part of her strategic deception. The extent to which she literally expects divine foreknowledge to guide her movements versus using that claim to gain Holofernes’s trust is also ambiguous.",
+  "createdAt": "2025-10-19T02:49:00.353Z",
+  "modelId": "gpt-5-2025-08-07"
+}

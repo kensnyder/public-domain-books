@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "AddEsth.10",
+  "briefOverview": "Mordecai interprets his earlier dream as fulfilled in Esther’s rise and Israel’s deliverance, attributing the outcome to God and instituting ongoing celebration.",
+  "summary": "Mordecai declares that the events have come from God and that his prior dream has been fulfilled. He identifies the tiny spring becoming a river as Esther, and the two dragons as Haman and himself, with the nations gathered against Israel. Israel cried to God and was saved, with God performing great signs and wonders. He speaks of two lots—one for God’s people and one for the nations—coming to a divinely appointed decision. God remembered and vindicated his inheritance. Therefore, the people are to observe the days of Adar 14 and 15 with joy before God, perpetually.",
+  "externalContext": "The “Additions to Esther” are Greek expansions preserved in the Septuagint that emphasize God’s providence, prayer, and explicit religious motivation, in contrast to the Hebrew Masoretic text where God is not named. This passage functions as a theological epilogue, clarifying divine agency behind the deliverance. In Jewish practice, Purim commemorates the events of Esther with feasting and remembrance on the 14th of Adar, while walled cities (like ancient Susa/Shushan) celebrate on the 15th (often called “Shushan Purim”). The Greek text also frames the narrative through visionary material (Mordecai’s dream) and interpretive speeches to underscore God’s sovereignty.",
+  "externalReferences": "The reference to “lots” recalls Haman’s casting of lots (pur) to fix the date of destruction (Esther 3:7), inverted here as part of God’s providential timing. The call to observe Adar 14–15 echoes the institution of Purim in Esther 9:20–22. Mordecai’s dream interpretation corresponds to the earlier dream found in the Greek additions (commonly designated Addition A). The phrase “God remembered his people” resonates with biblical language of divine remembrance and deliverance (e.g., Exodus 2:24).",
+  "seeAlso": [
+    "Esther 3:7",
+    "Esther 9:20-22",
+    "Exodus 2:24",
+    "Deuteronomy 6:22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Dream fulfilled; God delivers"
+    },
+    {
+      "range": "7-10",
+      "title": "Two lots and perpetual Purim"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Deliverance",
+    "Fulfilled vision",
+    "Remembrance"
+  ],
+  "practicalQuestions": [
+    "How can I practice regular remembrance of deliverance and gratitude in my community life?",
+    "What safeguards help me interpret personal experiences or “signs” without presumption, keeping them accountable to communal wisdom and Scripture?",
+    "In what ways can I mark times of rescue or answered prayer with fitting celebration and generosity?",
+    "How do I respond when opposition seems overwhelming—do I turn to prayer and communal solidarity as Israel did?"
+  ],
+  "uncertainAreas": "The exact mapping of this “chapter 10” to other numbering systems for the Greek additions (e.g., Addition A/F, or Vulgate numbering) can vary, and the identity of the agent who “made two lots” (explicitly God here) may be interpreted differently across traditions or translations.",
+  "createdAt": "2025-10-19T02:38:31.165Z",
+  "modelId": "gpt-5-2025-08-07"
+}

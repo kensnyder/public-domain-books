@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Macc.6",
+  "briefOverview": "The chapter narrates the desecration of the Jerusalem temple and coercive Hellenization under royal decrees, then highlights Eleazar’s martyrdom as exemplary faithfulness. The narrator frames the nation’s suffering as divine discipline rather than abandonment.",
+  "summary": "The temple in Jerusalem is profaned and renamed for Jupiter Olympius, with Gentile revelry, unlawful offerings, and bans on Sabbath-keeping, circumcision, and open Jewish identity. Jews are forced to participate in royal and Bacchic rites, with death threatened for noncompliance; atrocities include the execution of mothers who circumcised their sons and the burning of Sabbath observers hiding in caves. The author urges readers not to lose heart, interpreting these punishments as God’s chastening of Israel, a sign of mercy aimed at preventing their sins from reaching full measure. Eleazar, an elderly scribe, refuses to eat pork or even pretend to do so by substituting permitted meat, fearing he would mislead the young and offend God. He chooses torture and death over compromise, testifying that he suffers bodily pain but is inwardly content out of reverence for God. His death is presented as a model of courage and virtue for the entire nation.",
+  "externalContext": "These events are set in the reign of Antiochus IV Epiphanes (175–164 BCE), whose policies attempted to standardize Hellenistic culture and royal cult across his territories, including Judea. Renaming the Jerusalem temple for Zeus (Jupiter) Olympios reflects this Hellenization, as does the enforcement of participation in Dionysian (Bacchic) processions and royal birthday observances. Mount Gerizim, sacred to Samaritans, is here associated with a temple designated for Zeus Xenios, reflecting local dynamics under Seleucid rule. Monthly royal birthday honors and civic cult processions were common in Hellenistic cities, and refusal could be treated as disloyalty to the king. The text’s focus on circumcision, Sabbath, and dietary laws highlights key identity markers under threat in this period.",
+  "externalReferences": "The coercive decrees, temple desecration, and punishments parallel 1 Maccabees 1:41–64 and the account of a Sabbath massacre in 1 Maccabees 2:29–38. The “abomination” and profanation of the sanctuary resonate with Daniel 8:11–13 and 11:31–35. Eleazar’s martyrdom is elaborated in 4 Maccabees 5:1–6:30 and stands alongside the next chapter’s seven brothers (2 Maccabees 7:1–42), with the ethos of faithful suffering echoed in Hebrews 11:35–38; his refusal to eat swine accords with Leviticus 11:7–8 and Deuteronomy 14:8.",
+  "seeAlso": [
+    "1 Maccabees 1:41-64",
+    "1 Maccabees 2:29-38",
+    "2 Maccabees 5:11-26",
+    "2 Maccabees 7:1-42",
+    "Daniel 8:11-13",
+    "Daniel 11:31-35",
+    "Leviticus 11:7-8",
+    "Deuteronomy 14:8",
+    "4 Maccabees 5:1-6:30",
+    "Hebrews 11:35-38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-11",
+      "title": "Desecration and coercion"
+    },
+    {
+      "range": "12-17",
+      "title": "Suffering as discipline"
+    },
+    {
+      "range": "18-31",
+      "title": "Eleazar’s noble martyrdom"
+    }
+  ],
+  "themes": [
+    "Persecution",
+    "Covenant fidelity",
+    "Martyrdom",
+    "Divine discipline",
+    "Temple desecration"
+  ],
+  "practicalQuestions": [
+    "When do seemingly small compromises risk misleading others about our deepest commitments?",
+    "How might viewing hardship as God’s discipline (rather than abandonment) change our response to pressure or loss?",
+    "What responsibilities do elders and leaders have to model integrity for younger generations?",
+    "Are there situations where public refusal is more faithful than private workaround, and how do we discern them?",
+    "How can communities support those who face coercion to violate conscience?"
+  ],
+  "uncertainAreas": "The identity of “Ptolemee” in verse 8 (which Ptolemy is intended) is not explicit; likewise, “Philip” may refer to the governor mentioned earlier (2 Maccabees 5:22), but the text here assumes prior knowledge. The precise scope and timing of decrees relative to local enforcement are not detailed in this chapter. The translation of Greco-Roman divine titles (Jupiter Olympius, Jupiter the Defender of strangers) may compress nuanced cultic distinctions.",
+  "createdAt": "2025-10-19T02:29:51.788Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Macc.9",
+  "briefOverview": "Antiochus IV is struck by a divinely sent disease that humiliates him, prompts crisis vows and a conciliatory letter to the Jews, and ends in his miserable death and succession arrangements.",
+  "summary": "After a failed attempt to plunder the temple at Persepolis, Antiochus hears of setbacks involving his commanders and, enraged, vows to turn Jerusalem into a mass grave. God strikes him with an incurable, internal torment; he falls from his chariot, becomes wracked with pain, and his body decays with worms and stench, displaying divine power to all. Humbled by suffering, he acknowledges God and vows to favor Jerusalem, restore the temple, elevate the Jews’ status, and even become a Jew himself. Despite these vows his pain continues, and he sends a letter to the Jews wishing them well, noting his illness, and announcing his son Antiochus as successor. He urges the Jews to remain faithful to him and his son, claiming goodwill toward them. The narrative concludes that the blasphemer dies miserably in a foreign land, and Philip, reared with him, transports the body and flees to Egypt to Ptolemy Philometor.",
+  "externalContext": "Antiochus IV Epiphanes (ruled 175–164 BCE) was a Seleucid king whose policies of Hellenization and desecration of the Jerusalem temple (167 BCE) sparked the Maccabean revolt. Persepolis and Ecbatana were prominent cities in Persia and Media, indicating Antiochus was campaigning in the eastern regions of his empire when these events occurred. The motif of a ruler struck with a wasting disease as divine retribution was a familiar ancient theme used to interpret political events theologically. Antiochus’s named successor here is his son (Antiochus V Eupator), who historically reigned briefly with a regency. Ptolemy VI Philometor was the contemporary Ptolemaic ruler of Egypt, a regional power and frequent Seleucid rival.",
+  "externalReferences": "This account contrasts with 1 Maccabees 6:1–17, which also reports Antiochus’s death but with different details and emphasis. The background of Antiochus’s offenses against Jerusalem appears earlier in 2 Maccabees 5:11–16, while the defeats and actions of his generals Nicanor and Timotheus are recounted in 2 Maccabees 8:30, 34–36. The description of a proud ruler struck by God and ravaged by worms echoes the judgment on Herod Agrippa I in Acts 12:21–23 and resonates with broader biblical portrayals of arrogant kings humbled by divine judgment (Isaiah 14:13–15; Daniel 5).",
+  "seeAlso": [
+    "1 Maccabees 6:1-17",
+    "2 Maccabees 5:11-16",
+    "2 Maccabees 8:30",
+    "2 Maccabees 8:34-36",
+    "Acts 12:21-23",
+    "Isaiah 14:13-15",
+    "Daniel 5:18-30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-8",
+      "title": "Divine blow and fall"
+    },
+    {
+      "range": "9-17",
+      "title": "Humbled vows and claims"
+    },
+    {
+      "range": "18-29",
+      "title": "Royal letter and death"
+    }
+  ],
+  "themes": [
+    "Divine retribution",
+    "Pride humbled",
+    "Sovereignty of God",
+    "Crisis repentance"
+  ],
+  "practicalQuestions": [
+    "Where might pride or boasting be blinding me to my limits and God’s authority?",
+    "How should I evaluate promises or reforms made under pressure or suffering—both in myself and in leaders?",
+    "What does it look like to acknowledge God sincerely rather than only when desperate?",
+    "How do communities respond wisely when former adversaries seek reconciliation?",
+    "In what ways can public reversals of fortune prompt self-knowledge and humility?"
+  ],
+  "uncertainAreas": "There are differing ancient accounts of Antiochus’s final illness and death (e.g., 1 Maccabees 6), making precise chronology and locales challenging. The authenticity and exact historical form of the royal letter could be debated, as the chapter presents it within a theological narrative. The identification of the specific “Timotheus” referenced is uncertain due to multiple figures with that name in the Maccabean conflicts. The political dynamics behind Philip’s actions and flight to Ptolemy Philometor are only briefly noted and not fully explained here.",
+  "createdAt": "2025-10-19T02:31:52.721Z",
+  "modelId": "gpt-5-2025-08-07"
+}

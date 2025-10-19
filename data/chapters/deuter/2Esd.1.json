@@ -1,0 +1,55 @@
+{
+  "chapterOsisID": "2Esd.1",
+  "briefOverview": "God indicts Israel and Judah for forgetting his past deliverances and rejecting his prophets, announcing judgment and the transfer of his name to a future people who will believe. The chapter rehearses Exodus-era mercies to expose ingratitude and foresees a community from the east led by ancestral figures and prophets.",
+  "summary": "After introducing Ezra’s priestly lineage and stating that the word of the Lord came to him, the chapter records a divine summons to proclaim Israel’s and their children’s sins. God recounts the exodus and wilderness provisions—deliverance from Egypt, the Red Sea crossing, guidance by fire, manna and quail, water from the rock, and the sweetening of bitter water—contrasting these mercies with the people’s complaints and disobedience. He laments their refusal to heed his law and their killing of the prophets, declaring that he will reject their offerings and not hear their prayers. As judgment, God announces he will forsake them and give his name and houses to another people who, though lacking signs and prophets, will believe and keep his statutes. He bears witness to the gratitude and spiritual faith of this coming people. The chapter ends with a vision of people arriving from the east, to whom God will give leaders—Abraham, Isaac, Jacob, and a roster of the Twelve Minor Prophets, concluding with Malachi.",
+  "externalContext": "2 Esdras is a composite work preserved mainly in Latin; many scholars view chapters 1–2 (often called 5 Ezra) as later, likely Christian, additions to a Jewish apocalyptic core (4 Ezra, chapters 3–14), with final redaction between the late first and third centuries CE. The book is pseudepigraphal, attributing its revelations to Ezra to invoke priestly authority and post-exilic memory. The rhetoric of covenant transfer to other nations and faith without seeing resonates with early Christian themes in the context of the Gentile mission after the destruction of the Second Temple (70 CE). The chapter’s heavy use of Exodus traditions reflects the centrality of the wilderness narrative as a paradigm for God’s saving acts and Israel’s recurring infidelity.",
+  "externalReferences": "The wilderness and exodus motifs echo specific events: deliverance from Egypt and the Red Sea (Exodus 12–14), the pillar of fire (Exodus 13:21–22), manna and quail (Exodus 16; Numbers 11), water from the rock (Exodus 17:6; Numbers 20:11), and the sweetening of Marah’s bitter water by a tree (Exodus 15:23–25). The denunciation of rejected festivals and new moons recalls prophetic critiques of empty ritual (Isaiah 1:13–14; Amos 5:21). The charge that the people killed God’s prophets is a recurring biblical theme (2 Chronicles 36:16; Nehemiah 9:26), and the maternal image of gathering like a hen with the pronouncement of desolation parallels Jesus’ lament over Jerusalem (Matthew 23:37–38; Luke 13:34–35). The idea of God turning to a people who did not previously seek him is akin to Isaiah 65:1 and is later applied to Gentile inclusion (Romans 10:20).",
+  "seeAlso": [
+    "Exodus 13:21-22",
+    "Exodus 14:21-31",
+    "Exodus 15:23-25",
+    "Exodus 16:13-15",
+    "Numbers 11:31-34",
+    "Exodus 17:6",
+    "Psalm 78:24-25",
+    "Isaiah 1:13-14",
+    "Amos 5:21",
+    "2 Chronicles 36:16",
+    "Nehemiah 9:26",
+    "Matthew 23:37-38",
+    "Luke 13:34-35",
+    "Isaiah 65:1",
+    "Romans 10:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Ezra’s lineage and call"
+    },
+    {
+      "range": "4-23",
+      "title": "Mercies recalled, rebellion exposed"
+    },
+    {
+      "range": "24-40",
+      "title": "Judgment and a people to come"
+    }
+  ],
+  "themes": [
+    "Covenant unfaithfulness",
+    "Divine mercy and judgment",
+    "Prophets rejected",
+    "Remembering salvation history",
+    "Nations included"
+  ],
+  "practicalQuestions": [
+    "How can communities cultivate practices of remembrance so gratitude, not complaint, defines their relationship with God?",
+    "In what ways might religious observances become empty if they are divorced from obedience and justice?",
+    "How do we respond when corrected by prophetic critique—defensiveness or repentance?",
+    "Where might we be resisting God’s call while presuming on past blessings?",
+    "How should the prospect of God working among unexpected people groups shape our humility and openness?"
+  ],
+  "uncertainAreas": "The identity of the “people coming from the east” is unclear—whether a restored Israelite remnant, Gentile believers, or a symbolic composite. It is also uncertain whether the named leaders (patriarchs and the Twelve Minor Prophets) indicate literal end-time leadership, a visionary procession, or a literary way of validating the future community. The extent and intention of the chapter’s possible Christian redaction influence how strongly one reads the covenant-transfer language as Gentile inclusion.",
+  "createdAt": "2025-10-19T01:57:15.322Z",
+  "modelId": "gpt-5-2025-08-07"
+}

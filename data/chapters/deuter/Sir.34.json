@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.34",
+  "briefOverview": "Sirach contrasts unreliable dreams and divinations with tested wisdom rooted in the law, then insists that true worship requires justice, not exploitative offerings.",
+  "summary": "The chapter warns that dreams, divinations, and lying visions mislead unless they are a clear visitation from the Most High; the reliable guide is the law and wisdom voiced by the faithful. The author commends experience and testing as the path to understanding, noting his own deliverances by God. He extols the security of those who fear the Lord, whose hope is in God’s providential care and protection. God watches over such people as their protector and giver of life and blessing. The text then condemns sacrifices offered by the unjust, especially offerings gained by oppressing the poor or withholding wages, declaring such worship abhorrent. It concludes that ritual acts like fasting or purifying are worthless if one returns to the same sins, paralleling washing only to touch the source of impurity again.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in Hebrew in early second-century BCE Jerusalem by Jesus ben Sira and later translated into Greek by his grandson. In the wider ancient Near Eastern world, dreams and omens were often used for guidance, but Israel’s tradition warned against divination and emphasized the Torah as the primary norm. Israel’s law and prophets repeatedly tied acceptable worship to ethical conduct, particularly justice toward the poor and laborers, and prohibited exploiting them. Purity laws around contact with the dead (e.g., using the ashes of a red heifer) governed ritual cleanness, but these were never a substitute for moral integrity.",
+  "externalReferences": "The critique of dreams and divination aligns with prohibitions in Deuteronomy 18:10–12 and prophetic warnings against deceptive dreams (Jeremiah 23:25–32; Zechariah 10:2). The claim that God rejects the sacrifices of the unjust echoes Proverbs 15:8; 21:27 and the prophetic insistence that justice outweighs ritual (Isaiah 1:11–17; Amos 5:21–24; Proverbs 21:3). Condemnations of cheating workers and depriving the poor reflect Leviticus 19:13 and Deuteronomy 24:14–15, a concern echoed later in James 5:4. The image of washing after contact with the dead and then touching again recalls Numbers 19:11–22, highlighting the futility of ritual without change of behavior.",
+  "seeAlso": [
+    "Deuteronomy 18:10-12",
+    "Jeremiah 23:25-32",
+    "Zechariah 10:2",
+    "Proverbs 15:8",
+    "Proverbs 21:3",
+    "Isaiah 1:11-17",
+    "Amos 5:21-24",
+    "Leviticus 19:13",
+    "Deuteronomy 24:14-15",
+    "Numbers 19:11-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Dreams versus reliable wisdom"
+    },
+    {
+      "range": "9-20",
+      "title": "Tested experience and God’s care"
+    },
+    {
+      "range": "21-31",
+      "title": "Justice required for true worship"
+    }
+  ],
+  "themes": [
+    "Discernment",
+    "Fear of the Lord",
+    "Justice and worship",
+    "Integrity"
+  ],
+  "practicalQuestions": [
+    "How do I distinguish between anxious imagination and genuine guidance that aligns with God’s revealed instruction?",
+    "Where have tests and failures taught me prudence, and how can I seek wisdom from the experienced?",
+    "Does my religious devotion align with fair treatment of the poor and workers I influence?",
+    "Am I relying on rituals or resolutions without pursuing genuine repentance and change?",
+    "In fearful situations, how can I actively place my hope in God rather than in superstitious assurances?"
+  ],
+  "uncertainAreas": "A few phrases are ambiguous: whether 34:6 implies any reliable role for dreams beyond rare divine visitations; how to read 34:11 (“He who has been deceived will be more cunning”)—whether as practical shrewdness gained from hardship or a warning about becoming crafty; and the precise nuance of 34:21 (“immolation from iniquity”) given translation differences. Verse numbering and phrasing can vary across versions, affecting boundaries and nuances.",
+  "createdAt": "2025-10-19T03:14:55.389Z",
+  "modelId": "gpt-5-2025-08-07"
+}

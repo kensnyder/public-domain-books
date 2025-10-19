@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "1Macc.16",
+  "briefOverview": "John leads a victorious campaign against Cendebeus, then survives a coup in which Simon and two of his sons are assassinated, marking a transition of Hasmonean leadership.",
+  "summary": "Simon appoints his sons Judas and John to lead forces against the Seleucid commander Cendebeus. Crossing a brook and sounding the holy trumpets, John arranges his troops and routs the enemy, burning towers near Azotus and returning to Judea in peace.\n\nAfterward, Ptolemy son of Abubus—Simon's son‑in‑law and captain in the Jericho plain—plots to seize power. He invites Simon and two sons (Mattathias and Judas) to a banquet at Docus and murders them treacherously. Ptolemy then seeks royal support, attempts to kill John at Gazara, and moves to seize Jerusalem and the temple mount. Warned in time, John executes the assassins sent against him. The chapter closes by referring readers to chronicles of John’s priesthood for further details.",
+  "externalContext": "The events occur late in the Hasmonean (Maccabean) revolt against Seleucid rule. Simon, the last surviving son of Mattathias, had secured Judean autonomy and served as both high priest and ethnarch. The “177th year” likely uses the Seleucid era (starting 312/311 BCE), placing Simon’s assassination around Shebat (Jan–Feb) of 135/134 BCE. John referenced here is John Hyrcanus I, who would go on to rule and expand Hasmonean control. Cendebeus was a Seleucid commander on the coastal plain, and Azotus (Ashdod) was a Philistine/Hellenistic city on the Mediterranean coast.",
+  "externalReferences": "The use of “holy trumpets” in battle echoes the Torah’s instruction that priests blow trumpets when Israel goes to war, invoking God’s remembrance and aid (Numbers 10:8–10; cf. 10:9). Trumpets also recall Israel’s earlier victories associated with sacred signals (Joshua 6:4–20).\n\nCendebeus’s role continues from the prior chapter’s notice of his appointment to harass Judea (1 Maccabees 15:38–41). The burning of structures near Azotus recalls earlier Hasmonean actions in that region (1 Maccabees 10:84–87). The banquet‑betrayal motif resonates with the lament of betrayal by one who shared bread (Psalm 41:9).",
+  "seeAlso": [
+    "Numbers 10:8-10",
+    "Joshua 6:4-20",
+    "1 Maccabees 15:38-41",
+    "1 Maccabees 10:84-87",
+    "Psalm 41:9",
+    "1 Samuel 5:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-10",
+      "title": "John defeats Cendebeus"
+    },
+    {
+      "range": "11-20",
+      "title": "Ptolemy’s treacherous coup"
+    },
+    {
+      "range": "21-24",
+      "title": "John warned; leadership affirmed"
+    }
+  ],
+  "themes": [
+    "Leadership succession",
+    "Betrayal",
+    "Divine aid",
+    "Courage in battle",
+    "Political intrigue"
+  ],
+  "practicalQuestions": [
+    "What does leading by example look like when others hesitate, as when John crossed the brook first?",
+    "How should leaders prepare for succession while guarding against internal betrayal?",
+    "When is it wise to trust hospitality and when should vigilance prevail?",
+    "How can communities seek divine help without presuming on it in moments of conflict?",
+    "What safeguards can prevent concentration of power from breeding arrogance and treachery?"
+  ],
+  "uncertainAreas": "The identification of “Cedron” (possibly Kidron) and the exact location of Docus are not explicit in the text. The precise conversion of the Seleucid year 177 to 135/134 BCE involves calendrical nuances. The identity of the “king” to whom Ptolemy wrote is not named here (likely Antiochus VII), and the final reference to chronicles suggests a source now lost.",
+  "createdAt": "2025-10-19T02:25:17.377Z",
+  "modelId": "gpt-5-2025-08-07"
+}

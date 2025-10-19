@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.5",
+  "briefOverview": "A wisdom teacher warns against presuming on wealth or divine mercy and urges prompt repentance, integrity, and measured speech. The chapter closes by commending impartial justice toward both the lowly and the great.",
+  "summary": "The teacher cautions against seeking unjust gain and boasting in self-sufficiency, since such wealth and pride are useless in the day of retribution. He rebukes presumption—thinking sin brings no consequences or that God’s compassion excuses continued sin—and urges immediate conversion because judgment can come suddenly. Readers are told not to be fickle or duplicitous but to be steadfast in the Lord’s way, speaking with peace and justice. They should listen meekly, answer only when informed, and restrain their tongues to avoid disgrace from gossip or double-speaking. The chapter ends with an appeal to impartiality: treat the small and the great alike in judgment.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book composed in Hebrew by Ben Sira in early second-century BCE Jerusalem and later translated into Greek by his grandson (c. 132 BCE). It functions like a sapiential manual for students and community leaders, blending practical ethics with a theology of divine justice. The chapter’s emphasis on swift judgment and retribution reflects the period’s conventional wisdom theme that God governs moral order, even if consequences are not immediate. Agricultural and legal images (winnowing, impartial judgment) would resonate in a society built on farming and local courts, where reputation and speech could make or break communal trust.",
+  "externalReferences": "The warning that wealth cannot save in the day of judgment parallels Proverbs 11:4. The counsel to repent without delay echoes Isaiah 55:6–7 and resonates with Ecclesiastes 8:11, which observes that delayed punishment emboldens wrongdoing. The restraint of speech and readiness to listen align with Proverbs 17:27–28 and James 1:19, while the condemnation of slander and partiality reflects Leviticus 19:16 and Leviticus 19:15.",
+  "seeAlso": [
+    "Proverbs 11:4",
+    "Isaiah 55:6-7",
+    "Ecclesiastes 8:11",
+    "Proverbs 17:27-28",
+    "James 1:19",
+    "Leviticus 19:16",
+    "Leviticus 19:15",
+    "Ephesians 4:14",
+    "1 Timothy 3:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Do not presume; repent now"
+    },
+    {
+      "range": "11-16",
+      "title": "Steadfastness and guarded speech"
+    },
+    {
+      "range": "17-18",
+      "title": "Perils of gossip; impartial justice"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Divine justice",
+    "Wealth’s limits",
+    "Prudent speech",
+    "Impartiality"
+  ],
+  "practicalQuestions": [
+    "Where might I be presuming on God’s mercy instead of changing course today?",
+    "Are any of my financial pursuits compromising justice or integrity?",
+    "How can I build habits of listening before speaking, especially when I’m unsure?",
+    "Do my words foster peace and fairness, or do they spread gossip and division?",
+    "In decisions I influence, do I treat the powerless and the powerful by the same standard?"
+  ],
+  "uncertainAreas": "The phrase “Justify the small and the great similarly” (v.18) may mean impartial judgment, but “justify” could be read as acquit or vindicate, creating interpretive nuance. The note “[Sirach 6]” suggests a textual or editorial boundary that may vary by tradition. The metaphor “winnow in every wind” (v.11) likely warns against fickleness or opportunism, but the precise nuance (doctrinal instability vs. moral inconsistency) is not explicit.",
+  "createdAt": "2025-10-19T02:58:24.679Z",
+  "modelId": "gpt-5-2025-08-07"
+}

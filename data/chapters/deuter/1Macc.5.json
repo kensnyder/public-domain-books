@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "1Macc.5",
+  "briefOverview": "Judas Maccabeus and his brothers mount rescue campaigns for threatened Jewish communities on multiple fronts and punish hostile neighbors, while emphasizing obedience to leadership.",
+  "summary": "In response to coordinated threats against Israelites living among surrounding peoples, Judas strikes first in Idumea, punishes hostile groups like the children of Baean, and defeats the Ammonites under Timotheus. Appeals for help then arrive from Gilead and Galilee; Judas assigns Simon to Galilee and himself with Jonathan to Gilead, while ordering those left in Judea not to engage in battle. Simon wins in Galilee and escorts Jewish families and possessions back to Judea, while Judas crosses the Jordan, takes fortified cities, routs Timotheus’s forces, burns the temple at Carnaim, and gathers the Israelites of Gilead for relocation. Blocked at the fortified city of Ephron, Judas negotiates, is refused, assaults the city, and forces a passage, bringing a large caravan safely to Jerusalem with thanksgiving offerings. Meanwhile, Joseph son of Zacharias and Azarias disobey orders by attempting their own campaign and are defeated by Gorgias, causing heavy losses and serving as a cautionary example. The chapter closes with further victories by Judas in the south against Idumea and in Philistine territory, including the destruction of altars and images at Azotus, and a note about priests who died for fighting rashly.",
+  "externalContext": "1 Maccabees recounts events in the mid-2nd century BCE during the Maccabean revolt against Seleucid rule and local collaborators, when Jewish communities outside Judea often faced reprisals. Idumea (Edom), Ammon, and Gilead lie south and east of Judea and the Jordan River, while Galilee and Philistine cities such as Azotus (Ashdod) lie to the north and west, showing the revolt’s regional scope. The Nabateans, mentioned as peaceful informants, were Arabian traders controlling routes east and south of the Dead Sea. Timotheus was likely a local commander allied with Seleucid interests; Gorgias appears in earlier battles as a Seleucid general.",
+  "externalReferences": "Gorgias, who defeats Joseph and Azarias here, is the same general opposed by Judas earlier (1 Maccabees 4:1–25). Parallels to Judas’s operations in Gilead and against coastal cities appear in 2 Maccabees 12:10–31, though that account includes differing details and emphases. The destruction of altars and images at Azotus echoes Deuteronomic commands to eradicate idolatrous sites (Deuteronomy 12:2–3). The foes called “children of Esau” align with the biblical identification of Esau’s descendants as Edom/Idumea (Genesis 36:8–9), and Carnaim is often associated with Ashteroth Karnaim in Bashan (Genesis 14:5).",
+  "seeAlso": [
+    "1 Maccabees 4:1-25",
+    "2 Maccabees 12:10-31",
+    "Deuteronomy 12:2-3",
+    "Genesis 36:8-9",
+    "Genesis 14:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-23",
+      "title": "Calls for aid; forces divided"
+    },
+    {
+      "range": "24-54",
+      "title": "Gilead campaign and evacuation"
+    },
+    {
+      "range": "55-68",
+      "title": "Disobedience punished; southern wins"
+    }
+  ],
+  "themes": [
+    "Deliverance of brethren",
+    "Obedience vs presumption",
+    "Zeal against idolatry",
+    "Leadership and strategy"
+  ],
+  "practicalQuestions": [
+    "How do communities prioritize rescuing and supporting vulnerable members under threat?",
+    "What safeguards help leaders and subordinates maintain discipline and avoid rash, unauthorized actions?",
+    "When is bold initiative wise, and when does prudence require restraint and coordination?",
+    "How should communities ethically handle the relocation of large groups seeking safety?",
+    "In confronting hostile practices, how can zeal be guided to uphold justice and avoid excess?"
+  ],
+  "uncertainAreas": "The text begins mid-thought (verse 1 absent in this excerpt), leaving the immediate trigger for the opening actions implied. The identity of the “children of Baean” and precise locations of several cities (e.g., Ephron, Carnaim) are debated, and the degree of overlap between this chapter and the parallel traditions in 2 Maccabees involves differences difficult to harmonize. The rationale for burning the temple at Carnaim is framed as warfare and anti-idolatry but lacks explicit theological commentary in the chapter itself.",
+  "createdAt": "2025-10-19T02:14:27.061Z",
+  "modelId": "gpt-5-2025-08-07"
+}

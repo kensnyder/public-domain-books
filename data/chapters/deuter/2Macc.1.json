@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Macc.1",
+  "briefOverview": "Two letters urge Jews in Egypt to celebrate the temple’s purification (Hanukkah) and recall God’s deliverance and a tradition of sacred fire from Nehemiah’s time.",
+  "summary": "The writers bless their recipients, praying that God remember the patriarchal covenant, grant obedience to his law, and hear their prayers. They recall past turmoil beginning with Jason’s revolt, the burning of the porch, and innocent bloodshed, after which God heard their prayers and worship was restored; they exhort the recipients to keep the feast of tabernacles in Casleu. A subsequent greeting is sent to Aristobulus and the Jews in Egypt, thanking God for deliverance and recounting that Antiochus and his men were killed in the temple of Nanea in Persia. They announce their intention to keep the temple’s purification on the twenty‑fifth of Casleu and invite others to observe it as they would the feast of tabernacles and the fire given in Nehemiah’s day. The chapter narrates a story that priests once hid the altar fire, later found as “thick water,” which ignited miraculously when exposed to the sun under Nehemiah; a communal prayer asks God to gather the scattered, deliver the oppressed, vindicate Israel, and replant the people in the holy place. The event is commemorated, the site is sanctified by the Persian king, and the substance is called Naphthar (also called Nephi).",
+  "externalContext": "2 Maccabees is a Greek work summarizing a larger history (attributed to Jason of Cyrene in 2 Maccabees 2:23) and aims to encourage fidelity to the Jerusalem temple and its festivals. The Seleucid dating (e.g., “169th year,” “188th year”) follows the Seleucid Era beginning in 312/311 BCE, situating these letters in the second century BCE amid the aftermath of Antiochus IV’s persecutions and the Maccabean revolt. Jews in Ptolemaic Egypt, especially Alexandria, formed a significant diaspora community that maintained ties with Jerusalem and often received circular letters about festival observance. Aristobulus, described as a teacher of a Ptolemaic king and of priestly descent, is commonly identified with a Jewish philosopher in Alexandria associated with Ptolemaic courts, illustrating elite Judean–Egyptian connections. The month Casleu (Kislev) corresponds to late autumn/early winter and became associated with the rededication of the temple (Hanukkah) after its defilement under Antiochus IV.",
+  "externalReferences": "The call to keep the purification on the 25th of Casleu aligns with accounts of the temple’s rededication and eight-day celebration modeled on Tabernacles (1 Maccabees 4:52–59; 2 Maccabees 10:1–8). The reference to Jason’s revolt and ensuing violence echoes events described in 2 Maccabees 5:5–10. The death of Antiochus in Persia here differs from other traditions that depict his fatal illness after military setbacks (1 Maccabees 6:1–17; 2 Maccabees 9:1–29). The miraculous ignition of sacrifice recalls earlier biblical motifs where divine fire consumes offerings (Leviticus 9:24; 2 Chronicles 7:1), and the prayer for regathering echoes promises of restoration (Deuteronomy 30:3–5).",
+  "seeAlso": [
+    "1 Maccabees 4:52-59",
+    "2 Maccabees 10:1-8",
+    "2 Maccabees 5:5-10",
+    "1 Maccabees 6:1-17",
+    "2 Maccabees 9:1-29",
+    "Leviticus 9:24",
+    "2 Chronicles 7:1",
+    "Deuteronomy 30:3-5",
+    "Genesis 17:7",
+    "2 Maccabees 2:23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-9",
+      "title": "Blessing and festival call"
+    },
+    {
+      "range": "10-17",
+      "title": "Greeting and Antiochus’ fate"
+    },
+    {
+      "range": "18-36",
+      "title": "Nehemiah’s fire and prayer"
+    }
+  ],
+  "themes": [
+    "Temple purification",
+    "Covenant remembrance",
+    "Divine deliverance",
+    "Diaspora unity",
+    "Prayer"
+  ],
+  "practicalQuestions": [
+    "How can dispersed faith communities coordinate shared observances to maintain unity and identity?",
+    "What practices help a community remember past deliverances without minimizing current struggles?",
+    "In what ways can public thanksgiving and prayer shape response to political oppression or cultural pressure?",
+    "How might we honor tradition while explaining its meaning to those outside our immediate context?",
+    "What does it look like to pray for both restoration of worship and justice against oppression today?"
+  ],
+  "uncertainAreas": "Identifying which Demetrius is meant by the “169th year” and mapping exact dates to the Seleucid calendar can be debated. The account of Antiochus’s death at the temple of Nanea conflicts with other traditions and may reflect a different source or Antiochus figure. The Nehemiah “thick water”/fire narrative and the term Naphthar/Nephi lack parallels in the Hebrew Bible and are unique to this work, making details hard to corroborate. The instruction to keep “the feast of tabernacles in Casleu” is best understood as Hanukkah modeled on Tabernacles, but the phrasing might be confusing without that background.",
+  "createdAt": "2025-10-19T02:26:18.468Z",
+  "modelId": "gpt-5-2025-08-07"
+}

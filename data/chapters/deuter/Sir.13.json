@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.13",
+  "briefOverview": "Ben Sira counsels prudence in dealing with the wealthy and arrogant, warning that unequal relationships often exploit the vulnerable. He urges humility before God and observes how like tends to associate with like, exposing social bias against the poor.",
+  "summary": "The chapter warns that proximity to arrogance and power corrupts, likening it to touching pitch. It portrays how the rich exploit generosity, flatter when in need, and then discard those who can no longer benefit them. Ben Sira counsels humility before God and vigilance in conversations with the powerful, who may probe for secrets and later use words against the weak. He observes that creatures and people cling to their own kind, implying that sinners and the just, rich and poor, rarely mix without harm to the weaker party. A series of aphorisms highlights social partiality: the rich are supported and excused, while the poor are rebuked and ignored. The chapter closes by noting that material means are beneficial when conscience is clear, that the impious vilify poverty, and that a person’s heart shapes the face.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom work composed in Hebrew by Jesus ben Sira in the early second century BCE, later translated into Greek by his grandson around 132 BCE. It reflects life in Hellenistic-period Judea, where social hierarchies, patronage, and honor-shame dynamics shaped daily interactions. Advice about dining with the powerful and guarding one’s speech fits the realities of patron-client relationships, where benefactions often came with strings attached. The book is deuterocanonical in Catholic and Orthodox traditions and part of the Apocrypha in most Protestant traditions.",
+  "externalReferences": "The caution about companions aligns with wisdom themes such as Proverbs 13:20 (“Whoever walks with the wise becomes wise”) and Psalm 1:1 (avoiding the counsel and path of the wicked). The warnings about dining with the powerful and guarding oneself resonate with Proverbs 23:1–3 and the metaphor of moral contamination parallels Proverbs 6:27–28. The unequal treatment of rich and poor echoes Proverbs 18:23 and Ecclesiastes 9:16, as well as James 2:1–7 on partiality shown to the rich in assemblies. Within Sirach itself, similar counsel appears in Sirach 8:1–2 about not contending with the powerful or keeping company with the rich.",
+  "seeAlso": [
+    "Proverbs 13:20",
+    "Psalm 1:1",
+    "Proverbs 23:1-3",
+    "Proverbs 6:27-28",
+    "Proverbs 18:23",
+    "Ecclesiastes 9:16",
+    "James 2:1-7",
+    "Sirach 8:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Perils of unequal company"
+    },
+    {
+      "range": "9-18",
+      "title": "Humility and guarded speech"
+    },
+    {
+      "range": "19-32",
+      "title": "Like-with-like and social bias"
+    }
+  ],
+  "themes": [
+    "Prudence in relationships",
+    "Wealth and power",
+    "Humility before God",
+    "Social partiality"
+  ],
+  "practicalQuestions": [
+    "Where might my associations be shaping my character or vulnerability more than I realize?",
+    "How can I set boundaries with powerful people so that hospitality does not become exploitation?",
+    "In what ways do I show partiality toward the wealthy or dismiss the insights of the poor?",
+    "How can I cultivate humility before God while also exercising wise speech and discretion?",
+    "What practices help me keep a clear conscience so that my resources serve good rather than harm?"
+  ],
+  "uncertainAreas": "Verses 12–14 on declining invitations from the powerful and not straying too far are terse; the intended balance between caution and necessary proximity is ambiguous. Verse 17 (“consider it as if it were a dream, and you will awaken”) is unclear—whether it counsels detachment from flattering words or a mental strategy to avoid entanglement. Verse 30’s statement about substance being good for the one with a clean conscience may be observational rather than prescriptive, and the line about poverty being called wicked seems to report the impious view rather than endorse it. The sweeping depictions of the rich and poor function as wisdom generalizations, which may not apply to every individual case.",
+  "createdAt": "2025-10-19T03:02:55.114Z",
+  "modelId": "gpt-5-2025-08-07"
+}

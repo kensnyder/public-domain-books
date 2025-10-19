@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jdt.14",
+  "briefOverview": "Judith directs a public display of Holofernes’ death to trigger panic in the Assyrian camp, while Achior witnesses the outcome and joins Israel.",
+  "summary": "Judith instructs the leaders to hang Holofernes’ head on the city wall and to arm the men at dawn, making a show as if to march out without actually engaging. She calls for Achior to see the head of the man who had despised Israel. Achior faints at the sight, then honors Judith, hears her account, and comes to believe in Israel’s God; he is circumcised and joined to Israel. At daybreak they hang the head, and the armed men assemble by the mountain passes. The Assyrians, alerted, send for Holofernes, but Bagoas enters the tent and finds his master dead and headless; he laments and raises the alarm. The captains tear their garments, and a great panic spreads through the Assyrian camp.",
+  "externalContext": "The book of Judith is set in a stylized Near Eastern wartime context, naming Nebuchadnezzar and an Assyrian army—details that blend historical elements anachronistically, signaling the narrative’s didactic aims rather than strict historiography. Public display of a defeated enemy’s head was a known practice in ancient warfare to demoralize foes and embolden defenders. Circumcision functioned as the covenantal sign for male members of Israel (Genesis 17), so Achior’s circumcision indicates full incorporation into the community. The use of ruse and morale tactics—feigned movements to provoke enemy fear—was common in ancient siege situations.",
+  "externalReferences": "Displaying a foe’s head as a sign of victory echoes David’s treatment of Goliath (1 Samuel 17:51, 54). Judith’s role as a woman who brings down an enemy commander recalls Jael’s slaying of Sisera (Judges 4:21; 5:24–27). Achior’s circumcision aligns with the covenant sign given to Abraham (Genesis 17:9–14) and provisions for foreigners to join Israel through circumcision (Exodus 12:48). The staged sortie that triggers panic parallels Gideon’s stratagem causing Midianite confusion (Judges 7:19–22).",
+  "seeAlso": [
+    "1 Samuel 17:51-54",
+    "Judges 4:21",
+    "Judges 5:24-27",
+    "Genesis 17:9-14",
+    "Exodus 12:48",
+    "Judges 7:19-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Judith’s ruse and command"
+    },
+    {
+      "range": "6-10",
+      "title": "Achior sees and converts"
+    },
+    {
+      "range": "11-19",
+      "title": "Assyrian discovery and panic"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Strategic leadership",
+    "Outsider conversion",
+    "Enemy panic"
+  ],
+  "practicalQuestions": [
+    "How do visible reminders of past deliverance strengthen a community’s courage in the face of intimidation?",
+    "What is the place of prudent strategy and psychological tactics alongside faith when confronting threats?",
+    "How should a faith community welcome and integrate those who move from skepticism or opposition to belief, as Achior did?",
+    "How can leadership foster unified, disciplined action rather than impulsive confrontation?",
+    "What testimonies or public acts today appropriately honor God’s help without glorifying violence?"
+  ],
+  "uncertainAreas": "The historical setting blends Assyrian and Babylonian details, making specific chronology unclear. The extent to which Judith intended actual pursuit versus a feint is implied but not fully detailed. The phrase “unto this day” about Achior may be a narrative convention rather than a precise historical note.",
+  "createdAt": "2025-10-19T02:50:41.206Z",
+  "modelId": "gpt-5-2025-08-07"
+}

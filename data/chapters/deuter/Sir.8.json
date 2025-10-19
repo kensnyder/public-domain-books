@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Sir.8",
+  "briefOverview": "A chain of wisdom maxims urges prudence in relationships, speech, and obligations, especially regarding the powerful, the impulsive, and the foolish.",
+  "summary": "The chapter warns against quarreling with the powerful, wealthy, or verbose, and cautions against trusting the ignorant or rejoicing at an enemy’s death. It commends honoring the elderly and learning from their teachings, which provide wisdom for navigating public life. It counsels restraint in lending and promising, and deference to legal authority. The text urges avoiding hotheaded or reckless companions whose violence and folly endanger others. It discourages arguing with sinners, confronting scorners, or seeking advice from fools or outsiders. Finally, it advises guarding one’s heart and discretion, lest confidences be used against oneself.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in early second-century BCE Jerusalem by Jesus ben Sira and later translated into Greek by his grandson. It belongs to the Jewish wisdom tradition, offering instruction for moral formation and social prudence in a Hellenistic environment. The work addresses family life, civic dealings, and piety, reflecting concerns of an urban, stratified society under foreign rule. In many Christian traditions, Sirach is included among the Deuterocanonical books (Catholic and Orthodox canons) and is part of the Apocrypha in most Protestant Bibles.",
+  "externalReferences": "The counsel not to rejoice at an enemy’s downfall echoes Proverbs 24:17–18. Respect for elders and learning from them resonates with Leviticus 19:32. Avoiding companionship with an angry man parallels Proverbs 22:24–25. Guarding one’s confidences aligns with warnings against talebearing and revealing secrets in Proverbs 20:19.",
+  "seeAlso": [
+    "Proverbs 24:17-18",
+    "Leviticus 19:32",
+    "Proverbs 22:24-25",
+    "Proverbs 20:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Avoid rash conflicts"
+    },
+    {
+      "range": "6-12",
+      "title": "Honor and learn from elders"
+    },
+    {
+      "range": "13-22",
+      "title": "Steer clear of folly and risk"
+    }
+  ],
+  "themes": [
+    "Prudence",
+    "Respect for elders",
+    "Discretion",
+    "Avoiding conflict"
+  ],
+  "practicalQuestions": [
+    "Where am I picking avoidable fights with people who hold power over me?",
+    "How can I better honor and learn from older mentors in my community?",
+    "What promises or loans have I made that exceed my ability, and how will I address them responsibly?",
+    "Which relationships expose me to unnecessary anger, recklessness, or gossip, and how should I redefine those boundaries?",
+    "How can I become more discreet about what I share and with whom I seek counsel?"
+  ],
+  "uncertainAreas": "Some terms depend on translation (e.g., “audacious,” “outsider,” “contemptuous”), which can affect nuances; verse 17’s affirmation that a judge judges justly may be idealized rather than descriptive; the imagery in verses 13–14 about arguing with sinners and confronting scorners leaves open how to balance truth-telling with prudence.",
+  "createdAt": "2025-10-19T03:00:09.187Z",
+  "modelId": "gpt-5-2025-08-07"
+}

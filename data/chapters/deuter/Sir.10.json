@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.10",
+  "briefOverview": "Sirach 10 contrasts wise, humble leadership with arrogance and greed, stressing that God sovereignly exalts and deposes rulers.",
+  "summary": "The chapter opens by asserting that a people reflect their leader, and that wisdom in rulers brings stability while folly ruins cities. Ultimate authority and prosperity come from God, who appoints leaders and transfers kingdoms, often in response to injustice. Greed and love of money are condemned, and human power is shown to be brief, reminding readers of mortality. Pride is named the beginning of sin, bringing divine judgment on arrogant individuals and nations, while the humble are planted and remembered. The chapter closes by locating true honor in the fear of God, elevating disciplined humility and honest work over boasting and wealth, and cautioning against honoring the rich who are sinful while despising the poor who are just.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in the early second century BCE by Jesus ben Sira in Jerusalem and translated into Greek by his grandson. It belongs to Jewish Wisdom literature, which instructs on ethical living, social order, and piety rooted in the fear of God. Under Hellenistic rule (Ptolemaic and Seleucid), questions about authority, justice, and the conduct of rulers were pressing, and Ben Sira frequently addresses officials, scribes, and household heads. The text reflects a traditional Jewish view that God governs history and that social stability depends on righteous leadership and communal humility.",
+  "externalReferences": "The claim that God establishes and removes rulers echoes Daniel 2:21 and resonates with reversals celebrated in 1 Samuel 2:7–8 and Luke 1:52. Its warnings against pride align with Proverbs 16:18 and the teaching, repeated in James 4:6 (citing Proverbs 3:34), that God opposes the proud but gives grace to the humble. The denunciation of loving money recalls 1 Timothy 6:10, paralleling Sirach’s view that such desire corrupts the soul.",
+  "seeAlso": [
+    "Daniel 2:21",
+    "1 Samuel 2:7-8",
+    "Luke 1:52",
+    "Proverbs 16:18",
+    "Proverbs 3:34",
+    "James 4:6",
+    "1 Timothy 6:10",
+    "Matthew 23:12",
+    "Luke 14:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Wise rule under God"
+    },
+    {
+      "range": "9-15",
+      "title": "Greed, mortality, and pride"
+    },
+    {
+      "range": "16-34",
+      "title": "God exalts the humble; true honor"
+    }
+  ],
+  "themes": [
+    "Humility and pride",
+    "Divine sovereignty",
+    "Wealth and greed",
+    "Fear of God",
+    "Work and discipline"
+  ],
+  "practicalQuestions": [
+    "Where might pride be shaping my decisions or speech, and how can I cultivate humility instead?",
+    "How do I honor just, wise people who lack social status rather than favoring the powerful or wealthy?",
+    "What practices help me resist love of money and keep my soul intact?",
+    "In conflicts, how can I ‘forget injury’ and avoid retaliatory actions?",
+    "When given authority or influence, how can I lead so that those I influence become more just and stable?"
+  ],
+  "uncertainAreas": "The phrase “he will place his honor above the face of the scribe” (v.5) is ambiguous about whether it elevates a person above scribal status or contrasts divine honor with human rank. The imagery of inheriting “serpents, wild beasts, and worms” at death (v.13) likely symbolizes decay and mortality but is not fully explained. The line “Arrogance was not created for men, nor an angry temperament for the gender of women” (v.22) may reflect translation nuances about humanity in general versus specific genders. Verse numbering at the end (“[Sirach 11]”) suggests a textual boundary and may affect where the final aphorism belongs.",
+  "createdAt": "2025-10-19T03:01:10.276Z",
+  "modelId": "gpt-5-2025-08-07"
+}

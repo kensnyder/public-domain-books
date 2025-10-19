@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "2Macc.13",
+  "briefOverview": "Antiochus V and Lysias launch a major campaign against Judea, but Judas Maccabeus counters through prayer, bold tactics, and divine help, ending in a negotiated peace. Menelaus is executed for sacrilege, and the temple is honored by the king.",
+  "summary": "Antiochus V Eupator, with Lysias and a vast Greco-Syrian force including elephants and scythed chariots, advances against Judea, with Menelaus supporting him but then condemned and executed at Berea for sacrilege. Facing the threat, Judas calls the people to intensive prayer, fasting, and prostration for three days, then commits the cause to God and leads a night raid that kills thousands and a leading war elephant, throwing the enemy camp into panic. Antiochus turns to strategy and moves against Bethsura, but is repelled, while a traitor named Rhodocus is discovered and imprisoned. Political pressure from Philip in Antioch forces the king to sue for peace; he agrees to equitable terms, offers sacrifice, honors the temple, and appoints Judas governor from Ptolemais to the Gerrhenians. Although the people of Ptolemais protest the covenants, Lysias pacifies them, and the royal party returns to Antioch.",
+  "externalContext": "This episode belongs to the latter phase of the Maccabean revolt (mid-2nd century BCE), when Antiochus V Eupator, a child-king, ruled the Seleucid Empire with Lysias as regent. War elephants and scythed chariots were standard Hellenistic-era shock forces used by Seleucid armies. Menelaus, a Hellenizing high priest, had previously gained office through political maneuvering and was widely blamed for sacrilege and unrest in Jerusalem; Beroea (Berea) mentioned here likely refers to the Syrian city later known as Aleppo, which had a local execution custom described. Philip had been left by Antiochus IV with authority in Antioch, creating a power struggle that pressured Antiochus V and Lysias to make peace with the Jews. Ptolemais (Ake/Acco) was a key coastal city with a pro-Seleucid population sensitive to royal policy shifts.",
+  "externalReferences": "This account parallels 1 Maccabees 6:18–63, which also narrates Antiochus V and Lysias’ campaign, the pressure from Philip’s revolt, and the resulting peace with the Jews, though details differ (e.g., battle sequences and the fate of Beth-zur). Menelaus’ earlier misdeeds and sacrilege are described in 2 Maccabees 4:23–50, providing background for his execution here (2 Macc 13:4–8). The communal fasting and urgent prayer echo biblical patterns of crisis response, such as Esther 4:16 and Joel 2:12–17. The watchword “Victory is of God” resonates with Proverbs 21:31, which affirms that deliverance belongs to the Lord.",
+  "seeAlso": [
+    "1 Maccabees 6:18-63",
+    "2 Maccabees 4:23-50",
+    "Esther 4:16",
+    "Joel 2:12-17",
+    "Proverbs 21:31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-8",
+      "title": "Menelaus Executed at Berea"
+    },
+    {
+      "range": "9-17",
+      "title": "Prayer, Fast, and Night Raid"
+    },
+    {
+      "range": "18-26",
+      "title": "Bethsura, Peace, and Return"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Prayer and fasting",
+    "Courage in battle",
+    "Justice and retribution",
+    "Political negotiation"
+  ],
+  "practicalQuestions": [
+    "How can earnest prayer and fasting precede and shape decisive action in crises?",
+    "Where is the line between necessary strategy and compromise that would betray core convictions?",
+    "How should communities respond to internal betrayal to protect integrity without overreaction?",
+    "What does just accountability look like for leaders who misuse sacred trust?",
+    "When is it wise for leaders to shift from confrontation to negotiation for the good of the people?"
+  ],
+  "uncertainAreas": "The identity of “Bethsum” (v.22) may be a textual variant of Bethsura; the exact geography of “the Gerrhenians” is unclear. The numbers for the Seleucid army and casualties may be stylized. The phrase “chiefest of the elephants” and whether this alludes to a specific well-known incident (cf. 1 Macc 6:43–46) is not explicit here. The specific grievances of Ptolemais and the detailed terms of the covenants are not fully explained in the text.",
+  "createdAt": "2025-10-19T02:35:55.823Z",
+  "modelId": "gpt-5-2025-08-07"
+}

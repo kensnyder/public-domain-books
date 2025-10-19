@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "1Macc.8",
+  "briefOverview": "Judas Maccabeus hears of Rome’s power and governance and seeks an alliance. The chapter records the Jewish-Roman treaty establishing mutual defense and non-aid to each other’s enemies.",
+  "summary": "Reports reach Judas about the Romans’ valor, distant conquests (Galatians, Spain), victories over kings like Philip, Perseus, and Antiochus III, and their disciplined governance through a senate and an annually appointed single ruler. Impressed by their stability and friendship toward allies, Judas appoints Eupolemus and Jason to go to Rome to secure a treaty to relieve Israel from Greek oppression. The envoys address the senate, which approves the request and issues a brass-tablet decree. The treaty stipulates mutual defense: the Jews will not aid Rome’s enemies, and Rome will not aid the Jews’ enemies, with help rendered “with all their heart” as appointed. The covenant may be amended by mutual consent. The Romans also rebuke Demetrius for oppressing their Jewish allies and threaten action by sea and land if the injustice continues.",
+  "externalContext": "1 Maccabees was composed in the late second century BCE during the Hasmonean period and recounts the revolt against the Seleucid Empire. Judas Maccabeus led the insurgency after Antiochus IV’s persecutions; Demetrius I Soter later emerged as Seleucid king (r. 162–150 BCE), pressuring Judea. The Roman achievements listed align broadly with historical events: wars against Philip V (Second Macedonian War), Perseus (Third Macedonian War), and Antiochus III (defeated at Magnesia, 190 BCE; Treaty of Apamea, 188 BCE), with Pergamene king Eumenes II receiving territorial rewards. The embassy to Rome is often dated to around 161 BCE; publishing decrees on bronze tablets and using mutual-defense language reflects common Greco-Roman diplomatic practice. The chapter idealizes Roman institutions (e.g., a single annual ruler) and exaggerates geography (e.g., “India”), consistent with Hellenistic-era perceptions.",
+  "externalReferences": "Within 1 Maccabees, Demetrius’s actions form part of the preceding narrative background (1 Maccabees 7:1–50), and later chapters record renewed dealings with Rome and other powers (1 Maccabees 12:1–4; 14:16–24). The term “Citims/Kittim” echoes biblical usage for western maritime peoples; in later interpretation it can be associated with Rome (Genesis 10:4; Daniel 11:30).",
+  "seeAlso": [
+    "1 Maccabees 7:1-50",
+    "1 Maccabees 12:1-4",
+    "1 Maccabees 14:16-24",
+    "Genesis 10:4",
+    "Daniel 11:30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-16",
+      "title": "Reputation and polity of Rome"
+    },
+    {
+      "range": "17-21",
+      "title": "Embassy sent to Rome"
+    },
+    {
+      "range": "22-32",
+      "title": "Treaty and Roman letter"
+    }
+  ],
+  "themes": [
+    "Diplomacy and alliance",
+    "Political power",
+    "Governance",
+    "Mutual defense"
+  ],
+  "practicalQuestions": [
+    "What criteria should guide forming alliances with powerful states?",
+    "How can admiration for others’ strengths avoid sliding into idealization that clouds judgment?",
+    "When does seeking protection from external powers help or compromise a community’s autonomy and identity?",
+    "How should mutual-defense commitments be balanced with ethical obligations toward non-allied neighbors?",
+    "What signs indicate a partner will keep covenants “without deceit”?"
+  ],
+  "uncertainAreas": "Verse numbering begins at 2 in the provided text. Identifications such as “king of the Citims” and geographic claims like “India” given to Eumenes are historically debated or hyperbolic. The description of Roman institutions (“one man every year”) simplifies a more complex system. The historicity and exact timing of the Roman letter to Demetrius and its enforcement are not specified here.",
+  "createdAt": "2025-10-19T02:17:28.995Z",
+  "modelId": "gpt-5-2025-08-07"
+}

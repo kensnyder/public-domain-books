@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.28",
+  "briefOverview": "Counsels forgiveness over vengeance and warns about the destructive power of the tongue.",
+  "summary": "The chapter urges readers to forgive others so that God will forgive them, warning that seeking vengeance or clinging to anger undermines one’s own plea for mercy. It calls for remembering mortality, the fear of God, and the covenant as motivations to end hostility and overlook offenses. Strife is portrayed as a fire ignited by quick tempers and accusatory speech, with vivid images showing how words can escalate or extinguish conflict. A sustained section denounces the “double-tongued” and the “third tongue” (slander/gossip), describing how malicious speech destroys communities, homes, and reputations more than swords do. Blessed is the person guarded from a wicked tongue and who refuses its yoke. The reader is instructed to hedge the ears against gossip, bridle the mouth, weigh words carefully, and avoid a ruinous slip that enemies could exploit.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book written in Hebrew by Jesus ben Sira in the early second century BCE, likely in Jerusalem; it was translated into Greek by his grandson around 132 BCE. Situated in the Hellenistic period, it addresses communal ethics, piety, and practical conduct for Jewish life under foreign rule. Honor, reputation, and speech had significant social and legal consequences in ancient communities, where slander could fracture families and civic order. The book is canonical in Catholic and Orthodox traditions and deuterocanonical in many Protestant contexts.",
+  "externalReferences": "The call to forgive a neighbor echoes Leviticus 19:18 (“love your neighbor”) and is closely paralleled by Jesus’ teaching on prayer and forgiveness in Matthew 6:14–15. The extended warning about the tongue corresponds to wisdom motifs in Proverbs (e.g., Proverbs 16:27–28; 26:20–22) and is strongly echoed in James 3:5–10 on the tongue’s destructive fire. The reciprocity of mercy and judgment resonates with Jesus’ parable of the unforgiving servant (Matthew 18:21–35).",
+  "seeAlso": [
+    "Leviticus 19:18",
+    "Matthew 6:14-15",
+    "Matthew 18:21-35",
+    "Proverbs 16:27-28",
+    "Proverbs 26:20-22",
+    "James 3:5-10",
+    "Ephesians 4:29",
+    "Ephesians 4:31-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Forgiveness over vengeance"
+    },
+    {
+      "range": "10-14",
+      "title": "Quarrels and kindling anger"
+    },
+    {
+      "range": "15-30",
+      "title": "Destructive tongue; guard speech"
+    }
+  ],
+  "themes": [
+    "Forgiveness",
+    "Anger",
+    "Slander and gossip",
+    "Self-control in speech"
+  ],
+  "practicalQuestions": [
+    "Whom do I need to forgive so that my own prayers are not hindered by resentment?",
+    "How can I de-escalate a brewing conflict instead of adding fuel to it with hasty words?",
+    "What practices will help me refuse to listen to gossip or pass along unverified reports?",
+    "Where do I need to place a ‘bridle’ on my speech—timing, tone, or content—to protect others and myself?",
+    "How can remembering my mortality and God’s covenant reshape my responses to offense?"
+  ],
+  "uncertainAreas": "The phrase “For corruption and death are suspended over his commandments” (v. 7) is unclear in this translation—possibly warning that death stands over humans who violate God’s commands. The “third tongue” (vv. 16, 19) likely refers to slander passed by a third party, but the exact nuance is debated. The statement “hell is more useful than it is” (v. 25) is difficult; the comparison may be hyperbolic against malicious speech rather than a literal valuation. Metaphors about the tongue’s ‘flame’ and its permanence (vv. 26–27) leave room for interpretive nuance about temporal vs. eschatological consequences.",
+  "createdAt": "2025-10-19T03:11:18.056Z",
+  "modelId": "gpt-5-2025-08-07"
+}

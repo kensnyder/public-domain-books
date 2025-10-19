@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.35",
+  "briefOverview": "Sirach equates obedience, justice, and mercy with true sacrifice, urging generous, joyful offerings. God hears the humble and oppressed, judges impartially, and will vindicate the just while humbling the arrogant.",
+  "summary": "The chapter teaches that observing the law, avoiding injustice, and acting with mercy are sacrifices pleasing to God, even more than ritual offerings. Gifts and tithes should be given cheerfully and proportionately to God’s generosity, not as corrupt or unjust offerings. God shows no favoritism and refuses bribes; he especially hears the cries of the poor, the orphan, and the widow. Humble, joyful prayer rises to heaven and is effective. The Lord will not delay forever but will render judgment, repaying people according to their deeds, breaking the power of the arrogant and vindicating his people. His mercy in distress is likened to rain in drought.",
+  "externalContext": "Sirach (Ecclesiasticus), composed by Ben Sira in early second-century BCE Jerusalem, reflects a Temple-centered Judaism where sacrifices, tithes, and firstfruits were integral to worship. Wisdom teachers often emphasized that ethical obedience and mercy were the essence of covenant faithfulness, complementing sacrificial practices. The focus on orphans and widows accords with Israel’s social laws that protected the vulnerable. References to judgment on Gentiles and arrogant rulers align with a period of foreign domination (Ptolemaic and later Seleucid control) and the hope of divine vindication.",
+  "externalReferences": "Sirach’s claim that justice and mercy are like sacrifice echoes 1 Samuel 15:22 and Proverbs 21:3, as well as Psalm 51:16–17, which prioritizes a contrite heart over offerings. The concern for orphans and widows reflects Deuteronomy 10:17–18 and Exodus 22:22–24, while the call to reject empty ritual parallels Isaiah 1:11–17 and Micah 6:6–8. Instructions about tithes and firstfruits resonate with Malachi 3:10. The efficacy of humble, persistent prayer and the vindication of the oppressed recall Luke 18:1–8, the parable of the persistent widow.",
+  "seeAlso": [
+    "1 Samuel 15:22",
+    "Proverbs 21:3",
+    "Psalm 51:16-17",
+    "Isaiah 1:11-17",
+    "Micah 6:6-8",
+    "Deuteronomy 10:17-18",
+    "Exodus 22:22-24",
+    "Malachi 3:10",
+    "Psalm 68:5",
+    "Luke 18:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Obedience as true sacrifice"
+    },
+    {
+      "range": "6-15",
+      "title": "Honest offerings, no favoritism"
+    },
+    {
+      "range": "16-26",
+      "title": "God hears the oppressed; judges swiftly"
+    }
+  ],
+  "themes": [
+    "Obedience as sacrifice",
+    "Impartial justice",
+    "Care for vulnerable",
+    "Joyful generosity",
+    "Divine recompense"
+  ],
+  "practicalQuestions": [
+    "Where might I be substituting religious gestures for the harder work of justice and mercy?",
+    "How can I give—with tithes, time, or skills—with joy and integrity rather than reluctance or show?",
+    "Whose cries of distress in my community need advocacy so that my worship aligns with God’s concern for the vulnerable?",
+    "What practices help me pray with humility and persistence when answers seem delayed?",
+    "Are there ways my offerings or service are compromised by unjust gain or partiality?"
+  ],
+  "uncertainAreas": "The subject of “he will not have patience with them, so that he may crush their back” (v. 22) is contextually the arrogant/oppressors, but the pronoun is not explicit. The scope of “vengeance to the Gentiles” (v. 23) may be rhetorical for all arrogant oppressors or specific foreign powers. The exact balance between ritual offerings and ethical obedience is strongly complementary here, but how it applies relative to Temple rites in practice is not fully specified.",
+  "createdAt": "2025-10-19T03:15:28.485Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Macc.4",
+  "briefOverview": "The chapter recounts the corruption of the high priesthood under Seleucid rule, the push toward Hellenization in Jerusalem, and the resulting injustices culminating in the murder of Onias III and the impunity of Menelaus.",
+  "summary": "Onias, seeing violent factionalism and Simon’s hostility, appeals to the king for the city’s welfare. After Seleucus dies, Antiochus IV Epiphanes grants Jason (Onias’s brother) the high priesthood through payment; Jason promotes Hellenistic customs, establishes a gymnasium, and leads many priests to neglect temple service. Jason even sends funds intended for a Hercules sacrifice at the Tyrian games, though the bearers divert the money to other uses. Later Menelaus outbids Jason for the high priesthood, steals temple vessels, and, through Andronicus’s treachery, engineers Onias’s murder; Antiochus returns, laments Onias’s character, and executes Andronicus. A popular uprising in Jerusalem kills Lysimachus (Menelaus’s proxy) for sacrilege, but when accusers bring charges at Tyre, Menelaus bribes Ptolemy to secure acquittal; the innocent accusers are executed, though the Tyrians bury them honorably. The chapter emphasizes that pursuit of Greek fashions and bribery brought calamity and that, despite one act of royal justice, corruption prevailed as Menelaus remained in power.",
+  "externalContext": "In the mid-second century BCE, Judea was under the Seleucid Empire, whose rulers often controlled the high priesthood, at times selling it to the highest bidder. Antiochus IV Epiphanes (reigned 175–164 BCE) pursued policies that favored Hellenization across his territories. A gymnasium in Hellenistic culture was not merely athletic; it symbolized civic identity and assimilation into Greek civic life, often clashing with Jewish law and customs. Tyre’s games were celebrated in honor of Heracles (Melqart), illustrating the religious environment surrounding Hellenistic festivals and their sacrificial practices. Daphne near Antioch was a well-known sanctuary precinct, providing a sacred asylum in some circumstances.",
+  "externalReferences": "1 Maccabees 1:11–15 parallels the introduction of a gymnasium in Jerusalem and the adoption of Greek customs, highlighting the abandonment of ancestral laws. Daniel 11:21–24 portrays a contemptible ruler who seizes power through intrigue and corruption, a description many readers connect with Antiochus IV’s rise and methods. The events of 2 Maccabees 3 (the earlier conflict involving Simon and Onias III) provide the immediate backdrop to the factional strife and the appeal to the king referenced here. Subsequent oppression under Antiochus is developed further in 2 Maccabees 5:1–11.",
+  "seeAlso": [
+    "1 Maccabees 1:11-15",
+    "2 Maccabees 3:1-40",
+    "2 Maccabees 5:1-11",
+    "Daniel 11:21-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-6",
+      "title": "Onias Appeals to the King"
+    },
+    {
+      "range": "7-22",
+      "title": "Jason’s Hellenizing Reforms"
+    },
+    {
+      "range": "23-50",
+      "title": "Menelaus, Murder, and Injustice"
+    }
+  ],
+  "themes": [
+    "Corrupt leadership",
+    "Hellenization",
+    "Bribery and power",
+    "Sacrilege",
+    "Divine justice"
+  ],
+  "practicalQuestions": [
+    "Where might expediency and cultural prestige tempt me to compromise core convictions?",
+    "How should communities respond when religious leadership is gained or maintained through money and influence rather than integrity?",
+    "What safeguards can prevent misuse of sacred resources and offices?",
+    "When civil or religious courts fail, what faithful forms of protest and accountability remain?",
+    "How can reverence in worship be maintained when surrounding culture prizes alternative honors?"
+  ],
+  "uncertainAreas": "The phrase about the games \"every faith year\" appears to be a textual error; most editions read \"every fifth year.\" The concubine named \"Antiochus\" likely reflects a scribal or translational issue for \"Antiochis.\" The note that youths were made to \"wear a hat\" probably refers to the Greek petasos associated with gymnasium culture, but the exact nuance is interpretive.",
+  "createdAt": "2025-10-19T02:28:14.122Z",
+  "modelId": "gpt-5-2025-08-07"
+}

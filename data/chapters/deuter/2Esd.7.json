@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Esd.7",
+  "briefOverview": "Ezra receives angelic teaching that the path to the promised good is narrow and perilous, culminating in a detailed vision of judgment and the interim states of righteous and wicked souls.",
+  "summary": "Through parables of a sea and a city with a perilous, narrow entrance, the angel teaches that present hardship is the necessary passage to the world to come. He rebukes human disobedience and announces a future unveiling: the Messiah will be revealed, a finite messianic era will end, the world will fall silent for seven days, and then resurrection and final judgment will occur with paradise for the righteous and torment for the wicked. On that day, mercy gives way to justice, recompense is displayed, and creation’s usual lights are eclipsed by the glory of the Most High. Ezra laments that few will be saved, but the angel explains that rarity heightens value and that God rejoices over the faithful remnant. The angel defends divine judgment on the basis of human understanding and responsibility under God’s law. Ezra asks about the soul after death, and the angel describes sevenfold torments for the ungodly and sevenfold consolations for the righteous during an interim period, including a seven-day freedom to behold these realities before being gathered to their abodes. Finally, Ezra is told that on the day of judgment no one can intercede for another; each bears personal righteousness or unrighteousness.",
+  "externalContext": "Commonly called 4 Ezra in scholarly literature and 2 Esdras in the Latin tradition, this work is a Jewish apocalypse likely composed in the late first century CE, after the destruction of the Second Temple (70 CE). It presents Ezra in visionary dialogues with an angel (often Uriel) about divine justice, Israel’s fate, and the end of days. Traditions of “this age” and “the age to come” were widespread in late Second Temple Judaism and shape the chapter’s contrast between the narrow present and the expansive future. Many translations note that parts of this chapter (especially around the messianic mention) show signs of Christian-era transmission and glosses in some manuscripts, though the core is Jewish apocalyptic. The chapter reflects developing Jewish concepts of resurrection, interim postmortem states, and final judgment that were debated in the period.",
+  "externalReferences": "The judgment throne and books imagery resonates with Daniel 7:9–10, and the resurrection of the dead with the righteous shining recalls Daniel 12:2–3. Adam’s transgression and the prospect of restored paradise evoke Genesis 2–3. The assertion that each person bears personal guilt and cannot rely on intercession parallels Ezekiel 18:20, with similar “even the righteous cannot deliver others” motifs in Ezekiel 14:14 and Jeremiah 15:1. The depiction of a final glory superseding sun and moon aligns with Isaiah 60:19–20; the narrow passage motif has affinities with later sayings about the narrow gate (Matthew 7:13–14), though arising in a distinct Jewish apocalyptic context.",
+  "seeAlso": [
+    "Genesis 2:15-3:24",
+    "Daniel 7:9-10",
+    "Daniel 12:2-3",
+    "Ezekiel 18:20",
+    "Ezekiel 14:14",
+    "Jeremiah 15:1",
+    "Isaiah 60:19-20",
+    "Matthew 7:13-14",
+    "Luke 16:19-31",
+    "Joel 2:31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Narrow passage to inheritance"
+    },
+    {
+      "range": "15-44",
+      "title": "Human disobedience and coming judgment"
+    },
+    {
+      "range": "75-105",
+      "title": "Order of souls and no intercession"
+    }
+  ],
+  "themes": [
+    "Narrow path",
+    "Divine judgment",
+    "Resurrection and afterlife",
+    "Human responsibility",
+    "Righteous remnant"
+  ],
+  "practicalQuestions": [
+    "Where am I resisting necessary hardships that may be part of a faithful path toward future good?",
+    "How does personal accountability before God shape my choices today?",
+    "What practices help me “overcome the evil thought” rather than be led from life into death?",
+    "How might contemplating the end (judgment, reward, and loss) refine my priorities and conduct now?",
+    "In what ways do I honor or ignore the instruction I already understand?"
+  ],
+  "uncertainAreas": "The exact meaning and duration of the “about a week of years” for the judgment scene is unclear. The statement that “my son the Messiah shall die” and the 400-year rejoicing period are difficult to interpret (literal vs symbolic; textual transmission issues). The mechanics and timeframe of the seven-day postmortem “freedom” and the relationship between interim states and final resurrection are not fully specified. The scope of “no intercession” appears absolute for the judgment day but does not address intercessory prayer prior to that day.",
+  "createdAt": "2025-10-19T02:03:16.079Z",
+  "modelId": "gpt-5-2025-08-07"
+}

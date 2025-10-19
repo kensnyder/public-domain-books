@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "2Esd.14",
+  "briefOverview": "God commissions Ezra to restore and divide sacred writings while warning that the aging world will see increasing evil and diminished truth.",
+  "summary": "The Lord appears to Ezra, recalling Moses’ Sinai revelation with both public and secret teachings, and announces that Ezra will soon be taken to dwell with God’s Son until the end of the times. Ezra is told the present age is nearly spent, truth will recede, and evils will multiply, so he must set his house in order, exhort the people, and detach from corruptible concerns. Distressed that the law has been burned, Ezra asks to rewrite the history and law so future generations can find the path. God instructs him to assemble five swift scribes and to withdraw for forty days while God grants a lamp of understanding. After addressing Israel with a call to repentance, moral discipline, and readiness for judgment after death, Ezra secludes himself. Empowered by a fiery drink of wisdom, he dictates while the five write for forty days, producing ninety-four books; twenty-four are made public for all, while seventy are reserved for the wise as a special fountain of wisdom.",
+  "externalContext": "2 Esdras (often called 4 Ezra) is a Jewish apocalyptic work likely composed after the destruction of the Second Temple in 70 CE, a crisis that raised questions about covenant, scripture, and divine justice. The mention of twenty-four public books corresponds to the common Second Temple Jewish reckoning of the Hebrew Scriptures as twenty-four books. The text’s depiction of Ezra as a second Moses who restores the law reflects broader postexilic traditions of Ezra as a scribe who reestablished Torah observance (cf. Ezra-Nehemiah). The motif of hidden or esoteric writings reflects apocalyptic circles’ concern for wisdom reserved for the faithful in a time of widespread unbelief. Forty days of revelation echo biblical patterns of forty as a period of divine encounter and preparation.",
+  "externalReferences": "God’s self-revelation “in a bush” and the Sinai theophany recall Exodus 3:1–6 and Exodus 24:12–18, presenting Ezra as a Moses-like mediator who receives both public and secret instruction. The command to publish some words and keep others hidden parallels Daniel’s sealed prophecy (Daniel 12:4, 9). The dictation to scribes evokes prophetic book production such as Jeremiah dictating to Baruch (Jeremiah 36:2–4). The “eagle” alludes to Ezra’s earlier vision interpreted as a sequence of empires (2 Esdras 11–12), and the promise that Ezra will live with “my Son” resonates with the messianic figure in this work (2 Esdras 7:28–29; 13).",
+  "seeAlso": [
+    "Exodus 3:1-6",
+    "Exodus 24:12-18",
+    "Daniel 12:4",
+    "Daniel 12:9",
+    "Jeremiah 36:2-4",
+    "2 Esdras 7:28-29",
+    "2 Esdras 11-12",
+    "2 Esdras 13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Commission and Aging Age"
+    },
+    {
+      "range": "19-36",
+      "title": "Ezra’s Plea and Charge"
+    },
+    {
+      "range": "37-48",
+      "title": "Forty-Day Dictation and Division"
+    }
+  ],
+  "themes": [
+    "Revelation and secrecy",
+    "Eschatological time",
+    "Scripture formation",
+    "Postmortem judgment",
+    "Moral discipline"
+  ],
+  "practicalQuestions": [
+    "What would it look like to “set your house in order” and discipline your heart amid a culture where truth seems to recede?",
+    "How can we cultivate detachment from “corruptible” concerns without neglecting present responsibilities?",
+    "When and how should profound teachings be shared publicly versus entrusted to those prepared to receive them?",
+    "If judgment reveals both righteous names and ungodly deeds, how should that shape our daily choices now?",
+    "What practices can help us retain wisdom and memory in times when communal guidance (like ‘the law’) feels diminished or threatened?"
+  ],
+  "uncertainAreas": "The statement that Ezra will be ‘taken up’ to live with God’s Son until the end of the times is ambiguous—whether it implies an imminent translation of Ezra or a visionary assurance. The identification of the twenty-four public books with a specific canon is strongly suggested but not enumerated in the text; the nature and content of the seventy secret books are unspecified. The exact referent and timing of the ‘eagle’ allusion rely on earlier chapters, which may be read variously.",
+  "createdAt": "2025-10-19T02:08:05.686Z",
+  "modelId": "gpt-5-2025-08-07"
+}

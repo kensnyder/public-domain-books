@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Sir.6",
+  "briefOverview": "The chapter contrasts unreliable and faithful friends and urges wholehearted pursuit of wisdom through disciplined instruction. It links friendship and wisdom to the fear of the Lord and long-term stability.",
+  "summary": "Sirach warns against becoming an enemy and against pride, noting that evil and double-tongued speech bring disgrace. He counsels broad goodwill but careful discernment in choosing a counselor, testing friends before trusting them because some companions fail in adversity. By contrast, a faithful friend is priceless—a strong shelter and life-giving medicine—often found among those who fear the Lord and mirror one another’s character. Turning to wisdom, the teacher urges receiving instruction from youth, laboring like a farmer, and submitting to wisdom’s “fetters” and “chains,” which ultimately become protection, delight, and honor. He exhorts attentive listening, seeking the company of prudent elders, and steadfast focus on God’s precepts, promising that God will grant a wise heart.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book composed in Hebrew in early second-century BCE Jerusalem by Jesus ben Sira and translated into Greek by his grandson around 132 BCE. It reflects the sapiential tradition of Proverbs while addressing life in a Hellenistic-era Jewish community with strong concerns for piety, social stability, and honor. Friendship advice resonates with ancient Mediterranean patronage networks, where alliances could be fragile and discernment was crucial. The emphasis on elders and instruction fits the structure of scribal education in which wisdom was transmitted through schools and family lineages.",
+  "externalReferences": "The portrait of friendship echoes Proverbs: the contrast between many companions and a steadfast friend (Proverbs 18:24), a friend loving at all times (Proverbs 17:17), and the value of pleasant words (Proverbs 16:24). The call to seek wisdom and treasure her parallels Proverbs 3:13–18 and the foundational theme that the fear of the Lord is the beginning of wisdom (Proverbs 1:7). The exhortation to walk with the wise (Proverbs 13:20) aligns with Sirach’s call to stand among prudent elders. The positive “yoke” of wisdom anticipates later teaching about a gracious yoke (Matthew 11:28–30), offering a thematic resonance across traditions.",
+  "seeAlso": [
+    "Proverbs 18:24",
+    "Proverbs 17:17",
+    "Proverbs 16:24",
+    "Proverbs 3:13-18",
+    "Proverbs 1:7",
+    "Proverbs 13:20",
+    "Matthew 11:28-30",
+    "Psalm 1:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Guard speech and pride"
+    },
+    {
+      "range": "6-17",
+      "title": "Test and prize friends"
+    },
+    {
+      "range": "18-37",
+      "title": "Embrace wisdom’s yoke"
+    }
+  ],
+  "themes": [
+    "Friendship",
+    "Wisdom",
+    "Discipline",
+    "Humility",
+    "Fear of the Lord"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate speech that builds peace while avoiding double-tongued talk?",
+    "Who are the few trusted counselors in my life, and how have I tested their reliability?",
+    "What habits can I adopt to submit to wisdom’s discipline so it becomes delight rather than burden?",
+    "Which prudent elders or mentors should I regularly seek out for instruction?",
+    "How can I align my friendships with reverence for God so that we strengthen each other’s character?"
+  ],
+  "uncertainAreas": "Verse 12’s phrasing about a friend who “humbles himself before you and hides himself from your face” is ambiguous; it may indicate modesty and deference or a cautious restraint in the relationship. The statement that a faithful friend is “a medicine for life and immortality” may be metaphorical (signifying enduring vitality and legacy) rather than a specific doctrine of afterlife; translations vary.",
+  "createdAt": "2025-10-19T02:59:02.364Z",
+  "modelId": "gpt-5-2025-08-07"
+}

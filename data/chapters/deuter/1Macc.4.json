@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "1Macc.4",
+  "briefOverview": "Judas Maccabeus defeats Seleucid forces and leads the cleansing and rededication of the Jerusalem temple. The chapter culminates in instituting an annual eight-day celebration of the altar’s dedication.",
+  "summary": "Gorgias attempts a night raid on Judas’s camp, but Judas has already moved to strike the main Seleucid force at Emmaus, routing them and restraining his men from premature looting until the threat fully passes. Seeing their camp burned and Judas’s army ready, Gorgias’s troops retreat, and the Jews then take spoil and offer thanksgiving to God, affirming that his mercy endures forever. The following year Lysias returns with a larger army; after Judas prays recalling God’s past deliverances through David and Jonathan, the Jews win again and Lysias withdraws. Judas and his brothers lead the people to cleanse the profaned sanctuary: they remove defiled stones, dismantle the polluted altar and store its stones until a prophet should decide their fate, rebuild the altar and temple vessels, and relight the lamps. On the 25th of Kislev in the 148th year, they offer lawful sacrifices and celebrate eight days of dedication with music and joy. They decree this eight-day dedication be kept annually and fortify Zion and Beth-zur for defense.",
+  "externalContext": "The events occur during the Maccabean revolt (167–160 BCE) against the Seleucid Empire after Antiochus IV Epiphanes outlawed key Jewish practices and desecrated the temple. Lysias served as regent while Antiochus was away on campaigns, directing efforts to suppress the Judean resistance. The “148th year” follows the Seleucid Era dating and corresponds to 164 BCE, the widely accepted year of the temple’s rededication. The eight-day observance established here became known as Hanukkah (Feast of Dedication), celebrated in late fall during the month of Kislev. Emmaus and Beth-zur were strategic sites controlling approaches to Judea and Jerusalem.",
+  "externalReferences": "Judas invokes the Red Sea deliverance (Exodus 14:10–31) as a paradigm of God’s salvation and calls on the covenant with the fathers. His prayer recalls David’s victory over Goliath (1 Samuel 17:45–50) and Jonathan’s exploit with his armor-bearer (1 Samuel 14:1–15). The refrain “his mercy endures forever” echoes temple thanksgivings such as Psalm 136:1 and 1 Chronicles 16:34, and the blowing of trumpets in crisis recalls Numbers 10:9. The annual “Feast of Dedication” instituted here is later mentioned in John 10:22–23, and a parallel account of the rededication appears in 2 Maccabees 10:1–8.",
+  "seeAlso": [
+    "Exodus 14:10-31",
+    "1 Samuel 17:45-50",
+    "1 Samuel 14:1-15",
+    "Psalm 136:1",
+    "1 Chronicles 16:34",
+    "Numbers 10:9",
+    "John 10:22-23",
+    "2 Maccabees 10:1-8",
+    "1 Maccabees 1:54-59",
+    "2 Chronicles 29:15-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-25",
+      "title": "Victory over Gorgias at Emmaus"
+    },
+    {
+      "range": "26-35",
+      "title": "Lysias’s campaign repelled"
+    },
+    {
+      "range": "36-61",
+      "title": "Temple cleansed and rededicated"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Covenant remembrance",
+    "Temple purification",
+    "Worship and thanksgiving",
+    "Courage"
+  ],
+  "practicalQuestions": [
+    "How can remembering past instances of help or deliverance strengthen resolve in present challenges?",
+    "What safeguards help keep mission and integrity ahead of material gain, as with restraining from premature spoils?",
+    "In what ways might we need to ‘remove defilement’ and restore proper worship or ethical practice in our communities today?",
+    "How do public acts of thanksgiving and regular commemorations (like annual observances) shape a people’s identity and resilience?",
+    "Where might we wisely seek guidance before acting, as the community awaited a prophet regarding the defiled stones?"
+  ],
+  "uncertainAreas": "The chapter begins at verse 2 in the provided text, so verse 1 content is missing; the identity of the “king’s army” at Emmaus is not specified here; selective numbers (troop sizes, casualties) may be stylized; and the note about storing the old altar stones “until there should come a prophet” raises interpretive questions about expectations of prophetic authority at that time.",
+  "createdAt": "2025-10-19T02:13:15.067Z",
+  "modelId": "gpt-5-2025-08-07"
+}

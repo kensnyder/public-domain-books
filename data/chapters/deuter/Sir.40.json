@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.40",
+  "briefOverview": "Sirach reflects on the universal burden of human life—anxieties, toil, and mortality—while contrasting the perishability of wealth and status with the enduring worth of faith, mercy, wise speech, and the fear of the Lord.",
+  "summary": "The chapter opens by asserting that all people, from the most exalted to the lowly, bear a heavy yoke from birth to burial: anxious thoughts, fear, anger, and unrest, even in their sleep. Sinners especially feel these troubles “seven times” over, and the world’s scourges—death, bloodshed, oppression, famine—are linked to iniquity, recalling the Flood. All earthly things return to their source, and unjust gain passes away, but faith endures. The author contrasts fleeting goods with lasting virtues: an immaculate wife, wisdom, pleasant words, and mercy surpass wine, music, wealth, strength, and even kinship. Above all stands the fear of the Lord, portrayed as a paradise of blessings that brings no loss. The chapter concludes with counsel to avoid destitution and dependency on others’ tables, praising discipline and self-sufficiency while warning that imprudent “sweetness” in scarcity burns within.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book written in Hebrew in the early 2nd century BCE by Jesus ben Sira in Jerusalem and translated into Greek by his grandson around 132 BCE. It belongs to the wisdom tradition that draws on Israel’s scriptures and practical ethics to form pious, stable communities under God’s law during the Hellenistic period. The book esteems social order, family, prudent speech, and reverent reliance on God, encapsulated in the recurring theme of the fear of the Lord. In many Christian traditions, Sirach is included among the Deuterocanonical books; in Rabbinic Judaism and many Protestant Bibles it is categorized among the Apocrypha.",
+  "externalReferences": "The depiction of toil, fear, and mortality for the “sons of Adam” echoes the aftermath of the fall (Genesis 3:17–19) and the broader lament about human life (Job 14:1). The statement that iniquity brought about the great flood clearly invokes the narrative of Genesis 6–9 (e.g., Genesis 6:5–13). The observation that everything returns to its source recalls Ecclesiastes on cyclical return and mortality (Ecclesiastes 1:7; 3:20). Prioritizing the fear of the Lord and wise speech aligns with Proverbs (Proverbs 1:7; 16:24), and the exalted valuation of a virtuous wife resonates with Proverbs 31:10–31.",
+  "seeAlso": [
+    "Genesis 3:17-19",
+    "Genesis 6:5-13",
+    "Genesis 7:17-24",
+    "Ecclesiastes 1:7",
+    "Ecclesiastes 3:20",
+    "Proverbs 1:7",
+    "Proverbs 16:24",
+    "Proverbs 31:10-31",
+    "Job 14:1",
+    "Psalm 128:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Human burden and mortality"
+    },
+    {
+      "range": "12-28",
+      "title": "Fleeting wealth, lasting virtues"
+    },
+    {
+      "range": "29-32",
+      "title": "Counsel on poverty and dependence"
+    }
+  ],
+  "themes": [
+    "Human toil",
+    "Mortality",
+    "Fear of the Lord",
+    "Wealth’s transience",
+    "Wisdom’s priority"
+  ],
+  "practicalQuestions": [
+    "How should I rank life’s pleasures and advantages beneath wisdom and the fear of the Lord in daily decisions?",
+    "In what concrete ways can I practice mercy, given its enduring value compared to material security?",
+    "How can I cultivate disciplined self-sufficiency rather than unhealthy dependence on others’ resources?",
+    "What habits would help me address anxiety and restless sleep arising from worry and contention?",
+    "How does awareness of wealth’s impermanence shape my approach to earning, giving, and saving?"
+  ],
+  "uncertainAreas": "The intensity signified by “seven times” upon sinners is hyperbolic and not quantified. The line “When he opens his hands, he will rejoice. So will transgressors pass away at the consummation” (v.14) is ambiguous about the subject and timing. “Faith shall stand forever” (v.12) may mean faithfulness/loyalty depending on translation. The metaphor about descendants of the impious as roots by a rock (v.15) and “scarcity will seem sweet… but a fire will burn in his belly” (v.32) are figurative and open to interpretive nuance.",
+  "createdAt": "2025-10-19T03:18:30.469Z",
+  "modelId": "gpt-5-2025-08-07"
+}

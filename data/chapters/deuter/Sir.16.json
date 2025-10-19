@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.16",
+  "briefOverview": "Sirach contrasts the worth of a single God-fearing person with the ruin of many impious, and underscores God’s just, all-seeing governance of creation.",
+  "summary": "The chapter warns against rejoicing in or approving of successful but irreverent children, asserting that one God-fearing child is better than many impious and that a wise individual can uphold a nation. The author recalls historical judgments to show that no one escapes divine justice, while also affirming that mercy and wrath both belong to God, who judges each person according to their works. Readers are cautioned not to think they are hidden from God, whose gaze shakes creation and who understands every heart. Human understanding is limited; many of God’s works are hidden and their full assessment comes at the end. The sage exhorts the listener to embrace discipline and wisdom, describing God’s orderly creation, its harmonious functions, and God’s benevolent provision for all life, which ultimately returns to Him.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book composed in Hebrew by Jesus ben Sira in early second-century BCE Jerusalem; it was translated into Greek by his grandson around 132 BCE. The work gathers instructional sayings on piety, ethics, and social life, closely aligned with Torah observance and practical wisdom. It circulated widely in the Greek-speaking Jewish Diaspora via the Septuagint and later became deuterocanonical in Catholic and Orthodox canons, while remaining non-canonical in most Protestant traditions.",
+  "externalReferences": "The “giants of antiquity” likely recalls the Nephilim and the generation destroyed by the Flood (Genesis 6:4; 7:21–23), used here as examples of divine judgment. The “place of Lot’s sojourn” points to Sodom and Gomorrah’s destruction for arrogance and sin (Genesis 19:24–25). The remark about “six hundred thousand men” appears to allude to the wilderness generation—about 600,000 Israelite men—who were judged for unbelief and died in the desert (Exodus 12:37; Numbers 14:29–35). Sirach’s claim that one wise person benefits a nation resonates with the wisdom theme that the upright exalt a city (Proverbs 11:11), and the insistence that no one is hidden from God parallels texts on God’s comprehensive knowledge and judgment (Psalm 139:7–12; Ecclesiastes 12:14).",
+  "seeAlso": [
+    "Genesis 6:4",
+    "Genesis 7:21-23",
+    "Genesis 19:24-25",
+    "Exodus 12:37",
+    "Numbers 14:29-35",
+    "Proverbs 11:11",
+    "Psalm 139:7-12",
+    "Ecclesiastes 12:14",
+    "Job 38:4-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Value of the godly child"
+    },
+    {
+      "range": "6-15",
+      "title": "Examples of divine judgment and mercy"
+    },
+    {
+      "range": "16-31",
+      "title": "God’s omniscience and ordered creation"
+    }
+  ],
+  "themes": [
+    "Divine justice and mercy",
+    "Accountability",
+    "God’s omniscience",
+    "Wisdom and discipline",
+    "Created order"
+  ],
+  "practicalQuestions": [
+    "Where do I equate success with goodness, and how can I re-evaluate character as the true measure of worth?",
+    "How might my private choices change if I truly believed nothing is hidden from God?",
+    "In what ways can a single wise and faithful person positively influence my family, workplace, or community?",
+    "How can I embrace discipline that shapes my understanding rather than following impulsive or empty thoughts?",
+    "What practices help me trust God’s hidden work and wait for His final evaluation rather than rushing to conclusions?"
+  ],
+  "uncertainAreas": "The identity of the “giants of antiquity” (likely the Nephilim) and the precise referent of the “six hundred thousand men” (presumably the wilderness generation) are inferred but not explicitly named. The phrase “synagogue of sinners” may allude to a specific rebellious assembly but is not clearly tied to a single event. Translation nuances (e.g., verses 27–31 about creation’s functions) could affect interpretation of how creation ‘labors’ or ‘returns’ to God.",
+  "createdAt": "2025-10-19T03:04:43.872Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "2Esd.6",
+  "briefOverview": "God declares his sole authorship of creation and the end, reveals signs preceding the close of the present age, and Ezra responds with a creation hymn and a lament over Israel’s subjection.",
+  "summary": "The heavenly speaker affirms that before anything existed he planned and made all things, and that the end will also come by him alone. In response to Ezra’s question about the timing of the ages, he is told that Esau marks the end of the present age and Jacob the beginning of the next, and he is prepared to hear portents of the end. A powerful voice announces signs sealing the passing age: opened heavenly books, precocious infants, barren and empty stores, a terrifying trumpet, civil strife, and even halted springs; yet a remnant will see salvation, the taken-up ones, and a renewed order where evil is erased and truth revealed. Ezra is instructed to fast again and not to be hasty in speculations. After fasting, Ezra prays, rehearsing the six days of creation, the setting apart of Behemoth and Leviathan, and Adam’s dominion, and then protests that though Israel is God’s cherished people, the nations now rule them; he asks how long until Israel inherits the world made for them.",
+  "externalContext": "2 Esdras (also known as 4 Ezra) is a Jewish apocalyptic work likely composed in the late first century CE after the destruction of the Second Temple (70 CE). Its dialogues wrestle with theodicy, Israel’s suffering under foreign rule (often Rome), and hope for a divinely ordered future. In late Second Temple Jewish literature, Esau/Edom sometimes symbolically represents Rome, framing current oppression within biblical genealogy. The book survives primarily in Latin, with translations, and appears in the Christian Apocrypha; it deeply engages Israel’s Scriptures while using apocalyptic imagery typical of the period.",
+  "externalReferences": "The creation sequence Ezra recounts mirrors Genesis 1:1–31, including the ordering of days and the formation of luminaries and living creatures. The figures of Behemoth and Leviathan evoke Job 40:15–24 and Job 41:1–34, as well as Leviathan traditions in Psalm 74:14 and Isaiah 27:1. The image of heavenly books being opened aligns with Daniel 7:9–10. The mention of men who were taken up and did not taste death most naturally recalls Enoch (Genesis 5:24) and Elijah (2 Kings 2:11). The Jacob–Esau motif that frames the ages draws on their birth narrative in Genesis 25:22–26, where Jacob grasped Esau’s heel.",
+  "seeAlso": [
+    "Genesis 1:1-31",
+    "Genesis 25:22-26",
+    "Job 40:15-24",
+    "Job 41:1-34",
+    "Psalm 74:14",
+    "Isaiah 27:1",
+    "Daniel 7:9-10",
+    "Genesis 5:24",
+    "2 Kings 2:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Creator and Finisher"
+    },
+    {
+      "range": "7-34",
+      "title": "Ages Divided and End Signs"
+    },
+    {
+      "range": "35-59",
+      "title": "Creation Prayer and Lament"
+    }
+  ],
+  "themes": [
+    "Sovereign creation",
+    "End-time signs",
+    "Judgment and salvation",
+    "Israel’s election",
+    "Theodicy"
+  ],
+  "practicalQuestions": [
+    "How should I respond to uncertainty about “times” without becoming hasty or speculative?",
+    "In seasons of upheaval, what practices of prayer and fasting might align my heart with God’s purposes?",
+    "Where do I see deceit being quenched and truth taking root, and how can I cooperate with that renewal?",
+    "How do I hold together confidence in God’s sovereignty with present experiences of injustice?",
+    "What does living as part of a faithful remnant look like in my community?"
+  ],
+  "uncertainAreas": "The text’s identification of “the men who were taken up” is not explicit (likely Enoch and Elijah, but not named). The statement that “Esau is the end of this age” may allude to Rome/Edom in period interpretation, though the chapter itself does not state this. The precise meaning of cosmic signs (e.g., halted springs for three hours) and the logistics of “books opened before the firmament” are symbolic and not fully explained.",
+  "createdAt": "2025-10-19T02:01:53.977Z",
+  "modelId": "gpt-5-2025-08-07"
+}

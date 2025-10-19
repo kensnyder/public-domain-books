@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.20",
+  "briefOverview": "A chain of wisdom sayings contrasts prudent speech, honest dealing, and teachable humility with rash words, manipulative gifts, lying, and corrupt justice.",
+  "summary": "The chapter urges correction over anger and commends contrition that prevents deliberate sin. It contrasts wise silence and timely speech with talkativeness and presumption that harm oneself. A series of proverbs evaluates gifts, lending, and social favors, warning that stingy or self-serving generosity breeds resentment and isolation. The unstable tongue, foolish storytelling, and promises made to please others lead to disgrace and self-destruction. Lying is denounced as worse than theft, with both ending in ruin. By contrast, wise words benefit their speaker, diligent labor and just conduct exalt a person, yet the pragmatics of power and patronage are acknowledged. Bribes blind judges, and hidden wisdom is likened to unused treasure, implying that wisdom should be exercised openly.",
+  "externalContext": "Sirach (Ben Sira) was composed in Hebrew in early second-century BCE Jerusalem, reflecting the Jewish wisdom tradition shaped by Torah ethics and everyday social realities. The author likely taught in a wisdom setting, advising students navigating civic life, courts, and patronage networks under Hellenistic rule. The work was translated into Greek by the author’s grandson around 132 BCE, which spread its influence in the Greek-speaking Jewish and later Christian communities. Ancient Near Eastern and biblical law condemned judicial bribery, yet informal gift-giving within patronage systems remained a pervasive social practice, creating ethical tensions reflected in this chapter.",
+  "externalReferences": "The stress on timely silence and speech recalls Ecclesiastes 3:7 and Proverbs 10:19, which warn that many words multiply transgression. The denunciation of bribes echoes Israel’s legal tradition: “You shall take no bribe, for a bribe blinds the clear-sighted” (Exodus 23:8; cf. Deuteronomy 16:19). The warnings about the tongue resonate with James 3:5–8 on the tongue’s destructive potential. The chapter’s praise of correction and wise speech aligns broadly with Proverbs’ recurring commendations of reproof and restraint (e.g., Proverbs 17:27–28).",
+  "seeAlso": [
+    "Ecclesiastes 3:7",
+    "Proverbs 10:19",
+    "Exodus 23:8",
+    "Deuteronomy 16:19",
+    "James 3:5-8",
+    "Proverbs 17:27-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Reproof and prudent speech"
+    },
+    {
+      "range": "9-19",
+      "title": "Gifts, lending, and social ties"
+    },
+    {
+      "range": "20-33",
+      "title": "Tongue, honesty, and justice"
+    }
+  ],
+  "themes": [
+    "Prudent speech",
+    "Integrity",
+    "Justice and bribery",
+    "Motives in giving",
+    "Teachability"
+  ],
+  "practicalQuestions": [
+    "When I need to correct someone, how can I do so in a way that invites repentance rather than provokes defensiveness?",
+    "Where might my words be excessive or mistimed, and how can I cultivate timely silence?",
+    "What motives drive my giving or lending—genuine care or a desire for leverage, praise, or control?",
+    "Am I ever tempted to shade the truth to win approval, and how can I resist people-pleasing that endangers integrity?",
+    "How do I ensure fairness and avoid even the appearance of bribery or favoritism in decisions I influence?",
+    "Am I stewarding both my resources and my wisdom openly and responsibly, rather than hoarding them?"
+  ],
+  "uncertainAreas": "Several metaphors and maxims are terse and ambiguous: the comparison in vv. 2–3 (eunuch’s lust and violent judgment), the meaning of “his gaze is divided, sevenfold” (v. 14), the note that poverty prevents sin (v. 23), the pragmatic claim that pleasing the powerful escapes injustice (v. 30), and the paradox about hiding foolishness versus concealing wisdom (v. 33).",
+  "createdAt": "2025-10-19T03:06:56.568Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "AddEsth.14",
+  "briefOverview": "Esther offers a fervent, penitential prayer, pleading for God’s help against the plot threatening her people.",
+  "summary": "Seized with fear, Esther removes her royal finery, adopts mourning, and prays to the Lord, acknowledging Israel’s election and confessing the people’s sins. She affirms God’s justice and describes the enemies’ aim to suppress Israel’s worship, magnify idols, and exalt a mortal king. She asks God not to yield His scepter to what is nothing, to overturn the hostile plan, and to expose its instigator. Esther petitions for eloquent speech and for the king’s heart to turn against the adversary. She asserts her personal integrity—rejecting idolatrous practices, royal indulgences, and the trappings of status—and concludes by pleading for deliverance for Israel and courage for herself.",
+  "externalContext": "This prayer appears in the Greek Additions to Esther (commonly found in the Septuagint), which expand the Hebrew narrative by making explicit the religious dimensions largely implicit in the Masoretic Text. The setting is the Persian Empire under a king identified as Ahasuerus (often associated with Xerxes I), during a time when a royal decree threatened the Jewish population. Public mourning with ashes, altered dress, and fasting were customary expressions of grief and supplication in the ancient Near East. The references to idolatrous feasts and libations reflect pervasive imperial cultic practices that Jews sought to avoid. The prayer’s concern for the altar and the house’s glory evokes the Jerusalem temple, whose welfare symbolized the community’s covenantal life even while many Jews lived in diaspora.",
+  "externalReferences": "Esther’s appeal to God’s past redemption recalls the Exodus tradition and covenant promises (Exodus 6:6–8). Her request for divinely given speech echoes God’s assurance to Moses, “I will be with your mouth” (Exodus 4:12). Her abstention from royal food and libations resonates with Daniel’s refusal to defile himself with the king’s provisions (Daniel 1:8), and her plea that plots rebound on their makers parallels the reversal motif in Psalms (Psalm 7:15–16). The dismissal of idols as “what has no being” aligns with prophetic critiques of idols’ vanity and nonexistence (Isaiah 41:24).",
+  "seeAlso": [
+    "Esther 4:16",
+    "Exodus 6:6-8",
+    "Exodus 4:12",
+    "Daniel 1:8",
+    "Psalm 7:15-16",
+    "Jonah 3:6",
+    "Isaiah 41:24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Mourning and humiliation"
+    },
+    {
+      "range": "3-11",
+      "title": "Confession and national peril"
+    },
+    {
+      "range": "12-19",
+      "title": "Petition for courage and deliverance"
+    }
+  ],
+  "themes": [
+    "Repentant prayer",
+    "Divine sovereignty",
+    "Faith under oppression",
+    "Reversal"
+  ],
+  "practicalQuestions": [
+    "How does honest confession shape my intercession for others in crisis?",
+    "Where might integrity require refusing practices that compromise my convictions?",
+    "What would it mean to seek God’s courage and eloquence before people who hold power over me?",
+    "How can I use status or influence humbly for the good of a vulnerable community?",
+    "In what ways do cultural idols tempt me to shift my trust from God to human power?"
+  ],
+  "uncertainAreas": "“The lion” likely refers metaphorically to the Persian king, but the nuance of the image is not explicit in the text. The extent to which Esther could consistently avoid royal feasts or libations is not historically clear. References to quenching the altar and the glory of the house may be rhetorical rather than indicating a specific imminent threat to the Jerusalem temple.",
+  "createdAt": "2025-10-19T02:40:38.062Z",
+  "modelId": "gpt-5-2025-08-07"
+}

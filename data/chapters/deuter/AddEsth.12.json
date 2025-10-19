@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "AddEsth.12",
+  "briefOverview": "Mordecai discovers and reports a plot against the king, which is recorded and initially rewarded, while Haman’s hostility toward Mordecai and his people is introduced.",
+  "summary": "Mordecai overhears two royal eunuchs plotting to attack King Artaxerxes. He investigates, informs the king, and the conspirators are examined, confess, and are executed. The events are recorded officially, and Mordecai also writes an account. The king appoints Mordecai to serve at court and rewards him. Haman, son of Hammedatha, rises in honor and seeks to harm Mordecai and his people, connected here to the matter of the two eunuchs.",
+  "externalContext": "This chapter belongs to the Greek Additions to Esther in the Septuagint, which expand and sometimes reshape the Hebrew narrative, often providing explicit motivations and documentary framing. In the Greek version, the Persian king is called Artaxerxes, while the Hebrew text names Ahasuerus (commonly identified with Xerxes I). Royal eunuchs frequently served as palace guards and officials in Achaemenid courts, and plots against the king were a known concern. Persian courts maintained chronicles of notable events, which aligns with the emphasis on official records in Esther.",
+  "externalReferences": "The core incident matches Esther 2:21–23, where Mordecai discovers a plot by two eunuchs (Bigthan and Teresh) and the matter is recorded. The emphasis on the royal record anticipates Esther 6:1–3, where the king later discovers Mordecai’s earlier service in the chronicles. The introduction of Haman’s enmity prepares for Esther 3:1–6, where Haman targets the Jews because of Mordecai, and connects to the later letters and records associated with Purim (Esther 9:20).",
+  "seeAlso": [
+    "Esther 2:21-23",
+    "Esther 3:1-6",
+    "Esther 6:1-3",
+    "Esther 9:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Plot Discovered and Punished"
+    },
+    {
+      "range": "4-5",
+      "title": "Events Recorded and Rewarded"
+    },
+    {
+      "range": "6",
+      "title": "Haman’s Hostility Introduced"
+    }
+  ],
+  "themes": [
+    "Loyalty and treachery",
+    "Royal records",
+    "Retribution",
+    "Enmity against Jews"
+  ],
+  "practicalQuestions": [
+    "How do we balance prudence and courage when reporting wrongdoing in powerful institutions?",
+    "What systems of record-keeping help ensure that just actions are remembered and rewarded fairly?",
+    "How should one respond when doing right provokes retaliation from others?",
+    "In what ways might personal grievances escalate into broader harm against a community, and how can that be restrained?"
+  ],
+  "uncertainAreas": "The term “Bougaean” for Haman is obscure; its ethnic or political nuance is unclear. This addition states Mordecai was rewarded and appointed after the plot, which can appear in tension with Esther 6:1–3 where no honor had yet been conferred; it may reflect a different tradition or a less formal reward. The motive for Haman’s hostility is linked here to the eunuchs’ affair, whereas the Hebrew text emphasizes Mordecai’s refusal to bow (Esther 3:2–6); the relationship between these motives is not explicit.",
+  "createdAt": "2025-10-19T02:39:30.845Z",
+  "modelId": "gpt-5-2025-08-07"
+}

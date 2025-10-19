@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Esd.2",
+  "briefOverview": "A prophetic oracle alternates between rebuke for covenant unfaithfulness and lavish promises of restoration, culminating in a vision of the faithful being crowned by the Son of God.",
+  "summary": "The Lord recounts delivering the people and giving commandments they refused, declaring judgment, scattering, and the blotting out of names, with a warning that unheeding nations will fare like Sodom. Yet promises follow: the kingdom of Jerusalem is given to a new people, whose rest, protection, and joy are assured, with images of the tree of life, resurrection, and abundant provision. The mother-Zion figure is told to embrace her children as God raises the dead, provides prophetic help, and commands ethical care for the vulnerable. The righteous are urged not to fear the coming tribulation; they will rejoice while others mourn, being covered so as not to see Gehenna. Ezra then addresses understanding nations to await the shepherd at the end of the age, to flee the present age’s shadow, and to join the sealed at the Lord’s feast. On Mount Zion he sees an innumerable multitude in white, receiving crowns and palms from a towering young man identified by the angel as the Son of God, whom they had confessed. Ezra is told to report these wonders to the people.",
+  "externalContext": "2 Esdras (often numbered 4 Ezra) is a Jewish apocalyptic work most likely composed after the destruction of the Jerusalem temple in 70 CE; however, chapters 1–2 and 15–16 are commonly regarded as later Christian additions (sometimes called 5 Ezra and 6 Ezra). The genre employs visions, angelic interpreters, and symbolic numbers to interpret current suffering in light of divine judgment and end-time hope. The mother-as-Zion motif is common in Jewish literature, personifying the community or Jerusalem as a grieving yet hopeful mother. References to Gehenna reflect Second Temple Jewish notions of postmortem judgment. The emphasis on care for widows and orphans mirrors longstanding Torah and prophetic concerns for social justice in Israel’s covenant life.",
+  "externalReferences": "The warning to Assyria and the comparison to Sodom and Gomorrah recall Genesis 19:24–28. The ethical commands to defend widows, orphans, and the vulnerable echo core covenantal calls such as Isaiah 1:17 and Deuteronomy 10:18–19. Promises of the tree of life and resurrection resonate with Genesis 2:9; 3:22–24 and Daniel 12:2, while the sealing, white garments, palms, and crowns closely parallel Revelation 7:9–14 and Revelation 2:10; the marking of the righteous also recalls Ezekiel 9:4, and the shepherd imagery aligns with Ezekiel 34:23 and John 10:11.",
+  "seeAlso": [
+    "Genesis 19:24-28",
+    "Isaiah 1:17",
+    "Deuteronomy 10:18-19",
+    "Genesis 2:9",
+    "Genesis 3:22-24",
+    "Daniel 12:2",
+    "Ezekiel 9:4",
+    "John 10:11",
+    "Revelation 7:9-14",
+    "Revelation 2:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Rebuke and judgment"
+    },
+    {
+      "range": "10-32",
+      "title": "Promises, ethics, resurrection hope"
+    },
+    {
+      "range": "33-48",
+      "title": "Call to nations; crowned vision"
+    }
+  ],
+  "themes": [
+    "Covenant judgment",
+    "Mercy and restoration",
+    "Resurrection hope",
+    "Justice for vulnerable",
+    "Eschatological reward"
+  ],
+  "practicalQuestions": [
+    "Where am I resisting God’s instruction, and how might I return before judgment hardens into loss?",
+    "What concrete steps can I take this week to defend the widow, orphan, injured, and poor in my community?",
+    "How can I cultivate watchfulness and freedom from the “shadow of this age” in my habits and media intake?",
+    "In times of tribulation, what practices help me rest in God’s promise to cover and keep the faithful?",
+    "How does hope in bodily resurrection shape the way I honor the dead and comfort the grieving?"
+  ],
+  "uncertainAreas": "The “mother” figure likely represents Zion/Israel, but the shifting addressees (Israel vs. nations) and the transfer of promises to “others” are not fully defined. The instruction to “pray that your days may be few” is ambiguous—possibly a plea to hasten the end. The identity of the “young man” as the “Son of God” is presented plainly in the vision, yet how this title is construed (messianic vs. explicitly Christian) may reflect later redaction. The phrase “first place in my resurrection” is unclear regarding sequence or status among the resurrected.",
+  "createdAt": "2025-10-19T01:58:01.676Z",
+  "modelId": "gpt-5-2025-08-07"
+}

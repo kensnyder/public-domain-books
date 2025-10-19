@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Sir.15",
+  "briefOverview": "The chapter extols Wisdom’s rewards for those who fear God and underscores human responsibility in choosing obedience over sin.",
+  "summary": "Wisdom, personified as a noble woman, welcomes those who fear God, nourishing them with life-giving understanding and granting honor, insight, and lasting reputation. She empowers the faithful to speak with wisdom in the assembly and to rejoice. Fools and liars are estranged from her, while truth-tellers find success in her company. The text rejects blaming God for straying, insisting that God hates error and does not lead anyone into sin. From creation, God gave humans commandments and the freedom to choose; life and death, good and evil are set before each person. God sees all, favors those who fear him, and has given no one permission to sin. A concluding note warns that God does not desire a multitude of unfaithful, useless children.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in Hebrew by Ben Sira in early second-century BCE Jerusalem and later translated into Greek by his grandson. It belongs to Jewish wisdom literature, which often personifies Wisdom as a woman who guides the righteous. References to speaking in the ‘assembly’ reflect the communal and liturgical setting of teaching in Israel; the Greek term ekklesia later influenced Christian usage but originally meant the gathered congregation. The emphasis on moral agency and keeping commandments speaks to debates in the Hellenistic period about fate and human freedom.",
+  "externalReferences": "The choice between life and death, good and evil directly echoes Deuteronomy 30:15–20, where Moses sets before Israel the way of life and the way of death. Wisdom’s personification and her role in granting understanding resonate with Proverbs 8 and 9 (e.g., Proverbs 8:1–11). The insistence that God does not cause anyone to sin parallels James 1:13–17, which teaches that God does not tempt people to evil. The two-ways motif also aligns with Psalm 1:1–6, contrasting the paths of the righteous and the wicked.",
+  "seeAlso": [
+    "Deuteronomy 30:15-20",
+    "Proverbs 8:1-11",
+    "Proverbs 9:1-6",
+    "James 1:13-17",
+    "Psalm 1:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Wisdom’s gifts to the godfearing"
+    },
+    {
+      "range": "11-13",
+      "title": "Do not blame God"
+    },
+    {
+      "range": "14-22",
+      "title": "Choice, commandments, accountability"
+    }
+  ],
+  "themes": [
+    "Wisdom personified",
+    "Fear of the Lord",
+    "Moral responsibility",
+    "Obedience and choice",
+    "Truth versus deceit"
+  ],
+  "practicalQuestions": [
+    "Where do I actively seek Wisdom’s guidance, and how do I make space to be taught?",
+    "In what ways do my words reflect truth, honor, and reverence, especially in public or communal settings?",
+    "Do I ever rationalize wrongdoing by blaming circumstances or God, and how can I take responsibility instead?",
+    "What concrete choices before me today reflect the path of life versus the path of death?",
+    "How can I align my decisions more closely with God’s commandments rather than impulse or pressure?"
+  ],
+  "uncertainAreas": "Verse 5’s “in the midst of the Church” may reflect a translation choice (assembly/ekklesia) with later connotations; the personification pronouns occasionally create ambiguity about subject/object. Verse 22 appears to anticipate the next chapter (often numbered at the start of Sirach 16), so its placement here may be editorial.",
+  "createdAt": "2025-10-19T03:04:02.083Z",
+  "modelId": "gpt-5-2025-08-07"
+}

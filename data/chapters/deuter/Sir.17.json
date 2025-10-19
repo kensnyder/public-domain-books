@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.17",
+  "briefOverview": "Sirach 17 reflects on God’s creation of humanity, his covenantal instruction, and the call to repent while life remains.",
+  "summary": "The chapter recounts how God created humans from the earth in his image, endowed them with reason, senses, and moral discernment, and gave them dominion over creatures. He revealed his works so they would praise him, gave them the “law of life,” and established an eternal covenant, warning them against iniquity and instructing them regarding their neighbor. God’s oversight is constant, with Israel named as his chosen portion, and human deeds laid open before him. The text highlights almsgiving as a protective “seal” that leads to reward, and urges repentance, confession, and thanksgiving before death. It closes by stressing God’s greatness and human frailty: even the sun fails, fleshly malice is reproved, and all people are ‘earth and ashes.’",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book composed in Hebrew by Ben Sira in early second-century BCE Jerusalem; it was translated into Greek by his grandson around 132 BCE. It addresses a community navigating Hellenistic pressures, commending fidelity to the Torah as the path of wisdom. The book frequently stresses practical piety—almsgiving, confession, and communal worship—and assumes a traditional view of the afterlife (Sheol) where praise and repentance are not performed, thus urging action in this life.",
+  "externalReferences": "The creation themes echo Genesis: humanity made in God’s image and given dominion (Genesis 1:26–28), the creation of a helper (Genesis 2:18), and mortality from dust (Genesis 3:19). The phrase “earth and ashes” recalls Abraham’s confession of humility (Genesis 18:27). The warning to treat one’s neighbor rightly aligns with the Torah’s command to love one’s neighbor (Leviticus 19:18). Emphasis on almsgiving resembles Tobit’s teaching that almsgiving delivers from death and atones for sin (Tobit 12:8–9), and the exhortation to confess before death resonates with the psalmist’s claim that in death there is no praise or remembrance (Psalm 6:5).",
+  "seeAlso": [
+    "Genesis 1:26-28",
+    "Genesis 2:18",
+    "Genesis 3:19",
+    "Genesis 18:27",
+    "Leviticus 19:18",
+    "Exodus 20:1-17",
+    "Tobit 12:8-9",
+    "Psalm 6:5",
+    "Ecclesiastes 12:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Creation, gifts, and law"
+    },
+    {
+      "range": "13-17",
+      "title": "God’s oversight; Israel chosen"
+    },
+    {
+      "range": "18-31",
+      "title": "Almsgiving, repentance, and frailty"
+    }
+  ],
+  "themes": [
+    "Creation in God’s image",
+    "Covenant and law",
+    "Repentance and mercy",
+    "Almsgiving and recompense",
+    "Human mortality"
+  ],
+  "practicalQuestions": [
+    "How does seeing myself as made in God’s image affect how I use my capacities of speech, thought, and judgment today?",
+    "Where do I need to repent now rather than postponing change, given life’s brevity?",
+    "What practices of generosity (almsgiving) can I adopt that reflect God’s justice and compassion?",
+    "How can I honor God’s law in my treatment of my neighbor this week?",
+    "In what ways can I join a community that lives to praise God (‘the holy generation’)?"
+  ],
+  "uncertainAreas": "Verse 14’s “ruler over each people” could mean political leaders or angelic patrons; the text does not specify. Verses 18–19 contain imagery about almsgiving as a seal and its reward “returning to the hidden places of the earth,” whose precise nuance is unclear in this translation. The boundary marker “[Sirach 18]” suggests a chapter division issue in the source; verse numbering and phrasing may vary across manuscripts and translations.",
+  "createdAt": "2025-10-19T03:05:21.493Z",
+  "modelId": "gpt-5-2025-08-07"
+}

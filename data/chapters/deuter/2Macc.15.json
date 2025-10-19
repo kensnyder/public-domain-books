@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Macc.15",
+  "briefOverview": "Judas Maccabeus confronts Nicanor’s arrogant threat with prayerful confidence, leading to a decisive victory credited to divine aid and the institution of a commemorative day.",
+  "summary": "Nicanor presses for battle even on the Sabbath, boasting against Israel’s God, while Judas encourages the people to trust in past divine help and the promises of the Law and Prophets. He recounts a vision of the former high priest Onias and the prophet Jeremiah praying for Israel, with Jeremiah handing him a divinely given golden sword. Prioritizing the sanctuary’s safety over personal concerns, Judas leads the people to prayer and battle, invoking the God who sent an angel in Hezekiah’s day against Sennacherib. The Jews fight while praying and rout the enemy, killing many, including Nicanor. Judas orders Nicanor’s head, hand, and tongue displayed as a sign of God’s deliverance, and the people decree annual celebration of the day before “Mardocheus’ day.” The book closes with the epitomist’s modest literary epilogue.",
+  "externalContext": "The events occur during the Maccabean revolt against Seleucid rule in the second century BCE, when Hellenistic authorities sought to control Judea and its cult. Seleucid armies commonly deployed war elephants, reflected in the chapter’s mention of “beasts.” Nicanor served under Demetrius I, and his defeat became a symbol of Jewish resistance. The day commemorating Nicanor’s downfall (often called Nicanor’s Day) stood adjacent to Purim in the late Second Temple calendar. 2 Maccabees is an epitome of a larger work by Jason of Cyrene, which explains the polished, reflective conclusion (cf. 2 Maccabees 2:23).",
+  "externalReferences": "Judas’ prayer recalls the angelic defeat of Sennacherib’s army under Hezekiah (2 Kings 19:35; Isaiah 37:36), using that precedent to ask for similar heavenly intervention. The sanctity of the Sabbath alluded to by the Jews is grounded in the creation blessing and the Decalogue (Genesis 2:3; Exodus 20:8–11). The “day before Mardocheus’ day” points to the proximity of this victory to Purim (Esther 9:20–22). A parallel account of Nicanor’s defeat and the institution of a commemorative day appears in 1 Maccabees 7:43–49.",
+  "seeAlso": [
+    "2 Kings 19:35",
+    "Isaiah 37:36",
+    "Genesis 2:3",
+    "Exodus 20:8-11",
+    "Esther 9:20-22",
+    "1 Maccabees 7:43-49",
+    "2 Maccabees 2:23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-11",
+      "title": "Nicanor’s pride; Judas’s exhortation"
+    },
+    {
+      "range": "12-16",
+      "title": "Vision of Onias and Jeremiah"
+    },
+    {
+      "range": "17-39",
+      "title": "Prayer, victory, festival, epilogue"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Sanctuary holiness",
+    "Prayer in battle",
+    "Intercession of the righteous",
+    "Commemoration"
+  ],
+  "practicalQuestions": [
+    "What practices help a community remember past deliverances when facing present threats?",
+    "How should reverence for sacred times and places shape decisions under pressure?",
+    "In conflict or crisis, how can prayer and preparation work together rather than compete?",
+    "How might communities mark and transmit stories of deliverance in ways that strengthen future faithfulness?",
+    "What attitudes or actions in leadership foster courage without glorifying violence?"
+  ],
+  "uncertainAreas": "The text specifies “the thirtieth day of the twelfth month” as the festival date before “Mardocheus’ day,” though many traditions read “thirteenth”; this may reflect a textual variant. The phrase “through the appearance of God” could indicate a sensed divine presence or angelic aid; the narrative does not detail a visible manifestation in battle. The vision of Onias and Jeremiah is presented as credible encouragement, yet whether it functions as literal heavenly intervention or symbolic assurance is not explicitly clarified.",
+  "createdAt": "2025-10-19T02:37:44.856Z",
+  "modelId": "gpt-5-2025-08-07"
+}

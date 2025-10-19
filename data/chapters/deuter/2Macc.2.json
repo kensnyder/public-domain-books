@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Macc.2",
+  "briefOverview": "The chapter recalls traditions about Jeremiah concealing sacred objects and anticipates God’s future restoration, then shifts to an editorial preface explaining the book’s abridged method and purpose. It also invites readers to keep the purification festival commemorating the temple’s rededication.",
+  "summary": "The text recounts that the prophet Jeremiah, warning against idolatry, hid the tabernacle, ark, and altar of incense in a cave on the mountain where Moses saw the promised land, declaring the location would remain unknown until God regathers his people and reveals his glory. It recalls how divine fire consumed sacrifices under Moses and Solomon and notes that Solomon kept an eight-day celebration at the temple’s dedication. The writings of Nehemiah are cited, including his founding of a library that collected royal acts, prophetic works, Davidic writings, and royal letters regarding holy gifts; similarly, Judas Maccabeus gathered writings lost during wartime. The recipients are encouraged to send for these materials if needed and to keep the days of purification, expressing hope that God will soon have mercy, gather his people from all lands, and restore the holy place. The narrator then outlines the scope: Judas Maccabeus, the temple’s purification and altar dedication, wars against Antiochus IV Epiphanes and his son Eupator, and heavenly signs aiding faithful defenders. Finally, the editor explains that this work is an abridgment of Jason of Cyrene’s five books, aiming at clarity, memorability, and benefit, defending the choice of brevity with analogies to building and banqueting, and announcing the start of the story.",
+  "externalContext": "2 Maccabees was composed in the Hellenistic period (2nd century BCE) as an epitome of a larger five-volume history by Jason of Cyrene, a common literary practice in Greek historiography. The historical backdrop is the Maccabean revolt (167–160 BCE) against Seleucid rule, following Antiochus IV Epiphanes’ profanation of the Jerusalem temple. The “purification” and dedication allude to the rededication of the temple in 164 BCE, commemorated later as Hanukkah, an eight-day festival. The letters at the beginning of 2 Maccabees are traditionally addressed to Jews in Egypt (the diaspora), urging solidarity in observance. The tradition of Jeremiah hiding the ark is not found in the Hebrew Bible but appears in Second Temple Jewish literature and reflects hopes for eschatological restoration of temple glory.",
+  "externalReferences": "The mountain where Moses saw the inheritance corresponds to Mount Nebo (Deuteronomy 34:1). The appearing cloud and divine fire consuming sacrifices recall the tabernacle’s filling with the glory of the Lord (Exodus 40:34–38) and fire from the Lord at the inaugural sacrifices (Leviticus 9:24); the parallel at Solomon’s dedication is in 2 Chronicles 7:1–10, including an eight-day celebration (vv. 8–10). The purification and dedication referenced here correspond to the rededication described in 1 Maccabees 4:36–59 and narrated later in 2 Maccabees 10:1–8.",
+  "seeAlso": [
+    "Deuteronomy 34:1",
+    "Exodus 40:34-38",
+    "Leviticus 9:24",
+    "2 Chronicles 7:1-10",
+    "1 Maccabees 4:36-59",
+    "2 Maccabees 10:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-12",
+      "title": "Jeremiah’s concealment and glory"
+    },
+    {
+      "range": "13-18",
+      "title": "Libraries and purification appeal"
+    },
+    {
+      "range": "19-32",
+      "title": "Scope and method of epitome"
+    }
+  ],
+  "themes": [
+    "Temple restoration",
+    "Divine presence",
+    "Memory and records",
+    "Abridged history",
+    "Faithful observance"
+  ],
+  "practicalQuestions": [
+    "How can communities today preserve and transmit their sacred memories and texts during times of upheaval?",
+    "What practices help guard hearts against idolatry in culturally alluring environments?",
+    "In what ways can commemorating past deliverances (festivals, memorials) sustain present hope and unity?",
+    "When telling important histories, how should we balance completeness with accessibility for diverse audiences?",
+    "How does the promise of God’s gathering and mercy shape a community’s outlook amid dispersion or loss?"
+  ],
+  "uncertainAreas": "The identification of the mountain with Nebo is implied but not explicit. The account of Jeremiah hiding the ark and tabernacle reflects a later tradition not found in the canonical books; its historical status is uncertain. The chapter blends a letter and an editorial preface; precise boundaries and original audiences rely on context from adjacent chapters.",
+  "createdAt": "2025-10-19T02:27:01.826Z",
+  "modelId": "gpt-5-2025-08-07"
+}

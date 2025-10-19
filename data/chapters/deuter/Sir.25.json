@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Sir.25",
+  "briefOverview": "A collection of wisdom sayings that praise harmony, age-tested judgment, and the fear of God, followed by extended warnings about the devastation caused by a “wicked wife.”",
+  "summary": "The chapter opens by commending three things pleasing to God and people: unity among brothers, neighborly love, and marital concord, while condemning three types: an arrogant poor person, a wealthy liar, and a foolish elder. It urges the pursuit of wisdom early in life and extols judgment, counsel, and experience in the aged, climaxing in the primacy of the fear of God. Nine blessings are listed—such as joy in children, a wise wife, faithful speech, a true friend, and just teaching—yet none surpass the one who fears the Lord. The fear of God is presented as the beginning of love and closely joined to faith. The latter half offers stark cautions about a destructive spouse, warning against being swayed by beauty alone and describing the turmoil caused by a “wicked wife,” even recommending strict boundaries and, if unremedied, separation. The rhetoric is intense and hyperbolic, emphasizing household peace and the moral gravity of domestic discord.",
+  "externalContext": "Sirach (Ben Sira/Ecclesiasticus) was composed in early second-century BCE Jerusalem by a Jewish sage offering instruction to students within a patriarchal and clan-based society. Wisdom literature often uses numbered lists, antitheses, and exaggerated contrasts to sharpen moral teaching. Respect for elders, communal harmony, and household order were key social goods in Second Temple Judaism. Ben Sira’s severe warnings about a “wicked wife” reflect ancient male-centered household norms; elsewhere (e.g., Sirach 26) he also praises a good spouse, illustrating a broader sapiential concern for marital stability rather than a comprehensive doctrine of gender. The chapter’s stress on the “fear of God” aligns with the broader wisdom tradition as the foundation for moral life and piety.",
+  "externalReferences": "The elevation of the fear of the Lord echoes Proverbs 1:7 and 9:10, where it is the beginning of knowledge and wisdom. The delight in brothers living in harmony recalls Psalm 133:1. The statement that “the beginning of sin came from a woman” alludes to Eve and the Fall in Genesis 3:1–6. Admonitions not to choose a wife by beauty and to prize character resonate with Proverbs 31:30 and Proverbs 12:4.",
+  "seeAlso": [
+    "Genesis 3:1-6",
+    "Proverbs 1:7",
+    "Proverbs 9:10",
+    "Psalm 133:1",
+    "Proverbs 31:30",
+    "Proverbs 12:4",
+    "Sirach 26:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Unity and aged wisdom"
+    },
+    {
+      "range": "9-16",
+      "title": "Blessings and fear of God"
+    },
+    {
+      "range": "17-36",
+      "title": "Warnings on a wicked wife"
+    }
+  ],
+  "themes": [
+    "Fear of God",
+    "Wisdom with age",
+    "Family harmony",
+    "Marriage warnings"
+  ],
+  "practicalQuestions": [
+    "What habits can I cultivate to promote harmony among siblings, neighbors, and within my household?",
+    "In my context, what does it mean to practice the fear of God as the beginning of love and faith?",
+    "How am I guarding my speech so that I do not “slip with my tongue”?",
+    "What criteria—beyond outward beauty—should guide discernment in choosing a spouse or nurturing a marriage?",
+    "How can modern readers grapple with the chapter’s harsh warnings about a “wicked wife” while upholding mutual dignity and responsibility in marriage?"
+  ],
+  "uncertainAreas": "Verse numbering and placement: the final line is bracketed as belonging to Sirach 26 in some traditions. The “nine… and a tenth” list is not explicitly enumerated, leaving some ambiguity about which items constitute the ten. The phrase “You should not provide an exit to your water” (v. 34) is metaphorically unclear and may have multiple interpretive possibilities. Some terms (e.g., “vindication of his enemies”) may reflect translation choices that obscure the original nuance.",
+  "createdAt": "2025-10-19T03:09:42.108Z",
+  "modelId": "gpt-5-2025-08-07"
+}

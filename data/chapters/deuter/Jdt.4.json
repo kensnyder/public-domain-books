@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jdt.4",
+  "briefOverview": "Israel organizes military defenses and undertakes a nationwide fast and lament to seek God’s protection against Holofernes.",
+  "summary": "Hearing of Holofernes’ destruction of surrounding nations and temples, the people of Judea fear for Jerusalem and the sanctuary. Recently restored from captivity and having re‑sanctified temple vessels and the altar, they fortify high mountain passes and store provisions. High priest Joacim instructs those in Bethulia and nearby regions to secure the narrow approaches into Judea. In response, all Israel—men, women, children, foreigners, and even livestock—put on sackcloth, cast ashes on their heads, and cry out together before the temple for mercy. They plead that God spare their children, wives, cities, and sanctuary from profanation and mockery by the nations. The people fast for many days, while Joacim and the priests, girded with sackcloth and ashes upon their mitres, continue the daily offerings and pray earnestly for God to look graciously on Israel.",
+  "externalContext": "Judith is preserved in the Septuagint and is recognized as Scripture in Catholic and Orthodox canons, while not included in the Jewish Tanakh and most Protestant canons. The book’s setting blends names and eras in ways that are historically anachronistic (e.g., a Nebuchadnezzar called “king of the Assyrians”), leading many scholars to read it as a didactic historical novella rather than strict historiography. Communal fasting, sackcloth, and ashes were standard Ancient Near Eastern signs of mourning and penitence. Strategically, controlling the hill-country passes (e.g., Beth-horon) was crucial for defending Judea from forces approaching from the coastal plain and Jezreel Valley.",
+  "externalReferences": "The communal fast and priestly intercession echo Joel 2:12–17, where the people assemble, and priests weep between the porch and the altar for God to spare His heritage. The inclusion of animals in penitential acts recalls Jonah 3:5–9, where Nineveh puts sackcloth on both people and beasts. National fasts in crisis similarly appear in 2 Chronicles 20:3–13 (Jehoshaphat) and Nehemiah 9:1–3. The mention of Beth-horon aligns with its strategic role in Joshua 10:10–11, where the ascent is a key battleground; priestly headgear (“mitre”) is described in Exodus 28:36–39.",
+  "seeAlso": [
+    "Joel 2:12-17",
+    "Jonah 3:5-9",
+    "2 Chronicles 20:3-13",
+    "Nehemiah 9:1-3",
+    "Ezra 8:21-23",
+    "1 Samuel 7:6",
+    "Joshua 10:10-11",
+    "Exodus 28:36-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Defenses and directives"
+    },
+    {
+      "range": "9-13",
+      "title": "Nationwide fasting and lament"
+    },
+    {
+      "range": "14-15",
+      "title": "Priestly intercession continues"
+    }
+  ],
+  "themes": [
+    "Prayer and fasting",
+    "Corporate repentance",
+    "Temple protection",
+    "Strategic defense"
+  ],
+  "practicalQuestions": [
+    "How can communities combine prudent planning with earnest prayer when facing external threats?",
+    "What practices today might parallel sackcloth and ashes in expressing collective humility and repentance?",
+    "How do leaders galvanize both practical action and spiritual unity without neglecting either?",
+    "In what ways do we safeguard what is sacred in our lives while trusting God for protection?",
+    "What might it look like to include all segments of a community in times of crisis and prayer?"
+  ],
+  "uncertainAreas": "The historical alignment of “newly returned from the captivity” with a campaign led by an Assyrian-labeled Nebuchadnezzar is unclear and likely anachronistic. The exact locations of Bethulia and “the valley of Salem” are debated. The narrative asserts God’s favorable regard (“God heard their prayers”) without detailing outcomes in this chapter. The specific duration and manner of the fast are not specified.",
+  "createdAt": "2025-10-19T02:44:03.737Z",
+  "modelId": "gpt-5-2025-08-07"
+}

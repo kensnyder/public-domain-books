@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "2Esd.3",
+  "briefOverview": "Ezra prays from Babylon, recounting Israel’s history from Adam to David and lamenting that God allows sinful nations like Babylon to prosper while Zion lies desolate.",
+  "summary": "Thirty years after Jerusalem’s destruction, Ezra (Salathiel) grieves in Babylon and prays to the Most High, contrasting Zion’s ruin with Babylon’s wealth. He rehearses salvation history: God created Adam, who transgressed and brought death; later, the flood judged the world, yet Noah was preserved; humanity grew more ungodly until God chose Abraham, made an everlasting covenant, set apart Jacob, and led Israel from Egypt to Sinai to receive the Law amid cosmic theophany. Ezra stresses that God did not remove the people’s “evil heart,” so even with the Law, the “evil root” persisted, as seen in Israel’s later sin, the city’s transgression, and Jerusalem’s fall. He then challenges the apparent moral order: Babylon’s deeds are not better than Zion’s, yet Babylon thrives and Israel suffers. He asks God to weigh the nations, noting that while individuals may keep the commandments, no nation as a whole does, and he pleads for understanding of God’s ways.",
+  "externalContext": "2 Esdras (also known as 4 Ezra, chapters 3–14) is a Jewish apocalypse likely composed shortly after the Roman destruction of the Second Temple in 70 CE, preserved primarily in Latin with roots in a Semitic original. The book adopts the persona of Ezra during the Babylonian exile to process the catastrophe of Jerusalem’s ruin and to pose theodicy questions. The “thirtieth year after the destruction of our city” situates the narrative voice in the decades following the 586 BCE fall of Jerusalem to Babylon. Lament over foreign domination and questions about Israel’s election amidst suffering were common in exilic and post-destruction literature. Apocalyptic discourse uses visionary dialogues to seek divine explanations for historical crises.",
+  "externalReferences": "The chapter compresses Genesis’ early narratives: Adam’s creation and fall (Genesis 2:7; 2:8–17; 3) and the flood with Noah’s preservation (Genesis 6–9). It recalls God’s covenant with Abraham (Genesis 15:1–21; 17:1–8), the setting apart of Jacob over Esau (Genesis 25:23), and the Exodus theophany and giving of the Law at Sinai (Exodus 19:16–20:21). The mention of David and a city for God’s name resonates with David’s capture of Jerusalem and the Davidic covenant (2 Samuel 5:6–9; 7:12–16), even if temple construction was realized by Solomon. The lament over Jerusalem’s destruction aligns with accounts of 586 BCE (2 Kings 25:1–21; Jeremiah 52), and the prayer’s protest at the prosperity of the wicked echoes wisdom texts like Psalm 73.",
+  "seeAlso": [
+    "Genesis 2:7",
+    "Genesis 2:8-17",
+    "Genesis 6-9",
+    "Genesis 15:1-21",
+    "Genesis 17:1-8",
+    "Genesis 25:23",
+    "Exodus 19:16-20:21",
+    "2 Samuel 5:6-9",
+    "2 Samuel 7:12-16",
+    "2 Kings 25:1-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "From Adam to Sinai"
+    },
+    {
+      "range": "20-27",
+      "title": "Law, evil heart, judgment"
+    },
+    {
+      "range": "28-36",
+      "title": "Ezra’s theodicy complaint"
+    }
+  ],
+  "themes": [
+    "Theodicy",
+    "Covenant election",
+    "Human sinfulness",
+    "Exile and judgment"
+  ],
+  "practicalQuestions": [
+    "How do I bring honest lament to God when I perceive injustice in the world?",
+    "What practices help me confront the “evil heart” within while honoring God’s law?",
+    "In times when the faithful suffer and the wicked prosper, how can I seek understanding without cynicism?",
+    "How should I evaluate communities and nations ethically while remembering individual responsibility?",
+    "What does it look like to remember God’s past faithfulness when present circumstances seem contradictory?"
+  ],
+  "uncertainAreas": "The identification “Salathiel, who am also called Ezra” and its historical referent are literary; the text’s claim that God “commanded” David to build a city conflates several traditions about David, Jerusalem, and the temple. The phrase “the law was in the people’s heart” may echo multiple scriptural motifs and is theologically nuanced. The final “4” in v.36 appears to be a stray footnote marker in the provided text.",
+  "createdAt": "2025-10-19T01:58:40.335Z",
+  "modelId": "gpt-5-2025-08-07"
+}

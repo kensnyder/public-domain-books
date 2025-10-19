@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.1",
+  "briefOverview": "Sirach 1 presents God as the sole source of wisdom and identifies the fear of the Lord as wisdom’s beginning, fullness, and crown. It urges disciplined integrity and warns against hypocrisy and duplicity before God.",
+  "summary": "The chapter opens by asserting that all wisdom comes from the eternal Lord and is beyond human measurement. Wisdom, created before all things and proceeding from the Word of God, is distributed by God (through the Holy Spirit) over all his works and offered to those who love him. The fear of the Lord is called glory and joy, the beginning, root, fullness, and crown of wisdom; it sanctifies knowledge, brings peace, long life, and ultimately blessing. Wisdom enriches and elevates those who hold to her, while sinners find wisdom and worship offensive, and the fear of the Lord drives out sin. The speaker exhorts the reader to seek wisdom through justice, faith, meekness, patience, and disciplined speech. The chapter concludes with a sober warning: do not approach God with a duplicitous heart or hypocritical lips, lest God expose one’s secrets and cast down the deceitful.",
+  "externalContext": "Sirach (also called Ecclesiasticus) is a Jewish wisdom book composed in Hebrew in early second-century BCE Jerusalem by Jesus ben Sira; it was translated into Greek by his grandson around 132 BCE. It belongs to Second Temple wisdom literature and was highly valued in Jewish and early Christian communities; it is included in the Catholic and Orthodox canons. In this tradition, “wisdom” is often personified as a woman and closely associated with piety and Torah observance. The chapter’s emphasis on the “fear of the Lord” reflects a standard wisdom motif describing reverent awe that shapes ethical living. The mentions of the “Word” and “Holy Spirit” reflect the terminology of some Greek textual traditions and later translations, though Ben Sira’s original Hebrew likely used idioms for God’s command and breath/spirit.",
+  "externalReferences": "Sirach 1 repeatedly echoes the classic wisdom claim that “the fear of the Lord is the beginning of wisdom,” aligning with Proverbs 1:7; 9:10 and Job 28:28. Its rhetorical questions about measuring creation and God’s wisdom recall Job’s divine speeches (Job 38:4–18) and Isaiah’s portrayal of God’s incomparability (Isaiah 40:12–14). The portrayal of wisdom as preeminent and personified resonates with Proverbs 8:22–31. Promises of long life and well-being for those who embrace wisdom and piety parallel Proverbs 3:1–2, 16.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 9:10",
+    "Job 28:28",
+    "Proverbs 8:22-31",
+    "Isaiah 40:12-14",
+    "Job 38:4-18",
+    "Proverbs 3:1-2",
+    "Proverbs 3:16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "God, source of wisdom"
+    },
+    {
+      "range": "11-27",
+      "title": "Fear of the Lord’s benefits"
+    },
+    {
+      "range": "28-40",
+      "title": "Counsel against hypocrisy"
+    }
+  ],
+  "themes": [
+    "Fear of the Lord",
+    "Divine wisdom",
+    "Discipline and integrity",
+    "Blessing and longevity"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate a reverent fear of the Lord that actively shapes my daily choices?",
+    "What practices of justice, faith, and meekness would position me to receive wisdom more fully?",
+    "Where might duplicity or hypocrisy be present in my speech or motives, and how can I correct it?",
+    "How can I embrace patience and self-discipline when suffering “for a brief time”?",
+    "What concrete habits could help wisdom guide my household and work, rather than merely my thoughts?"
+  ],
+  "uncertainAreas": "Several phrases depend on translation nuances: “Wisdom was created before all things” and “He created wisdom through the Holy Spirit” may reflect Greek renderings with theological implications; the phrase “walks with elect women” is unusual and may reflect a textual variant; and “to those who sin, the worship of God is an abomination” could also be read as “sacrifice” or outward cult being detestable when paired with sin. The imagery of filling a house with treasures may be metaphorical rather than literal.",
+  "createdAt": "2025-10-19T02:56:12.613Z",
+  "modelId": "gpt-5-2025-08-07"
+}

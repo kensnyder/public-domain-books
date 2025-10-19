@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.27",
+  "briefOverview": "A series of wisdom sayings warns against greed and deceit in commerce, careless speech, betrayal of confidences, and vindictive plotting, underscoring fear of the Lord and retributive justice. Character is tested by hardship, and harmful schemes rebound on their makers.",
+  "summary": "The chapter opens by cautioning that need and the pursuit of wealth tempt many to sin, especially in buying and selling, and urges steadfast fear of the Lord as the only secure foundation. Human character is revealed under testing—like vessels in a furnace or fruit under pruning—and one should not praise a person before hearing their words; pursuing justice brings lasting protection. Wisdom contrasts the steadfast wise with the fickle senseless, advising measured speech among fools and fellowship with the thoughtful. It condemns profane oaths, arrogant quarrels, and especially the betrayal of a friend’s secrets, which can destroy a relationship beyond repair, urging faithful love of one’s neighbor. The section denounces duplicitous flatterers and concludes with a series of proverbial warnings: traps, stones, and wicked plans recoil upon their makers, mockery invites vengeance, gloating over the just leads to ruin, and anger and fury ensnare sinners.",
+  "externalContext": "Sirach (also called Ecclesiasticus) is a Jewish wisdom book composed in Hebrew by Jesus ben Sira in early second-century BCE Jerusalem and translated into Greek by his grandson around 132 BCE. Its aphoristic counsel reflects the social realities of Hellenistic urban life, including bustling markets, oath-taking, and honor-shame dynamics in friendship and reputation. Wisdom literature commonly uses vivid metaphors (furnaces, pits, snares) to describe moral testing and consequences. Loyalty to friends and control of speech were vital social virtues in ancient Jewish communities, where slander and betrayal could damage family and communal cohesion. The closing note on anger anticipates an extended treatment of wrath and vengeance in the following chapter.",
+  "externalReferences": "The emphasis on the fear of the Lord as the foundation of stability echoes Proverbs 1:7. The image of testing the righteous through tribulation parallels Wisdom of Solomon 3:5–6, which likens the just to gold tried in a furnace. The warning against disclosing a friend’s secret reflects Proverbs 11:13, which contrasts a gossip with a trustworthy person. The retributive motif that those who dig a pit fall into it is found in Proverbs 26:27, Psalm 7:15–16, and Ecclesiastes 10:8.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Wisdom of Solomon 3:5-6",
+    "Proverbs 11:13",
+    "Proverbs 26:27",
+    "Psalm 7:15-16",
+    "Ecclesiastes 10:8",
+    "Sirach 28:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Greed, justice, and wisdom"
+    },
+    {
+      "range": "13-24",
+      "title": "Speech, secrets, and friendship"
+    },
+    {
+      "range": "25-33",
+      "title": "Deceit and retributive justice"
+    }
+  ],
+  "themes": [
+    "Fear of the Lord",
+    "Integrity in commerce",
+    "Speech and secrecy",
+    "Loyalty in friendship",
+    "Retributive justice"
+  ],
+  "practicalQuestions": [
+    "Where am I most tempted to compromise integrity in financial or work-related decisions?",
+    "How can I cultivate relationships with the wise and limit my words among the foolish?",
+    "What practices help me guard confidences and repair trust when it has been strained?",
+    "In what ways might flattery or double-talk be at odds with my commitment to truth?",
+    "How can I address anger constructively so it does not control my actions?"
+  ],
+  "uncertainAreas": "Verse 23’s wording about reconciliation from cursing is textually and interpretively difficult across translations; the strength of the claim that a betrayed friendship cannot be healed may be hyperbolic or situational. Verse 25’s line about a winking deceiver and “no one will cast him aside” is ambiguous in subject and tone. The bracketed “[Sirach 28]” signals a literary seam to the next chapter’s treatment of anger, which may affect where some traditions divide the material.",
+  "createdAt": "2025-10-19T03:10:50.923Z",
+  "modelId": "gpt-5-2025-08-07"
+}

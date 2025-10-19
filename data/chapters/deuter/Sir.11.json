@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Sir.11",
+  "briefOverview": "A series of wisdom sayings counsels humility, prudent judgment and speech, realism about wealth and mortality, reliance on God’s providence, and caution in relationships.",
+  "summary": "The chapter warns against judging by appearances and urges humility, noting how God often reverses human status. It counsels listening before speaking, refraining from meddling, and avoiding hasty judgment. Hard-driving pursuit of wealth is shown as futile, since God can raise the lowly and bring down the mighty, and death can suddenly sever a hoarder from his goods. The reader is told to keep the covenant, trust God rather than imitate sinners, and remember that prosperity and adversity both come from God. One should not presume on security or despair in hardship, for God repays each according to his ways and the end reveals a person’s works. Finally, it warns against naively admitting everyone into one’s home, since deceitful people can turn good to evil and cause lasting harm.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom work composed in Hebrew in the early second century BCE by Jesus ben Sira in Jerusalem and translated into Greek by his grandson. Its setting reflects Jewish life under Hellenistic rule, where status, patronage, and wealth were prominent social forces. Wisdom instruction here aims to form character for life within the covenant community, integrating reverence for God with practical conduct. Hospitality in the ancient Near Eastern and Mediterranean world was a moral duty, yet it also carried social and legal risks, hence repeated cautions about guests and associates. Different traditions receive Sirach differently: it is deuterocanonical in Catholic and Orthodox canons and apocryphal in most Protestant traditions, though historically valued for moral instruction.",
+  "externalReferences": "Several maxims echo Proverbs, such as listening before answering and avoiding premature judgment (Proverbs 18:13), as well as the warning against walking with sinners (Psalm 1:1). The theme that God raises and lowers, giving life and death and controlling wealth and poverty, resonates with Hannah’s song (1 Samuel 2:6–8) and Job’s confession (Job 1:21), and the claim that God repays each according to his deeds parallels Psalm 62:12 and Proverbs 24:12. The vignette of the self-satisfied accumulator who dies before enjoying his goods closely parallels Jesus’ parable of the rich fool (Luke 12:16–21), and the counsel to remember both good and bad days recalls Ecclesiastes 7:14. The image of a small spark leading to great destruction is akin to James 3:5–6 about the tongue’s power.",
+  "seeAlso": [
+    "Proverbs 18:13",
+    "Psalm 1:1",
+    "1 Samuel 2:6-8",
+    "Job 1:21",
+    "Psalm 62:12",
+    "Proverbs 24:12",
+    "Proverbs 10:22",
+    "Ecclesiastes 7:14",
+    "Proverbs 27:1",
+    "Luke 12:16-21",
+    "James 3:5-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Humility and reversals"
+    },
+    {
+      "range": "7-20",
+      "title": "Prudent judgment and wealth’s limits"
+    },
+    {
+      "range": "21-36",
+      "title": "Trust God; guard associations"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Divine providence",
+    "Prudent speech and judgment",
+    "Wealth and mortality",
+    "Discernment"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to judge by appearances instead of character and conduct?",
+    "How can I build habits of listening fully before speaking or deciding?",
+    "What practices help me trust God rather than chase security through hoarding or overwork?",
+    "In times of prosperity or hardship, how can I remember the other and live with balance and gratitude?",
+    "Whom should I be cautious about admitting into my inner circles or home, and what safeguards are wise without becoming suspicious of everyone?"
+  ],
+  "uncertainAreas": "The phrase “Error and darkness have been created by sinners” could describe moral causation rather than ontological creation; the text does not clarify. “A man is known by his children” may refer to literal offspring or to a person’s enduring outcomes/disciples; the scope is ambiguous. The final warning about receiving a stranger could reflect prudence about specific kinds of deceitful guests rather than a blanket stance against hospitality; verse numbering at the end may overlap with the next chapter in some traditions.",
+  "createdAt": "2025-10-19T03:01:54.254Z",
+  "modelId": "gpt-5-2025-08-07"
+}

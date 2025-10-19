@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Sir.21",
+  "briefOverview": "Warnings against sin and folly with emphasis on discipline, prudent speech, and the ultimate end of the wicked.",
+  "summary": "The chapter urges the reader to stop adding to past sins and to flee sin as from a serpent, since its wounds are deadly. Pride destroys wealth, while the cries of the poor reach God quickly. Those who hate correction walk in sin, but those who fear God turn inwardly and gain wisdom; the way of sinners may seem smooth but ends in darkness and punishment. Wisdom flourishes in the teachable, whereas the foolish are likened to a broken vessel that cannot retain knowledge. The wise cherish and weigh instruction, use restrained speech, and are sought out in the assembly, while fools talk excessively, laugh loudly, intrude on others’ privacy, and spread senseless words. Whisperers and slanderers defile themselves and become hated, but the silent and understanding person is honored.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in Hebrew in early second-century BCE Jerusalem by Jesus ben Sira, a sage who ran a wisdom school; it was translated into Greek by his grandson around 132 BCE. As part of Jewish wisdom literature, it instructs on virtue, social conduct, and the fear of God within an honor–shame society where speech, reputation, and respect for authority carried great weight. Terms rendered here as “Church” or “synagogue” likely reflect words for the communal assembly rather than later institutional meanings. The chapter’s stark depictions of the fate of sinners accord with Second Temple Jewish moral teaching that links present character to ultimate destiny.",
+  "externalReferences": "The emphasis on “the fear of the Lord” as the path to wisdom resonates with Proverbs 1:7 and 9:10, and with Sirach’s own opening chapter. The image of the wicked as combustible or chaff parallels Psalm 1:4–6 and Malachi 4:1, while the “fountain of life” motif echoes Proverbs 13:14.\nGod’s attentiveness to the poor’s cry recalls Exodus 22:23, Psalm 34:6, and Proverbs 21:13. Instructions on guarded speech and the destructiveness of gossip align with Proverbs 15:28 and 26:20–22, and the caution about laughter and levity evokes Ecclesiastes 7:3–6.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 9:10",
+    "Psalm 1:4-6",
+    "Malachi 4:1",
+    "Proverbs 13:14",
+    "Exodus 22:23",
+    "Psalm 34:6",
+    "Proverbs 21:13",
+    "Proverbs 15:28",
+    "Proverbs 26:20-22",
+    "Ecclesiastes 7:3-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Flee sin; God hears the poor"
+    },
+    {
+      "range": "7-17",
+      "title": "Correction and true wisdom"
+    },
+    {
+      "range": "18-31",
+      "title": "Speech, discretion, and conduct"
+    }
+  ],
+  "themes": [
+    "Fear of God",
+    "Discipline and correction",
+    "Wise speech",
+    "Fate of the wicked",
+    "Humility"
+  ],
+  "practicalQuestions": [
+    "Where am I rationalizing small sins instead of fleeing them decisively?",
+    "How do I respond when corrected—defensive, or willing to convert within my heart?",
+    "What habits can help me weigh my words before speaking, especially about others?",
+    "In what ways can I honor and advocate for the poor, whose cries God hears?",
+    "How can I avoid intrusive or gossip-prone situations and cultivate discretion?"
+  ],
+  "uncertainAreas": "The phrase translated “Church” (v.20) likely means assembly; institutional implications are unclear. “Synagogue of sinners” (v.10) and “hell and darkness and punishments” (v.11) depend on translation choices for terms like assembly and Sheol/Hades. The line about cursing the devil (v.30) is opaque—possibly a critique of blaming external evil while sharing in it. The statement “wisdom which abounds in evil” (v.15) may refer to crafty or malicious cunning rather than true wisdom.",
+  "createdAt": "2025-10-19T03:07:30.827Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "1Macc.1",
+  "briefOverview": "The chapter recounts the rise of Antiochus IV Epiphanes and his campaign to suppress Jewish law, culminating in the desecration of the Temple and harsh persecution. It sets the stage for resistance by portraying cultural assimilation, state coercion, and faithful refusal to apostatize.",
+  "summary": "After sketching Alexander’s conquests and the fragmentation of his empire among successors, the narrative introduces Antiochus IV Epiphanes. Some Israelites advocate a covenant with surrounding nations, leading to a gymnasium in Jerusalem and abandonment of covenantal markers like circumcision. Antiochus campaigns in Egypt, then returns to Jerusalem to plunder the Temple and carry off its treasures, leaving mourning and devastation. Two years later his official deceives Jerusalem, slaughters inhabitants, burns the city, and fortifies the City of David as a hostile stronghold. Antiochus then orders empire-wide uniformity, forbidding Torah observances (sabbath, sacrifices, circumcision, dietary laws), and enforcing idolatrous worship. An “abomination of desolation” is set upon the altar, sacred books are destroyed, and those keeping the law—women who circumcise their children among them—are executed, while some Israelites choose death rather than defilement.",
+  "externalContext": "The chapter is set in the Hellenistic era that followed Alexander the Great’s death in 323 BCE, when his empire was divided among the Diadochi. Judea lay between the Seleucid kingdom (based in Syria) and the Ptolemaic kingdom (based in Egypt), often changing hands amid their conflicts. Antiochus IV Epiphanes (reigned 175–164 BCE) had earlier been a hostage in Rome after the Treaty of Apamea (188 BCE), reflecting Seleucid subordination to Roman power. The Seleucid regnal years in 1 Maccabees use the Seleucid Era (beginning 312/311 BCE), placing the persecution and altar desecration in the 170s–160s BCE; many date the altar desecration to the 25th of Kislev, 167 BCE. The fortress established in Jerusalem is commonly identified with the Acra, a Seleucid garrison that dominated the Temple area and city.",
+  "externalReferences": "The “abomination of desolation” echoes Daniel’s prophecies about a sacrilege set up in the sanctuary (Daniel 8:9–14; 11:31; 12:11), later invoked by Jesus regarding a future crisis (Matthew 24:15; Mark 13:14). The bans and enforced practices directly contradict core Torah commands: circumcision (Genesis 17:9–14), sabbath observance (Exodus 20:8–11), and dietary laws (Leviticus 11). The refusal to abandon the law under threat, including martyrdom, resonates with the faith commended in Hebrews (Hebrews 11:35–38) and is narrated in detail in 2 Maccabees (especially 2 Maccabees 6–7).",
+  "seeAlso": [
+    "Daniel 8:9-14",
+    "Daniel 11:31",
+    "Daniel 12:11",
+    "Matthew 24:15",
+    "Mark 13:14",
+    "Hebrews 11:35-38",
+    "2 Maccabees 6:1-11",
+    "2 Maccabees 7:1-42",
+    "1 Maccabees 2:1-28",
+    "1 Maccabees 4:36-59"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-10",
+      "title": "From Alexander to Antiochus"
+    },
+    {
+      "range": "11-28",
+      "title": "Hellenization and first plunder"
+    },
+    {
+      "range": "29-64",
+      "title": "Decrees, desecration, and martyrdom"
+    }
+  ],
+  "themes": [
+    "Persecution",
+    "Hellenization",
+    "Covenant fidelity",
+    "Temple desecration"
+  ],
+  "practicalQuestions": [
+    "What pressures today invite us to abandon core convictions for social acceptance, and where is the line between engagement and compromise?",
+    "How can communities preserve identity and worship practices when political or cultural forces are hostile?",
+    "What safeguards help us honor sacred texts and rituals when access or public observance is restricted?",
+    "How might lament and communal mourning serve faithfulness in times of desecration or loss?",
+    "What forms of courageous, nonviolent resistance are appropriate when authorities demand actions that violate conscience?"
+  ],
+  "uncertainAreas": "The exact conversion of Seleucid regnal years to BCE dates, the identification of the “abomination of desolation” with a specific altar or deity, and whether the fortress is definitively the Acra are interpretive points; also, the mechanics implied by “made themselves uncircumcised” are debated in scholarship.",
+  "createdAt": "2025-10-19T02:11:09.087Z",
+  "modelId": "gpt-5-2025-08-07"
+}

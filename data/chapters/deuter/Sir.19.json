@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Sir.19",
+  "briefOverview": "A wisdom collection warning against self-destructive vice and careless speech, urging prudent correction and grounding all discernment in the fear of God.",
+  "summary": "The chapter warns that indulgence in wine, sexual immorality, and malice leads to decline, disgrace, and loss. It urges restraint in speech: do not repeat harsh words, reveal secrets, or quickly believe every report; hold accusations and corrections carefully. The reader is counseled to correct friends and neighbors gently and promptly, recognizing that many stumble in words without malicious intent. True wisdom is rooted in the fear of the Most High and alignment with the law, not in cunning or deceitful humility. The text contrasts cleverness that distorts truth with God-fearing simplicity, and it notes that outward behavior can reveal character, while prudence sometimes chooses silence.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in early second-century BCE Jerusalem by Jesus ben Sira and later translated into Greek by his grandson around 132 BCE. As a work of Jewish wisdom literature, it aims to shape moral character by integrating practical ethics with reverence for the Torah. The social setting included honor-shame dynamics where slander and rumor had serious communal effects, making counsel on speech and correction especially relevant. In many Christian traditions, Sirach is part of the Deuterocanonical books, while in Jewish and most Protestant canons it is not included among the Hebrew scriptures.",
+  "externalReferences": "The emphasis that “all wisdom is fear of God” echoes the biblical maxim, “The fear of the Lord is the beginning of knowledge” (Proverbs 1:7). Warnings about wine and sexual immorality parallel Proverbs 20:1 on the deceit of wine and Proverbs 6:32 on the self-harm of adultery. The cautions against repeating a matter or revealing secrets resonate with Proverbs 17:9 and 11:13. The teaching on stumbling in words and mastering the tongue aligns with James 3:2–10 about the dangers and discipline of speech.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 20:1",
+    "Proverbs 6:32",
+    "Proverbs 11:13",
+    "Proverbs 17:9",
+    "James 3:2-10",
+    "Matthew 12:36-37",
+    "Sirach 1:14-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Vices and self-harm warned"
+    },
+    {
+      "range": "7-17",
+      "title": "Guarding speech and correction"
+    },
+    {
+      "range": "18-28",
+      "title": "True wisdom versus false cunning"
+    }
+  ],
+  "themes": [
+    "Fear of God",
+    "Speech restraint",
+    "Correction",
+    "Discernment",
+    "Self-control"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to repeat or believe unverified reports, and how can I practice restraint?",
+    "How can I correct a friend or colleague in a way that preserves the relationship and invites growth?",
+    "What habits with alcohol, sexuality, or anger might be diminishing my judgment or reputation?",
+    "Do I rely on clever words or postures that mask truth, rather than integrity rooted in reverence for God?",
+    "How can I cultivate prudent silence and thoughtful listening before speaking or judging?"
+  ],
+  "uncertainAreas": "Phrases like “his soul will be deducted from the number” and “whoever despises littleness” are somewhat opaque and may reflect translation choices or idioms about exclusion from community and disdain for small faults; verse boundaries near 28 may overlap thematically with the following chapter in some traditions.",
+  "createdAt": "2025-10-19T03:06:26.110Z",
+  "modelId": "gpt-5-2025-08-07"
+}

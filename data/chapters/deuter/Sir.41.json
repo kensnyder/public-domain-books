@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Sir.41",
+  "briefOverview": "A meditation on death’s universal judgment and the disgrace that follows impiety, followed by counsel to guard one’s reputation through discipline and proper shame.",
+  "summary": "The chapter contrasts how death is perceived: bitter to those at ease and strong, yet welcome to the impoverished, weary, and anxious, since it is God’s universal judgment on all flesh and not an indictment of life. It warns that the offspring of sinners inherit disgrace and that abandoning the law brings a curse from birth to death. The author urges concern for a good name, which outlasts wealth and even life’s length. He commends peaceful discipline and declares that hidden wisdom is useless, urging listeners to heed his instruction. A catalogue of behaviors deserving shame follows, emphasizing sexual purity, honesty, justice, fair dealings, attentiveness to neighbors, and generosity without reproach.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in Hebrew by Ben Sira in early second-century BCE Jerusalem and translated into Greek by his grandson. As wisdom literature, it reflects the honor–shame values of the ancient Mediterranean world, where reputation and social standing were central to moral reasoning. Ben Sira’s teaching often grounds ethics in creation and covenant, advocating piety, prudence, and communal responsibility. Views of death in this period were varied; Sirach typically stresses mortality’s inevitability and the enduring value of one’s name rather than elaborating a detailed afterlife.",
+  "externalReferences": "“All things that are from the earth shall return to the earth” echoes Genesis 3:19. The valuing of a good name above wealth parallels Proverbs 22:1 and Ecclesiastes 7:1. Warnings against desiring another man’s wife align with Exodus 20:17 and Proverbs 6:25–29. The notion that children bear disgrace because of a parent’s impiety resembles the principle in Exodus 20:5 about iniquity visiting subsequent generations.",
+  "seeAlso": [
+    "Genesis 3:19",
+    "Proverbs 22:1",
+    "Ecclesiastes 7:1",
+    "Exodus 20:17",
+    "Proverbs 6:25-29",
+    "Exodus 20:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Reflections on death"
+    },
+    {
+      "range": "8-16",
+      "title": "Impiety and reputation"
+    },
+    {
+      "range": "17-28",
+      "title": "Discipline and proper shame"
+    }
+  ],
+  "themes": [
+    "Mortality",
+    "Reputation",
+    "Impiety’s consequences",
+    "Moral discipline"
+  ],
+  "practicalQuestions": [
+    "How does my current attitude toward death reveal the way I am living now?",
+    "What concrete steps can I take to build and protect a good name in my community?",
+    "Where should I practice proper shame or restraint to avoid bringing harm or disgrace?",
+    "How can I make my generosity free of blame or reproach?",
+    "In what relationships do I need to practice greater honesty, justice, and sexual integrity?"
+  ],
+  "uncertainAreas": "The extent to which the disgrace of children is a moral consequence versus a social reality is not explicit. Several phrases are difficult in translation (e.g., “it is not good to observe every reverence,” and the list including “of the truth before God, and of the covenant, of reclining to eat bread”), making precise nuances uncertain. The term “unbelieving man who has lost patience” could denote a range of attitudes (despair, impiety, or loss of trust). The bracketed note “[Sirach 42]” suggests a textual or versification transition.",
+  "createdAt": "2025-10-19T03:19:05.115Z",
+  "modelId": "gpt-5-2025-08-07"
+}

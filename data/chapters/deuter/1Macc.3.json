@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1Macc.3",
+  "briefOverview": "Judas Maccabeus emerges as Israel’s military leader, wins early victories, and rallies the nation to defend their law and sanctuary against Seleucid forces.",
+  "summary": "Judas is portrayed as a heroic, lion-like leader whose pursuit of evildoers brings security to Israel; he defeats Apollonius and keeps his sword as a lifelong weapon. He next routs Seron at Beth-horon, encouraging his small force that victory comes from heaven and that they fight for their lives and their laws. Judas’ fame spreads to Antiochus IV, who, facing financial strain, departs for Persia and appoints Lysias to crush Judea with a large army under Ptolemy, Nicanor, and Gorgias. Their forces encamp at Emmaus, joined by merchants planning to buy Israelites as slaves. Seeing the danger, Judas convenes an assembly at Maspha for fasting, prayer, and reading the law; the people present priestly garments, firstfruits, tithes, and Nazarites. Judas then organizes the army with captains and lawful exemptions, exhorts courage, and commits the outcome to God.",
+  "externalContext": "1 Maccabees narrates the Maccabean revolt (167–160 BCE) against the Seleucid king Antiochus IV Epiphanes, whose policies banned key Jewish practices and desecrated the Jerusalem Temple. The reference to the Seleucid year 147 likely corresponds to 165/164 BCE. Seleucid armies commonly used war elephants and fielded Hellenistic-style infantry and cavalry. Beth-horon lies on a steep ascent from the coastal plain into the Judean highlands, historically favoring defenders familiar with the terrain, while Emmaus sat in the Aijalon valley corridor. Maspha is widely identified with Mizpah, a traditional Israelite gathering place for national repentance and mustering.",
+  "externalReferences": "Judas’ muster and exemptions reflect Deuteronomy’s laws of warfare (Deuteronomy 20:5–8), and his military structure of thousands, hundreds, fifties, and tens recalls Moses’ organization (Exodus 18:21–25). The sounding of trumpets in crisis aligns with Numbers 10:9. Gathering at Mizpah/ Maspha as a place of fasting and prayer recalls Israel’s assembly under Samuel (1 Samuel 7:5–12), and the victory at Beth-horon evokes Joshua’s earlier triumph in the same pass (Joshua 10:10–11). Judas’ assurance that God grants victory to the few also resonates with Gideon’s narrative (Judges 7:2–7).",
+  "seeAlso": [
+    "Deuteronomy 20:5-8",
+    "Exodus 18:21-25",
+    "Numbers 10:9",
+    "1 Samuel 7:5-12",
+    "Joshua 10:10-11",
+    "Judges 7:2-7",
+    "Nehemiah 4:14",
+    "2 Maccabees 8:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-12",
+      "title": "Rise of Judas; Apollonius defeated"
+    },
+    {
+      "range": "13-26",
+      "title": "Beth-horon victory over Seron"
+    },
+    {
+      "range": "27-60",
+      "title": "Seleucid plans; assembly at Maspha"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Law and sanctuary",
+    "Courageous leadership",
+    "Prayerful preparation"
+  ],
+  "practicalQuestions": [
+    "What causes today merit the kind of courage shown when fighting for “our lives and our laws,” and how can such resolve remain principled rather than vengeful?",
+    "How can communities pair prayer and fasting with disciplined planning when facing overwhelming challenges?",
+    "Where do we rely on numbers or resources instead of trusting that “strength comes from heaven,” and how do we balance faith with prudent strategy?",
+    "What practices help leaders both motivate people and respect humane exemptions for those unready to fight?",
+    "How do we guard sacred commitments and communal identity when cultural pressures are intense?"
+  ],
+  "uncertainAreas": "The chapter begins at verse 2 in this text; verse 1 is missing. “Maspha” is likely Mizpah, but the precise location is not specified here. The reported troop numbers and the merchants’ plans to buy captives may include rhetorical elements typical of ancient historiography. The exact dating of “the hundred forty and seventh year” within the Seleucid calendar can vary by reckoning (autumnal vs spring).",
+  "createdAt": "2025-10-19T02:12:28.202Z",
+  "modelId": "gpt-5-2025-08-07"
+}

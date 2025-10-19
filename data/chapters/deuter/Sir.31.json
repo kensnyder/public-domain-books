@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Sir.31",
+  "briefOverview": "The chapter contrasts the dangers of greed with the virtue of disciplined restraint, then instructs on table conduct and moderate use of wine.",
+  "summary": "Sirach warns that anxious pursuit of wealth exhausts body and mind, and that love of gold ruins many, whereas the rich person who resists greed and uses wealth rightly is blessed and praised. He commends the one who, though able to do wrong, avoids it and is proven through testing, with his good standing secured in the Lord. Practical counsel follows for conduct at meals: do not be first or grasping, eat modestly, recognize what belongs to others, and keep discipline to avoid offense. He extols temperance as conducive to health and sleep, even offering a frank remedy if one has overindulged. Turning to wine, he teaches that moderate drinking brings cheer and health, but excess breeds quarrels, wounds, and downfall; therefore, avoid contention and reproachful speech at banquets.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book composed in Hebrew in the early second century BCE by Jesus ben Sira in Jerusalem and later translated into Greek by his grandson. Wisdom literature commonly offers pragmatic moral instruction on daily life—wealth, speech, meals, and social comportment—aimed at forming virtuous character within the covenant community. Banquet etiquette and counsel on wine reflect Mediterranean social customs in which shared meals solidified status and relationships and where excess could damage honor and community peace. The high value placed on almsgiving aligns with postexilic Jewish emphasis on communal care and righteousness expressed through generosity. In Greek manuscripts, terms like “assembly” or “congregation” can be rendered as “church,” reflecting the generic sense of a gathered community.",
+  "externalReferences": "The critique of loving wealth resonates with Ecclesiastes 5:10 and Proverbs 11:4, and is echoed later in 1 Timothy 6:9–10 on the snares of the love of money. Guidance on restraint at a ruler’s table parallels Proverbs 23:1–3. The portrayal of wine as gladdening when used rightly but destructive in excess recalls Psalm 104:15 and Proverbs 23:29–35. The metaphor of testing (fire/metal) is similar to Proverbs 27:21, which uses smelting imagery for proving character.",
+  "seeAlso": [
+    "Ecclesiastes 5:10",
+    "Proverbs 11:4",
+    "1 Timothy 6:9-10",
+    "Proverbs 23:1-3",
+    "Psalm 104:15",
+    "Proverbs 23:29-35",
+    "Proverbs 27:21",
+    "Luke 12:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Greed tested and restrained"
+    },
+    {
+      "range": "12-22",
+      "title": "Table manners and restraint"
+    },
+    {
+      "range": "23-42",
+      "title": "Moderation in wine and speech"
+    }
+  ],
+  "themes": [
+    "Moderation",
+    "Greed’s danger",
+    "Self-control",
+    "Social etiquette",
+    "Almsgiving"
+  ],
+  "practicalQuestions": [
+    "Where might concern for money be robbing me of peace or sleep, and how could I practice contentment?",
+    "How can I cultivate disciplined habits at meals to avoid excess and be considerate of others?",
+    "What boundaries around alcohol would help me remain cheerful without crossing into harm?",
+    "In what concrete ways can I use resources for almsgiving so that my reputation reflects integrity?",
+    "How can I avoid contentious speech—especially in social settings—when others are relaxed or drinking?"
+  ],
+  "uncertainAreas": "The phrase translated as “Church of the saints” likely means the gathered assembly; nuances vary by translation. The counsel to vomit after overeating may be a hyperbolic, practical instruction rather than a universal prescription. Verse numbering and the bracketed “[Sirach 32]” suggest a textual boundary with the following chapter, which may vary across traditions. The scope of “eternal glory” could denote lasting honor before God and community rather than a fully developed afterlife doctrine.",
+  "createdAt": "2025-10-19T03:13:17.561Z",
+  "modelId": "gpt-5-2025-08-07"
+}

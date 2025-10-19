@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Jdt.16",
+  "briefOverview": "Judith’s victory hymn exalts God for defeating Israel’s enemies through her deed, followed by national worship and a brief epilogue on her honored, celibate life and lasting legacy of peace.",
+  "summary": "Judith leads Israel in a new song, calling all to praise God who shattered the Assyrian threat and rescued her from persecutors. She recounts Holofernes’ boast and the vast forces arrayed against Israel, emphasizing that God overturned them “by the hand of a woman,” as her beauty and courage became the means of his downfall. The hymn praises God’s creative power, asserts that reverent fear surpasses sacrifice, and warns of judgment upon hostile nations. After returning to Jerusalem, the people purify themselves, offer sacrifices and gifts, and feast for three months; Judith dedicates Holofernes’ goods, including his bed-canopy, to the Lord. Judith then returns to Bethulia, remains honored, refuses remarriage, frees her maid, distributes her property to family, and dies at 105. Israel mourns her seven days, and no one terrifies Israel in her lifetime and for a long time afterward.",
+  "externalContext": "The Book of Judith belongs to the Deuterocanonical books for Catholics and Orthodox Christians and is considered apocryphal in most Protestant traditions and non-canonical in Judaism. Its narrative setting depicts an Assyrian threat under Holofernes, yet the broader book blends names and empires anachronistically (e.g., Nebuchadnezzar styled as “king of Assyria”), signaling a didactic historical novella rather than strict historiography. Many scholars date its composition to the Hellenistic period (likely 2nd–1st century BCE), originally in Greek. Victory songs led by women (e.g., Miriam, Deborah) have precedents in Israel’s tradition, providing a literary backdrop for Judith’s hymn. Dedicating war spoils to God and periods of communal purification and celebration reflect established cultic practices in Second Temple Judaism.",
+  "externalReferences": "Judith’s hymn closely resembles biblical victory songs such as the Song of the Sea (Exodus 15:1–18) and the Song of Deborah (Judges 5:1–31), including its celebration of divine deliverance through a woman. The call to “sing a new song” echoes Psalmic language (Psalm 96:1; cf. 98:1). Its creation motifs—God speaking and creating by his spirit—evoke Genesis 1:2 and Psalm 33:6, while the image of mountains melting recalls Psalm 97:5 and Micah 1:4. The warning of judgment with “fire and worms” aligns with Isaiah 66:24, and the priority of reverent fear over sacrificial quantity resonates with Psalm 51:16–17 and Hosea 6:6.",
+  "seeAlso": [
+    "Exodus 15:1-18",
+    "Judges 5:1-31",
+    "Psalm 96:1",
+    "Psalm 98:1",
+    "Genesis 1:2",
+    "Psalm 33:6",
+    "Psalm 97:5",
+    "Micah 1:4",
+    "Isaiah 66:24",
+    "Psalm 51:16-17",
+    "Hosea 6:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Judith’s Victory Hymn"
+    },
+    {
+      "range": "18-20",
+      "title": "Worship and Celebration"
+    },
+    {
+      "range": "21-25",
+      "title": "Judith’s Legacy and Death"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Praise and worship",
+    "Fear of the Lord",
+    "God uses the weak",
+    "Peace and legacy"
+  ],
+  "practicalQuestions": [
+    "How might public thanksgiving after deliverance shape a community’s memory and identity today?",
+    "Where should reverent fear and obedience take precedence over merely increasing religious activity or gifts?",
+    "What safeguards help us ensure our means (e.g., persuasion, strategy, influence) serve just and godly ends?",
+    "How can we tangibly dedicate our gains or victories to God’s purposes rather than self-exaltation?",
+    "What legacy of peace and generosity are we preparing to leave for those after us?"
+  ],
+  "uncertainAreas": "The phrase “sons of the damsels” (v.12) is obscure and translation-dependent. References to Persians and Medes alongside Assyrians reflect the book’s broader anachronistic setting. The extent and timing of the “day of judgment” imagery (v.17) and whether it signifies eternal torment or vivid prophetic hyperbole are not explicit. The duration implied by “a long time after her death” (v.25) is unspecified.",
+  "createdAt": "2025-10-19T02:51:50.928Z",
+  "modelId": "gpt-5-2025-08-07"
+}

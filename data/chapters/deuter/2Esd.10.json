@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Esd.10",
+  "briefOverview": "Ezra encounters a mourning woman who transforms into a vision of a city. The angel Uriel interprets her as personified Zion, revealing the meaning of Jerusalem’s fall and previewing further end-time revelations.",
+  "summary": "A woman tells Ezra that her son died upon entering his wedding chamber and vows to mourn herself to death in the field. Ezra rebukes her, urging her to consider Zion’s greater catastrophe—detailing the desecration of the sanctuary, the profanation of holy things, and the suffering of the people—and exhorts her to seek mercy. Suddenly the woman’s face shines, she cries out, and vanishes; in her place Ezra sees a vast, founded city. Uriel returns, strengthens Ezra, and explains that the woman is Zion: her barrenness corresponds to eras before offerings, her son to Jerusalem under Solomon, and his death to the city’s destruction. Ezra is told he was led to an open field so that the city of the Most High could be revealed where no human foundation stands. Uriel reassures him, calls him blessed, and instructs him to remain for the night to receive dream visions about what God will do in the last days.",
+  "externalContext": "2 Esdras (also known as 4 Ezra) is widely dated to the decades after the Roman destruction of Jerusalem and the Second Temple in 70 CE, a period that produced several Jewish apocalypses processing national calamity through visions and angelic instruction. Personifying Zion as a bereaved woman or mother is a long-standing biblical trope used to interpret communal trauma. Uriel appears in earlier Jewish literature (e.g., 1 Enoch) as a revealing angel, fitting the genre’s pattern of heavenly mediators who interpret symbolic visions. The chapter’s temple-lament catalog echoes liturgical and prophetic laments after the city’s fall while expressing hope for divine restoration.",
+  "externalReferences": "The personification of Zion as a bereaved woman resonates with Lamentations’ portrayal of Jerusalem as a widow (Lamentations 1:1–4). The “barren woman” turned fruitful recalls Zion imagery in Isaiah (Isaiah 54:1–8; cf. 66:7–14). Calling Zion “the mother of us all” parallels Paul’s description of “the Jerusalem above” as “our mother” (Galatians 4:26), though used here in a different setting. The unveiled city that replaces the woman evokes the apocalyptic vision of the New Jerusalem as a bride (Revelation 21:2–4).",
+  "seeAlso": [
+    "Lamentations 1:1-4",
+    "Isaiah 54:1-8",
+    "Isaiah 66:7-14",
+    "Galatians 4:26",
+    "Revelation 21:2-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Woman’s desperate lament"
+    },
+    {
+      "range": "5-24",
+      "title": "Ezra’s rebuke and Zion’s woes"
+    },
+    {
+      "range": "25-59",
+      "title": "Vision explained; future revealed"
+    }
+  ],
+  "themes": [
+    "Personified Zion",
+    "Mourning and consolation",
+    "Destruction and restoration",
+    "Divine revelation"
+  ],
+  "practicalQuestions": [
+    "How should we hold personal grief alongside communal suffering without trivializing either?",
+    "When devastation strikes sacred institutions, what practices help us seek mercy and hope rather than despair (vv. 24, 55–57)?",
+    "How can allegory and symbol expand our understanding of God’s work in history, as Uriel’s interpretation does here?",
+    "What does it mean to acknowledge God’s decree as just while still lamenting honestly (v. 16)?",
+    "Where might we need to step away from human ‘foundations’ to perceive God’s larger purposes (vv. 51–54)?"
+  ],
+  "uncertainAreas": "The referent of the city’s “destruction” (first or second temple) is not specified; the “three thousand years” and its linkage to Solomon appear symbolic and are difficult to reconcile with conventional chronology; the precise identity and timing of the revealed city’s glory are not fully defined in this chapter.",
+  "createdAt": "2025-10-19T02:05:23.084Z",
+  "modelId": "gpt-5-2025-08-07"
+}

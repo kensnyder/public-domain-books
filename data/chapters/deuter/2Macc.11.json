@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "2Macc.11",
+  "briefOverview": "Lysias launches a major campaign against Judea, but Judas Maccabeus and his forces, encouraged by a heavenly sign, rout the Seleucid army and secure royal decrees permitting Jewish religious practice.",
+  "summary": "Lysias approaches Judea with a large army and elephants, intending to profit from the temple and commodify the high priesthood, and he besieges Bethsura. Judas and the people pray for angelic help; a rider in white with golden armor appears, emboldening them to attack. The Jews win decisively, and Lysias, recognizing divine favor for the Hebrews, seeks peace and promises to advocate for them with the king. Judas agrees for the common good, and Lysias’ letter confirms favorable terms. Royal correspondence from King Antiochus follows, granting the Jews rest, restoration of their temple, and freedom to live by their ancestral laws, with safe conduct for those returning. A Roman ambassadorial letter affirms support for what Lysias has granted and invites further communication.",
+  "externalContext": "This episode occurs amid the Maccabean revolt against Seleucid rule in the mid-second century BCE, after Antiochus IV Epiphanes had attempted to suppress Jewish religious practices and desecrated the temple. Following Antiochus IV’s death, his young son Antiochus V Eupator reigned with Lysias as regent, and the regime at times pursued pragmatic accommodation to stabilize the region. Seleucid armies commonly deployed war elephants, a hallmark of Hellenistic warfare. Bethsura (Beth-zur) was a strategic fortress controlling approaches to Jerusalem from the south. The Seleucid dating “year 148” reflects the Seleucid Era calendar used in official documents.",
+  "externalReferences": "2 Maccabees previously recounts angelic assistance in battle (2 Maccabees 10:29–30), closely paralleling the heavenly rider motif here. A partly parallel account of Lysias’ campaign, with different battle dynamics and outcomes, appears in 1 Maccabees 6:28–63, which also culminates in negotiated terms (see 1 Maccabees 6:59–60). Menelaus, mentioned here as a messenger of comfort, was earlier installed as high priest through corruption and intrigue (2 Maccabees 4:23–50), echoing the chapter’s critique of selling the high priesthood (verse 3). Roman involvement with Judea as a diplomatic counterweight to Seleucid power appears elsewhere (1 Maccabees 8:17–32; 12:1–4).",
+  "seeAlso": [
+    "2 Maccabees 10:29-30",
+    "1 Maccabees 6:28-63",
+    "1 Maccabees 6:59-60",
+    "2 Maccabees 4:23-50",
+    "1 Maccabees 8:17-32",
+    "1 Maccabees 12:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-12",
+      "title": "Heavenly aid and victory"
+    },
+    {
+      "range": "13-21",
+      "title": "Lysias seeks peace"
+    },
+    {
+      "range": "22-38",
+      "title": "Royal and Roman decrees"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Prayer and courage",
+    "Religious freedom",
+    "Pragmatic peace"
+  ],
+  "practicalQuestions": [
+    "How do I combine earnest prayer with courageous action when facing overwhelming opposition?",
+    "Where is the line between faithful resistance and prudent compromise for the common good?",
+    "How can past antagonists (like Menelaus) be engaged constructively without naivety?",
+    "In what ways might victories tempt me to pride, and how can I ascribe credit to God?",
+    "What safeguards help a community preserve core convictions while navigating political agreements?"
+  ],
+  "uncertainAreas": "The identity of the Antiochus in the letters (likely Antiochus V Eupator) is implied but not explicit; the exact chronology of Seleucid regnal years is debated. The description of Bethsura’s distance and battle figures may reflect literary compression or variant traditions versus 1 Maccabees. The nature of the angelic rider (visionary sign vs. literal angelic combatant) is not specified.",
+  "createdAt": "2025-10-19T02:34:37.859Z",
+  "modelId": "gpt-5-2025-08-07"
+}

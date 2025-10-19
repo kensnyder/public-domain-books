@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.29",
+  "briefOverview": "Instruction on merciful lending and almsgiving, paired with cautions about unreliable borrowers and risky commitments, concluding with counsel on contentment and stable living.",
+  "summary": "The chapter urges lending to neighbors in need as an act of mercy that fulfills commandments, while warning that many borrowers flatter at first but delay or default, creating hostility and discouraging generosity. Despite such risks, the reader is told to be steadfast toward the humble and to assist the poor, treating generosity as true treasure stored with God and a protection in adversity. Gratitude to benefactors is commended, while sinful ingratitude and treating loans as one’s own are condemned. The text warns that rash promises (likely suretyship) destroy many and lead to hardship, so help within one’s ability and guard oneself. It then identifies basic necessities—water, bread, clothing, and a home—and praises modest sufficiency at home over lavish living as a perpetual guest, since frequent dependence on others invites reproach and bitter words.",
+  "externalContext": "Ben Sira (Sirach) was a Jewish sage writing in Jerusalem in the early second century BCE, during the Second Temple period, when economic life involved patronage, small-scale agriculture, and vulnerability to debt. The Torah’s social laws sought to protect the poor through commands to lend freely, avoid interest to fellow Israelites in need, and release debts periodically. Suretyship (becoming a guarantor for another’s debt) was a common practice that carried significant social and financial risk. Hospitality was a valued virtue in the ancient Near East, yet chronic dependence on others’ homes could strain relationships and honor within tightly knit communities.",
+  "externalReferences": "This chapter aligns with Torah commands to be openhanded to the poor and to avoid exploitative lending practices (Deuteronomy 15:7–11; Exodus 22:25; Leviticus 25:35–37). Its cautions about destructive “promises” closely parallel warnings against becoming surety or cosigning others’ debts (Proverbs 6:1–5; 11:15; 22:26–27), and its critique of over-frequent visiting echoes Proverbs 25:17. The teaching that alms are a lasting treasure resembles Tobit’s commendations of almsgiving (Tobit 4:7–11; 12:8–9) and anticipates Jesus’ language about storing up treasure in heaven (Matthew 6:19–21).",
+  "seeAlso": [
+    "Deuteronomy 15:7-11",
+    "Exodus 22:25",
+    "Leviticus 25:35-37",
+    "Proverbs 6:1-5",
+    "Proverbs 11:15",
+    "Proverbs 22:26-27",
+    "Tobit 4:7-11",
+    "Tobit 12:8-9",
+    "Matthew 6:19-21",
+    "Proverbs 25:17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Merciful lending and alms"
+    },
+    {
+      "range": "18-26",
+      "title": "Perils of rash promises"
+    },
+    {
+      "range": "27-34",
+      "title": "Contentment and home life"
+    }
+  ],
+  "themes": [
+    "Mercy in lending",
+    "Almsgiving as treasure",
+    "Risks of surety",
+    "Contentment and home"
+  ],
+  "practicalQuestions": [
+    "How can I lend or give to those in need while setting clear, fair expectations that discourage irresponsibility?",
+    "What boundaries should I set to avoid taking on obligations (e.g., guarantees) beyond my ability to bear?",
+    "In my budgeting, how can I treat almsgiving as a priority and a form of enduring ‘treasure’?",
+    "Whom do I need to thank or honor for past help, and how can I avoid ingratitude?",
+    "Where might pursuing status or social approval be undermining my contentment with modest, stable living?",
+    "When helping someone in crisis, how can I protect both their dignity and my household’s responsibilities?"
+  ],
+  "uncertainAreas": "The term translated as “wicked promise” likely refers to suretyship/guaranteeing another’s debt; the precise nuance depends on the underlying Hebrew/Greek. “Benefactor” may refer to a lender or guarantor; the role is contextually inferred. The line about wandering among foreign nations may imply exile due to debt or failed guarantees, but the mechanism is not explicit in this translation.",
+  "createdAt": "2025-10-19T03:12:05.266Z",
+  "modelId": "gpt-5-2025-08-07"
+}

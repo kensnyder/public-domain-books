@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1Macc.9",
+  "briefOverview": "The chapter recounts Judas Maccabeus’s final battle and death, the ensuing oppression, and Jonathan’s rise to leadership culminating in a negotiated peace with Bacchides.",
+  "summary": "Bacchides advances with a large Seleucid force; Judas, left with only about eight hundred men, resolves to fight honorably and falls in battle after routing the enemy’s right wing. Israel mourns Judas, and wicked collaborators gain power amid famine, while Bacchides persecutes Judas’s supporters. Judas’s brothers and allies appoint Jonathan as leader; pursued by Bacchides, Jonathan and Simon retreat to the wilderness, avenge their brother John against the Jambri, and survive a desperate Sabbath-day clash by the Jordan.\nBacchides fortifies key Judean cities, seizes hostages, and Alcimus orders destruction at the sanctuary but is struck with paralysis and dies, bringing a two-year respite. After conspirators again summon Bacchides, Jonathan thwarts plots, fortifies Bethbasi, and with Simon conducts successful operations that frustrate Bacchides. Bacchides executes those who advised the campaign and makes peace with Jonathan, swearing non-aggression, after which Jonathan governs from Michmash and suppresses ungodly elements.",
+  "externalContext": "The narrative occurs under Seleucid rule, likely during the reign of Demetrius I (mid-2nd century BCE). Bacchides was a Seleucid general and administrator in the region, and Alcimus (Alkimos) was a Hellenizing high priest installed with royal backing. The dates follow the Seleucid Era (beginning 312/311 BCE); the 152nd–153rd years correspond roughly to 160–159 BCE. The Nabateans mentioned were an Arab trading people east and south of Judea, active across Transjordan and the Negev. The “tower” in Jerusalem likely refers to the Akra, the Seleucid citadel that dominated the city and housed a garrison.",
+  "externalReferences": "The lament over Judas (“How is the valiant man fallen”) echoes David’s elegy over Saul and Jonathan (“How are the mighty fallen”: 2 Samuel 1:19, 25, 27). The note that “a prophet was not seen among them” resonates with 1 Maccabees 4:46, which mentions waiting “until a prophet should come,” highlighting perceived prophetic silence in this era. Fighting on the Sabbath in dire circumstances aligns with the earlier decision in 1 Maccabees 2:39–41 to defend life when attacked on the Sabbath. The fortification and occupation of Jerusalem’s “tower” recalls earlier references to the Akra (1 Maccabees 1:33–36; 6:18).",
+  "seeAlso": [
+    "2 Samuel 1:19-27",
+    "1 Maccabees 2:39-41",
+    "1 Maccabees 4:46",
+    "1 Maccabees 1:33-36",
+    "1 Maccabees 6:18",
+    "1 Maccabees 7:5-20",
+    "1 Samuel 13:23-14:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-22",
+      "title": "Judas’s last battle and death"
+    },
+    {
+      "range": "23-41",
+      "title": "Oppression and Jonathan chosen"
+    },
+    {
+      "range": "42-73",
+      "title": "Jordan clash, fortresses, and peace"
+    }
+  ],
+  "themes": [
+    "Courage unto death",
+    "Leadership succession",
+    "Oppression and betrayal",
+    "Divine judgment",
+    "Warfare and strategy"
+  ],
+  "practicalQuestions": [
+    "When facing overwhelming odds, how do we weigh courage against prudence and responsibility to others?",
+    "How should a community respond to internal collaborators without deepening cycles of vengeance?",
+    "What practices help sustain faith and unity during periods of political oppression or uncertainty?",
+    "When is it wise to seek negotiated peace with a former enemy, and what safeguards build trust?",
+    "How does communal lament for a fallen leader shape identity and future resolve?"
+  ],
+  "uncertainAreas": "Several place names and identifications are debated (e.g., Berea, mount Azotus, Bethbasi, Nadabatha). “The tower” is likely the Akra but the text does not name it explicitly. The phrase “works of the prophets” and the exact nature of Alcimus’s attempted demolition are unclear. The precise conversion of Seleucid years to BCE dates can vary depending on whether one uses the Macedonian or Babylonian reckoning.",
+  "createdAt": "2025-10-19T02:18:35.839Z",
+  "modelId": "gpt-5-2025-08-07"
+}

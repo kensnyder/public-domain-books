@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Macc.3",
+  "briefOverview": "A Seleucid attempt to seize the Jerusalem temple treasury is miraculously thwarted, highlighting the sanctuary’s sanctity and God’s protection.",
+  "summary": "A conflict between Simon and the high priest Onias leads Simon to inform the Seleucid authorities that the Jerusalem treasury holds vast sums. King Seleucus sends his minister Heliodorus to confiscate the funds, though Onias explains they are deposits for widows, orphans, and Hyrcanus and are entrusted to the temple’s sacred custody. As the city prays in distress, a divine apparition—a splendid horseman and two young men—strikes and scourges Heliodorus, leaving him near death. At the request of Heliodorus’ companions, Onias intercedes; the heavenly figures declare Heliodorus’ life is spared and command him to publicize God’s power. Heliodorus offers sacrifice, vows to God, returns to the king, and testifies that the temple is under God’s special protection, warning that enemies sent there will be punished.",
+  "externalContext": "The events occur under Seleucid rule, likely during the reign of Seleucus IV Philopator (late 3rd–early 2nd century BCE). The Jerusalem temple also functioned as a trusted depository where individuals and communities stored funds, including charity for widows and orphans. Onias III served as high priest, while rival factions, including the Tobiads (linked here to Hyrcanus) and others, vied for influence. Heliodorus was a high-ranking official under Seleucus IV and is mentioned in other sources as a powerful court figure. Seleucid governors oversaw Coele-Syria and Phoenicia, regions that included Judea, and often sought revenues to support imperial needs.",
+  "externalReferences": "The appeal to “him that made a law concerning things given to be kept” reflects Torah legislation on entrusted property and safeguarding deposits (Exodus 22:7–9). The chapter’s emphasis on God’s eyes upon the temple and its protection resonates with Solomon’s temple prayer that God’s eyes be open toward the house (1 Kings 8:29). The dramatic angelic intervention parallels biblical accounts of divine deliverance against hostile forces (e.g., the angel striking Assyrian forces in 2 Kings 19:35). Many interpreters connect Daniel 11:20 (“one who sends an exactor of tribute through the glory of the kingdom”) with Seleucus IV and possibly Heliodorus’ mission to extract funds, providing a prophetic backdrop to these events.",
+  "seeAlso": [
+    "Exodus 22:7-9",
+    "1 Kings 8:27-30",
+    "2 Kings 19:35",
+    "Daniel 11:20",
+    "2 Maccabees 4:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-14",
+      "title": "Heliodorus sent to seize funds"
+    },
+    {
+      "range": "15-22",
+      "title": "Citywide supplication and fear"
+    },
+    {
+      "range": "23-40",
+      "title": "Divine rescue and Heliodorus’ testimony"
+    }
+  ],
+  "themes": [
+    "Sanctuary inviolability",
+    "Divine protection",
+    "Communal prayer",
+    "Justice for the vulnerable"
+  ],
+  "practicalQuestions": [
+    "How should communities safeguard resources entrusted for the vulnerable, especially when under external pressure?",
+    "What practices of communal prayer and leadership do we adopt in times of civic or religious crisis?",
+    "How can leaders respond to slander or political manipulation without compromising integrity?",
+    "When we believe we have experienced help beyond our power, how do we publicly acknowledge it responsibly?"
+  ],
+  "uncertainAreas": "The identity and background of Hyrcanus son of Tobias are not fully explained in the chapter. The phrase about a divine “law concerning things given to be kept” likely points to Torah deposit laws, but the exact legal text intended is not specified. The nature of the apparitions (angelic beings, visionary experience, or narrated miracle) is presented as historical by the text, but its phenomenology is not clarified.",
+  "createdAt": "2025-10-19T02:27:34.444Z",
+  "modelId": "gpt-5-2025-08-07"
+}

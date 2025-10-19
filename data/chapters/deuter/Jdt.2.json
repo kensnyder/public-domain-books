@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jdt.2",
+  "briefOverview": "Nebuchadnezzar commissions Holofernes to subdue the western lands, demanding absolute submission and unleashing a vast, devastating military campaign.",
+  "summary": "On a specified date in Nebuchadnezzar’s reign, he resolves to avenge himself on “all the earth” and orders Holofernes, his chief general, to lead a massive force—120,000 infantry and 12,000 cavalry—against the western regions that refused his command. He demands tokens of submission (“earth and water”) and threatens total destruction for any resistance. Holofernes assembles the army with extensive logistics and wealth, then departs from Nineveh, joined by numerous subject peoples. Marching through various territories—across Mesopotamia, Cilicia, regions associated with Phut, Lud, Midian, and into the Damascus plain—he destroys cities, burns fields during wheat harvest, slaughters resisters, and plunders widely, including Israelites near the southern wilderness. Terror spreads along the seacoast, reaching Sidon, Tyre, and Philistine cities like Azotus and Ascalon.",
+  "externalContext": "The Book of Judith is set in a deliberately stylized ancient Near Eastern world: it names Nebuchadnezzar as “king of the Assyrians” dwelling in Nineveh, anachronistically blending Neo-Assyrian and Neo-Babylonian elements. Many scholars read Judith as a didactic historical novella from the Hellenistic period, using composite details to frame theological themes of divine deliverance versus imperial arrogance. Demanding “earth and water” as a sign of total submission echoes a well-attested Persian practice described by classical sources, signaling surrender of land and resources. The western campaign route reflects the traditional Assyrian/Babylonian sphere of operations through Mesopotamia, Syria, and the Levant, including Phoenician and Philistine coastal cities.",
+  "externalReferences": "Nineveh as an imperial center recalls prophetic literature addressing that city (Jonah 1–3; Nahum 1–3), where Assyrian power and its downfall are prominent themes. The simile of an innumerable host “like locusts” parallels images used for overwhelming armies (Judges 7:12; Joel 2:2–5). The fear and impending judgment of coastal cities such as Tyre and Sidon resonate with prophetic oracles against those centers (Isaiah 23; Ezekiel 28). The rhetoric of total dominance and demands for submission recall Assyrian pressure narratives against Judah (2 Kings 18–19; Isaiah 36–37), though Judith reframes them within its own narrative world.",
+  "seeAlso": [
+    "Jonah 1:1-3:10",
+    "Nahum 1:1-3:19",
+    "Judges 7:12",
+    "Joel 2:1-9",
+    "Isaiah 23:1-18",
+    "Ezekiel 28:1-10",
+    "2 Kings 18:13-19:37",
+    "Isaiah 36:1-37:38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Nebuchadnezzar’s ruthless decree"
+    },
+    {
+      "range": "14-20",
+      "title": "Holofernes musters the host"
+    },
+    {
+      "range": "21-28",
+      "title": "Westward devastation and dread"
+    }
+  ],
+  "themes": [
+    "Imperial hubris",
+    "Total war",
+    "Submission",
+    "Terror"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when authorities demand absolute allegiance that violates conscience or covenant commitments?",
+    "What modern forms of “earth and water” (symbols of total submission) tempt people or institutions to compromise?",
+    "How can leaders avoid using dehumanizing, grandiose rhetoric that escalates violence against the vulnerable?",
+    "What prudent preparations can communities make when facing overwhelming external pressure or siege?",
+    "Where do we place our trust when confronted by powers that claim universal dominion?"
+  ],
+  "uncertainAreas": "The identification and location of several toponyms (e.g., Bectileth, Rasses, the Chellians, Arbonai, Sur, Ocina, Jemnaan) are unclear, making the campaign’s exact route difficult to map. The phrase about attacking “the children of Israel … toward the wilderness at the south of the land of the Chellians” is ambiguous. The expression “borders of Japheth” may be figurative or geographical and is not precise. The book’s historical framing (Nebuchadnezzar as Assyrian in Nineveh) is intentionally non-literal, complicating historical correlations.",
+  "createdAt": "2025-10-19T02:42:58.151Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Sir.42",
+  "briefOverview": "Ben Sira gives prudential counsel on guarded speech, fair dealing, and household vigilance, then turns to a praise of God’s omniscience and the ordered goodness of creation.",
+  "summary": "The chapter warns against repeating confidential matters and urges integrity in judgment, business, and record‑keeping, even when it requires confronting folly. It counsels firm discipline in the household and correction of the senseless, stressing that such frankness brings approval. A father is urged to be vigilant over his daughter, wary of behaviors that could bring disgrace. The passage includes strong cautions about sexual impropriety and social reputation within the family. The final section turns to doxology: God’s knowledge penetrates the abyss and the human heart, nothing escapes his sight, his works are established beyond addition or subtraction, and the world displays his wise, balanced order to which all things obediently conform.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book composed in Hebrew by Jesus ben Sira in early second‑century BCE Jerusalem and translated into Greek by his grandson around 132 BCE. It reflects the concerns of a scribal sage instructing a community under Hellenistic rule, blending Torah‑based ethics with practical advice for urban life. Emphasis on accurate weights, contracts, and written records aligns with Torah law and the administrative practices of the period. Household instructions assume a patriarchal family structure common in Second Temple Judaism, where a family’s honor and a daughter’s marriageability were closely linked to communal standing.",
+  "externalReferences": "Ben Sira’s insistence on honest scales echoes Torah and wisdom traditions condemning fraudulent measures (Leviticus 19:35–36; Proverbs 11:1). The portrait of God who knows thoughts and the depths resonates with Psalm 139:1–4 and Proverbs 15:11, and with David’s charge that the LORD searches all hearts (1 Chronicles 28:9). The claims that nothing can be added or taken from God’s work and that God orders contrasting realities recall Ecclesiastes 3:14 and 7:14, while his incomparability and need of no counselor parallels Isaiah 40:13; his declaring past and future aligns with Isaiah 46:9–10. The sun’s testimony to God’s glory and creation’s obedience mirror Psalm 19:1–6 and Psalm 119:91.",
+  "seeAlso": [
+    "Leviticus 19:35-36",
+    "Proverbs 11:1",
+    "Psalm 139:1-4",
+    "Proverbs 15:11",
+    "1 Chronicles 28:9",
+    "Ecclesiastes 3:14",
+    "Ecclesiastes 7:14",
+    "Isaiah 40:13",
+    "Isaiah 46:9-10",
+    "Psalm 19:1-6",
+    "Psalm 119:91"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Guarded speech and fair dealings"
+    },
+    {
+      "range": "9-14",
+      "title": "Vigilance over daughters"
+    },
+    {
+      "range": "15-26",
+      "title": "God’s wisdom and creation"
+    }
+  ],
+  "themes": [
+    "Guarded speech",
+    "Justice and integrity",
+    "Family vigilance",
+    "Divine omniscience",
+    "Creation’s order"
+  ],
+  "practicalQuestions": [
+    "What safeguards can I put in place to keep confidences and avoid spreading unverified claims?",
+    "How can I make my financial and professional dealings fully transparent (accurate measures, written agreements)?",
+    "When is it necessary to correct someone publicly, and how can I do so without unnecessary shame?",
+    "How might I exercise appropriate vigilance in family life while avoiding control or partiality?",
+    "In what ways would living before an all‑seeing God change how I speak, record transactions, or handle authority?"
+  ],
+  "uncertainAreas": "Several lines are difficult due to translation ambiguity (e.g., the sense of “You should not accept the reputation of someone,” the maxim “A seal is good over a wicked wife,” and verses 13–14 about iniquity arising from a woman). The extent to which corporal punishment and strict control are being prescribed versus described as common practice is unclear. Verse divisions and the transition at 15 from admonitions to doxology may reflect editorial shaping across translations.",
+  "createdAt": "2025-10-19T03:19:40.102Z",
+  "modelId": "gpt-5-2025-08-07"
+}

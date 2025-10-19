@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Sir.3",
+  "briefOverview": "Ben Sira instructs on honoring parents and cultivating humility, prudence, and charity before God.",
+  "summary": "The chapter urges children to heed parental instruction and emphasizes that honoring father and mother brings blessing, long life, and answered prayer, while dishonoring them brings ruin. Care for aging parents, even when their minds fail, is framed as enduring almsgiving that God remembers and that dissolves sins. The text calls for humility: do not exalt yourself or pry into matters beyond your capacity, but attend to what God has entrusted to you. Excessive curiosity and proud speculation are portrayed as spiritually dangerous, leading to vanity. Ben Sira contrasts hearts that are hardened, divided, or wicked—with sorrow and scandal as outcomes—against the wise heart that listens, avoids sin, and prospers in just works. He concludes that as water extinguishes fire, so almsgiving withstands sins; God remembers kindness and supports the benefactor in time of need.",
+  "externalContext": "Sirach (also called Ecclesiasticus) is a Jewish wisdom text composed in Hebrew by Jesus ben Sira in early second-century BCE Jerusalem, later translated into Greek by his grandson. It belongs to the Second Temple period and reflects traditional Israelite wisdom shaped by Torah piety and communal life centered on family, elders, and synagogue. With limited formal social safety nets, caring for parents and giving alms were integral to household-based ethics and communal stability. The wording in some translations reflects the Greek and Latin transmission (e.g., “assembly/church” for the community of the just), and minor textual variants exist between witnesses.",
+  "externalReferences": "Honoring parents echoes the fifth commandment (Exodus 20:12; Deuteronomy 5:16) and aligns with the Torah’s curse on those who dishonor father or mother (Deuteronomy 27:16). The warning not to probe hidden things parallels Deuteronomy 29:29, while the call to humility resonates with Proverbs 3:34. The claim that almsgiving averts or covers sins closely parallels Tobit 12:9. The critique of a divided or double heart is similar to James 1:8.",
+  "seeAlso": [
+    "Exodus 20:12",
+    "Deuteronomy 5:16",
+    "Deuteronomy 27:16",
+    "Deuteronomy 29:29",
+    "Proverbs 3:34",
+    "Tobit 12:9",
+    "James 1:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Honor and care for parents"
+    },
+    {
+      "range": "19-26",
+      "title": "Humility and prudent inquiry"
+    },
+    {
+      "range": "27-34",
+      "title": "Heart’s paths and almsgiving"
+    }
+  ],
+  "themes": [
+    "Honor parents",
+    "Humility",
+    "Prudence",
+    "Almsgiving"
+  ],
+  "practicalQuestions": [
+    "How can I tangibly honor and support aging parents or elders, especially when their capacities decline?",
+    "Where do I need to practice humility rather than seeking status or recognition?",
+    "What boundaries should I set on curiosity or speculation that distracts me from what God has entrusted to me?",
+    "How can I cultivate a united, non-divided heart in decisions and loyalties?",
+    "What concrete forms of almsgiving or kindness can I practice that reflect God’s remembered mercy?"
+  ],
+  "uncertainAreas": "Verses 3 and 16 have difficult wording and may reflect textual or translational issues (e.g., the sense of “judgment of the mother” and “in return for the sin of the mother”). The phrase “synagogue of the arrogant” (v. 30) likely means “assembly/congregation,” with nuances varying by translation. The exact scope of “almsgiving withstands sins” (v. 33)—whether primarily mitigating consequences, expressing repentance, or effecting atonement—is open to interpretive nuance within wisdom and deuterocanonical traditions.",
+  "createdAt": "2025-10-19T02:57:18.240Z",
+  "modelId": "gpt-5-2025-08-07"
+}

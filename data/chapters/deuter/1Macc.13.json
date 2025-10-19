@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "1Macc.13",
+  "briefOverview": "Simon assumes leadership after Jonathan’s capture, secures political autonomy for Judea, and purifies key cities and fortresses.",
+  "summary": "Seeing the people’s fear, Simon rallies Jerusalem, pledging to defend the nation and the sanctuary and is chosen as leader in place of Judas and Jonathan. Tryphon demands ransom and hostages for Jonathan but deceives Simon and later kills Jonathan at Bascama; Simon retrieves his brother’s bones and builds a conspicuous memorial for his family at Modin. Amid Seleucid turmoil, Tryphon murders the boy-king Antiochus and crowns himself; Simon fortifies Judean strongholds and petitions King Demetrius, who grants tax remissions, confirms Judean control of their fortresses, and establishes peace. With the ‘yoke of the heathen’ removed, official documents begin to be dated by Simon’s leadership. Simon besieges Gaza, shows clemency to its inhabitants, removes idols, installs law-keepers, and strengthens the city. He blockades the Jerusalem tower (Acra), accepts its surrender, purifies it, and enters with public thanksgiving, instituting an annual commemoration of the day; he strengthens the temple mount and appoints his son John as commander in Gazara.",
+  "externalContext": "This period falls within the latter stages of the Maccabean/Hasmonean revolt against Seleucid control. The Seleucid Empire was destabilized by competing claimants: Demetrius II Nicator, the child-king Antiochus VI Dionysus, and the usurper Diodotus Tryphon. Judea’s strategic fortresses included the Acra in Jerusalem, long a symbol of foreign domination, and coastal cities like Joppa and Gaza, important for trade and military access. The dating system in the narrative uses the Seleucid Era; year 170–171 SE corresponds roughly to 143/142–142/141 BCE, when Judea effectively gained autonomy under Simon.",
+  "externalReferences": "Jonathan’s capture by Tryphon continues the thread from 1 Maccabees 12:39–53, culminating here in Jonathan’s death (13:23). The public entry with palm branches recalls earlier temple celebrations at the rededication (1 Maccabees 4:52–59; cf. 2 Maccabees 10:7), highlighting liturgical thanksgiving after deliverance. The Jerusalem tower (Acra) had been a persistent problem since earlier in the revolt (1 Maccabees 6:18–20), making its purification and occupation here (13:49–52) a decisive milestone. Simon’s leadership will be further formalized and praised in the next chapter (1 Maccabees 14:27–49).",
+  "seeAlso": [
+    "1 Maccabees 12:39-53",
+    "1 Maccabees 2:1-70",
+    "1 Maccabees 4:52-59",
+    "2 Maccabees 10:7",
+    "1 Maccabees 6:18-20",
+    "1 Maccabees 14:27-49"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-24",
+      "title": "Simon rises; Tryphon’s deceit"
+    },
+    {
+      "range": "25-42",
+      "title": "Memorial and royal decree"
+    },
+    {
+      "range": "43-53",
+      "title": "Gaza, Acra, and celebration"
+    }
+  ],
+  "themes": [
+    "Leadership legitimacy",
+    "Deliverance",
+    "Sacred purity",
+    "Political autonomy",
+    "Commemoration"
+  ],
+  "practicalQuestions": [
+    "How should leaders balance prudence and trust when facing deceitful adversaries to protect their people?",
+    "What practices help a community remember past sacrifices without fostering vengeance?",
+    "How can the ‘cleansing’ of institutions (physical or cultural) be pursued justly and constructively?",
+    "When is it wise to grant clemency to former opponents for the sake of long-term stability?",
+    "What markers (festivals, memorials, documents) appropriately signal new beginnings in a community’s life?"
+  ],
+  "uncertainAreas": "The precise BCE correlation of the Seleucid years (170–171 SE) and the identity of “the young king Antiochus” are historically well-attested but not named explicitly in the chapter; the calendar conversion details and the exact nature of the memorial’s “ships carved” remain interpretively uncertain.",
+  "createdAt": "2025-10-19T02:23:00.365Z",
+  "modelId": "gpt-5-2025-08-07"
+}

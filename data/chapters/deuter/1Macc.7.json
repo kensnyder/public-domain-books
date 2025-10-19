@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1Macc.7",
+  "briefOverview": "Demetrius I empowers Alcimus and Bacchides to subdue Judea, leading to treachery against pious groups, followed by Nicanor’s threat against the temple and his defeat by Judas at Adasa.",
+  "summary": "After seizing the throne, Demetrius I executes Antiochus and Lysias and, urged by hostile Judeans, sends Bacchides with Alcimus, whom he appoints high priest, to punish Judas and his supporters. Bacchides and Alcimus woo the people with false promises, then massacre sixty of the Assideans, spreading fear as they violate oaths and execute opponents. Alcimus consolidates power and harms Israel, prompting Judas to retaliate against collaborators. Demetrius then dispatches Nicanor, who feigns friendship toward Judas, is exposed, and suffers a defeat near Capharsalama. Nicanor ascends Mount Zion, mocks the priests, and vows to burn the temple, spurring priestly lament and prayer for divine justice. On the thirteenth of Adar, Judas defeats Nicanor at Adasa, kills him first in battle, and the people establish an annual celebration of this deliverance, bringing a brief rest to the land.",
+  "externalContext": "Demetrius I Soter reclaimed the Seleucid throne around 162 BCE, overthrowing the young Antiochus V and his regent Lysias. “Beyond the River” was the Persian/Seleucid administrative designation for the satrapy west of the Euphrates, where Bacchides likely held authority. Alcimus (likely from a priestly line favorable to Hellenizing policies) was installed by the Seleucids as high priest, in contrast to the Hasmonean leadership arising from the Maccabean revolt. Nicanor was a Seleucid general whose defeat and death in 161 BCE gave rise to “Nicanor’s Day,” a Judean festival observed on 13 Adar. Adasa is generally identified in the Judean hills near Beth-horon and Gezer (Gazara).",
+  "externalReferences": "The prayer recalling an angel striking 185,000 “of the king of the Assyrians” echoes the deliverance of Jerusalem under Hezekiah (2 Kings 19:35; Isaiah 37:36). The lament “The flesh of thy saints have they cast out… and their blood… round about Jerusalem” closely parallels Psalm 79:2–3. The priests’ appeal about the temple as a house of prayer reflects themes from Solomon’s dedication (1 Kings 8:29–30) and Isaiah’s vision of the temple for prayer (Isaiah 56:7). The institution of an annual commemoration for Nicanor’s defeat corresponds to the account in 2 Maccabees 15:28–36, which likewise fixes it on 13 Adar.",
+  "seeAlso": [
+    "2 Kings 19:35",
+    "Isaiah 37:36",
+    "Psalm 79:2-3",
+    "1 Kings 8:29-30",
+    "Isaiah 56:7",
+    "2 Maccabees 15:28-36",
+    "1 Maccabees 2:42"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-20",
+      "title": "Alcimus and Bacchides’ treachery"
+    },
+    {
+      "range": "21-38",
+      "title": "Nicanor’s provocation and temple threat"
+    },
+    {
+      "range": "39-50",
+      "title": "Adasa victory and Nicanor’s Day"
+    }
+  ],
+  "themes": [
+    "Deception and oaths",
+    "Temple sanctity",
+    "Divine deliverance",
+    "Judgment on blasphemy",
+    "Commemoration"
+  ],
+  "practicalQuestions": [
+    "How should communities discern and respond when peace offers come from parties with a record of deceit?",
+    "What safeguards can prevent leaders from exploiting religious credentials for political oppression?",
+    "How do we channel outrage over sacrilege or injustice into constructive prayer and action?",
+    "What practices help us remember and give thanks for past deliverances without fostering triumphalism?",
+    "When internal collaborators harm the community, what forms of accountability uphold justice without indiscriminate retaliation?"
+  ],
+  "uncertainAreas": "The exact identification of “beyond the flood” as a specific post (satrapy vs. narrower jurisdiction) for Bacchides; the precise location of Capharsalama; whether the citation of Psalm 79:2–3 is intended as a formal quotation or an allusion; nuances of Alcimus’s priestly legitimacy beyond what this chapter states.",
+  "createdAt": "2025-10-19T02:16:45.098Z",
+  "modelId": "gpt-5-2025-08-07"
+}

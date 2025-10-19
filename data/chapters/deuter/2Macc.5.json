@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Macc.5",
+  "briefOverview": "Antiochus IV violently sacks Jerusalem and desecrates the Temple, which the narrator interprets as temporary divine judgment for the people’s sins; the chapter closes with the first appearance of Judas Maccabeus withdrawing to the wilderness.",
+  "summary": "A prolonged heavenly apparition of armed horsemen precedes turmoil in Jerusalem. Hearing a false report of Antiochus IV’s death, Jason leads a bloody coup against his own countrymen but fails, flees, and dies in disgrace abroad. Antiochus, assuming Judea has revolted, storms Jerusalem, massacring and enslaving tens of thousands, and then plunders the Temple with Menelaus guiding him. The narrator explains that God permitted this desecration because of the people’s sins, yet affirms that the Temple’s honor would be restored once God is reconciled. Antiochus departs with vast treasure and installs harsh governors; Apollonius treacherously attacks on the Sabbath, killing many and selling others. Judas Maccabeus and a small band retreat to the mountains, avoiding defilement and subsisting on herbs.\n\n",
+  "externalContext": "These events are set during Antiochus IV Epiphanes’s conflicts with Ptolemaic Egypt in the 170s BCE; rumors of his death sparked instability in Jerusalem. Jason and Menelaus were rival high priests whose appointments reflected Seleucid political control and Hellenizing pressures on Judea. The reference to Aretas points to a Nabataean ruler active east and south of Judea. Claims of kinship with the Spartans (Lacedemonians) appear elsewhere in the Maccabean literature and likely reflect diplomatic traditions of the period. Attacking on the Sabbath exploited Jewish scruples, a tactic noted in other sources from the revolt.\n",
+  "externalReferences": "The comparison to Heliodorus being divinely repelled when he attempted to plunder the treasury recalls 2 Maccabees 3:24–28, contrasting God’s earlier protection with his temporary withdrawal here. The plundering of the Temple and subsequent oppression parallel 1 Maccabees 1:20–28 and the deceptive Sabbath attack parallels 1 Maccabees 1:29–40. Daniel’s visions are often read as anticipating Antiochus’s desecrations (Daniel 8:11–13; 11:31). The theological claim that the Temple does not guarantee immunity if the people sin resonates with Jeremiah 7:12–14 and 1 Kings 9:7–9.\n",
+  "seeAlso": [
+    "2 Maccabees 3:24-28",
+    "1 Maccabees 1:20-28",
+    "1 Maccabees 1:29-40",
+    "Daniel 8:11-13",
+    "Daniel 11:31",
+    "Jeremiah 7:12-14",
+    "1 Kings 9:7-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-10",
+      "title": "Omen and Jason’s downfall"
+    },
+    {
+      "range": "11-21",
+      "title": "Massacre and Temple plunder"
+    },
+    {
+      "range": "22-27",
+      "title": "Oppression and Judas’s retreat"
+    }
+  ],
+  "themes": [
+    "Temple desecration",
+    "Divine judgment",
+    "Oppression",
+    "Pride",
+    "Faithful remnant"
+  ],
+  "practicalQuestions": [
+    "How should communities interpret severe setbacks—discipline to learn from, or mere misfortune—and what responses does this text commend?",
+    "What safeguards can prevent ambitious leaders from harming their own people in pursuit of power, as Jason did?",
+    "How can we honor sacred places while remembering that their purpose is to serve a faithful people, not to be a talisman?",
+    "What practices help maintain integrity and identity under coercive pressure, as seen in Judas’s withdrawal to avoid pollution?",
+    "When confronted with deceitful or sacrilegious oppression, what forms of resistance are faithful and prudent?"
+  ],
+  "uncertainAreas": "Exact identification of the Aretas mentioned; whether the casualty and enslavement figures are precise or rhetorical; the historical identity and post of Apollonius in this episode; nuances of the heavenly apparition’s timing and purpose.",
+  "createdAt": "2025-10-19T02:29:01.558Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Sir.26",
+  "briefOverview": "The chapter contrasts the blessings of a virtuous wife with the grief caused by a corrupt one, then closes with maxims on injustice and precarious trades.",
+  "summary": "Sirach extols the good wife as a divine portion who brings peace, longevity, and joy to her husband, portraying her virtue as priceless and foundational. He warns of societal perils—public accusations and mobs—and especially the harms of a jealous, drunken, or adulterous wife, urging vigilance in the household and modesty. The text uses vivid metaphors to describe unfaithfulness and the ripple effects on children, while praising an attentive, disciplined, holy wife whose inner obedience to God makes her home radiant. Concluding sayings lament a warrior ruined by poverty, a wise person despised, and those who turn from justice to sin, and caution that merchants and shopkeepers face peculiar moral hazards tied to negligence and dishonest speech.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed by Ben Sira in Jerusalem in the early second century BCE and translated into Greek by his grandson around 132 BCE. As part of Jewish wisdom literature, it addresses practical ethics for family and community life within a patriarchal social structure in which marriage, household order, and reputation were central. Hyperbolic contrasts and concrete metaphors are typical tools of wisdom teaching, aiming to form character through sharp images. The praise of a faithful wife resonates with broader ancient Near Eastern and Israelite valuations of orderly households as the basic unit of moral society.",
+  "externalReferences": "The praise of a virtuous wife parallels Proverbs 31:10–31, including themes of household stability, wisdom, and incalculable worth (e.g., Sir 26:16–24 with Prov 31:10–12, 25–28). Warnings about adultery and seductive behavior echo Proverbs 5:3–8 and 7:6–27. The emphasis on God’s commandments indwelling the heart (26:24) aligns with Deuteronomy 6:6. New Testament commendations of a gentle, modest, and faithful wife resonate with 1 Peter 3:1–4, though in a different context.",
+  "seeAlso": [
+    "Proverbs 31:10-31",
+    "Proverbs 5:3-8",
+    "Proverbs 7:6-27",
+    "Proverbs 12:4",
+    "Proverbs 19:13",
+    "Deuteronomy 6:6",
+    "1 Peter 3:1-4",
+    "Sirach 25:13-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Blessing of a good wife"
+    },
+    {
+      "range": "5-15",
+      "title": "Perils of jealousy and unfaithfulness"
+    },
+    {
+      "range": "16-28",
+      "title": "Virtuous wife and closing maxims"
+    }
+  ],
+  "themes": [
+    "Good wife",
+    "Household harmony",
+    "Jealousy and infidelity",
+    "Self-restraint",
+    "Justice versus sin"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate self-restraint and faithfulness that foster peace in my household?",
+    "Where might jealousy or harsh speech be harming relationships, and how can I address it constructively?",
+    "How can parents or mentors teach modesty and integrity without resorting to suspicion or control?",
+    "Am I honoring wisdom in others, or contributing to a culture that despises the understanding?",
+    "Are my business practices susceptible to negligence or deceptive speech, and what safeguards will I adopt?"
+  ],
+  "uncertainAreas": "Verse 28 appears to anticipate themes developed in the next chapter in some traditions, suggesting a textual or numbering overlap. The phrase about a husband’s years being doubled (v.1) is likely idiomatic, not literal longevity. Several metaphors (vv.10–15) are hyperbolic and culturally situated, and their exact force may vary by translation.",
+  "createdAt": "2025-10-19T03:10:08.480Z",
+  "modelId": "gpt-5-2025-08-07"
+}

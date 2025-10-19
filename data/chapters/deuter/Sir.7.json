@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.7",
+  "briefOverview": "A collection of wisdom maxims urging avoidance of evil, humility, truthful speech, just leadership, and faithful care for family, priests, the poor, and the sick.",
+  "summary": "The chapter presents aphorisms warning against doing or associating with evil, presuming upon honor or judicial roles, and practicing deceit. It counsels humility before God and rulers, sober self-knowledge, and readiness to give alms rather than relying on sacrificial gifts alone. Practical guidance addresses household life: loyal friendship, care for reliable servants, discipline of sons, protection and prudent marriage of daughters, and fidelity to a good spouse. It commands honoring parents and supporting priests with firstfruits and prescribed offerings. Generosity toward the poor, consoling mourners, visiting the sick, and showing grace even toward the dead are commended. The reader is urged to remember mortality as a guard against sin.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom text composed in Hebrew in early second-century BCE Jerusalem by Jesus ben Sira; it was later translated into Greek by his grandson. Wisdom instruction like this chapter often took the form of concise imperatives aimed at forming character within family, communal, and temple-centered life. References to firstfruits, priestly portions, and purification offerings reflect the Second Temple sacrificial system and the priests’ dependence on tithes and gifts. Care for the dead, public mourning, and almsgiving were valued communal obligations in ancient Judaism. The book is part of the Deuterocanonical corpus in Catholic and Orthodox canons and was influential in Jewish and early Christian moral teaching.",
+  "externalReferences": "Several maxims echo the Torah and Wisdom literature. Honoring parents (7:29–30) reflects the commandment in Exodus 20:12, and support for priests with firstfruits aligns with Deuteronomy 18:1–5 and 26:1–11. Warnings against self-promotion before rulers (7:4–5) parallel Proverbs 25:6–7, and caution against many words in prayer (7:15) recalls Ecclesiastes 5:2. The imagery of judgment with “fire and worms” (7:19) resembles Isaiah 66:24, while almsgiving and mercy as atoning or life-preserving (7:10, 36–39) align with Tobit 4:7–11 and Proverbs 19:17; remembering one’s end (7:40) resonates with Psalm 90:12.",
+  "seeAlso": [
+    "Exodus 20:12",
+    "Deuteronomy 18:1-5",
+    "Deuteronomy 26:1-11",
+    "Proverbs 25:6-7",
+    "Ecclesiastes 5:2",
+    "Isaiah 66:24",
+    "Proverbs 19:17",
+    "Tobit 4:7-11",
+    "Psalm 90:12",
+    "Psalm 1:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Avoid evil and presumption"
+    },
+    {
+      "range": "9-19",
+      "title": "Humility, truth, and judgment"
+    },
+    {
+      "range": "20-40",
+      "title": "Household, worship, and mercy"
+    }
+  ],
+  "themes": [
+    "Avoiding evil",
+    "Humility",
+    "Truthfulness",
+    "Family responsibilities",
+    "Worship and charity"
+  ],
+  "practicalQuestions": [
+    "Where might I be seeking honor or authority for ego rather than service, and how can I practice humility instead?",
+    "What specific steps can I take this week to honor my parents or spiritual mentors?",
+    "How can I pair worship with concrete generosity toward the poor and those in need?",
+    "Are there relationships (spouse, friends, employees) where I need to act with greater loyalty and fairness?",
+    "How can remembering my mortality shape my daily choices toward integrity and compassion?"
+  ],
+  "uncertainAreas": "The phrase about not prohibiting grace for the dead (7:37) is ambiguous; it likely refers to proper burial/memorial care or ongoing acts of kindness honoring the deceased, but the exact practice intended is unclear. The warning not to seek leadership from the Lord (7:4) may caution against ambitious self-promotion, though it doesn’t forbid all leadership. The instruction not to repeat the words of prayers (7:15) could warn against vain repetition or performative verbosity; the nuance depends on context and translation. The line about not binding two sins together (7:8) is terse, and its specific scenarios are not detailed.",
+  "createdAt": "2025-10-19T02:59:40.453Z",
+  "modelId": "gpt-5-2025-08-07"
+}

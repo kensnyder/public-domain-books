@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "2Macc.12",
+  "briefOverview": "Judas Maccabeus leads punitive and defensive campaigns against neighboring enemies, highlighted by divine aid and strict concern for purity. The chapter culminates with prayer and offerings for the dead, grounded in hope of resurrection.",
+  "summary": "After treacherous massacres of Jews at Joppa, Judas retaliates by burning the harbor and ships, and similarly strikes Jamnia. He defeats Arabian nomads who sue for peace, then takes the fortified city of Caspis after invoking the God who felled Jericho. Pursuing Timotheus, Judas routs his forces, spares Timotheus upon a pledge for Jewish captives, and later slays many at Carnion and in the temple of Atargatis; he also captures Ephron and thanks the friendly Scythopolitans. Following Pentecost, he defeats Gorgias after calling on God and singing psalms, then observes the Sabbath at Odollam. When collecting the fallen, they discover idolatrous amulets on the dead; the people pray for forgiveness and Judas sends funds to Jerusalem for a sin offering, reasoning from the hope of the resurrection and seeking reconciliation for the dead.",
+  "externalContext": "2 Maccabees narrates episodes from the Maccabean revolt (mid-2nd century BCE) against Seleucid rule, focusing on Judas Maccabeus’ leadership and religious motives. Timotheus and Gorgias were Seleucid-aligned commanders active east and south of Judea, while places like Jamnia (Yavneh) and Scythopolis (Beth-Shean) were mixed-population cities. Atargatis was a prominent Syrian goddess; her temples were important cult sites in the region. The “feast of weeks” (Pentecost/Shavuot) was a major pilgrimage festival, shaping the narrative’s sacred calendar. Jewish law strictly forbade idolatry and graven images, influencing the interpretation of why the fallen soldiers died and the community’s response. Ancient historiography often used rounded or stylized numbers for troop counts and casualties.",
+  "externalReferences": "The appeal to God who brought down Jericho explicitly recalls Joshua 6:1–21. The observance of the “feast of weeks” aligns with the prescriptions in Leviticus 23:15–21. The discovery of idolatrous items on the slain evokes the prohibition of images and devoted things (Exodus 20:4; Deuteronomy 7:25–26), while the hope of resurrection resonates with Daniel 12:2 and the martyr speeches earlier in the book (2 Maccabees 7:9, 14). Parallels to these campaigns, including Joppa/Jamnia and Timotheus, appear in 1 Maccabees 5:1–68.",
+  "seeAlso": [
+    "Joshua 6:1-21",
+    "Leviticus 23:15-21",
+    "Exodus 20:4",
+    "Deuteronomy 7:25-26",
+    "Daniel 12:2",
+    "Isaiah 26:19",
+    "2 Maccabees 7:9-14",
+    "1 Maccabees 5:1-68"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-12",
+      "title": "Joppa and Jamnia Avenged"
+    },
+    {
+      "range": "13-31",
+      "title": "Campaigns and Seizures East"
+    },
+    {
+      "range": "32-45",
+      "title": "Gorgias Routed; Prayer for Dead"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Justice and retribution",
+    "Idolatry and purity",
+    "Resurrection hope",
+    "Prayer for the dead"
+  ],
+  "practicalQuestions": [
+    "How should communities respond to injustice while remaining mindful of righteousness and restraint?",
+    "What practices help us seek God’s help before decisive actions or conflicts?",
+    "In what ways might subtle compromises with “idols” undermine communal integrity today?",
+    "How do beliefs about resurrection and future hope shape the way we honor and pray for the dead?",
+    "How can we show gratitude and maintain goodwill toward neighbors who act justly, even amid wider hostilities?"
+  ],
+  "uncertainAreas": "The historical identity and locations of places like Caspis, Characa, Carnion, and the exact scope of “Nomades of Arabia” are not fully clear. The casualty and troop figures may be stylized. The precise nature of the idols found on the slain (amulets, cult tokens) and how universally this was practiced are not specified. The narrative’s presentation of offerings for the dead raises interpretive questions about whether it is descriptive of a particular episode or presented as a general normative practice.",
+  "createdAt": "2025-10-19T02:35:08.633Z",
+  "modelId": "gpt-5-2025-08-07"
+}

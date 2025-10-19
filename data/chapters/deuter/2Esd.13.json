@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Esd.13",
+  "briefOverview": "Ezra sees a visionary “man from the sea” whom God later identifies as His Son, bringing judgment on hostile nations and gathering a peaceful remnant. The vision is interpreted as eschatological deliverance, Zion’s manifestation, and the return of the lost tribes.",
+  "summary": "After seven days Ezra dreams of a wind from the sea that reveals a man who flies with the clouds; his voice terrifies the earth and, without wielding weapons, he destroys an innumerable army by a fiery breath and storm from his mouth. He then descends upon a great mountain, calls a peaceable multitude, and people approach him with mixed emotions, some bound and some bringing offerings. Distressed, Ezra prays for interpretation, fearing for those who will live or die in those days; God answers that those left are blessed, for He who brings peril will protect those with works and faith. The man from the sea is “my Son,” kept for ages to deliver creation, who will stand on Mount Zion when nations, abandoning their wars, gather to oppose him; he will reprove their ungodliness and destroy them “by the law.” The peaceful multitude represents the ten tribes exiled under the Assyrians who journeyed to a distant land (Arzareth) to keep their statutes and will return in the last times as God again stops the river channels. Those found within God’s holy borders will be saved, and many wonders will follow. God explains the sea motif as signifying that His Son is hidden until his appointed day; Ezra is commended for seeking wisdom and is promised further revelations after three days, whereupon he praises God and waits.",
+  "externalContext": "2 Esdras (often called 4 Ezra) is a Jewish apocalyptic work likely composed in the late first century CE, in the aftermath of the Roman destruction of Jerusalem and the Second Temple (70 CE). Its visions respond to crisis with themes of divine justice, the vindication of the faithful remnant, and messianic hope. The reference to the ten tribes recalls the Assyrian deportations of the northern kingdom in 722/721 BCE, after which those tribes largely disappeared from the historical record and became a subject of restoration hopes. “Arzareth” is an otherwise unknown toponym in antiquity, highlighting a legendary geography for the tribes’ preservation. The work survives mainly in Latin, with versions in Syriac, Ethiopic, Armenian, and others.",
+  "externalReferences": "The “man” who comes with the clouds echoes Daniel 7:13–14 (“one like a son of man” coming with the clouds of heaven), and the mountain “carved without hands” evokes Daniel 2:34–35, 44–45. The breath/word as instrument of judgment parallels Isaiah 11:4 and is conceptually akin to Revelation 19:15 and 2 Thessalonians 2:8. The exile of the ten tribes under Shalmaneser matches 2 Kings 17:6. The divine stopping of waters to let a people pass recalls the Red Sea and Jordan crossings (Exodus 14:21–22; Joshua 3:13–17), and the forecast of “kingdom against kingdom” resonates with the Synoptic apocalyptic discourse (Matthew 24:7–8).",
+  "seeAlso": [
+    "Daniel 7:13-14",
+    "Daniel 2:34-35",
+    "Daniel 2:44-45",
+    "2 Kings 17:6",
+    "Exodus 14:21-22",
+    "Joshua 3:13-17",
+    "Isaiah 11:4",
+    "Matthew 24:7-8",
+    "2 Thessalonians 2:8",
+    "Revelation 19:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Vision of the Man from the Sea"
+    },
+    {
+      "range": "14-24",
+      "title": "Prayer and Blessed Remnant"
+    },
+    {
+      "range": "25-58",
+      "title": "Interpretation: Son, Zion, and Lost Tribes"
+    }
+  ],
+  "themes": [
+    "Eschatological judgment",
+    "Messianic deliverance",
+    "Remnant restoration",
+    "Zion revealed",
+    "Divine law"
+  ],
+  "practicalQuestions": [
+    "What does it mean to cultivate “works and faith” so as to be protected in times of upheaval?",
+    "How should we respond to conflicts and societal turmoil in light of ultimate accountability to divine judgment?",
+    "In what ways can reverence for God’s law shape how we confront injustice and deception?",
+    "How might communities in dispersion sustain identity and hope while awaiting restoration?",
+    "What practices help us seek wisdom, as Ezra did, amid fear about the future?"
+  ],
+  "uncertainAreas": "The exact identification of “my Son” within the text’s own horizon (messianic figure versus a more symbolic agent) is not specified; the location of “Arzareth” is unknown; the phrase “destroy them by the law” can be read variously (by divine decree, covenant standard, or Torah-mediated judgment); and the imagery of the mountain “carved without hands” invites multiple links (Zion present/manifest versus an eschatological creation).",
+  "createdAt": "2025-10-19T02:07:27.533Z",
+  "modelId": "gpt-5-2025-08-07"
+}

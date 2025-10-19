@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Esd.4",
+  "briefOverview": "Uriel teaches Ezra the limits of human understanding and reveals that God has fixed the times until evil’s harvest is complete. The chapter explains why suffering persists now and uses parables to point to a measured, imminent end and future recompense.",
+  "summary": "Uriel challenges Ezra with impossible tasks (weighing fire, measuring wind, recalling a past day) to show human limits in grasping divine ways. Through a parable of the forest and the sea, Uriel teaches that creatures are bound to their domains of understanding, just as earth and sea are bounded. Ezra presses his real questions about Israel’s humiliation, the apparent collapse of covenant life, and the brevity and misery of human years; Uriel responds that this present age, sown with Adam’s evil seed, must run its measured course before the righteous receive promised goods. The souls of the righteous, kept in chambers, also ask “How long?” and are told by the archangel Jeremiel that God has weighed and numbered the times and will act only when the full number is complete. Uriel likens the release of souls to childbirth—inevitable and hastening at term—and shows Ezra a parable of fire and rain, indicating that the portion already past far exceeds what remains. Ezra asks if he will live to see those days; Uriel can speak of signs but not of Ezra’s lifespan.",
+  "externalContext": "2 Esdras (also known as 4 Ezra in scholarly usage) is a Jewish apocalyptic work likely composed shortly after the destruction of the Second Temple in 70 CE, reflecting deep anguish over Israel’s suffering under foreign rule. The book is structured as dialogues or visions granted to a figure identified with Ezra, mediated by angels such as Uriel. Apocalyptic literature commonly addresses theodicy—the justice of God amid present evil—by appealing to a divinely fixed timetable and a coming transformation of the age. Concepts like souls kept in “chambers,” the measuring of times, and birth pangs of the end reflect broader Second Temple Jewish eschatological motifs.",
+  "externalReferences": "The claim that a “grain of evil seed was sown in Adam’s heart” recalls the fall in Genesis (Genesis 3:6–19) and aligns with later reflections on sin’s entry through one man (Romans 5:12). The image of the sea restrained by sand echoes God’s setting boundaries to the sea (Job 38:8–11; Jeremiah 5:22). The righteous souls’ cry of “How long?” parallels the lament tradition (Psalm 13:1–2) and the martyrs’ plea beneath the altar (Revelation 6:9–11). God’s measured and numbered times resonate with apocalyptic scheduling of the end (Daniel 12:4, 7) and the notion that times and seasons are fixed by the Father (Acts 1:7); the labor-pain metaphor for the end aligns with prophetic and apostolic imagery (Isaiah 26:17–18; 1 Thessalonians 5:3).",
+  "seeAlso": [
+    "Genesis 3:6-19",
+    "Job 38:8-11",
+    "Jeremiah 5:22",
+    "Psalm 13:1-2",
+    "Daniel 12:4-7",
+    "Revelation 6:9-11",
+    "Isaiah 26:17-18",
+    "1 Thessalonians 5:3",
+    "Acts 1:7",
+    "Romans 5:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Limits of human knowledge"
+    },
+    {
+      "range": "12-32",
+      "title": "Why evil persists now"
+    },
+    {
+      "range": "33-52",
+      "title": "Measured times and nearing end"
+    }
+  ],
+  "themes": [
+    "Human limitation",
+    "Theodicy",
+    "Evil’s origin",
+    "Divine timing",
+    "Eschatological hope"
+  ],
+  "practicalQuestions": [
+    "Where do I need humility about what I cannot know and patience about what God has measured?",
+    "How does viewing present troubles as part of a passing age shape my response to suffering and injustice?",
+    "What practices help me endure the delay between sowing and harvest without losing hope?",
+    "In what ways do I let my domain-bound perspective limit my trust in God’s wider purposes?",
+    "How can communal lament (“How long?”) be expressed faithfully while affirming God’s fixed times?"
+  ],
+  "uncertainAreas": "Section ranges could be divided differently, since the forest–sea parable (vv. 13–21) bridges two lines of thought. The parable of fire/rain (vv. 47–50) strongly implies that less time remains than has passed, but the text does not quantify it. Identifying broader intertexts (e.g., labor-pain imagery, fixed times) involves judgment; I cited representative passages but acknowledge others could also fit. The name and role of Jeremiel appear here; traditions about this archangel vary across texts.",
+  "createdAt": "2025-10-19T02:00:49.268Z",
+  "modelId": "gpt-5-2025-08-07"
+}

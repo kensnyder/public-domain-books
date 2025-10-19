@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.22",
+  "briefOverview": "Ben Sira contrasts the weight and danger of folly with the steadiness of wisdom, giving pointed counsel on family conduct, friendship, and guarded speech.",
+  "summary": "The chapter opens with biting images that shame laziness and undisciplined children, contrasting them with prudence that honors family. It warns that instruction given to fools is largely futile, and it compares mourning for the dead (which is limited) with the enduring grief caused by a fool’s life. Readers are urged to avoid the senseless, while commending a heart fortified by counsel that can face fear and trouble with steadiness. A series of metaphors highlights how fragile, timid minds collapse under pressure, while the understanding remain firm. Attention then turns to friendship: accusations and betrayals shatter trust, though reconciliation may still be possible short of certain breaches (abuse, arrogance, exposed secrets, deceit). The chapter closes with a personal prayer for a guard over one’s mouth so that speech does not cause ruin.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Second Temple Jewish wisdom book composed in Hebrew by Jesus ben Sira in early 2nd century BCE Jerusalem and later translated into Greek by his grandson. Wisdom literature commonly teaches through contrasts (wise/foolish), metaphors, and maxims applied to daily life. Honor–shame dynamics, including expectations for sons and daughters, reflect family-centered social structures in ancient Judea. Seven-day mourning was a customary practice in ancient Israel for significant deaths. Friendship in the ancient Near East often carried covenantal overtones of loyalty and mutual obligation.",
+  "externalReferences": "The counsel to avoid or limit engagement with fools echoes Proverbs 14:7 and the tension in Proverbs 26:4–5 about answering a fool. Warnings about revealing secrets and the fragility of trust align with Proverbs 11:13 and the value placed on faithful wounds versus destructive deceit (Proverbs 27:6). The prayer for a guard over one’s mouth closely parallels Psalm 141:3, and the chapter’s concern about destructive speech resonates with James 3:5–10. The seven-day mourning note coheres with scenes such as Genesis 50:10 and Job 2:13, where extended mourning practices are depicted.",
+  "seeAlso": [
+    "Proverbs 14:7",
+    "Proverbs 26:4-5",
+    "Proverbs 11:13",
+    "Proverbs 27:6",
+    "Psalm 141:3",
+    "James 3:5-10",
+    "Genesis 50:10",
+    "Job 2:13",
+    "Sirach 6:5-17",
+    "Sirach 28:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Laziness, folly, and mourning"
+    },
+    {
+      "range": "17-23",
+      "title": "Steadfast hearts under fear"
+    },
+    {
+      "range": "24-33",
+      "title": "Friendship and guarded speech"
+    }
+  ],
+  "themes": [
+    "Wisdom vs. folly",
+    "Loyal friendship",
+    "Guarded speech",
+    "Discipline and shame",
+    "Fear and courage"
+  ],
+  "practicalQuestions": [
+    "Where do I need to limit fruitless debates with those unwilling to listen, and how can I do so without contempt?",
+    "How can I strengthen my heart with wise counsel so I am steadier under stress or fear?",
+    "What habits can help me guard my mouth, especially when angry or hurt?",
+    "How should I pursue reconciliation with a friend while recognizing boundaries when trust has been seriously breached?",
+    "How can I practice loyalty in a friend’s hardship so that I can rejoice with integrity in their later success?"
+  ],
+  "uncertainAreas": "Verse 23’s wording is difficult: it seems to say both the fool and the one who keeps God’s precepts will not fear, which may reflect a translation issue or compressed contrast; the precise nuance is unclear. The sharp statements about daughters (vv. 3–5) likely carry cultural assumptions of the time, and the intended scope and severity are not fully explicit. The thresholds for when friendship can or cannot be repaired (vv. 26–27) are presented as examples rather than strict categories, leaving room for interpretive judgment.",
+  "createdAt": "2025-10-19T03:08:10.365Z",
+  "modelId": "gpt-5-2025-08-07"
+}

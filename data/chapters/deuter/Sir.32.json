@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.32",
+  "briefOverview": "Guidance on modest leadership and decorum at gatherings transitions into broader counsel about fearing the Lord, seeking wisdom, and keeping the commandments.",
+  "summary": "The chapter instructs appointed leaders to act as peers, speak modestly and knowledgeably, and not dominate or disrupt the joy of communal music and feasting. Younger or lower-status participants are urged to listen, speak briefly when asked, defer to elders, and value reverence and modesty. The text commends early departure and personal restraint, blessing God for his gifts. It teaches that fearing the Lord leads to receiving his instruction, finding just judgment, and being formed by the law, while the sinful resist correction. Wise people seek counsel; acting without it brings self-reproach. Finally, it urges caution in one’s household affairs and trusts that belief in God expresses itself in keeping his commandments.",
+  "externalContext": "Sirach (Ben Sira) was composed in early second-century BCE Jerusalem by a Jewish sage and later translated into Greek by his grandson, reflecting Jewish wisdom traditions amid Hellenistic culture. Communal meals and assemblies were key social settings in antiquity, with strong norms of deference to elders and measured speech; Ben Sira’s advice reflects these honor-shame dynamics. Wisdom writings often link practical etiquette with piety, rooting social conduct in the fear of the Lord as the foundation of wisdom. The book is part of the deuterocanonical/apocryphal corpus in many Christian traditions, preserving Jewish ethical instruction from the Second Temple period.",
+  "externalReferences": "The emphasis that the fear of the Lord is foundational resonates with Proverbs 1:7. The call to seek counsel before acting parallels Proverbs 11:14 and 15:22. The cautions about quick speech and listening well echo themes later found in James 1:19. Guidance on conduct at feasts aligns with Sirach 31:12–31 and, more generally, the idea of God’s word guiding the path recalls Psalm 119:105.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 11:14",
+    "Proverbs 15:22",
+    "James 1:19",
+    "Psalm 119:105",
+    "Sirach 31:12-31",
+    "Ecclesiastes 5:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Modest leadership at banquets"
+    },
+    {
+      "range": "9-16",
+      "title": "Restraint, reverence, and speech"
+    },
+    {
+      "range": "17-28",
+      "title": "Fear of the Lord, counsel, trust"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Reverence",
+    "Counsel",
+    "Fear of the Lord",
+    "Self-control"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to seek honor in leadership instead of serving as one among peers?",
+    "How can I practice intentional listening and brevity when speaking in group settings?",
+    "What significant decisions should I pause and seek counsel about before acting?",
+    "In what ways can I cultivate fear of the Lord so that obedience to his commandments becomes natural?",
+    "How can I steward my household relationships with attentiveness and restraint?"
+  ],
+  "uncertainAreas": "Verses 4–5 about those greater by birth may reflect social status norms; how to translate that into contemporary contexts is interpretively nuanced. The sequence in verses 20–23 has shifting subjects (wise vs. sinful vs. arrogant), and the clause about being rebuked by one’s own criticism is syntactically ambiguous. The phrase trust your soul to faith (v.27) may translate fidelity or trustworthiness rather than abstract belief. The bracket [Sirach 33] after v.28 suggests a textual or chapter division issue in some traditions.",
+  "createdAt": "2025-10-19T03:13:49.205Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jdt.7",
+  "briefOverview": "Holofernes besieges Bethulia by seizing its water sources, driving the city to desperation. The people press to surrender, but Ozias urges a five-day wait for divine help.",
+  "summary": "Holofernes advances on Bethulia with a vast force, secures the ascents, and camps by the key fountain near the city. Advised by leaders from Edom, Moab, and the coastal peoples, he adopts a strategy to starve Bethulia of water rather than storm it. The Assyrian-led coalition positions itself around the region, takes control of the springs, and for thirty-four days the city’s cisterns run dry. As thirst saps the inhabitants’ strength and children, women, and young men collapse in the streets, the people accuse their leaders of failing to seek peace and demand surrender. They invoke heaven and earth as witnesses and claim God has sold them into enemy hands, preferring servitude to death by thirst. In response, Ozias counsels courage and proposes waiting five more days for God’s mercy; if no help comes, he agrees to accede to their wishes.",
+  "externalContext": "The Book of Judith, preserved in the Catholic and Orthodox canons and in the Septuagint, is set in a deliberately composite historical framework, attributing an Assyrian-like campaign to a ruler called Nebuchadnezzar. Ancient Near Eastern siege warfare commonly targeted water supplies, and cities’ survival often depended on access to springs and cisterns; controlling springs outside city walls was a known tactic. The peoples named—Edom (Esau), Moab, and coastal groups—were long-standing neighbors and frequent rivals or vassals around Israel, sometimes aligning with larger imperial powers. Large army figures in ancient literature often serve rhetorical purposes, stressing overwhelming odds.",
+  "externalReferences": "Calling “heaven and earth” as witnesses echoes covenant language in Deuteronomy 30:19 and 31:28. The lament that God has “sold” them into enemy hands reflects a recurring judges-era formula (Judges 2:14; 3:8; 10:7). The siege-induced deprivation parallels other biblical sieges marked by severe shortages, such as 2 Kings 6:24–29. The strategic focus on water supply recalls Hezekiah’s countermeasures during Assyrian pressure, when he blocked springs to deny water to invaders (2 Chronicles 32:3–4), and the broader context of Assyrian sieges in 2 Kings 18–19 and Isaiah 36–37.",
+  "seeAlso": [
+    "Deuteronomy 30:19",
+    "Deuteronomy 31:28",
+    "Judges 2:14",
+    "Judges 3:8",
+    "2 Kings 6:24-29",
+    "2 Chronicles 32:3-4",
+    "2 Kings 18-19",
+    "Isaiah 36-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Encirclement and water seized"
+    },
+    {
+      "range": "9-18",
+      "title": "Allied counsel to starve city"
+    },
+    {
+      "range": "19-32",
+      "title": "Bethulia’s despair and five-day reprieve"
+    }
+  ],
+  "themes": [
+    "Siege and deprivation",
+    "Faith under pressure",
+    "Leadership under strain",
+    "Divine mercy hoped"
+  ],
+  "practicalQuestions": [
+    "How should leaders balance prudent strategy with trust in divine help when resources are failing?",
+    "What practices sustain a community’s faith and unity under prolonged crisis?",
+    "When is seeking terms or surrender a responsible course, and when does it compromise core convictions?",
+    "How can communities plan for resilience (material and spiritual) before a crisis arrives?",
+    "What words and actions de-escalate blame and despair when people are afraid and exhausted?"
+  ],
+  "uncertainAreas": "Geographical identifications (Bethulia, Belmaim, Cynamon, Ekrebel, Chusi, Mochmur) are unclear; the army numbers may be hyperbolic. The historical setting blends Assyrian and Babylonian elements. The nuance of verse 28 (“that he do not according as we have said this day”) could indicate a plea that God prevent their proposed surrender, but the syntax allows some ambiguity.",
+  "createdAt": "2025-10-19T02:46:08.002Z",
+  "modelId": "gpt-5-2025-08-07"
+}

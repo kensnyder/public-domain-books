@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "2Macc.7",
+  "briefOverview": "Seven brothers and their mother are tortured and executed by Antiochus for refusing to break the Mosaic law, proclaiming hope in bodily resurrection and God’s just judgment.",
+  "summary": "One by one, seven brothers refuse the king’s demand to transgress the ancestral laws and are tortured to death, exhorting each other and confessing faith that God will raise them to everlasting life. Several assert that their bodies, received from heaven, will be restored, while the tyrant who kills them will face divine judgment and no resurrection to life. They insist their suffering is due to their people’s sins and serves as divine discipline, yet they trust God will again show mercy to his servants. Their mother strengthens them in their own language, declaring that the Creator made all things from what was not and will restore life to those who die for his laws. Antiochus offers wealth and friendship to the youngest through his mother’s mediation, but both mother and son reject compromise, and the son prays that God’s wrath on the nation may cease and that the king may acknowledge God through plagues. All die undefiled, and the narrator closes by noting the idolatrous feasts and extreme tortures.",
+  "externalContext": "The events reflect the persecutions under Antiochus IV Epiphanes (r. 175–164 BCE), who issued decrees in Judea banning core Jewish practices and compelling participation in pagan rites, including eating prohibited foods. These measures catalyzed the Maccabean revolt (c. 167–160 BCE). 2 Maccabees, composed in Greek as an epitome of Jason of Cyrene’s larger work, aims to edify and interpret the crisis theologically, emphasizing God’s justice and mercy toward Israel. The chapter displays one of the clearest early Jewish affirmations of bodily resurrection during the Second Temple period, a belief that was gaining prominence in some Jewish circles at the time.",
+  "externalReferences": "The reference to “Moses in his song” likely points to the Song of Moses (Deuteronomy 32), especially the LXX phrasing in Deuteronomy 32:36, where the Lord is said to be “comforted concerning his servants.” The explicit hope of bodily resurrection (“the King of the world shall raise us up,” “no resurrection to life”) resonates with Daniel 12:2, which anticipates resurrection for some to everlasting life and others to shame. The portrait of faithful endurance unto death influenced later reflections on martyrdom; Hebrews 11:35 likely alludes to such episodes (“others were tortured, not accepting deliverance, that they might obtain a better resurrection”). The mother’s appeal to creation “from things that were not” aligns with creation theology rooted in Genesis 1:1 and is often compared in later interpretation to Wisdom of Solomon 11:17 and broader Jewish-Hellenistic discussions of creation.",
+  "seeAlso": [
+    "Deuteronomy 32:36",
+    "Daniel 12:2",
+    "Hebrews 11:35",
+    "Wisdom of Solomon 3:1-5",
+    "1 Maccabees 1:41-64",
+    "2 Maccabees 6:18-31",
+    "4 Maccabees 17:1-24",
+    "Genesis 1:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-19",
+      "title": "Six brothers martyrdoms and hope"
+    },
+    {
+      "range": "20-29",
+      "title": "Mother’s exhortation and creation"
+    },
+    {
+      "range": "30-42",
+      "title": "Youngest’s defiance and conclusion"
+    }
+  ],
+  "themes": [
+    "Martyrdom",
+    "Resurrection hope",
+    "Faithfulness to the law",
+    "Divine justice",
+    "Discipline and mercy"
+  ],
+  "practicalQuestions": [
+    "What convictions would I refuse to compromise even under severe pressure, and why?",
+    "How does belief in God’s justice and resurrection shape my courage in the face of suffering or loss?",
+    "In what ways can personal hardship be understood as discipline that leads to renewal rather than despair?",
+    "How can parental or communal encouragement strengthen steadfastness in faith for the next generation?",
+    "How should I respond to offers of advantage that require violating core moral commitments?"
+  ],
+  "uncertainAreas": "The exact verse intended by “Moses in his song” is almost certainly within Deuteronomy 32, but the specific line appears to reflect the LXX rendering of Deuteronomy 32:36; the chapter’s wording may be echoing that Greek phrasing. The statement that God made “things that were not” is often read as creation ex nihilo; while strongly suggested by the text, the philosophical precision of that doctrine here is debated among scholars.",
+  "createdAt": "2025-10-19T02:30:27.762Z",
+  "modelId": "gpt-5-2025-08-07"
+}

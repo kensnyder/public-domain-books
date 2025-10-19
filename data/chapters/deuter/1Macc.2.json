@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "1Macc.2",
+  "briefOverview": "Mattathias ignites a revolt centered on fidelity to the law, rejecting the king’s decrees, and sets the course for resistance before charging his sons and dying. The chapter marks a strategic shift from passive martyrdom to sanctioned self-defense, even on the Sabbath.",
+  "summary": "Mattathias, grieving the profanation of the temple and Jerusalem, refuses a royal demand to sacrifice and publicly slays an apostate Jew and the king’s officer at Modin, calling all who are zealous for the law to follow him. He and his followers flee to the mountains, while some who refuse to fight on the Sabbath are massacred. In response, Mattathias’ group decrees to defend themselves if attacked on the Sabbath. The Assideans (pious ones) join them, and they dismantle idolatrous altars, enforce circumcision, and restore observance of the law. As death approaches, Mattathias exhorts his sons to zeal, recalling exemplars from Israel’s history and assuring that those who trust in God will not be overcome. He appoints Simon as counselor and Judas (Maccabeus) as military leader, blesses his sons, and dies, mourned by Israel.",
+  "externalContext": "The events occur under Seleucid rule, after Antiochus IV Epiphanes imposed decrees against Jewish practices and defiled the Jerusalem temple in the 2nd century BCE. Modin, a town west of Jerusalem, was the priestly family’s home base and the spark point of the revolt. The reference to the “hundred forty and sixth year” follows the Seleucid Era dating system, roughly corresponding to 166/165 BCE. The Assideans (Hasideans) were a pietist group devoted to the law who initially allied with the Maccabean resistance. The chapter reflects tensions in Judea between Hellenizing policies and traditional Jewish observance.",
+  "externalReferences": "Mattathias’ zeal is explicitly likened to Phinehas, who slew Zimri to stop apostasy and thus received a covenant of priesthood (Numbers 25:6–13). The dying exhortation invokes Abraham’s faith credited as righteousness and his testing (Genesis 15:6; 22:1–18), Joseph’s elevation in Egypt (Genesis 41), Phinehas’ covenant (Numbers 25:10–13), Joshua as judge/leader (Joshua 1:1–9), Caleb’s inheritance for faithful witness (Numbers 13:30–14:9), David’s everlasting throne (2 Samuel 7:12–16), Elijah’s ascent (2 Kings 2:11), and the deliverances of the three youths from fire and Daniel from lions (Daniel 3:16–27; 6:16–23). These examples frame the present struggle as continuity with Israel’s past faithfulness and divine deliverance.",
+  "seeAlso": [
+    "Numbers 25:6-13",
+    "Genesis 15:6",
+    "Genesis 22:1-18",
+    "Genesis 41:37-44",
+    "Numbers 13:30-14:9",
+    "Joshua 1:1-9",
+    "2 Samuel 7:12-16",
+    "2 Kings 2:11",
+    "Daniel 3:16-27",
+    "Daniel 6:16-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-28",
+      "title": "Lament and defiance at Modin"
+    },
+    {
+      "range": "29-48",
+      "title": "Sabbath policy and purification campaign"
+    },
+    {
+      "range": "49-70",
+      "title": "Dying charge and leadership succession"
+    }
+  ],
+  "themes": [
+    "Zeal for the law",
+    "Covenant fidelity",
+    "Faithful resistance",
+    "Leadership succession"
+  ],
+  "practicalQuestions": [
+    "When, if ever, should religious communities engage in civil disobedience or armed self-defense to preserve their way of life?",
+    "How can remembering exemplary forebears strengthen conviction without excusing excess or injustice?",
+    "What principles help balance Sabbath/rest observance with life-preserving action in emergencies?",
+    "How should counsel and command be shared among leaders, as with Simon’s wisdom and Judas’ military role?",
+    "What practices today parallel “pulling down altars” and “recovering the law” in constructive, nonviolent forms?"
+  ],
+  "uncertainAreas": "The exact BCE equivalent of the “hundred forty and sixth year” (Seleucid Era) is approximate; the text’s “Jesus” is almost certainly Joshua son of Nun; the identity and scope of the Assideans’ movement is debated; numerical details (e.g., about the thousand slain) may be stylized. There are translation variants in names (e.g., Zambri/Zimri, Salom/Salu).",
+  "createdAt": "2025-10-19T02:11:47.747Z",
+  "modelId": "gpt-5-2025-08-07"
+}

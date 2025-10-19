@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jdt.8",
+  "briefOverview": "Judith, a devout and respected widow, rebukes Bethulia’s leaders for vowing to surrender if God does not act within five days and announces a secret plan through which God will deliver Israel.",
+  "summary": "Judith is introduced by lineage and as a wealthy, beautiful widow known for rigorous piety, fasting, and fear of God. Hearing that Ozias and the city elders have sworn to surrender to the Assyrians due to the water crisis, she summons them and sharply rebukes their oath as a presumptuous testing of God. She argues that humans cannot comprehend God’s counsel and must not bind his timing, urging patient trust and prayer. Judith recalls how God tested the patriarchs and warns that surrender would lead to the profanation of the sanctuary and national disgrace. The elders acknowledge her wisdom and ask her to pray for rain, but Judith declares she will act in a way remembered by future generations and that within the promised days God will visit Israel by her hand. She refuses to disclose details, receives their blessing, and they depart.",
+  "externalContext": "The Book of Judith is part of the deuterocanonical/apocryphal writings (accepted in Catholic and Orthodox canons), narrating a crisis under the Assyrian general Holofernes. Its historical setting is stylized: it references figures like Nebuchadnezzar and Assyria in ways that do not neatly match known timelines, suggesting a didactic tale set against a generalized foreign threat. Widows in ancient Israel often adopted mourning attire and practices, and Sabbaths and new moons were communal festive days on which fasting was typically avoided. Genealogical introductions highlighted honor, legitimacy, and covenant identity for key figures. Siege conditions commonly involved water shortages, which drove desperate civic decisions.",
+  "externalReferences": "Judith’s invocation of patriarchal testing echoes the binding of Isaac narrative (Genesis 22:1-14) and Jacob’s trials while serving Laban in Aram (Genesis 29–31). Her statement that God is not like man, nor the son of man to waver, resonates with Numbers 23:19. Her charge against “tempting” or “testing” God recalls prohibitions such as Deuteronomy 6:16 and the episode at Massah and Meribah (Exodus 17:2-7), where Israel’s unbelief provoked God. References to Sabbaths and new moons align with Israel’s calendrical observances (e.g., Numbers 28:9-15) as appointed times of worship rather than fasting.",
+  "seeAlso": [
+    "Genesis 22:1-14",
+    "Genesis 29-31",
+    "Numbers 23:19",
+    "Deuteronomy 6:16",
+    "Exodus 17:2-7",
+    "Numbers 28:9-15",
+    "Psalm 27:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Judith’s piety and status"
+    },
+    {
+      "range": "9-27",
+      "title": "Rebuke and call to trust"
+    },
+    {
+      "range": "28-36",
+      "title": "A bold, secret plan"
+    }
+  ],
+  "themes": [
+    "Trust in God’s timing",
+    "Testing God forbidden",
+    "Courageous leadership",
+    "Sanctuary and identity",
+    "Fasting and piety"
+  ],
+  "practicalQuestions": [
+    "Where am I trying to impose deadlines on God rather than waiting for his timing?",
+    "How can I challenge fearful or faithless decisions in my community with wisdom and respect?",
+    "What practices (prayer, fasting, remembrance) help me endure crisis without compromising convictions?",
+    "How do I balance secrecy and prudence with accountability when pursuing a risky but faithful course of action?",
+    "In what ways does my response to hardship model trust for those who look to me for guidance?"
+  ],
+  "uncertainAreas": "The phrase “he tried Isaac” likely refers to the near-sacrifice in Genesis 22, though the text’s wording could be read ambiguously. The exact nuance of “our servitude shall not be directed to favour” depends on translation and is somewhat unclear. Judith’s declaration that God will visit Israel “by my hand” leaves her strategy intentionally undisclosed here. The genealogy’s specific identifications (e.g., some names and their variants) are not fully clear from the text alone.",
+  "createdAt": "2025-10-19T02:46:56.335Z",
+  "modelId": "gpt-5-2025-08-07"
+}

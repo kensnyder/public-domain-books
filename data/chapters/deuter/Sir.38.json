@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Sir.38",
+  "briefOverview": "The chapter commends physicians and medicines as God-given, counsels measured mourning, and contrasts the scribe’s contemplative wisdom with the indispensable labor of craftsmen.",
+  "summary": "The writer urges honoring physicians, since healing and medicinal knowledge come from the Most High, and instructs the sick to pray, repent, offer appropriate sacrifices, and also make proper use of medical care. He affirms that God created remedies and equips pharmacists and physicians, whose work should be welcomed. A brief warning notes the moral dimension of illness and dependence on physicians. Turning to death and grief, he prescribes sincere but limited mourning, emphasizing that excessive sorrow harms the living and urging acceptance of mortality. Finally, he describes farmers and artisans—blacksmiths, potters, and others—as devoted and skilled in their crafts, essential to the city’s functioning though not involved in judicial or scholarly deliberations, while the scribe gains wisdom through study and leisure.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in the early second century BCE by Jesus ben Sira in Jerusalem, during the Hellenistic period when Jewish life interacted with Greek learning and institutions. Physicians and apothecaries were established professions in the ancient Near East and Mediterranean, often associated with herbal remedies and practical surgery. Jewish mourning customs in the Second Temple period involved both heartfelt lament and communal obligations of burial, with later rabbinic norms developing structured periods of mourning. Scribes formed a learned class responsible for teaching and adjudication, while agrarian and artisanal labor sustained urban life; social roles were distinct but mutually necessary.",
+  "externalReferences": "The “bitter water made sweet with wood” recalls God’s healing at Marah (Exodus 15:23–25), bolstering the claim that the Lord is the ultimate source of cures. The use of practical remedies alongside prayer is echoed when Isaiah prescribes a fig poultice for Hezekiah’s illness (2 Kings 20:7). References to offerings during illness align with sacrificial practices such as cereal offerings (Leviticus 2:1–2). Guidance to mourn sincerely but not indefinitely resonates with David ceasing mourning after his child’s death (2 Samuel 12:20–23) and the wisdom emphasis on times for mourning and restraint (Ecclesiastes 3:1–4; 7:2–4).",
+  "seeAlso": [
+    "Exodus 15:23-25",
+    "2 Kings 20:7",
+    "Leviticus 2:1-2",
+    "2 Samuel 12:20-23",
+    "Ecclesiastes 3:1-4",
+    "Ecclesiastes 7:2-4",
+    "James 5:14-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Honor physicians and remedies"
+    },
+    {
+      "range": "16-24",
+      "title": "Measured mourning for the dead"
+    },
+    {
+      "range": "25-39",
+      "title": "Craftsmen and the scribe’s wisdom"
+    }
+  ],
+  "themes": [
+    "God-given healing",
+    "Prayer and repentance",
+    "Measured mourning",
+    "Dignity of labor",
+    "Wisdom and study"
+  ],
+  "practicalQuestions": [
+    "How can I integrate prayer, repentance, and the responsible use of medical care when I’m ill?",
+    "In grief, what practices help me honor the dead while avoiding destructive, prolonged sorrow?",
+    "How can I tangibly honor both medical professionals and skilled workers whose labor sustains society?",
+    "What rhythms of work and leisure can I adopt to make space for learning and wisdom?",
+    "When does mourning become harmful to my health and relationships, and how can I seek consolation?",
+    "Do my views of illness take moral accountability seriously without blaming or shaming the sick?"
+  ],
+  "uncertainAreas": "Verse 15’s warning (“He who sins… will fall into the hands of the physician”) is ambiguous—whether it critiques overreliance on doctors, links illness to sin, or simply warns that sin leads to painful consequences requiring medical care. The translation of “church” (v. 37) likely means assembly or council; roles in civic deliberation vs. manual labor may reflect context-specific social structures. The “one or two days” guidance for mourning (vv. 17–18) may be rhetorical for restraint rather than a fixed rule, given broader Jewish mourning traditions. Verse 39’s phrasing about craftsmen’s prayer and “searching the law” appears transitional toward the next chapter and varies among translations.",
+  "createdAt": "2025-10-19T03:17:17.694Z",
+  "modelId": "gpt-5-2025-08-07"
+}

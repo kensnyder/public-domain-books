@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.39",
+  "briefOverview": "Sirach 39 portrays the ideal sage who seeks ancient wisdom, prays for understanding, and teaches others, then turns to a hymn praising God’s ordered creation and just governance.",
+  "summary": "The chapter opens by describing a wise person who studies the ancients, prophets, parables, and proverbs; he serves before leaders, discerns good and evil, and begins each day in devoted prayer for forgiveness and understanding. If God grants it, he is filled with the Spirit of understanding, his wisdom pours forth, and his teaching clarifies God’s law, earning enduring remembrance and public praise. The speaker then urges a communal outpouring of praise, acknowledging that all the Lord’s works are very good and governed by his command. God’s gaze sees all things, and each thing has its appointed time, whether blessing or wrath. The text lists basic goods of life that serve the holy for good but can be turned to evil use by the impious. It affirms that even fearsome agents—fire, hail, famine, death, beasts, and weapons—stand ready at God’s command as instruments of just recompense. The chapter concludes with the insistence that all God’s works are good and timely, and with a final call to bless the Lord wholeheartedly.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in Hebrew by Jesus ben Sira in the early second century BCE, likely in Jerusalem, and later translated into Greek by his grandson. It belongs to Israel’s wisdom tradition, which prized the study of Torah, proverbs, and the sayings of sages, alongside reverence for the prophets. The book circulated widely in the Greek-speaking Jewish diaspora and is included in the Septuagint; its canonical status varies among Jewish and Christian traditions. The term often rendered “Church” (v.14) likely reflects the Hebrew/Greek idea of the assembly (qahal/ekklesia), not an institutional church in a later Christian sense.",
+  "externalReferences": "The descriptions of waters standing and being gathered (vv.22, 29) recall creation and the sea’s restraint or parting: Genesis 1:9–10 (waters gathered), Exodus 14:21–22 (Red Sea), and Joshua 3:13–16 (Jordan standing in a heap). The emphasis that everything has its time (vv.26, 40) resonates with Ecclesiastes 3:1. The portrait of the sage who seeks proverbs and parables aligns with Proverbs 1:5–6. The notion that powerful forces fulfill God’s command, including fire and hail (vv.35–37), parallels Psalm 148:8 and the idea of angelic instruments of judgment in Psalm 78:49.",
+  "seeAlso": [
+    "Proverbs 1:5-6",
+    "Psalm 5:3",
+    "Ecclesiastes 3:1",
+    "Genesis 1:9-10",
+    "Exodus 14:21-22",
+    "Joshua 3:13-16",
+    "Psalm 33:6-9",
+    "Psalm 148:8",
+    "Psalm 78:49",
+    "Job 38:8-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Portrait of the Wise"
+    },
+    {
+      "range": "16-21",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "22-41",
+      "title": "Creation and Judgment"
+    }
+  ],
+  "themes": [
+    "Pursuit of wisdom",
+    "Prayerful dependence",
+    "Providence and order",
+    "Justice and retribution",
+    "Right use of creation"
+  ],
+  "practicalQuestions": [
+    "How can I structure my days so that prayer and seeking understanding come first, as modeled here?",
+    "Whose wisdom from the past should I actively learn and preserve, and how can I do so responsibly?",
+    "Where might I be misusing good gifts, and how can I redirect them toward holy purposes?",
+    "How does trusting God’s timing change the way I evaluate events I don’t yet understand?",
+    "In what ways can I publicly praise God’s works so that others are encouraged and instructed?"
+  ],
+  "uncertainAreas": "It is ambiguous who precisely is speaking in vv.16–21 and who is addressed as “divine fruits.” The phrase “spirits that have been created for vengeance” (v.33) is unclear—whether personified forces, angelic agents, or poetic imagery. The term translated “Church” (v.14) likely means assembly/ekklesia, not a later ecclesial institution.",
+  "createdAt": "2025-10-19T03:17:51.794Z",
+  "modelId": "gpt-5-2025-08-07"
+}

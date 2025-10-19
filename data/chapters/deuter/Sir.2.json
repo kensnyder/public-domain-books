@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.2",
+  "briefOverview": "A fatherly exhortation urging steadfast fear of the Lord amid trials, promising mercy to the faithful and warning the double‑hearted.",
+  "summary": "The speaker counsels a disciple to prepare for trials when serving God, to accept humiliation with patience, and to remain steadfast, for God tests the righteous like gold in a furnace. Those who fear, trust, and love the Lord are assured of mercy, illumination, and eventual vindication. The text insists that none who hope in God are abandoned, for he is upright and forgiving. It pronounces woes on the duplicitous, the faithless, and those who abandon upright paths. It concludes by commending obedience, patient endurance until God’s examination, and entrusting oneself to God’s merciful hands rather than to human judgment.",
+  "externalContext": "Sirach (Ecclesiasticus) is a Jewish wisdom book composed in Hebrew in the early second century BCE by Jesus ben Sira in Jerusalem, later translated into Greek by his grandson in Egypt. As sapiential instruction, it addresses students or “sons” with practical and religious counsel rooted in Torah piety. Its repeated emphasis on “fear of the Lord” reflects a central wisdom theme linking reverence to moral integrity and life. The backdrop includes Hellenistic-era pressures on Jewish identity, against which Sirach advocates steadfast faithfulness and communal virtue.",
+  "externalReferences": "The refining image of trials echoes Proverbs 17:3, where the crucible tests silver and the Lord tests hearts, and Wisdom 3:5–6, which compares the righteous to gold tried in a furnace. The assurance that those who wait on God will not be put to shame recalls Psalm 25:3. The preference to fall into the Lord’s hands rather than human hands in 2:22 parallels David’s words in 2 Samuel 24:14. The “two ways” contrast between upright and depraved paths resonates with Psalm 1 and Deuteronomy 30:15–20.",
+  "seeAlso": [
+    "Proverbs 17:3",
+    "Wisdom 3:5-6",
+    "Psalm 25:3",
+    "2 Samuel 24:14",
+    "Psalm 1:1-6",
+    "Deuteronomy 30:15-20",
+    "James 1:2-4",
+    "1 Peter 1:6-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Prepare for trials faithfully"
+    },
+    {
+      "range": "7-13",
+      "title": "Promises to those who fear God"
+    },
+    {
+      "range": "14-23",
+      "title": "Woes to the double‑hearted; faithful endurance"
+    }
+  ],
+  "themes": [
+    "Fear of the Lord",
+    "Perseverance in trials",
+    "Trust and hope",
+    "Integrity versus duplicity",
+    "Divine mercy and judgment"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to abandon upright ways when hardship comes, and how can I prepare my heart to endure?",
+    "What habits help me ‘join myself to God’ and remain patient in humiliation or delay?",
+    "In what situations do I act with a double heart or split loyalties, and how can I pursue integrity?",
+    "How can I practice hoping in God’s mercy rather than rushing for immediate escape from distress?",
+    "What concrete steps can I take to keep God’s commandments while I wait for his ‘examination’?",
+    "Whom can I encourage this week with the promise that those who fear the Lord are not abandoned?"
+  ],
+  "uncertainAreas": "Verse 22’s phrasing (“If we do not do penance, then we will fall into the hands of the Lord”) differs from common renderings that read “Let us fall into the hands of the Lord,” so the intended nuance may reflect a translation variant. The timing and nature of the Lord’s “examination” (vv. 17, 21) are not specified and could refer to earthly trials or final judgment.",
+  "createdAt": "2025-10-19T02:56:44.030Z",
+  "modelId": "gpt-5-2025-08-07"
+}

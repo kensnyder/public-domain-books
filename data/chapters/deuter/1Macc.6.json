@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "1Macc.6",
+  "briefOverview": "Antiochus IV’s failed raid and death give way to Antiochus V’s massive campaign against Judea, featuring elephants, sieges, and a negotiated peace that is quickly violated.",
+  "summary": "After attempting to plunder a rich Persian temple and failing, Antiochus IV falls ill, laments his wrongs against Jerusalem, appoints Philip to care for his heir, and dies. Lysias installs the young Antiochus V (Eupator) as king. As Judas besieges the hostile garrison by the sanctuary, defectors appeal to the new king, who musters a huge force with war elephants and campaigns through Idumea to Bethsura. In the ensuing battle near Bathzacharias, Eleazar Avaran dies in a daring attack on an elephant he believes carries the king, and Jewish forces withdraw before the superior army. Eupator takes Bethsura amid shortages—exacerbated by the sabbatical year—and besieges the sanctuary, where famine grows severe. Pressed by a threat from Philip and dwindling supplies, Lysias urges peace, granting the Jews freedom to live by their laws; but after the oath, the king enters Mount Zion and orders the wall torn down before hastening back to seize Antioch from Philip.",
+  "externalContext": "Antiochus IV Epiphanes died in 164 BCE during his eastern campaign; the Seleucid court then elevated his young son, Antiochus V Eupator, with Lysias acting as regent. The “rich temple” Antiochus attempted to plunder is usually linked to a sanctuary in Elymais (Persia), a region known for resisting royal expropriation of temple wealth. Seleucid armies commonly fielded Indian-trained war elephants equipped with wooden towers and specialized crews. The “year of rest” refers to the sabbatical year cycle observed by Judeans, which limited agricultural production and could intensify shortages during sieges. The Jerusalem “tower” likely refers to the Seleucid citadel (Akra), a strategic stronghold overlooking the temple area. Dating in the chapter follows the Seleucid Era (SE), with SE 149 ≈ 164/163 BCE and SE 150 ≈ 163/162 BCE.",
+  "externalReferences": "The “abomination” removed from the altar recalls its installation (1 Maccabees 1:54) and the temple’s rededication (1 Maccabees 4:36–61), echoing Daniel’s reference to the “abomination that makes desolate” (Daniel 11:31). Eleazar Avaran, who dies attacking the elephant, is listed among Mattathias’s sons (1 Maccabees 2:1–5). The sabbatical year background aligns with the Torah’s legislation (Leviticus 25:1–7; Deuteronomy 31:10). Parallel and contrasting accounts of Antiochus IV’s end and Eupator’s campaign appear in 2 Maccabees 9:1–28 and 13:1–23.",
+  "seeAlso": [
+    "1 Maccabees 1:54",
+    "1 Maccabees 2:1-5",
+    "1 Maccabees 4:36-61",
+    "2 Maccabees 9:1-28",
+    "2 Maccabees 13:1-23",
+    "Leviticus 25:1-7",
+    "Deuteronomy 31:10",
+    "Daniel 11:31",
+    "Psalm 15:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-16",
+      "title": "Antiochus IV’s remorse and death"
+    },
+    {
+      "range": "17-32",
+      "title": "Eupator musters and advances"
+    },
+    {
+      "range": "33-63",
+      "title": "Elephants, sieges, and fraught peace"
+    }
+  ],
+  "themes": [
+    "Divine retribution",
+    "Courageous sacrifice",
+    "Fidelity to the law",
+    "Siege hardship",
+    "Broken oaths"
+  ],
+  "practicalQuestions": [
+    "Where might genuine repentance require concrete restitution or changed stewardship of power?",
+    "How do we weigh bold, self-sacrificial actions against their strategic consequences for a community?",
+    "When is it wise to negotiate with an adversary, and how do we safeguard integrity when oaths can be broken?",
+    "What practices sustain communal identity and law when resources are scarce?",
+    "How should leaders balance military aims with the welfare of civilians during crises?"
+  ],
+  "uncertainAreas": "The chapter begins at verse 2 in this text; verse 1 is missing. Identifying the “tower” explicitly as the Akra is likely but not stated. The exact location of Bathzacharias and the precise accuracy of the troop/elephant numbers are debated in sources. The “year of rest” is presented as the seventh year; while strongly implied to be the sabbatical year, the mechanics of its impact on stores are not detailed here.",
+  "createdAt": "2025-10-19T02:15:50.795Z",
+  "modelId": "gpt-5-2025-08-07"
+}

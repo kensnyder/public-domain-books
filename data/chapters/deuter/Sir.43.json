@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Sir.43",
+  "briefOverview": "A hymn-like meditation on creation that magnifies God’s power and the limits of human praise.",
+  "summary": "Sirach surveys the heavens—the sun, moon, and stars—as instruments of the Most High that mark times and seasons and display divine splendor. He turns to meteorological wonders—rainbow, snow, hail, frost, winds, thunder—and portrays them as obeying God’s command. The sea and its creatures likewise testify to God’s wisdom and the perils navigators face. Confronted with such works, the author insists that human words cannot exhaust God’s greatness and calls for unceasing, humble praise. He concludes that God made all things and grants wisdom to those who live with piety.\n",
+  "externalContext": "Sirach (Ecclesiasticus), composed in the early 2nd century BCE by Jesus ben Sira in Jerusalem, belongs to Jewish wisdom literature that instructs on piety and practical life under God. The work was originally written in Hebrew, with a widely used Greek translation by the author’s grandson. Its cosmology reflects ancient Near Eastern and biblical imagery (firmament, storehouses of snow, the abyss), not modern science. Jewish timekeeping in this period was largely lunar, with months and festal observances keyed to the moon’s phases.\n",
+  "externalReferences": "The chapter echoes Genesis 1:14–18 on the sun, moon, and stars as lights for signs, seasons, days, and years, and Genesis 9:12–16 regarding the rainbow as a sign of God’s covenant. Its weather and sea imagery aligns closely with God’s speeches in Job 38–41 (e.g., storehouses of snow and hail in Job 38:22, bounds of the sea), and the doxological tone recalls Psalm 19:1–6 (the heavens declaring God’s glory, the sun’s course). The catalog of creation praising God parallels Psalm 148:3–8, and the sea’s vastness and creatures resonate with Psalm 104:24–26.\n",
+  "seeAlso": [
+    "Genesis 1:14-18",
+    "Genesis 9:12-16",
+    "Job 38:22-41",
+    "Psalm 19:1-6",
+    "Psalm 104:24-26",
+    "Psalm 148:3-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Sun, moon, and stars"
+    },
+    {
+      "range": "12-28",
+      "title": "Weather, sea, and creatures"
+    },
+    {
+      "range": "29-37",
+      "title": "Incomprehensible majesty and praise"
+    }
+  ],
+  "themes": [
+    "Creation’s grandeur",
+    "Divine sovereignty",
+    "Human limitation",
+    "Praise and awe",
+    "Wisdom and piety"
+  ],
+  "practicalQuestions": [
+    "How can I let the rhythms of creation (sun, moon, seasons) shape a rhythm of regular praise?",
+    "When I experience powerful weather, do I respond with humility and reverence rather than fear or indifference?",
+    "Where do I need to acknowledge the limits of my understanding and let that lead me to worship rather than control?",
+    "How might attentiveness to the natural world deepen gratitude and guard against complacency?",
+    "What specific practices of piety can position me to receive wisdom from God?"
+  ],
+  "uncertainAreas": "The phrase about the moon as an “instrument of the armies on high” and the stars “standing for judgment” is somewhat opaque and may reflect idioms about the heavenly host; the precise nuance is unclear. The cosmological references to storehouses, the abyss, and islands likely use poetic ancient imagery rather than precise physical descriptions. The bracketed marker [Sirach 44] at the end appears editorial and not part of the original verse.",
+  "createdAt": "2025-10-19T03:20:06.349Z",
+  "modelId": "gpt-5-2025-08-07"
+}

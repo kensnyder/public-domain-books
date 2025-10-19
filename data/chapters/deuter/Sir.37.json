@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.37",
+  "briefOverview": "The chapter counsels discernment in friendship and advice, elevating godly counsel, truthful speech, and moderation. It urges prayerful dependence on God alongside practical wisdom and self-control.",
+  "summary": "Sirach warns that some so-called friends prove false in hardship and exhorts loyalty to true friends. He urges readers to avoid seeking counsel from rivals, the irreligious, or those with vested interests, and instead to keep company with a God-fearing, like‑minded person while praying for divine guidance. Truthful words and steadfast counsel should precede action, for the heart and tongue steer outcomes toward good or evil, life or death. The text contrasts empty rhetoric with experiential wisdom that benefits both teacher and hearers. It calls for self-examination, recognizing that not everything fits everyone, and concludes with practical cautions against gluttony and drunkenness as threats to health and longevity.",
+  "externalContext": "Sirach (also called Ecclesiasticus) is a Jewish wisdom book composed in Hebrew by Jesus ben Sira in the early second century BCE, during the Hellenistic period. His grandson translated it into Greek around 132 BCE for a diaspora audience. Wisdom literature in this era often blends practical ethics with fear of God, addressing community life, speech, and self-mastery. The social roles mentioned (merchants, hired workers, field laborers) reflect common occupations in a Mediterranean economy and illustrate how interests can bias counsel. The emphasis on prayer alongside prudent counsel typifies Jewish sapiential piety that integrates divine reliance with practical judgment.",
+  "externalReferences": "Sirach’s warnings about unreliable friends and the value of counsel echo Proverbs (e.g., Proverbs 18:24; 17:17; 11:14; 15:22), and its call to trust God for guidance parallels Proverbs 3:5–6. The statement that life and death are tied to the tongue reflects Proverbs 18:21 and finds further development in James 3:1–12 on the dangerous power of speech. The critique of teaching others while failing oneself resonates with Romans 2:21 and, by analogy, 1 Corinthians 9:27. Exhortations to avoid gluttony and drunkenness align with Proverbs 23:20–21 and the broader biblical ethic of self-control.",
+  "seeAlso": [
+    "Proverbs 18:24",
+    "Proverbs 11:14",
+    "Proverbs 15:22",
+    "Proverbs 3:5-6",
+    "Proverbs 18:21",
+    "James 3:1-12",
+    "Romans 2:21",
+    "1 Corinthians 9:27",
+    "Proverbs 23:20-21",
+    "Matthew 12:34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "True and false friends, biased counsel"
+    },
+    {
+      "range": "12-19",
+      "title": "Avoid unfit advisers; seek the godly"
+    },
+    {
+      "range": "20-34",
+      "title": "Speech, wisdom, self-examination, moderation"
+    }
+  ],
+  "themes": [
+    "True friendship",
+    "Discernment in counsel",
+    "Speech and heart",
+    "Wisdom and self-control",
+    "Moderation"
+  ],
+  "practicalQuestions": [
+    "Whose counsel most influences me, and how do I test their interests and character before acting on it?",
+    "How can I deepen loyalty to true friends, especially in their times of hardship?",
+    "Where do my words tend to steer situations toward either healing or harm, and how can I exercise greater restraint?",
+    "Who in my life exemplifies God-fearing wisdom, and how can I seek their guidance more intentionally?",
+    "In what areas of consumption (food, drink, media) do I need to practice moderation for the sake of health and clarity?"
+  ],
+  "uncertainAreas": "The line “the days of Israel are innumerable” may express the enduring legacy of the covenant community rather than literal longevity; the exact nuance is unclear. The metaphor about a counselor “setting a signpost” (v.10) is vivid but ambiguous in meaning (possibly marking a path while avoiding responsibility).",
+  "createdAt": "2025-10-19T03:16:36.844Z",
+  "modelId": "gpt-5-2025-08-07"
+}

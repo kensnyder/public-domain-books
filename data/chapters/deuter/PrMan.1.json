@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "PrMan.1",
+  "briefOverview": "A penitential prayer attributed to Manasseh that extols God’s majesty and mercy while confessing grave sin and pleading for forgiveness.",
+  "summary": "The speaker praises the Almighty as Creator and sovereign over the sea and deep, whose glory inspires fear yet whose mercy is immeasurable. He recalls God’s compassion and promise of repentance and forgiveness, contrasting the righteous patriarchs with himself as a profound sinner. He confesses multiplied transgressions, idolatry, and disobedience, describing himself as bound and unworthy even to look toward heaven. He begs God not to condemn him to the depths, but to display divine goodness by saving an unworthy penitent. He concludes with a vow to praise God forever, joining the praise of the powers of heaven.",
+  "externalContext": "This prayer is traditionally linked to King Manasseh of Judah (late 8th–7th century BCE), whose reign is remembered for extensive idolatry and shedding of innocent blood. According to 2 Chronicles 33, Manasseh was taken captive by Assyrians, humbled himself, and prayed to God, after which he was restored to Jerusalem; the biblical narrative refers to his prayer but does not preserve its text. The Prayer of Manasseh survives in Greek within the Septuagint tradition and appears in some Christian canons and liturgies (often among the Odes), though it is not part of the Hebrew Bible. Its language reflects post-exilic penitential theology and corporate worship patterns, emphasizing God’s mercy toward repentant sinners.",
+  "externalReferences": "The address to the “God of Abraham, Isaac, and Jacob” echoes Exodus 3:6, while the description of God as compassionate, longsuffering, and merciful reflects Exodus 34:6 (and related formulations such as Psalm 86:15). God’s mastery over the sea and the deep recalls Job 38:8–11, where the waters are bounded by God’s command. The conclusion that the heavenly host praises God aligns with Nehemiah 9:6 and Psalm 148:2. The attribution to Manasseh connects the prayer to 2 Chronicles 33:12–13, 19, which mentions his supplication and repentance.",
+  "seeAlso": [
+    "2 Chronicles 33:12-13",
+    "2 Chronicles 33:19",
+    "Exodus 3:6",
+    "Exodus 34:6",
+    "Job 38:8-11",
+    "Nehemiah 9:6",
+    "Psalm 148:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "God’s majesty and mercy"
+    },
+    {
+      "range": "8-10",
+      "title": "Confession of grievous sin"
+    },
+    {
+      "range": "11-15",
+      "title": "Plea for pardon and vow of praise"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Divine mercy",
+    "Confession of sin",
+    "Forgiveness",
+    "God’s majesty"
+  ],
+  "practicalQuestions": [
+    "How does remembering God’s character (powerful yet merciful) shape the way I confess my sins?",
+    "What specific actions or patterns do I need to name before God rather than confessing vaguely?",
+    "Where have I multiplied excuses or idols that I should renounce as “abominations” in today’s terms?",
+    "How can my repentance lead to an ongoing life of praise rather than a momentary regret?",
+    "In seasons of guilt or shame, what practices help me trust God’s readiness to forgive without minimizing the seriousness of sin?"
+  ],
+  "uncertainAreas": "The statement that repentance was not appointed to the just (v. 8) is rhetorically strong and may not mean the patriarchs were sinless; its precise intent is interpretively nuanced. The imagery of “iron bands” (v. 10) may allude to literal captivity (as in Manasseh’s story) or function metaphorically for the bondage of sin. “Lower parts of the earth” (v. 13) likely refers to Sheol or the realm of the dead, but the exact nuance varies by translation.",
+  "createdAt": "2025-10-19T02:54:52.704Z",
+  "modelId": "gpt-5-2025-08-07"
+}

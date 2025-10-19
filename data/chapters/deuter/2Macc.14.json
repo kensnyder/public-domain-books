@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Macc.14",
+  "briefOverview": "Alcimus persuades Demetrius to move against Judas, leading to Nicanor’s appointment, a brief peace turned by royal pressure into hostility, and a threat against the temple. The chapter closes with the resolute self-inflicted death of Razis to avoid capture and dishonor.",
+  "summary": "Alcimus, a former high priest aligned with Hellenizers, petitions King Demetrius to suppress Judas Maccabeus and restore him to office. Demetrius commissions Nicanor to kill Judas and install Alcimus, but after initial maneuvers Nicanor seeks peace; he befriends Judas, even encouraging him to marry. Provoked by Alcimus’ accusations, Demetrius orders Nicanor to arrest Judas, prompting a rupture: Nicanor threatens to destroy the Jerusalem temple and replace it with a shrine to Bacchus, while the priests pray for God’s protection over the recently cleansed sanctuary. Nicanor then targets Razis, a respected elder devoted to Judaism, who chooses death over capture and humiliation, calling on the Lord of life and spirit as he dies.",
+  "externalContext": "The “151st year” reflects the Seleucid era (roughly 162/161 BCE), soon after Demetrius I seized the Seleucid throne and executed the regent Lysias and the child-king Antiochus V. Seleucid rulers often appointed or deposed high priests in Judea; Alcimus (Alkimus) was a Hellenizing appointee seen by many Jews as illegitimate. Nicanor’s title “master of the elephants” reflects the Seleucid use of war elephants, a hallmark of their Hellenistic military. The temple had been defiled under Antiochus IV but rededicated a few years earlier, making threats against it especially inflammatory. Pressure to honor Greek deities like Dionysus (Bacchus) was part of the broader cultural-religious conflict between Hellenistic authorities and Jewish law observance.",
+  "externalReferences": "This narrative closely parallels 1 Maccabees 7, where Demetrius empowers Bacchides and Alcimus, and Nicanor alternates between diplomacy and hostility toward Judas (1 Maccabees 7:1–50; esp. 7:26–47). The priests’ appeal to protect the “recently cleansed” temple recalls the rededication described in 2 Maccabees 10:1–8. The threat to erect a temple to Bacchus echoes earlier compulsion to participate in Dionysian rites (2 Maccabees 6:7). Razis’ final prayer that the “Lord of life and spirit” restore him suggests the resurrection hope articulated earlier in the book (2 Maccabees 7:9–14), while the public mourning gesture of casting earth on the head is seen elsewhere in Scripture (Joshua 7:6; Job 2:12).",
+  "seeAlso": [
+    "1 Maccabees 7:1-50",
+    "2 Maccabees 10:1-8",
+    "2 Maccabees 6:7",
+    "2 Maccabees 7:9-14",
+    "Joshua 7:6",
+    "Job 2:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-11",
+      "title": "Alcimus’ accusation and Nicanor sent"
+    },
+    {
+      "range": "12-25",
+      "title": "Truce and friendship with Judas"
+    },
+    {
+      "range": "26-46",
+      "title": "Royal reversal, temple threat, Razis’ death"
+    }
+  ],
+  "themes": [
+    "Political intrigue",
+    "Temple sanctity",
+    "Covenant and betrayal",
+    "Martyrdom and honor",
+    "Divine help"
+  ],
+  "practicalQuestions": [
+    "How should leaders respond when political slander endangers their community?",
+    "What safeguards are wise when making peace with former enemies?",
+    "When an ally’s behavior turns, how do we discern when to withdraw and regroup?",
+    "What practices help a community protect its sacred commitments under coercive pressure?",
+    "What convictions enable individuals to face dishonor or abuse without compromising their faith?"
+  ],
+  "uncertainAreas": "The location name rendered “Dessau” is uncertain and may correspond to Adasa; the phrase that Simon was “discomfited through the sudden silence of his enemies” is unclear in meaning; the chronology and uniqueness of Judas’ marriage here is unusual in the narratives; the exact dating of the Seleucid year and its correlation to modern years can vary by reckoning; the accusation that Nicanor meant to make Judas “the king’s successor” appears propagandistic and its precise intent is uncertain.",
+  "createdAt": "2025-10-19T02:36:53.142Z",
+  "modelId": "gpt-5-2025-08-07"
+}

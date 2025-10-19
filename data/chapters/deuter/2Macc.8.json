@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Macc.8",
+  "briefOverview": "Judas Maccabeus leads a prayed-for, divinely aided counteroffensive against Seleucid forces, highlighting piety, courage, and justice. The chapter contrasts human pride and profiteering with God’s protection of those keeping his laws.",
+  "summary": "The people pray for God to pity the profaned temple, the devastated city, and the bloodshed, and to judge the wicked. Judas Maccabeus begins successful raids, growing in strength as divine wrath turns to mercy. Seleucid officials dispatch Nicanor (with Gorgias) and an army to annihilate the Jews and fund tribute by selling them as slaves, but Judas exhorts his outnumbered force to trust God and remember past deliverances. After reading the holy book and setting “The help of God” as their watchword, they rout Nicanor’s host, seize the buyers’ money, and refrain from further pursuit out of Sabbath observance. They worship, distribute spoils to the vulnerable, and pray for lasting reconciliation, then win further victories over forces of Timotheus and Bacchides, execute notorious persecutors, and store arms for future defense. Nicanor flees in disgrace and later reports that the Jews cannot be harmed because God fights for them as they keep his laws.",
+  "externalContext": "2 Maccabees recounts the Jewish revolt against the Seleucid Empire in the mid-2nd century BCE, after Antiochus IV Epiphanes’ policies outlawed Jewish practices and desecrated the Jerusalem temple. Coele-Syria and Phoenicia were Seleucid administrative regions, and commanders like Nicanor and Gorgias are known from Hellenistic military operations. The sale of captives to pay imperial tribute reflects common ancient warfare practices; the Seleucid monarchy owed large indemnities to Rome after the Treaty of Apamea (188 BCE), which strained its finances. Sabbath observance, public prayer, and almsgiving reflect Second Temple Jewish piety and communal ethics under pressure.",
+  "externalReferences": "Judas encourages his troops by recalling the destruction of Sennacherib’s army (2 Kings 19:35; Isaiah 37:36), a classic example of God’s deliverance against overwhelming odds. The plea that God “hear the blood that cried unto him” echoes the motif from Genesis 4:10, where Abel’s blood cries out from the ground for justice. The campaign against Nicanor and Gorgias parallels accounts in 1 Maccabees (notably 1 Maccabees 3:38–4:25). The decision to respect the Sabbath while prosecuting war recalls the evolving stance in 1 Maccabees 2:32–41, where defensive action on the Sabbath is affirmed.",
+  "seeAlso": [
+    "2 Kings 19:35",
+    "Isaiah 37:36",
+    "Genesis 4:10",
+    "1 Maccabees 3:38-4:25",
+    "1 Maccabees 2:32-41",
+    "2 Maccabees 6:10",
+    "1 Maccabees 7:26-50"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-7",
+      "title": "Prayer and rise of Judas"
+    },
+    {
+      "range": "8-15",
+      "title": "Nicanor’s plan and Jewish response"
+    },
+    {
+      "range": "16-36",
+      "title": "Exhortation, victory, and enemies humbled"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Covenant faithfulness",
+    "Sabbath observance",
+    "Justice and retribution",
+    "Courage in leadership"
+  ],
+  "practicalQuestions": [
+    "When facing injustice, how can prayer and action be integrated as seen here?",
+    "What past experiences or communal stories can we recount to strengthen courage in crisis?",
+    "How might we honor core convictions (like Sabbath principles) without neglecting urgent responsibilities?",
+    "In what ways should material gains be used to care for the vulnerable in our communities?",
+    "How do we resist trusting solely in power or numbers and cultivate trust in God’s guidance?"
+  ],
+  "uncertainAreas": "The reference to an earlier battle in Babylon against the “Galatians” and the numbers cited may be stylized or hyperbolic; the exact historical event is unclear. Identifications of figures such as Ptolemeus (likely Ptolemy Macron) and sequencing of campaigns against Timotheus and Bacchides vary across sources. Numerical tallies of forces and casualties may employ ancient rhetorical convention rather than precise statistics.",
+  "createdAt": "2025-10-19T02:31:16.739Z",
+  "modelId": "gpt-5-2025-08-07"
+}

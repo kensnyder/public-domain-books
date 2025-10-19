@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jdt.12",
+  "briefOverview": "Judith preserves her purity and piety while gaining access to Holofernes, culminating in a private banquet where he becomes intoxicated.",
+  "summary": "Judith declines Holofernes’ food and wine, insisting on provisions she brought so as not to cause offence. She assures him her supplies will last until God accomplishes His purpose through her. For three nights she leaves the camp to pray and wash, asking God to guide her for Israel’s deliverance, and eats only in the evening. On the fourth day Holofernes holds a servants’ feast and orders Bagoas to bring Judith so she can dine and drink with them. Judith agrees, adorns herself, and sits opposite Holofernes; he is captivated by her and plies her with festivity. She eats what her maid prepares, while Holofernes drinks excessively and delights in her, setting the stage for what follows.",
+  "externalContext": "Judith is a Second Temple Jewish narrative commonly placed in the Hellenistic period; its setting features anachronistic elements (e.g., Nebuchadnezzar as “king of Assyria”) that signal theological storytelling rather than strict historiography. Ancient Near Eastern courts used eunuchs like Bagoas to manage domestic and ceremonial affairs, including women’s quarters and banquets. Royal-banquet scenes were venues for political maneuvering, and heavy drinking by rulers was a known literary and historical trope. Jewish piety in diaspora contexts often emphasized dietary distinctiveness and ritual purity as identity markers.",
+  "externalReferences": "Judith’s refusal of the general’s provisions parallels Daniel 1:8, where Daniel resolves not to defile himself with royal food and wine. The narrative also echoes Judges 4:21–22, where Jael defeats the enemy commander Sisera after luring him into a vulnerable state, anticipating Judith’s impending action in the next chapter. The motif of a woman using a banquet setting to advance deliverance for her people recalls Esther 5:1–8. Additionally, the downfall linked to drunkenness resonates with 1 Samuel 25:36–38, where Nabal’s inebriation precedes his ruin.",
+  "seeAlso": [
+    "Daniel 1:8",
+    "Judges 4:21-22",
+    "Esther 5:1-8",
+    "1 Samuel 25:36-38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Refusal and nightly prayers"
+    },
+    {
+      "range": "10-14",
+      "title": "Invitation to the feast"
+    },
+    {
+      "range": "15-20",
+      "title": "Banquet and intoxication"
+    }
+  ],
+  "themes": [
+    "Ritual purity",
+    "Prayer",
+    "Strategic deception",
+    "Power and desire",
+    "Intoxication"
+  ],
+  "practicalQuestions": [
+    "How do I maintain personal convictions about purity or boundaries when under social pressure to conform?",
+    "In what ways can disciplined prayer prepare me for difficult or risky actions?",
+    "Where is the ethical line between strategy and deception in confronting evil?",
+    "How can I recognize when desire or indulgence is clouding judgment and making me vulnerable?",
+    "What safeguards help me engage hostile environments without compromising core commitments?"
+  ],
+  "uncertainAreas": "The exact nature of the ‘offence’ Judith seeks to avoid by not eating Holofernes’ food (dietary law, ritual purity, or both) is not specified. The text does not clarify how open or secret her nightly departures were, or whether the washing was purely ritual or also practical. The significance of the three days before the fourth-day feast is literary but not explicitly explained. The extent to which Judith’s consent to attend the banquet implies calculated compliance versus genuine accommodation remains interpretively open.",
+  "createdAt": "2025-10-19T02:49:35.369Z",
+  "modelId": "gpt-5-2025-08-07"
+}

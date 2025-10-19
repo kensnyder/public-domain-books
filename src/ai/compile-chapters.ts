@@ -6,7 +6,7 @@ import data from '../../data/verses/deuter.json' with { type: 'json' };
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters(data).slice(0, 12);
+  const allChapters = getAllChapters(data).slice(0, 200);
   let idx = 1;
   for (const osisID of allChapters) {
     const path = `${import.meta.dir}/../../data/chapters/deuter/${osisID}.json`;

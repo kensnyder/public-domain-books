@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1Macc.14",
+  "briefOverview": "The chapter celebrates Simon’s leadership, describing a period of peace, temple renewal, territorial control, and international recognition, culminating in a formal decree investing him with lasting authority.",
+  "summary": "News arrives that Demetrius has been captured by Arsaces, and Judea enjoys quiet under Simon, who expands borders, secures key cities (Joppa, Gazara, Bethsura, the tower in Jerusalem), and removes defilement. The land prospers in peace—portrayed by imagery of security and abundance—while Simon provisions cities, strengthens the lowly, enforces the law, and adorns the sanctuary. Rome and Sparta, hearing of Jonathan’s death and Simon’s succession as high priest and ruler, renew friendship; Sparta records the embassy, and Simon sends a large golden shield to Rome to affirm the alliance. The Judean assembly publicly honors Simon’s deeds and recounts how he fortified Judean strongholds and placed Jewish garrisons in former enemy posts. A comprehensive decree appoints Simon as governor, high priest, and captain, granting him broad administrative and ceremonial prerogatives and specifying that he is to hold this authority \"for ever, until there should arise a faithful prophet.\" Demetrius also confirms Simon in the high priesthood and honors him, acknowledging Roman-Jewish ties and popular support. The decree is inscribed on brass tablets and stored and displayed for public remembrance.",
+  "externalContext": "The chapter reflects the late second century BCE, when the Hasmonean revolt had transitioned into a Jewish polity under Simon, third son of Mattathias. Demetrius II Nicator’s capture by the Parthians (under a king bearing the dynastic title Arsaces, likely Mithridates I) around 139 BCE weakened Seleucid control and opened space for Judean autonomy. Public decrees on bronze tablets and diplomatic embassies were standard features of Hellenistic statecraft, used to formalize alliances and publicize legitimacy. Joppa (a Mediterranean port) was crucial for trade and access to the \"isles of the sea,\" and fortifying it marked a strategic shift to maritime engagement.",
+  "externalReferences": "The peace image \"every man under his vine and his fig tree\" echoes Israelite royal and prophetic ideals of security (1 Kings 4:25; Micah 4:4; cf. Zechariah 3:10). The renewal of alliances with Rome recalls earlier ties initiated in Judas’s time (1 Maccabees 8) and continued under Jonathan (1 Maccabees 12:1–23). The motif of a pause in prophecy and the expectation of a \"faithful prophet\" connects with 1 Maccabees 9:27, where the cessation of prophets is lamented. Demetrius’s prior concessions to the Jews are recorded earlier (1 Maccabees 13:36–42), providing background for his ongoing recognition of Simon’s status here.",
+  "seeAlso": [
+    "1 Maccabees 8:1-32",
+    "1 Maccabees 12:1-23",
+    "1 Maccabees 13:36-42",
+    "1 Maccabees 9:27",
+    "1 Kings 4:25",
+    "Micah 4:4",
+    "Zechariah 3:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-15",
+      "title": "Peace and reforms under Simon"
+    },
+    {
+      "range": "16-24",
+      "title": "Alliances with Sparta and Rome"
+    },
+    {
+      "range": "25-49",
+      "title": "Decree installing Simon’s authority"
+    }
+  ],
+  "themes": [
+    "Legitimate leadership",
+    "Peace and prosperity",
+    "Temple sanctity",
+    "Law and justice",
+    "International recognition"
+  ],
+  "practicalQuestions": [
+    "What qualities of Simon’s leadership (justice, lawfulness, temple care) should guide those in authority today?",
+    "How can communities cultivate peace that yields material and social flourishing, not merely the absence of war?",
+    "What safeguards are wise when religious and political authority are vested in one leader?",
+    "How should faith communities remember and publicly record acts of deliverance or reform to strengthen identity and accountability?",
+    "When is alliance-building with powerful states prudent, and how can it be pursued without compromising core commitments?"
+  ],
+  "uncertainAreas": "The identity behind the dynastic title \"Arsaces\" is likely Mithridates I, but the text does not name him explicitly. The location named \"Saramel\" is uncertain in modern geography. Chronological details (e.g., the exact conversion of \"year 172\" and the \"third year of Simon\") can vary depending on the Seleucid era reckoning. The stated weight of the golden shield may reflect differing textual traditions in ancient manuscripts.",
+  "createdAt": "2025-10-19T02:23:36.675Z",
+  "modelId": "gpt-5-2025-08-07"
+}

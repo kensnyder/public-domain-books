@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jdt.1",
+  "briefOverview": "The chapter sets the geopolitical stage: Nebuchadnezzar, styled king of the Assyrians in Nineveh, wages war against Arphaxad of Media and vows vengeance on western regions that refused his summons. It culminates with Arphaxad’s defeat and Nebuchadnezzar’s triumphal return.",
+  "summary": "In the twelfth year of Nebuchadnezzar’s reign in Nineveh, Arphaxad of Media fortifies Ecbatana with massive walls and towers. Nebuchadnezzar rallies many eastern peoples and summons a wide sweep of western regions, from Cilicia and Damascus to Samaria, Judea, and Egypt, to join his campaign. These western inhabitants dismiss his command and disgrace his envoys, prompting Nebuchadnezzar to swear a sweeping oath of vengeance against them. In his seventeenth year he defeats Arphaxad, captures Ecbatana, kills Arphaxad, and subjugates his cities. Nebuchadnezzar returns to Nineveh and celebrates with his multinational army for 120 days.",
+  "externalContext": "Judith is part of the Deuterocanonical corpus in Catholic and Orthodox traditions and is generally dated to the Hellenistic period; it employs historical names but freely adapts chronology and geography for theological-literary purposes. The portrayal of Nebuchadnezzar as “king of the Assyrians” in Nineveh is historically anachronistic, since Nineveh fell in 612 BCE and Nebuchadnezzar II ruled Babylon; such blending likely heightens the figure of an archetypal imperial oppressor. Ecbatana (Achmetha) was a Median capital known from Persian and biblical sources, and lists of regions from Cilicia to Egypt reflect a Near Eastern world under pressure from expansive empires. The chapter functions as a prologue, setting up the punitive expedition against the defiant western lands that follows in the narrative.",
+  "externalReferences": "Nineveh’s prominence evokes prophetic oracles against it (Nahum 1–3) and its repentance in Jonah 3, contrasting fates under divine judgment or mercy. Nebuchadnezzar is a major figure elsewhere (2 Kings 24–25; Daniel 1–4), though there as king of Babylon, highlighting Judith’s intentional historical recasting. Ecbatana (Achmetha) is referenced in Ezra 6:2 as a Median royal archive site. The phrase “river of Egypt” recalls boundary language used in Genesis 15:18 and Numbers 34:5.",
+  "seeAlso": [
+    "Nahum 3:1-7",
+    "Jonah 3:4-10",
+    "2 Kings 24:1-2",
+    "Daniel 1:1-2",
+    "Ezra 6:2",
+    "Genesis 15:18",
+    "Numbers 34:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Arphaxad fortifies Ecbatana"
+    },
+    {
+      "range": "5-11",
+      "title": "Nebuchadnezzar’s summons spurned"
+    },
+    {
+      "range": "12-16",
+      "title": "Oath of vengeance and victory"
+    }
+  ],
+  "themes": [
+    "Imperial power",
+    "Defiance",
+    "Vengeance",
+    "Conquest"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when a powerful authority makes coercive demands that conflict with their interests or identity?",
+    "What are the consequences of scorning envoys or dismissing diplomatic overtures, even from unjust powers?",
+    "Where do people place their security—fortifications, alliances, or something more enduring—when large-scale conflicts loom?",
+    "How do public oaths of vengeance escalate violence, and what alternatives to retaliatory cycles might be pursued?"
+  ],
+  "uncertainAreas": "The identity of “Hydaspes” (often associated with the Indus) seems geographically distant for this context; “sons of Chelod” may be the Chaldeans; “borders of the two seas” is ambiguous; and the chronology (twelfth year, then battle in the seventeenth) may be stylized rather than strictly historical.",
+  "createdAt": "2025-10-19T02:42:11.651Z",
+  "modelId": "gpt-5-2025-08-07"
+}

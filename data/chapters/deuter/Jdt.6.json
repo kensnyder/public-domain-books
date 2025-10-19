@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jdt.6",
+  "briefOverview": "Holofernes condemns Achior for warning that Israel’s God will defend them and has him cast before Bethulia, where the Israelites receive him, hear his report, and pray to God for help.",
+  "summary": "Holofernes rebukes Achior for asserting that Israel’s God would defend them, declaring Nebuchadnezzar the only god and vowing to annihilate Israel. He orders Achior taken to the hill country and delivered to Bethulia so he will perish with the Israelites. Holofernes’ men bind Achior and leave him at the foot of Bethulia’s hill; the townspeople rescue him and bring him before the city’s leaders—Ozias, Chabris, and Charmis. Achior recounts the proud words of Holofernes and the Assyrian council. In response, the people worship and cry out to the Lord, asking God to regard the enemy’s pride and the plight of His sanctified people. They honor and comfort Achior, and Ozias hosts the elders, calling on the God of Israel through the night.",
+  "externalContext": "Judith is set against a composite ancient Near Eastern backdrop in which Nebuchadnezzar is portrayed as ruling the “Assyrians,” an intentional historical anachronism that frames the narrative as a theological drama rather than strict chronology. In ancient siege warfare, controlling hill-country passes and water sources was crucial; Bethulia’s location by “fountains” and “passages” reflects typical strategic concerns of Levantine towns. Public assemblies involving elders, men, and women for prayer and counsel mirror Israelite communal crisis practices. In Christian and Jewish canons, Judith is received differently: it is canonical in Catholic and Orthodox traditions and deuterocanonical/apocryphal in many Protestant traditions.",
+  "externalReferences": "Holofernes’ blasphemous boast that no god can deliver Israel echoes Assyrian taunts against Jerusalem (2 Kings 18:28–35; Isaiah 36:13–20), where foreign envoys mock the power of Israel’s God before a siege. The reference to Israel as “the nation that came out of Egypt” invokes the Exodus, where God delivered Israel from a superior power (Exodus 14:13–14). Nebuchadnezzar being treated as a god and demanding absolute loyalty resonates with the hubris described in Daniel (Daniel 3:4–6). The people’s corporate prayer in crisis parallels other biblical scenes of national supplication (2 Chronicles 20:5–12).",
+  "seeAlso": [
+    "2 Kings 18:28-35",
+    "Isaiah 36:13-20",
+    "Exodus 14:13-14",
+    "Daniel 3:4-6",
+    "2 Chronicles 20:5-12",
+    "1 Samuel 17:45-47"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Holofernes’ sentence on Achior"
+    },
+    {
+      "range": "10-13",
+      "title": "Achior abandoned at Bethulia"
+    },
+    {
+      "range": "14-21",
+      "title": "Report, worship, and night-long prayer"
+    }
+  ],
+  "themes": [
+    "Pride and blasphemy",
+    "Divine deliverance",
+    "Communal prayer",
+    "Hospitality"
+  ],
+  "practicalQuestions": [
+    "How should a community respond when confronted with arrogant threats that belittle faith?",
+    "In what ways can we honor and protect those who speak hard truths, even when unpopular?",
+    "What practices help a community unite in urgent, persevering prayer?",
+    "How can we extend hospitality to outsiders who risk themselves for the common good?",
+    "Where do we place ultimate trust when power and intimidation seem overwhelming?"
+  ],
+  "uncertainAreas": "The text alternately associates Achior with Moab, Ephraim, and Ammon, creating ambiguity about his exact affiliation; the precise historical location of Bethulia is also uncertain.",
+  "createdAt": "2025-10-19T02:45:25.866Z",
+  "modelId": "gpt-5-2025-08-07"
+}

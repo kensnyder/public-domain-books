@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "AddEsth.13",
+  "briefOverview": "A royal edict, prompted by Haman’s counsel, orders the annihilation of a dispersed people; Mordecai responds with a theologically rich prayer appealing to God’s sovereignty and covenant mercy.",
+  "summary": "The chapter reproduces a letter from King Artaxerxes asserting his benign rule and justifying a decree, based on Haman’s counsel, to destroy a certain people whose laws allegedly oppose those of all nations. The edict commands that on the fourteenth day of the twelfth month (Adar) the targeted people, with their families, be slain to secure the empire’s unity. In response, Mordecai prays, recalling God’s universal lordship and creative power, and insists his refusal to bow to Haman was not pride but fidelity to God’s glory. He pleads for God to spare His people—the inheritance redeemed from Egypt—and to turn mourning into feasting so that God’s name may be praised. The chapter ends with all Israel crying out in fear of imminent death.",
+  "externalContext": "This chapter belongs to the Greek Additions to Esther found in the Septuagint, preserved in Catholic and Orthodox canons and in the Apocrypha of many Protestant traditions. The Greek text often calls the Persian king “Artaxerxes,” whereas the Hebrew Masoretic Text uses “Ahasuerus” (commonly identified with Xerxes I). The empire described spans “from India to Ethiopia,” reflecting Achaemenid Persia’s extensive reach and administrative system of satrapies and provinces. “Adar” is the twelfth month of the Babylonian-Persian calendar used by Jews in the diaspora. The term “Hades” reflects Greek vocabulary for the realm of the dead, paralleling Hebrew concepts of Sheol.",
+  "externalReferences": "The accusations in the edict echo the slander in Esther 3:8–11 and the call to destroy the Jews parallels the decree of Esther 3:12–15. Mordecai’s refusal to bow is rooted in the narrative of Esther 3:2–6 and reflects fidelity to God consistent with the commandment against idolatrous bowing (Exodus 20:3–5). His plea that God spare “thy portion” and the people redeemed from Egypt recalls Israel as God’s inheritance (Deuteronomy 32:9) and the Exodus deliverance (Exodus 14:30–31). The request to turn mourning into feasting anticipates the later celebration of Purim (Esther 9:22).",
+  "seeAlso": [
+    "Esther 1:1",
+    "Esther 3:2-6",
+    "Esther 3:12-15",
+    "Esther 4:1-3",
+    "Esther 9:22",
+    "Exodus 20:3-5",
+    "Deuteronomy 32:9",
+    "Exodus 14:30-31",
+    "Genesis 12:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Royal edict to destroy"
+    },
+    {
+      "range": "8-17",
+      "title": "Mordecai’s intercessory prayer"
+    },
+    {
+      "range": "18",
+      "title": "Israel’s collective cry"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Persecution",
+    "Faithful dissent",
+    "Intercessory prayer",
+    "Covenant identity"
+  ],
+  "practicalQuestions": [
+    "When civil expectations conflict with devotion to God, what faithful forms of dissent are appropriate?",
+    "How can communal prayer and lament shape a faithful response to threats or injustice?",
+    "In crises, do I ground my petitions in God’s character and past acts of deliverance?",
+    "How do I discern and resist narratives that vilify minority communities?",
+    "What does it mean in practice to prioritize God’s glory over human honor?"
+  ],
+  "uncertainAreas": "The edict’s date is given as the fourteenth of Adar here, whereas the Masoretic text stipulates the thirteenth; this textual divergence may reflect Greek tradition or transmission. The identification of the king as “Artaxerxes” rather than “Ahasuerus” follows the Septuagint and is historically debated. It is also unclear whether Mordecai’s refusal to bow is framed strictly as avoidance of idolatry or as resistance to Haman’s prideful self-exaltation; the text emphasizes God’s glory without detailing court protocol.",
+  "createdAt": "2025-10-19T02:40:06.339Z",
+  "modelId": "gpt-5-2025-08-07"
+}

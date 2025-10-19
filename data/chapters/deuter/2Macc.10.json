@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Macc.10",
+  "briefOverview": "The chapter recounts the purification and rededication of the Jerusalem temple and the institution of an annual eight‑day celebration, followed by renewed conflicts in which Judas Maccabeus wins decisive victories with evident divine help.",
+  "summary": "Judas and his followers demolish pagan altars, rebuild the temple altar, rekindle fire, and reinstate incense, lamps, and the showbread; on the 25th of Chislev they rededicate the temple and establish an eight‑day annual observance, praying that future discipline would come from God rather than subjugation to hostile nations. They keep the feast with branches and psalms, recalling recent hardships during the Feast of Tabernacles. A brief notice marks the end of Antiochus IV, then the narrative turns to Antiochus V Eupator, with Lysias appointed over Coele‑Syria and Phoenicia; Ptolemy Macron, slandered for seeking justice toward the Jews, kills himself. Gorgias and the Idumeans maintain hostilities, but after prayer the Jews take strongholds; when some commanders accept a bribe and let enemies escape, Judas executes the traitors and secures the fortresses. Timotheus musters a large foreign force; the Jews humble themselves in prayer at the altar, then in battle are aided by five heavenly horsemen who shield Judas and confound the enemy, leading to heavy enemy losses. Timotheus flees to a stronghold at Gawra; after a siege and in response to blasphemies, Judas’s men storm, burn the towers, open the gates, and kill Timotheus and his allies, then praise the Lord for victory.",
+  "externalContext": "The events occur amid the Maccabean revolt (ca. 167–160 BCE) against the Seleucid Empire after Antiochus IV’s decrees suppressing Jewish practices. The 25th of Chislev (Kislev) corresponds to early winter; the eight‑day celebration described here is the historical basis of Hanukkah (Feast of Dedication). Antiochus IV died in 164 BCE; his young son Antiochus V Eupator reigned with the general Lysias as regent. Idumeans (Edomites) inhabited the south of Judea and at times aligned with Seleucid interests. Second Maccabees is an epitome of a larger work (traditionally attributed to Jason of Cyrene) and aims to interpret events theologically, highlighting God’s interventions and the moral character of leaders.",
+  "externalReferences": "The temple rededication and eight‑day feast closely parallel 1 Maccabees 4:36–59 and underlie the later Feast of Dedication referenced in John 10:22. Celebrating “as in the feast of the tabernacles” evokes the Torah’s instructions for Sukkot (Leviticus 23:33–43). The plea that God be “an enemy to their enemies” echoes covenant assurances (Exodus 23:22; Numbers 10:35). The heavenly horsemen motif resonates with biblical depictions of angelic warfare (2 Kings 6:15–17), and the note on Antiochus IV’s end aligns with the account in 2 Maccabees 9:1–29.",
+  "seeAlso": [
+    "1 Maccabees 4:36-59",
+    "John 10:22",
+    "Leviticus 23:33-43",
+    "Exodus 23:22",
+    "Numbers 10:35",
+    "2 Kings 6:15-17",
+    "2 Maccabees 9:1-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-8",
+      "title": "Temple rededication and feast"
+    },
+    {
+      "range": "9-23",
+      "title": "Eupator era and Idumean wars"
+    },
+    {
+      "range": "24-38",
+      "title": "Timotheus defeated with divine aid"
+    }
+  ],
+  "themes": [
+    "Temple rededication",
+    "Prayer and deliverance",
+    "Divine intervention",
+    "Covenant discipline"
+  ],
+  "practicalQuestions": [
+    "How do we cultivate communal practices that remember deliverance and sustain identity in hard times?",
+    "What safeguards help leaders resist greed and betrayal when entrusted with responsibility?",
+    "In conflicts, how can we integrate earnest prayer with courageous action without presumption?",
+    "How should we respond to speech or actions we regard as blasphemous while embodying justice and restraint?",
+    "What does it mean to ask for God’s corrective discipline rather than to fall under hostile control today?"
+  ],
+  "uncertainAreas": "The identity of Timotheus (there are multiple leaders by this name in Maccabees) and the exact location of Gawra are not fully clear. The description of five heavenly horsemen could be literal, visionary, or literary-theological; the text presents it as a historical intervention. Verse numbering begins at 2 in the provided excerpt, so minor contextual details from verse 1 are missing.",
+  "createdAt": "2025-10-19T02:34:04.092Z",
+  "modelId": "gpt-5-2025-08-07"
+}

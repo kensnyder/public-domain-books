@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.18",
+  "briefOverview": "Sirach 18 contrasts God’s eternal greatness and boundless mercy with human frailty, then offers counsel on speech, giving, self-examination, prayer, and self-control.",
+  "summary": "The chapter opens by exalting God as the eternal creator whose greatness and mercy are beyond human measure. In contrast, human life is brief and morally fragile, yet God shows patience, forgiveness, and guidance, like a shepherd with his flock. It counsels generous deeds accompanied by kind words, warning that a harsh spirit ruins gifts. Readers are urged to judge themselves before judging others, to humble themselves before illness, and to prepare their souls before praying, remembering the coming retribution and the reversals between prosperity and poverty. The wise remain cautious amid many offenses, value true understanding, and align speech with justice. Finally, it warns against following one’s desires, indulging in disorderly gatherings, and entangling oneself in debt.",
+  "externalContext": "Sirach (also called Ecclesiasticus) is a Jewish wisdom text written in Hebrew by Jesus ben Sira in the early second century BCE and translated into Greek by his grandson around 132 BCE. It reflects the broader wisdom tradition that integrates piety with practical ethics under the Torah. The book circulated widely in the Hellenistic period via the Septuagint and is considered deuterocanonical by Catholic and Orthodox traditions (and apocryphal in most Protestant canons). Its guidance on charity, speech, prayer, humility, and financial caution reflects everyday life in an honor–shame society with patronage networks and the real risks of debt slavery and social shame.",
+  "externalReferences": "The portrayal of God’s unsearchable greatness and universal mercy echoes Psalm 145:3, 9 and the covenantal formula of Exodus 34:6–7. The exhortation to prepare oneself before prayer and not test God resonates with Ecclesiastes 5:1–2 and Deuteronomy 6:16. Warnings against following one’s desires parallel Numbers 15:39, and the depiction of human life’s brevity aligns with Psalm 103:15–16.",
+  "seeAlso": [
+    "Psalm 145:3",
+    "Psalm 145:9",
+    "Exodus 34:6-7",
+    "Ecclesiastes 5:1-2",
+    "Deuteronomy 6:16",
+    "Numbers 15:39",
+    "Psalm 103:15-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "God’s greatness and mercy"
+    },
+    {
+      "range": "15-26",
+      "title": "Giving, speech, and prayer"
+    },
+    {
+      "range": "27-33",
+      "title": "Wisdom, self-control, prudence"
+    }
+  ],
+  "themes": [
+    "Divine greatness",
+    "Mercy and patience",
+    "Human frailty",
+    "Self-examination",
+    "Self-control"
+  ],
+  "practicalQuestions": [
+    "How can I pair generosity with gracious words so that my giving truly helps and does not wound?",
+    "What habits help me prepare my heart before prayer rather than approaching God casually or presumptuously?",
+    "In what ways can I practice self-examination before criticizing or judging others?",
+    "How can I remember scarcity and fragility during times of abundance, so prosperity does not dull my conscience?",
+    "What concrete boundaries will help me resist desires that lead to shame or entangling debt?"
+  ],
+  "uncertainAreas": "Verse 6 (“When man has reached the end, then he will begin”) is ambiguous—possibly about human limits in grasping God or the start of true understanding at life’s end. Verses 21–22 (humbling before weakness; praying always and not dreading justification unto death) leave room for differing interpretations about dying well or facing judgment confidently. Verse 26’s rapid shifts from morning to evening may signify life’s instability or divine swiftness—unclear. The wording of verse 33 about the “contention of borrowing” is translation-sensitive and could refer broadly to the strife and self-harm caused by debt.",
+  "createdAt": "2025-10-19T03:06:02.822Z",
+  "modelId": "gpt-5-2025-08-07"
+}

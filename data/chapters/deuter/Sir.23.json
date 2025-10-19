@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.23",
+  "briefOverview": "A wisdom prayer for self-mastery followed by instruction on disciplined speech, oath-taking, and sexual fidelity under God’s all-seeing judgment.",
+  "summary": "The speaker prays that God, the Father and ruler of his life, would keep him from pride, lust, and a foolish mind. He urges listeners to avoid habitual oath-taking and profaning holy names, warning that frequent swearing brings sin and punishment to one’s house. He counsels disciplined speech and remembrance of parents, lest public disgrace follow. Turning to desire, he describes lust as a fire that does not cease, portraying the adulterer who thinks darkness hides him but forgets that God’s eyes see all. Such a person will be exposed and punished, as will a woman who abandons her husband and commits adultery, leaving a legacy of shame. The chapter concludes that fearing God and keeping his commandments is best, and following the Lord brings long life.",
+  "externalContext": "Sirach (Ben Sira) is a Jewish wisdom work from the early second century BCE, originally composed in Hebrew and later translated into Greek. Wisdom teaching in this period often addressed practical ethics—speech, sexuality, household conduct—within an honor–shame society where public reputation and family standing were crucial. Oath-taking was common in Near Eastern legal and social settings but strictly regulated in Israel’s law. Adultery carried severe penalties in the Torah and threatened family inheritance and lineage, heightening communal concern about fidelity and legitimacy.",
+  "externalReferences": "The warnings against casual or false oaths echo the Torah’s commands not to misuse the divine name and not to swear falsely (Exodus 20:7; Leviticus 19:12). The claim that God’s eyes see everything parallels Proverbs 15:3 and the searching omniscience celebrated in Psalm 139:1–12. Adultery prohibitions and their social fallout resonate with Exodus 20:14 and the warnings of Proverbs 5–7 (see especially Proverbs 6:32–35; 7). Later teachings against swearing reinforce the same ethic of restrained speech and integrity (Matthew 5:33–37; James 5:12).",
+  "seeAlso": [
+    "Exodus 20:7",
+    "Leviticus 19:12",
+    "Proverbs 15:3",
+    "Psalm 139:1-12",
+    "Exodus 20:14",
+    "Proverbs 6:32-35",
+    "Proverbs 7:1-27",
+    "Matthew 5:33-37",
+    "James 5:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Prayer for self-mastery"
+    },
+    {
+      "range": "7-20",
+      "title": "Guarding speech and oaths"
+    },
+    {
+      "range": "21-38",
+      "title": "Lust, adultery, and divine judgment"
+    }
+  ],
+  "themes": [
+    "Fear of the Lord",
+    "Speech ethics",
+    "Sexual fidelity",
+    "Divine omniscience",
+    "Honor and shame"
+  ],
+  "practicalQuestions": [
+    "Where do I need God’s help to restrain pride, desire, or reckless thoughts?",
+    "How can I reduce casual or exaggerated oath-like speech to cultivate integrity?",
+    "What habits can I build to keep my words disciplined and respectful, especially in public settings?",
+    "How does remembering my family and community shape the way I carry myself before others?",
+    "What structures of accountability help me treat hidden desires with seriousness before an all-seeing God?"
+  ],
+  "uncertainAreas": "Verse 19’s wording about God ‘forgetting’ you in the sight of great men is rhetorically strong; its precise logic (divine vs. social disfavor) is somewhat ambiguous. The phrase about a woman ‘establishing an inheritance by marriage to another man’ (v. 32) is unclear in its legal specifics and likely reflects contemporary concerns about lineage and property. The statement in v. 21 about two kinds of sinners and a third that adds wrath is not explicitly enumerated in the immediate context. The bracketed “[Sirach 24]” at the end appears to be a header or editorial marker, not part of the verse proper.",
+  "createdAt": "2025-10-19T03:08:34.412Z",
+  "modelId": "gpt-5-2025-08-07"
+}
