@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Alma.1",
+  "briefOverview": "The chapter introduces the problem of 'priestcraft' and its social consequences, recounting the murder of Gideon by Nehor and describing conflict, persecution, and the church's communal response and prosperity.",
+  "summary": "Alma, now chief judge, hears the case of Nehor, a popular and powerful man who preaches that clergy should be supported and that all people will be saved. Nehor's teachings gain followers and wealth; when he violently kills the aged Gideon for opposing him, Alma condemns Nehor and he is executed according to the law. Despite Nehor's death, priestcraft and false teachings continue to spread as some preach for riches and honor. Nonmembers persecute church members for their humility and free sharing of the word, while some within the church become prideful and quarrelsome. The faithful remain steadfast; church leaders labor with their hands, avoid elevated status, and practice mutual aid, which leads to communal prosperity and peace that continues until the fifth year of the judges.",
+  "externalContext": "Within the Book of Mormon narrative the events follow the end of the Nephite monarchy and the establishment of a system of judges (a legal transition described earlier in the book of Mosiah). \"Priestcraft\" here reflects a wider ancient and religious concern about leaders using spiritual authority for personal gain. Capital punishment and public trial procedures are presented as features of the Nephite legal code under King Mosiah and the new judges.",
+  "externalReferences": "The text alludes to earlier events in the book of Mosiah by identifying Gideon as the one who helped deliver Limhi's people from bondage, pointing readers to the Mosiah narrative for that backstory. The chapter also presupposes the legal and constitutional changes recorded earlier in Mosiah concerning the replacement of kings with judges (see the book of Mosiah's account of the transition to judges).",
+  "seeAlso": [
+    "Mosiah 29:1–30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Nehor and Priestcraft"
+    },
+    {
+      "range": "16-25",
+      "title": "Persecution and Division"
+    },
+    {
+      "range": "26-33",
+      "title": "Church Order and Prosperity"
+    }
+  ],
+  "themes": [
+    "Priestcraft",
+    "Persecution",
+    "Community welfare",
+    "Law and justice"
+  ],
+  "practicalQuestions": [
+    "How should religious communities guard against leaders who seek personal gain?",
+    "In what ways can faith communities balance spiritual ministry with honest labor and economic self-sufficiency?",
+    "How ought members respond when outsiders persecute them for religious distinctives?",
+    "What practical systems can a community adopt to ensure charity and avoid favoritism?"
+  ],
+  "uncertainAreas": "Exact chapter references for Gideon's earlier actions (the specific Mosiah chapters) were not cited here with precise verse ranges beyond the general book reference; motivations of nonmembers and some internal dynamics are summarized from the text but are not fully explained in detail.",
+  "createdAt": "2025-10-18T23:39:49.609Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

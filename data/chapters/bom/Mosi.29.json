@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Mosi.29",
+  "briefOverview": "Mosiah 29 records King Mosiah's presentation of arguments against renewing a hereditary kingship and the people's decision to establish a system of judges, inaugurating a new form of government.",
+  "summary": "Mosiah seeks the people's will about choosing a king; they request Aaron but he and Mosiah's other sons decline the throne. Mosiah warns that kingship easily leads to wicked rulers and violence (citing King Noah as an example), and he urges the people to choose judges instead so that the laws given by their fathers and God will be upheld. He outlines safeguards: judges chosen by the voice of the people, provisions for appeals, and mechanisms to have higher judges reviewed by a gathering of lower judges if necessary. The people accept Mosiah's counsel, relinquish their desire for a king, and establish judges throughout the land. Alma is appointed first chief judge while remaining high priest; peace prevails, and Mosiah and Alma’s father soon die, marking the end of kings and the start of the reign of the judges.",
+  "externalContext": "The narrative reflects ancient and early-modern concerns about monarchy versus other forms of government: kingship was a common model in the ancient Near East, but the idea of popular selection of judges echoes republican and quasi-republican ideals found in later political thought. Within the Book of Mormon narrative world, references to earlier kings (e.g., Benjamin, Noah) recall prior episodes that shaped public memory and provided precedents for evaluating rulers. The book is part of Latter-day Saint scripture and is presented as an account of peoples in the ancient Americas, though its historical claims are debated outside that tradition.",
+  "externalReferences": "Mosiah explicitly invites comparison with the righteous reign of King Benjamin (Mosiah 2–5) as the ideal standard for a ruler who follows God's commandments. He contrasts that example with the wicked reign of King Noah and its consequences (see Mosiah 11–19 for the account of Noah's wickedness and its results). The chapter also alludes to the founding of the church under Alma earlier in the record (Mosiah 18) and closes with a chronological note tied to Lehi's departure from Jerusalem (see 1 Nephi 2:1–2 for Lehi's journey).",
+  "seeAlso": [
+    "Mosiah 2:1–5",
+    "Mosiah 11–19",
+    "Mosiah 18",
+    "1 Nephi 2:1–2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Question of Kingship"
+    },
+    {
+      "range": "12-31",
+      "title": "Arguments Against Kings"
+    },
+    {
+      "range": "32-47",
+      "title": "Establishing Judges"
+    }
+  ],
+  "themes": [
+    "Governance",
+    "Liberty",
+    "Justice",
+    "Accountability"
+  ],
+  "practicalQuestions": [
+    "How can modern communities balance strong leadership with institutional checks to prevent abuse?",
+    "What safeguards are necessary to ensure that judges and officials remain accountable to the laws and to the people?",
+    "How should a society respond when popular opinion conflicts with laws believed to be just or divinely given?",
+    "In what ways can citizens cultivate willingness to take personal responsibility for moral and civic outcomes rather than relying solely on leaders?"
+  ],
+  "uncertainAreas": "The text is not specific about the detailed mechanics of the judicial system (e.g., numbers, terms, selection procedures, thresholds for decisions). It is also ambiguous about how long Mosiah retained royal authority while judges were appointed and precisely how the appeal process and the gathering of lower judges to judge higher judges would operate in practice. Finally, broader historical-historical claims (e.g., the Book of Mormon's events in the ancient Americas) lie outside the internal textual evidence and remain matters of external debate.",
+  "createdAt": "2025-10-18T23:39:14.757Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

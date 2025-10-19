@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Alma.13",
+  "briefOverview": "Alma teaches about a priesthood ordained after the order of the Son (Melchizedek) and urges immediate repentance while anticipating the coming of the Lord.",
+  "summary": "Alma explains that certain priests were foreknown and ordained from the foundation of the world after the order of the Son, called because of faith and righteousness, and sanctified so they might teach and help others look to Christ for redemption. He describes this high priesthood as eternal and cites Melchizedek as an example, noting Abraham paid tithes to him. Alma emphasizes sanctification—garments washed white through the blood of the Lamb—and that many became pure and entered the Lord's rest. He then urgently calls his listeners to repent now, reminding them that angels declare the coming of the Lord and that the time of salvation draws near. He exhorts them to humble themselves, watch and pray, cultivate virtues (meekness, patience, love), and have faith and hope to avoid the second death.",
+  "externalContext": "The figure Melchizedek appears in Genesis 14:18–20 in the Hebrew Bible as king of Salem and priest of God Most High; later Jewish and Christian writings (notably Hebrews 7) interpret him as a typological precursor of a priesthood distinct from the Levitical line. The language of being 'called from the foundation of the world' and foreknowledge reflects theological themes about predestination and foreordination found in various strands of ancient and later Christian thought.",
+  "externalReferences": "Genesis 14:18–20 records Melchizedek receiving tithes from Abraham, which Alma cites directly. The New Testament letter to the Hebrews (especially Hebrews 7) treats Melchizedek as a model of an eternal priesthood 'after the order of Melchizedek' and discusses priestly worthiness apart from Levitical descent. The image of garments washed white through the blood of the Lamb echoes Revelation 7:13–14. The announcement of glad tidings by angels recalls New Testament angelic proclamations (e.g., Luke 2:10–11) and broader themes of prophetic declaration about the Messiah.",
+  "seeAlso": [
+    "Genesis 14:18-20",
+    "Hebrews 7:1-4",
+    "Hebrews 7:11-17",
+    "Revelation 7:13-14",
+    "Luke 2:8-11",
+    "Psalm 110:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Priesthood and Calling"
+    },
+    {
+      "range": "10-20",
+      "title": "Sanctification and Melchizedek"
+    },
+    {
+      "range": "21-31",
+      "title": "Call to Repentance"
+    }
+  ],
+  "themes": [
+    "Priesthood",
+    "Foreordination",
+    "Repentance",
+    "Messianic expectation"
+  ],
+  "practicalQuestions": [
+    "How should the idea of being 'called and prepared' from the foundation of the world shape our understanding of leadership and service today?",
+    "In what concrete ways can we 'bring forth fruit meet for repentance' rather than postponing repentance?",
+    "How can communities cultivate the virtues Alma lists (meekness, patience, love) so members are better prepared for spiritual challenges?",
+    "What practices help believers 'watch and pray continually' without becoming anxious about the timing of claimed prophetic events?"
+  ],
+  "uncertainAreas": "Some terms are theologically dense and open to interpretation: whether 'called from the foundation of the world' implies strict predestination or foreknowledge coupled with human agency; how literally to take descriptions of the priesthood as 'without beginning or end' (applied to the order rather than person); and the precise relationship between Melchizedek as presented here and later Christian theological treatments.",
+  "createdAt": "2025-10-18T23:51:00.567Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

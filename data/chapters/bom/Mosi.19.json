@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Mosi.19",
+  "briefOverview": "A fractured Nephite force sees King Noah pursued and ultimately deposed; many women are taken captive by Lamanites while Limhi rises as a tributary king under Lamanite control.",
+  "summary": "After a failed search for the Lord’s people the king’s small army fractures, and Gideon, an enemy of the king, attempts to kill him. The king flees to a tower but spares mortal danger when he sees the Lamanite army approaching; he commands his people to flee into the wilderness. Many men abandon their families to save themselves, while others stay and plead for their wives and children; the Lamanites spare the women for their beauty and take them captive to the land of Nephi. The Lamanites impose terms: deliver King Noah and half of all possessions as tribute; one of Noah’s sons, Limhi, is among the captives and later is made king by the people. Gideon secretly searches and finds most of the people in the wilderness; the people execute King Noah and his priests. Limhi establishes his rule and, by paying tribute and accepting Lamanite guards, secures two years of relative peace for his people.",
+  "externalContext": "This episode is part of the larger Book of Mormon narrative of Nephite–Lamanite conflict and internal Nephite political turmoil. King Noah’s earlier wicked rule and the prophetic confrontation with Abinadi are recounted in earlier Mosiah chapters, which explain why Noah is unpopular and vulnerable. Taking captives, exacting tribute, and using hostages to secure obedience are practices attested in many ancient societies and fit the warfare patterns reflected in this narrative.",
+  "externalReferences": "The chapter continues the story of King Noah and his wickedness described earlier in Mosiah (see Mosiah 11–17, which includes the ministry and martyrdom of Abinadi and the internal opposition to Noah). The fate of Limhi’s people and their bondage under the Lamanites is a thread that continues in the subsequent Mosiah narrative (the following chapters recount further interactions and attempts at deliverance).",
+  "seeAlso": [
+    "Mosiah 11–17",
+    "Mosiah 20–22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Flight and Pursuit"
+    },
+    {
+      "range": "10-16",
+      "title": "Captivity and Ransom"
+    },
+    {
+      "range": "17-29",
+      "title": "Limhi's Rule"
+    }
+  ],
+  "themes": [
+    "Conflict",
+    "Captivity",
+    "Leadership",
+    "Tribute"
+  ],
+  "practicalQuestions": [
+    "When faced with imminent danger, how should communities balance protecting vulnerable members (children, spouses) with the need for collective survival?",
+    "What mechanisms should a community use to hold leaders accountable when their decisions bring harm?",
+    "How can a new leader legitimately establish peace after a violent or coerced change of power?",
+    "What ethical responses are appropriate when a captor offers mercy for reasons like beauty—how should captives and their communities interpret and respond to such mercy?"
+  ],
+  "uncertainAreas": "Exact chapter-and-verse locations for some linked events (e.g., all of Gideon’s prior actions and the detailed chapters where Limhi’s deliverance is narrated) were treated at the chapter-group level (Mosiah 11–17; Mosiah 20–22) rather than by precise verse citations because of uncertainty about precise verse boundaries for those related episodes.",
+  "createdAt": "2025-10-18T23:34:07.119Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

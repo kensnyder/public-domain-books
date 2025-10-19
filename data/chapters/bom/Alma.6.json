@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Alma.6",
+  "briefOverview": "Alma organizes and regulates the newly established church in Zarahemla, setting membership and worship practices, then departs to preach in the valley of Gideon.",
+  "summary": "Alma ordains priests and elders to preside over the church in Zarahemla and establishes rules for membership: repentant outsiders may be baptized and received, while unrepentant members are rejected and have their names blotted out. The word of God is proclaimed openly, and members are commanded to gather often for fasting and fervent prayer for those who do not yet know God. After laying down these regulations, Alma leaves Zarahemla, crosses the river Sidon, and goes to the city and valley of Gideon where he continues to preach according to prophetic revelation and the testimony of Jesus Christ.",
+  "externalContext": "The Book of Mormon presents Alma as an early church leader and reformer who organizes religious bodies among the Nephites; the practices described (ordination by laying on of hands, baptism, fasting, communal assembly) reflect ancient covenant-community structures also attested in other early religious traditions. The valley of Gideon and the river Sidon are geographical markers within the Book of Mormon narrative used to situate movements of groups; the reference to someone slain by Nehor recalls an earlier internal conflict over priestcraft and dissent.",
+  "externalReferences": "The slaying of Gideon by Nehor appears earlier in the Book of Mormon narrative (see Alma 1:15) and provides the historical reason for the place-name 'Gideon' mentioned here. The chapter's emphasis on baptism, ordination by laying on of hands, and frequent communal prayer has clear parallels with New Testament practices (e.g., Matthew 28:19 on baptism and Acts 8:17 on laying on of hands; Acts 2:41–42 on converts being baptized and joining the community).",
+  "seeAlso": [
+    "Alma 1:15",
+    "Alma 5:33-35",
+    "Mosiah 18:8-10",
+    "Matthew 28:19-20",
+    "Acts 2:41-42",
+    "Acts 8:17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Leadership and Membership"
+    },
+    {
+      "range": "5-6",
+      "title": "Worship and Prayer"
+    },
+    {
+      "range": "7-8",
+      "title": "Alma Moves to Gideon"
+    }
+  ],
+  "themes": [
+    "Church organization",
+    "Repentance",
+    "Worship practices",
+    "Christocentric testimony"
+  ],
+  "practicalQuestions": [
+    "How should a faith community balance open invitation with standards of accountability and repentance?",
+    "What structures (ordination, leadership roles) are most helpful for preserving community integrity today?",
+    "How can regular communal practices — gathering, fasting, and intercessory prayer — be renewed to support outreach to those 'who know not God'?",
+    "In what ways does centering teaching and ministry on the testimony of Christ shape local worship and discipline?"
+  ],
+  "uncertainAreas": "The text is terse about the mechanics of 'blotting out' names (whether symbolic, administrative, or spiritual consequence) and about how strictly the gathered regulations were enforced; the precise scope of 'the word of God was liberal unto all' could mean open preaching or equal access to rites, and that remains open to interpretation.",
+  "createdAt": "2025-10-18T23:48:10.431Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

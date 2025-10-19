@@ -6,7 +6,7 @@ import bom from '../../data/verses/bom.json' with { type: 'json' };
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters(bom).slice(37, 100);
+  const allChapters = getAllChapters(bom).slice(100, 200);
   let idx = 1;
   for (const osisID of allChapters) {
     const path = `${import.meta.dir}/../../data/chapters/bom/${osisID}.json`;

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Alma.46",
+  "briefOverview": "A crisis of internal dissent threatens Nephite liberty, and Moroni rallies believers with a symbolic 'title of liberty' to defend their religion and freedoms.",
+  "summary": "Amalickiah stirs up dissent among the Nephites, seeking to become king and to destroy the church and the free government. Moroni responds angrily, tears his coat, writes a rallying inscription, fastens it to a pole (the 'title of liberty'), and prays for the preservation of religion and freedom. He gathers and rallies those who covenant to maintain their rights and the name of Christ; many cast their garments at his feet as a token of their vow. Amalickiah and his followers flee to the land of Nephi, while Moroni pursues and captures most dissenters, executing a few who refuse the covenant. Moroni orders the title of liberty displayed on all towers, restoring peace for several years, and Helaman maintains church order; many die in the faith during this period.",
+  "externalContext": "The narrative belongs to the Book of Mormon's account of Nephite–Lamanite conflict and internal political struggle under a system of judges rather than monarchy. Ancient Near Eastern and early American republican anxieties about kingship inform the story: Amalickiah's attempt to become king is portrayed as a threat to both religious and civil liberty. The use of covenant tokens and public standards (banners) fits wider ancient practices where visible signs and oaths united communities.",
+  "externalReferences": "The chapter explicitly echoes the Old Testament story of Joseph’s coat being torn by his brothers (Genesis 37:23–24) and Jacob’s later blessings and prophetic language about a remnant of Joseph (see Genesis 48:19–20), which Moroni invokes to warn against a remnant’s destruction. The theme of a preserved remnant also parallels prophetic language in Isaiah about a faithful remnant that returns to God (e.g., Isaiah 10:20–21). Within the Book of Mormon narrative, these events continue the military and political conflicts treated in the preceding Alma war chapters (see Alma 43–44).",
+  "seeAlso": [
+    "Genesis 37:23–24",
+    "Genesis 48:19–20",
+    "Isaiah 10:20–21",
+    "Alma 43–44"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Amalickiah's Dissent"
+    },
+    {
+      "range": "11-26",
+      "title": "Title of Liberty Instituted"
+    },
+    {
+      "range": "27-41",
+      "title": "Pursuit, Peace, Deaths"
+    }
+  ],
+  "themes": [
+    "Liberty",
+    "Leadership",
+    "Covenant",
+    "Apostasy"
+  ],
+  "practicalQuestions": [
+    "How should a religious community respond when charismatic leaders advocate for political power that threatens shared freedoms?",
+    "What visible practices (symbols, oaths, public commitments) help a community remember and renew its foundational commitments?",
+    "How can leaders balance firmness in defending communal principles with mercy toward dissenters?",
+    "In what ways does remembering foundational stories (like the 'coat of Joseph') shape communal identity and ethical choices?"
+  ],
+  "uncertainAreas": "Degree to which Old Testament references are being used directly versus as thematic echoes; precise later Book of Mormon cross-references to Moroni's standards beyond Alma 46 (I relied on nearby Alma chapters but did not enumerate all later mentions).",
+  "createdAt": "2025-10-19T00:17:50.942Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

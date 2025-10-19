@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "2Ne.25",
+  "briefOverview": "Nephi explains his purpose in quoting Isaiah, emphasizes plain prophetic teaching about the Messiah, and teaches how the law relates to Christ and salvation.",
+  "summary": "Nephi says Isaiah's prophecies are difficult for many of his people to understand, so he will speak plainly and record what is important for future generations (1–8). He recounts the foretold destruction and scattering of the Jews, their eventual rejection and crucifixion of the Messiah, and their later restoration when they accept Christ (9–19). Nephi affirms there is no other name by which men can be saved, testifies that his record will be preserved, and teaches that they labor to persuade their children to believe in Christ because salvation is by grace after all we can do (20–23). He explains that while they continue to keep the law of Moses until it is fulfilled, the law’s purpose was to point to Christ and become 'dead' in the sense that life comes through Christ; he exhorts his people to believe in Christ, worship him fully, and observe ordinances as appropriate until the law is fulfilled (24–30).",
+  "externalContext": "The Book of Mormon presents Nephi as an Israelite leader who left Jerusalem around the time of the Babylonian threat (traditionally c. 600 BCE) and who quotes and interprets Hebrew prophecy for his descendants. Isaiah was an 8th-century BCE prophet whose writings were often seen as complex and were highly valued in Jewish prophetic tradition. The book reflects Jewish concepts of covenant, exile, and restoration, and it engages New Testament themes (Messiah’s death and resurrection, fulfillment of the law) from a perspective that postdates Christian scripture.",
+  "externalReferences": "Nephi explicitly echoes Old Testament narratives when he refers to Moses’ acts—healing the bitten Israelites by a lifted serpent and bringing water from the rock (compare Numbers 21:6–9 and Exodus 17:6). His phrase 'healing in his wings' and the theme of a suffering yet saving Messiah resonate with Malachi 4:2 and Isaiah’s suffering-servant material (e.g., Isaiah 53:4–5). The teaching that the law was a guide until Christ fulfilled it parallels New Testament exposition (e.g., Matthew 5:17; Galatians 3:24–25), and the emphasis on salvation by grace echoes passages such as Ephesians 2:8–9.",
+  "seeAlso": [
+    "Numbers 21:6-9",
+    "Exodus 17:6",
+    "Isaiah 53:4-5",
+    "Malachi 4:2",
+    "Matthew 5:17",
+    "Galatians 3:24-25",
+    "Ephesians 2:8-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Purpose and Plainness"
+    },
+    {
+      "range": "9-19",
+      "title": "Judgment, Scattering, Restoration"
+    },
+    {
+      "range": "20-30",
+      "title": "Christ, Law, Exhortation"
+    }
+  ],
+  "themes": [
+    "Messiah",
+    "Prophecy",
+    "Law",
+    "Grace"
+  ],
+  "practicalQuestions": [
+    "How can we teach difficult scriptural material plainly so others can understand and act on it?",
+    "In what ways does the law still guide moral and religious life after we accept Christ?",
+    "How should communities preserve and hand down their religious texts and testimonies for future generations?",
+    "What does it mean today to 'believe in Christ and deny him not' in concrete practices and priorities?"
+  ],
+  "uncertainAreas": "Exact historical datings (e.g., 'six hundred years from the time my father left Jerusalem') and some intertextual attributions are matters of tradition rather than internal textual proof. The phrase 'healing in his wings' draws on intertestamental/Malachi imagery, and Nephi’s summary of Isaiah compresses multiple prophetic themes, so specific source-identifications and nuanced theological implications sometimes remain open to interpretation.",
+  "createdAt": "2025-10-18T23:14:02.818Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

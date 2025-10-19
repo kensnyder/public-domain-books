@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Mosi.7",
+  "briefOverview": "A small Nephite search party encounters King Limhi, who explains his people's heavy bondage under the Lamanites and calls them to repentance, linking their suffering to past iniquities and the slaying of a prophet.",
+  "summary": "King Mosiah sends sixteen men led by Ammon to inquire after those who went to dwell in Lehi-Nephi. After wandering forty days the party reaches the region, and Ammon and three companions are captured and brought before King Limhi, who recognizes Ammon as a descendant of Zarahemla and is greatly encouraged. Limhi proclaims hope that their brethren in Zarahemla live and might deliver them from the Lamanites, and he invites Ammon and his men to rest and to be presented to his people. Addressing his people in the temple, Limhi recounts their grievous tribute and bondage under the Lamanites, traces their plight to their fathers' transgression and the deceit of king Laman and Zeniff, and laments the shedding of blood and the slaying of a prophet who taught about the coming of Christ. He quotes divine warnings about desolation for sin and then urges his people to repent—if they turn to the Lord with full purpose of heart, trust him, and serve diligently, God will deliver them according to his will.",
+  "externalContext": "The narrative reflects the Book of Mormon's broader setting of Nephite and Lamanite polities, with kingship, treaties, and tribute as recurring social realities. The references to the God of Abraham, Isaac, and Jacob and to the Exodus (Red Sea crossing and manna) point to an Israelite religious memory transplanted into the Book of Mormon world. Within the Book of Mormon narrative, the events fit into the Zeniff–Noah–Limhi cycle in which a Nephite group sought to reclaim ancestral lands and subsequently fell into Lamanite domination.",
+  "externalReferences": "The chapter's references to the Red Sea crossing and manna clearly allude to Exodus 14 and Exodus 16 in the Hebrew Bible. The slain prophet who prophesied of Christ and was put to death is most plausibly the prophet Abinadi as described earlier in the Book of Mormon narrative (see the account of Abinadi in Mosiah chapters 11–17). The account also connects to the earlier story of Zeniff's migration and settlement that appears in the narrative sections about Zeniff and King Noah (see Mosiah 9–10).",
+  "seeAlso": [
+    "Exodus 14:21–22",
+    "Exodus 16:4–5",
+    "Mosiah 11–17",
+    "Mosiah 9–10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–3",
+      "title": "Mission Sent"
+    },
+    {
+      "range": "4–16",
+      "title": "Capture and Recognition"
+    },
+    {
+      "range": "17–33",
+      "title": "Limhi's Warning and Hope"
+    }
+  ],
+  "themes": [
+    "Bondage",
+    "Repentance",
+    "Deliverance",
+    "Prophecy"
+  ],
+  "practicalQuestions": [
+    "What does 'turn to the Lord with full purpose of heart' require in my community today?",
+    "How should communities respond to political or economic oppression while maintaining faith?",
+    "In what ways can we honor and heed unpopular prophetic warnings in our context?",
+    "How does remembering foundational religious narratives (e.g., Exodus) shape hope in present hardship?"
+  ],
+  "uncertainAreas": "I was cautious about specifying verse-level cross-references within Mosiah for the Abinadi and Zeniff accounts because exact verse numbers were not recalled; the chapter refers to 'a prophet' without naming him here, though the narrative context elsewhere identifies Abinadi. Also, the precise origin of the divine quotations cited by Limhi (phrases like 'I will not succor my people...') may be composite teachings from earlier prophets rather than a single scriptural citation.",
+  "createdAt": "2025-10-18T23:27:35.371Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

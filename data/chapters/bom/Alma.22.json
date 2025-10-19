@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Alma.22",
+  "briefOverview": "Aaron and his brethren visit the Lamanite king, teach him about God and the plan of redemption, and secure a substantial conversion; the chapter closes with a descriptive digression on Nephite–Lamanite geography and borders.",
+  "summary": "Aaron and his brothers go to the king in the land of Nephi and identify themselves as Ammon’s brethren. The king questions them about the “Spirit of the Lord,” and Aaron teaches from the creation through the fall and the plan of redemption, emphasizing Christ’s atonement and victory over death. Moved to conversion, the king asks what he must do, offers his kingdom, and prays for God to make Himself known; he falls as if dead, alarming the queen and servants. Aaron raises the king, whose subsequent ministry converts his household and pacifies the assembled people, after which the king proclaims that Aaron and his brethren should preach throughout the land. The narrator then pauses to give a lengthy geographical and political description of the lands—Bountiful, Desolation, the river Sidon, and the Nephite strategy of hemming in the Lamanites—before returning to the missionary narrative.",
+  "externalContext": "This chapter is part of a larger missionary narrative about the sons of Mosiah (see Alma 17–26), who left Nephite society to preach among the Lamanites. The setting presumes a social order where kings and tribal leaders exercise both political and religious influence, so a ruler’s conversion has wide communal consequences. The geographic names and territorial descriptions reflect the Book of Mormon’s internal map and strategic concerns between Nephite and Lamanite populations.",
+  "externalReferences": "The chapter directly connects back to Ammon’s ministry among Lamoni (see Alma 17–19) and is part of the same missionary campaign described throughout Alma 17–26. The teaching Aaron offers—creation, the Fall, and redemption through Christ—echoes Genesis 1–3 (creation and fall) and New Testament formulations about sin and atonement, notably Romans 5:12–21 on the relation of Adam and Christ, and 1 Corinthians 15:54–57 on death’s defeat. The description of Christ’s suffering as atonement also resonates with prophetic passages such as Isaiah 53:3–5.",
+  "seeAlso": [
+    "Alma 17–19",
+    "Alma 21",
+    "Genesis 1–3",
+    "Romans 5:12–21",
+    "1 Corinthians 15:54–57",
+    "Isaiah 53:3–5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–26",
+      "title": "Aaron's Teaching and Conversion"
+    },
+    {
+      "range": "27–35",
+      "title": "Geography and Borders"
+    }
+  ],
+  "themes": [
+    "Conversion",
+    "Atonement",
+    "Missionary work",
+    "Boundaries"
+  ],
+  "practicalQuestions": [
+    "How should religious teachers present core doctrines (creation, fall, redemption) so they are intelligible and persuasive to those from different religious vocabularies?",
+    "What responsibilities do political or community leaders have when they experience personal religious conviction that affects public life?",
+    "How can communities respond constructively when a religious conversion of a leader threatens existing social or political stability?",
+    "What lessons about mission strategy and respect for local authority can contemporary faith communities draw from the sons of Mosiah’s approach?"
+  ],
+  "uncertainAreas": "The precise meaning and cultural origin of the phrase “Great Spirit” in the text is unclear; the chapter’s geographic names (Bountiful, Desolation) and their exact real-world correlates are part of internal Book of Mormon geography and cannot be fixed with certainty here. The narrative compresses motivations (e.g., the queen’s sudden hostility) that invite interpretive nuance.",
+  "createdAt": "2025-10-18T23:54:40.016Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

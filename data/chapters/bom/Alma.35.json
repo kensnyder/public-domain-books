@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Alma.35",
+  "briefOverview": "A group of Zoramite converts is expelled and received by the people of Ammon in Jershon, provoking alliance with the Lamanites and the outbreak of war; Alma returns to Zarahemla, sorrowful, and gathers his sons to instruct them.",
+  "summary": "After Amulek finishes speaking, he and Alma’s companions withdraw to the land of Jershon, and many of the Zoramites who accepted their message are discovered, cast out by their people, and also relocate to Jershon. The people of Ammon receive these refugees with charity—feeding, clothing, and granting them inheritance lands—despite threats from the Zoramite ruler. The rejected Zoramites ally with Lamanites and prepare for war against the people of Ammon and the Nephites, marking the start of military conflict in the eighteenth year of the judges. Alma and his fellow missionaries return to Zarahemla after converting many Zoramites; the converts have lands in Jershon and have taken up arms to defend their families. Grieved by growing iniquity, wars, and the people’s hardening hearts, Alma summons his sons to give each of them individual charges about righteousness.",
+  "externalContext": "The narrative is set within the Nephite–Lamanite world of the Book of Mormon, where organized communities (lands like Jershon, Melek, and Zarahemla) and shifting alliances shape much political and social life. The people of Ammon are the formerly Lamanite converts (often called Anti-Nephi-Lehies) who had earlier entered covenants and been granted lands among the Nephites; giving asylum and land to persecuted converts is a recurring social/legal practice in this period. The text’s dating by \"years of the reign of the judges\" reflects the Nephite shift from monarchy to a system of judges and a chronology used throughout this narrative.",
+  "externalReferences": "This episode continues the storyline of Alma’s missionary efforts among the Zoramites recounted in Alma 31–34 where Alma and Amulek preach and dispute Zoramite theology. The reception and land allotment for the people of Ammon recall their conversion and settlement narrative found in Alma 24 and Alma 27, where they bury weapons and are granted lands (including Jershon). The outbreak of larger military conflict is developed further in the subsequent war narratives beginning around Alma 43 onward.",
+  "seeAlso": [
+    "Alma 31–34",
+    "Alma 24",
+    "Alma 27",
+    "Alma 43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–7",
+      "title": "Conversions and Exile"
+    },
+    {
+      "range": "8–13",
+      "title": "Threats and War"
+    },
+    {
+      "range": "14–16",
+      "title": "Alma's Return and Charge"
+    }
+  ],
+  "themes": [
+    "Conversion",
+    "Persecution and exile",
+    "Hospitality",
+    "Conflict/war"
+  ],
+  "practicalQuestions": [
+    "How should religious communities respond to people who are persecuted for changing beliefs today?",
+    "What responsibilities do host communities have to provide for refugees and displaced people within their borders?",
+    "When, if ever, is it justified for a community to take up arms to defend families and property after a history of nonviolence?",
+    "How can parents and leaders prepare younger generations when a society’s moral commitments appear to be weakening?"
+  ],
+  "uncertainAreas": "The text leaves unclear the full motives and internal dynamics of Zoramite leaders who 'privily' polled the people, and it raises tension with earlier accounts of the people of Ammon taking oaths of nonviolence—here they are said to have 'taken up arms,' which raises questions about timing and the nature of that military involvement.",
+  "createdAt": "2025-10-19T00:00:35.608Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Alma.42",
+  "briefOverview": "Alma explains how divine justice and mercy operate together through the Fall, resurrection, and the Atonement, and urges repentance and ministry.",
+  "summary": "Alma answers his son's objection about the justice of God by recounting the Fall: Adam and Eve were barred from the tree of life so that men would have a probationary time to repent. Because the Fall brought both temporal and spiritual death, an atonement was necessary so mercy could claim the penitent without overturning divine justice. Alma argues that law, punishment, and a just requirement are needed for true repentance to occur, and that the Atonement and resurrection restore men to God's presence to be judged according to their works. He concludes by urging his son to accept God's justice and mercy, repent of his sins, and preach so others may likewise receive mercy.",
+  "externalContext": "This chapter is from the Book of Mormon, presented as a sermon by the Nephite prophet Alma to his son (commonly identified in the narrative as Corianton) within the larger Alma narrative. In the book's storyline, Alma's counsel follows earlier rebukes about moral failure and missionary duties; the text reflects 19th-century Latter-day Saint theology emphasizing free agency, the Fall, and Christ's Atonement. The chapter engages biblical motifs (the garden, cherubim, tree of life) but develops them in the book's distinct theological framework.",
+  "externalReferences": "The chapter explicitly echoes Genesis 3:22–24, which describes God placing cherubim and a flaming sword to guard the tree of life after Adam and Eve's disobedience. Its discussion of universal sin, the need for an atonement, and God's justice and mercy resonates with Paul’s reflections on sin and justification in Romans 3:23–26, where atonement is presented as necessary for God to be just and the justifier. The argument about the Atonement's role in enabling mercy without nullifying justice also connects with Alma’s earlier teaching in Alma 7:11–13, which foretells Christ’s suffering to succor and atone for mankind.",
+  "seeAlso": [
+    "Genesis 3:22-24",
+    "Romans 3:23-26",
+    "Alma 7:11-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Fall and Probation"
+    },
+    {
+      "range": "7-16",
+      "title": "Need for Atonement"
+    },
+    {
+      "range": "17-31",
+      "title": "Justice, Mercy, Repentance"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Mercy",
+    "Atonement",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "How does the idea that law and consequences make genuine repentance possible change the way I respond to my own failures?",
+    "In what ways can I hold both a sense of divine justice and a posture of mercy toward others who have sinned?",
+    "How should the assurance of an available Atonement shape my approach to guilt, confession, and humility?",
+    "What responsibilities does this teaching imply for someone called to preach or counsel others toward repentance?"
+  ],
+  "uncertainAreas": "The text assumes an addressee ('my son') identified earlier in the narrative but does not name him here; I inferred the usual identification (Corianton) from the broader Book of Mormon context. Some terms—e.g., the precise meaning of the ‘‘punishment…which also was eternal as the life of the soul’’ and the mechanics of how mercy 'claims' the penitent while justice 'exercises all his demands'—are theologically dense and have been interpreted differently in various traditions; the chapter states the principles but leaves room for doctrinal nuance about the nature and duration of punishments and restorations.",
+  "createdAt": "2025-10-19T00:15:50.106Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

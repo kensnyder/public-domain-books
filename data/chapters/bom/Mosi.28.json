@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Mosi.28",
+  "briefOverview": "King Mosiah’s sons seek permission to preach to the Lamanites, and Mosiah preserves and transfers sacred records and the means of interpreting them.",
+  "summary": "The sons of Mosiah, moved by compassion for the Lamanites, ask King Mosiah for permission to return to the land of Nephi with a small band to preach and convert them; Mosiah consults the Lord, receives approval, and they depart. King Mosiah, having no son willing to accept the throne, translates additional ancient records (the plates of gold found by Limhi) using two stones fastened in the rims of a bow—called interpreters—and explains that these instruments were prepared to interpret languages and that their possessors are called seers. The translated account traces the destroyed people back to the tower when languages were confounded and all the way to the creation of Adam; the narrative causes mourning but also rejoicing for the knowledge gained. Finally, Mosiah confers all the records, the interpreters, and the responsibility of keeping the people’s history upon Alma (the son of Alma) to preserve them for future generations.",
+  "externalContext": "Within the Book of Mormon narrative, the plates of brass, plates of Nephi, and the golden plates are portrayed as family and national record-keeping media analogous to ancient Near Eastern inscription traditions. The ‘‘interpreters’’ or ‘‘seers’’ described here function like prophetic instruments and have often been compared to the biblical Urim and Thummim (a device associated with Israelite priestly consultation in Exodus). The episode reflects themes common to ancient record cultures—preservation, authorized interpretation, and the transfer of custodial responsibility across generations.",
+  "externalReferences": "The chapter explicitly connects its account to Genesis 11 (the tower and the confounding of languages) and to the creation narratives in Genesis 1–2 when it traces the records back to the creation of Adam. The idea of an interpretive device for divine revelation or decision-making recalls Exodus 28:30 (the Urim and Thummim) in the Hebrew Bible. Internally in the Book of Mormon, the chapter refers back to earlier episodes about Lehi’s departure from Jerusalem and the obtaining of the brass plates (see 1 Nephi) and forward to the missionary labors of the sons of Mosiah (see Alma 17–26).",
+  "seeAlso": [
+    "Genesis 11:1-9",
+    "Genesis 1:1-2:3",
+    "Exodus 28:30",
+    "1 Nephi 3:1-5:22",
+    "Alma 17:1-26:37",
+    "Mosiah 27:1-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Request to Missionize"
+    },
+    {
+      "range": "10-17",
+      "title": "Translation and Interpreters"
+    },
+    {
+      "range": "18-21",
+      "title": "Records Conferred to Alma"
+    }
+  ],
+  "themes": [
+    "Missionary zeal",
+    "Revelation",
+    "Record-keeping",
+    "Repentance and mercy"
+  ],
+  "practicalQuestions": [
+    "How should compassion for those we consider outsiders shape our priorities for outreach and service?",
+    "What practices can a community use to preserve its history and values for future generations?",
+    "How do we evaluate and treat claims of special instruments or authorities for discerning truth within a faith community?",
+    "When leadership succession is uncertain, what safeguards help ensure continuity of teaching and record-keeping?"
+  ],
+  "uncertainAreas": "The precise nature and physical description of the ‘‘interpreters’’ (‘‘two stones…in the rims of a bow’’) is ambiguous and open to different readings; the identity and historical status of the ‘‘people who were destroyed’’ referenced in the translation are not detailed here; larger questions about the historicity of the plates and the means of translation lie beyond the chapter’s internal claims and so were not assumed or resolved.",
+  "createdAt": "2025-10-18T23:38:38.203Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

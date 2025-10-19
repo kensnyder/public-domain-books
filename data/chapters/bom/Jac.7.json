@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jac.7",
+  "briefOverview": "Jacob records the confrontation with an anti‑Christ figure, Sherem, who denies the coming Messiah and is subsequently confounded, confesses, and dies. The episode restores faith among the people and closes Jacob's brief record.",
+  "summary": "A man named Sherem arises among the Nephites, teaching that there will be no Christ and using persuasion and flattery to lead people away from Jacob’s teachings (1–4). Sherem targets Jacob specifically, arguing that the law of Moses alone is the proper worship and that prophecy about a coming Christ is blasphemy (5–11). Jacob, strengthened by revelations and the Spirit, challenges him; Sherem demands a sign, and when Jacob calls on the Lord the power of God smites Sherem and he falls (12–16). Sherem later gathers the people, confesses that he was deceived by the devil, affirms belief in Christ and angels, fears he has committed the unpardonable sin, and then dies (17–20). The people are moved by these events, repent, search the scriptures, and peace and love are restored among the Nephites; meanwhile hostilities with the Lamanites continue and the Nephites fortify themselves (21–25). Jacob, now old, hands the plates to his son Enos and concludes his short record, reflecting on the sorrowful, wandering condition of their people (26–27).",
+  "externalContext": "Within the larger narrative of the Book of Mormon, Jacob is presented as the younger brother of Nephi and a Nephite religious leader who keeps the small plates containing spiritual teachings and testimonies. Debates over the law of Moses and the role of prophetic anticipation of a Messiah reflect a Second Temple–period cultural background where prophetic interpretation, messianic expectation, and disputation about signs were common. The episode also fits a broader ancient Near Eastern pattern of public disputation and demand for signs as tests of prophetic authority.",
+  "externalReferences": "The concern about denying or blaspheming the Holy Spirit echoes New Testament warnings about the unforgivable sin (see Matthew 12:31–32; Mark 3:28–30), which also link deliberate persistent rejection of divine testimony with peril. Jacob’s assertion that the prophets testify of Christ finds parallels in Luke 24:27, where Jesus explains the Scriptures as pointing to him, and in Isaiah’s messianic passages (e.g., Isaiah 53:3–5) that later tradition reads as predicting a suffering deliverer. The tension between adherence to the law of Moses and belief in a coming Messiah is analogous to New Testament discussions about law and fulfillment (see Matthew 5:17).",
+  "seeAlso": [
+    "Matthew 12:31–32",
+    "Mark 3:28–30",
+    "Luke 24:27",
+    "Isaiah 53:3–5",
+    "Matthew 5:17",
+    "Jacob 1:1–19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Sherem's Denial"
+    },
+    {
+      "range": "12-20",
+      "title": "Sign, Confession, Death"
+    },
+    {
+      "range": "21-27",
+      "title": "Aftermath and Farewell"
+    }
+  ],
+  "themes": [
+    "Christ",
+    "Faith vs. Deception",
+    "Signs and Authority",
+    "Community Restoration"
+  ],
+  "practicalQuestions": [
+    "How should a faith community respond when persuasive teachers challenge foundational beliefs?",
+    "What role should signs or miracles play in confirming religious claims today?",
+    "How can leaders guard against flattery and sophistry while engaging respectfully with critics?",
+    "When someone publicly recants harmful teachings, what steps foster genuine repentance and community healing?"
+  ],
+  "uncertainAreas": "I was uncertain about historical details outside the narrative (e.g., exact dating and historicity of Sherem), the precise theological status of Sherem’s final confession regarding forgiveness (the text records his fear about the unpardonable sin but is ambiguous about his ultimate fate), and the specific methods attempted to reclaim the Lamanites, which the chapter summarizes without detail.",
+  "createdAt": "2025-10-18T23:21:50.499Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

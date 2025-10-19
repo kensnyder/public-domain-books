@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Mosi.10",
+  "briefOverview": "Zeniff describes a long period of peace and prosperity followed by renewed Lamanite aggression, a defensive mobilization, and a decisive Nephite victory, after which he hands the kingdom to his son.",
+  "summary": "Zeniff recounts that after settling the land his people enjoyed twenty-two years of peace, prosperity, and organized agricultural and textile labor while he prepared arms and posted guards. King Laman died and his successor incited the Lamanites to attack; Zeniff used spies to learn of their movements and hid noncombatants while mustering all able-bodied men and elders to fight. Though the Lamanites were strong and hostile, Zeniff says they lacked knowledge of the Lord; he reminds his people of the traditional hatred taught against the children of Nephi. Trusting in the Lord, Zeniff (even in his old age) leads his people into battle, they rout the Lamanites with great slaughter, return to their lands, and Zeniff transfers the kingdom to one of his sons and closes his narrative with a blessing on his people.",
+  "externalContext": "The Book of Mosiah is part of the Book of Mormon, which frames a narrative of two peoples—Nephites and Lamanites—descended from Lehi, a family that left Jerusalem. Tensions between these groups are a recurring theme in the text and are often described as rooted in remembered wrongs and differing religious fidelity. References to items like plates of brass and journeys in the wilderness recall earlier material in the work (the 1 Nephi narrative) that situates these events within a longer tradition of migration and record-keeping.",
+  "externalReferences": "The account alludes to episodes in the early Nephi narrative where Nephi obtains the brass plates and leads his people (see 1 Nephi 3–5 for the plates and 1 Nephi 16–18 for wilderness and sea travel). The formal separation and naming of Nephites and Lamanites and the transmission of ancestral enmity is recounted earlier in 2 Nephi 5, which explains the origin of deep-seated hostility between the groups. The motif of trusting in the Lord in battle echoes other Book of Mormon passages that emphasize divine aid in warfare, though specific parallels are developed elsewhere in the record.",
+  "seeAlso": [
+    "1 Nephi 3:1–4:18",
+    "1 Nephi 16:1–18:24",
+    "2 Nephi 5:1–21",
+    "Mosiah 9:1–18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–5",
+      "title": "Peace and Preparation"
+    },
+    {
+      "range": "6–21",
+      "title": "Lamanite Assault and Victory"
+    },
+    {
+      "range": "22",
+      "title": "Succession and Closing"
+    }
+  ],
+  "themes": [
+    "Defense",
+    "Trust in the Lord",
+    "Ancestral hatred",
+    "Leadership transfer"
+  ],
+  "practicalQuestions": [
+    "How should communities balance preparing defenses with pursuing and sustaining peace?",
+    "In what ways do inherited grievances shape present conflicts, and how can they be interrupted?",
+    "How can leaders encourage trust in transcendent or communal resources while also taking practical precautions?",
+    "What responsibilities do elder leaders have for participating in communal defense and for orderly succession?"
+  ],
+  "uncertainAreas": "Exact historical dating and archaeological correlates of the events are not specified in the text. Some characterizations (e.g., the Lamanites as 'wild' and 'blood-thirsty') reflect the narrator's perspective and may oversimplify complex social realities; the degree to which Zeniff's prior negotiations with Lamanite rulers were deceptive or mutually deceitful is also hard to assess from this chapter alone.",
+  "createdAt": "2025-10-18T23:29:10.903Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

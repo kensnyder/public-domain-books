@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Mosi.12",
+  "briefOverview": "A prophet (Abinadi) denounces the people's corruption and predicts divine judgment, is seized and questioned, and then confronts the priests for hypocrisy and failure to keep the law of Moses.",
+  "summary": "Abinadi, having come among the people in disguise, proclaims that because of their iniquities the Lord will visit them with bondage, famine, pestilence, and other judgments unless they repent. His warnings include vivid images of destruction and the humiliation of King Noah. The people seize Abinadi and bring him bound before the king; he is imprisoned and the priests assemble to question him, hoping to trap him. Abinadi boldly withstands their questioning and then rebukes them for perverting the ways of the Lord, charging them with greed, sexual immorality, and failing to teach or keep what they claim to teach. He challenges their assertion that salvation comes by the law of Moses and cites core commandments (beginning with the declaration 'I am the Lord thy God' and prohibitions against other gods and graven images) to show they do not practice what they profess.",
+  "externalContext": "The chapter is set in the Book of Mormon narrative during the reign of King Noah, a period characterized by political and religious corruption among a Nephite community. In the broader ancient Near Eastern and Israelite prophetic tradition, prophets frequently confronted rulers and elites with calls to repentance and warnings of national judgment. The law of Moses (including the Ten Commandments) functioned as the foundational covenant code in Israelite religion, so claiming to 'teach the law of Moses' carried strong social and religious authority.",
+  "externalReferences": "The quoted passage beginning 'How beautiful upon the mountains are the feet of him that bringeth good tidings...' closely parallels Isaiah 52:7–10, suggesting Abinadi is citing or alluding to that prophetic text. The commandments Abinadi cites ('I am the Lord thy God... Thou shalt have no other God... Thou shalt not make... any graven image') correspond to the opening of the Decalogue in Exodus 20:2–4. Within the same Book of Mormon narrative, Abinadi's ministry continues in Mosiah 13–16 (where he expands on the law, the coming Messiah, and the Atonement) and concludes with his trial and execution recorded in Mosiah 17.",
+  "seeAlso": [
+    "Isaiah 52:7-10",
+    "Exodus 20:2-4",
+    "Mosiah 13-16",
+    "Mosiah 17:1-10",
+    "Mosiah 11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Prophetic Warnings of Judgment"
+    },
+    {
+      "range": "9-19",
+      "title": "Arrest and Interrogation"
+    },
+    {
+      "range": "20-37",
+      "title": "Rebuke of the Priests"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Judgment",
+    "Hypocrisy",
+    "Law"
+  ],
+  "practicalQuestions": [
+    "When religious leaders teach moral or covenant obligations, how should their personal conduct be assessed and addressed?",
+    "How can communities receive and respond constructively to uncomfortable prophetic warnings?",
+    "What does it mean to 'teach' a law or ethic — how should teaching be matched by practice?",
+    "In what ways should warnings about communal consequences (e.g., injustice leading to social breakdown) shape public and private repentance?"
+  ],
+  "uncertainAreas": "Whether Abinadi's quotation of Isaiah is direct, a translation, or an inspired rephrasing is not explicit. The text leaves ambiguous the motives of some individuals (e.g., whether all priests were hypocritical or if some merely went along), and it does not explain why Abinadi remained in disguise for two years.",
+  "createdAt": "2025-10-18T23:30:21.117Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

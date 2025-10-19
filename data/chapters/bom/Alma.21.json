@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Alma.21",
+  "briefOverview": "A narrative of missionary activity among hostile groups, showing opposition to preaching and eventual conversions through persistent testimony about Christ's atonement and resurrection.",
+  "summary": "Aaron and his brethren travel into Lamanite territory and Aaron begins preaching in the city called Jerusalem, focusing first on the Amalekites who follow the order of Nehor. He teaches about the coming Messiah, the resurrection, and that redemption comes only through Christ's suffering and atonement; his message is met with mockery and argument. After being rejected in the synagogues, Aaron finds fellow missionaries preaching in a village, they continue their work, many harden their hearts, and some missionaries are imprisoned. Lamoni and Ammon intervene to free those imprisoned; the missionaries continue wherever the Spirit leads, ultimately bringing many to conviction and correcting wrongful traditions. Meanwhile Ammon and Lamoni return to Ishmael, where Lamoni establishes synagogues, permits religious liberty under his reign, and Ammon diligently instructs the people in righteousness, who respond zealously.",
+  "externalContext": "Within the Book of Mormon narrative, the Nehors represent a rival religious movement that rejected authoritative priesthood and taught universal salvation; 'synagogues after the order of the Nehors' indicates organized local gatherings influenced by that teaching. The names and peoples (Lamanites, Amalekites, Amulonites) are part of the book's internal ethnography of ancient American societies, and the city named Jerusalem here is a local place-name rather than the Old World Jerusalem.",
+  "externalReferences": "The chapter's emphasis that redemption comes only through the suffering of Christ and the reality of the resurrection echoes passages such as Isaiah 53:3–5 (the suffering servant) and New Testament treatments of atonement and resurrection like Romans 5:6–11 and 1 Corinthians 15. The pattern of missionary opposition, imprisonment, deliverance, and subsequent conversions parallels other missionary narratives in the Book of Mormon (for example, the larger Ammonite/Lamoni episodes recorded in Alma 17–20).",
+  "seeAlso": [
+    "Isaiah 53:3–5",
+    "1 Corinthians 15",
+    "Romans 5:6–11",
+    "Alma 17–20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Arrival and First Preaching"
+    },
+    {
+      "range": "5-16",
+      "title": "Controversy and Imprisonment"
+    },
+    {
+      "range": "17-23",
+      "title": "Conversions and Liberty"
+    }
+  ],
+  "themes": [
+    "Missionary work",
+    "Conversion",
+    "Religious opposition",
+    "Atonement and resurrection"
+  ],
+  "practicalQuestions": [
+    "How should one present core doctrines (like atonement and resurrection) when listeners dismiss them as 'foolish traditions'?",
+    "What strategies from these missionaries can be applied today when facing entrenched or hostile religious communities?",
+    "How can communities provide protection and practical care (food, clothing) for those who suffer for their beliefs?",
+    "In what ways can leaders balance civil authority and religious liberty, as Lamoni does for his people?"
+  ],
+  "uncertainAreas": "The chapter presumes background knowledge (e.g., the doctrines of Nehor and identities of smaller groups like the Amalekites/Amulonites) that is not fully explained here; the precise historical or geographic correspondences for these peoples and the Lamanite 'Jerusalem' are unclear from the text alone.",
+  "createdAt": "2025-10-18T23:54:01.653Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

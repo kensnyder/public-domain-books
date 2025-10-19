@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Alma.16",
+  "briefOverview": "A Lamanite assault destroys Ammonihah but Nephite forces, led by Zoram and his sons after seeking Alma's counsel, rescue captives; afterward Alma, Amulek, and other servants spread repentance and establish a more equal church.",
+  "summary": "A sudden Lamanite attack overruns and destroys the city of Ammonihah and nearby settlements, carrying off some people as captives. Zoram, a Nephite military commander, and his sons consult Alma, who inquires of the Lord and directs them to intercept the Lamanites beyond Manti on the east of the river Sidon. They engage, rout the Lamanites, recover all the captives without loss, and return them to their lands. Ammonihah is left completely desolate and becomes known as the Desolation of Nehors; its carcasses are left exposed and its land remains unoccupied for years. For the next three years there is peace, during which Alma, Amulek, and many others preach repentance widely—teaching against many specific sins, testifying of the coming, suffering, death, and resurrection of the Son of God, and fostering an established church characterized by spiritual outpouring and an absence of inequality.",
+  "externalContext": "The narrative sits in the larger Book of Mormon setting of recurring conflict between Nephites and Lamanites and of internal religious reform. The river Sidon is a recurring geographic marker for military movements in Nephite history. The reference to Nehor recalls an earlier doctrinal conflict (the movement of Nehoric teaching opposed by righteous leaders) that had resulted in violence and executions, which helps explain why the desolated place is called \"Desolation of Nehors.\" The system of judges and dating by years of the judges is the political framework used in this period of Nephite history.",
+  "externalReferences": "The chapter continues and reflects earlier narrative threads in the same work about missionary labor and the destruction of Ammonihah (previously narrated in the Alma narrative), and it echoes earlier polemics against the teachings of Nehor. The image of being \"grafted into the true vine\" and the strong focus on Christ's sufferings, death, and resurrection parallels New Testament imagery and teaching, notably the vine language in John 15:1–6 and grafting language in Romans 11:17–24, while prophecies of suffering and vindication have affinities with passages like Isaiah 53:3–5.",
+  "seeAlso": [
+    "John 15:1-6",
+    "Romans 11:17-24",
+    "Isaiah 53:3-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Invasion and Rescue"
+    },
+    {
+      "range": "12-21",
+      "title": "Peace and Preaching"
+    }
+  ],
+  "themes": [
+    "War and deliverance",
+    "Divine judgment",
+    "Repentance",
+    "Christ's suffering"
+  ],
+  "practicalQuestions": [
+    "How should a faith community respond to trauma and loss while seeking restorative justice for victims?",
+    "What practices help prepare people's hearts to receive transformative teaching, as described by the outpouring of the Spirit here?",
+    "How can contemporary communities live out the chapter's claim of \"no inequality\" in practical, institutional ways?",
+    "How do teachings about the suffering, death, and resurrection of a savior shape ethical urgency for repentance and social reform today?"
+  ],
+  "uncertainAreas": "The text does not explain the detailed motives behind the Lamanite destruction of Ammonihah or the precise timeline for how the city remained desolate; the identification of \"Nehor\" as the cause-name is interpretive. The exact scriptural or cultural source intended by the \"grafted into the true vine\" image (vines vs. olives, Old vs. New Testament analogues) is ambiguous and could be read in multiple intertextual ways.",
+  "createdAt": "2025-10-18T23:52:30.838Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

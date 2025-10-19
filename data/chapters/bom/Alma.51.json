@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Alma.51",
+  "briefOverview": "The chapter contrasts internal political division over government and law with an external military threat, showing how Moroni enforces unity and defends the republic against Amalickiah's invasion.",
+  "summary": "A dispute arises in the twenty-fifth year of the judges over Chief Judge Pahoran when a faction called \"king-men\" seeks to alter the law and establish a king, while \"freemen\" support the existing government; the people uphold Pahoran. Moroni obtains authority to compel or punish the dissenters, marches against the king-men, and violently suppresses them—about four thousand are killed and others forced to take up the title of liberty and defend the country. While Moroni restores internal order and readies defenses, Amalickiah leads large Lamanite forces down the eastern seaboard, capturing several fortified cities. Teancum confronts Amalickiah at Bountiful, surprises him at night, and kills him with a javelin, ending Amalickiah's campaign for that year.",
+  "externalContext": "This episode occurs during the Book of Mormon period called the reign of the judges, a time when the Nephite polity alternated between systems of judges and fears of monarchy; debates about kingship versus a republic are a recurring political theme. Moroni functions as the chief military leader and protector of the republic, repeatedly organizing fortifications and citizen militias to meet Lamanite invasions. The chapter reflects ancient concerns about factionalism and how internal dissent can threaten a community's security.",
+  "externalReferences": "The chapter echoes earlier Book of Mormon material in which the threat of king-men and the raising of a \"title of liberty\" are introduced as responses to proposals to establish a king and as rallies for defending freedoms. Moroni's role here continues themes from previous accounts of his military preparations and fortifications, showing continuity in his leadership and strategy against Lamanite aggression.",
+  "seeAlso": [],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Political Contest"
+    },
+    {
+      "range": "8-21",
+      "title": "Suppressing Dissent"
+    },
+    {
+      "range": "22-31",
+      "title": "Lamanite Advance"
+    },
+    {
+      "range": "32-37",
+      "title": "Teancum's Assassination"
+    }
+  ],
+  "themes": [
+    "Political division",
+    "Liberty vs monarchy",
+    "Military leadership",
+    "Security"
+  ],
+  "practicalQuestions": [
+    "How should a society balance respect for lawful dissent with the need to preserve common security in times of external threat?",
+    "What ethical limits, if any, should constrain force used by leaders to restore internal unity?",
+    "When is it appropriate for citizens to put aside factional grievances to respond to a common danger?",
+    "How can leaders prevent elite interests from undermining public institutions without escalating violence?"
+  ],
+  "uncertainAreas": "Uncertainties include the precise legal authority Moroni exercised to execute or imprison dissenters, the depth and representativeness of popular support for the harsh measures, and exact casualty numbers and logistics of the campaigns; the text presents events narratively without detailed legal or archaeological corroboration.",
+  "createdAt": "2025-10-19T00:20:33.783Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

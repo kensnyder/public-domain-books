@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Mosi.20",
+  "briefOverview": "A raid on Lamanite maidens leads to a pitched battle between Limhi's people and the Lamanites, ending with the capture and mercy shown to the Lamanite king and a negotiated peace.",
+  "summary": "A small group of Lamanite daughters gathered to sing and dance are secretly seized by priests of King Noah hiding in the wilderness. The Lamanites—assuming Limhi's people carried off the girls—prepare for war and march against Limhi. Limhi, having observed their approach, ambushes them and inflicts heavy casualties; the Lamanite king is found wounded and captured. Gideon and others identify the true perpetrators as the fleeing priests of King Noah, and Limhi orders an inquiry. Limhi confronts the captured Lamanite king, learns the reason for the attack (the missing daughters), then chooses mercy: he honors his oath, approaches the Lamanites unarmed, and the Lamanites, moved by this gesture, accept peace and return home.",
+  "externalContext": "The episode fits within the larger Book of Mormon narrative of recurrent conflict between Nephite-descended groups and Lamanites, where cycles of retaliation, hostage-taking, and diplomacy are common. In the ancient Near Eastern and early American contexts (as represented in the Book of Mormon), oaths, kingship, and public festivals (dancing/singing by young women) could become flashpoints for intergroup violence. The story reflects cultural weight given to honor, kin protection, and the political importance of oaths and treaty-keeping.",
+  "externalReferences": "The chapter explicitly invokes the prophecies of Abinadi as a moral warning motivating Limhi’s caution and humility; Abinadi’s proclamation against King Noah and related teachings appear earlier in Mosiah (see especially Mosiah 13–17). The episode continues the storyline about the priests of King Noah who fled into the wilderness and the vulnerable condition of Limhi’s people, topics developed in adjacent chapters of Mosiah that narrate King Noah’s reign and its aftermath.",
+  "seeAlso": [
+    "Mosiah 13–17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Abduction at Shemlon"
+    },
+    {
+      "range": "6-13",
+      "title": "Battle and Capture"
+    },
+    {
+      "range": "14-26",
+      "title": "Oath, Mercy, and Peace"
+    }
+  ],
+  "themes": [
+    "Conflict",
+    "Oaths",
+    "Mercy",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How should modern communities verify accusations before retaliating on behalf of missing persons?",
+    "When is it morally preferable to accept disadvantage (bondage) rather than continue violent conflict?",
+    "How can leaders model restraint and uphold oaths in ways that de-escalate cycles of violence?",
+    "What role does compassion toward an enemy play in achieving lasting peace?"
+  ],
+  "uncertainAreas": "I was cautious about precise cross-references for the priests of King Noah and the exact chapters that narrate Limhi’s earlier history; I cited Abinadi’s prophecies (Mosiah 13–17) with greater confidence than the placement of every related episode in surrounding Mosiah chapters.",
+  "createdAt": "2025-10-18T23:34:46.854Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

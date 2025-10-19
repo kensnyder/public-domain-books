@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Alma.4",
+  "briefOverview": "Alma records a cycle of repentance followed by pride among his people, then responds by resigning the civil judgeship to concentrate on religious leadership and reform.",
+  "summary": "After a period of war and loss, many in Zarahemla repent, join the church, and are baptized, bringing several years of peace. Prosperity then breeds pride among church members, leading to inequality, persecution of the poor, and internal contention that weakens the church's witness. Alma is deeply grieved by the abuses and the way the faithful are persecuted, and he appoints Nephihah as chief judge to enforce civic law while retaining the high priesthood. Alma gives up the judgment-seat so he can travel among the people and preach, aiming to correct pride and reclaim the community through testimony and prophetic instruction.",
+  "externalContext": "In Nephite history the political system had shifted away from monarchy toward elected judges (see Mosiah 29), so the appointment of a chief judge fits a broader move to separate civil governance from hereditary kingship. Rivers like Sidon and cities such as Zarahemla are recurring geographic markers of central Nephite population centers. Social anxiety about wealth, public religiosity, and the responsibilities of the rich toward the poor reflect longstanding ancient Near Eastern and Greco-Roman concerns about communal obligations, though the Book of Mormon presents them within its own covenantal framework.",
+  "externalReferences": "The change to a judgeship system is described earlier in Mosiah 29 (establishing judges as the governing structure). Alma’s later sermons (for example, the extensive repentance summonses beginning in Alma 5) continue the themes of calling people to remember their duties and resist pride. The chapter’s emphasis on care for the poor and condemnation of pride resonates with passages like Matthew 25:31–46 (care for the needy) and 1 Corinthians 15:20–22 (the resurrection), which share similar doctrinal concerns about charity and hope in resurrection.",
+  "seeAlso": [
+    "Mosiah 29",
+    "Alma 5",
+    "Matthew 25:31-46",
+    "1 Corinthians 15:20-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Repentance and Growth"
+    },
+    {
+      "range": "6-15",
+      "title": "Pride and Inequality"
+    },
+    {
+      "range": "16-20",
+      "title": "Judicial Reform and Ministry"
+    }
+  ],
+  "themes": [
+    "Pride",
+    "Inequality",
+    "Leadership",
+    "Charity"
+  ],
+  "practicalQuestions": [
+    "How should religious communities guard against social inequality and the spiritual dangers of wealth?",
+    "When is it appropriate for religious leaders to step back from civil authority to focus on spiritual duties?",
+    "What concrete practices can a faith community use to ensure the poor and vulnerable are not neglected?",
+    "How can testimony and prophetic teaching be used constructively to correct communal abuses without increasing division?"
+  ],
+  "uncertainAreas": "I was cautious about citing the precise earlier verse describing Alma's original consecration by his father (the chapter itself states it) and about fine chronological details of Nephite civic developments; I relied on the broader narrative arc (Mosiah's reform to judges) without reconstructing precise dates or family chronologies beyond what the chapter states.",
+  "createdAt": "2025-10-18T23:41:03.635Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

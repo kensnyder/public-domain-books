@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Alma.14",
+  "briefOverview": "Alma and Amulek face violent opposition in Ammonihah: believers are martyred by fire, the two missionaries are imprisoned and abused, and God miraculously delivers them by destroying the prison and its persecutors.",
+  "summary": "After preaching, Alma and Amulek are arrested by an angry majority in Ammonihah who accuse them of reviling the law. Zeezrom repents but is rejected; many believers are cast into the fire and their scriptures are burned. Alma and Amulek are bound, mocked, beaten, deprived, and threatened with execution; Amulek urges intervention to save the victims, but Alma says the Spirit forbids it and that God permits the martyrdoms so their blood may witness against the wicked. After days in prison and repeated abuse, the persecutors demand the missionaries prove their power; the power of God comes upon Alma and Amulek, their bonds are broken, the prison walls collapse, and all inside are killed except Alma and Amulek, who emerge unharmed, causing the people to flee in fear.",
+  "externalContext": "This narrative is set in the Nephite period known as the 'reign of the judges' and depicts intense factional religious conflict, particularly involving adherents of the 'order of Nehor,' a group earlier associated with priestcraft and violent opposition (see Alma 1). Practices such as public executions and burning of records reflect ancient Near Eastern and Mediterranean realities where political and religious leaders sometimes used capital punishment and censorship to enforce conformity. The episode fits a broader ancient scriptural motif in which prophets and their followers suffer persecution and sometimes receive dramatic divine vindication.",
+  "externalReferences": "The chapter explicitly echoes earlier Book of Mormon accounts: the 'order and faith of Nehor' who slew Gideon is recounted in Alma 1:16. Alma and Amulek’s consistent testimony about the coming Son of God resonates with Alma’s other sermons (e.g., Alma 7:10–13) and with Amulek’s later developed arguments about the Atonement (see Alma 34). The theme of martyrdom and blood as a witness also recalls prophetic motifs elsewhere in scripture where unjustly shed blood is said to cry out for justice (compare Genesis 4:10).",
+  "seeAlso": [
+    "Alma 1:16",
+    "Alma 7:10-13",
+    "Alma 34:8-16",
+    "Genesis 4:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Rejection and Martyrdom"
+    },
+    {
+      "range": "10-23",
+      "title": "Imprisonment and Suffering"
+    },
+    {
+      "range": "24-29",
+      "title": "Divine Deliverance"
+    }
+  ],
+  "themes": [
+    "Persecution",
+    "Martyrdom",
+    "Faith and Deliverance",
+    "Divine Justice"
+  ],
+  "practicalQuestions": [
+    "When confronted with urgent suffering, how do we discern whether to act immediately or to trust perceived divine restraint as Alma describes?",
+    "How should religious communities respond when civil authorities suppress beliefs and destroy sacred texts?",
+    "What responsibilities do believers have toward those who repent (like Zeezrom) but are rejected by their community?",
+    "How can the memory of martyrs inform contemporary commitments to religious freedom and protection of minorities?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous why the Spirit specifically forbade direct intervention to save the burning victims (whether to preserve divine justice, to allow their martyr witness, or for other reasons). The motives and legal standing of the chief judge and the precise social composition of the 'order of Nehor' beyond what is stated are not fully detailed here.",
+  "createdAt": "2025-10-18T23:51:22.465Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

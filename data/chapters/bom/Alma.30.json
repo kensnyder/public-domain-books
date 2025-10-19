@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Alma.30",
+  "briefOverview": "A period of peace is interrupted by the arrival of Korihor, an anti-Christ figure who preaches atheism and lawlessness; Alma confronts him and God vindicates prophetic authority through a miraculous sign.",
+  "summary": "After a time of peace and faithful observance of commandments, Korihor arrives preaching that there will be no Christ and that prophecies and ordinances are vain, leading many into sin. He moves among several groups (including the converted people of Ammon and the Nephites), is bound and brought before local religious and civil leaders for causing disturbance. Korihor accuses priests of using traditions to enslave people, but when confronted by Alma he claims he will believe only if shown a sign. Alma pronounces a sign and Korihor is struck dumb; he confesses that a deceiving spirit led him and asks for relief, which Alma refuses for fear he would re-lead others. Korihor ends up cast out and begging, later killed by a mob among the Zoramites, and his fate is presented as an example of the fate of those who pervert God's ways.",
+  "externalContext": "Alma is both a religious leader (high priest) and part of the civil authority during the ‘reign of the judges’ period in the Book of Mormon narrative; the people of Ammon were formerly Lamanites who converted and were granted land (Jershon). Public debates between prophets/priests and dissenting teachers reflect ancient Mediterranean and Near Eastern concerns about prophetic authority, communal order, and the social effects of competing ideologies. The chapter reflects a culture that values both revealed scripture and prophetic witness alongside civil law.",
+  "externalReferences": "The call to choose whom to serve echoes Joshua 24:15, which uses similar language about choosing whom you will serve. The chapter’s claim that Christ will be slain for sins corresponds to messianic suffering texts such as Isaiah 53:3–5 in the Hebrew Bible. Alma’s appeal to the created world as testimony of a Supreme Creator resonates with arguments about general revelation, for example Romans 1:20, which argues that nature testifies to God’s existence.",
+  "seeAlso": [
+    "Joshua 24:15",
+    "Isaiah 53:3–5",
+    "Romans 1:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Peace and Observance"
+    },
+    {
+      "range": "6-31",
+      "title": "Korihor's Teaching and Arrest"
+    },
+    {
+      "range": "32-56",
+      "title": "Alma's Trial and Sign"
+    }
+  ],
+  "themes": [
+    "False teaching",
+    "Faith and testimony",
+    "Divine justice",
+    "Free agency"
+  ],
+  "practicalQuestions": [
+    "How should a religious community respond when persuasive critics encourage people to abandon shared beliefs without committing crimes?",
+    "When, if ever, is it appropriate to withhold restoration from someone who asks for forgiveness out of concern they will repeat harm?",
+    "What safeguards can communities use to distinguish sincere doubt from manipulative teaching that leads to social harm?",
+    "How do we weigh appeals to ‘evidence in nature’ versus experiential or scriptural testimony when discussing belief today?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous the degree to which Korihor’s affliction was judicial punishment versus a spiritual chastisement intended to protect the community; the exact nature of the ‘lying spirit’ and whether Korihor’s subsequent death was divine retribution or mob violence carries interpretive uncertainty. Also, precise historical markers (dates and synchronisms) internal to the Book of Mormon chronology are taken at face value here and cannot be independently verified from the chapter alone.",
+  "createdAt": "2025-10-18T23:58:27.366Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Alma.2",
+  "briefOverview": "A political revolt led by Amlici breaks out among the Nephites, escalating into a bloody civil war that draws in the Lamanites and ends with Alma personally fighting and praying for deliverance.",
+  "summary": "Amlici, a charismatic and worldly leader, gathers followers and attempts to be made king; the people vote against him, so his supporters consecrate him and prepare for war. The Nephites arm themselves and meet the Amlicites at the hill Amnihu, where the Lord strengthens the Nephites and the Amlicites suffer heavy losses. Spies report that the Amlicites have joined with a vast host of Lamanites, who then attack as the Nephites are crossing the river Sidon. After prayerful appeals, the Nephites rout the combined forces; Alma engages Amlici and the Lamanite king in personal combat, slays Amlici, and secures the crossing. The defeated enemy is pursued into the wilderness (Hermounts), where many die of wounds and predators, and their bones remain as evidence of the slaughter.",
+  "externalContext": "The narrative reflects a polity that has recently shifted from kingship to a system of judges (see Mosiah 29), so tensions over political authority and efforts to restore a king were real threats to civil and religious order in Nephite society. The pattern of internal dissension followed by external invasion echoes ancient Near Eastern and Mediterranean patterns where factionalism weakened societies and invited outside attack. The account's emphasis on prayer and divine aid during battle fits broader Israelite and prophetic traditions that link religious fidelity with military success.",
+  "externalReferences": "The killing of Gideon (mentioned here as the namesake of the valley) connects back to an earlier episode where Gideon was slain by Nehor (see Alma 1:8), which explains the valley's name and the continuing hostility tied to that event. The political background — concern that a king would deprive the people and the right of decision by popular voice — relates to Mosiah 29:26–28, where Mosiah describes the change from monarchy to a system of judges and the dangers of concentrated kingly power.",
+  "seeAlso": [
+    "Alma 1:8",
+    "Mosiah 29:26-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Amlici's Rebellion Begins"
+    },
+    {
+      "range": "12-21",
+      "title": "Preparation and First Battle"
+    },
+    {
+      "range": "22-38",
+      "title": "Lamanite Alliance and Pursuit"
+    }
+  ],
+  "themes": [
+    "Civil conflict",
+    "Divine deliverance",
+    "Leadership",
+    "Violence"
+  ],
+  "practicalQuestions": [
+    "How should a faith community respond when political ambition threatens its religious life and rights?",
+    "What role should prayer and spiritual leadership play when confronting public crises or violence?",
+    "How can societies prevent factionalism from inviting external threats?",
+    "How should communities care for the human and ecological consequences of war described in the text?"
+  ],
+  "uncertainAreas": "Precise identification of place names (Minon, Hermounts) and archaeological correlates is uncertain; the narrator's exact chronology and whether Alma's single combat accounts are literal or stylized battle-reporting are open to interpretation. The text's casualty figures and some character motivations (e.g., the full background of Amlici) are presented without broader documentary detail, leaving some historical specifics unclear.",
+  "createdAt": "2025-10-18T23:40:13.277Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

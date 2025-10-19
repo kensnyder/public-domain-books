@@ -1,8 +1,8 @@
 {
-  "inputTokens": 137412,
-  "outputTokens": 178804,
-  "totalTokens": 316216,
-  "reasoningTokens": 120768,
+  "inputTokens": 400054,
+  "outputTokens": 413123,
+  "totalTokens": 813177,
+  "reasoningTokens": 269440,
   "cachedInputTokens": 0,
-  "lastUpdated": "2025-10-18T23:03:05.196Z"
+  "lastUpdated": "2025-10-19T00:21:45.546Z"
 }

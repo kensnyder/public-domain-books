@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Mosi.18",
+  "briefOverview": "Alma gathers converts, institutes baptism and church organization at the waters of Mormon, and sets out ethical and communal rules for the new community before fleeing from the king's forces.",
+  "summary": "Alma, having repented and teaching Abinadi's message, gathers believers at the waters of Mormon where he teaches repentance, the resurrection, and redemption through Christ. He invites those who desire to enter God's fold to be baptized and administers baptisms, after which the baptized are filled with the Spirit and form the church of God. Alma ordains priests (one per fifty people), instructs them to teach only repentance and faith, requires unity and mutual support, establishes sabbath observance and weekly gatherings, and directs that priests labor for their support while receiving God's grace. He prescribes voluntary contributions distributed according to need and emphasizes both temporal and spiritual charity. The group numbers about two hundred and four at baptism, and later about four hundred and fifty when they depart into the wilderness upon learning the king is sending an army against them.",
+  "externalContext": "Within the narrative world of the Book of Mormon, kingship, prophetic teaching, and covenantal ritual (including water baptism) frame community identity much as they do in ancient Israelite and early Christian texts. Practices such as Sabbath observance, public assembly for teaching, and mutual provision for the needy resonate with Second Temple Jewish and early Christian communal ideals. The chapter's concern with covenant language, priestly authority, and ritual initiation reflects broader ancient Near Eastern and Mediterranean patterns of religious association and social organization.",
+  "externalReferences": "The chapter explicitly links Alma's teaching to Abinadi's earlier prophecies (see Mosiah 13–17), who spoke of Christ's sufferings and resurrection. The practice of baptism by water as an initiation rite recalls New Testament scenes of baptizing at places like Aenon (John 3:22–23) and theological discussions of resurrection found in 1 Corinthians 15:12–22 and the 'first resurrection' language of Revelation 20:4–6.\n\nAlma's instructions about communal support and priests laboring with their hands echo later New Testament teachings about leaders' conduct and the church's care for the needy (cf. 1 Timothy 5 and Acts 2:42–47).",
+  "seeAlso": [
+    "Mosiah 13:1–16:15",
+    "Mosiah 17:1–26",
+    "John 3:22–23",
+    "1 Corinthians 15:12–22",
+    "Revelation 20:4–6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Baptism and Initiation"
+    },
+    {
+      "range": "17-30",
+      "title": "Church Order and Charity"
+    },
+    {
+      "range": "31-35",
+      "title": "Discovery and Flight"
+    }
+  ],
+  "themes": [
+    "Baptism",
+    "Covenant community",
+    "Mutual aid",
+    "Persecution"
+  ],
+  "practicalQuestions": [
+    "How can contemporary faith communities enact the principle of bearing one another's burdens in practical, local ways?",
+    "What does 'standing as witnesses of God at all times' look like in pluralistic public spaces?",
+    "How should religious communities balance leaders' need for support with the instruction that leaders labor for their own sustenance?",
+    "How can groups maintain unity ('one faith and one baptism') without suppressing legitimate diversity of thought and practice?"
+  ],
+  "uncertainAreas": "Uncertainty about historicity and dating of the narrative events (as with the larger Book of Mormon) affects external historical claims. Textual details that are unclear include why Alma buries himself in water only the first baptism but not subsequently, and how the numbers reported (204 baptized versus 450 who later depart) precisely relate—whether additional converts joined afterward. The exact nature and duration of the priestly ordinations (one per fifty) and how that structure functioned long-term are also not fully detailed in the chapter.",
+  "createdAt": "2025-10-18T23:33:32.593Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

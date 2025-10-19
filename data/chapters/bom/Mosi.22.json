@@ -1,0 +1,35 @@
+{
+  "chapterOsisID": "Mosi.22",
+  "briefOverview": "A covert plan led by Gideon enables King Limhi's people to escape Lamanite bondage and join King Mosiah at Zarahemla, carrying their valuables and records.",
+  "summary": "Facing impossible odds against the numerous Lamanites, Limhi's people consult and accept Gideon's plan to escape by a hidden back pass while rendering the Lamanite guards helpless with wine. Gideon offers to pay the last tribute of wine himself and the people secretly drive their flocks, herds, families, and portable valuables into the wilderness under Ammon's guidance. They travel around the land of Shilom toward Zarahemla, carrying also their records, and after many days arrive and are joyfully received by Mosiah. The Lamanites pursue them for two days but lose the trail and are unable to follow further.",
+  "externalContext": "Within the Book of Mormon narrative, Zarahemla functions as a central Nephite polity and refuge; groups displaced or under duress often sought integration there. The Lamanites and Nephites represent rival social-political groups in this tradition, and tribute or forced labor is a recurring feature of their interactions. The mention of preserving and transferring 'records' reflects a persistent cultural and religious emphasis throughout the Book of Mormon on sacred and historical records as essential to identity and legal continuity.",
+  "externalReferences": "This episode continues the immediate narrative of Limhi's bondage and Ammon's role as a leader and guide recorded earlier in the Mosiah account. The high value placed on carrying the people's records with them echoes earlier Book of Mormon scenes that emphasize retrieving and preserving records (compare 1 Nephi 3–4 for the motif of securing important family/faith documents). The successful nonmilitary strategy and communal migration also resonate with broader biblical and scriptural themes of deliverance by flight and providential guidance.",
+  "seeAlso": [
+    "1 Nephi 3–4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Planning and Escape"
+    },
+    {
+      "range": "13-16",
+      "title": "Arrival and Pursuit"
+    }
+  ],
+  "themes": [
+    "Escape",
+    "Leadership",
+    "Deliverance",
+    "Records"
+  ],
+  "practicalQuestions": [
+    "When is it appropriate for a community to choose stealth and flight over open confrontation for the sake of survival?",
+    "How should leaders balance risk, consent of the people, and the welfare of vulnerable members when planning large-scale relocations?",
+    "What practical steps can communities today take to preserve important cultural and historical records in times of danger?",
+    "How do we evaluate the ethics of using deception or inducement (e.g., gifting wine) as a tactic in life-or-death situations?"
+  ],
+  "uncertainAreas": "The text gives limited geographic detail about the 'back pass' and route taken (land of Shilom, wilderness), so the precise location and travel conditions are unclear. The scale and composition of the pursuing Lamanite force and the exact nature of prior relations between Limhi's people and the Lamanites are not specified in this chapter.",
+  "createdAt": "2025-10-18T23:35:55.600Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

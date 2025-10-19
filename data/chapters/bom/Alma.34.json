@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Alma.34",
+  "briefOverview": "Amulek testifies of Christ’s necessary, infinite atonement and urges immediate repentance expressed through prayer, humility, and charitable deeds.",
+  "summary": "Amulek continues the discourse begun by Alma, affirming that Christ will come to atone for the sins of the world and arguing that only an infinite, eternal sacrifice can satisfy the demands of justice. He explains that the law of Moses pointed forward to this final sacrifice and that mercy and justice are reconciled through faith leading to repentance. Amulek gives practical exhortations to constant prayer (in public and private), to humility, to taking upon the name of Christ, and to active charity toward the needy. He warns strongly against procrastinating repentance, teaching that one sealed by the devil at death is cut off from the Spirit, and he closes with calls to watchfulness, patience amid affliction, and thanksgiving.",
+  "externalContext": "Alma and Amulek are missionary leaders preaching among the Nephites; their discourse reflects a prophetic-pastoral setting in which Jewish-style sacrificial language and the law of Moses are understood typologically to point to a coming Messiah. Concerns about ritual law, sacrificial blood, and requirements of justice reflect broader Second Temple Jewish ideas about sacrifice and atonement, though the Book of Mormon names non-biblical prophets (e.g., Zenos, Zenock) as earlier witnesses to the Messiah. The pastoral emphasis on prayer, almsgiving, and fear of divine judgment fits common ancient Near Eastern and early Christian moral teaching.",
+  "externalReferences": "The chapter explicitly appeals to the law of Moses and to earlier prophets (Zenos, Zenock) as pointing to the Messiah, paralleling themes in Isaiah’s suffering-servant passages (e.g., Isaiah 53:3–5) that anticipate vicarious suffering. The description of Christ as the Lamb whose blood makes garments white echoes New Testament language such as John 1:29 (“Lamb of God”) and Revelation’s imagery, while the argument that one sacrifice fulfills the law resonates with Hebrews 9:12–14 on Christ’s once-for-all atonement. Amulek’s exhortations to faith, repentance, and works parallel other Book of Mormon passages (e.g., Alma 7:11–13 on Christ bearing sins) and earlier teachings in Alma about planting the word and trying its goodness (see Alma 32).",
+  "seeAlso": [
+    "Isaiah 53:3–5",
+    "John 1:29",
+    "Hebrews 9:12–14",
+    "Alma 7:11–13",
+    "Alma 32:27–43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Christ’s Atonement Explained"
+    },
+    {
+      "range": "17-29",
+      "title": "Prayer and Charity"
+    },
+    {
+      "range": "30-41",
+      "title": "Urgency of Repentance"
+    }
+  ],
+  "themes": [
+    "Atonement",
+    "Repentance",
+    "Prayer",
+    "Charity"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate the continual, interior prayer life Amulek describes alongside regular spoken prayer?",
+    "In what concrete ways can my community ensure it does not 'turn away the needy' so that spiritual practice is not rendered vain?",
+    "What habits or excuses lead me to postpone repentance, and how can I address them today?",
+    "How should the tension between justice and mercy shape my response to wrongdoing in personal and civic contexts?"
+  ],
+  "uncertainAreas": "The text refers to non-biblical prophets (Zenos, Zenock) whose historical identities and textual origins are not clarified within the chapter. The exact theological scope of phrases like “infinite and eternal sacrifice” and the mechanics of being “sealed” by the devil at death are open to interpretive variation and depend on broader theological frameworks within the larger work.",
+  "createdAt": "2025-10-19T00:00:11.289Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

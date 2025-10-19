@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Alma.33",
+  "briefOverview": "Alma answers questions about how to believe and worship God, urging the planting and nourishing of faith and adducing prophetic and typological testimony to the Son of God.",
+  "summary": "A group asks Alma how they should believe in one God and begin to exercise faith, especially since they feel excluded from worship (verses 1–2). Alma rebukes the idea that exclusion prevents worship and appeals to scripture, citing an extended quotation attributed to the prophet Zenos about prayer and God's mercy (3–11). He argues that multiple ancient prophets, including Zenos, Zenock, and Moses (by typology), testified of the Son of God and his redemptive suffering and resurrection (12–22). Alma exhorts them to 'plant' the word in their hearts, nourish it by faith until it becomes a tree yielding everlasting life, and promises that their burdens may be light through the joy of the Son (23).",
+  "externalContext": "In the Book of Mormon tradition, Zenos and Zenock are prophets cited by later Nephite writers though they do not appear in the Bible; their writings are treated as authoritative scripture by Alma. The chapter's reference to being cast out of synagogues reflects the importance of communal worship spaces in ancient Jewish practice and the difficulty that exclusion posed for worship. The motif of the brazen serpent as a healing type comes from the Hebrew Bible (Numbers 21) and was later used in the New Testament as a typological foreshadowing of Christ (John 3:14).",
+  "externalReferences": "The chapter explicitly echoes the Moses-and-serpent episode from Numbers 21:4–9, using that wilderness 'type' to point forward to Christ; the same typology is used by Jesus in John 3:14. Alma's emphasis on the suffering and atonement of the Son of God corresponds to themes found in Isaiah's Suffering Servant passages (see Isaiah 53:4–6) and elsewhere in Alma (e.g., Alma 7:11–13). The planting-and-nourishing seed teaching continues the earlier Alma discourse on faith and the 'seed' imagery found in Alma 32:28–43.",
+  "seeAlso": [
+    "Alma 32:28-43",
+    "Alma 7:11-13",
+    "Numbers 21:4-9",
+    "John 3:14",
+    "Isaiah 53:4-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Question about Worship"
+    },
+    {
+      "range": "3-11",
+      "title": "Zenos on Prayer"
+    },
+    {
+      "range": "12-23",
+      "title": "Testimony of the Son"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Atonement",
+    "Prayer",
+    "Scriptural testimony"
+  ],
+  "practicalQuestions": [
+    "How can I 'plant' and actively nourish a living faith in daily life?",
+    "If I feel excluded from a worship community, what practices in this chapter suggest I can still worship and pray effectively?",
+    "How should typological/scriptural signs (like the brazen serpent) shape the way I read texts about Christ?",
+    "In what ways can the promise that burdens become light 'through the joy of his Son' shape pastoral care for those in affliction?"
+  ],
+  "uncertainAreas": "The identities and textual provenance of Zenos and Zenock are internal to the Book of Mormon and not corroborated in the Hebrew Bible; I was also uncertain about the precise historical situation of those 'cast out of the synagogues' (whether literal Jewish synagogues or local Nephite worship structures) and about how Alma's audience had access to the older scriptural texts he cites.",
+  "createdAt": "2025-10-18T23:59:43.112Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

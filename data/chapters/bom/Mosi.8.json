@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Mosi.8",
+  "briefOverview": "Limhi's people hear a historical recital and discover ancient plates; Ammon explains that a 'seer' with special interpreters can translate them.",
+  "summary": "After King Limhi finishes addressing his people, he has Ammon recount the history of Zeniff's people and explain King Benjamin's final teachings. Limhi then presents plates and metal artifacts recovered by a search party that had been lost in a wilderness and had found a ruined land filled with bones and ancient buildings. The plates—twenty-four in number and made of pure gold—are undecipherable to anyone among them, so Limhi asks if Ammon can translate them. Ammon says he cannot translate but describes a man in Zarahemla (the king there) who is a seer and who has 'interpreters' by which ancient records may be translated. He explains the nature and authority of a seer—greater than a prophet, able to reveal hidden things and known by a divine gift. The king rejoices at this possibility and reflects on the long-suffering of God and the spiritual blindness of his people.",
+  "externalContext": "This chapter is from the Book of Mosiah in the Book of Mormon, a text presented as the history of several groups (Nephites, Lamanites, and others) in the ancient Americas. The idea of a 'seer' and of divine 'interpreters' has parallels in ancient Israelite institutions (e.g., the Urim and Thummim associated with priestly garments) and in early 19th‑century Latter-day Saint accounts of translation instruments. Archaeologically, the description of ruins and skeletal remains echoes encounters with preexisting civilizations recorded in many historical traditions, but the Book of Mormon's historicity is a matter of religious belief and scholarly debate.",
+  "externalReferences": "The term 'interpreters' corresponds to the Old Testament concept of Urim and Thummim, found for example in Exodus 28:30, where a priest bears a means for decision-making before God. The use of the word 'seer' and the idea that 'seer' and 'prophet' overlap recall 1 Samuel 9:9, which notes older usage of 'seer' for a prophet. The chapter's reference to King Benjamin's teachings points back to Mosiah chapters 2–5, where Benjamin addresses his people with moral and covenantal instruction.",
+  "seeAlso": [
+    "Exodus 28:30",
+    "1 Samuel 9:9",
+    "Mosiah 2:1–5:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Recital of History"
+    },
+    {
+      "range": "5-13",
+      "title": "Discovery of Plates"
+    },
+    {
+      "range": "14-21",
+      "title": "Nature of a Seer"
+    }
+  ],
+  "themes": [
+    "Revelation",
+    "Records",
+    "Seership",
+    "Divine guidance"
+  ],
+  "practicalQuestions": [
+    "How should communities preserve and seek to understand historical records that might affect present identity or claims?",
+    "What criteria should we use to evaluate a claimed revelatory gift or interpreter today?",
+    "How can leaders foster a desire for wisdom among people described as 'blind' or 'impenetrable' in understanding?",
+    "In what ways should discoveries of ancient ruins or artifacts shape ethical and spiritual responses in a community?"
+  ],
+  "uncertainAreas": "Uncertainty about the precise identity and origin of the twenty-four gold plates (the text does not name their makers); whether the 'interpreters' are the same as Old Testament Urim and Thummim beyond functional similarity; and which historical figures exactly are meant by 'the king of the people who are in the land of Zarahemla' without cross-referencing other chapters.",
+  "createdAt": "2025-10-18T23:28:05.001Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

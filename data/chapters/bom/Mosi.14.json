@@ -1,0 +1,35 @@
+{
+  "chapterOsisID": "Mosi.14",
+  "briefOverview": "A close quotation of Isaiah's 'Suffering Servant' poem portraying an innocent figure who suffers vicariously for others' sins and is ultimately vindicated.",
+  "summary": "The chapter cites Isaiah, asking who has believed the report and who has seen the Lord's arm revealed. It describes a figure who grows like a tender plant, is without beauty or majesty, despised and acquainted with grief, who bears the griefs and sorrows of others and is punished for their transgressions. The servant is portrayed as silent before his oppressors, taken away from judgment, cut off from the land of the living, and buried with the wicked and the rich. Yet it pleased the Lord to bruise him; by making his soul an offering for sin he will see his seed, prolong his days, and justify many by bearing their iniquities, being numbered with transgressors but making intercession for them.",
+  "externalContext": "Isaiah 53 is one of the 'Servant Songs' found in the book of Isaiah, often dated by scholars to the exilic or post-exilic period (6th–5th century BCE) and widely interpreted in different traditions as referring either to a corporate servant (Israel) or to an individual messianic figure. In the context of the Book of Mormon, this passage is quoted as part of prophetic speech (Abinadi's preaching in Mosiah) used to identify and explain the role of the coming Messiah to a covenant community. The poem's language became foundational for later Jewish and Christian readings that connect the servant's suffering with atonement and vindication.",
+  "externalReferences": "This chapter corresponds very closely to Isaiah 53:1–12, the canonical passage traditionally called the Suffering Servant. New Testament writers quote or echo these motifs: Matthew 8:16–17 cites Isaiah's language about bearing infirmities, Acts 8:32–35 records the Ethiopian eunuch reading Isaiah 53 and being instructed about its application to Jesus, and 1 Peter 2:22–25 uses similar phrases about the innocent sufferer and vicarious bearing of sins to describe Christ.",
+  "seeAlso": [
+    "Isaiah 53:1–12",
+    "Matthew 8:16–17",
+    "Acts 8:32–35",
+    "1 Peter 2:22–25",
+    "Mosiah 12–17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "The Suffering Servant"
+    }
+  ],
+  "themes": [
+    "Suffering servant",
+    "Vicarious atonement",
+    "Innocent suffering",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "How does the idea of a suffering, vicarious savior shape personal understandings of justice and forgiveness?",
+    "In what ways can communities respond to or care for those who are 'despised and rejected' today?",
+    "What does 'he opened not his mouth' suggest about the ethics of bearing injustice—when is silence appropriate or harmful?",
+    "How might the promise that the servant will 'see his seed' and be vindicated affect hope in situations of present suffering?"
+  ],
+  "uncertainAreas": "Debates remain about the original referent of the 'servant' (individual messiah vs. corporate Israel) and on how phrases like 'he shall see his seed' and 'prolong his days' should be interpreted messianically; also, the Book of Mormon's use of Isaiah reflects translation and interpretive moves that scholars discuss but are not resolved in the text itself.",
+  "createdAt": "2025-10-18T23:31:26.081Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

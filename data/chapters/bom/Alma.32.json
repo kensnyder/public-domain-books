@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Alma.32",
+  "briefOverview": "Alma teaches a group of poor, cast-out people about true faith, humility, and how to nourish spiritual growth using a seed-and-tree metaphor.",
+  "summary": "Alma responds to a group of poor, excluded worshippers by celebrating their humility and urging them that being cast out can lead to repentance and mercy. He distinguishes compelled humility from humility that comes from the word, and critiques those who demand miraculous signs as not having true faith. Alma defines faith as belief without perfect knowledge and invites them to “experiment” by exercising a particle of faith. He compares the word to a seed: if planted and nourished it will swell, sprout, take root, and eventually yield precious fruit; if neglected it will wither. The chapter emphasizes patient, diligent nourishment of faith so that it may grow into enduring spiritual life and bring the believer to lasting rewards.",
+  "externalContext": "This chapter is set within the Book of Mormon narrative, where Alma is a religious leader teaching within a community that uses synagogues and local gatherings for worship. The seed-and-tree imagery draws on widespread agrarian metaphors common in ancient Near Eastern and Mediterranean religious instruction, where growth and fruitfulness are frequent symbols for moral or spiritual development.",
+  "externalReferences": "The seed-and-soil teaching echoes the Parable of the Sower found in the Synoptic Gospels (Matthew 13:1–23; Mark 4:1–20; Luke 8:4–15), which also links different grounds to different outcomes for the word. Alma’s warning against seeking signs parallels New Testament episodes in which Jesus rebukes demanders of signs (e.g., Matthew 12:38; John 6:30). The chapter’s language about the tree whose fruit is sweet and desirable resonates with the Book of Mormon’s earlier vision of the tree of life (1 Nephi 8:10–12).",
+  "seeAlso": [
+    "Matthew 13:1-23",
+    "Mark 4:1-20",
+    "Luke 8:4-15",
+    "Matthew 12:38",
+    "John 6:30",
+    "1 Nephi 8:10-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Exclusion and Humility"
+    },
+    {
+      "range": "17-26",
+      "title": "Nature of True Faith"
+    },
+    {
+      "range": "27-43",
+      "title": "Seed and Nourishment"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Humility",
+    "Spiritual growth",
+    "Endurance"
+  ],
+  "practicalQuestions": [
+    "How might enforced exclusion or hardship be reframed as an opportunity for humility and spiritual growth in my life?",
+    "What would it look like to 'experiment' with a belief—taking small, practical steps to test whether a teaching bears spiritual fruit?",
+    "How do I recognize and nourish the early, fragile movements of faith so they can take root and endure?",
+    "In what ways can I avoid demanding signs and instead cultivate trust that allows faith to develop through experience and patience?"
+  ],
+  "uncertainAreas": "Uncertainty about whether the term 'synagogues' here should be equated with contemporary understandings of Jewish synagogues and about precise historical dating or local practices in the Book of Mormon setting. Also open interpretive space about how literally to take the 'experiment' language (psychological testing of belief vs. a theological invitation to trust).",
+  "createdAt": "2025-10-18T23:59:20.225Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

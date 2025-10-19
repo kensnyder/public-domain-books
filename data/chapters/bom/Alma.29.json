@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Alma.29",
+  "briefOverview": "Alma expresses an intense desire to preach repentance to all, then reconciles that longing with acceptance of his human limits and rejoices in the repentance and labors of his fellow missionaries.",
+  "summary": "Alma begins by wishing he were an angel so he could cry repentance to every people, but immediately acknowledges that he is a fallible man and should be content with the calling the Lord has given him. He reflects on divine justice and human agency, teaching that God grants to individuals according to their desires and that certain decrees are fixed according to people’s wills. Alma affirms that the Lord wisely gives different nations the instruction he deems fit, and he declares his own glory to be that he might be an instrument in bringing souls to repentance. He finds deep joy when his brethren repent and remembers God’s mercies in delivering his fathers from bondage and in establishing his church. The chapter closes with thanksgiving for his missionary success and a fervent prayer that his brethren who labored in the land of Nephi may rest in God’s kingdom and praise him forever.",
+  "externalContext": "Alma the Younger is a leading prophet and missionary figure in the Book of Mormon; this chapter appears late in his ministry as a reflective prayer/aside. The Book of Mormon frames its narrative as ancient American scripture compiled by later editors; references to the “God of Abraham, Isaac, and Jacob” and deliverance from Egyptian bondage echo the Hebrew Bible’s themes and typology familiar to ancient Israelite religion. The land of Nephi is a principal Nephite region where missionary work and conflict between Nephites and Lamanites frequently occur.",
+  "externalReferences": "Alma’s remembrance of God delivering his fathers out of bondage clearly alludes to the Israelite Exodus tradition (see Exodus 1–15), and his formula “the God of Abraham, the God of Isaac, and the God of Jacob” echoes biblical self-identifications of God (e.g., Exodus 3:6). His missionary longing resembles New Testament missionary zeal, such as Paul’s concern to preach to all peoples (cf. Romans 10:14–15).",
+  "seeAlso": [
+    "Exodus 1:1–15:21",
+    "Genesis 12:1–3",
+    "Romans 10:14–15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Longing to Preach"
+    },
+    {
+      "range": "4-8",
+      "title": "Agency and Divine Wisdom"
+    },
+    {
+      "range": "9-17",
+      "title": "Joy in Repentance"
+    }
+  ],
+  "themes": [
+    "Missionary zeal",
+    "Agency",
+    "Joy"
+  ],
+  "practicalQuestions": [
+    "How can I balance a strong desire to help others with contentment in the specific responsibilities I have?",
+    "In what concrete ways can I seek to be an \"instrument\" for others’ spiritual growth without overreaching?",
+    "How does remembering past communal deliverances or blessings shape my gratitude and motivation for service?",
+    "What practices help communities celebrate the successes of others rather than only personal accomplishments?"
+  ],
+  "uncertainAreas": "The precise theological meaning of “decrees which are unalterable” and how it interacts with human freedom is open to interpretation; it is unclear whether Alma’s language intends a determinative doctrine of predestination or emphasizes that people’s choices fix their own outcomes. Also ambiguous is whether his initial wish to be an angel is meant primarily as rhetorical hyperbole or as a literal desire.",
+  "createdAt": "2025-10-18T23:58:04.651Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

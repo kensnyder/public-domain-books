@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Alma.36",
+  "briefOverview": "Alma recounts his dramatic conversion and exhorts his son Helaman to keep the commandments; the chapter emphasizes repentance, the power of Christ's atonement, and God's deliverance of the faithful.",
+  "summary": "Alma addresses his son Helaman, urging him to remember their ancestors’ deliverance and promising prosperity for those who keep God's commandments. He then narrates his own conversion: while seeking to destroy the church with the sons of Mosiah, an angelic voice struck him down and he lay powerless for three days and nights. During that time he experienced intense spiritual torment as he remembered his sins, then recalled his father’s prophecy about Jesus Christ and mentally cried out for mercy. On invoking Jesus, his pain ceased, he was filled with joy and received a vision of God and angels, and his physical strength was restored. From that point Alma labored without ceasing to bring others to repentance and testifies that God has delivered his people repeatedly, promising deliverance and eventual resurrection to those who trust and obey.",
+  "externalContext": "This chapter is from the Book of Mormon and is presented as a first-person testimony by Alma the Younger, a 1st-century BCE Nephite leader speaking to his son. The narrative fits common ancient Near Eastern and early Christian motifs of prophetic calling through dramatic visions or angelic appearances, and the language of deliverance recalls Israelite traditions of God as the deliverer (e.g., Exodus). The 'sons of Mosiah' were a known group in Book of Mormon narrative who later became missionaries; their earlier opposition and later repentance are recounted elsewhere in the book.",
+  "externalReferences": "The account of Alma's angelic visitation and conversion parallels the conversion story summarized in Mosiah 27:8–37, which narrates the same event from a different perspective. The vision of God on his throne and the heavenly singing echoes Lehi’s vision reported in 1 Nephi 1:8–14. References to God bringing the fathers out of Egypt and the Red Sea scene correspond to Exodus 14:21–31 in the Hebrew Bible.",
+  "seeAlso": [
+    "Mosiah 27:8–37",
+    "1 Nephi 1:8–14",
+    "Exodus 14:21–31",
+    "Alma 38:1–5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Exhortation and Promise"
+    },
+    {
+      "range": "4-24",
+      "title": "Conversion Narrative"
+    },
+    {
+      "range": "25-30",
+      "title": "Ministry and Testimony"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Conversion",
+    "Atonement",
+    "Deliverance"
+  ],
+  "practicalQuestions": [
+    "How does recalling past acts of deliverance in my family or community strengthen present faithfulness?",
+    "When struggling with guilt, how might the steps in Alma's experience (recognition of sin, memory of Christ, heartfelt plea) guide a path toward repentance?",
+    "In what concrete ways can I labor to help others 'taste' the joy of repentance as Alma sought to do?",
+    "How should promises of 'prospering in the land' shape my understanding of obedience—spiritually, ethically, and socially?"
+  ],
+  "uncertainAreas": "Interpretive uncertainty surrounds precise boundaries between Alma's physical suffering and spiritual torment (how literally to read the three days of immobility) and how to balance the chapter's temporal promises (prosperity in the land) with primarily spiritual promises; also some cross-reference details (exact parallel passages within the Book of Mormon) depend on broader textual context.",
+  "createdAt": "2025-10-19T00:00:58.190Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

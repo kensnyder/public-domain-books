@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Mosi.26",
+  "briefOverview": "The chapter resolves a crisis of unbelief and church disorder by giving Alma divine instruction on membership, repentance, forgiveness, and church discipline.",
+  "summary": "A younger generation rejects King Benjamin's teachings about the resurrection and Christ, separates itself, and spreads dissent among the church. Leaders bring accused members before Alma, who, uncertain how to proceed, prays and receives a theophany in which the Lord affirms Alma and lays out the nature and boundaries of His church: baptism unto repentance, divine forgiveness for the penitent, and rejection of those who will not hear God's voice. The Lord instructs the leaders to judge transgressors, forgive those who confess and repent, and to exclude persistent unrepentant sinners from church membership. Alma records these commandments, implements discipline (numbering repentant members, blotting out unrepentant names), and through diligent teaching and admonishing the church returns to peace and growth.",
+  "externalContext": "Within the Book of Mormon narrative this episode is set in Nephite society under King Mosiah, where both civil and ecclesiastical authorities exist (kings, priests, teachers). The passage reflects ancient communal religious practices such as formal baptism, public confession, admission to a recorded membership roll, and local adjudication of moral offenses. It also presumes a prophetic model in which leaders seek and receive direct revelation to govern the community.",
+  "externalReferences": "The chapter explicitly alludes to King Benjamin's earlier address (Mosiah 2–5), which introduced teachings about atonement and resurrection that the younger generation rejected. It also refers to Abinadi (cf. Mosiah 17–18), whose prophetic witness influenced Alma's faith. The procedures for confronting and reconciling offenders resemble New Testament instructions on church discipline and forgiveness (e.g., Matthew 18:15–17; Matthew 6:14–15) and the doctrinal emphasis on a future sounding of a trumpet and resurrection finds parallels in passages like 1 Thessalonians 4:16.",
+  "seeAlso": [
+    "Mosiah 2:1-31",
+    "Mosiah 17:1-18:18",
+    "Matthew 18:15-17",
+    "Matthew 6:14-15",
+    "1 Thessalonians 4:16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Unbelief Among Youth"
+    },
+    {
+      "range": "6-13",
+      "title": "Accusation and Inquiry"
+    },
+    {
+      "range": "14-33",
+      "title": "Divine Instruction on Church"
+    },
+    {
+      "range": "34-39",
+      "title": "Implementation and Restoration"
+    }
+  ],
+  "themes": [
+    "Unbelief",
+    "Repentance",
+    "Church discipline",
+    "Forgiveness"
+  ],
+  "practicalQuestions": [
+    "How should contemporary faith communities balance mercy and accountability when members persist in harmful beliefs or behavior?",
+    "What procedures can congregations adopt to ensure leaders seek wise, humble discernment before judging others?",
+    "How do we reconcile exclusion from formal membership with the theological imperative to forgive the repentant?",
+    "In what ways can communities keep records or practices that encourage repentance without becoming punitive or shaming?"
+  ],
+  "uncertainAreas": "The text does not specify exact procedures for how names were kept or blotted out, the long-term fate of those excluded, nor the criteria used to determine genuine repentance; interpreting phrases like 'I will confess unto them that I never knew them' raises questions about the interplay of human reception and divine election that are not fully resolved within the chapter.",
+  "createdAt": "2025-10-18T23:37:48.252Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

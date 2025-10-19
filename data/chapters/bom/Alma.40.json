@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Alma.40",
+  "briefOverview": "Alma addresses his son's concerns about death and the resurrection, explaining the timing, the intermediate state of souls, and the final restoration and judgment.",
+  "summary": "Alma reassures his son that the resurrection of the dead will occur after the coming of Christ and that God alone knows the appointed times. He teaches there is an interval between death and resurrection and reports an angelic revelation that all departed spirits return to God. The righteous enter a state called paradise — a state of rest and peace — while the wicked are cast into outer darkness with anguish until the resurrection. Alma clarifies contested language about a “first resurrection,” interpreting it principally as the eventual reuniting of soul and body (and offering his opinion that the righteous may be reunited at Christ’s resurrection). He affirms a complete restoration at judgment — bodies and souls perfectly reunited, every part restored — and concludes that the righteous will shine in God’s kingdom while the wicked suffer the consequences of their works.",
+  "externalContext": "Alma is a central prophetic figure in the Book of Mormon and here is speaking as a father/teacher (addressing his son Corianton in the broader narrative). The Book of Mormon presents doctrines that parallel and interact with early Christian and Second Temple Jewish ideas about resurrection, an intermediate postmortem state, and final judgment. The chapter reflects a theological concern common in ancient Mediterranean and Near Eastern religious discourse: accounting for personal identity after death (how bodies and souls are reunited) and assuring believers about divine justice.",
+  "externalReferences": "The chapter’s contrast between a temporary postmortem ‘paradise’ for the righteous and ‘outer darkness’ for the wicked parallels Gospel language such as Luke 23:43 (Jesus’ promise of paradise) and Matthew’s descriptions of weeping and gnashing of teeth (e.g., Matthew 8:12). Alma’s account of bodies being raised incorruptible echoes the teaching in 1 Corinthians 15:42–44 about what is sown perishable being raised imperishable. Earlier Book of Mormon passages treat resurrection and restoration as well (see Alma 11:42–45), so this chapter participates in an ongoing internal discussion.",
+  "seeAlso": [
+    "1 Corinthians 15:42–44",
+    "Luke 23:43",
+    "Matthew 8:12",
+    "Alma 11:42–45",
+    "Alma 41"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Timing of Resurrection"
+    },
+    {
+      "range": "7-15",
+      "title": "State Between Death"
+    },
+    {
+      "range": "16-26",
+      "title": "Resurrection and Restoration"
+    }
+  ],
+  "themes": [
+    "Resurrection",
+    "Intermediate State",
+    "Judgment",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How does belief in an assured resurrection shape the way we live and make moral choices today?",
+    "In what pastoral ways can the image of ‘paradise’ and ‘outer darkness’ be used to comfort the grieving without fostering fear?",
+    "How should the idea that God alone knows the timing of the resurrection affect our sense of urgency or patience in spiritual life?",
+    "What implications does the promise of bodily restoration have for how we treat the body, illness, and dying people?"
+  ],
+  "uncertainAreas": "Ambiguity remains about the precise meaning and timing of the so-called “first resurrection” and exactly when souls and bodies are reunited (Alma states opinions but not dogmatic certainty). The relationship between Alma’s intermediate-state language and specific New Testament formulations is parallel but not identical, leaving room for interpretive variation.",
+  "createdAt": "2025-10-19T00:14:56.525Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

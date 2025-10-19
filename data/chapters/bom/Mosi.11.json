@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Mosi.11",
+  "briefOverview": "This chapter portrays the corrupt reign of King Noah—his luxury, oppressive taxation, and the moral decay of his court—and introduces the prophet Abinadi who proclaims divine judgment and calls the people to repent.",
+  "summary": "Zeniff gives the kingdom to his son Noah, who abandons his father’s ways, takes many wives and concubines, and institutes heavy taxation (a fifth of produce and metals) to support himself, his household, and a newly consecrated, corrupt priesthood. Noah and his priests live in luxury, build elaborate buildings and towers, cultivate vineyards, and promote idolatry and sexual immorality; the people labor to support these excesses. The Lamanites begin raiding the land, and although Noah sends guards and armies they are insufficient; military success briefly feeds pride and bloodlust among Noah’s men. A prophet named Abinadi announces God’s judgment unless the people repent in sackcloth and ashes, warning that they will be delivered into bondage and that God may be slow to hear their cries. The people and the king react with anger, seek to kill Abinadi, and King Noah vows to execute him; the populace hardens their hearts and refuses to heed the prophetic warning.",
+  "externalContext": "This chapter appears in the Book of Mormon narrative about Nephite society and its kings, set against ongoing conflict with the Lamanites. In ancient Near Eastern and biblical prophetic practice, forms of public contrition such as wearing sackcloth and ashes signaled penitence and were common motifs used by prophets to press for national repentance. The Book of Mormon also uses a vocabulary (e.g., the metal term “ziff”) and institutional forms (kings, consecrated priests, taxation) that echo ancient monarchic societies, though specific archaeological identification of some terms (like “ziff”) is uncertain.",
+  "externalReferences": "Abinadi’s prophetic ministry and its immediate outcomes are narrated further in later chapters of Mosiah, including his public disputation and execution (see Mosiah 17) and the conversion of Alma and the founding of a covenant community (see Mosiah 18). The call to repent in sackcloth and ashes echoes Old Testament prophetic language and practice (compare Jonah 3:5 and Daniel 9:3) where such signs indicate urgent national repentance before divine judgment.",
+  "seeAlso": [
+    "Mosiah 12:1–25",
+    "Mosiah 17:1–25",
+    "Mosiah 18:1–34",
+    "Jonah 3:5",
+    "Daniel 9:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–6",
+      "title": "Noah's Corrupt Rule"
+    },
+    {
+      "range": "7–19",
+      "title": "Luxury, Idolatry, Warfare"
+    },
+    {
+      "range": "20–29",
+      "title": "Abinadi's Warning"
+    }
+  ],
+  "themes": [
+    "Corruption of power",
+    "Wealth and idolatry",
+    "Prophetic warning",
+    "Repentance and judgment"
+  ],
+  "practicalQuestions": [
+    "How should communities establish accountability so leaders cannot use public resources for private luxury?",
+    "When someone issues uncomfortable moral criticism (a 'prophetic' warning), how can we evaluate and respond constructively rather than hardening our hearts?",
+    "What practices today correspond to 'sackcloth and ashes'—how do sincere repentance and public acts of contrition look in our context?",
+    "How can societies balance defense and security needs without letting military success fuel pride and violence?"
+  ],
+  "uncertainAreas": "The precise historical setting and dating within an ancient-American context are matters of tradition and debate; the identity of the material called “ziff” is unclear. I used approximate verse ranges for related Mosiah chapters and assumed standard narrative outcomes (Abinadi’s trial and Alma’s conversion) that appear later in the same book.",
+  "createdAt": "2025-10-18T23:29:54.332Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

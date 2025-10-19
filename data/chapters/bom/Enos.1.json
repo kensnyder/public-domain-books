@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Enos.1",
+  "briefOverview": "Enos describes an intense, soul-searching prayer that brings him personal forgiveness and leads him to intercede for his people; he receives promises about the preservation of his people's records and reflects on his ministry and approaching death.",
+  "summary": "Enos recounts how hearing his father's teachings stirred his soul to pray all day and into the night until he received a divine voice assuring him that his sins were forgiven. He is told that his faith is in Christ, though Christ has not yet been manifested in the flesh, and this knowledge removes his guilt. Moved to concern for others, Enos prays long and earnestly for the Nephites and later for the Lamanites; God responds with promises to visit each people according to their diligence and to preserve the Nephite records for a future bringing forth. Enos then describes his subsequent prophetic labors among the Nephites, characterizes the Lamanites as deeply hostile and degenerated and the Nephites as prosperous yet hard to reach spiritually, and notes frequent prophetic warnings about judgment and eternity. He reports seeing wars in his lifetime, marks his age and the time since Lehi's departure, and closes by testifying of his hope in Christ, his forthcoming death, and the joy of promised resurrection and rest with his Redeemer.",
+  "externalContext": "The Book of Mormon frames Enos as a record kept on metal plates by an Israelite-descended people who, according to that narrative, left Jerusalem around the late 7th/early 6th century BCE and settled in the Americas. Practices mentioned—hunting, tent-dwelling, use of bows and axes, and keeping written records—reflect the book's presentation of a society with both settled agricultural life and groups described as more nomadic. The themes of covenantal prayer, prophetic mediation, and preservation of records are recurrent in ancient Israelite and early Judeo-Christian religious literature.",
+  "externalReferences": "Enos's language that God \"could not lie\" echoes New Testament affirmations of God's trustworthiness (for example, Hebrews 6:18 and Titus 1:2). His teaching that one may ask in the name of Christ resonates with Jesus' promise about asking in his name (John 14:13). The image of \"mansions of my Father\" and the hope of resurrection and reunion with the Redeemer parallels New Testament comforts about the Father's house and resurrection life (cf. John 14:2; 1 Thessalonians 4:14–17).",
+  "seeAlso": [
+    "Hebrews 6:18",
+    "Titus 1:2",
+    "John 14:13",
+    "John 14:2",
+    "1 Thessalonians 4:14–17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Prayer and Forgiveness"
+    },
+    {
+      "range": "9-17",
+      "title": "Intercession and Covenant"
+    },
+    {
+      "range": "18-27",
+      "title": "Ministry, People, Farewell"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Prayer",
+    "Intercession",
+    "Record preservation"
+  ],
+  "practicalQuestions": [
+    "How do I seek sincere repentance and assurance of forgiveness in my own prayer life?",
+    "What practices of persistent intercession can I adopt for people who resist spiritual help?",
+    "How should communities decide what religious or cultural records to preserve and why?",
+    "How can teachings about judgment and eternity be communicated without causing despair?"
+  ],
+  "uncertainAreas": "Uncertainty exists about the historical specifics (dating and archaeology) of the peoples mentioned; the nature of Enos's vision of Christ \"whom thou hast never before heard nor seen\" is theological and open to interpretation (pre-mortal appearance vs. prophetic assurance); and the literalness and generalization in the description of the Lamanites' condition are potentially rhetorical and not independently verifiable.",
+  "createdAt": "2025-10-18T23:22:28.363Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

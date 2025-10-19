@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Alma.11",
+  "briefOverview": "The chapter gives Nephite legal and monetary details and records a confrontation in which Amulek rebukes Zeezrom's attempted bribe and teaches core doctrines about God, Christ's redemptive role, resurrection, and final judgment.",
+  "summary": "The chapter opens with provisions of the law of Mosiah regarding judges' wages and a detailed list of Nephite monetary units and their relative values. It then alleges that some judges fomented disorder to increase litigation and their own pay. Zeezrom, described as a crafty opponent, offers Amulek money to deny God; Amulek rebukes him and refuses the bribe. In a question-and-answer exchange Amulek affirms there is one God, that the Son of God will come, and that the Son cannot save people in their sins; he also calls the Son the 'very Eternal Father' and identifies him as the redeemer who will take upon the transgressions of those who believe. Amulek teaches that Christ’s death frees all from temporal death, that bodies and spirits will be perfectly restored and reunited, and that everyone will stand before the bar of judgment—Christ, God the Father, and the Holy Spirit—being judged according to their works. The chapter concludes with the people astonished and Zeezrom trembling at these teachings.",
+  "externalContext": "The narrative comes from the Book of Mormon and situates itself in the Nephite legal and religious setting established under King Mosiah; the monetary terms (senine, seon, onti, etc.) are internal to the Book of Mormon and do not have secure parallels in the archaeological record. Theological debates about the nature of God and the role of a divine Redeemer reflect concerns common in Second Temple–period Judaism and early Christian discourse, though the text expresses them within its own distinctive terminology and theological framework.",
+  "externalReferences": "The teaching about the resurrection and the transformation from a mortal to an immortal body parallels New Testament statements such as 1 Corinthians 15:42–44, which contrasts the natural and the spiritual body and speaks of the dead being raised imperishable. The emphasis that Christ redeems and takes upon the transgressions of believers resonates with earlier Book of Mormon passages like Mosiah 3:8–10 and Alma 42 (which discuss the Atonement, justice, and mercy).",
+  "seeAlso": [
+    "1 Corinthians 15:42–44",
+    "Mosiah 3:8–10",
+    "Alma 42:13–25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–19",
+      "title": "Law and Currency"
+    },
+    {
+      "range": "20–46",
+      "title": "Zeezrom's Temptation and Theology"
+    }
+  ],
+  "themes": [
+    "Law and Justice",
+    "Christology",
+    "Resurrection",
+    "Atonement"
+  ],
+  "practicalQuestions": [
+    "How should communities structure compensation and oversight for judges or officials to minimize conflicts of interest?",
+    "When faced with financial temptation to compromise convictions, what practices help maintain integrity like Amulek's refusal?",
+    "How does belief in bodily resurrection affect ethical responsibility and how we treat others today?",
+    "What does the text suggest about the relationship between divine justice, mercy, and personal repentance?"
+  ],
+  "uncertainAreas": "Uncertainty about how the Nephite monetary units would correspond to any historical currencies outside the Book of Mormon. Ambiguity in the phrase 'the very Eternal Father' and the description of the Godhead leave room for different theological interpretations (e.g., modalist, Trinitarian, or distinct-person readings) when compared with other traditions.",
+  "createdAt": "2025-10-18T23:50:10.162Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

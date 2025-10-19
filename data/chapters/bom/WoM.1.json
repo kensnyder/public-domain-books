@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "WoM.1",
+  "briefOverview": "Mormon explains why he is abridging earlier records and placing a subset of prophetic plates with his own record, and he briefly summarizes King Benjamin's righteous leadership and military struggles.",
+  "summary": "Mormon states he is delivering his record to his son Moroni and anticipates the near-total destruction of the Nephites, hoping Moroni may survive to write further. He explains that after abridging the large plates of Nephi he found a small set of plates containing prophetic writings and many of Nephi's words, which he has chosen to include because of their testimony of Christ. Mormon records that these plates are precious and will be used to judge people in the last day, and that he is guided by the Spirit in compiling the record. He recounts that King Benjamin faced internal contentions and external attacks by the Lamanites, but through righteous leadership and prophetic support (and the metaphorical detail of using the sword of Laban) he and holy prophets restored peace after defeating many Lamanites. The chapter closes by attributing King Benjamin’s success to his diligence, the prophets’ authority, and the strength given by the Lord.",
+  "externalContext": "Within Book of Mormon tradition, Mormon is the primary compiler/abridger who lived centuries after Christ and passed his abridgment to his son Moroni. The 'plates of Nephi' and the 'sword of Laban' are longstanding elements of Book of Mormon narrative memory and lineage of records. King Benjamin is a well-attested figure in the Book of Mormon (his major speech and reforms are recorded in Mosiah), and Amaleki is named elsewhere as the man who delivered records to Benjamin.",
+  "externalReferences": "The reference to the sword of Laban echoes the account in 1 Nephi 4:18, where Nephi obtains that sword, which later becomes an heirloom tied to righteous leadership. The handing of records by Amaleki to King Benjamin corresponds to Omni 1:12, and the fuller narrative of King Benjamin’s reign and his famous address is found in Mosiah 1–6. The warning about false Christs and false prophets parallels New Testament cautions such as Matthew 24, which also speaks of false teachers arising and being judged.",
+  "seeAlso": [
+    "1 Nephi 4:18",
+    "Omni 1:12",
+    "Mosiah 1–6",
+    "Matthew 24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Purpose and Records"
+    },
+    {
+      "range": "12-18",
+      "title": "Benjamin: Conflict and Peace"
+    }
+  ],
+  "themes": [
+    "Record preservation",
+    "Prophecy",
+    "Conflict and peace",
+    "Righteous leadership"
+  ],
+  "practicalQuestions": [
+    "How should a community decide which teachings and records to preserve and pass on?",
+    "When facing internal false teaching, what balance should be struck between discipline and pastoral care?",
+    "What does 'righteous leadership' require in times of external threat and civil unrest?",
+    "How do we discern when to act in reliance on spiritual promptings versus human judgment?"
+  ],
+  "uncertainAreas": "Exact chronological markers (precise dates) are not given; the phrase 'it whispereth me' and the mechanics of Mormon's inspiration are open to interpretation; the chapter summarizes larger events (e.g., the full scope of Benjamin’s wars) so many details are necessarily compressed and not fully specified here.",
+  "createdAt": "2025-10-18T23:23:52.364Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

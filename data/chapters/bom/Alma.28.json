@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Alma.28",
+  "briefOverview": "A report of a devastating battle and its human cost, followed by theological reflection contrasting sorrow over death with hope in God's promises.",
+  "summary": "The chapter describes a massive battle between the Nephites and Lamanites in which tens of thousands on both sides were slain, after which the Nephites drove and scattered their foes. Widespread mourning grips the land—widows, parents, and siblings lamenting the dead—and the people engage in fasting and prayer. The narrative marks the close of the fifteenth year of the judges and summarizes the record of Ammon and his brethren and the wars among the Nephites and Lamanites. The author emphasizes the vast loss of life and the differing responses: some mourn fearing their dead are consigned to \"endless wo,\" while others rejoice in the promised resurrection and eternal happiness at God's right hand. The account concludes by attributing such inequality of outcomes to sin and the devil's schemes, and issues a call to diligence in the Lord’s work, framing human sorrow alongside the \"light of Christ\" as the source of life and hope.",
+  "externalContext": "This chapter sits within the Book of Mormon narrative of the Nephite–Lamanite conflicts during the period called the reign of the judges, and follows earlier episodes about the missionary work and conversion of Lamanite groups (the people of Ammon/Anti‑Nephi‑Lehi) who had settled in the land of Jershon. Communal mourning after battles and reliance on fasting, prayer, and prophetic assurances of resurrection reflect ancient Near Eastern and biblical patterns of lament and consolation. The language of \"right hand of God\" and the contrast between eternal joy and \"endless wo\" echo common Second Temple and biblical motifs about judgment and afterlife.",
+  "externalReferences": "The chapter follows the narrative of Ammon and the converted Lamanites found in earlier Alma chapters (see Alma 17–27, and especially Alma 23–27 for settlement in Jershon and the people's history). Doctrinal material about resurrection and promises of being raised to dwell at God's right hand can be compared with Alma 11:42–45 and broader Book of Mormon discussions of the resurrection (e.g., Alma 40). The tension between earthly suffering and heavenly consolation is a recurring theme in both prophetic lament traditions and other scriptural texts.",
+  "seeAlso": [
+    "Alma 17–27",
+    "Alma 23–27",
+    "Alma 11:42–45",
+    "Alma 40"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Battle and Mourning"
+    },
+    {
+      "range": "7-14",
+      "title": "Summary and Reflection"
+    }
+  ],
+  "themes": [
+    "War and Loss",
+    "Mourning and Hope",
+    "Sin's Consequences",
+    "Call to Diligence"
+  ],
+  "practicalQuestions": [
+    "How should communities balance public mourning with practices of hope (prayer, fasting, doctrinal consolation) after mass loss?",
+    "In what concrete ways can believers 'labor in the vineyards of the Lord' today to address the social and moral causes of conflict?",
+    "How do beliefs about resurrection and judgment shape pastoral care for grieving families?",
+    "What practices can a community adopt to guard against the 'cunning plans' that the text attributes to the devil?"
+  ],
+  "uncertainAreas": "The text's casualty figures ('tens of thousands') may be rhetorical rather than precise counts. The reference to some being \"consigned to a state of endless wo\" versus others \"raised to dwell at the right hand of God\" presumes doctrinal positions about postmortem destiny; the exact criteria or theological mechanics implied are not spelled out here. The immediate causes and broader political context of the battle are summarized rather than detailed, leaving causal specifics unclear.",
+  "createdAt": "2025-10-18T23:57:38.333Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

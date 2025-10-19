@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Mosi.15",
+  "briefOverview": "Abinadi proclaims the incarnation, atoning death, and resurrection of God among men, and identifies the righteous who accept that message as the Lord’s 'seed' and heirs of salvation.",
+  "summary": "Abinadi teaches that God will come in the flesh, be called the Son of God, and—while remaining one with the Father—subject the flesh to the Father’s will, suffer temptation, be mocked, scourged, and ultimately killed. He uses language echoing Isaiah to describe the Messiah as a silent suffering servant who will be crucified, break the bands of death, ascend, intercede for humanity, and have compassion toward them. Abinadi identifies those who have believed the prophets and looked forward to redemption as the Messiah’s 'seed' and heirs of the kingdom, praises prophets and messengers (\"how beautiful upon the mountains are their feet\"), and extends the promise of participation in a first resurrection to prophets and the righteous. He declares that little children have eternal life but warns that those who knowingly and wilfully rebel after receiving God’s commandments have no part in the first resurrection. The chapter closes with a prophecy that salvation will be declared to every nation and that Zion will be restored, with watchmen proclaiming this message together.",
+  "externalContext": "This chapter is part of the Book of Mormon narrative in which the prophet Abinadi confronts King Noah’s court (Mosiah). Its language intentionally echoes and reworks passages from the Hebrew prophetic corpus (notably Isaiah) to describe a suffering, redeeming figure. The notion of a \"first resurrection\" and the interplay between divine justice and mercy reflect themes found in later Jewish and early Christian writings.",
+  "externalReferences": "Abinadi explicitly alludes to Isaiah’s imagery: the silent suffering servant (cf. Isaiah 53:7) and the messenger with \"beautiful feet\" who brings good tidings (cf. Isaiah 52:7). The chapter’s phrase \"how beautiful upon the mountains are their feet\" is also cited in the New Testament (Romans 10:15) in discussing proclamation of the gospel. The concept of a \"first resurrection\" has a parallel formulation in Revelation 20:4–6, which distinguishes a blessed first resurrection from a later general resurrection.",
+  "seeAlso": [
+    "Isaiah 52:7",
+    "Isaiah 53:7-11",
+    "Romans 10:15",
+    "Revelation 20:4-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Incarnation and Atonement"
+    },
+    {
+      "range": "10-17",
+      "title": "Seed and Prophets"
+    },
+    {
+      "range": "18-31",
+      "title": "Resurrection and Restoration"
+    }
+  ],
+  "themes": [
+    "Atonement",
+    "Resurrection",
+    "Prophetic witness",
+    "Divine unity"
+  ],
+  "practicalQuestions": [
+    "How does the claim that believers are the Messiah’s \"seed\" shape how we understand community identity and inheritance today?",
+    "In what ways should the tension between divine justice and mercy (intercession after satisfaction of justice) affect our approach to accountability and forgiveness?",
+    "What practices help individuals and communities 'look forward' to redemption in a way comparable to those praised as the prophets’ heirs?",
+    "How should the warning about wilful, knowledgeable rebellion inform contemporary pastoral care and the communication of moral responsibility?"
+  ],
+  "uncertainAreas": "The text’s phrasing about the Father and the Son—\"being the Father and the Son\" and \"they are one God\"—raises complex theological questions about identity and relation that different traditions interpret differently. The exact scope and timing of the \"first resurrection\" and who qualifies (especially the treatment of those who died in ignorance versus those who \"have known the commandments\") are also open to interpretive variation.",
+  "createdAt": "2025-10-18T23:32:06.383Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

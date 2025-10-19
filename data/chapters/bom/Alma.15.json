@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Alma.15",
+  "briefOverview": "Alma and Amulek minister to refugees in Sidom; Zeezrom is healed and converted, and a church is established while Ammonihah remains unrepentant.",
+  "summary": "After being commanded to depart, Alma and Amulek find the people who fled Ammonihah in the land of Sidom and hear their report of events. Zeezrom, who is gravely ill and tormented by guilt, sends for them; when asked if he believes in Christ he confesses faith, and Alma prays and heals him. Zeezrom is baptized and begins to preach, and Alma establishes a church in Sidom with priests and teachers to baptize converts. Many come from the surrounding region and are baptized, but the people remaining in Ammonihah refuse to repent and attribute Alma and Amulek's power to the devil, adhering to the teachings of Nehor. Having seen humility and worship among the Sidom converts, Alma brings Amulek to Zarahemla to care for him after Amulek suffered rejection from family and friends. The chapter closes noting the end of the tenth year of the reign of the judges.",
+  "externalContext": "This episode follows earlier conflicts in Ammonihah where believers were persecuted and the city suffered destruction; Alma and Amulek's ministry takes place within the Nephite 'reign of the judges' political framework. The reference to the 'profession of Nehor' points to an earlier internal religious rivalry in Nephite society over priestcraft and authority. Healing by faith and public baptism were established practices in Alma's movement and reflect broader ancient Near Eastern and early Christian-style emphases on communal rites and charismatic healing.",
+  "externalReferences": "Zeezrom is introduced and functions earlier as an antagonist/lawyer in Alma 11, where his debates with Amulek and Alma first occur, making his later sickness and conversion significant. The violent rejection and suffering of believers from Ammonihah and the miraculous deliverance of Alma and Amulek are narrated in Alma 14, which explains why so many fled to Sidom. The 'profession of Nehor' refers back to the teachings and priestcraft associated with Nehor in Alma 1, which shaped Ammonihah's hostile religious climate and its refusal to repent.",
+  "seeAlso": [
+    "Alma 11:1-30",
+    "Alma 14:1-30",
+    "Alma 1:1-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Arrival at Sidom"
+    },
+    {
+      "range": "6-12",
+      "title": "Zeezrom's Healing"
+    },
+    {
+      "range": "13-19",
+      "title": "Church Established; Departure"
+    }
+  ],
+  "themes": [
+    "Conversion",
+    "Healing",
+    "Community",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "How should faith communities respond to and reintegrate repentant former opponents like Zeezrom?",
+    "In what ways can guilt and psychological anguish be addressed alongside spiritual healing in pastoral care?",
+    "How can religious communities support leaders who are rejected by family and society, as happened to Amulek?",
+    "What practices (baptism, public worship, appointed teachers) help a persecuted group recover and form a lasting community?"
+  ],
+  "uncertainAreas": "The text leaves open whether Zeezrom's illness is purely psychosomatic or a divinely enacted miracle tied to his faith; the precise nature and scope of Amulek's loss of family support are not detailed; the chapter summarizes events (e.g., numbers baptized) without giving fuller social or chronological specifics.",
+  "createdAt": "2025-10-18T23:51:52.744Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

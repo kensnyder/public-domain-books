@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Mosi.3",
+  "briefOverview": "An angelic revelation announces the coming, mission, suffering, and atoning role of Jesus Christ and outlines the conditions for salvation and final judgment.",
+  "summary": "An angel appears and proclaims glad tidings: the Lord Omnipotent will come in mortal flesh, perform miracles, be called Jesus Christ (born of Mary), suffer intensely (even to bleeding from every pore), be scourged and crucified, rise on the third day, and stand to judge the world. The text teaches that Christ’s blood atones for the sins of those who died ignorant or innocently, but that salvation for the knowing sinner requires repentance and faith. God sent prophets and the law of Moses as types and shadows pointing to Christ, yet the law avails only through his atonement. Little children are declared blessed and not condemned; adults must humble themselves and become like children. The “natural man” is described as an enemy to God unless he yields to the Spirit and is transformed through Christ’s atonement. Finally, the passage warns of a just judgment and an eternal punishment portrayed as a lake of fire for the unrepentant.",
+  "externalContext": "Mosiah is part of the Book of Mormon, presented as scripture used by a faith community claiming an ancient American setting; its language and concerns reflect 19th-century English translation conventions of biblical theology. The motifs of angelic visitation, prophetic annunciation of a coming messiah, typology of the Mosaic law, and emphasis on repentance echo broader Second Temple Jewish and early Christian themes preserved in the Hebrew Bible and New Testament literature.",
+  "externalReferences": "The description of the suffering servant who is scourged, pierced, and bears others’ sins resonates with Isaiah 53:3–5. The idea that Adam’s transgression brought death but Christ’s atonement brings life has parallels with Romans 5:12–21. The characterization of the law as “types and shadows” pointing to Christ corresponds to Hebrews 8:5 and Colossians 2:16–17. The narrative elements of miracles, crucifixion, and resurrection find direct parallels in the Gospel accounts (e.g., Matthew 26–28; Luke 1–2 for the annunciation to Mary).",
+  "seeAlso": [
+    "Isaiah 53:3-5",
+    "Romans 5:12-21",
+    "Hebrews 8:5",
+    "Matthew 26:1-28:10",
+    "Luke 1:26-38",
+    "Colossians 2:16-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Angelic Introduction"
+    },
+    {
+      "range": "5-13",
+      "title": "Mission and Suffering"
+    },
+    {
+      "range": "14-21",
+      "title": "Law, Children, and the Natural Man"
+    },
+    {
+      "range": "22-27",
+      "title": "Judgment and Condemnation"
+    }
+  ],
+  "themes": [
+    "Atonement",
+    "Christ's Suffering",
+    "Repentance and Faith",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How does belief in Christ’s atoning sacrifice shape personal repentance and daily choices?",
+    "What practices help a person ‘become as a little child’ (humble, meek, submissive) in contemporary life?",
+    "How should communities teach about both divine justice and mercy so that people are motivated to change rather than despair?",
+    "In what ways do religious laws or rituals function as ‘types and shadows’ pointing to deeper spiritual realities today?"
+  ],
+  "uncertainAreas": "The precise theological nuances behind statements about infants (e.g., the conditional phrasing about little children and sin) could be read in different ways. The description “blood cometh from every pore” is vivid but its intended theological vs. literal emphasis is ambiguous. The relationship between the phrase “natural man” here and similar Pauline language is plausible but not definitively established from the text alone.",
+  "createdAt": "2025-10-18T23:25:13.749Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

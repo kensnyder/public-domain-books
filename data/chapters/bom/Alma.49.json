@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Alma.49",
+  "briefOverview": "A military episode showing Moroni's defensive strategy: Nephite fortifications frustrate a Lamanite assault and deliver a decisive victory, followed by religious thanksgiving and prosperity.",
+  "summary": "Lamanite forces approach the partly rebuilt city of Ammonihah, expecting an easy victory, but Moroni has prepared earthen banks, ditches, and fortified entrances so effectively that the attackers cannot use their stones and arrows to advantage. The Lamanites redirect their assault toward the city of Noah, only to find that Moroni has likewise fortified it and appointed Lehi as its commander. Repeated attempts to force the entrance result in heavy Lamanite losses—over a thousand killed and the death of their chief captains—while the Nephites report no fatalities and only about fifty wounded. The routed Lamanites return to Amalickiah, who becomes furious and vows vengeance, cursing God and Moroni. The chapter closes with Nephite gratitude to God and a note of continuing peace and church prosperity due to faithful preaching by ordained missionaries.",
+  "externalContext": "Within the Book of Mormon narrative, Moroni is the principal Nephite military leader known for combining engineering, training, and moral exhortation to defend his people. Earthen fortifications, ditches, and breastworks are a common, low-technology defensive strategy in many premodern societies and are here presented as decisive military measures. The chapter fits a broader pattern in the narrative where spiritual fidelity and wise leadership are linked to communal deliverance.",
+  "externalReferences": "The chapter alludes to the prior destruction of Ammonihah (see Alma 14), which explains why the Lamanites expected the rebuilt city to be vulnerable. The reference to Lehi fighting “in the valley on the east of the river Sidon” echoes earlier battle accounts in Alma 43–44 where several confrontations around the Sidon are narrated. The final verse’s list of missionaries (Helaman, Shiblon, Corianton, Ammon and his brethren) connects to their earlier preaching and missionary labors described in Alma 17–26.",
+  "seeAlso": [
+    "Alma 14",
+    "Alma 43–44",
+    "Alma 17–26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1–15",
+      "title": "Fortification and Strategy"
+    },
+    {
+      "range": "16–27",
+      "title": "Battle at Noah"
+    },
+    {
+      "range": "28–30",
+      "title": "Thanksgiving and Prosperity"
+    }
+  ],
+  "themes": [
+    "Fortification",
+    "Leadership",
+    "Divine deliverance",
+    "Gratitude"
+  ],
+  "practicalQuestions": [
+    "How can communities balance proactive preparation (security, infrastructure) with trust in religious commitments?",
+    "What responsibilities do religious leaders have in promoting civic readiness and wise stewardship?",
+    "When leaders adopt defensive measures, how should those actions be evaluated morally and spiritually today?",
+    "How can a community cultivate genuine gratitude and spiritual prosperity after crisis is averted?"
+  ],
+  "uncertainAreas": "Exact verse-to-verse cross-references and precise historical parallels for the earthen fortifications are interpretive; the broader historicity and dating of the Book of Mormon narrative are matters of debate outside the text.",
+  "createdAt": "2025-10-19T00:19:20.334Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

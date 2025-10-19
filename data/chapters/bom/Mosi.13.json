@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Mosi.13",
+  "briefOverview": "Abinadi boldly rebukes King Noah and his priests, is protected by divine power, and teaches the Ten Commandments while arguing that the law points to a divine atonement rather than securing salvation by itself.",
+  "summary": "When the priests and king move to seize Abinadi he rebukes them, warns them not to touch him, and is divinely protected; his face shines like Moses’ when he spoke with God. He finishes his public warning, then reads the Decalogue to them and challenges whether they have taught the people to keep those commandments. Abinadi affirms that the Law of Moses was expedient for a stiff-necked people but insists that the law alone cannot save—salvation requires the atonement God himself will provide. He concludes by asserting that Moses and the prophets foretold a Messiah who would come, take on human form, be afflicted, and accomplish resurrection and redemption.",
+  "externalContext": "This chapter appears in the Book of Mormon, a text published in the early 19th century that presents itself as an ancient record of peoples in the Americas. The chapter intentionally echoes Old Testament traditions and motifs—especially the Ten Commandments and the account of Moses' radiant face—and reflects ancient Near Eastern concerns about covenant law, prophetic authority, and sacrificial systems. Debates about law versus atonement, and the idea that ritual observance foreshadows deeper redemptive events, are central in Second Temple Jewish thought and in early Christian interpretation of the Hebrew scriptures.",
+  "externalReferences": "The recitation of the Ten Commandments echoes Exodus 20:2–17 (the Decalogue) and the description of a radiant face directly parallels Exodus 34:29–35, where Moses’ face shines after communing with God. The chapter’s emphasis that the law is a 'type' and cannot save apart from a divine atonement has strong parallels with New Testament treatments of the law as shadow or type, notably Hebrews 10:1 (the law as a shadow of good things to come). The prediction that the Messiah would be afflicted and effect resurrection resonates with passages like Isaiah 53:3–5 (the suffering servant) and other prophetic texts that early interpreters applied to a coming redeemer.",
+  "seeAlso": [
+    "Exodus 20:2-17",
+    "Exodus 34:29-35",
+    "Isaiah 53:3-5",
+    "Hebrews 10:1",
+    "Mosiah 12:1-6",
+    "Mosiah 14:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Challenge and Protection"
+    },
+    {
+      "range": "7-11",
+      "title": "Finishing the Message"
+    },
+    {
+      "range": "12-35",
+      "title": "Law, Atonement, Messiah"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Law and Atonement",
+    "Divine Authority",
+    "Typology"
+  ],
+  "practicalQuestions": [
+    "When and how should communities accept prophetic criticisms of leaders and institutions?",
+    "How do we balance sincere obedience to moral commands with the theological claim that ritual law cannot by itself save?",
+    "In teaching ethics, how can leaders avoid merely performing rites while neglecting the moral intent behind commandments?",
+    "How can recognizing symbolic or 'typical' practices (rites, festivals, laws) deepen rather than replace trust in concrete acts of mercy or atonement?"
+  ],
+  "uncertainAreas": "The precise theological meaning of the phrase that 'God himself should come down' leaves room for interpretation (pre‑incarnate theophany vs. prophetic foreshadowing of an incarnation). There is also nuance in Abinadi’s view of when the Law of Moses ceases to be 'expedient' that the text does not fully time or specify. Broader historical claims about the Book of Mormon’s origins and ancient historicity are outside the scope of this chapter and were treated cautiously.",
+  "createdAt": "2025-10-18T23:31:05.026Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

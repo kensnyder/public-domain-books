@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Mosi.25",
+  "briefOverview": "A public reading of earlier records leads to emotional responses, conversions, and the formal establishment of local churches under Alma's leadership.",
+  "summary": "King Mosiah gathers the people and has him read the earlier records of Zeniff and the account of Alma and his brethren. The assembled people respond with wonder, joy for deliverance, sorrow for slain brethren, gratitude for God's help, and anguish over the sinful state of the Lamanites. Some descendants of Amulon reject their fathers' names and take the name Nephi, and the people of Zarahemla are numbered with the Nephites. Alma preaches repentance and faith, baptizes King Limhi and his people, and is authorized by Mosiah to establish churches and ordain priests and teachers throughout Zarahemla. Although organized into multiple local churches (seven in number), they are described as one church preaching the same core message, and the Lord pours out his Spirit upon them.",
+  "externalContext": "The narrative comes from the Book of Mormon, which frames its material as records of several related peoples (Nephites, Lamanites, and descendants of Mulek/Zarahemla). Public reading of records and genealogies is a common ancient Near Eastern and Near-East-adjacent practice for transmitting identity and law. The passage reflects concerns about group identity (names and lineage), formal religious rites (baptism by immersion), and emergent institutional structures for worship and teaching.",
+  "externalReferences": "The chapter explicitly refers to earlier narratives: the record of Zeniff (see the preceding Mosiah account of Zeniff's colony) and the account of Alma and his brethren (the chapters recounting Alma's flight, ministry, and deliverance). The baptismal practice connects to the earlier episode at the waters of Mormon where Alma baptized converts. The themes of church formation and unity echo New Testament descriptions of early Christian communities and communal baptism (compare Acts 2:41–47 and teachings about being born of water and spirit in John 3:5).",
+  "seeAlso": [
+    "Mosiah 9:1–22",
+    "Mosiah 17:1–24",
+    "Mosiah 18:1–21",
+    "Acts 2:41–47",
+    "John 3:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Gathering and Record Reading"
+    },
+    {
+      "range": "7-13",
+      "title": "Emotional Responses and Name Change"
+    },
+    {
+      "range": "14-24",
+      "title": "Alma's Ministry and Church Organization"
+    }
+  ],
+  "themes": [
+    "Record-keeping",
+    "Conversion",
+    "Church organization",
+    "Unity"
+  ],
+  "practicalQuestions": [
+    "How do we use communal memory or records today to shape corporate identity and gratitude for past deliverance?",
+    "What practices help a religious community remain unified while allowing local congregations to form and govern themselves?",
+    "How should communities respond pastorally and practically to members who repudiate family or past identities to join a new faith community?",
+    "In what ways can leaders ensure that baptism and other rites remain grounded in repentance and sustained faith rather than merely ceremonial acts?"
+  ],
+  "uncertainAreas": "Degree of symbolism in 'seven churches' (literal count versus symbolic number) and the longer-term social/political effects of numbering the people of Zarahemla with the Nephites; also precise chapter/verse boundaries for the earlier records referenced were summarized from internal clues rather than exact citations.",
+  "createdAt": "2025-10-18T23:37:24.862Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

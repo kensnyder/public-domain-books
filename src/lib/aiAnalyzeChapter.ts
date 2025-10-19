@@ -60,21 +60,22 @@ const quotify = (o: string) => o.replace(/‘‘/g, '"').replace(/’’/g, '"')
 
 // Schema for the scriptural analysis response
 export const schema = z.object({
-  briefOverview: z.string().refine(quotify),
-  summary: z.string().refine(quotify),
-  externalContext: z.string().refine(quotify),
-  externalReferences: z.string().refine(quotify),
-  seeAlso: z.array(z.string().refine(dashify)),
+  // Use plain types in the generation schema; normalize after generation
+  briefOverview: z.string(),
+  summary: z.string(),
+  externalContext: z.string(),
+  externalReferences: z.string(),
+  seeAlso: z.array(z.string()),
   sectionTitles: z
     .array(
       z.object({
-        range: z.string().refine(dashify),
-        title: z.string().refine(quotify),
+        range: z.string(),
+        title: z.string(),
       }),
     )
     .default([]),
-  themes: z.array(z.string().refine(quotify)),
-  practicalQuestions: z.array(z.string().refine(quotify)),
+  themes: z.array(z.string()),
+  practicalQuestions: z.array(z.string()),
   uncertainAreas: z.string(),
 });
 
@@ -103,19 +104,38 @@ export async function aiAnalyzeChapter(chapterText: string) {
     apiKey: Bun.env.OPENAI_API_KEY,
   });
 
+  const normalize = (obj: ChapterAnalysis): ChapterAnalysis => {
+    return {
+      briefOverview: quotify(obj.briefOverview),
+      summary: quotify(obj.summary),
+      externalContext: quotify(obj.externalContext),
+      externalReferences: quotify(obj.externalReferences),
+      seeAlso: (obj.seeAlso || []).map((s) => dashify(s)),
+      sectionTitles: (obj.sectionTitles || []).map((s) => ({
+        range: dashify(s.range),
+        title: quotify(s.title),
+      })),
+      themes: (obj.themes || []).map((t) => quotify(t)),
+      practicalQuestions: (obj.practicalQuestions || []).map((p) => quotify(p)),
+      uncertainAreas: obj.uncertainAreas,
+    };
+  };
+
   try {
-    return await generateObject({
+    const result = await generateObject({
       model: openai(Bun.env.AI_MODEL_ID),
       prompt,
       schema,
     });
+    // Apply normalization post-generation to avoid using Zod transforms in JSON Schema
+    return { ...result, object: normalize(result.object as ChapterAnalysis) };
   } catch (err) {
     const error = err instanceof Error ? err : new Error(String(err));
-
-    error.message = `aiAnalyzeChapter failed: ${error.message}\ninputLength: ${allText.length}\nmodel: ${Bun.env.AI_MODEL_ID}`;
+    console.error(error);
+    let message = `aiAnalyzeChapter failed: ${error.message}\ninputLength: ${allText.length}\nmodel: ${Bun.env.AI_MODEL_ID}`;
     if (error.cause) {
-      error.message += `\ncause: ${String(error.cause)}`;
+      message += `\ncause: ${String(error.cause)}`;
     }
-    throw error;
+    throw new Error(message);
   }
 }

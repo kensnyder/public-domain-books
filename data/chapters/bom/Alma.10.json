@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Alma.10",
+  "briefOverview": "Amulek testifies of his lineage, conversion, and divine call, then warns the people of Ammonihah about impending judgment while facing opposition from the city's lawyers.",
+  "summary": "Amulek introduces himself, recounting his prominent family, wealth, previous hardness of heart, and a dramatic conversion following an angelic command to receive and feed Alma. He testifies that divine blessing has come upon his household and affirms Alma's prophetic mission, giving the people a second witness. Amulek rebukes the lawyers and judges, accusing them of laying the foundations of destruction by their unrighteousness and of setting traps to entangle the righteous. He warns that unless the people repent, they will be visited with famine, pestilence, and the sword—punishments averted only by the prayers of the righteous. The crowd grows angry, accusing him of reviling the law and its legal experts; Zeezrom is introduced as the chief accuser and as a skilled, gain-seeking lawyer.",
+  "externalContext": "The book is set in the Nephite political era after the reign of kings when the people were governed by judges (a change narrated in Mosiah). Public legal advocates ('lawyers') here function as professional advocates in civic trials rather than modern defense attorneys. The rhetoric of prophetic warning and threat of divine punishment (famine, pestilence, sword) follows ancient Near Eastern and biblical patterns in which covenant community sin brings communal calamity.",
+  "externalReferences": "Amulek explicitly echoes a warning attributed to Mosiah about the dangers of the people choosing iniquity; see Mosiah 29 (the account that explains transferring power from kings to judges and warns of societal ruin if people choose wickedness). The image of a 'writing which was upon the wall, which was written by the finger of God' recalls Daniel 5 (Belshazzar's feast and the mysterious writing interpreted by Daniel). The comparison to the people being destroyed 'as were the people in the days of Noah' alludes to the Genesis flood narrative (Genesis 6–9). The proclamation that 'the kingdom of heaven is at hand' parallels prophetic kingdom-declarations in the New Testament (cf. Matthew 3:2).",
+  "seeAlso": [
+    "Mosiah 29:26-29",
+    "Daniel 5",
+    "Genesis 6-9",
+    "Matthew 3:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Amulek's Testimony"
+    },
+    {
+      "range": "12-23",
+      "title": "Prophetic Warning"
+    },
+    {
+      "range": "24-32",
+      "title": "Opposition of Lawyers"
+    }
+  ],
+  "themes": [
+    "Prophetic authority",
+    "Repentance",
+    "Corrupt leadership",
+    "Conversion"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when prophetic warnings criticize civic leaders or legal systems?",
+    "In what ways can a person who once resisted spiritual truth be received and supported after conversion?",
+    "How do we distinguish lawful critique of institutions from destructive slander, and what safeguards should exist?",
+    "What responsibility do the righteous have to intercede (pray) for a society that faces collective consequences for injustice?"
+  ],
+  "uncertainAreas": "Uncertainty about the wider canonical story of Aminadi and the specific earlier incidents he is tied to (only briefly referenced here). The precise historical role and procedures of 'lawyers' in Nephite society are not detailed in the chapter, leaving some ambiguity about legal practice. It is also not explicit whether phrases like 'kingdom of heaven is at hand' are intended as direct Messianic claims or as general prophetic formulae in this context.",
+  "createdAt": "2025-10-18T23:49:42.322Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
