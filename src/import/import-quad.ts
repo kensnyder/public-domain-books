@@ -47,7 +47,11 @@ async function main() {
   }
   const text = await res.text();
   const fixed = text.replace(/\\\\"/g, '\\"');
-  const verses = JSON.parse(fixed) as unknown as RemoteData[];
+  let verses = JSON.parse(fixed) as unknown as RemoteData[];
+  verses = verses.filter(
+    (v) => v.volume_long_title === 'The Pearl of Great Price',
+  );
+  verses.push({ volume_long_title: 'The Book of Mormon' });
 
   let verseSequence = -1;
   let lastWork = '';

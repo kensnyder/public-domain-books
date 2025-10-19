@@ -1,0 +1,52 @@
+{
+  "chapterOsisID": "JSH.1",
+  "briefOverview": "Joseph Smith narrates his early life, the First Vision, subsequent angelic visitations, and the beginnings of the Book of Mormon translation and priesthood restoration. The chapter frames his calling and the emergence of the Church in response to religious confusion and divine direction.",
+  "summary": "Joseph Smith recounts a region-wide religious revival that stirred him, at age 14, to seek guidance from God after reading James 1:5; in prayer he experienced a vision of two divine Personages who told him not to join any existing sect. He describes ensuing ridicule and persecution, but affirms the reality of his vision. In 1823, the angel Moroni appeared repeatedly, foretold that Joseph’s name would be spoken for good and ill, and told him of gold plates containing a record and instruments (Urim and Thummim) prepared for translation, instructing him annually until 1827 when he received the plates. Opposition intensified as others sought the plates, yet he preserved them long enough to begin translation and later delivered them back to the messenger. With Oliver Cowdery as scribe in 1829, Joseph resumed translation; as they sought light about baptism, John the Baptist conferred the Aaronic Priesthood, and they baptized and ordained each other, experiencing the Holy Ghost and increased scriptural understanding. The narrative closes with mention of secrecy due to persecution and protective support from family.",
+  "externalContext": "The events occur amid the Second Great Awakening (c. 1790s–1840s), a period of intense revivalism in the United States, especially in western New York’s “burned-over district,” where Methodist, Baptist, and Presbyterian competition was common. Joseph Smith’s 1838 composition of this account later appeared in 1842 in the Nauvoo newspaper Times and Seasons and became part of the Latter-day Saint Pearl of Great Price. Debates over ongoing revelation and cessationism were prominent; many Protestant leaders argued that visions and angelic ministry had ceased with the apostles. Folk beliefs about buried treasure and seeric practices circulated in the region and affected both supporters’ and detractors’ perceptions of Smith. The account reflects the Latter-day Saint claim of a restorative work reintroducing priesthood authority and sacred texts.",
+  "externalReferences": "The narrative explicitly cites or quotes several biblical passages: James 1:5 as the catalyst to pray; Malachi 3–4 with variant wording about a coming day and Elijah’s role; Isaiah 11 as nearing fulfillment; Acts 3:22–23 identifying Christ as the Prophet; and Joel 2:28–32 about the Spirit poured out in the last days. The rebuke about creeds and professors echoes biblical language about drawing near with lips while hearts are far (Isaiah 29:13; Matthew 15:8–9) and having a form of godliness but denying the power (2 Timothy 3:5). Joseph likens his testimony before persecutors to Paul’s vision-defense before Agrippa (Acts 26:12–19). The term Urim and Thummim recalls priestly instruments in the Hebrew Bible (Exodus 28:30), and the “sons of Levi” offering in righteousness resonates with Malachi 3:3; the account of John the Baptist’s ordination is paralleled in Latter-day Saint scripture (Doctrine and Covenants 13).",
+  "seeAlso": [
+    "James 1:5",
+    "Malachi 3:1-4",
+    "Malachi 4:1,5-6",
+    "Isaiah 11:1-12",
+    "Acts 3:22-23",
+    "Joel 2:28-32",
+    "Matthew 15:8-9",
+    "2 Timothy 3:5",
+    "Acts 26:12-19",
+    "Exodus 28:30",
+    "Malachi 3:3",
+    "Doctrine and Covenants 13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-27",
+      "title": "Background and First Vision"
+    },
+    {
+      "range": "28-61",
+      "title": "Moroni, Plates, and Opposition"
+    },
+    {
+      "range": "62-75",
+      "title": "Translation and Aaronic Priesthood"
+    }
+  ],
+  "themes": [
+    "Revelation",
+    "Restoration",
+    "Priesthood authority",
+    "Persecution",
+    "Prayer and discernment"
+  ],
+  "practicalQuestions": [
+    "When faced with competing religious claims, how do I seek wisdom from God rather than only from debate or polemics?",
+    "What practices can help me discern motives and keep sacred pursuits aimed at God’s glory rather than personal gain?",
+    "How might I respond constructively to skepticism or opposition without abandoning convictions?",
+    "In what ways can scripture study and prayer jointly open deeper understanding?",
+    "What responsibilities follow from spiritual experiences or answers to prayer?"
+  ],
+  "uncertainAreas": "The extent to which certain quoted phrases intentionally conflate multiple scriptures (e.g., Isaiah 29:13/Matthew 15:8–9 with 2 Timothy 3:5) is not specified; the link between Anthon’s “sealed book” remark and Isaiah 29:11 is suggestive but not explicit. Details of the Anthon visit rely on secondhand report within the text. Verse ranges for thematic sections are interpretive groupings.",
+  "createdAt": "2025-10-19T16:21:21.162Z",
+  "modelId": "gpt-5-2025-08-07"
+}

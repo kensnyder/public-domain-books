@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "AofF.1",
+  "briefOverview": "A concise declaration of Latter-day Saint core beliefs, outlining doctrine on God, salvation, ordinances, authority, revelation, future hope, and ethics.",
+  "summary": "Thirteen statements affirm belief in the Godhead; individual accountability for sin; salvation through Christ’s Atonement conditioned on obedience to gospel laws and ordinances; and the first principles and ordinances of faith, repentance, baptism by immersion, and the laying on of hands for the gift of the Holy Ghost. They assert divinely authorized ministry through proper calling and ordination, the restoration of the primitive church’s offices, and the reality of spiritual gifts. The scriptures are affirmed as God’s word (with a qualification on Bible translation), alongside the Book of Mormon, and the text proclaims ongoing revelation. Eschatological hopes include the literal gathering of Israel, restoration of the Ten Tribes, building Zion (the New Jerusalem) on the American continent, Christ’s personal reign, and the earth’s renewal. The document upholds religious liberty for all, obedience to civil law, and a life of virtue shaped by Paul’s admonition to seek what is virtuous, lovely, and praiseworthy.",
+  "externalContext": "These Articles of Faith were articulated by Joseph Smith in 1842 (commonly associated with the “Wentworth Letter”) as a succinct presentation of Latter-day Saint beliefs amid 19th‑century American religious pluralism and restorationist movements. They later became part of the Pearl of Great Price, a Latter-day Saint canonized text. The period saw debates over authority, revivalist emphases on conversion and holiness, and growing interest in millenarian expectations, all reflected in the document’s stress on priesthood authority, spiritual gifts, and the gathering of Israel. The mention of religious liberty resonates with the American constitutional context and the Latter-day Saints’ own experience with persecution and relocation.",
+  "externalReferences": "Several items echo New Testament patterns: offices such as apostles, prophets, evangelists (Ephesians 4:11), spiritual gifts (1 Corinthians 12:8–10), and foundational principles including repentance, baptism, and laying on of hands (Acts 2:38; Hebrews 6:1–2). Obedience to civil authorities mirrors teachings in Romans 13:1–7. The ethical close paraphrases Paul’s language about virtuous focus (Philippians 4:8) and love’s endurance and hope (1 Corinthians 13:7). Gathering of Israel and millennial expectations resonate with Isaiah 11:11–12 and Revelation 20:4–6, while Latter-day Saint scripture provides further specificity on spiritual gifts (Moroni 10:8–18) and the New Jerusalem on the American continent (Ether 13:3–6).",
+  "seeAlso": [
+    "Acts 2:38",
+    "Hebrews 6:1-2",
+    "Ephesians 4:11",
+    "1 Corinthians 12:8-10",
+    "Moroni 10:8-18",
+    "Isaiah 11:11-12",
+    "Ether 13:3-6",
+    "Revelation 20:4-6",
+    "Romans 13:1-7",
+    "Philippians 4:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Godhead and Ordinances"
+    },
+    {
+      "range": "6-9",
+      "title": "Organization and Revelation"
+    },
+    {
+      "range": "10-13",
+      "title": "Gathering, Liberty, Virtue"
+    }
+  ],
+  "themes": [
+    "Godhead",
+    "Ordinances and Atonement",
+    "Priesthood authority",
+    "Continuing revelation",
+    "Ethical living"
+  ],
+  "practicalQuestions": [
+    "How does personal accountability for sin shape my approach to repentance and reconciliation?",
+    "What does faithful obedience to the listed ordinances look like in my current spiritual practice?",
+    "How can I discern and support properly authorized leaders while also nurturing my own spiritual gifts?",
+    "In what concrete ways can I seek and recognize ongoing revelation from God without neglecting established scripture?",
+    "How do I balance religious liberty for all with obedience to civil law in contentious public settings?",
+    "Which specific virtues from the closing verse can I intentionally cultivate this week?"
+  ],
+  "uncertainAreas": "The exact scope and mechanics of the “restoration of the Ten Tribes,” the specifics of Zion’s location and timing, and how “as far as translated correctly” should be applied to particular biblical passages are not detailed in the text and can be interpreted differently within Latter-day Saint discussions.",
+  "createdAt": "2025-10-19T16:21:56.068Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "JSM.1",
+  "briefOverview": "Jesus delivers an Olivet discourse (JST version) distinguishing the destruction of Jerusalem from future end-time events, warning against deception and urging steadfast watchfulness.",
+  "summary": "Jesus foretells the temple’s destruction and answers the disciples’ private questions about Jerusalem’s fall, his coming, and the end of the world. He warns of deceivers, persecutions, and growing iniquity, promising salvation to those who remain steadfast. He instructs flight from Judea when the “abomination of desolation” appears, describing unparalleled tribulation upon the Jews, yet shortened for the elect. After those days, further deceivers arise, global turmoil increases, and the gospel is preached worldwide; cosmic signs then herald the Son of Man’s glorious coming and the angelic gathering of the elect. Using the fig tree, he teaches discernment of the season, while affirming no one knows the precise day or hour. As in Noah’s days, many will be unprepared; therefore disciples must watch and be faithful stewards lest sudden judgment fall on the hypocritical and wicked.",
+  "externalContext": "This discourse corresponds to Jesus’ teaching on the Mount of Olives overlooking Jerusalem, traditionally called the Olivet Discourse. The prophecy of the temple’s destruction aligns with the Roman siege of Jerusalem in 70 CE, when Titus’ forces razed the Second Temple. Warnings about fleeing Judea and avoiding retrieval of possessions echo conditions during siege warfare and the topography of Judea’s hill country as a refuge. References to winter and Sabbath recognize practical constraints on travel in ancient Judea, including stricter Sabbath travel limits among observant Jews. The apocalyptic imagery of cosmic signs and angelic gathering reflects a Second Temple Jewish milieu where prophetic and apocalyptic literature used celestial disturbances to signify divine intervention.",
+  "externalReferences": "The “abomination of desolation” is explicitly linked to Daniel (Daniel 9:27; 12:11), providing a framework for both the first-century crisis and a future fulfillment. The vision of the Son of Man coming with clouds echoes Daniel 7:13–14. The opening acknowledgment of “Blessed is he who comes in the name of the Lord” recalls Psalm 118:26. The comparison to the days of Noah draws on Genesis 6–7, emphasizing sudden judgment amid ordinary life. The darkened sun, failed moon, and falling stars resonate with prophetic motifs in Joel 2:31 and Isaiah 13:10.",
+  "seeAlso": [
+    "Matthew 24:1-51",
+    "Luke 21:5-36",
+    "Daniel 9:27",
+    "Daniel 12:11",
+    "Daniel 7:13-14",
+    "Genesis 6:5-7:24",
+    "Joel 2:31",
+    "Psalm 118:26",
+    "Deuteronomy 18:15,19",
+    "Doctrine and Covenants 45:16-59"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-21",
+      "title": "Jerusalem’s fall and warnings"
+    },
+    {
+      "range": "22-37",
+      "title": "Signs and gathering of elect"
+    },
+    {
+      "range": "38-55",
+      "title": "Watchfulness and faithful stewardship"
+    }
+  ],
+  "themes": [
+    "Deception",
+    "Perseverance",
+    "Watchfulness",
+    "Second Coming",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate discernment so I am not deceived by persuasive spiritual claims or signs?",
+    "What habits help me remain steadfast when love grows cold or opposition increases?",
+    "In what practical ways can I live in readiness, given that the exact timing of the Lord’s coming is unknown?",
+    "How can I be a faithful steward—caring for others and my responsibilities—while I “watch” for the Lord?",
+    "What does it mean for me to “treasure up” Christ’s words so I am not deceived?"
+  ],
+  "uncertainAreas": "The chapter presents dual fulfillments of the “abomination of desolation” (historical and future), which invites varied timelines. The meaning of “this generation” (v. 34) is debated—whether it refers to the generation that sees the specified signs or to Jesus’ contemporaries in a typological sense. The parable of the carcass and eagles (v. 27) is terse and figurative, leaving its precise referent (judgment, gathering, or both) open. The identity of those “taken” versus “left” (vv. 44–45) is not explicitly defined and can be interpreted either as rescue or as removal in judgment.",
+  "createdAt": "2025-10-19T16:20:23.559Z",
+  "modelId": "gpt-5-2025-08-07"
+}

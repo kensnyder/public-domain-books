@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Abr.4",
+  "briefOverview": "A structured account of creation in six stages, repeatedly attributing the work to “the Gods” who organize, name, bless, and appoint functions within the cosmos.",
+  "summary": "The chapter narrates the organization of the heavens and the earth by “the Gods,” beginning with light distinguished from darkness and the establishment of day and night. They create an expanse to divide waters, gather the seas so dry land appears, and appoint the earth to bring forth vegetation according to kinds. The Gods then organize lights in the heavens to mark signs, seasons, days, and years. They prepare the waters and sky for living creatures, bless them to multiply, and then organize land animals. Finally, the Gods take counsel and form humankind, male and female, in their image, blessing them to be fruitful, fill the earth, subdue it, and exercise dominion over other creatures, with plants given for food; the narrative marks each stage by evening and morning and emphasizes creation’s obedience to divine ordering.",
+  "externalContext": "In Latter-day Saint scripture, the Book of Abraham is part of the Pearl of Great Price and presents a creation account parallel to Genesis, produced by Joseph Smith in the 1830s. The repeated use of “organize” instead of “create” reflects a Latter-day Saint emphasis on ordering preexistent materials rather than creation ex nihilo. The plural “Gods” and the phrase “Let us go down” resonate with divine council language known in ancient Near Eastern contexts. The cosmology of an “expanse” dividing waters above and below aligns with ancient conceptions of a structured sky-dome and primordial waters. The sixfold pattern with evening-morning refrains reflects a liturgical or structured framework common to ancient creation narratives.",
+  "externalReferences": "This chapter closely parallels Genesis 1:1–31, including the sequence of days, the division of light and darkness, the expanse, the appointment of lights for “signs and seasons” (Genesis 1:14), and the creation of humankind in the divine image (Genesis 1:26–27). The grant of dominion to humanity echoes Genesis 1:26–28 and is thematically reinforced by Psalm 8:4–8, which celebrates human rule over created beings under God. Within Latter-day Saint scripture, Moses 2:1–31 presents a near-verbatim parallel to the Genesis structure and language, offering another internal comparison point.",
+  "seeAlso": [
+    "Genesis 1:1-31",
+    "Genesis 1:26-28",
+    "Psalm 8:4-8",
+    "Moses 2:1-31",
+    "Abraham 5:1-21",
+    "John 1:1-3",
+    "Colossians 1:15-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Forming heaven and earth"
+    },
+    {
+      "range": "14-19",
+      "title": "Lights for signs and seasons"
+    },
+    {
+      "range": "20-31",
+      "title": "Living creatures and humankind"
+    }
+  ],
+  "themes": [
+    "Creation order",
+    "Divine council",
+    "Obedience of creation",
+    "Dominion and stewardship",
+    "Fruitfulness"
+  ],
+  "practicalQuestions": [
+    "How should the grant of dominion be practiced today as wise stewardship over animals and the earth’s resources?",
+    "What does being made in the divine image imply for how we view human worth and treat other people?",
+    "How might the text’s emphasis on order and obedience shape personal habits, work, and worship?",
+    "In what ways can marking times and seasons (day, night, sacred times) help structure a life oriented toward God?",
+    "How do we balance fruitfulness and multiplication with care for creation’s wellbeing?"
+  ],
+  "uncertainAreas": "The text’s reference to “the Gods” and the plural counsel (“Let us go down”) leaves open questions about the identity and number of divine actors. The term “organize” suggests ordering preexisting matter, but the mechanism and timeline are not specified. The nature of the “expanse” and “waters above” is unclear in modern terms, and whether the six “times” are literal days or a literary framework is not stated.",
+  "createdAt": "2025-10-19T16:18:09.471Z",
+  "modelId": "gpt-5-2025-08-07"
+}

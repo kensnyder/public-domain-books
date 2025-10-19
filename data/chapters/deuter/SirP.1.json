@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "SirP.1",
+  "briefOverview": "The translator introduces Sirach, praising Israel’s wisdom tradition and explaining his purpose in translating the Hebrew work into Greek despite the limits of translation.",
+  "summary": "The writer commends the wisdom given through the Law, Prophets, and other ancestral books, for which Israel should be praised. He explains that his grandfather Jesus (ben Sira), after diligent study, composed a work to strengthen readers in doctrine and in living according to the Law. The translator urges readers to be patient with stylistic shortcomings that arise in rendering Hebrew into another language, noting that even the Law and Prophets differ when not in their original tongue. He reports that during the reign of King Ptolemy Euergetes, after long residence in Egypt, he found important books and undertook the labor of translating this work for those seeking instruction and obedience to the Lord’s Law.",
+  "externalContext": "Sirach (also called Ecclesiasticus) was composed in Hebrew in early second-century BCE Jerusalem by Jesus ben Sira; a Greek translation was later produced by his grandson in Egypt. The prologue situates the translation in the Ptolemaic era and is commonly dated to the reign of Ptolemy VIII Euergetes II (second century BCE), when many Jews lived in the Hellenistic diaspora. This period saw significant translation activity of Hebrew Scriptures into Greek (the Septuagint), used by Greek-speaking Jews and later by early Christians. The prologue is one of the earliest texts explicitly acknowledging a tripartite Jewish collection: Law, Prophets, and other writings.",
+  "externalReferences": "The mention of “the Law, the Prophets, and the other books” recalls the tripartite view of Scripture also reflected in Luke 24:44 and the phrase “the Law and the Prophets” found in Matthew 5:17. The call to live according to the Law aligns with Joshua 1:8 and Psalm 1:1–2, which emphasize meditation on the Law leading to righteous living. The concern for clear reading and explanation has an analogue in Nehemiah 8:8, where the Law is read and the sense is given so people can understand.",
+  "seeAlso": [
+    "Luke 24:44",
+    "Matthew 5:17",
+    "Joshua 1:8",
+    "Psalm 1:1-2",
+    "Nehemiah 8:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Israel’s wisdom legacy"
+    },
+    {
+      "range": "3-5",
+      "title": "Apology for translation limits"
+    },
+    {
+      "range": "6-9",
+      "title": "Historical note and purpose"
+    }
+  ],
+  "themes": [
+    "Wisdom and Law",
+    "Translation limits",
+    "Diligent study",
+    "Instruction for life"
+  ],
+  "practicalQuestions": [
+    "How should awareness of translation limits shape my interpretation of sacred texts?",
+    "What concrete practices can I adopt to study diligently and live according to the teachings I learn?",
+    "How can I honor the wisdom of tradition while communicating it clearly in my language and culture?",
+    "In what ways can I cultivate patience and charity when encountering stylistic or textual differences across translations?",
+    "What motivates my study: information acquisition or formation in a way of life?"
+  ],
+  "uncertainAreas": "The identity of “King Ptolemy Euergetes” is debated (often identified as Ptolemy VIII Euergetes II rather than Ptolemy III); the precise meaning of “thirty-eighth year” and its relation to the translator’s arrival or the king’s reign varies among textual traditions.",
+  "createdAt": "2025-10-19T02:55:20.346Z",
+  "modelId": "gpt-5-2025-08-07"
+}
