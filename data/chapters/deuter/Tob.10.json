@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Tob.10",
+  "briefOverview": "Tobit and Anna anxiously await Tobias’s return, while Raguel formally sends the newlyweds off with blessings and gifts.",
+  "summary": "Tobit counts the days and grows concerned when Tobias does not return as expected, fearing something has gone wrong with Gabael or the money. Anna grieves bitterly, fasting by day and weeping at night, convinced their son has died. Meanwhile, the fourteen days of wedding celebration that Raguel had sworn are completed. Tobias asks to depart, declining Raguel’s offer to send word ahead, so Raguel gives Sarah to him along with half his goods and blesses them for a prosperous journey. Raguel exhorts Sarah to honor her in-laws, and Edna prays to see grandchildren and entrusts her daughter to Tobias with a warning not to mistreat her.",
+  "externalContext": "The narrative is set during the Assyrian exile, when many Israelites lived in places like Nineveh and Media; long-distance travel between cities such as Nineveh and Ecbatana could take weeks, with no reliable communication, intensifying family anxiety. In the ancient Near East, wedding feasts could be extended, sometimes lasting a week or more; in Tobit, Raguel’s promise creates a fourteen-day celebration period. It was also customary for a bride’s family to send her off with gifts or dowry and to bestow blessings at departure, underscoring the familial and covenantal nature of marriage.",
+  "externalReferences": "The fourteen-day wedding period fulfills Raguel’s earlier promise (Tobit 8:20). Raguel’s instruction that Sarah honor her in-laws echoes the broader biblical command to honor father and mother (Deuteronomy 5:16) and resonates with wisdom traditions on filial piety (Sirach 3:1–16). The send-off with blessings and gifts parallels the departure of Rebekah with family blessing and wealth (Genesis 24:59–60). Edna’s charge not to mistreat Sarah aligns with ethical exhortations on marital care (e.g., Colossians 3:19).",
+  "seeAlso": [
+    "Tobit 8:20",
+    "Deuteronomy 5:16",
+    "Sirach 3:1-16",
+    "Genesis 24:59-60",
+    "Colossians 3:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Parents’ anxious waiting"
+    },
+    {
+      "range": "8-12",
+      "title": "Farewell, gifts, and blessings"
+    }
+  ],
+  "themes": [
+    "Parental anxiety",
+    "Filial piety",
+    "Marriage blessings",
+    "Providence"
+  ],
+  "practicalQuestions": [
+    "How do I balance honoring parents and in-laws with new marital responsibilities?",
+    "What practices help me respond to anxiety about loved ones who are far away?",
+    "In what concrete ways can spouses ensure they do not mistreat or neglect one another?",
+    "How can family blessings and affirmations strengthen a couple starting out?",
+    "When should I honor commitments to hosts or obligations, and when is it right to press for an earlier departure?"
+  ],
+  "uncertainAreas": "The narrative’s chronology and travel duration are implied, not specified; the extent and literalness of Raguel giving “half his goods” may reflect conventional dowry/gift language. There are textual variations across Tobit’s manuscripts that could nuance details.",
+  "createdAt": "2025-10-19T03:31:04.045Z",
+  "modelId": "gpt-5-2025-08-07"
+}

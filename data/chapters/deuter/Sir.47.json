@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Sir.47",
+  "briefOverview": "Sirach 47 celebrates David’s God-centered leadership and worship reforms, then turns to Solomon’s wisdom, wealth, and subsequent failings that precipitated Israel’s division, while affirming God’s enduring mercy and preservation of a remnant.",
+  "summary": "Nathan’s prophetic role frames a hymn-like praise of David, distinguished among Israel for courage and victories, notably over Goliath, and for wholehearted praise of God (1–10). David organized temple worship with singers and set festival order; God forgave his sins, exalted his strength, and confirmed an everlasting covenant and throne (11–13). Solomon, rising after David, enjoyed peace, extraordinary wisdom, widespread fame, and immense wealth (14–20). Yet his love of women led to moral compromise, staining his legacy and provoking consequences that divided the kingdom and empowered Ephraim (21–23). Even so, God preserved mercy and a remnant for Jacob and David’s line (24–25). The narrative concludes by naming Rehoboam’s folly and Jeroboam’s sins as multiplying wickedness, leading the people away from their land and into punishment (26–31).",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in the early 2nd century BCE by Jesus ben Sira in Hebrew, later translated into Greek by his grandson. Written in the Second Temple period, it reflects deep concern for temple worship, the Davidic legacy, and fidelity to the Law. The chapter presumes knowledge of Israel’s monarchic history: David’s consolidation of the kingdom, Solomon’s temple-building, and the later split between the northern (often called “Ephraim” or Israel) and southern (Judah) kingdoms. References to singers by the altar align with Levitical musical guilds serving in the Jerusalem Temple. The emphasis on a preserved “remnant” resonates with post-exilic hopes and ongoing identity under foreign rule.",
+  "externalReferences": "David’s defeat of Goliath and public acclaim echo 1 Samuel 17 and 18:7. David’s covenantal promise and enduring throne reflect 2 Samuel 7:12–16, while his forgiven sin recalls 2 Samuel 12:13. The organization of temple music and liturgy parallels 1 Chronicles 25:1–7. Solomon’s wisdom, proverbs, and fame recall 1 Kings 4:29–34; his wealth is portrayed in 1 Kings 10:14–27. His marriages and idolatry leading to the kingdom’s division are narrated in 1 Kings 11:1–13, with Rehoboam’s folly and Jeroboam’s cultic innovations in 1 Kings 12:1–33. The result—Israel’s being “turned away from their land”—aligns with later accounts of exile, such as 2 Kings 17:21–23.",
+  "seeAlso": [
+    "1 Samuel 17:1-54",
+    "2 Samuel 7:12-16",
+    "2 Samuel 12:13",
+    "1 Chronicles 25:1-7",
+    "1 Kings 4:29-34",
+    "1 Kings 10:14-27",
+    "1 Kings 11:1-13",
+    "1 Kings 12:1-33",
+    "2 Kings 17:21-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "David’s praise and covenant"
+    },
+    {
+      "range": "14-23",
+      "title": "Solomon’s wisdom and fall"
+    },
+    {
+      "range": "24-31",
+      "title": "Mercy, schism, and judgment"
+    }
+  ],
+  "themes": [
+    "Divine mercy",
+    "Covenant kingship",
+    "Worship and wisdom",
+    "Consequences of sin",
+    "Remnant"
+  ],
+  "practicalQuestions": [
+    "How can public worship and personal devotion reinforce each other in leadership and community life?",
+    "Where might present strengths (wisdom, success, peace) conceal vulnerabilities that could lead to compromise?",
+    "What safeguards help leaders avoid private failures that carry public, generational consequences?",
+    "How do we hold together God’s discipline and God’s mercy when evaluating a person’s legacy?",
+    "In what ways do communal practices today risk creating a “way of sin,” and how can communities correct course?"
+  ],
+  "uncertainAreas": "Pronouns are sometimes ambiguous (e.g., in verses 6–7 about who “swore” or “glorified” whom). The phrase about punishment that “freed them from every kind of sin” (v. 31) is translation-sensitive and could mean removal from the land as judgment rather than moral purification. The expression “even to this day” (v. 8) reflects the author’s vantage point and may not indicate a specific historical date.",
+  "createdAt": "2025-10-19T03:22:11.795Z",
+  "modelId": "gpt-5-2025-08-07"
+}

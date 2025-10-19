@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Wis.4",
+  "briefOverview": "The chapter contrasts the lasting honor of virtue with the fragile legacy of the ungodly, and reframes early death of the righteous as divine mercy. It forecasts the ultimate vindication of the wise and the judgment of the wicked.",
+  "summary": "The writer asserts that virtue is a better memorial than numerous descendants, for it is recognized by God and admired by people, while the offspring of the ungodly will not take lasting root. Using plant imagery, he predicts that corrupt lines will wither, their fruit proving unfit. He then reframes the early death of the righteous as rest and perfection: true old age is defined by wisdom and an unstained life, not by years. God may “translate” a righteous person early to spare him from moral corruption and deceit, though the people fail to grasp that divine favor rests on such individuals. The lives and deaths of the righteous will expose and condemn the living wicked, who will ultimately face humiliation, ruin, and a fearful reckoning where their own iniquities testify against them.",
+  "externalContext": "The Wisdom of Solomon is commonly dated to the late first century BCE or early first century CE and was likely composed in Greek by a Hellenistic Jewish author, often associated with Alexandria. In that milieu, fertility and longevity were widely prized, yet Hellenistic-Jewish wisdom literature often reoriented honor values around moral excellence and divine approval. The text participates in a broader Second Temple Jewish development of afterlife hope and divine judgment, emphasizing that God’s evaluation transcends visible success and lifespan. The work frequently employs Greco-Roman rhetorical methods and Jewish sapiential themes to counsel a minority community living amid dominant cultures.",
+  "externalReferences": "The claim that the righteous who die are taken away from future evil closely resembles Isaiah 57:1–2, where no one understands that the righteous are spared from calamity and enter peace. The language of being “translated” evokes Enoch, who “was not; for God took him” (Genesis 5:24), and Elijah’s ascent (2 Kings 2:11), as paradigms of divine removal. The withering tree and unstable rooting of the wicked recall Psalm 1:3–5’s contrast between the flourishing righteous and the chaff-like wicked. The final fearful accounting where sins expose the guilty resonates with the imagery of heavenly books opened for judgment in Daniel 7:10.",
+  "seeAlso": [
+    "Isaiah 57:1-2",
+    "Genesis 5:24",
+    "2 Kings 2:11",
+    "Psalm 1:3-5",
+    "Daniel 7:10",
+    "Wisdom 3:1-9",
+    "Wisdom 5:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Virtue versus lineage"
+    },
+    {
+      "range": "7-15",
+      "title": "Early death as mercy"
+    },
+    {
+      "range": "16-20",
+      "title": "Vindication and judgment"
+    }
+  ],
+  "themes": [
+    "Virtue over lineage",
+    "Righteous death",
+    "Divine judgment",
+    "Wisdom as true age"
+  ],
+  "practicalQuestions": [
+    "Where do I derive my sense of honor and legacy—from character or from visible markers like success and family lines?",
+    "How might I interpret untimely loss in light of the claim that God may spare the righteous from corruption?",
+    "What practices help guard my understanding and desires from being altered by wickedness or seduced by deceit?",
+    "Do I evaluate age and maturity by years or by moral integrity and wisdom?",
+    "How does the prospect of an ultimate accounting shape my daily choices and treatment of others?"
+  ],
+  "uncertainAreas": "The term “translated” may suggest extraordinary removal (as with Enoch/Elijah) or simply a providential early death; the text does not specify a mechanism. The horticultural metaphors (“bastard slips,” “imperfect branches”) involve translation choices that affect nuance about illegitimacy and moral lineage. The pronouns in verses 18–19 alternate between the righteous and the wicked and between God and the wicked’s observers; precise referents can be debated in this compressed rhetoric.",
+  "createdAt": "2025-10-19T03:35:30.907Z",
+  "modelId": "gpt-5-2025-08-07"
+}

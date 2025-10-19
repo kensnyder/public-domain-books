@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.48",
+  "briefOverview": "A poetic encomium of Elijah, Elisha, Hezekiah, and Isaiah, highlighting prophetic power, divine intervention, and Israel’s stubbornness.",
+  "summary": "The chapter extols Elijah, whose fiery words brought drought, fire from heaven, resurrection of the dead, and judgment on kings; he was taken up in a fiery whirlwind and is associated with reconciling families and restoring Israel. Elijah’s spirit continued in Elisha, whose fearless ministry included signs even after his death. Despite these wonders, the people did not repent and were scattered, leaving only a small remnant with a Davidic leader. The focus then turns to Hezekiah, who secured Jerusalem’s water and faced Sennacherib’s arrogance. In their distress, the people prayed, and through Isaiah’s prophetic ministry God spared them as the Angel of the Lord struck the Assyrian army. Hezekiah received a sign as the sun turned back and added years to his life, while Isaiah foresaw and proclaimed future events.",
+  "externalContext": "Sirach (also called Ecclesiasticus) was composed by Ben Sira in early 2nd century BCE Jerusalem and later translated into Greek by his grandson; it belongs to the wisdom tradition and is revered in Catholic and Orthodox canons (often termed deuterocanonical). Chapters 44–50 form a sustained “Praise of the Ancestors,” offering moral exemplars from Israel’s history to guide a community living under Hellenistic pressures. Hezekiah’s waterworks likely refer to the tunnel channeling the Gihon Spring to the Pool of Siloam, a notable late 8th-century BCE engineering achievement. Sennacherib’s invasion of Judah occurred in 701 BCE; Assyrian records and biblical narratives both reference his campaign, though they differ on its outcome.",
+  "externalReferences": "Elijah’s drought and confrontation with Baal, fire from heaven, and raising the widow’s son appear in 1 Kings 17:1–24 and 18:17–46; the two episodes of fire consuming captains are in 2 Kings 1:9–12, and Elijah’s ascent is in 2 Kings 2:11. His visit to Horeb/Sinai and subsequent commissions align with 1 Kings 19:8–18, while the reconciliation of fathers and sons echoes Malachi 4:5–6. The statement about posthumous miracles corresponds to Elisha’s bones reviving a man in 2 Kings 13:21. Hezekiah’s crisis with Sennacherib and the Angel of the Lord’s deliverance are narrated in 2 Kings 18:13–19:37 and Isaiah 36–37, and the sign of the sun’s shadow moving backward with added years of life is in 2 Kings 20:1–11 and Isaiah 38:4–8.",
+  "seeAlso": [
+    "1 Kings 17:1-24",
+    "1 Kings 18:17-46",
+    "1 Kings 19:8-18",
+    "2 Kings 1:9-12",
+    "2 Kings 2:11",
+    "Malachi 4:5-6",
+    "2 Kings 13:21",
+    "2 Kings 18:13-19:37",
+    "Isaiah 36:1-39:8",
+    "2 Kings 20:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Elijah and Elisha exalted"
+    },
+    {
+      "range": "16-18",
+      "title": "Stubborn people and remnant"
+    },
+    {
+      "range": "19-28",
+      "title": "Hezekiah and Isaiah delivered"
+    }
+  ],
+  "themes": [
+    "Prophetic authority",
+    "Divine judgment and mercy",
+    "Repentance",
+    "Deliverance",
+    "Remnant"
+  ],
+  "practicalQuestions": [
+    "How do I respond when confronted with prophetic warnings or calls to repentance?",
+    "Where do I seek help in crisis—human strength or God’s intervention through prayer?",
+    "What practices help leaders (and communities) stay faithful under pressure?",
+    "How can my life reconcile estranged relationships rather than deepen division?",
+    "What legacy of faithfulness am I cultivating that may outlast my life?"
+  ],
+  "uncertainAreas": "“He anointed kings unto repentance” compresses complex narratives about Elijah/Elisha and royal anointings (1 Kings 19:15–16; 2 Kings 8–9), so the precise referent is not entirely clear. “After death, his body prophesied” is likely a poetic description of Elisha’s bones reviving a man (2 Kings 13:21), but the wording could be read more broadly. The line about heeding judgments at Sinai/Horeb likely alludes to Elijah’s encounter at Horeb (1 Kings 19), though the phrase “judgments of punishment” is somewhat opaque and may reflect translation nuances. The referent of “in his days, he was not fearful of the ruler” within the Elijah/Elisha section could ambiguously apply to either prophet, though the surrounding lines lean toward Elisha.",
+  "createdAt": "2025-10-19T03:22:48.556Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Sir.49",
+  "briefOverview": "Ben Sira honors exemplary leaders and prophets—especially Josiah—contrasting their faithfulness with the failures of most Judean kings and celebrating those who rebuilt after the exile.",
+  "summary": "Josiah’s memory is praised as fragrant and sweet because he led national repentance and removed impiety, directing his heart to the Lord. In contrast, apart from David, Hezekiah, and Josiah, the kings of Judah are condemned for abandoning the law, leading to foreign domination and Jerusalem’s desolation as Jeremiah had warned. Jeremiah is honored as a prophet consecrated from the womb to uproot and to rebuild, and Ezekiel is recalled for his chariot vision and instruction benefiting the upright; the Twelve Prophets are blessed for strengthening Jacob. Post-exilic leaders Zerubbabel and Jeshua (Jesus) son of Jozadak are commended for rebuilding the temple, and Nehemiah for restoring Jerusalem’s walls and homes. Ancient exemplars—Enoch, Joseph, Shem, Seth, and Adam—are elevated, with a note that Joseph’s bones were “visited” and, even after death, “prophesied.”",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in Hebrew in early second-century BCE Jerusalem by Ben Sira and later translated into Greek by his grandson. Chapters 44–50 form a sustained “Praise of the Ancestors,” a litany rehearsing Israel’s history to model covenant fidelity under Hellenistic pressures. The post-exilic figures mentioned (Zerubbabel, Jeshua, Nehemiah) reflect the restoration period after Babylon’s exile when temple and city were rebuilt under Persian authorization.",
+  "externalReferences": "The portrayal of Josiah evokes his reforms that eradicated idolatry and renewed the covenant (2 Kings 22–23; 2 Chronicles 34–35). Jeremiah’s consecration from the womb and commission “to pluck up… and to build” directly echo Jeremiah 1:5, 10, and the burning and desolation of Jerusalem fulfills his warnings (e.g., Jeremiah 25:9–11). Ezekiel’s “chariot of the Cherubim” recalls his inaugural vision (Ezekiel 1; 10). Zerubbabel as God’s “signet” mirrors Haggai 2:23; Jeshua and the temple rebuilding appear in Ezra 5–6; Nehemiah’s wall-building is narrated in Nehemiah 2–6; Enoch’s translation is in Genesis 5:24; and Joseph’s “bones” and future hope are tied to Genesis 50:24–25 and Exodus 13:19 (cf. Hebrews 11:22).",
+  "seeAlso": [
+    "2 Kings 23:1-25",
+    "Jeremiah 1:5-10",
+    "Ezekiel 1:4-28",
+    "Haggai 2:23",
+    "Ezra 6:14-15",
+    "Nehemiah 6:15-16",
+    "Genesis 5:24",
+    "Genesis 50:24-25",
+    "Exodus 13:19",
+    "Hebrews 11:22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Praise of Josiah"
+    },
+    {
+      "range": "5-12",
+      "title": "Failed kings and faithful prophets"
+    },
+    {
+      "range": "13-19",
+      "title": "Rebuilders and primeval exemplars"
+    }
+  ],
+  "themes": [
+    "Remembrance",
+    "Repentance",
+    "Prophetic vocation",
+    "Restoration",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "Whom do we choose as models when evaluating leadership and reform in our communities?",
+    "What concrete “abominations” or entrenched practices today should be removed to realign with God’s standards?",
+    "How receptive am I to prophetic correction that uproots before it rebuilds?",
+    "In seasons of communal setback, what does faithful rebuilding look like—spiritually and institutionally?",
+    "How can remembering faithful predecessors strengthen present obedience?"
+  ],
+  "uncertainAreas": "Verse 11’s wording about Ezekiel (“called to mind the enemies under the figure of rain”) is obscure in this translation, and its precise referent is uncertain. The statement in verse 5 that, apart from David, Hezekiah, and Josiah, “everyone committed sin” likely uses rhetorical hyperbole, given other kings sometimes portrayed positively elsewhere. The line that Joseph’s bones “after death… prophesied” appears to summarize Genesis 50:24–25 and Exodus 13:19, but the manner of “prophesying” is interpretive rather than explicit in the Pentateuch.",
+  "createdAt": "2025-10-19T03:23:33.101Z",
+  "modelId": "gpt-5-2025-08-07"
+}

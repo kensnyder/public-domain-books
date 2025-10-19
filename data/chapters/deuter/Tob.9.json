@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Tob.9",
+  "briefOverview": "Tobias asks Raphael to retrieve the deposited money from Gabael in Rages and bring him to the wedding, balancing obligations to his new in-laws with concern for his waiting parents.",
+  "summary": "Tobias instructs Raphael (called Azarias) to take a servant and two camels to Rages of Media, reclaim the money from Gabael, and invite him to the wedding, since Raguel has sworn Tobias should not leave. Aware that his father is counting the days and will worry if he delays, Tobias seeks a swift resolution. Raphael goes, stays with Gabael, presents the written acknowledgment, and receives sealed bags of money. Early the next morning, they travel back together and arrive at the wedding, where Tobias blesses his wife.",
+  "externalContext": "Tobit is set among diaspora Israelites under Assyrian influence, with locales such as Nineveh, Ecbatana, and Rages (often identified with Rayy near modern Tehran). Depositing funds with trusted associates and using written acknowledgments was a common ancient Near Eastern practice for safeguarding wealth over long distances. Multi-day wedding feasts and a host's insistence that the couple remain for a set period reflect customary hospitality and marriage celebrations in the ancient Near East. Camels were standard for caravan travel across long routes between Mesopotamia and Media.",
+  "externalReferences": "The deposit with Gabael is earlier mentioned as Tobit's money placed in Media (Tobit 1:14; 4:1; 5:3). Raguel's insistence that Tobias remain for a set period at the wedding aligns with the earlier pledge of a fourteen-day celebration and the plan to send word to Tobit (Tobit 8:20–21). Tobit's and Anna's anxiety over their son's delay is developed more fully in the following narrative (Tobit 10:1–7).",
+  "seeAlso": [
+    "Tobit 1:14",
+    "Tobit 4:1-2",
+    "Tobit 5:3",
+    "Tobit 8:20-21",
+    "Tobit 10:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Tobias commissions Raphael"
+    },
+    {
+      "range": "5-6",
+      "title": "Money retrieved; wedding joined"
+    }
+  ],
+  "themes": [
+    "Providence",
+    "Filial piety",
+    "Marriage commitment",
+    "Trustworthiness"
+  ],
+  "practicalQuestions": [
+    "How do I balance loyalty to family with commitments made to others?",
+    "What systems or safeguards help me handle financial responsibilities wisely and transparently?",
+    "Whom can I trust to act as a faithful intermediary when I cannot be present?",
+    "How do I communicate with loved ones to lessen anxiety during unavoidable delays?",
+    "How do vows and hospitality obligations shape my decisions and timelines?"
+  ],
+  "uncertainAreas": "The precise meaning of the 'handwriting' (a receipt, bond, or letter of credit) is assumed but not defined; the exact travel time and whether Raphael and Gabael traveled overnight are not specified.",
+  "createdAt": "2025-10-19T03:30:34.540Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sir.51",
+  "briefOverview": "A psalm-like thanksgiving for divine rescue transitions into a personal testimony about seeking wisdom and an open invitation for others to embrace disciplined learning.",
+  "summary": "The speaker praises God as Helper and Savior for deliverance from slander, deadly threats, fire-like trials, and the brink of death. Finding no human aid, he remembers God’s mercy and is rescued, vowing continual thanksgiving. He recounts pursuing wisdom from youth, rejoicing in her, and being stabilized and enriched by her guidance. Acknowledging God as the giver of wisdom, he commits to live by it and not be confounded. Finally, he calls the untaught to enter the “house of discipline,” to accept wisdom’s yoke, and to value instruction more than riches, promising rest and reward in God’s time.",
+  "externalContext": "Sirach (Ecclesiasticus) was composed in early second-century BCE Jerusalem by Jesus ben Sira, a Jewish sage writing in the tradition of Israel’s wisdom literature. His grandson translated the work into Greek around 132 BCE, helping it circulate widely in the Hellenistic world. The book blends sapiential instruction with prayer and praise, drawing on Israel’s Scriptures and liturgical idioms. In some Hebrew witnesses, part of this chapter (the wisdom hymn) appears as an alphabetic acrostic. Sirach is recognized as deuterocanonical in Catholic and Orthodox traditions and is included among the Apocrypha in many Protestant Bibles.",
+  "externalReferences": "The imagery of near-death deliverance and being rescued from Sheol echoes psalms such as Psalm 116:3–4 and Psalm 30:3, as well as pleas for protection from lying lips (Psalm 120:2). The reference to not being burned amid flames evokes the deliverance of the three youths in Daniel 3:23–27. The invitation to “buy” wisdom without silver recalls Isaiah 55:1 and parallels Proverbs 8:10–11 and Proverbs 23:23, which prize instruction above wealth. The image of taking on wisdom’s yoke finds later resonance in Matthew 11:28–30, where rest is promised to those who accept a gracious yoke.",
+  "seeAlso": [
+    "Psalm 116:3-4",
+    "Psalm 30:3",
+    "Psalm 120:2",
+    "Daniel 3:23-27",
+    "Isaiah 55:1",
+    "Proverbs 8:10-11",
+    "Proverbs 23:23",
+    "Matthew 11:28-30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Thanksgiving for Deliverance"
+    },
+    {
+      "range": "18-29",
+      "title": "Testimony of Seeking Wisdom"
+    },
+    {
+      "range": "30-38",
+      "title": "Invitation to Wisdom’s Discipline"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Wisdom-seeking",
+    "Discipline",
+    "Gratitude"
+  ],
+  "practicalQuestions": [
+    "Where do I instinctively turn when I face slander, pressure, or fear—human help or God’s mercy?",
+    "What concrete practices would help me prize instruction over material gain?",
+    "How can I accept the ‘yoke’ of wise discipline in a specific area of my life this week?",
+    "In what ways can I invite others into a ‘house of discipline’—a community of learning and growth?",
+    "How might regular thanksgiving stabilize my heart during ongoing trials?"
+  ],
+  "uncertainAreas": "The imagery of rescue from fire and Sheol may be metaphorical or reflect specific historical episodes that are not identified; the “iniquitous king” and “hands of the Gentiles” are likewise unspecified. The phrase “the Father of my Lord” could carry varying nuances depending on textual tradition and theological interpretation. Verse boundaries between praise and wisdom-hymn sections vary among manuscripts, and some witnesses present an acrostic form not evident in all translations.",
+  "createdAt": "2025-10-19T03:24:59.877Z",
+  "modelId": "gpt-5-2025-08-07"
+}

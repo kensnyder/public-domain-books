@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Wis.7",
+  "briefOverview": "The speaker testifies to common human mortality and celebrates wisdom as God’s supreme gift. He extols wisdom’s worth above all goods and portrays her as God’s pure, active power at work in creation and in holy people.",
+  "summary": "The narrator begins by stressing his ordinary human birth and mortality, leveling kings and commoners alike. He then recounts praying for understanding and receiving wisdom, which he values above thrones, riches, health, beauty, and even physical light. With wisdom came a host of other benefits, and he shares her gifts freely as an unfailing treasure that makes people God’s friends. He credits God as the source of speech and insight, listing a broad range of knowledge—cosmic cycles, natural phenomena, animal behavior, and human reasoning—that wisdom imparts. Finally, he gives a luminous portrait of Wisdom: a holy, agile, benevolent, all-pervading spirit; the breath and radiance of God’s power; an unspotted mirror and image of divine goodness. Though one, she renews all things, indwells holy people, makes them prophets, and is superior to the sun and stars; vice cannot overcome her.",
+  "externalContext": "Often titled the Wisdom of Solomon, this Hellenistic Jewish work was likely composed in Greek in Alexandria, commonly dated to the late first century BCE or early first century CE. It adopts the voice of Solomon to commend wisdom and piety to a diaspora audience familiar with Greek philosophy. Its portrait of Wisdom (Sophia) draws on Jewish sapiential traditions while engaging Platonic and Stoic vocabulary about the soul, virtue, and the ordered cosmos. The catalog of natural knowledge reflects Hellenistic scientific interests (elements, astronomy, seasons). The personification of Wisdom as a divine emanation aligns with Jewish traditions that distinguished God from yet closely associated him with his Word/Wisdom.",
+  "externalReferences": "The speaker’s prayer for wisdom evokes Solomon’s request for understanding in 1 Kings 3:5–12 and 2 Chronicles 1:7–12. The personified Wisdom closely parallels Proverbs 8:22–31 and Sirach 24:1–22, while the claims about celestial order and seasons recall Genesis 1:14–19 and the creative “breath” motif resonates with Psalm 33:6. The description of Wisdom as the brightness of everlasting light and the image of God’s goodness has strong conceptual echoes in Hebrews 1:3.",
+  "seeAlso": [
+    "1 Kings 3:5-12",
+    "2 Chronicles 1:7-12",
+    "Proverbs 8:22-31",
+    "Sirach 24:1-22",
+    "Genesis 1:14-19",
+    "Genesis 2:7",
+    "Psalm 33:6",
+    "Psalm 19:1-6",
+    "Hebrews 1:3",
+    "Wisdom 9:1-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Shared human mortality"
+    },
+    {
+      "range": "7-21",
+      "title": "Prayer and benefits of wisdom"
+    },
+    {
+      "range": "22-30",
+      "title": "Wisdom’s nature and agency"
+    }
+  ],
+  "themes": [
+    "Supremacy of wisdom",
+    "Human equality",
+    "Divine source",
+    "Creation knowledge",
+    "Purity and virtue"
+  ],
+  "practicalQuestions": [
+    "In what ways do I currently prize status, wealth, health, or beauty over wisdom, and what would reordering those loves look like?",
+    "How might prayerful dependence on God reshape my pursuit of understanding in study, work, and relationships?",
+    "Where can I share knowledge generously rather than hoard it, so that learning becomes a blessing to others?",
+    "How can I ensure that my growing knowledge serves virtue and compassion rather than pride or domination?",
+    "What practices foster the purity and teachability that make a person receptive to wisdom’s guidance?"
+  ],
+  "uncertainAreas": "The speaker’s identity is presented in a Solomonic voice, but the degree to which this is literary persona versus historical attribution is debated. The precise boundaries between literal knowledge claims (e.g., cosmology, elements) and rhetorical praise are not always clear. The statement “God loveth none but him that dwelleth with wisdom” may be hyperbolic praise or a theological absolute; its scope is interpretively delicate. Verse-range grouping for section titles is approximate.",
+  "createdAt": "2025-10-19T03:37:15.008Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Wis.11",
+  "briefOverview": "The chapter recounts Israel’s exodus experiences to illustrate God’s measured justice and generous mercy, contrasting Israel’s fatherly discipline with Egypt’s punitive judgments.",
+  "summary": "Wisdom (personified) prospers Israel through the wilderness under the holy prophet, providing water from the rock when they thirst. The same elements that punished their enemies (waters turned to blood) benefit Israel (abundant water), revealing a measure-for-measure pattern. Israel’s trials are corrective and merciful, while the ungodly are judged in wrath, leading even their oppressors to recognize the one they had scorned. Because they worshiped irrational creatures, the wicked are repaid through beasts, though God could have annihilated them instantly; instead, He orders all in “measure, number, and weight.” The chapter exalts God’s irresistible power and the smallness of the world before Him. Yet it climaxes in a declaration of universal mercy: God loves all that exists, spares His creatures, and desires their amendment.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in the late Second Temple period, often associated with the Jewish diaspora in Egypt (commonly Alexandria). It blends Israel’s Scriptures with Hellenistic philosophical vocabulary, evident in themes like cosmic order and the phrase “measure, number, and weight.” The author re-reads Exodus traditions to argue that God’s providence governs history with justice and mercy. The critique of animal worship reflects known Egyptian religious imagery and practices, while defending Israel’s monotheism in a polytheistic environment.",
+  "externalReferences": "The provision of water from rock recalls Exodus 17:1–7 and Numbers 20:2–13, while the punishment of water turned to blood parallels Exodus 7:14–24. The reference to the decree against infants aligns with Pharaoh’s edict in Exodus 1:22. The depiction of God’s overwhelming power and the world’s smallness echoes Isaiah 40:15. Later, Paul interprets the wilderness water as typological of Christ in 1 Corinthians 10:4.",
+  "seeAlso": [
+    "Exodus 1:22",
+    "Exodus 7:14-24",
+    "Exodus 17:1-7",
+    "Numbers 20:2-13",
+    "Isaiah 40:15",
+    "1 Corinthians 10:4",
+    "Psalm 105:27-36",
+    "Genesis 1:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Exodus care and contrast"
+    },
+    {
+      "range": "10-20",
+      "title": "Measured judgments on idolaters"
+    },
+    {
+      "range": "21-26",
+      "title": "Omnipotence and mercy"
+    }
+  ],
+  "themes": [
+    "Divine mercy",
+    "Justice and retribution",
+    "Creation and providence",
+    "Idolatry’s consequences"
+  ],
+  "practicalQuestions": [
+    "Where might I be experiencing corrective discipline rather than punitive judgment, and how should that shape my response?",
+    "In what subtle ways do I trust created things more than the Creator, and how can I realign my worship?",
+    "How can I practice measured restraint and mercy when I have power to act strongly?",
+    "When facing scarcity, how can I cultivate trust in God’s provision rather than anxiety?",
+    "If God loves all He made, how should that influence my treatment of people I am inclined to despise?"
+  ],
+  "uncertainAreas": "Verse 14’s “him … thrown out at the casting forth of the infants” is likely Moses but not explicitly named. The link between Egyptian serpent/animal worship and specific plague events is thematic rather than tied to a single, identifiable plague in Exodus. The “newly created” beasts (vv. 18–19) may be rhetorical imagery rather than literal creatures.",
+  "createdAt": "2025-10-19T03:39:48.637Z",
+  "modelId": "gpt-5-2025-08-07"
+}

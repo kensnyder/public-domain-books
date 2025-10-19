@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Wis.3",
+  "briefOverview": "The chapter contrasts the ultimate destinies of the righteous and the ungodly, emphasizing the righteous’ peace, vindication, and immortality under God’s care. It highlights divine testing, eschatological judgment, and a reversal of common social valuations (lineage vs. virtue).",
+  "summary": "The souls of the righteous are safe in God’s hand; though they appear to die and suffer, they are at peace and their hope is full of immortality. Their trials are likened to gold tested in a furnace, leading to great reward, shining honor, and participation in judgment over nations under the eternal reign of the Lord. Those who trust God grasp truth and abide in divine grace and mercy. In contrast, the ungodly, who despise wisdom and discipline, face punishment and futility—their hopes, labors, and works are vain. The text reverses social expectations by declaring blessed the undefiled barren woman and the eunuch who avoids iniquity, promising them special favor and an inheritance in God’s temple. By contrast, offspring from unrighteous unions are portrayed as lacking enduring honor or hope, and the end of an unrighteous generation is described as terrible.\n",
+  "externalContext": "Often dated to the late Hellenistic period (commonly 1st century BCE) and likely composed in Greek by a Jewish author in Alexandria, the Wisdom of Solomon addresses the tensions of diaspora Jews navigating Greek culture while remaining faithful to Israel’s God. It blends Israelite sapiential and apocalyptic motifs with Hellenistic philosophical vocabulary, including the idea of the soul’s immortality. The chapter’s valuation of virtue over lineage or fertility counters broader ancient Mediterranean norms that prized progeny, inheritance, and social status. It also reflects a developing Jewish emphasis on postmortem vindication for the righteous amid suffering and injustice. Canonical status varies across traditions: it is part of the Septuagint and is received as Scripture in Catholic and Orthodox canons, but not in the Jewish Tanakh or most Protestant canons.",
+  "externalReferences": "The image of testing the righteous like gold in a furnace recalls Psalm 66:10 and Sirach 2:5, and is thematically akin to 1 Peter 1:6–7, which speaks of faith refined by trials. The promise that the righteous will “judge the nations” resonates with Daniel 7:22 (“judgment was given for the saints”) and is echoed in 1 Corinthians 6:2 (“the saints will judge the world”). The blessing of the barren and the commendation of the eunuch evoke Isaiah 54:1 (the barren woman rejoices) and Isaiah 56:3–5 (faithful eunuchs receive a lasting name in God’s house).",
+  "seeAlso": [
+    "Psalm 66:10",
+    "Sirach 2:5",
+    "1 Peter 1:6-7",
+    "Daniel 7:22",
+    "1 Corinthians 6:2",
+    "Isaiah 54:1",
+    "Isaiah 56:3-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Destiny of the righteous"
+    },
+    {
+      "range": "10-12",
+      "title": "Fate of the ungodly"
+    },
+    {
+      "range": "13-19",
+      "title": "Blessing of chastity; doom of unrighteous seed"
+    }
+  ],
+  "themes": [
+    "Immortality",
+    "Divine justice",
+    "Testing and reward",
+    "Wisdom vs. folly",
+    "Eschatological judgment"
+  ],
+  "practicalQuestions": [
+    "How does this chapter shape my view of death and the apparent triumph of injustice?",
+    "What trials in my life might function as refining tests, and how can I endure them faithfully?",
+    "In what ways do I prize social status or lineage over virtue and wisdom, and how should that change?",
+    "How might trusting God’s ultimate judgment free me from bitterness or fear when wronged?",
+    "What concrete practices can help me seek wisdom and resist the futility of unfaithful labor?"
+  ],
+  "uncertainAreas": "The timing and nature of “visitation” and of the righteous “judging the nations” are not specified—whether metaphorical vindication in history or a final eschatological judgment. The harsh statements about the offspring of the unrighteous may be rhetorical or proverbial rather than a universal, literal curse; the scope and application are not fully clear. The phrase about “wives” and “children” of the ungodly appears general and polemical, raising interpretive questions about its intent and audience.",
+  "createdAt": "2025-10-19T03:35:02.593Z",
+  "modelId": "gpt-5-2025-08-07"
+}

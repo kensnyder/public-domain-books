@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Tob.3",
+  "briefOverview": "Parallel prayers of Tobit and Sarah in deep distress are heard by God, who sends the angel Raphael to heal and deliver them.",
+  "summary": "Tobit, grieved and reproached, prays confessing God’s justice and Israel’s sins, asking to die rather than continue in shame and sorrow. The narrative then shifts to Ecbatana, where Sarah, tormented by servants over seven husbands slain by the evil spirit Asmodeus before consummation, contemplates suicide but refrains for her father’s sake and prays instead for release. Both prayers ask God to end their reproach and suffering. God hears both prayers and commissions Raphael to heal Tobit’s blindness and to give Sarah in marriage to Tobias, Tobit’s son, while binding Asmodeus. The text notes Sarah’s rightful connection to Tobias by inheritance. The chapter ends with Tobit returning home and Sarah descending from her room, anticipating the intertwined deliverance to come.",
+  "externalContext": "The story is set in the Assyrian exile, when northern Israelites were deported after Assyria’s conquest (late 8th century BCE), dispersing families across Assyria and Media. Ecbatana (modern Hamadan, Iran) was a major Median city and, later, an administrative center under Persian rule. Jewish custom favored marriage within kin groups to preserve lineage and inheritance, a concern reflected in the text’s mention of Sarah belonging to Tobias by right. Belief in angels as God’s messengers and in malevolent spirits was part of Second Temple Jewish thought and broader Near Eastern culture.",
+  "externalReferences": "Tobit’s confession that Israel’s sins led to reproach among the nations echoes covenant curses and exile language (Deuteronomy 28:37; 2 Kings 17:6). His acknowledgment of God’s justice and plea for mercy resembles later exilic prayers of confession (Daniel 9:4–19; Psalm 51). The desire for death in severe suffering parallels Job’s lament (Job 3:1–3) and Elijah’s request under the broom tree (1 Kings 19:4). The note that Sarah belonged to Tobias by “right of inheritance” aligns with kinship and levirate-related concerns preserving family lines (Deuteronomy 25:5–10; Ruth 4:1–10), though the exact legal mechanism is not detailed here.",
+  "seeAlso": [
+    "Deuteronomy 28:37",
+    "2 Kings 17:6",
+    "Daniel 9:4-19",
+    "Psalm 51:1-4",
+    "Job 3:1-3",
+    "1 Kings 19:4",
+    "Deuteronomy 25:5-10",
+    "Ruth 4:1-10",
+    "Psalm 44:13-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Tobit’s lamenting prayer"
+    },
+    {
+      "range": "7-15",
+      "title": "Sarah’s reproach and prayer"
+    },
+    {
+      "range": "16-17",
+      "title": "God sends Raphael"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Suffering and reproach",
+    "Divine justice",
+    "Providence",
+    "Prayer"
+  ],
+  "practicalQuestions": [
+    "How do I bring both personal and communal guilt to God without losing sight of his mercy and justice?",
+    "What practices help me respond to shame or slander without harming myself or others?",
+    "Where can I seek help and community when despair leads me to thoughts of death?",
+    "How might patient prayer and integrity prepare me to receive God’s providential help?",
+    "What responsibilities do communities have to avoid adding reproach to those already suffering?"
+  ],
+  "uncertainAreas": "The precise meaning of Sarah belonging to Tobias by “right of inheritance” is not fully explained; the legal custom implied may be kinship marriage but is unspecified. The nature of Asmodeus and the mechanism of his killing are not detailed. The phrase “everlasting place” in Tobit’s prayer could denote Sheol or a general afterlife without doctrinal precision.",
+  "createdAt": "2025-10-19T03:27:25.042Z",
+  "modelId": "gpt-5-2025-08-07"
+}

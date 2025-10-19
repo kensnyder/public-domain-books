@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Wis.16",
+  "briefOverview": "The chapter contrasts God’s punitive plagues on the ungodly with his merciful provision and healing for his people, using wilderness episodes to show that creation itself serves God’s judgments and care. It emphasizes that salvation and sustenance come from God’s word, not from natural means alone.",
+  "summary": "The author recalls how God punished the oppressors with beasts and serpents, while feeding his people with quail, allowing them to suffer only briefly and providing a “sign of salvation” that directed them to trust God rather than visible objects. The ungodly suffered deadly bites from insects, but Israel experienced God’s merciful healing and was reminded that it is God’s word that restores and preserves. God’s sovereignty over life and death is affirmed, as is his power to marshal elements—fire, water, hail, and rain—in paradoxical ways both to punish the unjust and protect the righteous. In contrast, God gave his people “angels’ food,” heavenly bread suited to each one’s taste, teaching that life is sustained not by produce alone but by divine provision. The chapter concludes by urging early thanksgiving and warning that the hope of the ungrateful will melt away like frost.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in Alexandria between the late first century BCE and early first century CE. It addresses a Jewish audience living under Greco-Roman cultural influence, blending Israel’s scriptural traditions with philosophical reflection on wisdom, justice, and the order of creation. Retellings of the Exodus serve to exhort faithfulness, highlight divine justice, and show that the cosmos is under God’s command for the sake of the righteous.",
+  "externalReferences": "This chapter revisits several Exodus traditions: quail and manna in the wilderness (Exodus 16:4–15; Numbers 11:31–34) and the bronze serpent raised for healing after serpent bites (Numbers 21:4–9). The plagues of flies and locusts (Exodus 8:20–24; 10:12–15) and the hail with fire (Exodus 9:23–26) underlie the descriptions of punitive elements. Calling manna “angels’ food” echoes Psalm 78:24–25, and the lesson that people live by God’s word rather than by food alone parallels Deuteronomy 8:3; the claim that God has power over life and death resonates with 1 Samuel 2:6, and the stress on God’s healing word recalls Psalm 107:20. The exhortation to early prayer aligns with Psalm 119:147.",
+  "seeAlso": [
+    "Numbers 21:4-9",
+    "Numbers 11:31-34",
+    "Exodus 16:4-15",
+    "Exodus 8:20-24",
+    "Exodus 10:12-15",
+    "Exodus 9:23-26",
+    "Psalm 78:24-25",
+    "Deuteronomy 8:3",
+    "1 Samuel 2:6",
+    "Psalm 107:20",
+    "Psalm 119:147"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Plagues and saving sign"
+    },
+    {
+      "range": "9-19",
+      "title": "Elements as judgment and mercy"
+    },
+    {
+      "range": "20-29",
+      "title": "Manna and the lesson of reliance"
+    }
+  ],
+  "themes": [
+    "Judgment and mercy",
+    "Divine providence",
+    "Creation’s obedience",
+    "Healing by God’s word",
+    "Remembrance and gratitude"
+  ],
+  "practicalQuestions": [
+    "Where do I instinctively look for healing and security—natural means alone, or ultimately to God’s sustaining word?",
+    "How can I cultivate practices of remembrance so brief hardships become reminders, not occasions for forgetfulness?",
+    "In what ways might gratitude and early prayer reframe my view of daily provision and work?",
+    "How do I respond when creation’s order feels hostile—do I consider how God may use circumstances for correction or care?",
+    "What practices help me resist ingratitude so my hope does not \"melt away\" in times of scarcity?"
+  ],
+  "uncertainAreas": "“Sign of salvation” (vv. 6–7) most likely alludes to the bronze serpent, but the object is not named explicitly. The specific identities of the “beasts,” “dragons,” and the precise mechanics of elements (fire in water, snow enduring fire) are stylized references to Exodus traditions rather than detailed historical descriptions.",
+  "createdAt": "2025-10-19T03:42:25.155Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Sus.1",
+  "briefOverview": "A righteous woman, Susanna, is falsely accused of adultery by two corrupt elders; the young Daniel intervenes and exposes their lies.",
+  "summary": "Susanna, a God-fearing and beautiful wife of Joacim, is targeted by two elders who lust after her and conspire to coerce her. When she refuses their advances, they accuse her of adultery, leveraging their status as judges to persuade the assembly to condemn her. As she is led to execution, Susanna prays to God, who raises up Daniel to challenge the verdict. Daniel separates the two accusers, questions them individually, and exposes contradictions in their testimonies about the location of the alleged act. The assembly recognizes the false witness, and the elders are executed according to the law they sought to invoke against Susanna. Susanna is vindicated, her family praises God, and Daniel gains public esteem.",
+  "externalContext": "This story is commonly known as Susanna and the Elders and is included in Greek versions of Daniel (often as Daniel 13), regarded as deuterocanonical in Catholic and Orthodox traditions and apocryphal in many Protestant canons. The narrative is set among Jews living under Babylonian authority, where elders functioned as community judges. Israelite law placed strong emphasis on due process, requiring multiple witnesses in capital cases and imposing penalties on false witnesses. The tale serves as a didactic narrative highlighting judicial integrity, the danger of corrupt leadership, and divine vindication of the innocent.",
+  "externalReferences": "Daniel’s rebuke, “The innocent and righteous shalt thou not slay,” echoes Exodus 23:7, and the requirement for multiple witnesses aligns with Deuteronomy 19:15. The elders’ punishment “as they maliciously intended to do” follows the talionic provision for false witnesses in Deuteronomy 19:16–21. The underlying charge of adultery reflects laws prescribing death for such acts (Leviticus 20:10; Deuteronomy 22:22–24), while Susanna’s appeal to the God who knows secrets resonates with passages like Psalm 44:21.",
+  "seeAlso": [
+    "Exodus 23:7",
+    "Deuteronomy 19:15",
+    "Deuteronomy 19:16-21",
+    "Leviticus 20:10",
+    "Deuteronomy 22:22-24",
+    "Psalm 44:21",
+    "Daniel 6:22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Elders’ Lust and Plot"
+    },
+    {
+      "range": "15-41",
+      "title": "Assault, Accusation, Trial"
+    },
+    {
+      "range": "42-64",
+      "title": "Daniel Exposes False Witnesses"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "False witness",
+    "Integrity under pressure",
+    "Abuse of power",
+    "Divine vindication"
+  ],
+  "practicalQuestions": [
+    "How do we prevent status and authority from substituting for evidence in our judgments?",
+    "What safeguards (like separating witnesses) should communities and institutions adopt to protect the innocent?",
+    "How can individuals respond faithfully when coercion or threats aim to force wrongdoing?",
+    "In what ways can communities support those facing false accusations without rushing to judgment?",
+    "Where might we be tempted to ignore wrongdoing by respected leaders, and how should we address it?"
+  ],
+  "uncertainAreas": "The precise historical setting and legal procedures are not fully specified; the narrative’s canonicity varies by tradition. The phraseology Daniel uses to cite Mosaic law may paraphrase multiple texts. The insult “seed of Chanaan” and details of the specific trees (mastick/holm) reflect linguistic wordplay clearer in Greek, which is only partially evident in this English rendering.",
+  "createdAt": "2025-10-19T03:25:35.649Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Wis.19",
+  "briefOverview": "The chapter contrasts Egypt’s relentless pursuit and judgment with Israel’s protected deliverance, highlighting how creation itself serves God’s purposes. It underscores divine justice, hospitality, and the reversal of natural forces for God’s people.",
+  "summary": "The ungodly are judged without mercy as they rashly pursue Israel after having urged them to leave, forgetting prior calamities and sealing their fate. God opens an unhindered path through the sea so his people pass safely, while their enemies meet a “strange death.” Israel recalls God’s earlier signs in Egypt (flies, frogs) and his provision in the wilderness (quail), praising the Lord. The text condemns harsh treatment of strangers, comparing Egypt unfavorably even to Sodom, whose men were struck with blindness at the righteous man’s door. It describes creation’s elements reversing their usual properties—fire acting in water, water failing to quench, and flames not consuming nor melting the “icy” heavenly food—showing the cosmos’ obedience to God’s command. The chapter closes affirming that God magnified and assisted his people at all times and places.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in Alexandria (late 2nd–1st century BCE). It addresses diaspora Jews, weaving Israel’s sacred history into a rhetorical meditation on divine justice, wisdom, and idolatry. In Greco-Roman moral discourse, hospitality and justice to strangers were recognized virtues; this chapter aligns with that ethos by condemning Egypt’s abuse of guests and contrasting it with Israel’s deliverance. The author often recasts Exodus traditions with philosophical and cosmological language, portraying creation as responsive to its Maker.",
+  "externalReferences": "The pursuit and destruction of Egypt at the sea echo Exodus 12:31–14:31, especially the crossing of the Red Sea and the demise of Pharaoh’s forces. The plagues named—flies and frogs—correspond to Exodus 8:1–15 (frogs) and 8:20–32 (flies). Wilderness provisions recall quail and manna in Exodus 16:13–21 and Numbers 11:31–34; the “icy” heavenly food aligns with manna described like frost (Exodus 16:14), a theme elaborated in Wisdom 16:20–29. The comparison to Sodom and the blindness at the door of the righteous man reflect Genesis 19:4–11.",
+  "seeAlso": [
+    "Exodus 12:31-14:31",
+    "Exodus 8:1-15",
+    "Exodus 8:20-32",
+    "Exodus 16:13-21",
+    "Numbers 11:31-34",
+    "Genesis 19:4-11",
+    "Wisdom 16:20-29",
+    "Psalm 78:13-29",
+    "Psalm 105:26-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Egypt’s rash pursuit and doom"
+    },
+    {
+      "range": "6-12",
+      "title": "Deliverance and wilderness provision"
+    },
+    {
+      "range": "13-22",
+      "title": "Hospitality, judgment, and cosmic reversals"
+    }
+  ],
+  "themes": [
+    "Divine justice",
+    "Deliverance",
+    "Hospitality",
+    "Creation’s obedience"
+  ],
+  "practicalQuestions": [
+    "Where might stubbornness make me ignore clear warnings and repeat harmful choices?",
+    "How do I practice hospitality toward outsiders rather than treating them as threats or tools?",
+    "What concrete practices help me remember past mercies so fear and ingratitude do not drive my decisions?",
+    "When circumstances feel set against me, how can I trust that God can reorder them for good?",
+    "In what ways do I align my life so that my actions, like creation here, respond readily to God’s commands?"
+  ],
+  "uncertainAreas": "The phrase about flames not wasting flesh and not melting the “icy” heavenly food likely summarizes miraculous protections and manna (cf. Wisdom 16:20–29; Exodus 16), but exact referents are compressed. The description of elements changing (fire in water; water not quenching) blends several Exodus signs (hail, thunder, sea crossing), making one-to-one mapping to specific events interpretively uncertain. The “new generation of fowls” is best taken as quail, though the wording is unusual. The ethical comparison between Sodom and Egypt focuses on hospitality; the precise historical referent of “made partakers of the same laws” for Egypt is interpretive, likely summarizing Israel’s earlier welcome in Egypt turned to bondage.",
+  "createdAt": "2025-10-19T03:44:03.950Z",
+  "modelId": "gpt-5-2025-08-07"
+}

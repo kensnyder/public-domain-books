@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Tob.14",
+  "briefOverview": "Tobit delivers final exhortations and prophetic counsel before his death, urging obedience, almsgiving, and departure from doomed Nineveh, and forecasting Jerusalem’s destruction and eventual restoration.",
+  "summary": "Tobit recounts his blindness and recovery, continues to praise God, and summons his son and grandsons to impart final counsel. He urges Tobias to leave Nineveh because the prophetic word against it will surely come to pass, and he foretells Jerusalem’s devastation, a later mercy, and a future, more glorious rebuilding with nations turning from idols to fear the Lord. He exhorts Tobias to keep the law, act with mercy and justice, and remember how almsgiving and righteousness deliver, illustrating this with the fates of Achiacharus, Aman, and Manasses. After instructing Tobias to bury him and his mother honorably, Tobit dies at 158 years. Tobias later moves his family to Ecbatana, honors and buries his in-laws, inherits both families’ estates, and dies at 127, having heard and rejoiced at Nineveh’s destruction attributed to Nabuchodonosor and Assuerus.",
+  "externalContext": "Nineveh was the capital of the Neo-Assyrian Empire and fell in 612 BCE to a coalition of Babylonians and Medes, leading to Assyria’s collapse. Many Israelites and Judeans had been exiled to Assyria and later lived throughout Media and Babylonia. Ecbatana (modern Hamadan, Iran) was a major Median city. Jerusalem and its First Temple were destroyed by the Babylonians in 586 BCE; the Second Temple was begun under Persian authorization and completed in 515 BCE. The figures and anecdotes about Achiacharus reflect the ancient Near Eastern wisdom tale of Ahiqar, a court official whose treacherous relative is punished while Ahiqar is vindicated.",
+  "externalReferences": "Tobit’s appeal to the prophetic word about Nineveh’s overthrow aligns with Jonah’s proclamation (Jonah 3:4), though the ultimate destruction of Nineveh is more squarely prophesied by Nahum (Nahum 1–3) and Zephaniah (Zephaniah 2:13–15). His forecast of Jerusalem’s destruction and later restoration corresponds with accounts of the Babylonian conquest (2 Kings 25:8–10; 2 Chronicles 36:19) and the rebuilding of the Second Temple (Ezra 6:14–15), with wording reminiscent of Haggai’s comparison between the second and first temples (Haggai 2:3–9). The vision of nations turning to the Lord echoes classic Zion prophecies (Isaiah 2:2–4; Micah 4:1–2; Zechariah 8:20–23).",
+  "seeAlso": [
+    "Jonah 3:4",
+    "Nahum 3:1-7",
+    "Zephaniah 2:13-15",
+    "2 Kings 25:8-10",
+    "2 Chronicles 36:19",
+    "Ezra 6:14-15",
+    "Haggai 2:3-9",
+    "Isaiah 2:2-4",
+    "Micah 4:1-2",
+    "Zechariah 8:20-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Final counsel and prophecy"
+    },
+    {
+      "range": "8-11",
+      "title": "Exhortation to law and alms"
+    },
+    {
+      "range": "12-15",
+      "title": "Deaths and Nineveh’s fall"
+    }
+  ],
+  "themes": [
+    "Almsgiving",
+    "Obedience to law",
+    "Exile and return",
+    "Divine judgment",
+    "Mortality"
+  ],
+  "practicalQuestions": [
+    "How can I build regular, concrete practices of mercy and almsgiving into my life?",
+    "What does it mean to live justly and keep God’s law when surrounded by a culture headed for decline?",
+    "Are there situations I should leave for the sake of spiritual integrity, as Tobias left Nineveh?",
+    "How can I prepare my family with wise counsel and practical arrangements for life after I am gone?",
+    "Do my decisions reflect confidence that God’s promises and warnings are reliable?"
+  ],
+  "uncertainAreas": "The identity of “Aman” and “Achiacharus” is textually complex; the passage likely alludes to the Ahiqar tradition, but names vary across manuscripts. The mention of Nineveh’s fall by “Nabuchodonosor and Assuerus” is historically unclear; Nineveh fell to Babylonian and Median forces, and the exact identification of “Assuerus” here is debated. The statement that the rebuilt temple would be “not like to the first, until the time of that age be fulfilled” leaves the timing and nature of the ultimate fulfillment open to interpretation.",
+  "createdAt": "2025-10-19T03:33:15.252Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Tob.6",
+  "briefOverview": "On the journey, the angel equips Tobias with means for healing and deliverance and directs him toward marrying his kinswoman Sara.",
+  "summary": "Traveling along the Tigris, Tobias is nearly attacked by a large fish, which he catches at the angel’s instruction. The angel tells him to preserve the fish’s heart, liver, and gall: the heart and liver produce smoke that drives away an evil spirit, and the gall heals eye disease. Approaching Media, the angel proposes they lodge with Raguel, a kinsman whose daughter Sara is rightly Tobias’s to marry according to the law. Tobias hesitates because seven previous husbands died in the marriage chamber due to a wicked spirit, but the angel assures him of protection. He instructs Tobias to burn the fish’s heart and liver in the chamber and for the couple to pray together to God; reassured and believing she is appointed for him, Tobias’s heart is joined to Sara.",
+  "externalContext": "Tobit is set among Israelites exiled in Assyrian-controlled territories, with travel through regions of Media; Ecbatana (modern Hamadan) was a Median capital, and Rages (Rayy, near modern Tehran) was an important Median city. Marriage within one’s kin or tribe was valued in ancient Israel to preserve inheritance lines and covenantal identity. The levirate institution and related inheritance concerns shaped expectations about a next-of-kin’s duty to marry a relative, especially where lineage and property were at stake. Ancient Near Eastern medicine frequently used animal parts—like fish gall—for ocular ailments, reflecting a blend of empirical remedies and religious practice.",
+  "externalReferences": "The appeal to the “law of Moses” regarding marriage within kin and inheritance parallels instructions on levirate marriage (Deuteronomy 25:5–10) and on preserving tribal inheritance through endogamous marriage (Numbers 36:6–9). Relief from an evil spirit by an appointed practice resonates broadly with 1 Samuel 16:23, where David’s playing soothes Saul when an evil spirit troubles him. The Tigris is named among the rivers in Genesis 2:14, situating the narrative within a known Near Eastern geography.",
+  "seeAlso": [
+    "Deuteronomy 25:5-10",
+    "Numbers 36:6-9",
+    "1 Samuel 16:23",
+    "Genesis 2:14",
+    "Tobit 3:7-17",
+    "Tobit 8:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Fish, organs, and uses"
+    },
+    {
+      "range": "9-12",
+      "title": "Plan to lodge with Raguel"
+    },
+    {
+      "range": "13-17",
+      "title": "Fear addressed and remedy"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Angelic guidance",
+    "Marriage within kin",
+    "Deliverance from evil",
+    "Prayer"
+  ],
+  "practicalQuestions": [
+    "Where might I be overlooking ordinary means, provided in God’s care, for healing or deliverance?",
+    "How do I discern marriage or major life decisions with both prudence and prayer, as modeled here?",
+    "What fears keep me from stepping into responsibilities that are rightly mine, and how might trust in God address them?",
+    "In what ways can prayer before significant commitments shape the outcome and my posture within them?",
+    "How do I balance concern for family obligations with faithfulness to God’s leading?"
+  ],
+  "uncertainAreas": "The chapter’s travel sequence between Ecbatana and Rages varies among traditions; this text seems to approach both before lodging with Raguel. The precise legal basis for Tobias’s claim—whether levirate duty (Deut 25) or tribal-inheritance endogamy (Num 36)—is not explicitly specified. The identity of the evil spirit is not named here, and the mechanics of the fish organs’ efficacy are presented as instruction from the angel rather than explained.",
+  "createdAt": "2025-10-19T03:29:05.951Z",
+  "modelId": "gpt-5-2025-08-07"
+}

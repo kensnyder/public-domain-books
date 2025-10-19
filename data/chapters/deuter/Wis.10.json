@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Wis.10",
+  "briefOverview": "The chapter personifies Wisdom as the guiding, preserving force behind key moments in early biblical history, contrasting the safety of the righteous with the downfall of the wicked.",
+  "summary": "Wisdom preserves Adam and grants him dominion, while the unrighteous (exemplified by Cain) perish through their violence. She preserves Noah through the flood, identifies a righteous one amid the confusion of nations, and strengthens Abraham in the test regarding his son. She rescues the righteous man from the destruction of the five cities and leaves enduring memorials of the wicked’s folly. Wisdom guides Jacob in flight, enriches and protects him, and grants him victory. She accompanies Joseph when sold, delivers him from sin and bondage, and raises him to royal power, proving his accusers false. Finally, Wisdom delivers Israel from Egypt by empowering Moses, guiding the people with signs, bringing them through the sea while drowning their enemies, and enabling their unified praise.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in Alexandria (late 2nd to 1st century BCE). It uses the figure of Wisdom (Sophia) to articulate God’s just governance of the world and to encourage fidelity amid pressures from Greco-Roman culture. The book is received as deuterocanonical in Catholic and Orthodox traditions and as apocryphal in most Protestant canons. Chapters 10–19 reread Israel’s history through the activity of Wisdom, presenting history as moral instruction.",
+  "externalReferences": "This chapter recapitulates narratives from Genesis and Exodus: Adam’s formation and rule (Genesis 1:26–28; 2–3), Cain’s murder (Genesis 4:5–8), Noah’s preservation through the flood (Genesis 6–9), Babel’s confusion (Genesis 11:1–9), Abraham’s testing with Isaac (Genesis 22:1–18), and Lot’s escape with his wife’s transformation into a pillar of salt (Genesis 19:24–26). It then turns to Jacob’s flight and blessing (Genesis 28:10–22; 31:7–9) and to Joseph’s descent and exaltation (Genesis 37:23–28; 39–41). The Exodus section echoes the plagues and deliverance (Exodus 7–14), Israel’s “spoiling” of Egypt (Exodus 12:35–36), guidance by cloud and light (Exodus 13:21–22), and the sea crossing (Exodus 14:21–31). The claim that Wisdom “opened the mouth of the dumb” resonates with God’s promise to aid Moses’ speech (Exodus 4:10–16).",
+  "seeAlso": [
+    "Genesis 4:5-8",
+    "Genesis 6:9-22",
+    "Genesis 11:1-9",
+    "Genesis 19:24-26",
+    "Genesis 22:1-18",
+    "Genesis 28:10-22",
+    "Genesis 31:7-9",
+    "Genesis 37:23-28",
+    "Exodus 12:35-36",
+    "Exodus 13:21-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Primeval history through Wisdom"
+    },
+    {
+      "range": "10-14",
+      "title": "Jacob and Joseph sustained"
+    },
+    {
+      "range": "15-21",
+      "title": "Exodus deliverance by Wisdom"
+    }
+  ],
+  "themes": [
+    "Wisdom’s providence",
+    "Deliverance and judgment",
+    "Righteousness versus wickedness",
+    "History as instruction"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted to abandon wisdom out of anger or impatience, as contrasted with those who stayed under her care?",
+    "How can remembering God’s past deliverances shape my courage in current trials?",
+    "In what relationships or workplaces do I need Wisdom’s guidance to act justly and avoid deceit, as with Jacob and Joseph?",
+    "What memorials—habits, testimonies, or practices—can I establish to remember both the cost of folly and the fruit of faithfulness?",
+    "How do I align my speech with Wisdom so that what I say promotes truth and praise rather than harm?"
+  ],
+  "uncertainAreas": "Verse identifications are implicit: v3 likely refers to Cain; v5 appears to link Babel’s confusion with Abraham’s testing over Isaac; v12’s “sore conflict” and “victory” for Jacob are not specified; v21’s “opened the mouth of the dumb” may refer to Moses’ speech aid or to Israel’s empowered praise.",
+  "createdAt": "2025-10-19T03:39:08.258Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Tob.5",
+  "briefOverview": "Tobias secures a guide—unknowingly the angel Raphael—for a journey to retrieve funds, while his parents balance prudence, wages, and deep trust in God.",
+  "summary": "Tobias agrees to carry out his father’s instructions to recover money from Gabael but asks how to proceed since he does not know the man. Tobit gives him the written acknowledgment and urges him to hire a trustworthy companion for the journey. Tobias meets Raphael, not recognizing him as an angel, and invites him to guide the trip to Rages; Raphael presents himself as “Azarias,” a kinsman. Tobit carefully verifies his tribe and family, negotiates fair wages, and blesses the journey, praying for God’s angelic protection. Anna weeps over her son’s departure, warning against greed, while Tobit reassures her that a good angel will accompany Tobias and bring him back safely.",
+  "externalContext": "The story is set during the Assyrian period when many Israelites lived in exile, with Tobit’s family traditionally located in or near Nineveh. Rages (Rhages/Rai/Rayy) was a significant city in Media (near modern Tehran), and travel across Mesopotamia-Iran required guides due to distance and risk. Verifying kinship and tribal origin reflects Israelite concerns for identity and trust networks in the diaspora. The “handwriting” likely denotes a written acknowledgment or promissory note, indicating documentary practices in long-distance finance. The mention of a “drachm” reflects Hellenistic-era currency language in some versions of Tobit, even though the narrative’s setting is earlier.",
+  "externalReferences": "Tobit’s confidence that a “good angel” will accompany Tobias resonates with assurances of angelic guardianship, such as Psalm 91:11, and with the idea of God sending an angel ahead on a journey, as in Genesis 24:7, 40. Tobit’s commendation of families who went to Jerusalem to worship and offered required gifts aligns with Torah practices regarding firstborn consecration and tithes (Exodus 13:2; Leviticus 27:30) and the obligation to appear at the sanctuary for festivals (Deuteronomy 16:16). His remark about not being seduced by “the error of our brethren” likely alludes to northern Israel’s idolatrous practices, especially the golden calves and high places (1 Kings 12:28–33; 2 Kings 17:7–18).",
+  "seeAlso": [
+    "Psalm 91:11",
+    "Genesis 24:7",
+    "Genesis 24:40",
+    "Exodus 13:2",
+    "Leviticus 27:30",
+    "Deuteronomy 16:16",
+    "1 Kings 12:28-33",
+    "2 Kings 17:7-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Task and travel plan"
+    },
+    {
+      "range": "4-15",
+      "title": "Raphael engaged as guide"
+    },
+    {
+      "range": "16-22",
+      "title": "Departure and parental trust"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Angelic protection",
+    "Parental concern",
+    "Kinship identity"
+  ],
+  "practicalQuestions": [
+    "How do I balance financial pursuits with the wellbeing of my family?",
+    "What criteria should I use to discern trustworthy companions or advisers for important undertakings?",
+    "In what ways can I actively entrust loved ones to God’s care when I cannot accompany them?",
+    "How can I resist communal or cultural pressures that lead away from faithful worship and practice?",
+    "What does fair compensation look like when entrusting others with responsibility?"
+  ],
+  "uncertainAreas": "The precise identification of Ananias, Jonathas, and Samaias is unclear and may be illustrative rather than historical; the exact nature of the “error of our brethren” is likely idolatry but not explicitly defined. The narrative does not explain the symbolic role of the dog. It is also unclear whether Tobit’s expectation of a “good angel” is a general conviction or a specific intuition about Tobias’s companion.",
+  "createdAt": "2025-10-19T03:28:35.361Z",
+  "modelId": "gpt-5-2025-08-07"
+}

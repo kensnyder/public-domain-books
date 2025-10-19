@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Wis.15",
+  "briefOverview": "A prayerful affirmation of God’s mercy and sovereignty contrasts sharply with a sustained critique of idol-making and worship.",
+  "summary": "The chapter opens by confessing God’s graciousness, truth, and patient governance, asserting that to know God is perfect righteousness and the root of immortality. The author rejects humanly crafted images, describing how painted figures entice the foolish. Using the potter as an example, he shows that from the same clay come both useful vessels and vain idols, and rebukes the craftsman’s pride, greed, and forgetfulness of the Creator who breathed a living spirit into humans. Those who treat life as mere gain are said to offend gravely. The text declares the oppressors of God’s people foolish for venerating powerless idols lacking senses or life. It concludes that humans, being mortal, are superior to the lifeless things they worship, and even animal cults are unworthy and devoid of God’s blessing.",
+  "externalContext": "The Wisdom of Solomon was likely composed in Hellenistic Alexandria (late 2nd–1st century BCE), where Jews lived amid pervasive Greco-Roman and Egyptian polytheism. Alexandria’s religious landscape included skilled artisans producing cult images for temples and household shrines, as well as Egyptian animal cults. The text reflects a Diaspora Jewish monotheistic critique of these practices, engaging both biblical traditions and Hellenistic philosophical reasoning. The potter image draws on common ancient Near Eastern and Israelite metaphors for God as maker and humans as clay, while also addressing the prestige of craft guilds in urban life.",
+  "externalReferences": "The polemic that idols have mouths, eyes, and ears but cannot sense echoes Psalm 115:4–7 and Psalm 135:15–18. The potter-and-clay motif recalls Jeremiah 18:1–6 and Isaiah 29:16; 45:9, where God’s sovereignty over human makers is emphasized. The affirmation that God breathed a living spirit into humans evokes Genesis 2:7. The critique of exchanging the knowledge of God for images parallels Romans 1:22–25.",
+  "seeAlso": [
+    "Psalm 115:4-7",
+    "Psalm 135:15-18",
+    "Isaiah 44:9-20",
+    "Isaiah 29:16",
+    "Isaiah 45:9",
+    "Jeremiah 18:1-6",
+    "Genesis 2:7",
+    "Romans 1:22-25",
+    "Wisdom 13:10-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Knowing God as Life"
+    },
+    {
+      "range": "4-13",
+      "title": "The potter and idols"
+    },
+    {
+      "range": "14-19",
+      "title": "Folly of idol worship"
+    }
+  ],
+  "themes": [
+    "God’s mercy",
+    "Knowledge of God",
+    "Idolatry’s folly",
+    "Human mortality"
+  ],
+  "practicalQuestions": [
+    "Where might I be trusting lifeless substitutes—status, possessions, or images—in place of the living God?",
+    "How does knowing God reshape my view of success, craft, and creativity so they serve good rather than vanity?",
+    "What habits help me remember my Maker and resist a life driven by gain “by evil means”?",
+    "In what ways do I let appearances entice me away from truth and righteousness?",
+    "How can I honor God through the work of my hands without making the work itself an idol?"
+  ],
+  "uncertainAreas": "Verse 2’s claim “we will not sin, knowing that we are counted thine” may be aspirational rather than absolute. The potter could be a representative example of all artisans, but the focus on clay imagery may deliberately echo prophetic traditions; the extent of specific allusions to Egyptian animal cults in vv. 18–19 is likely but not explicit. Translation nuances (e.g., “lewdly” in v. 8) may color the moral tone beyond the underlying argument.",
+  "createdAt": "2025-10-19T03:41:51.223Z",
+  "modelId": "gpt-5-2025-08-07"
+}

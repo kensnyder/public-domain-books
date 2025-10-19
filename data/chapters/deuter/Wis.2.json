@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Wis.2",
+  "briefOverview": "The chapter contrasts the ungodly’s nihilistic, hedonistic reasoning with the divine purpose for humanity, culminating in a brief theology of immortality and the origin of death.",
+  "summary": "The ungodly argue that life is short and irretrievable after death, so they should indulge in pleasure and make strength their standard of justice. This outlook leads them to exploit the vulnerable and to target a righteous person whose life and claims expose their deeds. They propose to test him with insults, torture, and a shameful death to see whether God will deliver him. The narrator concludes that such plans arise from blindness to God’s mysteries and to the reward reserved for blameless souls. God created humans for immortality in his own image, but death entered the world through the devil’s envy, and those who align with him experience it.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in the late Second Temple period, often associated with Alexandria. Its use of rhetorical speech placed in the mouths of the wicked (prosopopoeia) engages contemporary philosophical ideas, including a carpe diem outlook akin to certain strains of Epicureanism. The work seeks to reassure a Jewish audience living amid Gentile culture that fidelity to divine wisdom is vindicated by God’s justice and eschatological hope.",
+  "externalReferences": "The plot against the righteous person and the taunt “let God deliver him” echoes Psalm 22:8 and is taken up in Matthew 27:43 during Jesus’ crucifixion. The creation of humans “in the image” aligns with Genesis 1:26–27. The claim that death entered through the devil’s envy reflects the narrative of human fall through the serpent in Genesis 3. The wicked “lying in wait” for the righteous resembles motifs in Psalm 37:12, 32.",
+  "seeAlso": [
+    "Genesis 1:26-27",
+    "Genesis 3:1-7",
+    "Psalm 22:7-8",
+    "Matthew 27:43",
+    "Psalm 37:12-15",
+    "Psalm 37:32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Nihilistic counsel to indulge"
+    },
+    {
+      "range": "10-20",
+      "title": "Plot against the righteous"
+    },
+    {
+      "range": "21-24",
+      "title": "Blindness, destiny, and death"
+    }
+  ],
+  "themes": [
+    "Nihilism and hedonism",
+    "Persecution of the righteous",
+    "Immortality and image",
+    "Moral blindness",
+    "Devil and death"
+  ],
+  "practicalQuestions": [
+    "How does my view of mortality shape my ethics and treatment of others?",
+    "Where do I see “might makes right,” and how should I resist it faithfully?",
+    "How can I stand with and protect those who are mocked or oppressed for righteousness?",
+    "What practices help me resist pleasure-seeking that neglects the vulnerable?",
+    "Do I trust God’s vindication when integrity brings suffering?"
+  ],
+  "uncertainAreas": "Whether “the righteous man” is a generic type, Israel, or a foreshadowed messianic figure is not specified. The sense of “immortal” (earthly incorruptibility vs. eschatological life with God) and the precise mechanism of “the devil’s envy” are expressed briefly, leaving interpretive room.",
+  "createdAt": "2025-10-19T03:34:30.237Z",
+  "modelId": "gpt-5-2025-08-07"
+}

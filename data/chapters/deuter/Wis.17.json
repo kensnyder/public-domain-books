@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Wis.17",
+  "briefOverview": "The chapter poetically depicts God’s inescapable judgment through a supernatural darkness that terrifies the oppressors of the holy nation while exposing the futility of their supposed wisdom.",
+  "summary": "The author asserts the greatness of God’s judgments and describes how the unrighteous, attempting to oppress the holy nation, were enclosed in a night of dreadful darkness. Hidden sins did not shield them; they were haunted by apparitions, noises, and terrors, and even fire and stars could not relieve their night. Their magic and self-styled wisdom failed, and those who claimed to cure fear were themselves overcome by it. The text reflects on fear as the betrayal of reason and the product of a guilty conscience that anticipates worse things. All classes of people were immobilized by this terror, alarmed even by harmless natural sounds, while elsewhere the world enjoyed clear light. Over the oppressors alone lay a heavy night—an image of the final darkness to receive them—and their inner turmoil proved worse than the external gloom.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in Alexandria in the late first century BCE or early first century CE. Chapters 11–19 retell episodes from Israel’s Exodus with theological reflection, contrasting divine care for Israel with judgment on their oppressors. This chapter elaborates on the plague of darkness visited upon Egypt, interpreting it as both a cosmic sign and a psychological judgment. The treatment of fear and conscience reflects Hellenistic philosophical vocabulary about reason, while retaining a distinct Jewish emphasis on God’s providence and justice.",
+  "externalReferences": "The chapter alludes to the Egyptian plague of darkness in Exodus 10:21–23, where a thick darkness covers Egypt while Israel has light. The failure of “art magick” recalls the Egyptian magicians who initially mimicked Moses but ultimately failed (Exodus 7:11–12; 8:18–19). The contrast between darkness for the oppressors and light for God’s people is echoed in Wisdom 18:1. Psalms recount the plagues as divine judgments, including darkness (Psalm 105:28).",
+  "seeAlso": [
+    "Exodus 10:21-23",
+    "Exodus 7:11-12",
+    "Exodus 8:18-19",
+    "Wisdom 18:1",
+    "Psalm 105:28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Judgment of oppressive darkness"
+    },
+    {
+      "range": "9-13",
+      "title": "Fear and guilty conscience"
+    },
+    {
+      "range": "14-21",
+      "title": "Universal night terrors; light elsewhere"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Darkness and terror",
+    "Failed false wisdom",
+    "Conscience and fear"
+  ],
+  "practicalQuestions": [
+    "Where am I relying on inadequate substitutes—techniques, status, or expertise—instead of seeking truth and integrity before God?",
+    "How does an uneasy conscience amplify fear in my life, and what practices help restore a clear conscience?",
+    "When facing anxiety, how can I let reason and trust guide me rather than the spiraling expectations fear creates?",
+    "Do my actions contribute to others’ oppression or “darkness,” and what repentance or repair is needed?",
+    "What would it look like to seek the light of God’s providence in situations that feel confusing or threatening?"
+  ],
+  "uncertainAreas": "The chapter does not explicitly name Egypt, though the details strongly suggest the Exodus context. The reference to a “fire kindled of itself” is vivid but ambiguous—whether a supernatural phenomenon or a poetic way to intensify dread. The phrase “image of that darkness which should afterward receive them” likely points to death or the underworld, but the exact referent is not specified.",
+  "createdAt": "2025-10-19T03:42:52.519Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Wis.14",
+  "briefOverview": "The chapter contrasts God’s providence with human-made idols and traces how idolatry arises and corrodes moral life.",
+  "summary": "The author begins with seafaring: a person entrusts himself to a skillfully built ship yet prays to a mere piece of wood, while God’s providence truly governs the sea and saves even the unskilled. He recalls a past deliverance, when the world’s hope survived in a “weak vessel” while the proud giants perished, and declares blessed the wood through which righteousness came. By contrast, objects made by human hands and called gods are cursed along with their makers. The text explains idolatry’s origin in human vanity and grief, especially images of the dead and the ruler cult, exacerbated by artisans’ skill and political commands. Idolatry then breeds widespread corruption—child sacrifice, illicit rites, adultery, violence, theft, perjury, and general disorder—because people trust lifeless idols and excuse false oaths. Final judgment will come not from any power in the idols but from God’s just recompense on sinners who despise holiness.",
+  "externalContext": "Wisdom of Solomon is widely understood to have been composed in Greek, likely in Hellenistic Alexandria (late first century BCE to early first century CE), addressing Jews living amid Greco-Roman culture. Maritime commerce and shipbuilding were central to Mediterranean life, and appeals to the sea’s dangers were common rhetorical devices. The critique of images of rulers reflects the Hellenistic and Roman ruler cults, where portraits and statues of kings and emperors were honored and sometimes worshiped. Child sacrifice had historical associations in the ancient Near East (e.g., among some Phoenician and Punic communities), and Jewish law and prophets strongly denounced it. The chapter continues a Jewish polemic against idolatry, urging exclusive trust in the Creator rather than in crafted images.",
+  "externalReferences": "The “weak vessel” that preserved a “seed” when the “proud giants” perished points to the Flood narrative and Noah’s ark (Genesis 6–9; cf. Genesis 6:4 on the giants/Nephilim). The denunciation of image-making echoes biblical idol critiques such as Exodus 20:4–5, Psalm 115:4–8, Isaiah 44:9–20, and Jeremiah 10:3–5. Condemnations of child sacrifice align with Leviticus 18:21 and Jeremiah 7:31. The insistence that God will not share His glory with idols resonates with Isaiah 42:8 and complements the warning against false oaths (Exodus 20:7).",
+  "seeAlso": [
+    "Genesis 6:4",
+    "Genesis 6:9-9:17",
+    "Exodus 20:4-7",
+    "Psalm 115:4-8",
+    "Isaiah 42:8",
+    "Isaiah 44:9-20",
+    "Jeremiah 7:31",
+    "Jeremiah 10:3-5",
+    "Leviticus 18:21",
+    "Wisdom 13:1-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Providence and the sea"
+    },
+    {
+      "range": "8-21",
+      "title": "Origins of idolatry"
+    },
+    {
+      "range": "22-31",
+      "title": "Moral collapse and judgment"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Idolatry’s origins",
+    "Moral corruption",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "Where do I place trust for safety and success—human skill, cultural symbols, or God’s providence?",
+    "How might grief, flattery of power, or admiration of artistry nudge me toward giving ultimate loyalty to created things?",
+    "What social practices or symbols today risk becoming functional idols in my life or community?",
+    "In what ways do my beliefs about God shape my integrity in speech, promises, and oaths?",
+    "How does participation in prevailing cultural rites affect my moral decisions and relationships?"
+  ],
+  "uncertainAreas": "“Blessed is the wood whereby righteousness cometh” likely refers to the ark but could be broader; the phrase about the “proud giants” assumes a link to Genesis 6 that the text does not fully explain; the nuance of “incommunicable name” is not clarified (whether divine name or divine honors generally).",
+  "createdAt": "2025-10-19T03:41:20.647Z",
+  "modelId": "gpt-5-2025-08-07"
+}

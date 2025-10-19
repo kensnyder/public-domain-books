@@ -1,0 +1,52 @@
+{
+  "chapterOsisID": "Tob.4",
+  "briefOverview": "Tobit gives final instructions to his son Tobias, emphasizing piety, justice, and generosity, and informs him about money deposited in Media.",
+  "summary": "Expecting death, Tobit summons Tobias and instructs him to honor and care for his mother and to bury both parents properly. He exhorts Tobias to fear God, avoid sin, act uprightly, and practice generous almsgiving regardless of his means, promising that such charity delivers from death. He warns against sexual immorality and urges marriage within their kin, recalling the patriarchs’ example, and cautions against pride and lewdness. Tobit commands prompt payment of workers, sobriety, seeking wise counsel, and doing to none what one hates. He encourages care for the poor and the burial of the righteous, while withholding gifts from the wicked, and to continually bless God and pray for guidance. Finally, he discloses the ten talents entrusted to Gabael in Rages of Media and reassures Tobias that the fear of God is true wealth.",
+  "externalContext": "The book of Tobit is set among Israelites exiled by the Assyrians in the 8th–7th centuries BCE, with the family living in Nineveh and connections to Media (a region east of Assyria). Rages (often identified with Rayy near modern Tehran) was a Median city and a commercial hub, making a monetary deposit there plausible. In Second Temple Judaism, almsgiving became a hallmark of piety and communal responsibility, especially in diaspora settings. Jewish tradition highly valued burying the dead and supporting mourners as deeds of mercy. Concerns about intermarriage reflected efforts to preserve covenant identity among exiles and diaspora communities.",
+  "externalReferences": "The command to honor parents echoes the Decalogue (Exodus 20:12), and the insistence on prompt payment of wages parallels Deuteronomy 24:14–15. The call to share bread with the hungry and clothe the naked resonates with Isaiah 58:7 and Job 31:16–20. The maxim, “Do that to no man which thou hatest,” aligns with the Golden Rule as expressed in Matthew 7:12 and Luke 6:31 (here in negative form). The claim that almsgiving delivers from death parallels wisdom themes in Proverbs 11:4 and is close to Sirach 3:30 on almsgiving’s atoning value; the counsel to marry within the kin reflects patterns in Genesis 24:3–4 and concerns similar to Deuteronomy 7:3–4 and Ezra 9:1–2.",
+  "seeAlso": [
+    "Exodus 20:12",
+    "Deuteronomy 24:14-15",
+    "Isaiah 58:7",
+    "Job 31:16-20",
+    "Matthew 7:12",
+    "Luke 6:31",
+    "Proverbs 11:4",
+    "Sirach 3:30",
+    "Genesis 24:3-4",
+    "Deuteronomy 7:3-4",
+    "Ezra 9:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Remembered the deposit"
+    },
+    {
+      "range": "3-19",
+      "title": "Fatherly ethical counsel"
+    },
+    {
+      "range": "20-21",
+      "title": "Deposit and final assurance"
+    }
+  ],
+  "themes": [
+    "Filial piety",
+    "Almsgiving",
+    "Justice",
+    "Wisdom",
+    "Sexual purity"
+  ],
+  "practicalQuestions": [
+    "How can I practice consistent generosity according to my means without resentment?",
+    "In what concrete ways can I honor and care for my parents or elders today?",
+    "Do I ensure fair and prompt compensation for those who work for me or whom I hire?",
+    "How do I apply the negative Golden Rule in conflicts or online interactions?",
+    "What criteria should guide my choice of a spouse or close partnerships to preserve faith and integrity?",
+    "Whose wise counsel should I seek regularly for guidance and accountability?"
+  ],
+  "uncertainAreas": "The precise meaning of “Pour out thy bread on the burial of the just, but give nothing to the wicked” is unclear—whether it mandates funding funeral meals for the righteous only, or more generally prioritizing the deserving while withholding aid from the morally corrupt. The phrase “alms deliver from death” could be literal (temporal preservation) or figurative (deliverance from judgment), and the text does not specify. The statement “every nation hath not counsel” may critique reliance on human wisdom or foreign customs, but its exact nuance is ambiguous.",
+  "createdAt": "2025-10-19T03:28:01.084Z",
+  "modelId": "gpt-5-2025-08-07"
+}

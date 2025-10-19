@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Tob.1",
+  "briefOverview": "Tobit narrates his faithful life before and during Assyrian exile, emphasizing worship at Jerusalem, almsgiving, and courageous burial of the dead. He loses everything under Sennacherib but is restored after the king’s assassination through the help of his influential kinsman.",
+  "summary": "Tobit introduces his lineage from the tribe of Naphtali and recounts deportation from Thisbe to Nineveh under Enemessar. As a youth he remained loyal to Jerusalem’s temple worship despite his tribe’s apostasy, diligently bringing firstfruits and multiple tithes as prescribed. In exile he refused Gentile food, gained royal favor as a purveyor, and deposited silver with Gabael in Media. Known for charity—feeding the hungry, clothing the naked, and secretly burying Israelite dead—he was denounced, forced into hiding, and stripped of his goods under Sennacherib. After Sennacherib’s assassination and Esarhaddon’s accession, Tobit’s nephew Achiacharus interceded so that Tobit could return to Nineveh.",
+  "externalContext": "The northern kingdom of Israel fell progressively to Assyria: Naphtali’s territory was annexed by Tiglath-pileser III (c. 732 BCE), and Samaria fell in 722/721 BCE, leading to mass deportations to Assyrian cities such as Nineveh. The Assyrian kings named here correspond to Shalmaneser V (often identified with Enemessar), Sennacherib, and Esarhaddon; Sennacherib was assassinated by his sons, who fled to the land of Ararat (Urartu). In the northern kingdom, worship at Jerusalem had been rejected since Jeroboam I established rival sanctuaries with calf images, a practice condemned by prophets. Tithing practices described by Tobit reflect Torah instructions for priestly and festival tithes and provisions for the poor.",
+  "externalReferences": "Tobit’s critique of his tribe’s sacrifices “to the heifer Baal” aligns with the northern calf cult instituted by Jeroboam I (1 Kings 12:28–33) and condemned by prophets such as Hosea (Hosea 8:5–6). His careful attention to tithes and distributions reflects Deuteronomy’s legislation on tithes and the triennial poor tithe (Deuteronomy 14:22–29; 26:12). His refusal to eat Gentile food in exile recalls exilic scruples seen in Daniel’s resolve not to defile himself with royal provisions (Daniel 1:8). The account of Sennacherib’s assassination and the flight of his sons to Ararat corresponds to 2 Kings 19:37 and Isaiah 37:38.",
+  "seeAlso": [
+    "1 Kings 12:28-33",
+    "Hosea 8:5-6",
+    "Deuteronomy 14:22-29",
+    "Deuteronomy 26:12",
+    "Daniel 1:8",
+    "2 Kings 19:37",
+    "Isaiah 37:38",
+    "2 Kings 15:29",
+    "2 Kings 17:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Lineage and Temple fidelity"
+    },
+    {
+      "range": "9-15",
+      "title": "Family, exile, royal favor"
+    },
+    {
+      "range": "16-22",
+      "title": "Alms, burials, deliverance"
+    }
+  ],
+  "themes": [
+    "Covenant fidelity",
+    "Almsgiving",
+    "Exile",
+    "Burial of the dead",
+    "Divine providence"
+  ],
+  "practicalQuestions": [
+    "Where might integrity to my faith require nonconformity when my community goes another way?",
+    "What intentional practices of generosity can I establish to support the poor consistently?",
+    "How can I honor the dead and care for grieving families in my context?",
+    "What boundaries should I maintain to keep my conscience clear in settings that pressure me to compromise?",
+    "If I hold a position of trust, how can I leverage it to protect and restore vulnerable people?"
+  ],
+  "uncertainAreas": "The identification of “Enemessar” with Shalmaneser V is traditional but not explicit in the text; the phrase “heifer Baal” may reflect varied traditions about northern calf worship. The exact chronology (e.g., “five and fifty days”) and some names (Achiacharus/Ahikar; Gabael/Gabrias) vary among manuscripts. The note that Sennacherib “fled from Judea” may allude to his retreat after the failed Jerusalem campaign, but the timing relative to Tobit’s actions is not fully clear.",
+  "createdAt": "2025-10-19T03:26:16.687Z",
+  "modelId": "gpt-5-2025-08-07"
+}

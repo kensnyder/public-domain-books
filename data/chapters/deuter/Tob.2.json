@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Tob.2",
+  "briefOverview": "Tobit practices charity during Pentecost, even risking danger to bury a slain compatriot, which leads to ritual impurity, an accidental blinding, and household strain over trust and provision.",
+  "summary": "During the Pentecost feast, Tobit prepares a meal and sends his son to invite a God-fearing poor man to share it. Tobias instead reports an Israelite found strangled in the marketplace, and Tobit removes the body, later burying it after sunset, recalling Amos’s warning that feasts can turn to mourning. Neighbors mock him for risking punishment by burying the dead. After returning, Tobit sleeps by his courtyard wall while unclean, and sparrows drop warm dung into his open eyes, leading to a white film and lasting blindness that physicians cannot heal; Achiacharus supports him for a time. Anna takes on women’s work to support the family, receiving a bonus kid; Tobit suspects theft and demands its return, but she insists it was a gift and rebukes him, pointing to his well-known alms and righteous deeds.",
+  "externalContext": "The setting is the Assyrian exile, with many Israelites living in and around Nineveh; some Jewish traditions hold that burying the dead contravened hostile policies under Assyrian rulers, making Tobit’s actions dangerous. Pentecost (Feast of Weeks, Shavuot) marked the end of the grain harvest and involved festive meals and charity. Contact with corpses created ritual impurity in Israelite law, normally requiring washing and a period of uncleanness before rejoining normal life. Women’s textile work was a common household economy in the ancient Near East, making Anna’s labor culturally typical. Achiacharus (Ahiqar) is known from ancient Near Eastern wisdom traditions as a high official and sage; Elymais likely refers to the region of Elam in southwestern Iran.",
+  "externalReferences": "Tobit recalls Amos’s prophecy, “I will turn your feasts into mourning” (Amos 8:10), framing his interrupted Pentecost meal and subsequent burial. The mention of the Feast of Weeks corresponds to the Torah’s command to observe it with rejoicing and generosity (Deuteronomy 16:9–12; cf. Exodus 34:22). Tobit’s washing and description of being “polluted” after handling a corpse resonate with the laws concerning corpse impurity (Numbers 19:11–13). The priority given to almsgiving and inviting the poor aligns with commands to open one’s hand to the needy (Deuteronomy 15:7–11) and wisdom teaching that charity honors God (Proverbs 19:17).",
+  "seeAlso": [
+    "Amos 8:10",
+    "Deuteronomy 16:9-12",
+    "Exodus 34:22",
+    "Numbers 19:11-13",
+    "Deuteronomy 15:7-11",
+    "Proverbs 19:17",
+    "Tobit 1:16-20",
+    "2 Maccabees 12:39-45"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Pentecost charity and burial"
+    },
+    {
+      "range": "8-10",
+      "title": "Mockery and sudden blindness"
+    },
+    {
+      "range": "11-14",
+      "title": "Anna’s work and household dispute"
+    }
+  ],
+  "themes": [
+    "Charity to the poor",
+    "Burial of the dead",
+    "Ritual purity",
+    "Suffering of the righteous",
+    "Family tension"
+  ],
+  "practicalQuestions": [
+    "How can we prioritize generosity to the poor during our own celebrations and abundance?",
+    "When good deeds bring hardship, what principles guide our perseverance and prudence?",
+    "How should we balance vigilance against wrongdoing with trust in those close to us?",
+    "What practices help a community support members who suffer unexpected disability or loss?",
+    "In environments hostile to faith practices, how do we weigh obedience to conscience with personal risk?"
+  ],
+  "uncertainAreas": "Whether the delay until sunset was for concealment, purity concerns, or both; the precise legal risk Tobit faced under Assyrian rule; the identity and role of Achiacharus (Ahiqar) relative to Tobit; and the exact meaning of “Elymais” in this narrative context.",
+  "createdAt": "2025-10-19T03:26:56.068Z",
+  "modelId": "gpt-5-2025-08-07"
+}

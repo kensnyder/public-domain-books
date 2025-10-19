@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Tob.13",
+  "briefOverview": "A psalm-like prayer by Tobit praises God’s sovereign discipline and mercy and anticipates Jerusalem’s restoration. It calls Israel in exile to repent, bear witness among the nations, and hope for Zion’s future glory.",
+  "summary": "Tobit blesses the eternal God who both chastens and has mercy, asserting that none can escape his hand. He urges Israel, scattered among the Gentiles, to confess and extol God and promises that God will gather them if they return to him wholeheartedly. From exile he calls sinners to turn and do justice, hoping for divine acceptance and compassion. Addressing Jerusalem, he proclaims that though she has been scourged for her children’s deeds, God will again have mercy, rebuild her, and draw many nations to honor the Lord. The righteous who love Jerusalem will be blessed and rejoice in her peace, and he envisions a glorified city adorned with precious stones where all her streets resound with praise.",
+  "externalContext": "Tobit is set during the Assyrian exile, when northern Israelites were deported to regions under Assyrian control (8th–7th century BCE). The book reflects diaspora piety that continued to look toward Jerusalem as the spiritual center. References to the rebuilding of the “tabernacle” or temple evoke post-exilic hopes central in Second Temple Judaism, even though the narrative setting is earlier. Descriptions of Jerusalem embellished with gemstones resonate with ancient Near Eastern and biblical imagery that idealizes a restored, sanctified city.",
+  "externalReferences": "The claim that God brings down to the underworld and raises up echoes 1 Samuel 2:6. The call to repent and God’s promise to gather the scattered aligns with Deuteronomy 30:1–3 and related restoration prophecies. The vision of nations streaming to Zion with gifts parallels Isaiah 2:2–4 and Isaiah 60:1–14, while the jeweled rebuilding of Jerusalem recalls Isaiah 54:11–12. The imagery of a radiant, gem-adorned city also anticipates Revelation 21:10–21, though in a later Christian apocalyptic context.",
+  "seeAlso": [
+    "1 Samuel 2:6",
+    "Deuteronomy 30:1-3",
+    "Isaiah 2:2-4",
+    "Isaiah 54:11-12",
+    "Isaiah 60:1-14",
+    "Jeremiah 31:10",
+    "Ezekiel 36:24",
+    "Psalm 122:6-9",
+    "Revelation 21:10-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Praise and call to repentance"
+    },
+    {
+      "range": "9-14",
+      "title": "Jerusalem chastened and blessed"
+    },
+    {
+      "range": "15-18",
+      "title": "Vision of glorified Jerusalem"
+    }
+  ],
+  "themes": [
+    "Discipline and mercy",
+    "Repentance",
+    "Diaspora witness",
+    "Restoration of Jerusalem",
+    "Universal worship"
+  ],
+  "practicalQuestions": [
+    "How can I practice public gratitude to God even while facing personal or communal hardship?",
+    "What would wholehearted return to God look like in my current habits and relationships?",
+    "How can I bear faithful witness to God’s greatness among people who do not share my beliefs?",
+    "In what concrete ways can I express love for the wellbeing and peace of my community, akin to loving Jerusalem?",
+    "How do I interpret experiences of discipline as invitations to renewal rather than signs of rejection?"
+  ],
+  "uncertainAreas": "The extent to which the jeweled description of Jerusalem is poetic hyperbole versus eschatological prediction is unclear. The term translated “hell” likely refers to Sheol/Hades, not later doctrinal concepts. The prayer’s historical layer—whether reflecting the Assyrian period or later post-exilic hopes—cannot be fixed solely from this chapter.",
+  "createdAt": "2025-10-19T03:32:41.224Z",
+  "modelId": "gpt-5-2025-08-07"
+}

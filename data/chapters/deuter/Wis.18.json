@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Wis.18",
+  "briefOverview": "A poetic retelling of the Exodus night contrasts light for God’s people with judgment on Egypt and highlights priestly intercession that halts divine wrath.",
+  "summary": "The chapter contrasts the darkness and terror that struck Egypt with the great light and protection granted to God’s people, who were even honored by former enemies. God guided Israel by a pillar of fire and judged those who had imprisoned his sons and sought to kill their infants, ultimately taking Egypt’s firstborn and drowning its power in the sea. Israel had been forewarned about that night, celebrated the Passover in unity, and sang praise as both salvation for the righteous and destruction of enemies unfolded. The divine Word is depicted as descending like a warrior to execute judgment, with dreams signaling the reason for the afflictions. Later, when death touched the righteous in the wilderness, a blameless priest intervened with prayer and incense, invoking the covenant, and by his sacred vestments and ministry he stood between the living and the dead to end the wrath.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in Alexandria (circa 1st century BCE–1st century CE). It blends Jewish scriptural traditions with Greco-Roman rhetorical style and philosophical motifs, aiming to strengthen Jewish identity and piety within a diaspora context. The author frequently reinterprets Israel’s history, especially the Exodus, to display divine justice, wisdom, and the covenant’s reliability. Priestly imagery, such as the high priest’s vestments and the use of incense, reflects Second Temple cultic symbolism familiar to the audience.",
+  "externalReferences": "The pillar of fire guiding Israel and the contrasting darkness recall Exodus 13:21–22 and Exodus 10:21–23. The Passover instructions and secret household sacrifice allude to Exodus 12:1–14, 21–28, culminating in the death of Egypt’s firstborn (Exodus 12:29–30). The saving of an exposed child points to Moses’ deliverance (Exodus 2:1–10), while the destruction “in a mighty water” evokes the Red Sea (Exodus 14:26–31). The priest who stops the plague with incense reflects Aaron’s intercession after Korah’s rebellion (Numbers 16:46–50), and the vestments with stones and the diadem align with the high priestly garments (Exodus 28:15–21, 36–38); the recognition of Israel as God’s son echoes Exodus 4:22–23.",
+  "seeAlso": [
+    "Exodus 10:21-23",
+    "Exodus 12:1-14",
+    "Exodus 12:21-30",
+    "Exodus 13:21-22",
+    "Exodus 2:1-10",
+    "Exodus 14:26-31",
+    "Numbers 16:46-50",
+    "Exodus 28:15-21",
+    "Exodus 28:36-38",
+    "Exodus 4:22-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Light for God’s people"
+    },
+    {
+      "range": "9-19",
+      "title": "Passover and firstborn judgment"
+    },
+    {
+      "range": "20-25",
+      "title": "Priestly intercession ends wrath"
+    }
+  ],
+  "themes": [
+    "Divine justice",
+    "Deliverance",
+    "Covenant faithfulness",
+    "Intercession"
+  ],
+  "practicalQuestions": [
+    "How do we express solidarity and shared responsibility in times of crisis, as the people did when they became partakers of the same good and evil?",
+    "When wronged, what would it look like to respond with restraint and even seek reconciliation, as portrayed when former enemies asked pardon?",
+    "How can communal prayer and intercession play a role in halting harm and restoring a community?",
+    "What symbols or practices help us remember deliverance and keep covenant commitments central in our lives?",
+    "How do we maintain confidence in divine justice while practicing mercy toward opponents?"
+  ],
+  "uncertainAreas": "Verse 5 likely compresses multiple events (Moses’ rescue, the death of Egypt’s firstborn, and the Red Sea drowning), but the exact distribution of references is not explicit. Verses 20–23 seem to refer to the plague after Korah’s rebellion with Aaron’s incense (Numbers 16:46–50), though the wording could also evoke other wilderness plagues. The description of terrifying dreams (vv. 17–19) is not tied to a specific Exodus passage, leaving its precise scriptural anchor uncertain.",
+  "createdAt": "2025-10-19T03:43:34.337Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Wis.5",
+  "briefOverview": "The chapter contrasts the fate of the righteous and the wicked, highlighting the vindication of the righteous and the remorse of their former oppressors.",
+  "summary": "The righteous are portrayed standing boldly before those who once mocked and oppressed them, while the wicked are terrified and astonished at the unexpected salvation of the righteous. The oppressors confess their error, lamenting that pride and riches were empty and transient, illustrated through images of fleeting traces like a ship’s wake, a bird’s path, and an arrow’s passage. They acknowledge having pursued destructive paths rather than the way of the Lord. In contrast, the righteous live forever, receiving reward, protection, and a crown from the Lord. The chapter closes with divine warrior imagery: God arms himself with righteousness, judgment, holiness, and wrath, and the elements of creation join the judgment against the unwise, overthrowing injustice and mighty thrones.",
+  "externalContext": "Traditionally attributed to Solomon, the Wisdom of Solomon was likely composed in Greek in Hellenistic Alexandria (1st century BCE–1st century CE) by a Jewish sage engaging both Israel’s Scriptures and Greek philosophical concepts. The book addresses a community negotiating faithfulness amid cultural pressure and possible marginalization. Its emphasis on the immortality of the righteous and retributive justice responds to questions about suffering and apparent injustice. The divine warrior and cosmic-theophany motifs fit broader ancient Near Eastern and biblical depictions of God’s judgment. The rhetoric of the wicked speaking in remorse echoes Hellenistic moral diatribe and Jewish sapiential contrasts between the righteous and the wicked.",
+  "externalReferences": "The divine armor imagery parallels Isaiah 59:17, where God dons righteousness as a breastplate and a helmet of salvation; later Christian tradition echoes this in Ephesians 6:13–17. The vindication and reward of the righteous align with Daniel 7:27 (the saints receiving the kingdom) and Wisdom 3:1–9 (the righteous in the hand of God), while the beatitude on the persecuted resonates with Matthew 5:10–12. The storm-theophany and cosmic elements that fight the wicked recall episodes like the Red Sea judgment (Exodus 14:27–28) and hail against Israel’s foes (Joshua 10:11). The contrast between transient wickedness and enduring righteousness evokes Psalm 1’s two ways.",
+  "seeAlso": [
+    "Wisdom 2:12-20",
+    "Wisdom 3:1-9",
+    "Isaiah 59:17",
+    "Daniel 7:27",
+    "Exodus 14:27-28",
+    "Joshua 10:11",
+    "Matthew 5:10-12",
+    "Ephesians 6:13-17",
+    "Psalm 1:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Righteous vindicated; wicked regret"
+    },
+    {
+      "range": "7-14",
+      "title": "Futility of pride and wealth"
+    },
+    {
+      "range": "15-23",
+      "title": "Divine warrior and judgment"
+    }
+  ],
+  "themes": [
+    "Vindication of the righteous",
+    "Divine justice",
+    "Transience of wickedness",
+    "Eschatological reward",
+    "Divine warrior imagery"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to measure success by pride and wealth rather than by righteousness?",
+    "How might the long view of divine justice reshape how I endure misunderstanding or opposition today?",
+    "What concrete practices help me walk in “the way of the Lord” rather than the exhausting paths of wrongdoing?",
+    "In what settings do I need courage to “stand in great boldness” without vindictiveness?",
+    "How can my community cultivate hope that endures beyond immediate outcomes and public opinion?"
+  ],
+  "uncertainAreas": "Verse 14 reads “the hope of the Godly” in the provided text, but many editions read “ungodly,” which better fits the context; I assumed the contrast but note the textual issue. The cosmic-judgment imagery (thunderbolts, hail, sea, wind) may be metaphorical or eschatological-literal; the text does not specify. The “righteous man” may represent an individual or the collective righteous; the chapter’s logic supports either reading.",
+  "createdAt": "2025-10-19T03:36:09.929Z",
+  "modelId": "gpt-5-2025-08-07"
+}

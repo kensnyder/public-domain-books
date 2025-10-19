@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Tob.8",
+  "briefOverview": "On their wedding night, Tobias and Sarah pray for God’s mercy and protection, leading to the demon’s expulsion and a joyful celebration by her family.",
+  "summary": "After the wedding meal, Tobias follows Raphael’s instructions by burning the fish’s heart and liver, whose smoke drives the evil spirit away to Egypt, where the angel binds it. Shut in together, Tobias invites Sarah to pray; he blesses God, recalls the creation of Adam and Eve, and declares he marries her not out of lust but uprightly, asking to grow old together, to which she says “Amen.” Meanwhile, fearing another death like Sarah’s prior husbands, Raguel prepares a grave, but a maid finds the couple alive and asleep. Raguel then praises God for mercifully preserving the only children of their fathers and prays for their joyful, healthy life. He has the grave filled and hosts a fourteen-day wedding feast, binding Tobias by oath to remain the full period. Raguel promises Tobias half his goods now and the rest after Raguel and Edna die.",
+  "externalContext": "Tobit is set among Israelites living in the Assyrian exile (8th–7th century BCE), with much of the narrative taking place in Nineveh and Media. Jewish wedding feasts in the ancient Near East typically lasted a week, with family agreements about dowries and property transfers; extended celebrations could occur depending on circumstance and means. Use of aromatic fumigation for healing or apotropaic purposes appears in ancient Near Eastern and Mediterranean practice, providing a cultural backdrop to the fish-organ remedy, though here it is explicitly tied to angelic instruction rather than folk magic. The angel Raphael features in later Jewish tradition as a healing and protective figure.",
+  "externalReferences": "Tobias’s prayer explicitly recalls the creation narrative and the institution of marriage in Genesis 2:18, 23–24, grounding their union in God’s design rather than mere passion. His doxology inviting heaven and all creatures to bless God resonates with Psalm 148 and the Song of the Three (Daniel 3:57–90 in Greek), where all creation is summoned to praise. The method for expelling the demon follows Raphael’s earlier instruction (Tobit 6:6–8), and the demon’s identity connects to the earlier report about Sarah’s husbands being slain (Tobit 3:8).",
+  "seeAlso": [
+    "Genesis 2:18-24",
+    "Psalm 148:1-14",
+    "Daniel 3:57-90",
+    "Tobit 3:8",
+    "Tobit 6:6-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Demon expelled and bound"
+    },
+    {
+      "range": "4-8",
+      "title": "Marriage prayer and intent"
+    },
+    {
+      "range": "9-21",
+      "title": "Raguel’s relief and wedding feast"
+    }
+  ],
+  "themes": [
+    "Marriage covenant",
+    "Prayer",
+    "Divine deliverance",
+    "Mercy",
+    "Praise"
+  ],
+  "practicalQuestions": [
+    "How might beginning major life commitments with prayer shape intentions and actions within them?",
+    "In what ways can couples frame their relationship around covenantal faithfulness rather than mere desire?",
+    "How can communities support vulnerable couples with both prudence and trust rather than fear-driven assumptions?",
+    "Where do I need to replace anxiety with gratitude when outcomes prove better than I expected?",
+    "What practices help me remember and act on wise counsel in moments of pressure?"
+  ],
+  "uncertainAreas": "The text does not explain the mechanics of the demon’s binding or why Egypt is named as the destination; the significance of the fourteen-day duration of the feast is not stated; and “only begotten children” likely means only children, but the social implications (e.g., inheritance customs) are not detailed.",
+  "createdAt": "2025-10-19T03:30:13.119Z",
+  "modelId": "gpt-5-2025-08-07"
+}

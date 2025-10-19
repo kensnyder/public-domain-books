@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Wis.13",
+  "briefOverview": "The chapter critiques idolatry in two forms: revering natural forces and crafting lifeless images, arguing that creation’s beauty and power should lead to the Creator.",
+  "summary": "The author declares people vain for failing to know God from the visible creation, mistaking elements like fire, wind, stars, and heavenly lights for gods. While acknowledging that seekers may be drawn by beauty and power, he insists they are still without excuse, since created things proportionally point to the superior Maker. He then satirizes the craftsman who uses leftover wood to fashion a human or animal-shaped image, paints and props it up, and then prays to it for health, prosperity, and safe travel. The irony is emphasized: the idol cannot move, help, or live, yet is asked to provide life and aid.",
+  "externalContext": "The Wisdom of Solomon is a Hellenistic Jewish work, likely composed in Greek in Alexandria (circa 1st century BCE), addressing both Jewish audiences and a Greco-Roman world steeped in polytheism and philosophical inquiry. In that milieu, astral religion (veneration of stars and planets) and the deification of elemental forces were common, as were household and civic cults that used crafted images. The passage reflects a tradition in Jewish wisdom and prophetic literature critiquing idol worship and commending knowledge of the one Creator discernible through creation. It also engages themes of “natural theology,” arguing that the created order offers sufficient pointers to God’s existence and power.",
+  "externalReferences": "This critique parallels Psalm 19:1, which affirms that the heavens declare God’s glory, and Romans 1:19–23, where Paul argues that God’s power and divinity are evident in creation, leaving idolaters without excuse. The mockery of an artisan fabricating a lifeless god closely echoes Isaiah 44:9–20 and Jeremiah 10:3–5, which lampoon the making, propping, and worship of wooden idols. The apostolic preaching to Gentiles also resonates here: Acts 14:15–17 and Acts 17:24–29 appeal to the Creator known through the world, rejecting the worship of created things.",
+  "seeAlso": [
+    "Psalm 19:1",
+    "Isaiah 44:9-20",
+    "Jeremiah 10:3-5",
+    "Romans 1:19-23",
+    "Acts 14:15-17",
+    "Acts 17:24-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Creation Points to Creator"
+    },
+    {
+      "range": "10-19",
+      "title": "Folly of Handmade Idols"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Natural revelation",
+    "Creator–creation distinction",
+    "Folly of worshiping images"
+  ],
+  "practicalQuestions": [
+    "Where might I be elevating created things—nature, success, technology, or art—into ultimate sources of meaning or security?",
+    "How can I let the beauty and order of the world lead me to gratitude and reverence for its Maker rather than to fixation on the creation itself?",
+    "What practices help distinguish genuine dependence on God from reliance on powerless substitutes?",
+    "Are there areas where I excuse spiritual confusion as “seeking,” when I already have enough evidence to take a step toward the Creator?",
+    "How can communities teach discernment about symbols and images so they point beyond themselves to God rather than becoming objects of devotion?"
+  ],
+  "uncertainAreas": "The balance between verses 6–8—saying seekers are “less to be blamed” yet “not to be pardoned”—is interpretively delicate; the degree of culpability is not fully specified. The phrase “aim at the world” (v. 9) may refer to advanced observation or understanding of the cosmos, but the exact nuance is uncertain. The term “proportionably” (v. 5) likely means by analogy or inference, but the precise logical method intended is not explicit.",
+  "createdAt": "2025-10-19T03:40:43.342Z",
+  "modelId": "gpt-5-2025-08-07"
+}
