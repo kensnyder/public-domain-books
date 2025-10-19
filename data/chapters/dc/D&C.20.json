@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "D&C.20",
+  "briefOverview": "Foundational revelation establishing the Church’s organization, doctrines, ordinances, and offices at its formal rise in April 1830. It outlines core teachings about God, Christ’s atonement, salvation, and the practical order of church life.",
+  "summary": "The section announces the organization of the Church of Christ on April 6, 1830, naming Joseph Smith as first elder and Oliver Cowdery as second elder. It recounts Joseph’s repentance, angelic ministration, and the divinely granted power to translate the Book of Mormon as a witness that God still calls and inspires. A doctrinal exposition affirms God’s eternal nature, creation, the fall, Christ’s temptation, crucifixion, resurrection, and ascension, promising salvation to those who believe, are baptized, and endure, and emphasizing both justification and sanctification by grace with a warning that one may fall from grace. The text prescribes qualifications for baptism and gives the baptismal formula, then details the duties of elders, priests, teachers, and deacons, including confirmation by the laying on of hands for the Holy Ghost. It provides procedures for conferences, licensure, and ordination by common consent, and sets guidelines for members’ conduct and preparation before the sacrament. It includes the sacrament prayers and directs that transgressions be handled as scriptures direct, and that accurate membership records and letters of good standing be maintained.",
+  "externalContext": "Early Latter-day Saints referred to this section as the Articles and Covenants of the Church, a constitutional-like document read in early conferences and used to regulate church life. It was produced in the context of early 19th-century American religious revival and restorationist impulses, where appeals to New Testament patterns and church order were common. April 1830 corresponds to the legal organization of the church in New York, reflecting a concern to be “agreeable to the laws of our country.” Some elements drew on prior materials (e.g., Oliver Cowdery’s 1829 “Articles of the Church of Christ”), and the text functioned as a living guide as the young church developed.",
+  "externalReferences": "The creation of humanity “male and female” in God’s image echoes Genesis 1:26–27. The synopsis of Christ’s death and resurrection on the third day aligns with 1 Corinthians 15:3–4, and his ascension to the Father’s right hand with Mark 16:19; the call to believe and be baptized parallels Mark 16:16 and Matthew 28:19. Confirmation by the laying on of hands reflects apostolic practice in Acts 8:14–17, and the use of elders and deacons resonates with Titus 1:5 and 1 Timothy 3:8–13. The warning about neither adding to nor diminishing from John’s revelation recalls Revelation 22:18–19, and the assertion that God is the same “yesterday, today, and forever” echoes Hebrews 13:8.",
+  "seeAlso": [
+    "Genesis 1:26-27",
+    "Matthew 28:19",
+    "Mark 16:16",
+    "1 Corinthians 15:3-4",
+    "Mark 16:19",
+    "Acts 8:14-17",
+    "Titus 1:5",
+    "1 Timothy 3:8-13",
+    "Revelation 22:18-19",
+    "Hebrews 13:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-36",
+      "title": "Founding and core doctrine"
+    },
+    {
+      "range": "37-59",
+      "title": "Baptism and priesthood offices"
+    },
+    {
+      "range": "60-84",
+      "title": "Governance, ordinances, records"
+    }
+  ],
+  "themes": [
+    "Restoration authority",
+    "Atonement of Christ",
+    "Ordinances and covenants",
+    "Justification and sanctification",
+    "Church governance"
+  ],
+  "practicalQuestions": [
+    "How can I demonstrate a broken heart and contrite spirit as preparation for baptism or renewal of covenants?",
+    "What habits help me “endure in faith to the end” rather than risk falling from grace?",
+    "In my congregation or ministry role, how can I fulfill the listed duties (teaching, visiting, strengthening, guarding against contention)?",
+    "How might the sacrament prayers shape the way I remember Christ and keep his commandments during the week?",
+    "How does common consent (voting, licensure, records) inform my participation and accountability in the community?"
+  ],
+  "uncertainAreas": "The statement that the Father, Son, and Holy Ghost are “one God” sits alongside later Latter-day Saint teachings distinguishing their personhood; how the oneness is framed here can be interpreted variously. “Years of accountability” are not defined with a specific age in this text. The mention of “wine” in the sacrament reflects early practice; later revelations permitted alternatives. References to offices such as traveling bishops and the prescribed conference cadence may reflect early, evolving administrative usage rather than fixed, timeless policy.",
+  "createdAt": "2025-10-19T03:58:36.462Z",
+  "modelId": "gpt-5-2025-08-07"
+}

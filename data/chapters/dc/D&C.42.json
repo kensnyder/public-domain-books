@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "D&C.42",
+  "briefOverview": "The revelation outlines missionary commission, moral law, and a system of consecration and church governance called “the law.” It gives procedures for stewardship, care of the poor, healing, and church discipline while anticipating the gathering to the New Jerusalem.",
+  "summary": "Jesus Christ commands the elders (except Joseph Smith and Sidney Rigdon for a season) to preach two by two, baptize, and build up the church with authority and by the Spirit, until the New Jerusalem is revealed. He affirms that teaching must align with the Bible and the Book of Mormon and be guided by the Comforter. The revelation reiterates core commandments—against killing, stealing, lying, adultery, lust, pride, and idleness—and commands marital fidelity and charitable living. It establishes the law of consecration: members deed properties to the bishop, receive stewardships sufficient for their needs, and maintain a storehouse to support the poor, purchase lands, build worship houses, and prepare for the New Jerusalem. Instructions address healing by faith with priesthood prayer and laying on of hands, living together in love, and bearing others’ infirmities. The Saints are promised further scriptures, ongoing revelation, and knowledge of where to build the New Jerusalem, and are cautioned about coming dangers and secret combinations. The section closes with practical regulations for supporting church officers and with detailed procedures for trying serious sins and handling offenses privately, before the church, and in harmony with civil law.",
+  "externalContext": "This revelation, known among Latter-day Saints as “the law,” was delivered in early 1831 in Ohio, shortly after many members gathered from New York to Kirtland. Edward Partridge had recently been called as the first bishop, which contextualizes the instructions about deeds, stewardships, and a church storehouse. The early church experimented with consecration to relieve poverty and establish a covenant community. The Saints anticipated a literal gathering and a New Jerusalem to be revealed in the American frontier; soon afterward, Zion’s location was identified in western Missouri. The procedural deference to civil law reflects early nineteenth-century American legal norms and the church’s intent to operate within them.",
+  "externalReferences": "The sending of missionaries “two by two” echoes Jesus sending disciples in Mark 6:7, and the commission to baptize parallels Matthew 28:19. Teaching and comfort by the “Comforter” aligns with John 14:26, and the promise to receive wisdom upon asking mirrors James 1:5. Care for the poor and the statement “inasmuch as ye do it unto the least of these, ye do it unto me” parallels Matthew 25:40; admonitions against idleness resemble 2 Thessalonians 3:10. Instructions on healing by elders and laying on of hands parallel James 5:14–15; processes for private reproof and church discipline resemble Matthew 18:15–17, while the requirement of witnesses reflects Deuteronomy 19:15. Warnings about “secret combinations” recall Book of Mormon passages such as Helaman 6:21–30 and Ether 8:18–26.",
+  "seeAlso": [
+    "Mark 6:7",
+    "Matthew 28:19",
+    "John 14:26",
+    "James 1:5",
+    "Matthew 25:40",
+    "2 Thessalonians 3:10",
+    "James 5:14-15",
+    "Matthew 18:15-17",
+    "Deuteronomy 19:15",
+    "Ether 8:18-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Commission and teaching by the Spirit"
+    },
+    {
+      "range": "30-41",
+      "title": "Law of consecration and stewardship"
+    },
+    {
+      "range": "78-93",
+      "title": "Church discipline and legal procedures"
+    }
+  ],
+  "themes": [
+    "Consecration and stewardship",
+    "Authority and ordination",
+    "Moral purity",
+    "Church discipline",
+    "Gathering and revelation"
+  ],
+  "practicalQuestions": [
+    "How can I ensure that my teaching or service is directed by the Spirit and rooted in scripture rather than personal opinion?",
+    "What would faithful stewardship and generosity toward the poor look like in my current financial and community context?",
+    "How should I address offenses privately and appropriately before involving others, in the spirit of reconciliation?",
+    "In what ways can a congregation support leaders justly while prioritizing care for the poor?",
+    "How can I exercise faith for healing while submitting to God’s timing and purposes?",
+    "What habits help me avoid pride and idleness and honor the labor of others?"
+  ],
+  "uncertainAreas": "The practical mechanics of consecration and deeds versus ongoing personal stewardship could be implemented in different ways; the statement about no forgiveness for killing alongside deference to civil law leaves questions about eternal versus ecclesiastical consequences; and the phrase “not appointed unto death” in the healing promises is theologically open to interpretation regarding divine timing.",
+  "createdAt": "2025-10-19T04:14:07.713Z",
+  "modelId": "gpt-5-2025-08-07"
+}

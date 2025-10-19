@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "D&C.77",
+  "briefOverview": "A revealed Q&A offers interpretive keys to scenes in Revelation, mapping John’s symbols to Latter-day Saint teachings on the last days and the Millennium.",
+  "summary": "The sea of glass in Revelation is identified as the earth in its sanctified, immortal state. John’s four beasts are individual creatures shown to represent the glory of classes of created life; their many eyes signify knowledge and their wings signify power. The twenty-four elders are deceased, faithful ministers from the seven churches, now in paradise. The sealed book contains God’s will and works for the earth’s seven-thousand-year temporal history, each seal corresponding to a millennium. The four angels of Revelation 7 have power over the earth and the everlasting gospel; the angel from the east, called Elias, holds the sealing power over Israel until the servants of God are sealed. The 144,000 are high priests ordained from every nation to bring people into the church of the Firstborn; the trumpets mark God’s preparatory and finishing work at the beginning of the seventh thousand years. John’s little book signifies a mission to gather Israel, and the two witnesses are prophets who will minister to the Jewish nation in the last days after Jerusalem is rebuilt.",
+  "externalContext": "This section is attributed to Joseph Smith (March 1832, Hiram, Ohio) during his work on a revision of the Bible (often called the Joseph Smith Translation), when he posed questions about Revelation and recorded answers. Early Latter-day Saint teaching often framed history in a millennial schema, with a six-thousand-year temporal history culminating in a seventh, millennial day of rest, reflecting broader 19th-century Christian interest in apocalyptic themes. In Latter-day Saint usage, “Elias” can function as a title meaning a forerunner or restorer, not only as a personal name. The focus on sealing, priesthood, and the gathering of Israel aligns with Restoration themes that emphasized divine authority and covenant peoplehood.",
+  "externalReferences": "The answers repeatedly interpret specific passages in Revelation: the sea of glass and four living creatures (Revelation 4:6–8), the twenty-four elders (Revelation 4:4), the four angels and the angel from the east (Revelation 7:1–2), the 144,000 (Revelation 7:4–8), the trumpets (Revelation 8–9), the little book (Revelation 10:8–11), and the two witnesses (Revelation 11:3–13). The seven seals are linked to a seven-thousand-year temporal history, connected conceptually to the creation week and the sanctified seventh day (Genesis 2:1–3).",
+  "seeAlso": [
+    "Revelation 4:4-8",
+    "Revelation 7:1-8",
+    "Revelation 8:1-13",
+    "Revelation 9:1-21",
+    "Revelation 10:8-11",
+    "Revelation 11:3-13",
+    "Genesis 2:1-3",
+    "Doctrine and Covenants 88:95-106",
+    "Doctrine and Covenants 110:13-16",
+    "Doctrine and Covenants 130:8-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Heavenly symbols explained"
+    },
+    {
+      "range": "5-11",
+      "title": "Elders, seals, and sealing"
+    },
+    {
+      "range": "12-15",
+      "title": "Trumpets, missions, and witnesses"
+    }
+  ],
+  "themes": [
+    "Apocalyptic symbolism",
+    "Gathering of Israel",
+    "Priesthood and sealing",
+    "Millennium"
+  ],
+  "practicalQuestions": [
+    "How does viewing the future earth as sanctified change the way I steward the earth now?",
+    "What would it mean in practice to be among those sealed as servants of God?",
+    "If the 144,000 represent high priests from all nations, how do I contribute to a global, covenant-focused discipleship?",
+    "How do the images of eyes (knowledge) and wings (power) inform my pursuit of spiritual understanding and action?",
+    "Given the text’s sense of timing, how can I prepare faithfully without fixating on dates?"
+  ],
+  "uncertainAreas": "The identity and scope of “Elias” are complex in Latter-day Saint usage and may denote a role/title rather than a single individual; the text does not specify further. The exact chronology implied by “sixth” and “seventh” thousand years is not defined and can be interpreted differently. The text calls the 144,000 “high priests” but does not clarify whether the number is strictly literal or representative. The two witnesses are identified as prophets to the Jewish nation, but no names are given.",
+  "createdAt": "2025-10-19T04:36:58.556Z",
+  "modelId": "gpt-5-2025-08-07"
+}

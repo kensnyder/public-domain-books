@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "D&C.102",
+  "briefOverview": "This chapter establishes the High Council, defines its leadership, and prescribes procedures for adjudicating difficult church matters. It emphasizes structured due process, rights of the accused, and recourse to revelation when doctrine is unclear.",
+  "summary": "A general council organizes a standing High Council of twelve high priests with one to three presidents presiding, and records the acceptance of specific individuals to these roles. It sets quorum requirements, procedures for filling vacancies, and clarifies the president’s right to preside with or without assistants. Detailed judicial procedures follow: councilors cast lots to determine speaking order; the number of speakers corresponds to the case’s difficulty; the accused is guaranteed half the council’s advocacy; both parties may speak; the president renders a decision subject to re-hearing if errors are shown, with majority rule if no new light emerges; revelation may be sought when written guidance is insufficient. High priests abroad may convene similar councils for only the most difficult cases, whose decisions can be appealed to the High Council at the seat of the First Presidency. The text distinguishes these bodies from the traveling High Council of the Twelve Apostles, whose decisions are not subject to appeal except in cases of transgression, and authorizes the First Presidency to determine whether appeals merit re-hearings. The initial results of casting lots for speaking order among the twelve councilors are recorded.",
+  "externalContext": "This directive reflects early institutional development during the Kirtland, Ohio period (mid-1830s), when the Latter-day Saint movement was formalizing leadership and judicial processes. Conflicts within the growing community and challenges in Missouri created a need for clearer procedures to resolve disputes. Formal councils and written minutes accorded with contemporary American religious and civic practices that valued orderly deliberation and recorded governance. The “seat of the First Presidency” during this period was at Kirtland, functioning as an administrative center.",
+  "externalReferences": "The tiered process for addressing offenses echoes Jesus’ instructions in Matthew 18:15–17 and parallels the procedural guidance in Doctrine and Covenants 42:88–93. The convening of leaders to resolve doctrinal and practical disputes recalls the Jerusalem council in Acts 15:1–29. Doctrine and Covenants 107 (especially 22–38; 78–84) further elaborates the respective roles and authority of the First Presidency, the Twelve Apostles, and high councils, complementing the structures outlined here.",
+  "seeAlso": [
+    "Matthew 18:15-17",
+    "Acts 15:1-29",
+    "Doctrine and Covenants 42:88-93",
+    "Doctrine and Covenants 107:22-38",
+    "Doctrine and Covenants 107:78-84",
+    "1 Corinthians 6:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Organization and Presidency"
+    },
+    {
+      "range": "12-23",
+      "title": "Judicial Procedures and Rights"
+    },
+    {
+      "range": "24-34",
+      "title": "Councils Abroad and Appeals"
+    }
+  ],
+  "themes": [
+    "Church governance",
+    "Due process",
+    "Revelation and authority",
+    "Discipline and appeals"
+  ],
+  "practicalQuestions": [
+    "How can leaders ensure the accused receives genuine advocacy and protection from injustice?",
+    "When should a local body escalate a dispute to a higher council or appeal a decision?",
+    "What practices help a council discern when written policy is insufficient and revelation should be sought?",
+    "How can procedures be designed so both fairness and decisiveness are maintained in difficult cases?",
+    "What criteria should determine whether a case is simple or sufficiently difficult to warrant expanded deliberation?"
+  ],
+  "uncertainAreas": "The historical layering between the 1834 organization of the Kirtland High Council and later clarifications about the Twelve Apostles may affect how verses 30–33 were originally understood. The exact contemporary meaning of terms like “traveling or located high priests abroad” and how consistently appeals functioned in practice across locations is not fully clear from the text alone.",
+  "createdAt": "2025-10-19T04:54:22.331Z",
+  "modelId": "gpt-5-2025-08-07"
+}

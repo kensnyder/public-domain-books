@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "D&C.94",
+  "briefOverview": "Instructions are given to lay out the Kirtland stake of Zion and designate specific lots for sacred buildings. The chapter details dimensions, purposes, dedication, purity requirements, and steward assignments, with emphasis on following a revealed pattern.",
+  "summary": "The Lord commands the Saints to begin laying out the Kirtland stake of Zion, starting at His house and following a revealed pattern. A first southern lot is consecrated for a house for the presidency to obtain revelations and conduct ministerial work, with specified dimensions, multiple courts, and a requirement that it be wholly dedicated to the Lord and kept free from uncleanness so His presence may be there. A second southern lot is designated for a printing house for the translation of scriptures and other commanded works, also with the same size and dedication requirements. A third lot is assigned as Hyrum Smith’s inheritance, and the first and second northern lots are assigned to Reynolds Cahoon and Jared Carter so they can fulfill their appointment as a committee to build the Lord’s houses. Despite the plans, the two houses are not to be built until a further command is given, and no additional directions are provided at this time.",
+  "externalContext": "Kirtland, Ohio, served as a major headquarters for early Latter-day Saints in the 1830s, during which time the Kirtland Temple and other church buildings were planned and constructed. The Kirtland Temple’s footprint was approximately 55 by 65 feet, dimensions echoed in this chapter’s specifications for additional structures. A formal building committee of Hyrum Smith, Reynolds Cahoon, and Jared Carter oversaw construction efforts in Kirtland. During this period, church publishing efforts expanded in Ohio, especially after violent disruptions in Missouri in 1833; Kirtland presses produced key texts such as the 1835 Doctrine and Covenants.",
+  "externalReferences": "The command to build “according to the pattern” resonates with the biblical instruction to construct sacred space after a revealed model (Exodus 25:9). The emphasis that no “unclean thing” should enter so the Lord’s glory may be present parallels later language about sanctified houses in Kirtland and Zion (Doctrine and Covenants 97:15–17). The appointment of Hyrum Smith, Reynolds Cahoon, and Jared Carter as a building committee accords with earlier direction to have them oversee the House of the Lord in Kirtland (Doctrine and Covenants 95:22). The idea of establishing a stake of Zion reflects the image of expanding and strengthening Zion’s tent, a phrase often linked to Isaiah’s metaphor (Isaiah 54:2).",
+  "seeAlso": [
+    "Exodus 25:9",
+    "Isaiah 54:2",
+    "Doctrine and Covenants 88:119-120",
+    "Doctrine and Covenants 95:8-9",
+    "Doctrine and Covenants 95:22",
+    "Doctrine and Covenants 97:15-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Lay out Kirtland stake"
+    },
+    {
+      "range": "3-9",
+      "title": "House for the Presidency"
+    },
+    {
+      "range": "10-16",
+      "title": "Printing house and inheritances"
+    }
+  ],
+  "themes": [
+    "Revealed pattern",
+    "Holiness and purity",
+    "Zion building",
+    "Stewardship"
+  ],
+  "practicalQuestions": [
+    "Where in my work and worship do I need clearer patterns and plans rather than improvisation?",
+    "What practices help keep sacred spaces and ministries spiritually clean so they can be places of God’s presence?",
+    "How can I support those assigned to steward communal projects, ensuring resources and accountability?",
+    "When is it wise to wait for further guidance before starting even worthy initiatives?",
+    "How can our community organize its physical spaces to better serve revelation, teaching, and publishing the word?"
+  ],
+  "uncertainAreas": "The precise meaning of “inner court,” and the functions of the “lower” and “higher” courts, are not fully specified; whether the planned buildings were intended to mirror the temple’s internal layout beyond footprint is unclear. The timing implied by verse 16 (“not to be built until I give…a commandment”) relative to other Kirtland construction phases is not explicit in this text.",
+  "createdAt": "2025-10-19T04:48:24.966Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "D&C.72",
+  "briefOverview": "Revelation appointing a bishop and detailing stewardship procedures, record‑keeping, and orderly migration to Zion.",
+  "summary": "The Lord addresses assembled high priests, affirming the need for a bishop in their area and emphasizing that every steward must render an account. Newel K. Whitney is appointed and ordained to this role. The bishop is to keep the Lord’s storehouse, receive church funds, record elders’ stewardships, and administer to needs; those with means pay, and those without may have accounts settled through the bishop in Zion, with spiritual labor reckoned toward debts. Elders must present certificates to the bishop in Zion to be accepted for inheritances, and recommendations from local churches should accompany their reports. Stewards over the church’s literary concerns may seek assistance from bishops so revelations can be published and the church benefited. Members traveling to Zion should carry certificates from three elders or from a bishop, providing an example for order across church branches.",
+  "externalContext": "In late 1831, the Church of Christ (Latter-day Saint) operated from two main centers: Kirtland, Ohio, and Jackson County, Missouri (designated “Zion”). Edward Partridge served as bishop in Missouri, overseeing consecrated properties and distribution to the poor, while this revelation called Newel K. Whitney to serve as bishop in Ohio. The “law” referenced relates to earlier instructions on consecration and stewardship, where members deeded property to the church and received stewardships to manage. Rapid growth and migration toward Zion created administrative needs for records and letters of recommendation to maintain order. Around this period, church leaders organized efforts to publish Joseph Smith’s revelations, necessitating financial support and clear lines of temporal stewardship.",
+  "externalReferences": "This revelation builds on earlier Latter-day Saint instructions about consecration and bishops, especially Doctrine and Covenants 42 and 51, which outline the law of consecration and a bishop’s roles in stewardships and storehouses. It presumes knowledge of Zion’s designation in Missouri (Doctrine and Covenants 57) and echoes provisions for publishing revelations and the “Literary Firm” (Doctrine and Covenants 70). The emphasis on giving an account of stewardship recalls scriptural themes such as Luke 12:42–44 and Romans 14:12. The mention of the storehouse resonates with Malachi 3:10 and the practice of using communal resources to aid the poor.",
+  "seeAlso": [
+    "Doctrine and Covenants 42",
+    "Doctrine and Covenants 51",
+    "Doctrine and Covenants 57",
+    "Doctrine and Covenants 58",
+    "Doctrine and Covenants 70",
+    "Luke 12:42-44",
+    "Romans 14:12",
+    "Malachi 3:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Appointment of Bishop"
+    },
+    {
+      "range": "9-23",
+      "title": "Duties and Stewardship"
+    },
+    {
+      "range": "24-26",
+      "title": "Certificates for Zion"
+    }
+  ],
+  "themes": [
+    "Stewardship",
+    "Accountability",
+    "Church order",
+    "Consecration",
+    "Care for poor"
+  ],
+  "practicalQuestions": [
+    "What records or reports should I keep to account faithfully for responsibilities I hold?",
+    "How can a local faith community ensure aid to the poor while maintaining fairness and transparency?",
+    "In what ways can spiritual labor appropriately offset temporal needs without fostering dependency or neglecting accountability?",
+    "How can I support the responsible publication and distribution of sacred teachings?",
+    "What orderly steps or recommendations should accompany major relocations or new assignments within a faith community?"
+  ],
+  "uncertainAreas": "The phrase “a certificate from the judge or bishop” is not fully defined here; whether “judge” refers to a specific church office distinct from bishop is unclear in this chapter. The mechanics of how spiritual labor “answers the debt” (v. 14) are not specified, leaving uncertainty about how such credit is calculated or recognized in practice. The exact scope of which branches are considered “extensive” and how universally these procedures apply outside the immediate historical setting is also not explicit.",
+  "createdAt": "2025-10-19T04:33:30.573Z",
+  "modelId": "gpt-5-2025-08-07"
+}

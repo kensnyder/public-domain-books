@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "D&C.26",
+  "briefOverview": "Brief directives on study, ministry, temporal labor, and church governance.",
+  "summary": "The recipients are instructed to devote their time to studying the scriptures, preaching, confirming the church in Colesville, and performing necessary work on the land until they travel west for the next conference, when further direction will be given. Church actions are to be carried out by common consent, accompanied by much prayer and faith, because blessings are received by faith.",
+  "externalContext": "Early Latter-day Saint organization in 1830 included small branches in upstate New York, one of which met in the Colesville area. Leaders typically supported themselves through manual labor while also preaching and organizing fledgling congregations. Regular conferences were convened to conduct church business, review callings, and seek direction, a pattern common among early American religious movements. The principle of common consent—church members sustaining decisions—became a hallmark of early Latter-day Saint governance.",
+  "externalReferences": "The instruction that church matters proceed by “common consent” closely parallels organizational directions in Doctrine and Covenants 20:65, which requires that ordinations occur by vote of the church. The charge to “confirm” the church resonates with New Testament language about strengthening congregations (Acts 14:22; 15:41) and with the practice of laying on of hands to confer the Holy Ghost (Acts 8:14–17). The emphasis on receiving “all things” by faith coheres with broader biblical teaching about faith’s centrality (Hebrews 11:6).",
+  "seeAlso": [
+    "Doctrine and Covenants 20:65",
+    "Acts 14:22",
+    "Acts 15:41",
+    "Acts 8:14-17",
+    "Hebrews 11:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Study, preach, labor until conference"
+    },
+    {
+      "range": "2",
+      "title": "Common consent, prayer, faith"
+    }
+  ],
+  "themes": [
+    "Scripture study",
+    "Church governance",
+    "Faith and prayer",
+    "Work and ministry"
+  ],
+  "practicalQuestions": [
+    "How can I balance spiritual study, ministry, and necessary temporal work in my current circumstances?",
+    "What does practicing common consent look like in my congregation or community, and how can I participate constructively?",
+    "In what specific ways can prayer and faith guide group decision-making where I serve?",
+    "Who around me needs strengthening or confirmation in their faith, and how can I help?",
+    "What rhythms or schedules would help me consistently devote time to scripture study and service?"
+  ],
+  "uncertainAreas": "The text does not identify the specific recipients beyond the second-person plural, the exact location meant by “west,” or the date and venue of the upcoming conference. The precise scope of “confirming the church at Colesville” (e.g., strengthening versus performing confirmations by laying on of hands) is not explicitly defined.",
+  "createdAt": "2025-10-19T04:03:40.978Z",
+  "modelId": "gpt-5-2025-08-07"
+}

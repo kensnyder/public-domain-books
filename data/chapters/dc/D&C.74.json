@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "D&C.74",
+  "briefOverview": "An interpretation of Paul’s counsel about mixed-faith marriages, situating it within early disputes over circumcision and affirming the holiness of little children through Christ.",
+  "summary": "The text explains that an unbelieving spouse is “sanctified” by the believing spouse and that their children are considered holy. It recalls that, in apostolic times, non-Christian Jews maintained the law of circumcision, creating contention when an unbelieving spouse wanted children circumcised into the law of Moses, which had been fulfilled. Such children, reared under those traditions, often rejected the gospel and became “unholy.” Therefore, the apostle wrote counsel—identified as his own judgment rather than a direct command of the Lord—that believers should avoid union with unbelievers, unless the law of Moses were already set aside among them, so that children would not be circumcised and the tradition that little children are unholy would cease. The revelation concludes that little children are holy, sanctified through the atonement of Jesus Christ, explaining what the scriptures intended.",
+  "externalContext": "In the first-century church, Jewish and Gentile believers debated whether Gentiles must keep the Mosaic law, especially circumcision, to belong fully to God’s people. The Jerusalem Council (Acts 15) decided circumcision was not required for Gentile converts, yet tensions persisted in many communities. Paul’s letters reflect ongoing pastoral challenges in mixed households and congregations, where questions of marriage, ritual identity, and community cohesion were acute. In early Latter-day Saint usage, revelations in the Doctrine and Covenants sometimes offer interpretive clarifications of New Testament passages rather than presenting new narrative events.",
+  "externalReferences": "This section directly interprets 1 Corinthians 7:12–14, where Paul says the unbelieving spouse is “sanctified” by the believer and the children “holy,” and where he distinguishes his counsel from a direct command of the Lord. The background dispute over circumcision corresponds to Acts 15:1–29 and Paul’s teaching that circumcision is not necessary for Christians (Galatians 5:2–6). The affirmation that little children are holy aligns with Moroni 8:8–12 in the Book of Mormon, which declares infants innocent before God. The statement that the law of Moses was fulfilled coheres with broader Christian claims about Christ’s fulfillment of the law (e.g., Romans 10:4).",
+  "seeAlso": [
+    "1 Corinthians 7:12-14",
+    "Acts 15:1-29",
+    "Galatians 5:2-6",
+    "Moroni 8:8-12",
+    "Romans 10:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Sanctified spouse; holy children"
+    },
+    {
+      "range": "2-4",
+      "title": "Circumcision dispute context"
+    },
+    {
+      "range": "5-7",
+      "title": "Paul’s counsel clarified"
+    }
+  ],
+  "themes": [
+    "Mixed-faith marriage",
+    "Circumcision and law",
+    "Children’s holiness",
+    "Tradition vs. gospel"
+  ],
+  "practicalQuestions": [
+    "How should a believer navigate a mixed-faith marriage while prioritizing their children’s spiritual formation?",
+    "What family or cultural traditions might unintentionally obscure core gospel commitments?",
+    "How does the claim that little children are holy shape views on initiation rites and religious expectations for minors?",
+    "When might it be wise to refrain from entering a union that could compromise discipleship or confuse family religious identity?",
+    "How can couples with differing beliefs make conscientious decisions about their children’s religious upbringing?"
+  ],
+  "uncertainAreas": "The precise scope of “sanctified” (ritual status, covenantal standing, or relational influence) is not fully defined. The historical reconstruction of mixed marriages leading children to reject the gospel goes beyond explicit New Testament narrative details, though it fits known disputes about circumcision. The phrase “a commandment, not of the Lord, but of himself” aligns with Paul’s wording, but how this counsel should be applied across contexts remains interpretively open.",
+  "createdAt": "2025-10-19T04:34:36.091Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "D&C.23",
+  "briefOverview": "Personal instructions to five early figures specify their spiritual duties, warn against pride, and emphasize exhortation, church strengthening, and public devotion.",
+  "summary": "The revelation gives brief counsels to Oliver Cowdery, Hyrum Smith, Samuel Smith, Joseph (likely Joseph Smith Sr.), and Joseph Knight. Oliver is blessed, warned against pride, and told to make his calling known and preach the truth. Hyrum is told his calling is to exhortation and to strengthen the church continually, with a duty tied to his family. Samuel is likewise called to exhort and strengthen the church but is not yet called to preach before the world. Joseph is called to exhortation and to strengthen the church as an ongoing duty. Joseph Knight is commanded to take up his cross by praying vocally in all settings, to unite with the true church, and to use his language in continual exhortation so as to receive a laborer’s reward.",
+  "externalContext": "This revelation dates to shortly after the organization of the Church of Christ (later The Church of Jesus Christ of Latter-day Saints) in April 1830 in upstate New York. Oliver Cowdery had served as principal scribe during the Book of Mormon translation and as a leading figure in early church organization. Hyrum and Samuel were brothers of Joseph Smith; Joseph Smith Sr. was his father, an early supporter who would later serve as the first Patriarch to the Church. Joseph Knight Sr., a benefactor from Colesville, New York, materially assisted the translation but was baptized later in 1830. Early revelations often assigned tailored roles—preaching, exhortation, and administrative support—as the fledgling community organized its ministries.",
+  "externalReferences": "The charge to \"take up your cross\" echoes Jesus’ call to discipleship (Luke 9:23). The emphasis on proclaiming truth to the world parallels the Great Commission (Mark 16:15), while the specific gift of exhortation aligns with Paul’s teaching about differing spiritual gifts (Romans 12:6–8; cf. 1 Timothy 4:13). The instruction to pray both privately and publicly resonates with Jesus’ teaching on secret prayer (Matthew 6:6) alongside early Christian examples of vocal, communal prayer (Acts 4:24). Within the Doctrine and Covenants, adjacent revelations outline early church organization and roles, providing context for these individualized charges (Doctrine and Covenants 20:38–59; 21:1–5; 18:14–16).",
+  "seeAlso": [
+    "Luke 9:23",
+    "Mark 16:15",
+    "Romans 12:6-8",
+    "1 Timothy 4:13",
+    "Matthew 6:6",
+    "Acts 4:24",
+    "Doctrine and Covenants 20:38-59",
+    "Doctrine and Covenants 21:1-5",
+    "Doctrine and Covenants 18:14-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Counsel to Oliver"
+    },
+    {
+      "range": "3-4",
+      "title": "Counsel to Hyrum and Samuel"
+    },
+    {
+      "range": "5-7",
+      "title": "Counsel to Joseph and Knight"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Exhortation",
+    "Strengthening the church",
+    "Public prayer",
+    "Duty and calling"
+  ],
+  "practicalQuestions": [
+    "Where might pride subtly influence my service, and how can I guard against it?",
+    "If I am not called to preach publicly, how can I still strengthen and exhort within my community?",
+    "In what appropriate ways can I make my calling known to build trust and unity rather than to seek recognition?",
+    "How can I practice praying vocally—in family, church, and public settings—while maintaining sincerity and reverence?",
+    "What responsibilities to church service arise from my family relationships and circumstances?"
+  ],
+  "uncertainAreas": "Verse 5 addresses “Joseph,” commonly understood as Joseph Smith Sr., but the text itself does not specify “Smith,” so identification relies on historical context. The phrase “this because of thy family” in verse 3 (to Hyrum) is not fully explained, leaving the precise nature of the family-related duty open to interpretation.",
+  "createdAt": "2025-10-19T04:01:45.407Z",
+  "modelId": "gpt-5-2025-08-07"
+}

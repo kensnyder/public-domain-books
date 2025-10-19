@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "D&C.129",
+  "briefOverview": "Defines two classes of heavenly beings and provides practical tests to discern true divine messengers from deceptive spirits.",
+  "summary": "The text distinguishes between angels—resurrected beings with bodies of flesh and bones—and the spirits of just people made perfect, who are not yet resurrected but share the same glory. It instructs that when a supposed messenger from God appears, one should offer a handshake. A true angel will shake hands and be felt; a spirit of a just person will appear in glory and not move to shake hands, yet still deliver the message; and a devil appearing as an angel will offer a hand but there will be no sensation. These protocols are presented as three keys for determining whether an administration is from God.",
+  "externalContext": "This instruction is attributed to Joseph Smith during the Nauvoo period (1843), a time when early Latter-day Saints reported visions and angelic visitations and also confronted concerns about deceptive spiritual manifestations. Earlier in church history (notably in Kirtland, 1831), leaders addressed confusion arising from spiritual excesses, prompting teachings on discerning spirits. The section reflects a practical, embodied approach to discernment that assumes a tangible, resurrected body for angels and a regulated order governing heavenly communications.",
+  "externalReferences": "The citation of Jesus’ post-resurrection words, “Handle me and see; for a spirit hath not flesh and bones” aligns with Luke 24:39. The phrase “spirits of just men made perfect” echoes Hebrews 12:23 and related Latter-day Saint teachings (e.g., Doctrine and Covenants 76:69). The warning about the devil appearing as “an angel of light” parallels 2 Corinthians 11:14, and the broader concern with discerning true from false spiritual manifestations aligns with Doctrine and Covenants 50:31–33.",
+  "seeAlso": [
+    "Luke 24:39",
+    "Hebrews 12:23",
+    "2 Corinthians 11:14",
+    "Doctrine and Covenants 50:31-33",
+    "Doctrine and Covenants 76:69"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Two kinds of heavenly beings"
+    },
+    {
+      "range": "4-7",
+      "title": "Testing visiting messengers"
+    },
+    {
+      "range": "8-9",
+      "title": "Detecting false angels; keys"
+    }
+  ],
+  "themes": [
+    "Discernment",
+    "Angels",
+    "Resurrection",
+    "Order of heaven"
+  ],
+  "practicalQuestions": [
+    "How should I balance openness to spiritual experiences with careful discernment to avoid deception?",
+    "In settings where physical contact is impossible or inappropriate, what principles from this passage still guide discernment?",
+    "How does the distinction between resurrected angels and spirits awaiting resurrection shape my expectations about heavenly communication?",
+    "What safeguards can a faith community establish to evaluate claimed revelations responsibly?",
+    "How might I respond charitably yet prudently when others report spiritual messages?"
+  ],
+  "uncertainAreas": "The phrase “inherit the same glory” for spirits of just people is not fully defined here—whether it means identical glory to resurrected angels or a similar class of glory is unclear. The instructions presume the feasibility of a physical handshake; applying this protocol in visions, dreams, or non-physical contexts is not explicitly addressed.",
+  "createdAt": "2025-10-19T05:11:41.318Z",
+  "modelId": "gpt-5-2025-08-07"
+}

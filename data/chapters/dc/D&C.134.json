@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "D&C.134",
+  "briefOverview": "A formal statement on government, law, and religious freedom, outlining civic duties and limits of church authority.",
+  "summary": "The chapter declares that governments are instituted of God for human benefit and that officials and citizens are accountable to God for their actions. Peaceful government requires laws protecting conscience, property, and life, enforced by equitable magistrates. Religion is of God and civil authorities should restrain crime but not control conscience or prescribe worship; citizens should uphold government while their rights are protected. Rulers must protect all citizens in the free exercise of religion, and no religious society should be favored or proscribed by the state. Churches may discipline members regarding fellowship but have no authority over property, life, or physical punishment. Grievances should be addressed through civil law, though self-defense in exigent circumstances is justified. The chapter concludes by endorsing preaching the gospel while prohibiting interference with bond-servants against their masters’ wishes, citing public peace and legality.",
+  "externalContext": "This declaration was adopted by a Church conference in 1835 as a statement of belief regarding governments and laws, and was not presented as a direct revelation. Early Latter-day Saints were navigating tensions in the United States, including conflicts in Missouri, questions of religious liberty, and the legal status of slavery. Many U.S. states had laws restricting preaching to enslaved people without the owners’ permission, amid fears of slave insurrections. The document reflects both an appeal for legal protection and a public posture of compliance with prevailing laws to avoid further conflict.",
+  "externalReferences": "The teaching to respect civil authority closely parallels Romans 13:1–7 and 1 Peter 2:13–17, which call believers to submit to governing powers for the sake of order. Jesus’ distinction between civic and divine claims echoes Matthew 22:21 (“Render therefore unto Caesar…”), and the chapter’s insistence on protecting conscience aligns with broader biblical ideals of moral accountability. Within the Doctrine and Covenants, related themes appear in Doctrine and Covenants 98:4–7 (on the law of the land and just law) and Doctrine and Covenants 101:77–80 (praising constitutional principles), creating an internal dialogue with 134:12’s stance on noninterference with slaves.",
+  "seeAlso": [
+    "Romans 13:1-7",
+    "1 Peter 2:13-17",
+    "Matthew 22:21",
+    "Doctrine and Covenants 98:4-7",
+    "Doctrine and Covenants 101:77-80"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Government and conscience"
+    },
+    {
+      "range": "5-9",
+      "title": "Civic duty and nonestablishment"
+    },
+    {
+      "range": "10-12",
+      "title": "Church discipline, law, and slavery"
+    }
+  ],
+  "themes": [
+    "Religious liberty",
+    "Rule of law",
+    "Church-state separation",
+    "Civic duty",
+    "Justice"
+  ],
+  "practicalQuestions": [
+    "How do I uphold the law while maintaining the primacy of conscience without infringing on others’ rights?",
+    "What steps can I take to support equitable law enforcement and just leadership in my community?",
+    "How should my religious commitments inform civic engagement without pressuring the state to privilege my faith?",
+    "When conflicts arise within a religious community, what belongs to church discipline and what belongs to civil courts?",
+    "In situations of immediate danger, how can self-defense be exercised responsibly and lawfully?"
+  ],
+  "uncertainAreas": "The scope of “instituted of God” for governments is not fully defined—whether it confers divine sanction on any existing regime or affirms the general principle of governance. The limit between protecting public peace and safeguarding dissenting conscience can be difficult to apply. The allowance for self-defense “in times of exigency” leaves interpretive space about what constitutes exigency. Verse 12’s noninterference with bond-servants, likely contextual to 1830s American slavery laws, stands in tension with broader scriptural ideals of liberty and requires historical framing to understand its intent and limitations.",
+  "createdAt": "2025-10-19T05:15:02.953Z",
+  "modelId": "gpt-5-2025-08-07"
+}

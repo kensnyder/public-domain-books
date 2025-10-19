@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "D&C.107",
+  "briefOverview": "Defines the two priesthoods and outlines church governance, quorums, and judicial procedures, grounding authority in both spiritual gifts and ancient lineage.",
+  "summary": "The revelation distinguishes two priesthoods—Melchizedek (higher) and Aaronic/Levitical (lesser)—and assigns them distinct spiritual and outward ordinances, respectively. It states that all other church offices append to the Melchizedek Priesthood, which holds the right of presidency and spiritual keys, while the bishopric presides over the Aaronic Priesthood. It organizes governing quorums: the First Presidency, Twelve Apostles, and Seventy, each holding significant and, in some cases, equal authority, with decisions to be made in righteousness and unanimity when possible. It provides the process for appeals and final judgments within the church, placing ultimate spiritual decisions before the Presidency of the High Priesthood and allowing for discipline even of the highest officers. A historical lineage from Adam through patriarchs like Seth, Enoch, and Noah is given to show priesthood transmission by ordination and blessing. The duties and presidencies over deacons, teachers, priests, elders, high priests, and Seventy are detailed, including patterns for multiple quorums of the Seventy and the missionary focus first to Gentiles, then to Jews. The chapter ends with an exhortation that every person learn and diligently fulfill his appointed duties.",
+  "externalContext": "This section was recorded in the early Latter-day Saint period (1830s) when the church was formalizing leadership structures; in 1835 the Quorum of the Twelve Apostles and the Seventy were organized in Kirtland, Ohio. The offices and titles draw on biblical categories (Melchizedek, Aaronic/Levitical) while adapting them to a modern, missionary-focused church. The concept of high councils and stakes reflects the church’s development of parallel local and traveling leadership bodies during expansion. The reference to Adam-ondi-Ahman later became associated by Latter-day Saints with a location in Missouri, though the chapter itself frames it as the site of an ancient gathering and blessing.",
+  "externalReferences": "The teaching on Melchizedek and a higher priesthood echoes Hebrews 7:1–3 and Psalm 110:4, as well as the Genesis account of Melchizedek (Genesis 14:18–20). The phrase “general assembly and church of the Firstborn” resonates with Hebrews 12:22–24, and the virtue list for righteous decision-making parallels 2 Peter 1:5–7. “Baptism of repentance for the remission of sins” recalls John’s ministry (Luke 3:3), and the missionary sequence “to the Gentiles, and then to the Jews” reflects the New Testament pattern (Romans 1:16; Acts 13:46).",
+  "seeAlso": [
+    "Hebrews 7:1-3",
+    "Psalm 110:4",
+    "Genesis 14:18-20",
+    "Hebrews 12:22-24",
+    "2 Peter 1:5-7",
+    "Luke 3:3",
+    "Romans 1:16",
+    "Acts 13:46",
+    "Doctrine and Covenants 84",
+    "Doctrine and Covenants 20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-39",
+      "title": "Priesthoods and governing quorums"
+    },
+    {
+      "range": "40-84",
+      "title": "Ancient lineage and judicial order"
+    },
+    {
+      "range": "85-100",
+      "title": "Office duties and Seventy organization"
+    }
+  ],
+  "themes": [
+    "Priesthood authority",
+    "Church governance",
+    "Revelation and keys",
+    "Lineage of ordination",
+    "Righteous judgment"
+  ],
+  "practicalQuestions": [
+    "How can I better understand and honor the boundaries and responsibilities of the office or calling I hold?",
+    "What safeguards help leaders ensure their decisions are made “in righteousness” and with the virtues listed here?",
+    "When decisions feel imperfect or unjust, how should members pursue appropriate appeals while maintaining unity?",
+    "In what ways can quorums and councils today exemplify unanimity without suppressing honest deliberation?",
+    "How do I actively “learn my duty” so I am not slothful or unprepared in service?"
+  ],
+  "uncertainAreas": "The practical meaning of “equal in authority” among quorums (vv. 24, 26, 36–37) and how it functions alongside stated lines of direction can be interpreted differently. The provisions about a “literal descendant of Aaron” (vv. 16, 69–76) versus a high priest serving as bishop under appointment raise questions about how literal descent is identified and applied. The detailed ages/ordinations and references to the “book of Enoch” (vv. 42–57) are unique and not fully corroborated in the biblical record, leaving historical specifics uncertain. The scope of “seven times seventy” Seventy (vv. 93–97) is elastic and may be programmatic rather than fixed.",
+  "createdAt": "2025-10-19T04:57:57.982Z",
+  "modelId": "gpt-5-2025-08-07"
+}

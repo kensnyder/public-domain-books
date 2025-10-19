@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "D&C.55",
+  "briefOverview": "A revelation calls William to baptism, ordination, and a combined ministry of preaching and educational printing, with instructions to travel to the promised “land of inheritance” alongside church leaders.",
+  "summary": "The Lord addresses “my servant William,” declaring him called and chosen, and promises remission of sins and reception of the Holy Spirit after baptism performed with an eye single to God’s glory. He is to be ordained an elder by Joseph Smith Jr. to preach repentance and baptism in Jesus Christ’s name. He is promised power to confer the Holy Spirit by the laying on of hands upon the contrite. He is also to be ordained to assist Oliver Cowdery in printing and in selecting and writing books for schools so that children may receive instruction pleasing to God. William is to journey with Joseph Smith Jr. and Sidney Rigdon to be planted in the land of his inheritance for this work. Joseph Coe is likewise appointed to travel with them, with further directions to be revealed later.",
+  "externalContext": "This section is historically associated with William W. Phelps, a prominent New York newspaper editor who had recently joined the early Latter-day Saint movement in 1831. Around this time, church leaders were preparing to establish a center in Missouri, identified as Zion, and to set up a printing operation there; Phelps’s professional skills made him a natural fit for that role. Oliver Cowdery, already an early leader and scribe, was instrumental in church publishing efforts, including the later periodical The Evening and the Morning Star in Independence, Missouri. The instruction to travel with Joseph Smith and Sidney Rigdon aligns with the broader 1831 movements of leaders and members from Ohio to Missouri.",
+  "externalReferences": "The conferral of the Holy Spirit by laying on of hands echoes New Testament practice (Acts 8:14–17) and early church instructions (Doctrine and Covenants 20:41). The command to travel to and be “planted in the land of your inheritance” aligns with earlier revelations anticipating a gathering and a designated land of Zion (Doctrine and Covenants 38:18–22) and is clarified shortly after as Jackson County, Missouri (Doctrine and Covenants 57:1–3). Calls for specific companions and travel assignments parallel the paired missions outlined around the same period (Doctrine and Covenants 52).",
+  "seeAlso": [
+    "Acts 8:14-17",
+    "Doctrine and Covenants 20:41",
+    "Doctrine and Covenants 38:18-22",
+    "Doctrine and Covenants 52",
+    "Doctrine and Covenants 57:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call, baptism, ordination"
+    },
+    {
+      "range": "4-5",
+      "title": "Printing and school materials"
+    },
+    {
+      "range": "6",
+      "title": "Travel companions designated"
+    }
+  ],
+  "themes": [
+    "Calling and ordination",
+    "Baptism and Spirit",
+    "Education and printing",
+    "Zion gathering",
+    "Obedience"
+  ],
+  "practicalQuestions": [
+    "What does it mean to approach baptism with an “eye single” to God’s glory in my current circumstances?",
+    "How can I responsibly exercise any spiritual authority or influence to bless the contrite and not myself?",
+    "In what ways can I contribute to the education of children and the dissemination of uplifting materials in my community?",
+    "How do I discern and respond when I feel called to relocate or make significant life changes for service?",
+    "Who are the companions and mentors I should travel with—literally or figuratively—to fulfill my calling well?"
+  ],
+  "uncertainAreas": "“William” is not named with a surname in the text; identifying him as William W. Phelps relies on historical context. The exact content and scope of the “books for schools” is unspecified. The phrase “land of your inheritance” is not named here; linking it to Missouri comes from nearby revelations. The promise to “give the Holy Spirit” could be read as conferring the gift of the Holy Ghost in formal ordinances or more broadly as ministering through authorized laying on of hands.",
+  "createdAt": "2025-10-19T04:21:32.641Z",
+  "modelId": "gpt-5-2025-08-07"
+}

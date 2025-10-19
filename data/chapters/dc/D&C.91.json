@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "D&C.91",
+  "briefOverview": "A revelation evaluates the Apocrypha and instructs how to approach it. Readers are told to rely on the Spirit for discernment rather than pursuing a new translation.",
+  "summary": "The Lord states that the Apocrypha contains many true things and is mostly translated correctly, yet also includes untrue material added by men. It is declared unnecessary to translate the Apocrypha. Readers are counseled to approach it with understanding, relying on the Spirit to manifest truth. Those enlightened by the Spirit can benefit from it, while those who do not receive by the Spirit will not be benefited. The revelation concludes by reaffirming there is no need for a translation.",
+  "externalContext": "This revelation dates to early 1833, when Joseph Smith was engaged in a revision of the Bible often called the Joseph Smith Translation. The 1611 King James Version included the Apocrypha as a separate section between the Old and New Testaments, though many Protestants questioned its authority. In that context, Joseph Smith sought guidance about whether to revise or translate the Apocrypha as he had been doing with other biblical books.",
+  "externalReferences": "The counsel to discern truth by the Spirit resonates with Moroni 10:4–5, which teaches that by the power of the Holy Ghost one may know the truth of all things. It parallels Doctrine and Covenants 50:17–23 on understanding and edification by the Spirit. It also coheres with New Testament teachings such as John 16:13 about the Spirit of truth guiding believers, and 1 Thessalonians 5:21 to test all things and hold fast to what is good.",
+  "seeAlso": [
+    "Moroni 10:4-5",
+    "Doctrine and Covenants 50:17-23",
+    "John 16:13",
+    "1 Thessalonians 5:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Mixed value of Apocrypha"
+    },
+    {
+      "range": "3",
+      "title": "No translation required"
+    },
+    {
+      "range": "4-6",
+      "title": "Read with the Spirit"
+    }
+  ],
+  "themes": [
+    "Spiritual discernment",
+    "Scripture use",
+    "Translation not required",
+    "Apocrypha’s value"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate reliance on the Spirit to discern truth when reading religious or historical texts?",
+    "What criteria, grounded in the Spirit and understanding, should I use to evaluate non-canonical writings?",
+    "If something contains both truth and error, how do I benefit from it without being misled?",
+    "In my study practices, when is additional translation or commentary helpful, and when is it unnecessary?",
+    "How can I recognize whether my study is bringing spiritual edification as this passage describes?"
+  ],
+  "uncertainAreas": "The scope of “not needful that the Apocrypha should be translated” could mean only in Joseph Smith’s project or as a general principle; the text does not explicitly specify. It is also unclear which specific apocryphal books are in view or which passages are considered interpolations. The statement that it is “mostly translated correctly” leaves ambiguity about the extent and nature of inaccuracies.",
+  "createdAt": "2025-10-19T04:46:37.713Z",
+  "modelId": "gpt-5-2025-08-07"
+}

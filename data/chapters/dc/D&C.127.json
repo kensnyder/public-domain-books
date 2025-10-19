@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "D&C.127",
+  "briefOverview": "Joseph Smith reports fleeing renewed persecution and exhorts the Saints to persevere, especially in temple work. He gives specific instructions to record baptisms for the dead with eyewitnesses so earthly records align with records in heaven.",
+  "summary": "Joseph Smith explains he has temporarily left to avoid unjust prosecutions and assures the Saints his affairs are in order. He reflects that tribulation has long been his lot but expresses confidence that God will deliver him and judge oppressors. The Lord urges the Saints to redouble diligence in temple work despite persecution, promising heavenly reward. Smith introduces a directive about baptism for the dead: appoint recorders who are eyewitnesses so the ordinances are validly attested and recorded in heaven, with all records kept in order in the temple archives. He promises to send further written instruction on the subject since he cannot address them in person and closes with prayer for their salvation and a reminder of the Savior’s saying about the “prince of this world.”",
+  "externalContext": "This letter is dated to September 1, 1842, during renewed attempts by Missouri officials to extradite Joseph Smith while he was in Nauvoo, Illinois. The Nauvoo Temple was under construction, and proxy baptisms for the dead had begun among Latter-day Saints in 1840, initially performed in local rivers before a temple font was completed. Legal and political pressures in Illinois and lingering hostilities from the 1838 Missouri conflict formed the backdrop for these instructions. Emphasis on record-keeping reflects both American legal culture and a developing Latter-day Saint temple administration.",
+  "externalReferences": "The instruction about binding and loosing echoes Jesus’ words to His disciples that what is bound on earth will be bound in heaven (Matthew 16:19; 18:18). The practice of baptism for the dead aligns with Paul’s mention in 1 Corinthians 15:29. References to rejoicing under persecution and the prophetic pattern of being opposed reflect Jesus’ teaching in the Beatitudes (Matthew 5:12), and Joseph’s statement about glorying in tribulation parallels Paul’s language (Romans 5:3). The phrase “the prince of this world cometh” echoes John 14:30, and the promise to “restore many things” resonates with the New Testament expectation of a future “restoration of all things” (Acts 3:21).",
+  "seeAlso": [
+    "1 Corinthians 15:29",
+    "Matthew 16:19",
+    "Matthew 18:18",
+    "Matthew 5:12",
+    "Romans 5:3",
+    "John 14:30",
+    "Acts 3:21",
+    "Doctrine and Covenants 128"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Persecution and perseverance"
+    },
+    {
+      "range": "5-9",
+      "title": "Recording baptisms for the dead"
+    },
+    {
+      "range": "10-12",
+      "title": "Closing and future guidance"
+    }
+  ],
+  "themes": [
+    "Persecution",
+    "Perseverance",
+    "Temple work",
+    "Baptism for the dead",
+    "Record keeping"
+  ],
+  "practicalQuestions": [
+    "How can I continue sacred responsibilities when external pressures make gathering or leadership difficult?",
+    "What processes can my community implement to ensure accurate, eyewitnessed records of sacred ordinances?",
+    "How does careful earthly record-keeping reflect my belief in heavenly order and accountability?",
+    "In seasons of unjust opposition, what practices help me rejoice and remain steadfast?",
+    "How can I support leaders and fellow believers who face legal or social hostility?"
+  ],
+  "uncertainAreas": "“This State” likely refers to Illinois, but the text does not name it. The scope of “restore many things pertaining to the priesthood” is not specified. The precise theological mechanics of how earthly records are mirrored in heaven are implied but not fully explained. The extent to which binding/loosing here is tied strictly to recorded ordinances versus broader priesthood authority is not spelled out in the chapter.",
+  "createdAt": "2025-10-19T05:10:15.990Z",
+  "modelId": "gpt-5-2025-08-07"
+}
