@@ -1,6 +1,6 @@
 import { aiAnalyzeChapter } from '~/lib/aiAnalyzeChapter.ts';
 import { updateTokenCounts } from '~/lib/updateTokenCounts.ts';
-import { metadata } from '../../data/_metadata.ts';
+import metadata from '../../data/books/books.json' with { type: 'json' };
 import data from '../../data/verses/deuter.json' with { type: 'json' };
 
 main().catch(console.error);

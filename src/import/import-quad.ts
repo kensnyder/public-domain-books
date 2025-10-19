@@ -1,4 +1,4 @@
-import { metadata } from '../../data/_metadata.ts';
+import metadata from '../../data/books/books.json' with { type: 'json' };
 
 main().catch(console.error);
 
@@ -51,7 +51,6 @@ async function main() {
   verses = verses.filter(
     (v) => v.volume_long_title === 'The Pearl of Great Price',
   );
-  verses.push({ volume_long_title: 'The Book of Mormon' });
 
   let verseSequence = -1;
   let lastWork = '';
@@ -66,13 +65,7 @@ async function main() {
       if (lastWork) {
         verseSequence = 1;
         // @ts-expect-error We know works[lastWork] will always be an object
-        const finishedWork = works[lastWork];
-        await Bun.file(finishedWork.file).write(
-          JSON.stringify(finishedWork.data, null, 2),
-        );
-        console.log(
-          `Wrote ${lastWork} to ${finishedWork.file.split('/').pop()}`,
-        );
+        await writeJson(lastWork, works[lastWork]);
       }
       console.log(`Starting ${workLongTitle}...`);
     }
@@ -103,6 +96,8 @@ async function main() {
 
     verseSequence++;
   }
+  // @ts-expect-error We know works[lastWork] will always be an object
+  await writeJson(lastWork, works[lastWork]);
   console.log('Done writing data to ../data/verses/*.json');
   console.log(`Took ${Date.now() - start}ms`);
 }
@@ -122,4 +117,14 @@ function lookupBook(bookTitle: string) {
     console.log(`Unknown book title: ${bookTitle}`);
     process.exit(1);
   }
+}
+
+async function writeJson(
+  name: string,
+  finishedWork: (typeof works)[keyof typeof works],
+) {
+  await Bun.file(finishedWork.file).write(
+    JSON.stringify(finishedWork.data, null, 2),
+  );
+  console.log(`Wrote ${name} to ${finishedWork.file.split('/').pop()}`);
 }

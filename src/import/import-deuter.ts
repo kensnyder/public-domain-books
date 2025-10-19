@@ -1,4 +1,4 @@
-import { metadata } from '../../data/_metadata.ts';
+import metadata from '../../data/books/books.json' with { type: 'json' };
 
 const baseUrl =
   'https://raw.githubusercontent.com/rodolfoapps/Deuter-Apocrypha/4e4ecb3da87fb736e2a18a10463664b487bcb5d9';
