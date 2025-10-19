@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Moro.8",
+  "briefOverview": "Mormon writes to his son Moroni to correct a doctrinal dispute about baptizing little children, arguing that children are innocent and do not need baptism. He affirms divine mercy for children, outlines the repentance–baptism–Holy Ghost sequence for the accountable, and warns against those who pervert the ways of the Lord.",
+  "summary": "Mormon opens by expressing joy at Moroni's calling and then addresses a grievous dispute among the people about baptizing little children. He reports receiving revelation that little children are \"whole\" because they are not capable of committing sin, that the curse of Adam has no power over them in Christ, and therefore it is a mockery to baptize them. Mormon teaches that repentance and baptism are required only for those who are accountable and capable of committing sin, and that parents should repent and be humble like their children. He insists that all little children are \"alive in Christ from the foundation of the world,\" and warns that claiming otherwise denies Christ's mercies and atonement. Mormon outlines a sequence: repentance leads to baptism, fulfilling commandments, remission of sins, meekness, visitation of the Holy Ghost, hope, and perfect love. He closes with a pastoral exhortation to pray for the people, a warning about pride and denial of the Holy Ghost among the Nephites, and a farewell.",
+  "externalContext": "Within Latter-day Saint tradition, Moroni 8 is placed near the end of the Book of Mormon narrative and is presented as a letter written by Mormon to his son Moroni shortly before the final destruction of the Nephite civilization. Debates about infant baptism and about the scope of original sin were also active in the early centuries of Christianity and in various later Christian traditions. The chapter's reference to circumcision being \"done away\" echoes New Testament controversies over covenant sign obligations and the early church's rulings (e.g., Acts 15).",
+  "externalReferences": "Jesus' welcoming of children appears similar in the Synoptic Gospels (e.g., Matthew 19:14; Mark 10:14), where children are presented as objects of Christ's blessing and as models of receptivity. The claim that circumcision is \"done away\" parallels the Jerusalem Council decisions and discussions in Acts 15 about whether Gentile converts must observe Jewish ceremonial requirements. Paul's reflection on Adam, law, and sin (Romans 5:12–14) is thematically parallel to the chapter's assertion that those \"without the law\" are not under the same condemnation and that Adam's curse does not hold sway over little children in Christ.",
+  "seeAlso": [
+    "Matthew 19:14",
+    "Mark 10:14",
+    "Acts 15:28-29",
+    "Romans 5:12-14",
+    "Alma 7:11-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Purpose and Concern"
+    },
+    {
+      "range": "7-16",
+      "title": "Revelation on Children"
+    },
+    {
+      "range": "17-26",
+      "title": "Salvation Process Explained"
+    },
+    {
+      "range": "27-30",
+      "title": "Warnings and Farewell"
+    }
+  ],
+  "themes": [
+    "Infant salvation",
+    "Baptism and repentance",
+    "Divine mercy",
+    "Charity"
+  ],
+  "practicalQuestions": [
+    "How should modern faith communities balance concern for doctrinal truth with compassion when members disagree over practices like infant baptism?",
+    "How can parents be taught to \"humble themselves as their little children\" in a way that supports spiritual formation without baptizing children prematurely?",
+    "In what pastoral ways should leaders explain and apply the concept of \"accountability\" or \"age of responsibility\" to families and youth?",
+    "How does the sequence from repentance to visitation of the Holy Ghost inform church practices for initiation, discipleship, and ongoing spiritual nurture?"
+  ],
+  "uncertainAreas": "The precise meaning of phrases like \"alive in Christ from the foundation of the world\" and who qualifies as \"without the law\" are open to interpretation (pre-existence, legal culpability, or theological categories). The intensity of the condemnation directed at those who baptize children may be rhetorical and aimed at a particular practice or group; without outside context it's unclear whether Mormon addresses a widespread institutional ritual or local disputes among his people.",
+  "createdAt": "2025-10-19T01:41:47.993Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

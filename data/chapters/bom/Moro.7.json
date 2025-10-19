@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Moro.7",
+  "briefOverview": "Mormon (through Moroni) instructs believers about how to discern good from evil and explains the interrelated virtues of faith, hope, and especially charity (the pure love of Christ).",
+  "summary": "Mormon opens by addressing peaceable followers of Christ and emphasizes that people are known by their works (vv. 1–11). He contrasts good, which comes from God, with evil, which comes from the devil, and gives guidance about judging by the \"light of Christ\" (vv. 12–20). Mormon then explains how faith is exercised—through prophetic witness, ministering angels, and words of God—and insists that miracles, angelic ministry, and the Holy Ghost continue as long as there is faith (vv. 21–38). He links faith to hope (grounded in Christ's atonement and resurrection) and insists that true faith and hope require meekness (vv. 39–44). Finally, he elevates charity as the greatest virtue: defining it as the pure love of Christ, describing its qualities (patience, kindness, humility, endurance), and exhorting believers to pray for this love so they may be like Christ (vv. 45–48).",
+  "externalContext": "Within Book of Mormon tradition, Mormon is the primary compiler and prophet-historian; Moroni, his son, finishes the record. The imagery of synagogues and the emphasis on prophetic witnesses and angelic ministry reflect a religious world that shares vocabulary with early Christian and Jewish texts as rendered in the Book of Mormon translation. The chapter's presentation of \"charity\" follows a Christian tradition that translates or parallels the Greek agape tradition (as in the New Testament) and reflects an ethic of love central to Christian moral teaching.",
+  "externalReferences": "The teaching that people are known by their fruits echoes Jesus' saying, \"by their fruits ye shall know them\" (compare Matthew 7:16). The long description of charity parallels Paul’s hymn to love in 1 Corinthians 13 (e.g., \"love suffereth long, is kind...\"). The promise about asking the Father in Christ's name resembles teachings in the Gospel of John on prayer in Jesus' name (see John 14:13–14 and John 16:23–24).",
+  "seeAlso": [
+    "Matthew 7:16",
+    "1 Corinthians 13:1-8",
+    "John 14:13-14",
+    "John 16:23-24",
+    "James 2:14-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "Discernment and Light"
+    },
+    {
+      "range": "20-38",
+      "title": "Faith, Miracles, Angels"
+    },
+    {
+      "range": "39-48",
+      "title": "Hope and Charity"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Hope",
+    "Charity",
+    "Discernment"
+  ],
+  "practicalQuestions": [
+    "How do I test whether an impression or prompting is from the \"light of Christ\" or from another influence?",
+    "What concrete habits cultivate the meekness and lowliness of heart that the text links to genuine faith and hope?",
+    "In what practical ways can I 'lay hold on every good thing' in my community—what does that look like today?",
+    "How should a community respond when someone’s words or gifts appear good but lack sincere intent?",
+    "How can I pray for and seek to develop the specific qualities of charity listed in this chapter?"
+  ],
+  "uncertainAreas": "Exact meanings of technical phrases—especially \"the light of Christ\" (universal conscience versus specific revelatory gift) and the practical scope of ongoing miracles and angelic ministry—are open to interpretation. The text assumes shared Book of Mormon context (Mormon/Moroni roles) whose historical claims lie outside the chapter itself.",
+  "createdAt": "2025-10-19T01:41:16.622Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

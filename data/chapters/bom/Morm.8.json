@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Morm.8",
+  "briefOverview": "Moroni, as the last surviving Nephite, records the final destruction of his people, preserves the sacred record, and issues prophetic warnings about judgment and corrupt religion in the last days.",
+  "summary": "Moroni opens by identifying himself as Mormon's son and the lone survivor after the great battle at Cumorah, describing how he hides the plates and finishes his father's record. He situates the events about four hundred years after Christ’s coming and attributes the Nephites' destruction to the hand of the Lord while reporting widespread warfare and lawlessness. Moroni affirms the worth of the record, warns against rash judgment of its imperfections, and insists that bringing the record to light must be God‑given. He exhorts readers to search Isaiah, recalls the miraculous faith and prayers of former saints, and prophesies signs of the last days: denial of miracles, church corruption for gain, secret combinations, natural disasters, and widespread moral decay. The chapter closes with strong denunciations of hypocritical, profit‑seeking religious leaders and a warning that vengeance for the saints will come.",
+  "externalContext": "Within Latter‑day Saint tradition, Moroni is the final compiler and guardian of the Book of Mormon plates; his account is presented as the transition between the ancient Nephite world and the text’s later translation and publication in the 19th century. The name Cumorah functions in that tradition as the site of the last great battles of the Nephites. The chapter reflects an apocalyptic worldview common in Second Temple Jewish and early Christian literature, where record preservation, prophetic citation, and expectations of divine vindication are central.",
+  "externalReferences": "The injunction to leave vengeance to the Lord and not to retaliate echoes biblical expressions such as Deuteronomy 32:35 (“Vengeance is mine”) and Romans 12:19 (“Vengeance is mine, I will repay, says the Lord”), which appear to be literary parallels rather than direct quotations. Moroni’s command to “search the prophecies of Isaiah” directly appeals to the Hebrew prophetic tradition (see, for example, Isaiah 52–53 for messianic themes) and situates his prophecies within that corpus.",
+  "seeAlso": [
+    "Isaiah 52:13-53:12",
+    "Deuteronomy 32:35",
+    "Romans 12:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Moroni's Situation"
+    },
+    {
+      "range": "7-16",
+      "title": "Record Hidden and Worth"
+    },
+    {
+      "range": "17-41",
+      "title": "Warnings and Last‑Day Signs"
+    }
+  ],
+  "themes": [
+    "Desolation",
+    "Record preservation",
+    "Divine judgment",
+    "Religious corruption"
+  ],
+  "practicalQuestions": [
+    "How should we treat religious texts or testimonies that contain apparent imperfections or human limitations?",
+    "In what concrete ways can contemporary faith communities resist the temptation to prioritize money, appearance, or institutional prestige over care for the poor and vulnerable?",
+    "What does it mean today to ‘leave judgment to the Lord’ in situations of injustice or harm?",
+    "How can religious leaders be held accountable so that teaching and ministry do not become avenues for personal gain?"
+  ],
+  "uncertainAreas": "Uncertainty surrounds which specific Isaiah passages Moroni intended readers to consult and how narrowly to date some prophetic references (e.g., whether certain signs are meant for his immediate post‑destruction context or primarily for a distant last day). The chapter also mixes reportage and prophecy in ways that leave some symbolic phrases (e.g., “come as if one should speak from the dead”) open to multiple interpretations.",
+  "createdAt": "2025-10-19T01:28:03.269Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "1Esd.1",
+  "briefOverview": "A portrayal of King Josiah's major Passover and reforms, his death in battle, and the rapid unraveling of Judah leading to Babylonian conquest and exile.",
+  "summary": "King Josiah organizes a large, ritually correct Passover in Jerusalem, restoring temple worship with priests, Levites, singers, and extensive offerings, an event praised as unmatched since Samuel. His reforms and piety are noted, but shortly afterward Pharaoh of Egypt (coming against the Euphrates) confronts him; Josiah ignores prophetic warning and is mortally wounded at the battle of Megiddo and is buried. The people mourn and establish lamentation for him, and his acts are said to be recorded in the book of the kings. Josiah's son Jehoahaz (Joachaz) briefly reigns and is deposed by the Egyptian king, who installs Jehoiakim (Joacim); Jehoiakim is judged for evil and is brought to Babylon. Zedekiah is later placed on the throne, rebels despite prophetic warnings, and the governors and priests defile the temple. God sends the Chaldeans who destroy Jerusalem, carry off the temple vessels and the people into Babylon, burn the house of the Lord, and leave the land desolate until the fulfillment of the seventy years.",
+  "externalContext": "Josiah's reforms and the Passover are placed in the late 7th century BCE, traditionally associated with the historical king Josiah (reigned ca. 640–609 BCE). The Egyptian pharaoh who confronts Josiah is usually identified with Pharaoh Necho II, and the battle at Megiddo (Magiddo) is dated to 609 BCE in many historical reconstructions. The Babylonian destruction of Jerusalem and the deportations are part of the larger Neo-Babylonian expansion that culminated in the destruction of the temple (traditionally 586 BCE). The motif of 'seventy years' appears elsewhere in prophetic literature as a symbolic period of exile (e.g., Jeremiah).",
+  "externalReferences": "This chapter largely parallels accounts in the historical books: see 2 Kings 22–25 and 2 Chronicles 35–36, which narrate Josiah's reforms, the Passover, his death at Megiddo, and the fall of Jerusalem. The reference to the land’s desolation for seventy years echoes Jeremiah's prophecies about exile (for example, Jeremiah 25:11–12 and Jeremiah 29:10). The chapter’s citation of a 'book of the kings' corresponds to the chronicler’s and Deuteronomistic historiography that are also visible in 2 Kings and 2 Chronicles.",
+  "seeAlso": [
+    "2 Kings 23:21-30",
+    "2 Kings 24:1-25:21",
+    "2 Chronicles 35:1-27",
+    "2 Chronicles 36:15-23",
+    "Jeremiah 25:11-12",
+    "Jeremiah 52:12-27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-22",
+      "title": "Josiah's Great Passover"
+    },
+    {
+      "range": "23-33",
+      "title": "Death and Lamentation"
+    },
+    {
+      "range": "34-58",
+      "title": "Succession and Exile"
+    }
+  ],
+  "themes": [
+    "Religious reform",
+    "Temple worship",
+    "Divine judgment",
+    "Political succession"
+  ],
+  "practicalQuestions": [
+    "How should a faith community balance ritual restoration with ongoing ethical reform?",
+    "What can leaders learn from Josiah about listening to prophetic or critical voices before acting?",
+    "How does communal responsibility for institutions (like the temple) shape contemporary stewardship of shared religious resources?",
+    "In what ways should modern communities remember and commemorate faithful leaders while also reckoning with subsequent failures?"
+  ],
+  "uncertainAreas": "Variant names and spellings (e.g., Joachaz/Jehoahaz; Joacim/Jehoiakim; 'Nabuchodonosor' vs Nebuchadnezzar) and some personal names (Zaraces) are unclear. The narrative compresses events spanning decades, so precise chronology and the chapter’s use of later royal names may reflect editorial shaping; the literal vs. symbolic meaning of the 'seventy years' is also open to interpretation.",
+  "createdAt": "2025-10-19T01:50:31.378Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

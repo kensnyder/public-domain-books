@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Eth.3",
+  "briefOverview": "A prophetic theophany: the brother of Jared prays for light, sees the Lord, and is commanded to seal records and stones for a future time.",
+  "summary": "The brother of Jared fashions sixteen clear stones to provide light for the Jaredite barges and implores the Lord to touch them so they will shine. The Lord touches the stones, removes the veil from the brother of Jared's eyes, and initially permits him to see the Lord's finger; because of his extraordinary faith the brother of Jared is then shown the Lord fully. The Lord identifies himself as Jesus Christ—“the Father and the Son”—declaring his role as Redeemer and teaching that humans are created after his image. Moroni (the narrator) notes he cannot recount all details, clarifying that the appearance was in the spirit. Finally, the Lord commands the brother of Jared to write, seal, and hide what he has seen and gives him two stones to be sealed with the record, promising that the language and events will be revealed in God’s due time.",
+  "externalContext": "Within Book of Mormon tradition, Ether records the Jaredite civilization, an earlier people said to have inhabited the Americas before the Nephites. The episode is presented as a pre-mortal or pre-Christian theophany in which Christ appears to a faithful prophet—an unusual claim from the perspective of the Bible because it locates an explicit christophany before the New Testament. The motifs of sealing records and confounding language recur elsewhere in the Book of Mormon and reflect ancient claims about divine preservation and later revelation.",
+  "externalReferences": "The claim that humans are created in God's image echoes Genesis 1:27. The statement that Christ was “prepared from the foundation of the world” parallels New Testament language about Christ’s foreordination (e.g., Ephesians 1:4; 1 Peter 1:20) and the motif of the Lamb “slain from the foundation of the world” (Revelation 13:8). The Lord’s later appearance to the Nephites after the resurrection (see 3 Nephi 11:10–17) is the Book of Mormon episode most directly comparable to this theophany.",
+  "seeAlso": [
+    "Genesis 1:27",
+    "Ephesians 1:4",
+    "1 Peter 1:20",
+    "Revelation 13:8",
+    "3 Nephi 11:10-17",
+    "Ether 4:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Petition and Stones"
+    },
+    {
+      "range": "6-13",
+      "title": "Vision of the Lord"
+    },
+    {
+      "range": "14-28",
+      "title": "Christ's Identity and Sealing"
+    }
+  ],
+  "themes": [
+    "Revelation",
+    "Faith",
+    "Christology",
+    "Secrecy"
+  ],
+  "practicalQuestions": [
+    "What does the brother of Jared’s example teach about the relationship between faith and receiving revelation in my life?",
+    "How should communities balance protecting sacred or personal spiritual experiences with the impulse to share them?",
+    "In what ways can the image of being created ‘after my own image’ shape ethical treatment of others today?",
+    "How do I discern when to preserve a memory or insight for a later time versus when to communicate it immediately?"
+  ],
+  "uncertainAreas": "Ambiguity surrounds the precise ontology of the theophany (verse 17’s note that Jesus showed himself “in the spirit” vs. earlier language that he had flesh and blood). The theological formulation “I am the Father and the Son” raises interpretive questions about how terms are being used here. The mechanisms and later fate of the sealed stones and the ‘confounded’ language are narrated without technical detail, leaving their exact nature uncertain.",
+  "createdAt": "2025-10-19T01:30:37.591Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

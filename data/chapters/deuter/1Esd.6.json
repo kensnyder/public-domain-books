@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1Esd.6",
+  "briefOverview": "Under Darius, prophets prompt the Jews to resume rebuilding the temple, officials investigate, and a search confirms Cyrus’s earlier decree, leading Darius to order protection and material support for the project.",
+  "summary": "Haggai and Zechariah exhort the Jews to rebuild, and Zerubbabel with Jeshua leads the work while governors from Syria and Phoenicia question their authorization. The elders explain that they serve the Lord who made heaven and earth, recount the temple’s destruction by Nebuchadnezzar, and cite Cyrus’s decree to rebuild and to restore the temple vessels. The officials write to Darius requesting a records search. A scroll found at Ecbatana confirms Cyrus’s command, including dimensions, funding, and return of sacred vessels. Darius orders the regional authorities not only to refrain from interference but to fund sacrifices and supplies from local tribute, so that prayers may be offered for the king and his children. He threatens severe penalties for any who impede the work and invokes divine protection over the temple.",
+  "externalContext": "This chapter reflects the early Persian period, specifically the reign of Darius I (522–486 BCE), when the Achaemenid Empire administered provinces through satraps and local governors and often supported local cults as a means of stabilizing regions. Haggai and Zechariah’s dated oracles begin in 520 BCE, aligning with the “second year of Darius” noted here. Ecbatana (in Media) served as a royal archive and seasonal residence for Persian kings, explaining why the decree was found there. 1 Esdras is a Greek retelling of material parallel to Ezra–Nehemiah; names sometimes appear in Hellenized forms (e.g., Jeshua for Joshua/Jeshua, Sanabassarus for Sheshbazzar). Coele-Syria and Phoenicia were administrative regions whose tribute could be redirected by royal order to fund the Jerusalem cult.",
+  "externalReferences": "The narrative closely parallels Ezra 5:1–17 and 6:1–12, including the prophets’ role, the officials’ inquiry, the archival search at Ecbatana, and Darius’s reinforcing decree. The destruction of the first temple and exile recall 2 Kings 25:8–12 and 2 Chronicles 36:18–20. Cyrus’s initial authorization and the return of temple vessels echo Ezra 1:1–11. The mention of offering prayers for the king accords with Ezra 6:10 and reflects a broader biblical theme of seeking the welfare of the ruling power (compare Jeremiah 29:7).",
+  "seeAlso": [
+    "Ezra 5:1-17",
+    "Ezra 6:1-12",
+    "Ezra 1:7-11",
+    "2 Kings 25:8-12",
+    "2 Chronicles 36:18-23",
+    "Haggai 1:1-15",
+    "Zechariah 1:1",
+    "Jeremiah 29:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Prophets Spur Rebuilding"
+    },
+    {
+      "range": "7-22",
+      "title": "Officials Report to Darius"
+    },
+    {
+      "range": "23-34",
+      "title": "Decree Found and Reinforced"
+    }
+  ],
+  "themes": [
+    "Temple restoration",
+    "Divine providence",
+    "Imperial support",
+    "Prayer for rulers"
+  ],
+  "practicalQuestions": [
+    "When good work meets bureaucratic scrutiny, how can truthfulness and documentation help the project continue?",
+    "What role can prophetic or moral exhortation play in restarting stalled communal initiatives?",
+    "How might communities pray for civic leaders while maintaining distinct religious commitments?",
+    "In what ways can external authority and policy serve as instruments of God’s provision without compromising integrity?",
+    "What practices ensure that resources designated for worship and service are used diligently and transparently?"
+  ],
+  "uncertainAreas": "The identification of Sisinnes with figures known from Ezra (such as Tattenai) and of Sanabassarus with Sheshbazzar involves textual harmonization across versions; the exact historical equivalences are debated. The timeline remark that the temple was still not finished (v. 20) before Darius’s decree, and the precise architectural details (e.g., “one row of new wood”), may reflect source traditions that are difficult to reconcile in detail with other accounts.",
+  "createdAt": "2025-10-19T01:54:30.892Z",
+  "modelId": "gpt-5-2025-08-07"
+}

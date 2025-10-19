@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Hel.4",
+  "briefOverview": "Helaman 4 recounts how internal dissent and moral decline lead to military disaster, followed by partial recovery after repentance but continued vulnerability due to lost spiritual protection.",
+  "summary": "A group of Nephite dissenters ally with the Lamanites, provoking wars that result in the loss of most Nephite lands and many casualties. Moronihah and Nephite leaders fight back and, after preaching and a period of repentance, recover about half their territory. The chapter explicitly links the defeats to widespread wickedness among the Nephites—including pride, oppression of the poor, and rejection of prophecy—and to the corruption of the laws given through Mosiah. Because the people had become like the Lamanites and the Spirit had withdrawn, the Lord no longer miraculously preserved them, leaving them numerically and militarily vulnerable.",
+  "externalContext": "This chapter is part of the Book of Mormon narrative during the period of the 'judges' (instituted earlier in the book of Mosiah), when Nephite political life had shifted away from kingship. Conflicts between Nephites and Lamanites are a recurring framework for moral and religious instruction in the book: military fortunes are often presented as correlated with communal righteousness. The idea that divine protection is conditional on corporate holiness reflects broader ancient Near Eastern and Second Temple-era theological patterns in which covenantal fidelity affects a nation's fortunes.",
+  "externalReferences": "The text explicitly invokes the prophecies of Alma and the words and laws of Mosiah as standards the people had ignored; Mosiah 29 is the canonical Book of Mormon passage describing the establishment of the system of judges referenced here. The chapter's themes—loss of protection when 'the Spirit... doth not dwell' in a people and recovery through repentance—resonate with other Book of Mormon passages that connect righteousness, prophetic warning, and national fortunes (e.g., many sermons of Alma and earlier historical summaries in Mosiah).",
+  "seeAlso": [],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Dissent and Defeat"
+    },
+    {
+      "range": "9-17",
+      "title": "Counterattack and Repentance"
+    },
+    {
+      "range": "18-26",
+      "title": "Limits of Recovery"
+    }
+  ],
+  "themes": [
+    "Dissent and War",
+    "Wickedness and Pride",
+    "Repentance and Recovery",
+    "Divine Withdrawal"
+  ],
+  "practicalQuestions": [
+    "How should religious communities respond to internal dissent so that disagreement does not lead to communal harm?",
+    "In what ways can wealth and social inequality undermine the moral health of a community today?",
+    "What practical steps encourage genuine repentance and communal restoration after moral failure?",
+    "How do we discern whether institutional decline is due to structural failures, moral failure, or both?"
+  ],
+  "uncertainAreas": "The text names 'the prophecies of Alma' and 'the words of Mosiah' but does not specify which sermons or passages are meant; the precise identity and motives of the dissenters are not detailed; the chapter's dating system ('fifty and fourth year,' etc.) is internal to the Book of Mormon chronology and cannot be independently correlated to external history.",
+  "createdAt": "2025-10-19T00:54:19.205Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

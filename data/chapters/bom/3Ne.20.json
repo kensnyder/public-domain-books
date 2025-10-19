@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "3Ne.20",
+  "briefOverview": "Jesus administers a sacramental meal and teaches that Isaiah's prophecies are being fulfilled, focusing on the covenant promises to Israel, the gathering of the remnant, and warnings to the Gentiles.",
+  "summary": "Jesus instructs the people to cease audible prayer but to pray in their hearts, then breaks bread and gives wine to the disciples and the multitude, promising spiritual nourishment (vv. 1–9). After the sacrament he declares the fulfillment of Isaiah's words and explains that the Father’s covenant with the house of Israel will be fulfilled when scattered remnants are gathered and brought to the knowledge of God (vv. 10–19). He warns that if Gentiles do not repent after receiving blessings they will be punished, but promises the eventual establishment of God’s people and a New Jerusalem (vv. 20–29). The chapter closes with extended citation and application of Isaiah’s prophetic imagery about Zion’s restoration, the suffering servant, and the proclamation of good tidings (vv. 30–46).",
+  "externalContext": "This chapter appears in the Book of Mormon narrative of Jesus’ post-resurrection visit to the people in the Americas (Third Nephi). It reflects a strong reliance on the Hebrew prophetic tradition—especially Isaiah—which was widely read and authoritative in Second Temple Judaism and later Jewish and Christian interpretation. Themes of scattering and gathering, land promises, and a suffering servant draw on longstanding Israelite covenantal language.",
+  "externalReferences": "The chapter explicitly cites or alludes to several passages in Isaiah, including language parallel to Isaiah 52:1–2 (awake, put on strength) and Isaiah 52:7 (beautiful feet bringing good tidings), as well as the suffering-servant wording found in Isaiah 52:14 and Isaiah 53:3–5 (his visage marred). Jesus’ statement that God will raise up 'a prophet... like unto me' echoes Deuteronomy 18:15–18 (the promise of a prophet like Moses). The promise that 'in thy seed shall all the kindreds of the earth be blessed' echoes the Abrahamic blessing language of Genesis 12:3 and related covenant texts.",
+  "seeAlso": [
+    "Isaiah 52:1-2",
+    "Isaiah 52:7",
+    "Isaiah 52:14-53:5",
+    "Deuteronomy 18:15",
+    "Genesis 12:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Supper and Blessing"
+    },
+    {
+      "range": "10-29",
+      "title": "Covenant and Gathering"
+    },
+    {
+      "range": "30-46",
+      "title": "Isaiah Fulfillment"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Gathering of Israel",
+    "Fulfillment of Prophecy",
+    "Sacramental Nourishment"
+  ],
+  "practicalQuestions": [
+    "How does the depiction of spiritual nourishment through bread and wine shape personal practices of communion or remembrance today?",
+    "In what ways should communities today understand and respond to promises of gathering and restoration directed at 'the house of Israel'?",
+    "How can the warning to Gentiles about responsibility after receiving blessings inform contemporary conversations about privilege and accountability?",
+    "What does the use of Isaiah here suggest about reading older scriptures as fulfilment texts, and how should modern readers approach such intertextual claims?"
+  ],
+  "uncertainAreas": "Exact boundaries of the Isaiah quotations are not spelled out in the chapter (the text weaves Isaiah material into its address), so pinning each verse to a precise Isaiah citation requires some inference. Terms like 'this land' and the precise geographic or eschatological scope of the 'New Jerusalem' are presented as covenant promises but are open to varying interpretations.",
+  "createdAt": "2025-10-19T01:09:16.391Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

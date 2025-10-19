@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Eth.11",
+  "briefOverview": "A cycle of prophetic warnings, rejection, and social decline among the Jaredites culminating in wars, secret combinations, and the genealogy that leads to the prophet Ether.",
+  "summary": "Prophets arise in the days of Com and repeatedly warn the people that a unique and terrible destruction will come unless they repent; the populace rejects and persecutes these prophets, who find refuge with Com. Leadership passes through a series of kings—Shiblom, his son Shiblom’s brother (who slays prophets), Ahah, Ethem, Moron, and others—during which secret combinations, civil war, famines, pestilences, and great destruction afflict the land. Periods of repentance bring temporary mercy, but wicked rulers reintroduce violence and bloodshed. Rival claimants divide the kingdom, capture and hold leaders in captivity, and establish long-standing conflicts. In Coriantor's days more prophets warn that the Lord will utterly destroy them unless they repent and that another people will be brought to possess the land; the people reject these warnings because of secret societies. The chapter closes with the genealogical note that Coriantor begat Ether, who was born into captivity and later becomes the named prophet of the book that follows.",
+  "externalContext": "The prophetic pattern—warning of curse for unrepentance and promise of mercy after repentance—mirrors a common Ancient Near Eastern covenantal framework found in Hebrew prophecy, where national disaster is framed as divine judgment for social and religious failings. Secret political cabals or conspiracies as a cause of social breakdown are attested in many ancient and later traditions, and the Book of Mormon repeatedly uses the phrase \"secret combinations\" to describe such groups. The Jaredite narrative is presented as a long, pre-Columbian civilizational history within the Book of Mormon tradition.",
+  "externalReferences": "The theme of prophetic calls to repentance followed by national judgment is comparable to Old Testament prophetic literature (see Isaiah 1 and Jeremiah 7 for similar calls to amend ways or face destruction). The warning about secret, power-seeking combinations echoes later Book of Mormon passages that condemn such groups (for example, the Gadianton secret combinations described in Helaman 6). The chapter’s prophecy that another people will possess the land anticipates the Jaredite destruction narrated later in Ether (see Ether 15 for the final catastrophe).",
+  "seeAlso": [
+    "Isaiah 1",
+    "Jeremiah 7",
+    "Helaman 6",
+    "Ether 15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Prophetic Warnings Rejected"
+    },
+    {
+      "range": "8-13",
+      "title": "Repentance and Kings' Decline"
+    },
+    {
+      "range": "14-23",
+      "title": "Wars, Secret Combinations, Genealogy"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Judgment",
+    "Secret combinations",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "When voices warn a community about injustice or corruption, how should individuals and institutions evaluate and respond to avoid communal harm?",
+    "What safeguards can modern societies use to prevent small, secretive groups from gaining power and causing widespread violence?",
+    "How do we balance mercy and accountability when leaders perpetuate injustice—what does genuine repentance look like at a civic level?",
+    "In what ways can remembering past communal failures help shape ethical leadership and public policy today?"
+  ],
+  "uncertainAreas": "The text does not specify the exact identity or origin of the \"another people\" who will possess the land, nor does it give precise chronological markers for many events; the scale and literalness of the described \"destruction such as never had been\" are presented in broad, prophetic language that leaves room for literary or hyperbolic interpretation.",
+  "createdAt": "2025-10-19T01:35:07.239Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

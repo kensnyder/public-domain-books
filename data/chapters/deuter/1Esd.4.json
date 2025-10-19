@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "1Esd.4",
+  "briefOverview": "Zerubbabel argues that truth surpasses wine, the king, and women, and is recognized as wisest. As his reward, he secures Darius’s full support for rebuilding Jerusalem and the temple, with protections and funding for the returning Jews.",
+  "summary": "The second speaker extols the king’s unmatched power because all obey his commands, from soldiers to farmers. Zerubbabel then contends that women wield greater power than kings or riches, illustrating how a concubine can sway a king’s heart and actions. He ultimately declares truth to be strongest—enduring, impartial, and victorious—blessing the God of truth; the assembly affirms his verdict. Darius, impressed, invites Zerubbabel to request a reward; Zerubbabel asks him to fulfill his vow to restore Jerusalem, return the temple vessels, and rebuild the temple that the text says the Edomites burned when the Chaldeans desolated Judah. Darius issues letters granting safe conduct, timber from Lebanon, tax exemptions, financial support for the temple and its offerings, provisions for priests and Levites, and the return of the vessels set apart by Cyrus. Zerubbabel praises God, informs the Jews in Babylon, and they rejoice with music for seven days as they prepare to go up and rebuild.",
+  "externalContext": "1 Esdras is a Greek work closely related to canonical Ezra–Nehemiah, preserving a narrative of the return from Babylonian exile under Persian rule. Darius I (ruled ca. 522–486 BCE) is historically known for consolidating the empire and issuing administrative decrees; Persian policy often allowed subject peoples to restore local cults and temples as a means of stabilizing provinces. The procurement of cedar from Lebanon recalls long-standing Phoenician trade networks and earlier Israelite temple-building traditions. Prophetic literature accuses Edom of aiding or rejoicing in Jerusalem’s fall (e.g., Psalm 137:7; Obadiah 1:10–14), which may underlie the claim about Edomite involvement in the temple’s destruction. The debate of the three bodyguards is a distinct literary feature of 1 Esdras, framing Zerubbabel’s rise and favor with Darius.",
+  "externalReferences": "The royal authorization to rebuild and return the temple vessels parallels Ezra 1:1–11 (Cyrus’s decree) and Ezra 5:1–6:12 (Darius’s confirmation and further support). The prophetic encouragement to rebuild under Zerubbabel appears in Haggai 1–2 and Zechariah 4:6–10. The charge against Edom resonates with Psalm 137:7 and Obadiah 1:10–14, which denounce Edom’s role during Jerusalem’s downfall. The title “God of truth” echoes Isaiah 65:16.",
+  "seeAlso": [
+    "Ezra 1:1-11",
+    "Ezra 5:1-6:12",
+    "Haggai 1:1-2:9",
+    "Zechariah 4:6-10",
+    "Psalm 137:7",
+    "Obadiah 1:10-14",
+    "Isaiah 65:16",
+    "2 Chronicles 36:18-23",
+    "1 Esdras 3:1-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Argument: The King’s Might"
+    },
+    {
+      "range": "13-41",
+      "title": "Zerubbabel on Women and Truth"
+    },
+    {
+      "range": "42-63",
+      "title": "Decrees to Restore Jerusalem"
+    }
+  ],
+  "themes": [
+    "Truth’s supremacy",
+    "Royal authority",
+    "Women’s influence",
+    "Divine favor",
+    "Temple restoration"
+  ],
+  "practicalQuestions": [
+    "Where do I see the pull of power, desire, or social influence competing with my commitment to truth?",
+    "What practices help me pursue impartial justice, without favoritism or bribes?",
+    "How can I advocate wisely and respectfully for promises and obligations to be honored?",
+    "What does it look like to use political authority and resources for the common good and worship?",
+    "In what ways might affection or admiration distort my judgment, and how can I guard against it?"
+  ],
+  "uncertainAreas": "The identification of Apame and Bartacus is not clear historically. The statement that the Edomites burned the temple differs from other accounts that attribute the destruction directly to the Babylonians; the text may reflect a broader blame of Edom’s participation. The extent and exact terms of Darius’s vow and decrees, as narrated here, vary in details from canonical Ezra and may contain idealized or condensed administrative actions.",
+  "createdAt": "2025-10-19T01:52:58.229Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Moro.6",
+  "briefOverview": "Instructions about baptismal eligibility, church membership, discipline, and communal worship under guidance of the Holy Ghost.",
+  "summary": "Moroni sets requirements for baptism and for those serving as elders, priests, and teachers: candidates must produce worthy fruit, come with a broken heart and contrite spirit, truly repent, take upon themselves the name of Christ, and determine to serve him to the end. After baptism and cleansing by the Holy Ghost they are numbered among the church and recorded so they may be nourished by the word and kept watchful in prayer, relying on Christ's merits. The church met frequently to fast, pray, and partake of bread and wine in remembrance of Jesus. The community maintained strict discipline: those proven guilty by three witnesses could be blotted out unless they repented, and genuine repentance led to forgiveness. Finally, meetings and ministries were to be conducted according to the workings of the Spirit and the guidance of the Holy Ghost.",
+  "externalContext": "This chapter is part of the Book of Mormon’s closing material attributed to Moroni, written in the tradition of a post–Christ-visit Nephite Christian community. Its practices and language reflect adaptation of early Christian ordinances (baptism, sacrament, communal oversight) within a small, record-keeping religious community. The emphasis on recorded names and formal witnesses fits administrative needs of close-knit religious groups in antiquity and parallels administrative practices found elsewhere in scriptural records.",
+  "externalReferences": "The requirement that believers rely on Christ as \"the author and the finisher of their faith\" closely echoes Hebrews 12:2. The call to repentance prior to baptism parallels passages such as Acts 2:38. The remembrance meal of bread and wine recalls the Last Supper language in Luke 22:19–20 (cf. 1 Corinthians 11). The instructions about witnesses and church discipline resemble Matthew 18:15–17 and Paul's handling of sin and discipline in 1 Corinthians 5.",
+  "seeAlso": [
+    "Hebrews 12:2",
+    "Acts 2:38",
+    "Luke 22:19-20",
+    "Matthew 18:15-17",
+    "1 Corinthians 5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Baptismal Requirements"
+    },
+    {
+      "range": "5-6",
+      "title": "Worship and Sacrament"
+    },
+    {
+      "range": "7-9",
+      "title": "Discipline and Spirit-led Meetings"
+    }
+  ],
+  "themes": [
+    "Baptismal worthiness",
+    "Repentance",
+    "Church discipline",
+    "Spirit-led worship"
+  ],
+  "practicalQuestions": [
+    "How does my faith community assess and prepare candidates for baptism in ways that reflect repentance and a commitment to follow Christ?",
+    "In what ways can we balance accountability and compassion when confronting wrongdoing among members?",
+    "How do we cultivate meetings and ministries that are genuinely led by the Spirit rather than merely by habit or human preference?",
+    "What systems do we have for remembering and caring for new members so they are 'nourished by the good word'?"
+  ],
+  "uncertainAreas": "The text does not specify procedural details: what precisely qualifies as 'fruit meet,' how the three-witness process was conducted, the administrative meaning of 'names were taken' and later 'blotted out,' or whether the Holy Ghost's cleansing is described as an instantaneous event or an ongoing process.",
+  "createdAt": "2025-10-19T01:40:51.142Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

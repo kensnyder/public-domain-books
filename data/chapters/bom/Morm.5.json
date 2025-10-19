@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Morm.5",
+  "briefOverview": "Mormon recounts renewed military leadership amid Nephite defeats and explains why he abridges the record, then issues prophetic warning about scattering, gathering, and the need for repentance.",
+  "summary": "Mormon resumes command of Nephite forces after repenting his earlier oath, but despite some temporary successes the Nephites are overwhelmed by Lamanite attacks and many are destroyed over successive years. Mormon explains his reluctance to record graphic details of the bloodshed, saying he will instead provide a shortened account so as not to overly distress readers, while ensuring these events will be revealed in God’s time. He frames his writing as addressed to the remnant of Israel and to the Gentiles, urging them to recognize the source of their blessings and to sorrow for the people’s calamity. The chapter asserts that the Nephites have become wicked, lost the Spirit, and will be scattered and driven from the land, with their blessings reserved for the Gentiles until the Lord remembers his covenant with Abraham and restores Israel. The chapter closes with a direct exhortation to the Gentiles to repent, warning of divine justice and violent consequences if they do not humbly return to God.",
+  "externalContext": "Within the Book of Mormon narrative, Mormon is presented as a late-ancient Nephite military leader and editor/abridger who lived near the end of the Nephite civilization; the work he produces is explicitly framed as an abridgment of earlier records. The terms 'Lamanites,' 'Nephites,' 'Gentiles,' and 'house of Israel' reflect the Book of Mormon’s internal ethnic and covenantal categories, and its theology draws on Jewish and early Christian concepts of scattering and gathering that were widespread in the ancient Near East.",
+  "externalReferences": "The chapter’s themes of scattering and later gathering of Israel echo prophetic traditions such as Ezekiel 36–37 (promise of restoration) and other prophetic texts about Israel’s exile and return. The apocalyptic image of the earth being 'rolled together as a scroll' resembles language found in Isaiah 34:4 and is similar to imagery used in Revelation 6:14. The pastoral and shepherd imagery (they 'had Christ for their shepherd') resonates with biblical depictions of God as shepherd (e.g., Psalm 23; John 10:11) and the covenantal promise to Abraham is a recurring scriptural motif (see Genesis 12:1–3).",
+  "seeAlso": [
+    "Ezekiel 36:24-28",
+    "Isaiah 34:4",
+    "Revelation 6:14",
+    "John 10:11",
+    "Genesis 12:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Battles and Flight"
+    },
+    {
+      "range": "8-13",
+      "title": "Abridger's Purpose"
+    },
+    {
+      "range": "14-24",
+      "title": "Prophecy and Warning"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Repentance",
+    "Scattering and Gathering",
+    "Abridgment"
+  ],
+  "practicalQuestions": [
+    "How should leaders balance honest reporting of trauma with pastoral sensitivity for their communities?",
+    "In what ways can communal repentance be encouraged when people persist in iniquity despite clear warnings?",
+    "How do modern readers understand the idea that blessings can be 'reserved' for others—what responsibilities accompany covenantal blessings?",
+    "What concrete steps can communities take to avoid becoming 'driven about as chaff'—i.e., spiritually rootless?"
+  ],
+  "uncertainAreas": "Uncertainties include the historicity and precise dating of the narrative events, the exact identity and contemporary referent of 'Gentiles' in Mormon’s address, and whether certain images (e.g., being 'clasped in the arms of Jesus') are intended as literal future realities or metaphorical consolations.",
+  "createdAt": "2025-10-19T01:26:37.933Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

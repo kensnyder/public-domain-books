@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "3Ne.11",
+  "briefOverview": "An appearance of the resurrected Jesus Christ to a gathered Nephite multitude, who are taught core doctrines and given authority to baptize.",
+  "summary": "A great multitude gathers near the temple and hears a heavenly voice announcing \"my Beloved Son.\" Jesus descends, identifies himself, invites the people to feel his wounds, and they worship him. He authorizes Nephi and others to baptize, prescribes the baptismal wording and method, and emphasizes unity in doctrine to prevent disputation. Jesus defines his doctrine: the Father, Son, and Holy Ghost are one; all must repent, believe in him, be baptized, and become as little children to inherit the kingdom. He warns that adding to or subtracting from this doctrine is built on a weak foundation and commissions the people to proclaim these words to the world.",
+  "externalContext": "Within the Book of Mormon narrative this episode is placed immediately after Christ's resurrection and is presented as a theophany to people in the Americas. The chapter echoes and reworks motifs familiar from Gospel accounts (e.g., a heavenly declaration, post-resurrection physical contact with Jesus, and a missionary/baptismal commissioning). The explicit baptismal formula and strong teaching on unity respond to earlier intra-community disputes indicated elsewhere in the narrative.",
+  "externalReferences": "The invitation to touch Jesus' wounds closely parallels John 20:27, where Jesus invites Thomas to put his finger into the nail-prints. The baptismal command and Trinitarian formula resemble Matthew 28:19, while the Father's voice declaring the Son recalls Matthew 3:17 (and the Transfiguration account, Matthew 17:5). The call to \"become as a little child\" echoes Matthew 18:3, and the claim \"I and the Father are one\" has parallels with John 10:30 and other Johannine themes (see also Luke 24:39 for physical post-resurrection appearance).",
+  "seeAlso": [
+    "John 20:27",
+    "Matthew 28:19",
+    "Matthew 3:17",
+    "Matthew 18:3",
+    "John 10:30",
+    "Luke 24:39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Voice and Descent"
+    },
+    {
+      "range": "9-21",
+      "title": "Recognition and Witness"
+    },
+    {
+      "range": "22-41",
+      "title": "Doctrine and Commission"
+    }
+  ],
+  "themes": [
+    "Christ's appearance",
+    "Atonement",
+    "Baptismal authority",
+    "Doctrinal unity"
+  ],
+  "practicalQuestions": [
+    "How should communities handle disagreements about ritual practice so that \"contention\" does not become dominant?",
+    "What does it mean today to accept teachings 'as a little child,' and how can that shape spiritual formation?",
+    "How do we discern authoritative doctrine and avoid additions or subtractions that undermine the core message?",
+    "In what ways can physical or emotional experiences of the divine (as in touching wounds) be integrated with communal belief and testimony?"
+  ],
+  "uncertainAreas": "The narrative's claim that Father, Son, and Holy Ghost are \"one\" leaves room for differing theological interpretations (literal ontological oneness vs. unity of purpose). The text's strong requirement that belief plus baptism is necessary for salvation is presented without discussion of edge cases, which has been debated in interpretive traditions. Historical questions about the event's occurrence in the ancient Americas lie outside the text and require external historical evaluation.",
+  "createdAt": "2025-10-19T01:04:59.414Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

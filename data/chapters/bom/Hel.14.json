@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Hel.14",
+  "briefOverview": "Samuel the Lamanite proclaims signs of the coming and the death of the Son of God and summons the people to repent, explaining how Christ's death and resurrection redeem mankind.",
+  "summary": "Samuel announces specific miraculous signs that will accompany the Messiah's birth (a prolonged light, a new star, and other heavenly wonders) and promises everlasting life to those who believe. He calls the people to repentance and warns that his Lamanite status has made him an outcast for delivering God's message. Samuel then gives signs that will accompany the Messiah's death: three days of darkness, thunder, lightning, earthquakes, broken rocks, changed topography, desolated cities, opened graves, and the appearance of many saints. He explains theological implications: Christ's death and resurrection overcome the first, spiritual death caused by Adam's Fall and enable repentance and remission of sins. He warns of a second spiritual death for those who do not repent and emphasizes human agency in choosing life or death.",
+  "externalContext": "This chapter appears in the Book of Mormon narrative, where Samuel the Lamanite is a prophetic figure who preaches from a city wall (earlier chapters recount his initial ministry and rejection). The motifs of cosmic signs at a savior's birth and death echo wider ancient Near Eastern and Second Temple Jewish expectation that extraordinary celestial and terrestrial phenomena accompany divine acts. Within the Book of Mormon, these signs function as public, dramatic confirmations intended to remove excuses for unbelief and to call a divided society to repentance.",
+  "externalReferences": "The description of darkness, earthquakes, and opened tombs at the time of the Messiah's death parallels Gospel accounts of Jesus' crucifixion (see Matthew 27:45–53; Mark 15:33; Luke 23:44–45), which also report darkness and an earthquake and, in Matthew, tombs opened and resurrection of saints. The chapter's explanation that Christ's death and resurrection redeem mankind from spiritual death echoes New Testament theological language about Christ bringing life through his resurrection (e.g., Romans 5:18–19; 1 Corinthians 15:21–22).",
+  "seeAlso": [
+    "Helaman 13:1-30",
+    "Matthew 27:45-53",
+    "Mark 15:33",
+    "Luke 23:44-45",
+    "Romans 5:18-19",
+    "1 Corinthians 15:21-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Signs of the Birth"
+    },
+    {
+      "range": "7-19",
+      "title": "Call to Repentance"
+    },
+    {
+      "range": "20-31",
+      "title": "Signs of Death and Resurrection"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Signs",
+    "Atonement",
+    "Agency"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when prophetic warnings come with dramatic signs—do they strengthen faith or provoke disbelief?",
+    "In what practical ways can the claim that Christ's resurrection redeems from 'spiritual death' shape personal moral choices today?",
+    "What responsibilities accompany the text's insistence that people are free and permitted to act for themselves?",
+    "How might one pastorally interpret and teach the vivid descriptions of cosmic and geological upheaval for contemporary believers?"
+  ],
+  "uncertainAreas": "Ambiguities include whether the cosmic and geological signs are intended as literal, global physical events or as miraculous manifestations with symbolic elements; the precise chronology implied by 'five years' (relative to historical dating) is not established within the chapter; and the description that 'many saints shall appear' is open to interpretation as either physical resurrection, angelic appearances, or visionary phenomena.",
+  "createdAt": "2025-10-19T00:59:00.358Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

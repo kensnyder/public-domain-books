@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "3Ne.6",
+  "briefOverview": "A period of post-war recovery gives way to social inequality, renewed wickedness, and a conspiracy among legal and religious elites to subvert justice and establish a king.",
+  "summary": "After years of peace and rebuilding, the Nephites return to their lands, prosper, and establish laws and infrastructure. Over a few years wealth and social distinctions grow, producing pride, persecution, and breakdowns in the church. Prophets arise to rebuke the people and testify of Christ's redemptive work, provoking anger among judges, lawyers, and priests. Some of those authorities secretly execute prophetic witnesses in violation of the law, prompting legal proceedings. Those allied with the condemned judges band together in a devilish covenant to protect the guilty, overthrow the governor, and seek to replace the judgeship with a monarchy.",
+  "externalContext": "The narrative is part of the Book of Mormon, which portrays a Nephite society with written law, elected judges, governors, and religious institutions. 'Secret combinations' and the danger of concentrated power are recurring moral and political themes throughout that work. The text presumes a close connection between religious fidelity and social order, so spiritual decline is described as causally linked to political and moral collapse.",
+  "externalReferences": "The conspiracy called a covenant 'administered by the devil' echoes other Book of Mormon warnings about secret combinations (see Ether 8:18–25). The political conflict over judges versus kings is related to earlier constitutional shifts in the narrative where the people replace kings with a system of judges (compare Mosiah 29:26–29). The arrival of prophets testifying of Christ anticipates the fuller accounts of the Messiah's ministry and resurrection later in 3 Nephi (see 3 Nephi 11:1–17).",
+  "seeAlso": [
+    "3 Nephi 11:1-17",
+    "Ether 8:18-25",
+    "Mosiah 29:26-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Return and Prosperity"
+    },
+    {
+      "range": "10-18",
+      "title": "Pride and Division"
+    },
+    {
+      "range": "19-30",
+      "title": "Persecution and Conspiracy"
+    }
+  ],
+  "themes": [
+    "Peace and Prosperity",
+    "Pride and Inequality",
+    "Persecution and Injustice",
+    "Secret Combinations"
+  ],
+  "practicalQuestions": [
+    "How should a community structure its legal and political institutions to prevent elites from subverting justice?",
+    "What practical steps can religious communities take to resist pride and economic inequality that threaten communal unity?",
+    "How ought citizens respond when leaders misuse legal power to silence prophetic or dissenting voices?",
+    "What measures can contemporary societies take to detect and disrupt covert alliances that aim to concentrate power?"
+  ],
+  "uncertainAreas": "Exact historical dating and the relationship of these events to other dated events in the Book of Mormon timeline are not explicit here; also the precise social role of 'lawyers' and how closely the political offices correspond to modern institutions are open to interpretation.",
+  "createdAt": "2025-10-19T01:02:37.145Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

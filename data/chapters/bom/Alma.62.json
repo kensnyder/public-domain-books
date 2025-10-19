@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Alma.62",
+  "briefOverview": "A military and civic recovery: Moroni defeats a rebel faction, restores the chief judge, secures cities, and ushers in a period of religious and civil reorganization.",
+  "summary": "Moroni rejoices at Pahoran’s faithfulness, then raises the standard of liberty, gathers forces, and defeats Pachus and the king-men who had driven out the freemen, restoring Pahoran to the judgment-seat. He reinforces frontier armies, takes the city of Nephihah by a nighttime assault, captures many Lamanites, and secures numerous prisoners who willingly join the people of Ammon and are settled as laborers and converts. The Nephite armies pursue the fleeing Lamanites; Teancum secretly murders the Lamanite king Ammoron but is killed in the act, and the Nephites subsequently rout the Lamanites in a large battle. After fortifying exposed regions and reestablishing order, Moroni hands command to his son Moronihah and retires; Helaman and his brethren revive the church, restore ecclesiastical and legal regulations, and Helaman dies in the thirty-fifth year of the judges. The chapter closes by noting a return to prosperity tempered by humility and continual prayer among the people.",
+  "externalContext": "This narrative is part of the Book of Mormon’s account of the Nephite–Lamanite wars during the ‘reign of the judges’ (internal chronology). The people of Ammon (also called Anti-Nephi-Lehies earlier in the record) are Lamanite converts who have previously made covenants of nonviolence and who here receive former Lamanite prisoners as fellow citizens. The political setting features combined military and civic authority—military commanders like Moroni operate alongside a chief judge (Pahoran)—and the legal code allows capital punishment for treason and open rebellion, reflecting the community’s prioritization of national survival.",
+  "externalReferences": "The correspondence and political crisis between Moroni and Pahoran are developed in Alma 60–61, which include Moroni’s frustrated letters and Pahoran’s explanation and appeal for support. The presence and role of Helaman and his youthful warriors are connected to Alma 56, which recounts the two thousand stripling warriors and their faithfulness in earlier conflicts. The people of Ammon and their earlier conversion and covenant of nonviolence are narrated in Alma 23–24, providing background for why Nephites resettle converted Lamanite prisoners among them.",
+  "seeAlso": [
+    "Alma 23:1-17",
+    "Alma 24:1-30",
+    "Alma 56:1-50",
+    "Alma 60:1-24",
+    "Alma 61:1-38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Restoring the Judge"
+    },
+    {
+      "range": "12-30",
+      "title": "Capture of Nephihah"
+    },
+    {
+      "range": "31-52",
+      "title": "Pursuit, Loss, and Revival"
+    }
+  ],
+  "themes": [
+    "Liberty",
+    "Leadership",
+    "Repentance",
+    "Warfare"
+  ],
+  "practicalQuestions": [
+    "How should civic leaders balance strict justice (including capital penalties) with mercy when restoring social order?",
+    "What responsibilities do citizens have in defending communal freedoms, and how should dissent be addressed in a plural society?",
+    "How can religious communities contribute to societal healing after prolonged conflict, as Helaman and his brethren did here?",
+    "What processes help former enemies become trusted members of society, and what safeguards are prudent during reconciliation?"
+  ],
+  "uncertainAreas": "Precise motivations of all groups (e.g., sincerity of many Lamanite converts), the detailed legal procedures behind executions, and exact geographic distances and chronology as they relate to other narrative episodes.",
+  "createdAt": "2025-10-19T00:51:20.808Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

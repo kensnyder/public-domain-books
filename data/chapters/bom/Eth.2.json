@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Eth.2",
+  "briefOverview": "Jared and his group are guided by the Lord toward a promised land; they prepare seaworthy barges but face a problem of providing light and breath during the voyage.",
+  "summary": "A large family group led by Jared and his brother moves into the valley of Nimrod and gathers animals, seeds, and bees for the journey. The Lord appears to the brother of Jared, directs them to cross a wilderness to a promised land, and warns that possession of that land requires serving God or else the people will be swept off when ripe in iniquity. They travel to the sea, camp at Moriancumer for four years, and are again instructed by the Lord. Following divine instruction they build many tight, lightweight sealed barges for crossing the oceans. The brother of Jared raises practical concerns about air and light inside the vessels; the Lord gives technical advice about ventilation and asks what the people want for light, since fire and windows are not suitable for the voyage.",
+  "externalContext": "The Jaredite account in Ether is presented in Book of Mormon tradition as an early post–Tower of Babel migration; references like Nimrod and the tower episode connect to Genesis narratives. The term deseret is explained in the text as 'honey bee' and was later adopted in 19th-century Latter-day Saint usage (e.g., the proposed State of Deseret). The motif of a divinely promised land and conditional blessings or curses echoes ancient covenantal language familiar in Israelite scripture.",
+  "externalReferences": "The name Nimrod recalls Genesis 10:8–12, where Nimrod is introduced as a mighty hunter and eponym for regions; the Tower of Babel dispersal (Genesis 11:1–9) provides wider background for early post‑Babel migrations like the Jaredite tradition. The book’s warning that those who possess the promised land must 'serve God or be swept off' corresponds to covenantal blessings and curses found in Deuteronomy (e.g., Deuteronomy 28), and the description of a specially cared‑for land resonates with Deuteronomy 11:12.",
+  "seeAlso": [
+    "Genesis 10:8-12",
+    "Genesis 11:1-9",
+    "Deuteronomy 28:15-68",
+    "Deuteronomy 11:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Gathering and Guidance"
+    },
+    {
+      "range": "7-13",
+      "title": "Promise of the Land"
+    },
+    {
+      "range": "14-25",
+      "title": "Barges: Breath and Light"
+    }
+  ],
+  "themes": [
+    "Promised land",
+    "Divine guidance",
+    "Covenant warning",
+    "Preparation"
+  ],
+  "practicalQuestions": [
+    "When facing long uncertain journeys, how should a community balance practical preparation with reliance on divine guidance?",
+    "What does the requirement to 'serve God' for possession of a land mean for how faith should shape public and communal life today?",
+    "How can we guard against becoming 'ripe in iniquity' in ways that lead to collective harm or loss?",
+    "How do we respond when God’s instructions raise practical anxieties (like lack of light or air) — do we ask for specifics, trust, or both?"
+  ],
+  "uncertainAreas": "Uncertainties include the historicity and precise dating of the Jaredite migration, the exact meaning and original source of the place-name 'deseret,' and whether theophanies described (God 'standing in a cloud') are meant as physical appearances or visionary experiences. The chapter ends with the Lord asking what should be prepared for light, leaving the solution to the next section.",
+  "createdAt": "2025-10-19T01:29:59.444Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

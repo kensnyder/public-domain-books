@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Morm.3",
+  "briefOverview": "Mormon records a decade of uneasy peace followed by renewed warfare, the Nephites' military successes and ensuing pride, and his moral refusal to lead them because of their wickedness while warning all peoples to repent.",
+  "summary": "After ten years of no Lamanite attacks, Mormon and the Nephites prepare their lands and arms but are commanded by the Lord to call the people to repentance, baptism, and rebuilding the church. Mormon cries repentance to them but they harden their hearts. The Lamanites attack in the 361st and 362nd years; the Nephites fortify at Desolation and win two battles, which leads the people to boast and swear vengeance. Appalled by their oaths to avenge blood and their disregard for God's commands, Mormon refuses further military command and obeys the Lord’s instruction to stand as an idle witness. He writes to all peoples—Gentiles and Israel—warning that all must stand before the judgment-seat of Christ and calling them to believe the gospel and repent.",
+  "externalContext": "The Book of Mormon portrays Nephite and Lamanite societies in a post-Christ visitation period in the ancient Americas; Mormon is presented as a military leader and compiler of records in the later stages of Nephite history. The repeated calls to repent, be baptized, and \"build up my church\" reflect Christian language and concerns characteristic of the book’s theological horizon. Military defense, oaths, and notions of corporate vengeance were culturally charged issues in ancient and premodern societies, where honor and retributive justice frequently shaped communal responses to conflict.",
+  "externalReferences": "The Lord’s declaration “Vengeance is mine, and I will repay” echoes the New Testament citation of that divine claim (Romans 12:19). The teaching that “every soul... must stand before the judgment-seat of Christ” parallels New Testament language about appearing before Christ’s judgment (2 Corinthians 5:10). The reference to the twelve whom Jesus chose as judges recalls the choosing of the twelve apostles in the Gospels (see Matthew 10:1–8). The writer’s appeal to Gentiles and the house of Israel and his emphasis on Christ’s ministry among the Nephites connects this chapter to the Book of Mormon account of Christ’s visit to the Americas (3 Nephi 11).",
+  "seeAlso": [
+    "Romans 12:19",
+    "2 Corinthians 5:10",
+    "Matthew 10:1-8",
+    "Mark 1:4",
+    "Acts 2:38",
+    "3 Nephi 11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Preparation and Warning"
+    },
+    {
+      "range": "7-11",
+      "title": "Battles and Boasting"
+    },
+    {
+      "range": "12-22",
+      "title": "Refusal and Universal Exhortation"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Divine judgment",
+    "Pride and vengeance",
+    "Conscience in leadership"
+  ],
+  "practicalQuestions": [
+    "When a community wins a conflict, how can leaders prevent victory from turning into pride or calls for revenge?",
+    "Under what circumstances should a leader refuse to carry out orders because of conscience or perceived wickedness?",
+    "How does belief in a divine judgment-seat shape personal and communal ethics today?",
+    "What concrete steps can a religious community take to \"build up the church\" and create space for genuine repentance after moral failure?"
+  ],
+  "uncertainAreas": "The chronology (“three hundred and sixty years from the coming of Christ”) raises questions about precise dating and how it maps to secular calendars. The identity and role of the two groups of ‘‘twelve’’ mentioned are not fully explained here and could be read in different ways. Phrases like Mormon’s prayers being “without faith” and his status as an “idle witness” invite interpretive uncertainty about his interior state and the exact nature of his withdrawal from leadership.",
+  "createdAt": "2025-10-19T01:25:44.322Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

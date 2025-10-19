@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "D&C.1",
+  "briefOverview": "A prophetic proclamation announcing divine authority, warning of coming judgment, and declaring the restoration through Joseph Smith and the Book of Mormon.",
+  "summary": "The Lord speaks to all people, declaring that His voice and warnings will reach every ear and heart and that hidden sins will be revealed. He commissions chosen disciples in the last days to proclaim these commandments with authority to 'seal' people until the day of final recompense, when each will be judged according to their works. The text warns that those who reject prophets and stray from God's ordinances will be cut off and that Babylon (symbolic of corrupt worldly systems) will fall. God explains that he called Joseph Smith, Jr., and others to bring forth the record of the Nephites (the Book of Mormon) and to lay the foundation of the restored church. The Lord emphasizes that he speaks plainly to instruct, correct, and chasten his servants so they may repent, gain knowledge, and be strengthened, and he affirms that his word will be fulfilled and endure forever.",
+  "externalContext": "This introduction functions as the opening revelation of the Latter‑day Saint collection known as the Doctrine and Covenants and reflects the early 19th‑century American context of religious revival and restorationism. Joseph Smith claimed a prophetic calling during the period of the Second Great Awakening, and this text frames his mission to translate the Book of Mormon and organize a restored church. Concepts like prophetic authority, sealing, and universal proclamation reflect broader Christian concerns about judgment and the end times filtered through a restorationist lens.",
+  "externalReferences": "Several New Testament passages echo themes here: Matthew 10:26–27 and Luke 12:2 speak of nothing hidden that will not be revealed, paralleling verse 3's disclosure of secret acts. The idea that God uses 'weak things' to confound the strong resembles 1 Corinthians 1:27, and the language about binding/sealing authority on earth and in heaven recalls Matthew 16:19 and 18:18. The principle of God recompensing each according to works is consistent with Romans 2:6.",
+  "seeAlso": [
+    "Matthew 10:26-27",
+    "Luke 12:2",
+    "1 Corinthians 1:27",
+    "Matthew 16:19",
+    "Matthew 18:18",
+    "Romans 2:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Universal Call"
+    },
+    {
+      "range": "7-16",
+      "title": "Warning and Judgment"
+    },
+    {
+      "range": "17-30",
+      "title": "Restoration and Authority"
+    }
+  ],
+  "themes": [
+    "Divine authority",
+    "Judgment",
+    "Restoration",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "How should I respond individually and as a community to the repeated call to 'prepare' and 'hearken'?",
+    "In what ways can communities today embody the warning against trusting the 'arm of flesh'?",
+    "What does it mean for contemporary believers that 'the weak things' are chosen to accomplish God's purposes?",
+    "How should the promise of being 'sealed' by servants with authority affect personal choices about repentance and discipleship?"
+  ],
+  "uncertainAreas": "The text uses symbolic language (e.g., 'Babylon,' 'Idumea,' and the timing of when 'peace shall be taken from the earth') whose precise historical or eschatological referents are open to interpretation. The mechanics and scope of 'sealing' authority and how it operates 'both on earth and in heaven' are theological claims that different traditions understand differently.",
+  "createdAt": "2025-10-19T01:43:24.403Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

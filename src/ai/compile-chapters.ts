@@ -1,20 +1,20 @@
 import { aiAnalyzeChapter } from '~/lib/aiAnalyzeChapter.ts';
 import { updateTokenCounts } from '~/lib/updateTokenCounts.ts';
 import { metadata } from '../../data/_metadata.ts';
-import bom from '../../data/verses/bom.json' with { type: 'json' };
+import data from '../../data/verses/deuter.json' with { type: 'json' };
 
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters(bom).slice(100, 200);
+  const allChapters = getAllChapters(data).slice(0, 12);
   let idx = 1;
   for (const osisID of allChapters) {
-    const path = `${import.meta.dir}/../../data/chapters/bom/${osisID}.json`;
+    const path = `${import.meta.dir}/../../data/chapters/deuter/${osisID}.json`;
     const file = Bun.file(path);
     if (file.size) {
       continue;
     }
-    const chapter = bom.filter((v) => v.chapterOsisID === osisID);
+    const chapter = data.filter((v) => v.chapterOsisID === osisID);
     const firstVerse = chapter[0];
     const verses = chapter
       .map((v) => `${v.verseNumber}. ${v.verseText}`)
@@ -53,7 +53,7 @@ function getBookName(bookOsisID: string) {
   return '';
 }
 
-function getAllChapters(verses: typeof bom) {
+function getAllChapters(verses: typeof data) {
   const set = new Set();
   for (const verse of verses) {
     set.add(verse.chapterOsisID);

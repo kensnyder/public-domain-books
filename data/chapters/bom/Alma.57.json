@@ -1,0 +1,36 @@
+{
+  "chapterOsisID": "Alma.57",
+  "briefOverview": "Helaman recounts a military campaign in which Nephite forces capture cities, deal with large numbers of prisoners, and experience a remarkable deliverance attributed to faith.",
+  "summary": "Helaman describes rejecting Ammoron’s demand to exchange prisoners and then taking the cities Antiparah and Cumeni through tactical operations and supplies. After capturing Cumeni the Nephites find themselves burdened with many prisoners who repeatedly attempt to escape, forcing the Nephites to devote large forces to guard them and to take harsh measures that result in many prisoner deaths. A contingent of about 2,060 (the two thousand and their sixty Ammonite companions) fights decisively to hold back Lamanite counterattacks and preserves the city. Many of the younger soldiers are wounded but miraculously survive, an outcome the narrator attributes to their strong faith and the teachings of their mothers. The chapter closes with Helaman’s gratitude for divine deliverance and hope for the souls of the slain.",
+  "externalContext": "This episode is part of the Book of Mormon’s narrative of ongoing warfare between Nephites and Lamanites during the period called the reign of the judges. Helaman is the Nephite military leader; the young soldiers described are the sons of the people of Ammon (often called the 'stripling' warriors) whose piety and obedience are emphasized elsewhere. Cities named here (Antiparah, Cumeni, Manti, Zarahemla) are part of the internal geography of the Book of Mormon record rather than independently attested ancient sites.",
+  "externalReferences": "The faith and maternal instruction cited here echo and are more fully narrated in Helaman’s earlier letter about the two thousand stripling warriors (see Alma 56:45–48), where the mothers’ teachings and the boys’ covenant faith are prominent. The chapter is also narratively connected to the subsequent military accounts that continue Helaman’s campaigns and the consequences of these battles (see the following chapter, Alma 58, for continuation of the military narrative).",
+  "seeAlso": [
+    "Alma 56:45-48",
+    "Alma 58"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Capture of Cumeni and Antiparah"
+    },
+    {
+      "range": "13-36",
+      "title": "Prisoners, Battle, Deliverance"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Divine deliverance",
+    "Warfare",
+    "Prisoners"
+  ],
+  "practicalQuestions": [
+    "How should communities balance mercy and security when handling prisoners who may endanger guards or civilians?",
+    "What role do family teachings and upbringing play in forming courage and moral resolve in young people today?",
+    "How do we interpret accounts of divine protection alongside the high human cost of war in this narrative?",
+    "In what ways can gratitude and care for the wounded (as Helaman models) be practiced in contemporary conflict or crisis settings?"
+  ],
+  "uncertainAreas": "Uncertainties include the historicity and exact geography of the named places and persons, the broader diplomatic context behind Ammoron’s offer/refusal, and ethical evaluation of the narrative’s reported killing of surrendered prisoners (the text reports the events but offers limited moral reflection beyond practical necessity and divine favor).",
+  "createdAt": "2025-10-19T00:48:37.296Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

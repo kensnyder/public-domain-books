@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Eth.6",
+  "briefOverview": "A narrative of the Jaredite ocean voyage to the promised land, emphasizing miraculous deliverance and the community’s transition to settled life and kingship.",
+  "summary": "The brother of Jared uses divinely prepared stones to provide light for sealed vessels, and the people embark in barges across the ocean. God causes a furious wind to drive them toward the promised land; despite being buried by waves and facing terrible storms, their tight vessels keep them safe and they continually praise the Lord. After three hundred forty and four days they land, give thanks, and begin to till the earth and multiply. As the brother of Jared nears death the people request a king; the leaders resist forced rule but allow choice, and Orihah is anointed king after several refusals. Under Orihah the people prosper and he leads humbly, remembering the Lord’s interventions.",
+  "externalContext": "The Book of Mormon presents the Jaredites as an early post‑Babel group who make a transoceanic crossing to settle a ‘promised land’; this claim sits within a 19th‑century American religious text first published in 1830. The voyage narrative draws on older Near Eastern and biblical motifs—sealed vessels like Noah’s ark, divine winds, miraculous preservation from drowning, and constant praise—that would have been recognizable to readers familiar with the Bible. Mainstream archaeology and ancient Near Eastern history do not provide independent evidence for such Jaredite transoceanic migrations.",
+  "externalReferences": "The sealed, ark‑like vessels and deliverance from overwhelming waters echo the Noah/ark story (see Genesis 6–9) where God preserves a remnant through the flood. The community’s request for a king and the leaders’ hesitancy recall Israel’s demand for a monarch and the prophetic warnings about kingship in 1 Samuel 8. The themes of being driven by wind and miraculously crossing a hostile sea have parallels with Israel’s deliverance at the Red Sea (Exodus 14), especially the motifs of peril, divine intervention, and communal praise.",
+  "seeAlso": [
+    "Genesis 6:14-22",
+    "Genesis 7:17-24",
+    "1 Samuel 8:4-22",
+    "Exodus 14:21-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-11",
+      "title": "Miraculous Sea Crossing"
+    },
+    {
+      "range": "12-18",
+      "title": "Arrival and Settlement"
+    },
+    {
+      "range": "19-30",
+      "title": "Numbering and Kingship"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Praise and gratitude",
+    "Community leadership",
+    "Settlement"
+  ],
+  "practicalQuestions": [
+    "How do we cultivate persistent praise and trust during prolonged uncertainty or danger, as the Jaredites did?",
+    "What safeguards should communities use today to balance popular desire for leadership with protections against abuses of power?",
+    "In what ways can religious memories of past deliverances shape a community’s identity and actions when settling new ground?",
+    "How should modern readers interpret miraculous elements in ancient narratives—literally, symbolically, or both—when applying them practically?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous whether the glowing stones and the mechanics of the sealed vessels are meant as literal, technological descriptions or primarily theological symbols; the precise meaning of 'captivity' as a consequence of kingship is also open to interpretation (political bondage vs. moral/spiritual decline).",
+  "createdAt": "2025-10-19T01:32:17.104Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,33 @@
+{
+  "chapterOsisID": "Eth.7",
+  "briefOverview": "A succession narrative showing repeated family rebellions and restorations of kingship, culminating in prophetic intervention and communal repentance.",
+  "summary": "The chapter traces a royal lineage from Orihah through Kib, Corihor, and Shule, describing Corihor’s rebellion and the capture of Kib, and Shule’s military rescue and restoration of the kingdom. Shule forges steel swords and rules righteously, enlarging the kingdom and prospering the people. Corihor repents and is later given authority again, but Corihor’s descendant Noah rises in rebellion, captures Shule, and is slain in a rescue led by Shule’s sons. The land becomes divided into two kingdoms, frequent battles follow, and eventually Nimrod yields his power back to Shule and gains favor. Prophets warning against idolatry appear; many mock them, so Shule enforces laws protecting the prophets’ freedom to minister. The people repent, the Lord spares them, and Shule rules in righteousness, remembering past deliverances.",
+  "externalContext": "This chapter is part of the Book of Ether, a narrative embedded in the Book of Mormon that portrays long dynastic histories and prophetic activity among peoples said to have settled in the Americas. The political pattern—family rivalries, coups, divided kingdoms, and restoration by force—is common in ancient monarchic literature. References to iron/\"steel\" weapons and to a named hill (Ephraim) reflect a martial culture and tradition of place-names; how these terms map onto specific historical technologies or geographies outside the text is debated among scholars.",
+  "externalReferences": "The chapter explicitly alludes back to an earlier saying of the brother of Jared in the opening Ether narrative (the earlier chapters of Ether) predicting captivity, tying this episode to the book’s larger prophetic framework. The motif of prophets calling people to repentance and being reviled before being vindicated echoes patterns found in other scriptural traditions (for example, prophetic warnings and calls to repentance in Isaiah 1 and Jeremiah), where prophetic speech is linked to covenantal consequences.",
+  "seeAlso": [],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Rebellion and Restoration"
+    },
+    {
+      "range": "12-26",
+      "title": "Division and Prophetic Warning"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Rebellion",
+    "Prophecy",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "How should a community balance lawful authority with protection for prophetic or dissenting voices today?",
+    "When leaders use force to restore order, what safeguards are needed to prevent cycles of revenge and division?",
+    "What does communal repentance look like in practice when idolatry or systemic wrongdoing has taken root?",
+    "How can remembering formative deliverances or communal history shape ethical leadership in the present?"
+  ],
+  "uncertainAreas": "I was uncertain about precise cross-reference verse numbers for the brother of Jared’s saying in earlier Ether chapters and about how to map place-names (e.g., hill Ephraim, land Moron) or the term \"steel\" onto specific archaeological or historical realities; these points are subjects of scholarly debate rather than settled facts within the text.",
+  "createdAt": "2025-10-19T01:32:48.723Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

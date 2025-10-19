@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "1Esd.3",
+  "briefOverview": "A Persian royal banquet frames a wisdom contest among three young guards whose sealed sayings are judged; the first asserts that wine is the strongest force. The chapter sets up a debate about sources of power and the supremacy of truth.",
+  "summary": "King Darius holds a great feast for his subjects and princes across his provinces. After the guests leave, three young members of the king’s bodyguard agree to write sentences claiming what is 'strongest,' seal them, and place them under the king’s pillow to be judged the next day with rich rewards promised to the winner. Their three written claims are: 'Wine is the strongest,' 'The king is strongest,' and 'Women are strongest; but above all things Truth wins.' The writings are read before the court, the three youths are summoned, and the first youth delivers an extended defense of wine’s power, describing how it equalizes people, erases memory of sorrow and debt, loosens tongues, and provokes both affection and sudden violence. The chapter ends with the first young man concluding his speech and silent pause.",
+  "externalContext": "1 Esdras is a Greek-era retelling related to the Ezra–Nehemiah material and likely composed or transmitted in the Hellenistic period (roughly 3rd–1st centuries BCE). Persian royal banquets and the practice of bodyguards and provincial governance are consistent with ancient Near Eastern and Achaemenid court settings reflected in other historical and literary texts. The personification and praise/contest of abstract qualities like Truth or Wisdom fits a wider Jewish and Hellenistic wisdom-literature milieu.",
+  "externalReferences": "The banquet and Persian court setting recall episodes in Esther (e.g., Esther 1:1–4) and the court-feast motif in Daniel (cf. Daniel 5:1–6), where royal banquets set the scene for significant declarations or judgments. The first speech’s portrayal of wine’s effects echoes Proverbs 23:29–35, which warns that wine brings sorrow, bewilderment, and impaired judgment, while the elevation of Truth/Wisdom resonates with passages that personify wisdom (e.g., Proverbs 8).",
+  "seeAlso": [
+    "Esther 1:1-4",
+    "Daniel 5:1-6",
+    "Proverbs 23:29-35",
+    "Proverbs 8:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Setup of Contest"
+    },
+    {
+      "range": "10-24",
+      "title": "Three Claims and First Speech"
+    }
+  ],
+  "themes": [
+    "Truth",
+    "Wisdom contest",
+    "Power",
+    "Wine"
+  ],
+  "practicalQuestions": [
+    "When leaders must choose between competing claims of 'strength,' what criteria should guide their judgment, and how can truth be reliably identified and prioritized today?",
+    "How does alcohol affect personal and public decision-making in contemporary contexts, and what safeguards can communities use to reduce harms described in the text?",
+    "In what ways can personifying abstract virtues (like Truth or Wisdom) shape moral discourse in our families, schools, and public life?",
+    "How should societies balance admiration for earthly power (kings, institutions) with commitments to transcendent or ethical standards?"
+  ],
+  "uncertainAreas": "The text does not identify which historical 'Darius' is meant, and the broader narrative context (the rest of the contest speeches and final judgment) is not present in this chapter. The terse statement that 'Women are strongest' followed by 'Truth wins' is open to interpretive nuance—whether it is literal, proverbial, or rhetorical depends on the following speeches and the work’s literary aims.",
+  "createdAt": "2025-10-19T01:51:35.078Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

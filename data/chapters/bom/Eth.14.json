@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Eth.14",
+  "briefOverview": "A prolonged civil war among the Jaredites produces extreme bloodshed, social breakdown, and divine visitation; secret combinations and political murder accelerate the collapse.",
+  "summary": "A pervasive curse spreads across the land, making theft common and driving people to keep weapons at hand for protection. After shared episodes of succession, murder, and usurpation (including the deaths of Gilead and Lib by secret combinations), Coriantumr and successive rivals wage repeated, bloody battles. Shiz pursues Coriantumr relentlessly, overrunning cities, killing civilians, and leaving the land littered with unburied corpses whose stench troubles the survivors. Despite Shiz's vowed vengeance, the narrator notes that the Lord had foretold to Ether that Coriantumr would not fall by the sword; the fighting continues intensely until losses become so great that Shiz orders a stop to pursuit.",
+  "externalContext": "This chapter is part of the Book of Ether in the Book of Mormon, which narrates the rise and fall of a Jaredite civilization before the Nephite/Lamanite periods. \"Secret combinations\" is a recurring term in this work for clandestine conspiracies and assassinations that subvert legitimate government. The description of unburied bodies and widespread stench fits known consequences of prolonged ancient warfare, when mass casualties could lead to public health problems and social collapse.",
+  "externalReferences": "The theme of \"secret combinations\" is introduced and warned against elsewhere in the Ether narrative (see Ether 8), and this chapter continues the pattern that culminates in the complete destruction of the Jaredite nation (see Ether 15). The motif of cyclical wickedness followed by divine visitation and judgment parallels other prophetic narratives within the Book of Mormon.",
+  "seeAlso": [
+    "Ether 8",
+    "Ether 15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Curse and Armament"
+    },
+    {
+      "range": "3-16",
+      "title": "Kings and Battles"
+    },
+    {
+      "range": "17-31",
+      "title": "Pursuit and Devastation"
+    }
+  ],
+  "themes": [
+    "War",
+    "Destruction",
+    "Secret combinations",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "How should communities respond to long-term cycles of violence to protect noncombatants and preserve civic life?",
+    "What safeguards (legal, moral, institutional) can prevent 'secret combinations' or conspiracies from undermining government?",
+    "How does the experience of large-scale suffering shape communal obligations like burying the dead and caring for victims?",
+    "In what ways does belief in divine judgment influence decisions during political and military crises?"
+  ],
+  "uncertainAreas": "Some personal names and exact sequence of succession and murders are compressed and occasionally unclear (e.g., the earlier deaths of Shared and the role shifts among his brothers). The precise meaning and mechanism of \"the word of the Lord... that Coriantumr should not fall by the sword\" is not explained here and leaves open whether that promise refers to eventual survival, delayed death, or another form of preservation.",
+  "createdAt": "2025-10-19T01:37:12.757Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

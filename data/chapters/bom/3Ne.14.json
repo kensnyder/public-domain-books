@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "3Ne.14",
+  "briefOverview": "Jesus teaches ethical guidance for interpersonal conduct, discernment of true and false teachers, and the importance of obedience as the basis for lasting life.",
+  "summary": "This chapter contains a sequence of teachings: a warning against hypocritical judgment and the image of the mote and the beam (1–5); an admonition not to give what is holy to dogs or cast pearls before swine (6); a promise that persistent asking, seeking, and knocking will be answered and an appeal to God's parental care (7–11); the Golden Rule as the summary of the law and the prophets (12); a contrast between the wide road leading to destruction and the narrow way leading to life (13–14); a warning to beware of false prophets and to recognize them by their fruits (15–20); a caution that profession alone (“Lord, Lord”) without doing the Father’s will will be rejected (21–23); and a final parable contrasting the wise builder who hears and does Jesus’ sayings with the foolish builder who does not (24–27).",
+  "externalContext": "3 Nephi is a book in the Book of Mormon presenting a post-resurrection ministry of Jesus to peoples in the Americas; many of its chapters closely parallel material in the New Testament Sermon on the Mount (especially Matthew 5–7). The cultural backdrop assumes a Mediterranean-Judeo-Christian ethic in which public teaching, prophetic authority, and practices of charity and hospitality were highly valued; metaphors like gates, fruits, and builders would be readily understood by agrarian and village audiences.",
+  "externalReferences": "The chapter closely parallels Matthew 7 (compare passages such as the judgment sayings, ask/seek/knock, the Golden Rule, the narrow gate, warnings about false prophets, and the two builders). Luke 6:37–42 and Luke 6:31 contain related material (judge not; mote and beam; Golden Rule), and the image of fruit-bearing to test teachers echoes prophetic and wisdom traditions elsewhere in Scripture (e.g., Jeremiah and biblical wisdom literature on conduct and consequence).",
+  "seeAlso": [
+    "Matthew 7:1-5",
+    "Matthew 7:6",
+    "Matthew 7:7-11",
+    "Matthew 7:12",
+    "Matthew 7:13-14",
+    "Matthew 7:15-20",
+    "Matthew 7:21-27",
+    "Luke 6:37-42",
+    "Luke 6:31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Judgment and Hypocrisy"
+    },
+    {
+      "range": "6-12",
+      "title": "Ethics and Divine Provision"
+    },
+    {
+      "range": "13-27",
+      "title": "Discernment, True Discipleship"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Hypocrisy",
+    "Prayer and Providence",
+    "Discernment"
+  ],
+  "practicalQuestions": [
+    "In what ways do I risk accusing others while overlooking my own faults, and how can I practice self-examination first?",
+    "How should I balance generosity in sharing spiritual truth with prudence about when and with whom to share it?",
+    "What habits of prayer and asking can I cultivate to rely more on God’s provision rather than anxiety?",
+    "How do I evaluate religious leaders or teachers by their 'fruits' in practical, measurable ways?"
+  ],
+  "uncertainAreas": "Degree of dependence on the Gospel of Matthew for wording and structure (text appears to be a close parallel), and the intended scope of the 'pearls before swine' and 'dogs' metaphors—whether they primarily warn about malicious hearers or about inappropriately offering sacred things outside appropriate contexts.",
+  "createdAt": "2025-10-19T01:06:20.445Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

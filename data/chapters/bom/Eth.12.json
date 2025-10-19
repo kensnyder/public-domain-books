@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Eth.12",
+  "briefOverview": "Moroni (quoting Ether) emphasizes that faith is trust in things hoped for but not seen and that miracles, hope, and salvation flow from such faith. He also stresses charity, humility about human weakness, and exhorts readers to seek Jesus.",
+  "summary": "Ether prophesies to Coriantumr’s people, calling them to repent and teaching that faith anchors the soul and makes believers steadfast in good works. Moroni defines faith as things hoped for and not seen, and argues that miracles and divine manifestations occur only after people exercise faith. He gives many examples from Jaredite and Nephite history (e.g., the brother of Jared, Alma and Amulek, Nephi and Lehi, Ammon) to illustrate that great works were done by faith. Moroni confesses his own weakness in writing, records the Lord’s reassurance that grace is sufficient for the humble, and teaches that God gives weakness to lead people to humility. He insists that charity (Christlike love) is essential to inherit the Father’s mansions and prays for the Gentiles’ charity, then closes with a personal farewell and an exhortation to seek Jesus and the abiding witness of the Father, Son, and Holy Ghost.",
+  "externalContext": "Ether is part of the Book of Mormon and is presented as the prophetic record of the Jaredite civilization; Moroni, a later Nephite compiler, abridged and appended it for future readers. The chapter reflects a prophetic/ancient-record genre in which later editors comment on and interpret earlier material, addressing both an internal religious community and an intended wider audience (referred to here as 'the Gentiles'). Themes like faith, charity, and humility reflect common concerns in early Judeo-Christian prophetic and epistolary traditions.",
+  "externalReferences": "The chapter explicitly alludes to the brother of Jared’s vision recorded earlier in Ether (see Ether 3), where the brother of Jared saw the Lord’s finger and was eventually shown greater things. Moroni’s teaching that Christ showed himself after his resurrection parallels the Book of Mormon account of Christ’s post‑resurrection appearance to the Nephites (3 Nephi 11). The reference to the giving of the law of Moses points to the Mosaic law tradition (for example, Exodus 20:1–17 as a key locus of that law). Moroni’s closing exhortation to seek Christ and the witness of the Father, Son, and Holy Ghost is thematically connected to his later concluding chapter (Moroni 10) where he invites readers to pray and ask God for truth.",
+  "seeAlso": [
+    "Ether 3",
+    "3 Nephi 11",
+    "Exodus 20:1-17",
+    "Moroni 10:3-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Ether’s Call and Faith Defined"
+    },
+    {
+      "range": "7-31",
+      "title": "Examples of Faith and Miracles"
+    },
+    {
+      "range": "32-41",
+      "title": "Charity, Weakness, Farewell"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Hope",
+    "Charity",
+    "Miracles"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate the kind of faith that trusts in unseen promises rather than demanding immediate proof?",
+    "In what concrete ways can a community 'abound in good works' as an expression of faith and hope?",
+    "How should we understand and respond to our own weaknesses so that they lead to humility rather than despair?",
+    "What practices can help a person develop charity (Christlike love) so they might 'inherit' the spiritual blessings described here?",
+    "How do we balance caution about human limitations (e.g., poor writing or cultural weakness) with confidence in God’s grace?"
+  ],
+  "uncertainAreas": "I was cautious about linking some references: the identity of the 'three disciples' mentioned is ambiguous without broader Book of Mormon context, and precise historical dating or external historical parallels for the Jaredite society are not established within the text. Also, the term 'Gentiles' can carry varied meanings in different passages, so its exact intended audience here is somewhat open to interpretation.",
+  "createdAt": "2025-10-19T01:35:46.162Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

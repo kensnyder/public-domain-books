@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "3Ne.10",
+  "briefOverview": "A prophetic voice mourns the fall of covenant Israel, calls the people to repentance and warns of desolation, while the narrative records the end of the calamities and the preservation of the righteous; the chapter closes by promising a forthcoming account of Christ’s personal ministry among the survivors.",
+  "summary": "After a long silence following widespread devastation, a voice addresses the survivors with lamenting, maternal imagery—'how oft would I have gathered you as a hen gathereth her chickens'—calling the house of Israel to repent and return with full purpose of heart and warning of desolation if they refuse. The people briefly resume mourning, but after three days the natural calamities cease: darkness lifts, the earth is restored, and mourning turns to praise and thanksgiving to Jesus Christ. The text explains that the more righteous—those who received the prophets and did not shed blood—were spared from death by the various disasters. The narrator urges readers to search the scriptures to see these events as fulfillments of prophets’ predictions, cites earlier prophets (Zenos, Zenock, Jacob) as having testified concerning a remnant, and identifies the plates of brass as containing such records. The chapter closes by stating that soon after Christ’s ascension he will manifest himself to the spared people and minister among them, with an account of that ministry to follow.",
+  "externalContext": "The Book of Mormon frames this scene as occurring in the post‑resurrection visit of Jesus to the peoples of the ancient Americas, a narrative distinct from the New Testament setting but deliberately echoing Jewish prophetic themes. The motif of a 'remnant' and covenantal gatherings is central in Hebrew prophetic literature and would have been a familiar theological idea in Second Temple Jewish thought. The 'plates of brass' concept in the Book of Mormon narrative draws on the ancient Near Eastern practice of preserving important genealogical and scriptural records, here paralleling biblical accounts of preserving Israelite records.",
+  "externalReferences": "The lament and gathering image closely parallels Jesus’ lament over Jerusalem in Matthew 23:37 and Luke 13:34 ('how often would I have gathered...'). The theme of a preserved remnant echoes Isaiah passages such as Isaiah 10:20–22 and Isaiah 11:11 that speak of a surviving remnant of Israel. The reference to the 'plates of brass' connects within the Book of Mormon narrative to 1 Nephi 5:18, where Lehi’s family obtains such plates as a scriptural record. The prophet Zenos is quoted elsewhere in the Book of Mormon (notably Jacob chapter 5), which contains an extended allegory attributed to him.",
+  "seeAlso": [
+    "Matthew 23:37",
+    "Luke 13:34",
+    "Isaiah 10:20-22",
+    "Isaiah 11:11",
+    "1 Nephi 5:18",
+    "Jacob 5",
+    "3 Nephi 11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Call to Repentance"
+    },
+    {
+      "range": "7-13",
+      "title": "Destruction and Preservation"
+    },
+    {
+      "range": "14-19",
+      "title": "Fulfillment and Promise"
+    }
+  ],
+  "themes": [
+    "Gathering/Repentance",
+    "Judgment",
+    "Remnant/Preservation",
+    "Prophetic Fulfillment"
+  ],
+  "practicalQuestions": [
+    "How should communities balance mourning for loss with trust in restorative promises?",
+    "What does 'gathering' and repentance look like in contemporary religious practice?",
+    "How can individuals examine scriptures to test whether modern events or teachings fulfill prophecy?",
+    "In what ways can we actively support those whom scripture portrays as 'the righteous' or vulnerable during calamities?",
+    "How does the image of a protective, grieving parent (the hen) shape pastoral responses to rejection and loss?"
+  ],
+  "uncertainAreas": "The chapter refers to prophets Zenos and Zenock whose writings are preserved only within the Book of Mormon tradition; their wider historical attestation is not available in the biblical canon. The narrative’s historicity and precise chronological relation to New Testament events are matters outside the chapter’s internal claims and therefore not determinable from the text alone.",
+  "createdAt": "2025-10-19T01:04:24.015Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

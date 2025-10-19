@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Morm.7",
+  "briefOverview": "Mormon addresses the surviving remnant of his people, calling them to repent, lay down arms, and believe in Christ’s atoning and redemptive work. He also urges baptism and tells them their identity as Israelites and heirs of covenant promises.",
+  "summary": "Mormon speaks directly to the remnant of the house of Israel, reminding them of their identity and urging repentance as the prerequisite for salvation. He commands them to lay down weapons and cease shedding blood unless God commands otherwise. He summarizes core Christian claims: that Jesus is the Son of God, was slain by the Jews, rose by the Father’s power, overcame death, and effected the resurrection and redemption of the world. Those found guiltless will dwell in God’s presence and sing praises eternally. Finally, he exhorts them to be baptized in Jesus’ name, to receive the gospel as presented both in this record and in other records, and promises blessing for those who believe and follow the pattern of water, then fire and the Holy Ghost.",
+  "externalContext": "Mormon is presented in the Book of Mormon as a late Nephite leader and compiler of records in a period of intense warfare and societal collapse (traditionally dated to the late fourth century AD). The language of a surviving \"remnant\" and covenantal identity as the house of Israel reflects longstanding Israelite prophetic motifs found in the Hebrew Bible. The injunction to be baptized and to receive the Spirit reflects early Jewish–Christian baptismal ideas circulating in the ancient Mediterranean world.",
+  "externalReferences": "The image of death being \"swallowed up\" closely parallels Isaiah 25:8 and the New Testament victory language in 1 Corinthians 15:54. The formula of baptism with water \"then with fire and with the Holy Ghost\" is reminiscent of Matthew 3:11 and the New Testament emphasis on repentance followed by baptism in Acts 2:38. Within the Book of Mormon, similar calls to covenantal baptism and communal repentance appear in Mosiah 18:8–10 and in the post-resurrection ministry recorded in 3 Nephi 11 and 27.",
+  "seeAlso": [
+    "1 Corinthians 15:54",
+    "Matthew 3:11",
+    "Acts 2:38",
+    "Isaiah 25:8",
+    "Mosiah 18:8-10",
+    "3 Nephi 11:33-34",
+    "3 Nephi 27:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Address to the Remnant"
+    },
+    {
+      "range": "5-10",
+      "title": "Christ's Redemption & Call"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Atonement",
+    "Remnant identity",
+    "Baptism"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways can individuals and communities \"lay down their weapons\" today—physically, verbally, and institutionally?",
+    "How should one pursue genuine repentance and reconciliation in relationships and communal life, following the patterns described here?",
+    "What does the sequence \"water, then fire and the Holy Ghost\" mean for contemporary baptismal practice and spiritual formation?",
+    "How can a modern community cultivate and teach an understanding of covenantal or ancestral religious identity without excluding others?"
+  ],
+  "uncertainAreas": "The precise identification of the \"record which shall come unto the Gentiles from the Jews\" is ambiguous (it may refer to the Bible or other records). The phrase about taking up arms \"save it be that God shall command you\" leaves open when or whether violence might ever be justified. The exact meaning and order of being baptized \"first with water, then with fire and with the Holy Ghost\" allow multiple interpretive nuances (symbolic sequence, simultaneous experience, or stages of conversion).",
+  "createdAt": "2025-10-19T01:27:39.233Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Moro.9",
+  "briefOverview": "Moroni records desperate military setbacks and appalling atrocities, mourns his people's moral collapse, and gives final pastoral exhortations and a benediction to his son.",
+  "summary": "Moroni opens by reporting recent military defeat, the deaths of leaders, and his fear that the Lamanites will destroy his people because of widespread impenitence. He describes his frustrated ministry—sharp rebuke produces anger, gentleness produces hardness—and exhorts continued effort despite seeming failure. He then recounts horrific abuses at Sherrizah and Moriantum (including murder, sexual violence, and cannibalism), laments the suffering of widows and children, and acknowledges the weakness of his own forces. Moroni warns that his people may perish like the Jaredites because of their willfulness, asks his son to preserve records if he dies, and urges faithfulness in Christ. He closes with a prayerful blessing invoking God the Father and Jesus Christ and a hope for salvation and the endurance of his son.",
+  "externalContext": "Within the Book of Mormon narrative, Moroni is presented as the last Nephite military leader and compiler, son of Mormon; this chapter occurs during the final wars that tradition places shortly before the Nephite extinction. Sherrizah and Moriantum are named battle/locality sites in that narrative, and the Jaredites are an earlier Book of Mormon civilization whose complete destruction is narrated in the Book of Ether. The graphic language follows a prophetic/laments style common to ancient Near Eastern and biblical lament traditions.",
+  "externalReferences": "The warning that a people may perish “like unto the Jaredites” points back to the Jaredite destruction recounted in Ether 15, where a civilization is annihilated because of internal wickedness. Moroni’s appeal to Christ’s sufferings and to Christ’s showing “his body unto our fathers” echoes the post-resurrection appearance of Christ to the Nephites in 3 Nephi 11, where Jesus manifests his wounds. The closing image of Christ “sitting on the right hand of his power” parallels New Testament language of exaltation (see Acts 2:33 and Hebrews 1:3) used to express Christ’s mediatorial authority.",
+  "seeAlso": [
+    "Ether 15",
+    "3 Nephi 11:8-17",
+    "Moroni 7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Opening: Fears and Duty"
+    },
+    {
+      "range": "7-24",
+      "title": "Atrocities and Lament"
+    },
+    {
+      "range": "25-26",
+      "title": "Final Exhortation and Blessing"
+    }
+  ],
+  "themes": [
+    "Violence",
+    "Judgment",
+    "Suffering",
+    "Faithfulness"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when social order collapses and violence escalates?",
+    "In pastoral ministry, how can one balance sharp rebuke with compassionate patience when people resist correction?",
+    "What concrete responsibilities do we have to protect and care for widows, children, and prisoners in times of conflict?",
+    "How can individuals maintain hope and religious faith when institutional structures and communities seem irredeemably corrupt?"
+  ],
+  "uncertainAreas": "Questions remain about historicity and precise geography (e.g., locations like Sherrizah), whether some descriptions are literal or rhetorical intensifications, and the identity of named individuals such as Archeantus, who are not elsewhere well documented in the text.",
+  "createdAt": "2025-10-19T01:42:21.071Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

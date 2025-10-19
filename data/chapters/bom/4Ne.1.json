@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "4Ne.1",
+  "briefOverview": "A post-Resurrection panorama: an initial century of unity, miracles, and prosperity among Nephites and Lamanites gives way to pride, division, secret combinations, and the eventual hiding of sacred records.",
+  "summary": "The chapter recounts a long period after Christ’s visit when disciples established a unified church, performed widespread miracles, abolished economic distinctions, and enjoyed peace and prosperity for many decades. Over successive generations the people multiply and prosper, but then pride and inequality return: costly apparel, class divisions, and competing churches arise. Persecution and miraculous deliverances of faithful disciples are described, yet hearts harden and secret combinations (Gadianton) reappear. Gradually the more wicked become dominant, both Nephites and Lamanites grow alike in wickedness, and only a small remnant of disciples remains righteous. The narrative closes with Ammaron hiding the sacred records by divine prompting so they might be preserved for the future.",
+  "externalContext": "Within the Book of Mormon narrative this chapter follows Christ’s visit to the peoples in the Americas (recorded in 3 Nephi) and functions as a bridge between that visit and the later decline leading to Mormon’s abridgment. The text reflects ancient Near Eastern and Mediterranean concerns with covenant community, prophetic record-keeping on metal plates, and fears of secret political-religious conspiracies. The practice of passing records between generations (plates of Nephi) and hiding them for future recovery is a recurring cultural motif in the book’s storyline.",
+  "externalReferences": "The chapter builds directly on 3 Nephi’s account of Christ’s ministry among the Nephites (see especially 3 Nephi 11 and later 3 Nephi chapters where the church of Christ is taught and established). The description of persecutors seeking to kill faithful disciples echoes New Testament language about those who sought Jesus’ death (e.g., John 11:53; Luke 22:2). The appearance and threat of the Gadianton robbers connects with earlier Book of Mormon narratives about secret combinations and banditry found in Helaman (see Helaman’s accounts of the Gadianton robbers).",
+  "seeAlso": [
+    "3 Nephi 11:1-17",
+    "3 Nephi 27:1-21",
+    "Helaman 2-3",
+    "John 11:53"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Golden Age of Unity"
+    },
+    {
+      "range": "19-28",
+      "title": "Records and Generations"
+    },
+    {
+      "range": "29-49",
+      "title": "Division and Decline"
+    }
+  ],
+  "themes": [
+    "Unity and Peace",
+    "Miracles",
+    "Apostasy and Pride",
+    "Records Preservation"
+  ],
+  "practicalQuestions": [
+    "What practices in our communities encourage lasting unity and equality like those described in the early verses?",
+    "How can spiritual movements guard against the slide from covenantal simplicity into pride and social stratification?",
+    "When believers face persecution, what can we learn from the non-retaliatory responses and reliance on faith shown here?",
+    "What responsibilities do present communities have for preserving sacred texts and histories for future generations?",
+    "How should modern communities identify and resist secretive or corrupting influences analogous to the Gadianton combinations?"
+  ],
+  "uncertainAreas": "Chronological details (exact timing and overlapping generational counts) are compressed and formulaic; the text’s broad summary style leaves ambiguous how widespread certain practices were at every stage. The historicity of miraculous episodes and some group identifications is narrated as fact within the text but cannot be independently verified from the chapter itself.",
+  "createdAt": "2025-10-19T01:24:23.750Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

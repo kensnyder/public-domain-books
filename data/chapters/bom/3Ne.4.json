@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "3Ne.4",
+  "briefOverview": "A narrative of military conflict between the Nephites and the Gadianton robbers, ending in Nephite victory and thanksgiving to God.",
+  "summary": "The chapter recounts how, in the latter part of the eighteenth year, bands of robbers (Gadianton robbers) sallied forth to occupy deserted Nephite lands but lacked food because the Nephites had removed their provisions and gathered together. In the nineteenth year the robbers, led by Giddianhi, attacked; the Nephites, led by Gidgiddoni, prayed to God, fought in the Lord's strength, and routed the robbers, pursuing and slaying many and executing Giddianhi. In subsequent years the robbers besieged but could not sustain operations because of lack of provisions; when they tried to withdraw under a new leader, Zemnarihah, Nephite forces intercepted and captured many, executing Zemnarihah by hanging. The people respond with public prayers, songs of praise, and tears of joy, attributing their deliverance to repentance, humility, and divine protection.",
+  "externalContext": "Within Book of Mormon narrative structure this episode occurs during the period of the Nephite ‘judges’ and features the recurring menace of Gadianton robbers—secretive, politically disruptive bands described elsewhere in the book. The tactical details (reliance on game in the wilderness, sieges, night marches, pursuing to the wilderness border) reflect ancient-style small-army warfare and logistics where provisioning determined campaign length. Public invocations of \"the God of Abraham, Isaac, and Jacob\" and cries of \"Hosanna\" show continuity with Israelite religious language preserved among the Nephites.",
+  "externalReferences": "This episode is closely connected to the letter and threats of Giddianhi recorded in 3 Nephi 3 (preceding chapter), which set the stage for the later battles. The rise and danger of Gadianton robbers and \"secret combinations\" is a theme developed earlier and later in the Book of Mormon (see Helaman’s account of secret combinations and their social effects). The warning about secret combinations and their political danger is also thematically linked to Ether 8, which treats the corrupting influence of such secret bands.",
+  "seeAlso": [
+    "3 Nephi 3",
+    "Helaman 6:24-30",
+    "Helaman 7:6-13",
+    "Ether 8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Robbers Occupy Lands"
+    },
+    {
+      "range": "5-14",
+      "title": "Battle with Giddianhi"
+    },
+    {
+      "range": "15-33",
+      "title": "Siege, Pursuit, Praise"
+    }
+  ],
+  "themes": [
+    "Warfare",
+    "Divine deliverance",
+    "Repentance",
+    "Secret combinations"
+  ],
+  "practicalQuestions": [
+    "When facing communal threats, how should a community balance practical security measures with reliance on prayer and humility?",
+    "What contemporary forms might 'secret combinations' or corrosive, secretive political groups take, and how ought communities respond?",
+    "How can gratitude and corporate worship be cultivated after deliverance or recovery from crisis?",
+    "What does this chapter suggest about logistics and preparedness (provisions, unity) in preventing and resisting injustice?"
+  ],
+  "uncertainAreas": "Correlation of the internal Nephite year-numbers to specific calendar dates outside the Book of Mormon is uncertain; likewise precise chapter-to-chapter connections to other Book of Mormon passages (exact Helaman chapter ranges) are approximate and based on narrative themes rather than explicit cross-references.",
+  "createdAt": "2025-10-19T01:01:55.520Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

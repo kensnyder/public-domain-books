@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Alma.56",
+  "briefOverview": "Helaman reports on the military exploits of two thousand converted young warriors and their role in turning the tide of a desperate battle. The chapter highlights their faith, obedience to covenants, and the strategic movements that led to victory.",
+  "summary": "Helaman writes to Moroni describing how two thousand young men—descendants of Laman who had been converted—took up arms under his leadership to defend Nephite cities, while honoring a prior covenant not to shed their brethren's blood. They join Antipus at the city of Judea, bolster his weakened forces, and prepare defenses and supply lines. Using a feint and a strategic retreat they draw out the strongest Lamanite force, and after a tense multi-day pursuit Helaman's young men, inspired by the faith taught by their mothers, return to engage and help surround the Lamanites. Antipus falls in the battle, but the timely arrival and courage of Helaman's two thousand turn a likely defeat into a rout: the Lamanites surrender and are taken prisoner. Helaman notes with joy that not one of his young warriors was slain and attributes their success to divine strength and the faith instilled in them by their mothers.",
+  "externalContext": "This episode is part of the Book of Mormon's longer narrative of recurring Nephite–Lamanite warfare and internal religious reform. The two thousand youth are commonly identified in the text as the converts associated with Ammon's missionary work among the Lamanites. Military leaders in this period frequently combined tactical maneuvers with appeals to divine help; the narrative reflects ancient Near Eastern and later classical patterns in which small, disciplined forces and morale can change battle outcomes.",
+  "externalReferences": "The origin of these converted Lamanite youth is described earlier in the book during Ammon's missionary labors (see Alma 17–19), and the immediate background—how these two thousand came to be organized and sent—is treated in Alma 53. The narrative of the stripling warriors continues directly in Alma 57–58. The emphasis on maternal instruction here parallels other scriptural attestations about faith passed through family lines (for example, 2 Timothy 1:5, which credits Timothy's faith to his mother and grandmother).",
+  "seeAlso": [
+    "Alma 17:1-50",
+    "Alma 53:1-22",
+    "Alma 57:1-28",
+    "Alma 58:1-12",
+    "2 Timothy 1:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Report and Background"
+    },
+    {
+      "range": "13-33",
+      "title": "Preparations and Stratagem"
+    },
+    {
+      "range": "34-56",
+      "title": "Pursuit and Victory"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Covenant",
+    "Courage",
+    "Maternal influence"
+  ],
+  "practicalQuestions": [
+    "How can communities intentionally teach and reinforce faith in young people as these mothers did?",
+    "When should commitments or covenants limit military or defensive action, and how do we discern that today?",
+    "How do leaders balance prudent strategy with trust in divine help when facing overwhelming odds?",
+    "What responsibilities do families and congregations have to support youth who undertake risky service for the common good?"
+  ],
+  "uncertainAreas": "The text assumes familiarity with earlier conversion events; the precise tie between the two thousand here and the groups described in earlier chapters (numbers, exact origin) relies on cross-references rather than explicit restatement. Also, questions about historicity and dating of the events lie beyond what the chapter itself can resolve.",
+  "createdAt": "2025-10-19T00:48:02.567Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

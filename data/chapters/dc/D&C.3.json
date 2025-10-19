@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "D&C.3",
+  "briefOverview": "A rebuke and call to repentance directed to Joseph for misusing entrusted responsibilities, paired with assurance that God's purposes cannot be thwarted and that the sacred records will be preserved for future conversion.",
+  "summary": "The chapter begins by asserting that God's designs cannot be frustrated and that when things fail it is due to human transgression rather than divine failure. It rebukes a leader who received revelations and power but boasted, followed his own will, and feared men more than God, warning that such behavior brought loss of privileges. The text identifies the recipient as Joseph, reminds him he was chosen for the Lord's work, and urges repentance with the promise that if he does not repent he will be delivered up and lose his gift. It states that Joseph delivered the sacred translation into the hands of a wicked man, which led to a temporary loss of privileges. The chapter closes by affirming that the Lord's work will nevertheless proceed, that knowledge of a Savior will reach various peoples (including the Nephites and Lamanites), and that the plates are preserved so the Lamanites might come to know their fathers and be saved through repentance and Jesus Christ.",
+  "externalContext": "This revelation is connected to the early stages of the translation of the Book of Mormon in the 1820s, when manuscript pages given to an associate were lost; Latter-day Saint histories identify that episode as the loss of the so-called '116 pages.' Doctrine & Covenants is a compilation of revelations received in the early church (published in the 1830s) that often address practical and leadership issues arising in that formative period.",
+  "externalReferences": "The address “Behold, thou art Joseph” echoes the biblical Joseph motif—where Genesis 50:20 treats apparent evil as used by God for good—linking suffering or loss with divine purpose and calling. The assurance that God's counsel cannot be frustrated resonates with passages like Isaiah 46:10, which declares that God's counsel shall stand, framing human failure as distinct from divine intent.",
+  "seeAlso": [
+    "Genesis 50:20",
+    "Isaiah 46:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "God's Purposes vs. Human Failure"
+    },
+    {
+      "range": "7-15",
+      "title": "Admonition to Joseph"
+    },
+    {
+      "range": "16-20",
+      "title": "Preservation and Mission"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Repentance",
+    "Stewardship",
+    "Scriptural mission"
+  ],
+  "practicalQuestions": [
+    "How should contemporary leaders handle entrusted responsibilities to avoid pride and protect what is sacred?",
+    "In what ways can we distinguish genuine divine guidance from following our own will, and how should we respond when we fail?",
+    "How does the assurance that God's purposes cannot be frustrated affect our response to setbacks or mistakes?",
+    "What practices help communities preserve and transmit important texts and promises to future generations?"
+  ],
+  "uncertainAreas": "The text refers to delivery of the translation to a \"wicked man\" but does not name him; historical accounts identify this person, but the revelation itself leaves the figure unnamed. The use of the title \"Joseph\" functions as both a personal address and a typological reference to the biblical Joseph, and the precise range of intended allusions (literal biography vs. typology) can be read in different ways.",
+  "createdAt": "2025-10-19T01:48:37.927Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

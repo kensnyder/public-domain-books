@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Morm.6",
+  "briefOverview": "Mormon records the final gathering and destruction of the Nephites at the hill Cumorah, his effort to preserve sacred records, and his lament over his people’s fall and their coming judgment.",
+  "summary": "Mormon gathers the remaining Nephites at the hill Cumorah by command and with the Lamanite king’s permission, hoping to gain an advantage. After 384 years have passed he collects the survivors, hides most sacred records in the hill Cumorah, and gives a few plates to his son Moroni. The Lamanites attack; nearly all the Nephites are slain, leaving only a handful (twenty-four with Mormon and some scattered survivors). Mormon mourns deeply, addresses the fallen with grief and reproach for abandoning Jesus, and reminds readers of the coming resurrection and judgment, urging that the Father will deal with them according to justice and mercy.",
+  "externalContext": "Within the Book of Mormon narrative Mormon is the principal abridger and military leader in the final days of the Nephite people; tradition places these events in the late fourth century AD. The hill Cumorah figures prominently in the text as both a strategic battlefield and the repository for the engraved plates that later become the Book of Mormon. The repeated pattern of war, covenant-breaking, and prophetic lament is characteristic of the larger Nephite historiographical style.",
+  "externalReferences": "The reference to Jesus who “stood with open arms” echoes the later account of Christ’s post‑resurrection visit to the people in 3 Nephi 11, where he ministers and invites people to come unto him. The teaching about the mortal putting on immortality and standing before the judgment seat parallels resurrection and judgment material found earlier in Alma 11:42–44, which explains the restoration of bodies and final judgment according to works.",
+  "seeAlso": [
+    "3 Nephi 11:1-17",
+    "Alma 11:42-44"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Gathering and Records"
+    },
+    {
+      "range": "7-15",
+      "title": "The Last Battle"
+    },
+    {
+      "range": "16-22",
+      "title": "Lament and Judgment"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Mourning",
+    "Record‑keeping",
+    "Resurrection"
+  ],
+  "practicalQuestions": [
+    "How should communities preserve vital spiritual and historical records today, and why does preservation matter?",
+    "In what ways can mourning for communal failure be turned toward constructive repentance or corrective action?",
+    "How does the promise of resurrection and final judgment shape how we respond to injustice and loss now?",
+    "What responsibilities do leaders have when they foresee an impending communal crisis?"
+  ],
+  "uncertainAreas": "Precise historicity and chronological anchors (e.g., the dating of the 384 years) are internal to the Book of Mormon tradition and cannot be independently verified here. Some place-names and commander identities are specific to the narrative and lack external archaeological confirmation; the exact modern location of the hill Cumorah and its correlation with archaeological sites is debated.",
+  "createdAt": "2025-10-19T01:27:08.307Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

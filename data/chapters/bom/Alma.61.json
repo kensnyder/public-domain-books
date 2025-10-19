@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Alma.61",
+  "briefOverview": "Pahoran replies to Captain Moroni, explaining internal rebellion, defending his motives, and calling for a coordinated military response to preserve liberty.",
+  "summary": "Pahoran reports that while he grieves Moroni’s hardships, many among the people have risen in rebellion, driven him from the judgment-seat, and allied with the Lamanites through a newly appointed king in Zarahemla. He explains that the rebels used flattery to win freemen and withheld provisions, but that many loyalists are rallying to him at Gideon. Pahoran denies seeking power for its own sake, stating his aim is to retain the judgment-seat to protect rights and liberty, and he affirms the justice of resisting wickedness—even by force—when necessary. He urges Moroni to come quickly with forces, leave commanders Lehi and Teancum in charge of the other front, strengthen them in the Lord, and retake Zarahemla to secure provisions and end the rebellion.",
+  "externalContext": "This chapter is part of the Book of Mormon’s narrative of Nephite internal conflict, where civil and military leadership are distinct (a chief judge and a chief captain). Concepts of 'liberty' and avoidance of bondage are recurrent political and religious values in this tradition. The episode reflects common ancient concerns about factionalism, usurpation through flattery, and alliances with external enemies.",
+  "externalReferences": "This reply directly answers Moroni’s earlier epistle (see the preceding chapter in the narrative where Moroni complained about lack of support). The language about defending 'liberty wherewith God hath made us free' echoes earlier appeals to liberty and the Title of Liberty motif in the narrative. The practical and moral defense of warfare here connects with earlier and later military narratives in the same work that treat resistance to Lamanite invasion and internal dissent.",
+  "seeAlso": [],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Pahoran's Situation Report"
+    },
+    {
+      "range": "8-14",
+      "title": "Defense of Liberty"
+    },
+    {
+      "range": "15-21",
+      "title": "Military Instructions"
+    }
+  ],
+  "themes": [
+    "Liberty",
+    "Rebellion",
+    "Leadership",
+    "Warfare"
+  ],
+  "practicalQuestions": [
+    "When is it appropriate for civic leaders to resist internal threats with force, and what safeguards should guide that decision?",
+    "How can leaders demonstrate that they seek office to protect the community rather than for personal power?",
+    "What responsibilities do those in military roles have to support civil authority while preserving the common good?",
+    "How should communities balance the value of liberty with the moral costs of warfare and bloodshed?"
+  ],
+  "uncertainAreas": "The text does not give precise chronology, numbers, or the identity/details of the appointed king and the extent of his alliance with the Lamanites; it is also open to interpretation how literally to apply the statement that God commands resistance rather than submission.",
+  "createdAt": "2025-10-19T00:50:38.231Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

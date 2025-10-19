@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "3Ne.18",
+  "briefOverview": "A risen Jesus institutes a sacramental meal for his followers, gives instructions about prayer, unity, and worthiness, and then ascends to the Father. The chapter emphasizes remembrance, ongoing ritual practice, and pastoral discipline within the community.",
+  "summary": "Jesus commands his disciples to bring bread and wine, blesses and distributes them to the disciples and the multitude as a perpetual ordinance to remember his body and blood and to witness unto the Father; he promises the Spirit to those who always remember him. He instructs that one will be ordained to break and bless the sacrament for the church, and that doing these things establishes one on Christ's rock while deviation leads to spiritual downfall. Jesus commands constant watchfulness and prayer to resist temptation, prescribes praying in families and in church, and urges the community to welcome and minister to all who come. He gives rules about worthiness: those who partake unworthily bring condemnation, yet the community must not cast people out but pray for and minister to repentant sinners; persistent unrepentance excludes a person from being numbered among the people. The chapter closes with Jesus touching each chosen disciple, giving them power to confer the Holy Ghost, then a cloud obscures the multitude as Jesus departs and ascends into heaven.",
+  "externalContext": "Within the Book of Mormon narrative, this scene is presented as Jesus' post-resurrection visit to peoples in the Americas, paralleling his ministry in Jerusalem. The institution of a remembrance meal echoes early Christian Eucharistic practice rooted in the Last Supper tradition, while communal meals and covenant rituals were familiar in ancient Mediterranean and Jewish contexts. Issues of worthiness and church discipline reflect concerns common to early Christian communities about unity, moral conduct, and safeguarding the community from disruption.",
+  "externalReferences": "The institution of bread and wine as remembrance of Jesus' body and blood closely parallels the Last Supper accounts and early Eucharistic formulations (see Matthew 26:26–28; Luke 22:19–20; 1 Corinthians 11:23–26). The exhortation to 'watch and pray' to avoid temptation resembles Jesus' admonition in Gethsemane (Matthew 26:41). The image of building on rock versus sand is comparable to the teaching in Matthew 7:24–27. The warning that Satan may 'sift you as wheat' parallels language used about spiritual testing in Luke 22:31–32.",
+  "seeAlso": [
+    "Matthew 26:26-28",
+    "Luke 22:19-20",
+    "1 Corinthians 11:23-26",
+    "Matthew 7:24-27",
+    "Matthew 26:41",
+    "Luke 22:31-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Institution of Sacrament"
+    },
+    {
+      "range": "12-34",
+      "title": "Commands on Prayer and Discipline"
+    },
+    {
+      "range": "35-39",
+      "title": "Commissioning and Ascension"
+    }
+  ],
+  "themes": [
+    "Sacrament",
+    "Remembrance",
+    "Prayer",
+    "Church discipline"
+  ],
+  "practicalQuestions": [
+    "How should modern congregations balance invitation to worship with concerns about worthiness when administering sacraments?",
+    "What practices help individuals and families 'always remember' Christ as described here?",
+    "How can communities 'minister unto' those who have behaved poorly without excluding them prematurely?",
+    "What regular disciplines (prayer, meeting together) help guard against temptation in contemporary life?"
+  ],
+  "uncertainAreas": "The precise theological meaning of 'flesh and blood' here (symbolic, sacramental presence, or both) is not fully specified in the text. The term 'synagogues' and some institutional language may reflect Book of Mormon usage rather than direct equivalence with first-century Jewish institutions; dating and historical correlations depend on the broader Book of Mormon framework rather than internal chapter evidence.",
+  "createdAt": "2025-10-19T01:08:01.155Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

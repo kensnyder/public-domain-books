@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "3Ne.26",
+  "briefOverview": "Jesus summarizes and expounds his teachings, explains why only a portion is recorded, and describes the formation and practice of the early Nephite church.",
+  "summary": "Jesus tells the gathered people that he has expounded all things to them and that additional scriptures were given to be preserved for future generations. He outlines a sweeping timeline—from his earthly ministry through final judgment and two resurrections—and emphasizes that only a small part of his teachings are written in this book. Mormon explains that the plates of Nephi contain many of the teachings he could not include, and that he was commanded to record a lesser portion as a test of future readers' faith. Jesus ministers repeatedly—breaking bread, blessing, and teaching—and he causes children to speak marvels (which were not to be written). After his ascension the disciples baptize and teach; those baptized receive the Holy Ghost, witness some unspeakable manifestations, live in economic sharing, and form the church of Christ.",
+  "externalContext": "Within the Book of Mormon narrative, Mormon is presented as a later editor/compiler who abridged earlier records (the \"plates of Nephi\") to produce the surviving text. The scene depicts a claimed post‑resurrection visit of Jesus to peoples in the Western Hemisphere, a distinctive claim of Latter‑day Saint scripture. The practice of keeping important records on metal plates and passing them along by prophetic custodians is a recurring literary motif in this corpus.",
+  "externalReferences": "The chapter echoes New Testament themes: Jesus breaking bread and blessing is reminiscent of Luke’s resurrection appearances (e.g., Luke 24:30–31), and the pattern of baptizing and receiving the Holy Ghost parallels Acts 2 (Peter’s call to be baptized to receive the Spirit). The description of final judgment and two kinds of resurrection resonates with passages such as John 5:28–29. The editorial role claimed by Mormon and the mention of earlier plates correspond to other Book of Mormon passages that describe record keeping and abridgment (e.g., the book’s front matter and Words of Mormon).",
+  "seeAlso": [
+    "Luke 24:30-31",
+    "Acts 2:38",
+    "John 1:1-3",
+    "John 5:28-29",
+    "Matthew 28:18-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Jesus' Teaching and Records"
+    },
+    {
+      "range": "13-21",
+      "title": "Ministry and Church Order"
+    }
+  ],
+  "themes": [
+    "Revelation",
+    "Judgment and Resurrection",
+    "Scriptural Recordkeeping",
+    "Community"
+  ],
+  "practicalQuestions": [
+    "How should individuals and communities respond when sacred teachings are given only in part or as a test of faith?",
+    "What practices (study, worship, communal sharing) help a community live out Jesus’ injunctions as described here?",
+    "How can modern readers balance respect for tradition with critical study when portions of a tradition are withheld or abridged?",
+    "In what ways does the description of being \"filled with the Holy Ghost\" shape expectations for conversion and baptism today?"
+  ],
+  "uncertainAreas": "The text repeatedly refers to teachings and events ‘‘not lawful to be written’’ or withheld as a test; the precise content and nature of these withheld or unspeakable matters is unspecified. Also uncertain from the chapter alone are the exact scope and location of the ‘‘plates of Nephi’’ material referenced and how Mormon’s editorial decisions were made in detail.",
+  "createdAt": "2025-10-19T01:11:47.194Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

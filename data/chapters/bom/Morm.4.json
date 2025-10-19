@@ -1,0 +1,35 @@
+{
+  "chapterOsisID": "Morm.4",
+  "briefOverview": "A military narrative recording repeated Nephite defeats by the Lamanites, growing wickedness, and Mormon's retrieval of hidden records.",
+  "summary": "The chapter recounts a sequence of wars in which Nephite armies repeatedly attack and are driven back by the numerically superior Lamanites; key cities named include Desolation, Teancum, Boaz, and others. Battles produce heavy slaughter on both sides, and the Nephites alternate between boasting in their own strength and failing to repent, while many hearts are hardened and people delight in bloodshed. The Lamanites capture cities, take prisoners, and—according to the narrator—sacrifice women and children to idols, which provokes a subsequent Nephite counterattack in anger. Ultimately the Nephites lose power and are swept away; Mormon, seeing the imminent overthrow, goes to Hill Shim and takes up records that Ammaron had hidden.",
+  "externalContext": "Within Book of Mormon tradition, Mormon is both a military leader and the principal compiler/recorder of these events; his narrative here functions as both history and moral interpretation. The place-names (Desolation, Teancum, Boaz) and the dating by year-number reflect the internal chronology of the Book of Mormon narrative, placed by its tradition in a pre-Columbian New World setting. The practice of preserving records in hidden deposits (hills, etc.) is a recurring feature in the text and reflects ancient concerns about preserving sacred and historical documents during times of collapse.",
+  "externalReferences": "The retrieval of records from Ammaron connects with earlier Book of Mormon material in which Ammaron is said to have hidden records and instructed a young Mormon about them (see Mormon 1). The moral pattern—cycles of prosperity, pride, wickedness, judgment, and sporadic repentance—recurs elsewhere in the Book of Mormon narrative (for example, Helaman and Alma narratives) as an interpretive lens for military and social events.",
+  "seeAlso": [
+    "Mormon 1:3-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Battles and Captures"
+    },
+    {
+      "range": "15-23",
+      "title": "Slaughter, Wickedness, Records"
+    }
+  ],
+  "themes": [
+    "War",
+    "Judgment",
+    "Pride",
+    "Records"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when leaders or populations grow proud after military or economic success?",
+    "What responsibilities do societies have to protect vulnerable people (women and children) during conflict?",
+    "How can we preserve important historical or moral records in times of social collapse?",
+    "What does this account suggest about the relationship between collective sin and communal suffering?"
+  ],
+  "uncertainAreas": "Uncertainty about whether descriptions (especially the alleged sacrifices 'unto their idol gods') are literal events or rhetorical/ polemical language; precise historical/geographical identification of places like Desolation, Teancum, and Boaz; and the fuller provenance and dating of Ammaron's hiding of the records beyond the internal Book of Mormon tradition.",
+  "createdAt": "2025-10-19T01:26:14.024Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

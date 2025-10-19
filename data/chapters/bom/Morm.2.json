@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Morm.2",
+  "briefOverview": "Mormon records his military leadership during renewed wars with the Lamanites and mourns the people's continued wickedness despite moments of repentance.",
+  "summary": "Mormon, appointed a military leader while young, leads the Nephites through a series of battles, fortifications, retreats, and occasional victories against Lamanite armies and robbers. Cities named include Angola, David, Joshua, Jashon, and Shem; the people repeatedly fortify and lose ground. A temporary wave of mourning and apparent repentance follows prophetic warnings, but Mormon judges this sorrow to be superficial and not true repentance. He records taking the plates of Nephi per Ammaron's instructions and laments that the day of grace has passed for many, seeing thousands slain. The narrative ends with renewed fighting, the recovery of some lands, and finally a treaty dividing north and south between Nephites and Lamanites.",
+  "externalContext": "The Book of Mormon presents itself as a chronicle of ancient peoples in the Americas; modern readers typically treat its events as part of a religious narrative rather than independently verifiable history. The motif of a prophet-soldier (a religious leader who also commands armies) and the recurring problem of secret combinations or robber bands (the Gadianton robbers) reflect concerns about internal corruption and social collapse common in ancient historiography. Record-keeping on metal plates and the transmission of sacred records (Ammaron, the plates of Nephi) is a persistent cultural element in this work.",
+  "externalReferences": "The chapter explicitly cites mourning that occurred “as had been prophesied by Samuel the prophet,” which connects to Samuel the Lamanite's prophecies recorded earlier in the Book of Mormon (see Helaman 13–16). The Gadianton robbers, mentioned here as allies of the Lamanites, are a recurring adversary throughout the Book of Mormon narratives (introduced and developed in the Helaman narratives).",
+  "seeAlso": [
+    "Helaman 13-16",
+    "Helaman 2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Early Campaigns and Losses"
+    },
+    {
+      "range": "10-15",
+      "title": "False Repentance and Lament"
+    },
+    {
+      "range": "16-29",
+      "title": "Records, Battles, Treaty"
+    }
+  ],
+  "themes": [
+    "Warfare",
+    "Leadership",
+    "Repentance",
+    "Records"
+  ],
+  "practicalQuestions": [
+    "When leaders are young and entrusted with responsibility, what supports and checks should a community provide?",
+    "How can a community distinguish between genuine repentance and remorse that does not lead to change?",
+    "What responsibilities do defenders have to protect families and homes while avoiding escalation into cycles of violence?",
+    "How should religious communities preserve and transmit important records and teachings for future generations?"
+  ],
+  "uncertainAreas": "Uncertainties include the historicity and precise chronology of the events and place-names, the fuller context for Ammaron’s instructions elsewhere in the record, and some narrative gaps about the identity and wider role of figures like the Lamanite king Aaron.",
+  "createdAt": "2025-10-19T01:25:17.098Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

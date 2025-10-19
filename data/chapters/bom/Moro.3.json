@@ -1,0 +1,35 @@
+{
+  "chapterOsisID": "Moro.3",
+  "briefOverview": "A brief liturgical formula and procedure for ordaining priests and teachers in the church, emphasizing prayer, laying on of hands, and commissioning to preach repentance and remission of sins.",
+  "summary": "The chapter gives the procedure by which disciples called elders ordained priests and teachers. After praying to the Father in the name of Christ, they laid hands on the ordinands and pronounced a formula: in the name of Jesus Christ I ordain you to be a priest (or teacher) to preach repentance and remission of sins through endurance of faith to the end. The ordinations were performed according to the gifts and callings of God and by the power of the Holy Ghost present with the officiants.",
+  "externalContext": "Laying on of hands as a means of setting apart leaders and conveying blessing or authority is attested in Second Temple Jewish and early Christian practices and appears in several New Testament contexts. The chapter comes from Moroni, the final compiler in the Book of Mormon tradition, and belongs to a section that records institutional instructions for the Nephite church.",
+  "externalReferences": "The use of laying on of hands for appointment or blessing parallels New Testament passages such as Acts 6:6 (appointing the seven) and instructions about spiritual gifts and laying on of hands in 1 Timothy 4:14 and 2 Timothy 1:6. The emphasis on preaching repentance and remission of sins echoes Acts 2:38 and other apostolic preaching about repentance in the early church. The call to endurance of faith until the end corresponds to sayings about perseverance such as Matthew 24:13 and is in keeping with adjacent Book of Mormon material that outlines ecclesiastical order (see Moroni 2).",
+  "seeAlso": [
+    "Acts 6:6",
+    "1 Timothy 4:14",
+    "2 Timothy 1:6",
+    "Acts 2:38",
+    "Matthew 24:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Ordination of Priests and Teachers"
+    }
+  ],
+  "themes": [
+    "Ordination",
+    "Authority",
+    "Repentance",
+    "Endurance"
+  ],
+  "practicalQuestions": [
+    "How does my community discern and confirm the 'gifts and callings' of individuals for leadership today?",
+    "What practices in our tradition correspond to laying on of hands, and how do we understand their purpose?",
+    "How can ministers emphasize both repentance/remission of sins and the call to endure in practical teaching and pastoral care?",
+    "What safeguards or communal practices can ensure ordination is accompanied by evident spiritual authority (the Holy Ghost)?"
+  ],
+  "uncertainAreas": "Degree of continuity between the terms 'priest' and 'teacher' here and similarly named offices in other traditions is ambiguous; the text does not specify who assesses gifts and callings beyond saying it was done 'according to the gifts and callings of God.' The precise historical setting and ritual details beyond the brief formula are not provided in the chapter.",
+  "createdAt": "2025-10-19T01:39:39.946Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

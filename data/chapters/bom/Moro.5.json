@@ -1,0 +1,35 @@
+{
+  "chapterOsisID": "Moro.5",
+  "briefOverview": "A short sacramental prayer asking God to bless and sanctify the cup so participants may remember Christ's blood and receive His Spirit.",
+  "summary": "The passage records the wording used when administering the wine in the sacrament: the participants take the cup and pray to God the Eternal Father, in the name of Jesus Christ, asking that the wine be sanctified to those who drink it so they will remember the blood of Christ and have His Spirit with them. The prayer emphasizes remembrance of Christ and a witness to God that the participants will always remember Him.",
+  "externalContext": "This text appears in the Book of Mormon (Moroni), a work presented as a compilation of ancient American religious records and used as scripture in the Latter‑day Saint tradition. The prayer functions as a liturgical formula for the sacrament and parallels early Christian Eucharistic language about the cup and blood of Christ. In modern Latter‑day Saint practice the same ritual significance is retained, though the usual emblems differ (water replacing wine in many contexts).",
+  "externalReferences": "The language about the cup and remembering Christ's blood echoes New Testament accounts of the Last Supper (e.g., Luke 22:19–20; Matthew 26:27–28) and Pauline instructions about the Lord's Supper (1 Corinthians 11:23–26). Within the Book of Mormon, Jesus institutes a similar sacrament among the Nephites (3 Nephi 18:7–11), and Moroni contains the companion prayer for the bread (Moroni 4).",
+  "seeAlso": [
+    "Luke 22:19-20",
+    "Matthew 26:27-28",
+    "1 Corinthians 11:23-26",
+    "3 Nephi 18:7-11",
+    "Moroni 4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Prayer over the Cup"
+    }
+  ],
+  "themes": [
+    "Sacrament",
+    "Remembrance",
+    "Atonement",
+    "Prayer"
+  ],
+  "practicalQuestions": [
+    "How can communal rituals like the sacrament help individuals regularly remember and internalize the meaning of Christ's atonement?",
+    "In what ways should language about 'blood' and 'remembrance' shape contemporary teaching about forgiveness and sacrifice?",
+    "How can a congregation prepare participants to receive the sacrament in a way that invites 'His Spirit' as the prayer requests?",
+    "If local custom or law limits use of wine, how can communities preserve the prayer's theological meaning while adapting the emblems?"
+  ],
+  "uncertainAreas": "Uncertainty exists about historical particulars (original musical or liturgical setting) and whether the term 'wine' reflects ancient practice or later translational choices; likewise, the text is presented as a formulaic prayer, so degrees of variation in live practice are not specified.",
+  "createdAt": "2025-10-19T01:40:20.666Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
