@@ -39,6 +39,7 @@ type OurData = {
   workOsisID: string;
   bookOsisID: string;
   bookGroups: string[];
+  chapterTitle: string;
   chapterNumber: number;
   chapterOsisID: string;
   verseNumber: number;
@@ -85,12 +86,14 @@ async function main() {
       const bookGroups = meta.groups;
       const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
       const verseOsisID = `${bookOsisID}.${chapterNumber}.${verseNumber}`;
+      const chapterTitle = parts[0] === 'Sirach Prologue' ? 'Prologue' : `Chapter ${chapterNumber}`;
       const verseText = text;
       const verseLanguage = 'en';
       ourData.push({
         workOsisID,
         bookOsisID,
         bookGroups,
+        chapterTitle,
         chapterNumber,
         chapterOsisID,
         verseNumber,

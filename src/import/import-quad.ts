@@ -6,7 +6,7 @@ main().catch(console.error);
 const works = {
   'The Old Testament': { file: `${import.meta.dir}/../../data/verses/old-testament.json`, workOsisID: "kjv", workName: 'Bible', data: [] as OurData[] },
   'The New Testament': { file: `${import.meta.dir}/../../data/verses/new-testament.json`, workOsisID: "kjv", workName: 'Bible', data: [] as OurData[] },
-  'The Doctrine and Covenants': { file: `${import.meta.dir}/../../data/verses/d-and-c.json`, workOsisID: "D&C", workName: 'Doctrine & Covenants', data: [] as OurData[] },
+  'The Doctrine and Covenants': { file: `${import.meta.dir}/../../data/verses/dc.json`, workOsisID: "D&C", workName: 'Doctrine & Covenants', data: [] as OurData[] },
   'The Book of Mormon': { file: `${import.meta.dir}/../../data/verses/bom.json`, workOsisID: "BofM", workName: 'Book of Mormon', data: [] as OurData[] },
   'The Pearl of Great Price': { file: `${import.meta.dir}/../../data/verses/pgp.json`, workOsisID: "PGP", workName: 'Pearl of Great Price', data: [] as OurData[] },
 };
@@ -26,6 +26,7 @@ type OurData = {
   bookOsisID: string;
   bookGroups: string[];
   chapterNumber: number;
+  chapterTitle: string;
   chapterOsisID: string;
   verseNumber: number;
   verseOsisID: string;
@@ -48,9 +49,6 @@ async function main() {
   const text = await res.text();
   const fixed = text.replace(/\\\\"/g, '\\"');
   let verses = JSON.parse(fixed) as unknown as RemoteData[];
-  verses = verses.filter(
-    (v) => v.volume_long_title === 'The Pearl of Great Price',
-  );
 
   let verseSequence = -1;
   let lastWork = '';
@@ -75,6 +73,7 @@ async function main() {
     const bookOsisID = book.osisID;
     const bookGroups = book.groups;
     const chapterNumber = parseInt(verse.chapter_number, 10);
+    const chapterTitle = workOsisID === 'D&C' ? `Section ${chapterNumber}` : `Chapter ${chapterNumber}`;
     const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
     const verseNumber = parseInt(verse.verse_number, 10);
     const verseOsisID = `${bookOsisID}.${chapterNumber}.${verseNumber}`;
@@ -84,6 +83,7 @@ async function main() {
       workOsisID,
       bookOsisID,
       bookGroups,
+      chapterTitle,
       chapterNumber,
       chapterOsisID,
       verseNumber,
