@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Did.6",
+  "briefOverview": "A warning to remain faithful to the Teaching, urging full commitment where possible while allowing graded observance—especially strict avoidance of food sacrificed to idols.",
+  "summary": "The community is cautioned not to be led astray from the established Teaching, which conveys God’s way. Ideal discipleship is described as bearing the full “yoke of the Lord,” though those unable to do so are told to do what they can. Regarding food, believers should endure what they are able, yet be extremely careful to avoid anything sacrificed to idols, since such participation serves lifeless gods.",
+  "externalContext": "The Didache is an early Christian manual (often dated late first to early second century) reflecting Jewish-Christian ethics and communal practice. In the Greco-Roman world, meat from pagan sacrifices commonly entered markets and social meals, creating a practical dilemma for Christians seeking to avoid idolatry. The term “yoke” was used in Jewish contexts for submission to God’s rule or Torah, framing discipleship as taking on obligations. Early Christian communities often set clear boundary markers to distinguish worship of the one God from pervasive civic cults, with idolatry as a chief concern.",
+  "externalReferences": "The strict caution about idol-offered food resonates with the Jerusalem decree to Gentile believers to abstain from food sacrificed to idols (Acts 15:28–29). Paul addresses similar issues, balancing knowledge and conscience while warning against idolatry (1 Corinthians 8:1–13; 10:14–22, 27–29). The denunciation of idolatry aligns with Revelation’s rebukes of communities tolerating eating food sacrificed to idols (Revelation 2:14, 20) and echoes psalms describing idols as lifeless (Psalm 115:4–8; 135:15–18). The “yoke” language recalls Jesus’ call to take his yoke (Matthew 11:29–30), here framed as an ideal of full obedience with pastoral allowance for partial observance.",
+  "seeAlso": [
+    "Acts 15:28-29",
+    "1 Corinthians 8:1-13",
+    "1 Corinthians 10:14-22",
+    "1 Corinthians 10:27-29",
+    "Revelation 2:14",
+    "Revelation 2:20",
+    "Psalm 115:4-8",
+    "Psalm 135:15-18",
+    "Matthew 11:29-30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Hold to Teaching; Avoid Idols"
+    }
+  ],
+  "themes": [
+    "Fidelity to teaching",
+    "Yoke of the Lord",
+    "Idolatry avoidance",
+    "Discernment"
+  ],
+  "practicalQuestions": [
+    "Where do I need to grow to bear more of the Lord’s yoke, and what can I faithfully do now?",
+    "What contemporary practices or social settings might function like participation in idolatry, and how should I avoid them?",
+    "How do I discern when the Teaching allows flexibility versus when it demands strict refusal?",
+    "How might my eating or cultural participation influence my allegiance to God and the example I set for others?",
+    "What safeguards help prevent me or my community from being led astray from core instruction?"
+  ],
+  "uncertainAreas": "The phrase “since apart from God it teaches you” is textually ambiguous, and translations vary; its precise nuance (source/authority of the Teaching) is not entirely clear. The scope of “bear what you are able” regarding food is undefined—whether it refers to fasting practices, communal regulations, or broader dietary scruples. The level of strictness about idol-offered food in various social scenarios is not specified here and must be inferred in light of parallel early Christian discussions.",
+  "createdAt": "2025-10-20T12:31:42.290Z",
+  "modelId": "gpt-5-2025-08-07"
+}

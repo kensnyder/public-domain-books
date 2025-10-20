@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Did.9",
+  "briefOverview": "Instruction on how to give thanks over the Eucharistic cup and bread, emphasizing unity and restricting participation to the baptized.",
+  "summary": "The chapter prescribes prayers of thanksgiving for the Eucharist, beginning with the cup and then the broken bread, acknowledging God as Father and Jesus as His servant through whom life, knowledge, and the promised vine of David are revealed.\nIt uses the image of scattered bread gathered into one loaf to pray that the Church be gathered from the ends of the earth into God’s kingdom, giving glory to God through Jesus Christ forever.\nIt instructs that only those baptized in the Lord’s name may partake, grounding this restriction in the Lord’s saying, “Do not give what is holy to dogs.”",
+  "externalContext": "The Didache is an early Christian teaching manual, commonly dated to the late first or early second century, likely emerging from a Jewish-Christian milieu in Syria or Palestine. Its Eucharistic prayers reflect the structure and tone of Jewish berakhah (blessing/thanksgiving) prayers adapted for Christian worship. Early Christian communities often maintained a disciplined boundary around the Eucharist, admitting only baptized believers, a practice later termed the “discipline of the arcana.” The emphasis on thanksgiving (eucharistia) highlights the meal as an act of praise and covenantal remembrance rather than a detailed doctrinal exposition.",
+  "externalReferences": "The prohibition against allowing the unbaptized to partake cites Jesus’ teaching, “Do not give what is holy to dogs” (Matthew 7:6). The order and language of cup and bread resonate with Paul’s discussion of the “cup of blessing” and “the bread that we break,” and the unity created by sharing the one bread (1 Corinthians 10:16–17).\nThe title “Jesus Thy Servant” echoes the New Testament’s use of “holy servant (pais) Jesus” (Acts 4:27, 30), which itself evokes the servant imagery of Isaiah. The vine imagery connects broadly with biblical themes of vine/Israel and Christ the true vine (Psalm 80:8–15; John 15:1), while the hope that the Church be gathered “from the ends of the earth” parallels prophetic restoration language (Isaiah 43:6).",
+  "seeAlso": [
+    "Matthew 7:6",
+    "1 Corinthians 10:16-17",
+    "Acts 4:27-30",
+    "John 15:1-5",
+    "Psalm 80:8-15",
+    "Isaiah 43:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Eucharistic prayer and discipline"
+    }
+  ],
+  "themes": [
+    "Eucharistic thanksgiving",
+    "Church unity",
+    "Baptismal boundaries",
+    "Jesus as Servant"
+  ],
+  "practicalQuestions": [
+    "How can our Eucharistic prayers more intentionally express gratitude for “life and knowledge” given through Jesus?",
+    "In what tangible ways can our community embody the unity signified by sharing one bread?",
+    "What criteria should guide participation in Communion, and how can we communicate them pastorally?",
+    "Do our worship practices give God glory first, as this prayer models, before asking for anything else?",
+    "How does the image of being gathered from the ends of the earth shape our mission and inclusivity toward baptized believers globally?"
+  ],
+  "uncertainAreas": "The precise meaning of “the holy vine of David” is not fully clear—whether it refers to Israel, the Davidic messianic line, or a liturgical idiom. The rationale for placing the cup before the bread may reflect an early tradition but cannot be firmly tied to a specific liturgical setting from this text alone. The phrase about bread “scattered over the hills” likely refers to grain but lacks an explicit biblical source; its scriptural allusions are suggestive rather than certain.",
+  "createdAt": "2025-10-20T12:33:50.048Z",
+  "modelId": "gpt-5-2025-08-07"
+}

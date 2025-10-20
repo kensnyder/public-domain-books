@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Did.15",
+  "briefOverview": "Guidance for appointing and honoring local leaders, practicing peaceful correction and communal discipline, and conducting worship and charity according to the Gospel.",
+  "summary": "The community is instructed to appoint bishops and deacons who are meek, free from love of money, truthful, and proven, since they serve functions akin to prophets and teachers and are to be honored alongside them. Members are to reprove one another peacefully, as taught in the Gospel. Anyone who wrongs another is to be socially cut off from the community—neither addressed nor listened to—until repentance. All prayers, almsgiving, and deeds are to be carried out in accordance with the Gospel of the Lord.",
+  "externalContext": "The Didache is an early Christian manual, often dated to the late first or early second century, offering practical instructions for worship, leadership, and community life. Early Christian communities commonly met in homes, with local oversight by episkopoi (bishops/overseers) and diakonoi (deacons) as leadership structures developed. Traveling charismatic ministers such as prophets and teachers also circulated among churches, sometimes creating a need to integrate local and itinerant authority. Communal discipline, including temporary exclusion until repentance, was a known practice in both Jewish and early Christian settings to protect communal integrity and encourage restoration.",
+  "externalReferences": "The qualifications and appointment of bishops and deacons parallel instructions in 1 Timothy 3:1–13 and Titus 1:5–9. The call to respect local leaders resonates with 1 Thessalonians 5:12–13 and Hebrews 13:17. Procedures for correction and temporary exclusion echo Matthew 18:15–17 and are consistent with disciplinary practices in 1 Corinthians 5:1–5 and 2 Thessalonians 3:14–15. The directive to perform prayers and alms as in the Gospel recalls Jesus’ teaching on almsgiving and prayer in Matthew 6:1–18.",
+  "seeAlso": [
+    "1 Timothy 3:1-13",
+    "Titus 1:5-9",
+    "1 Thessalonians 5:12-13",
+    "Hebrews 13:17",
+    "Matthew 18:15-17",
+    "1 Corinthians 5:1-5",
+    "2 Thessalonians 3:14-15",
+    "Matthew 6:1-18",
+    "Acts 13:1",
+    "Ephesians 4:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Local leaders and discipline"
+    }
+  ],
+  "themes": [
+    "Church leadership",
+    "Peaceful correction",
+    "Discipline and repentance",
+    "Gospel-shaped practice"
+  ],
+  "practicalQuestions": [
+    "What concrete criteria should our community use to discern and appoint leaders of proven character?",
+    "How can we correct one another in ways that are firm yet peaceful and restorative?",
+    "What processes should be in place to address interpersonal wrongdoing and to welcome back the repentant?",
+    "Do our patterns of prayer, giving, and service align with the teachings of the Gospel or with mere custom?",
+    "How can we honor both local leaders and other ministers without elevating personalities above the community’s well-being?"
+  ],
+  "uncertainAreas": "The phrase about bishops and deacons rendering the service of prophets and teachers could mean they share similar functions or that they serve alongside such figures; the scope of the social cutoff (“let no one speak…nor let him hear anything from you”) is also unclear in duration and application. The reference to doing deeds “as you have it in the Gospel” is unspecified and may allude to particular teachings (e.g., on prayer and almsgiving) without naming them.",
+  "createdAt": "2025-10-20T12:38:28.683Z",
+  "modelId": "gpt-5-2025-08-07"
+}

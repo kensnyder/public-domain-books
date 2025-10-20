@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Did.1",
+  "briefOverview": "The chapter introduces the “Two Ways,” defining the Way of Life through love of God and neighbor, enemy-love, non-retaliation, and discerning generosity.",
+  "summary": "The text contrasts two paths—life and death—and then defines the Way of Life. It commands love for God and one’s neighbor, articulating a negative form of the Golden Rule. It urges blessing and prayer for enemies, resisting retaliation by turning the other cheek, going the second mile, and yielding possessions without demanding them back. It calls for generous giving to anyone who asks, yet warns recipients against taking without need and envisions judgment for dishonest receiving. It concludes with counsel to let alms “sweat” in one’s hands until the giver discerns the worthy recipient, balancing liberality with prudence.",
+  "externalContext": "The Didache is an early Christian teaching manual, commonly dated to the late first or early second century, likely used to instruct converts before baptism. Its opening “Two Ways” framework echoes Jewish wisdom traditions and communal rules that contrast righteous and wicked paths (a motif also found at Qumran). The command to go a second mile reflects Roman angareia, the legal impressment of civilians to carry loads. In the Greco-Roman world, almsgiving was practiced within systems of patronage and public benefaction; Christian teaching recast it as an expression of charity and righteousness, often with eschatological accountability.",
+  "externalReferences": "The love commands reflect Deuteronomy 6:5 and Leviticus 19:18 as summarized by Jesus (e.g., Matthew 22:37–39), and the negative Golden Rule aligns with Tobit 4:15. The instructions on non-retaliation, turning the other cheek, going the extra mile, and giving without demanding return clearly parallel Jesus’ Sermon on the Mount/Plain (Matthew 5:38–48; 5:41–42; Luke 6:27–30). The warning about confinement until the last penny is paid echoes Matthew 5:25–26. The caution to discern recipients of alms resonates with Sirach 12:1–5, which counsels prudence in charity.",
+  "seeAlso": [
+    "Deuteronomy 6:5",
+    "Leviticus 19:18",
+    "Tobit 4:15",
+    "Matthew 5:38-48",
+    "Matthew 5:41-42",
+    "Matthew 5:25-26",
+    "Luke 6:27-30",
+    "Sirach 12:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "The Way of Life"
+    }
+  ],
+  "themes": [
+    "Two ways",
+    "Love of God",
+    "Enemy love",
+    "Non-retaliation",
+    "Generous giving"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to limit love to those who love me, and how can I practice enemy-love in concrete ways?",
+    "How can I respond non-retaliatorily to insult or coercion without enabling injustice?",
+    "What practices (prayer, fasting) help me bless those who wrong me rather than react in kind?",
+    "How do I give freely while also discerning genuine need and avoiding complicity in exploitation?",
+    "What would it look like to hold possessions loosely, refusing to demand repayment?"
+  ],
+  "uncertainAreas": "The scope of “give to everyone who asks” versus the final counsel to discern recipients creates tension about unconditional giving; also, “coming into confinement” may refer to divine judgment, civil imprisonment, or communal discipline.",
+  "createdAt": "2025-10-20T12:27:45.932Z",
+  "modelId": "gpt-5-2025-08-07"
+}

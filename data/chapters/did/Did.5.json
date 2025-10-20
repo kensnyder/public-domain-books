@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Did.5",
+  "briefOverview": "A stark catalogue of behaviors marking the “way of death,” contrasted implicitly with the way of life. The chapter urges readers to shun these vices and be delivered from them.",
+  "summary": "The text defines the “way of death” as a comprehensive array of moral evils, beginning with violent and sexual sins and extending to idolatry, occult practices, deceit, pride, greed, and harmful speech. It also condemns social injustice and lack of compassion: persecuting the good, hating truth, loving falsehood, refusing mercy to the poor and afflicted, and showing partiality toward the rich while judging the poor unjustly. The list includes especially grave wrongs such as murdering children and destroying God’s handiwork. The section concludes with an exhortation to be delivered from all such practices.",
+  "externalContext": "The Didache is an early Christian catechetical text, likely compiled in the late first or early second century, used to instruct new converts. Its opening “Two Ways” framework—way of life versus way of death—draws on Jewish wisdom traditions and was also known in some Second Temple Jewish communities. Vice catalogues like this were common in Greco-Roman moral discourse and in early Christian paraenesis, helping communities define boundaries and virtues. The mention of magic arts and witchcraft likely reflects a world where ritual magic and divination were widespread. References to injustice toward the poor align with Jewish prophetic critiques of corrupt judges and social partiality.",
+  "externalReferences": "The “Two Ways” motif echoes scriptural choices set before Israel, such as Deuteronomy 30:15–20 and Jeremiah 21:8, as well as the wisdom contrast of paths in Psalm 1. The vice list parallels New Testament catalogues of sins (e.g., Galatians 5:19–21; 1 Corinthians 6:9–10), and the condemnation of loving falsehood recalls Revelation 21:8. The denunciation of partiality and unjust judgment resonates with James 2:1–7 and with Torah prohibitions against perverting justice for the poor (Exodus 23:6).",
+  "seeAlso": [
+    "Deuteronomy 30:15-20",
+    "Jeremiah 21:8",
+    "Psalm 1:1-6",
+    "Galatians 5:19-21",
+    "1 Corinthians 6:9-10",
+    "James 2:1-7",
+    "Exodus 23:6",
+    "Revelation 21:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Catalogue of the Way of Death"
+    }
+  ],
+  "themes": [
+    "Two Ways",
+    "Vices",
+    "Justice and mercy",
+    "Idolatry"
+  ],
+  "practicalQuestions": [
+    "Which items in this list most tempt me, and what concrete steps can I take this week to avoid them?",
+    "How can I cultivate truthfulness when my environment rewards exaggeration or deceit?",
+    "Where might I be showing partiality to the wealthy or influential rather than advocating for the poor and afflicted?",
+    "What practices can replace revenge and resentment with meekness and endurance?",
+    "How should I respond to social norms that tolerate harmful practices the text condemns?"
+  ],
+  "uncertainAreas": "The precise nuances of several terms depend on translation (e.g., magic arts/witchcrafts, over-confidence/loftiness), and “murderers of children” could refer to abortion, exposure, or infanticide in the ancient context; the text does not specify. The single-verse structure limits clarity on how these items are grouped or prioritized.",
+  "createdAt": "2025-10-20T12:30:43.819Z",
+  "modelId": "gpt-5-2025-08-07"
+}

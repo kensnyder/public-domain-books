@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Did.3",
+  "briefOverview": "A catechetical warning against vices that lead to greater sins, paired with a call to humility, meekness, and trust in God’s providence.",
+  "summary": "The chapter urges the reader to flee not only evil but even its likeness, showing how inner dispositions (anger, jealousy, lust, deceit, greed, murmuring) breed grave sins like murder, fornication, theft, idolatry, and blasphemy. It specifically forbids practices associated with divination and astrology as pathways to idolatry. Positively, it commends meekness, patience, compassion, guilelessness, gentleness, goodness, reverence for received words, and humility. The reader is told to associate with the just and lowly rather than the proud and to accept all circumstances as coming under God’s governance.",
+  "externalContext": "The Didache is an early Christian teaching manual, commonly dated to the late first or early second century, likely from a Syrian or broader eastern Mediterranean context. Its opening section (often called the Two Ways) draws on a Jewish moral tradition contrasting the way of life with the way of death and was used to instruct catechumens. Prohibitions against divination, omens, and astrology reflect Jewish law and distinguish Christians from common Greco-Roman religious practices. Emphasis on meekness and humility aligns with early Christian reception of Jesus’ teachings and community formation.",
+  "externalReferences": "The causal linkage of inner attitudes to grave sins echoes Jesus’ Sermon on the Mount, where anger relates to murder and lust to adultery (Matthew 5:21–22, 27–28). “The meek shall inherit the earth” quotes or echoes Psalm 37:11 and is reiterated by Jesus in Matthew 5:5. The bans on omens and enchantments align with Deuteronomy 18:10–12, while “trembling at the words” resembles Isaiah 66:2, and the affirmation of God’s providence parallels Jesus’ teaching that not even a sparrow falls apart from the Father (Matthew 10:29).",
+  "seeAlso": [
+    "Matthew 5:21-22",
+    "Matthew 5:27-28",
+    "Psalm 37:11",
+    "Matthew 5:5",
+    "Deuteronomy 18:10-12",
+    "Isaiah 66:2",
+    "1 Thessalonians 5:22",
+    "Matthew 10:29",
+    "James 1:19-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Vices, virtues, and providence"
+    }
+  ],
+  "themes": [
+    "Moral formation",
+    "Idolatry avoidance",
+    "Humility",
+    "Providence"
+  ],
+  "practicalQuestions": [
+    "Where do my attitudes (anger, jealousy, pride) risk growing into harmful actions, and what practices help interrupt that progression?",
+    "What modern forms of divination or superstition subtly invite my trust, and how can I renounce them?",
+    "How can I cultivate meekness and humility in my speech, associations, and self-perception this week?",
+    "What habits help me receive God’s word with reverent attentiveness rather than self-confidence or complaint?",
+    "How do I practice accepting difficult circumstances as under God’s providence without becoming passive about doing good?"
+  ],
+  "uncertainAreas": "The precise meaning of terms like “purifier” and the scope of “look at these things” (possibly viewing or consulting occult practices) are translation-dependent. The phrase “always trembling at the words which you have heard” could refer to scriptural words or to received apostolic teaching more broadly. The single-verse layout compresses several distinct exhortations, making internal subdivisions somewhat interpretive.",
+  "createdAt": "2025-10-20T12:29:35.984Z",
+  "modelId": "gpt-5-2025-08-07"
+}

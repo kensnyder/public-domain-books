@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Did.13",
+  "briefOverview": "Instruction on materially supporting true prophets and teachers through first-fruits, with provision for the poor when prophets are absent.",
+  "summary": "The community is told that any true prophet who dwells among them, and any true teacher, deserves material support, like a workman. First-fruits from produce and livestock should be given to the prophets, who are described as the community’s high priests. If no prophet is present, these offerings should go to the poor. The same principle applies to dough, opened jars of wine or oil, and even to money, clothing, and possessions—offer first-fruits as seems good, in accordance with the commandment.",
+  "externalContext": "The Didache is an early Christian church manual, often dated to the late first or early second century, guiding small house-church communities on worship, ethics, and leadership. Early Christian networks included itinerant prophets and teachers who relied on hospitality and local support. The practice of first-fruits originates in Israelite law, where initial portions of produce were given to priests and Levites, and adapted here to support Christian ministers in the absence of a temple-centered priesthood. The instruction to give to the poor in the absence of prophets reflects early Christian prioritization of almsgiving and communal care.",
+  "externalReferences": "The statement that a worker deserves support echoes Jesus’ saying, “the laborer deserves his wages” (Luke 10:7; cf. Matthew 10:10; 1 Timothy 5:18). The first-fruits framework reflects Torah provisions that dedicate the first of produce to priestly service (Exodus 23:19; Numbers 18:12; Deuteronomy 18:3–5). The analogy of ministerial support aligns with Paul’s argument that those who proclaim the gospel should get their living from the gospel, drawing on temple service parallels (1 Corinthians 9:13–14). The honoring of prophets also resonates with Jesus’ teaching about receiving a prophet and receiving a prophet’s reward (Matthew 10:41).",
+  "seeAlso": [
+    "Luke 10:7",
+    "Matthew 10:10",
+    "1 Timothy 5:18",
+    "Matthew 10:41",
+    "1 Corinthians 9:13-14",
+    "Exodus 23:19",
+    "Numbers 18:12",
+    "Deuteronomy 18:3-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Support for Prophets and Teachers"
+    }
+  ],
+  "themes": [
+    "Ministerial support",
+    "First-fruits",
+    "Care for poor",
+    "Authority of prophets"
+  ],
+  "practicalQuestions": [
+    "How should a community today discern and materially support genuine spiritual leaders without enabling abuse?",
+    "What would it look like to practice a modern equivalent of “first-fruits” from income or possessions?",
+    "When leaders are absent or untrustworthy, how should communities prioritize giving to the poor?",
+    "How can accountability structures ensure that resources given for ministry are used appropriately?",
+    "In what ways does calling ministers “high priests” shape our view of their responsibilities and limits?"
+  ],
+  "uncertainAreas": "The exact scope of “according to the commandment” is unclear—whether it refers to Torah first-fruits laws or prior Didache directives. The amount or proportion of these first-fruits is not specified. The phrase “they are your high priests” may be metaphorical, but the extent of the intended priestly analogy is not defined. Criteria for identifying a “true” prophet or teacher are assumed from earlier Didache instructions but are not repeated here.",
+  "createdAt": "2025-10-20T12:37:16.320Z",
+  "modelId": "gpt-5-2025-08-07"
+}

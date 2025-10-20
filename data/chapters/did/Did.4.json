@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Did.4",
+  "briefOverview": "A set of “way of life” instructions stressing respect for teachers, communal harmony, generosity, household ethics, and confession. It outlines how believers should live together under God’s commands.",
+  "summary": "The chapter exhorts believers to honor those who teach God’s word, to pursue peace rather than division, and to judge impartially. It stresses decisive integrity, generous giving without complaint, and sharing possessions with those in need, reminding readers that participants in immortal life should be even more ready to share mortal goods. Parents are to train their children in the fear of God, and those with servants are warned to command without bitterness, since God shows no partiality; servants are to submit with modesty. The community must hate hypocrisy, keep the Lord’s commandments without alteration, confess sins within the church, and pray with a clear conscience. The chapter concludes by identifying this pattern as the “way of life.”",
+  "externalContext": "The Didache is an early Christian teaching manual, commonly dated to the late first or early second century, likely used for catechesis of new believers. Its opening sections present a Jewish-Christian “Two Ways” framework—contrasting the way of life with the way of death—rooted in Jewish wisdom traditions and adapted for early church communities. The social setting presumes household structures that included slaves and masters common in the Greco-Roman world. Early Christian gatherings often involved itinerant teachers and prophets, whose instruction the Didache regulates elsewhere, and communal practices such as confession and almsgiving formed part of worship and mutual care.",
+  "externalReferences": "Many admonitions echo Jesus’ Sermon on the Mount and related New Testament teachings: peacemaking (Matthew 5:9), refusing to turn away the needy (Matthew 5:42), and avoiding double-mindedness (James 1:8). The call to impartial judgment aligns with Leviticus 19:15 and is developed in James 2:1–4. Instructions on supporting teachers resonate with Galatians 6:6 and 1 Thessalonians 5:12–13, while household directions reflect exhortations to slaves in Ephesians 6:5–8 and Colossians 3:22. The warnings not to add to or subtract from the commandments recall Deuteronomy 12:32 and find a later parallel in Revelation 22:18–19; confession in the church accords with James 5:16, and communal sharing reflects Acts 4:32–35.",
+  "seeAlso": [
+    "Matthew 5:9",
+    "Matthew 5:42",
+    "James 1:8",
+    "James 5:16",
+    "Acts 4:32-35",
+    "Galatians 6:6",
+    "1 Thessalonians 5:12-13",
+    "Ephesians 6:5-8",
+    "Leviticus 19:15",
+    "Deuteronomy 12:32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Way of life instructions"
+    }
+  ],
+  "themes": [
+    "Generosity",
+    "Peacemaking",
+    "Integrity",
+    "Church discipline",
+    "Confession"
+  ],
+  "practicalQuestions": [
+    "How can I tangibly support those who teach me God’s word this week?",
+    "Where am I tempted to be double‑minded, and what decisive step would align me with the way of life?",
+    "What resources or time can I share to meet a brother’s or sister’s need without complaint?",
+    "How can I be a maker of peace in a current conflict rather than fueling division?",
+    "What practices of confession and reconciliation would help me approach prayer with a clear conscience?",
+    "If I lead or manage others, how can I exercise authority without bitterness or partiality?"
+  ],
+  "uncertainAreas": "The scope of “honor him as you do the Lord” toward teachers could be read strongly; intent likely concerns respect, not worship. “Through your hands you shall give ransom for your sins” may mean almsgiving as penitential practice, but the precise theological nuance is debated. The degree and form of “acknowledge your transgressions in the church” (public vs. private confession) is not specified. The phrase “bondmen…to your masters as to a type of God” is challenging; it likely reflects a conventional household code adapted for believers, not an ontological claim about masters.",
+  "createdAt": "2025-10-20T12:30:14.114Z",
+  "modelId": "gpt-5-2025-08-07"
+}

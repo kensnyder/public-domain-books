@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Did.8",
+  "briefOverview": "Instruction on fasting days and a model for daily prayer drawn from the Lord’s Prayer.",
+  "summary": "The text warns against fasting like \"hypocrites,\" who fast on the second and fifth days of the week, and instead directs fasting on the fourth day and on the Preparation (Friday). It likewise cautions against praying like hypocrites, instructing disciples to pray as the Lord taught in the Gospel. It then provides the Lord’s Prayer, including petitions for God’s name to be hallowed, the coming of the kingdom, the doing of God’s will on earth, provision of daily bread, forgiveness linked to forgiving others, and deliverance from temptation and the evil one, concluding with a doxology. The community is told to pray this prayer three times each day.",
+  "externalContext": "The Didache is commonly dated to the late first or early second century and functioned as a church manual for teaching catechumens and ordering community life. In Jewish practice of the period, communal fasts were often observed on Mondays and Thursdays; some early Christians adopted different days (Wednesday and Friday) to distinguish themselves. \"Preparation\" refers to Friday, the day of preparation for the Sabbath. Fixed-hour prayer had roots in Jewish piety (e.g., praying multiple times daily) and continued in early Christian practice.",
+  "externalReferences": "This chapter closely parallels Jesus’ teaching on prayer and fasting in Matthew 6:5–18, including the Lord’s Prayer in Matthew 6:9–13; it also resembles the shorter version in Luke 11:2–4. The phrase \"do not bring us into temptation\" echoes Jesus’ later exhortation to \"watch and pray that you may not enter into temptation\" (Matthew 26:41). The idea of praying at set times recalls Daniel praying three times a day (Daniel 6:10). The note about twice-weekly fasting aligns with the Pharisee’s claim in Luke 18:12, highlighting established Jewish fasting patterns of the time.",
+  "seeAlso": [
+    "Matthew 6:5-18",
+    "Matthew 6:9-13",
+    "Luke 11:2-4",
+    "Matthew 26:41",
+    "Luke 18:12",
+    "Daniel 6:10",
+    "Mark 15:42"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Fasting days and the Lord’s Prayer"
+    }
+  ],
+  "themes": [
+    "Fasting",
+    "Fixed prayer",
+    "Forgiveness",
+    "Deliverance",
+    "Community identity"
+  ],
+  "practicalQuestions": [
+    "How might fixed times of prayer shape my daily rhythm without becoming mere routine?",
+    "In what ways does my practice of fasting cultivate humility rather than display?",
+    "Am I actively forgiving others as I ask God for forgiveness in prayer?",
+    "How can I pray for God’s kingdom and will in concrete situations I face today?",
+    "What practices help me resist temptation and seek deliverance from evil?"
+  ],
+  "uncertainAreas": "\"Hypocrites\" likely refers to opponents (possibly some Jewish practitioners) but is not specified; the exact rationale for choosing Wednesday and Friday is unstated; the translation of \"daily\" (or \"needful\") bread and whether \"evil\" means evil in general or \"the evil one\" are interpretive choices; the doxology at the end reflects a textual tradition not present in all Gospel manuscripts.",
+  "createdAt": "2025-10-20T12:33:00.958Z",
+  "modelId": "gpt-5-2025-08-07"
+}

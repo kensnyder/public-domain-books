@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Did.7",
+  "briefOverview": "Concise, practical directions for baptism, specifying the Trinitarian formula, preferred water sources and methods, and preparatory fasting.",
+  "summary": "The chapter instructs that baptism should follow prior teaching and be performed in the name of the Father, Son, and Holy Spirit, preferably in living (flowing) water. If living water is unavailable, other water may be used; cold is preferred, but warm is acceptable. If sufficient water for immersion is lacking, water may be poured on the head three times in the Trinitarian name. Prior to baptism, the baptizer, the candidate, and others who can should fast, with the candidate explicitly ordered to fast one or two days beforehand.",
+  "externalContext": "The Didache is an early Christian church order, commonly dated to the late first or early second century, offering community rules on worship, ethics, and church practice. The term “living water” reflects Jewish ritual language for flowing water suitable for purification, paralleling practices surrounding mikva’ot (ritual baths). Early Christian communities often baptized in rivers or other natural water sources but adapted to local conditions, which explains the allowance for pouring when immersion was not feasible. Pre-baptismal fasting aligns with Jewish and early Christian ascetic practices as a form of preparation and discernment for significant religious rites.",
+  "externalReferences": "The Trinitarian baptismal formula closely echoes Matthew 28:19, where Jesus commands baptizing “in the name of the Father and of the Son and of the Holy Spirit.” The usage of water and the act of baptism align with early Christian practice seen in Acts 2:38 and Philip’s baptism of the Ethiopian in Acts 8:36–38. The preference for “living water” resonates with Old Testament purification imagery, such as Leviticus 14:5–6 and Numbers 19:17, which prescribe running (“living”) water for cleansing rites.",
+  "seeAlso": [
+    "Matthew 28:19",
+    "Acts 2:38",
+    "Acts 8:36-38",
+    "Romans 6:3-4",
+    "Leviticus 14:5-6",
+    "Numbers 19:17",
+    "John 3:5",
+    "1 Peter 3:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Instructions for Baptism and Fasting"
+    }
+  ],
+  "themes": [
+    "Baptism",
+    "Trinitarian formula",
+    "Preparation by fasting",
+    "Practical adaptability"
+  ],
+  "practicalQuestions": [
+    "How should communities balance ideal baptismal practices with practical limitations (e.g., available water)?",
+    "What role could fasting play today in preparing candidates and leaders for baptism?",
+    "How does using the Trinitarian formula shape a community’s understanding of baptism and Christian identity?",
+    "In what ways can a congregation participate (e.g., fasting, prayer) to support those being baptized?",
+    "When is it appropriate to use pouring instead of immersion, and how should this be communicated pastorally?"
+  ],
+  "uncertainAreas": "It is unclear whether the baptizer’s fasting is mandated or strongly advised (the candidate’s fasting is commanded). The rationale for preferring cold over warm water is not explained. The extent to which “living water” implies immersion versus simply a flowing source is not specified.",
+  "createdAt": "2025-10-20T12:32:22.793Z",
+  "modelId": "gpt-5-2025-08-07"
+}

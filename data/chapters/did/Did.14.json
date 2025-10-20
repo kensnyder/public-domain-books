@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Did.14",
+  "briefOverview": "Instruction on Lord’s Day gathering that emphasizes confession, reconciliation, and a pure communal offering.",
+  "summary": "The community is commanded to assemble every Lord’s Day to break bread and give thanks, having first confessed their transgressions so that their offering is pure. Anyone in conflict with another is to reconcile before joining, lest the community’s sacrifice be profaned. The instruction is grounded in a divine declaration that a pure sacrifice should be offered in every place and time, because God is a great King whose name is honored among the nations.",
+  "externalContext": "The Didache is an early Christian manual, commonly dated to the late first or early second century, that outlines community practices, ethics, and worship. “Lord’s Day” was an early Christian term for Sunday, the day of Jesus’ resurrection, when believers commonly gathered. “Breaking bread” and “giving thanks” reflect early Eucharistic practice, rooted in Jewish meal blessings and adapted to commemorate Jesus. The language of “pure sacrifice” resonates with Jewish sacrificial purity concerns and was reinterpreted by Christians for Eucharistic and communal worship.",
+  "externalReferences": "The closing quotation closely echoes Malachi 1:11 and 1:14, which speak of a pure offering and the Lord as a great King whose name is honored among the nations. The insistence on reconciliation before worship aligns with Jesus’ teaching in Matthew 5:23–24 to be reconciled to one’s brother before offering at the altar. Gathering on the first day to break bread reflects Acts 20:7, and the call to self-examination before the communal meal parallels 1 Corinthians 11:27–29. Confession within the community also resonates with James 5:16.",
+  "seeAlso": [
+    "Malachi 1:11",
+    "Malachi 1:14",
+    "Matthew 5:23-24",
+    "Acts 20:7",
+    "1 Corinthians 11:27-29",
+    "James 5:16",
+    "Revelation 1:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Lord’s Day worship and reconciliation"
+    }
+  ],
+  "themes": [
+    "Lord’s Day",
+    "Reconciliation",
+    "Confession",
+    "Pure worship"
+  ],
+  "practicalQuestions": [
+    "How can our community create space for honest confession before communal worship?",
+    "Whom do I need to reconcile with before participating in the Lord’s Supper?",
+    "What practices help ensure our gatherings are marked by integrity and peace rather than unresolved conflict?",
+    "How does viewing communal worship as a “pure sacrifice” shape our preparation and conduct?",
+    "In what concrete ways can leaders safeguard the community from profaning worship through unreconciled relationships?"
+  ],
+  "uncertainAreas": "The exact scope of “sacrifice” (Eucharist specifically or the whole worship gathering) is not defined; the phrase “in every place and time” paraphrases Malachi and may reflect a liturgical adaptation; the mode of confession (private to God, mutual, or public) is not specified; and while “Lord’s Day” likely means Sunday, the text does not explicitly define it.",
+  "createdAt": "2025-10-20T12:37:50.653Z",
+  "modelId": "gpt-5-2025-08-07"
+}

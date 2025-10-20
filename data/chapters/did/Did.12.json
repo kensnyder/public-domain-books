@@ -1,0 +1,35 @@
+{
+  "chapterOsisID": "Did.12",
+  "briefOverview": "Guidance on welcoming traveling Christians while discerning motives and preventing exploitation.",
+  "summary": "The community is told to receive anyone who comes in the Lord’s name, but to test and come to know them afterward. Travelers are to be helped for two or three days if needed. If a person wishes to remain, they should work and eat; if they have no trade, the community should ensure they are not idle. Anyone unwilling to work is labeled a “Christ-monger,” and the community is warned to avoid such a person.",
+  "externalContext": "The Didache is an early Christian church manual, likely from the late first or early second century, offering practical instructions for worship, morality, and church order. Early Christian communities often relied on hospitality networks because inns could be unsafe or immoral, and itinerant apostles, prophets, and teachers frequently traveled between assemblies. At the same time, communities faced the risk of impostors exploiting Christian generosity, prompting guidelines to balance hospitality and discernment. Crafts and manual trades were common means of support, and early Christian teaching often emphasized labor as a sign of sincerity and responsibility within the community.",
+  "externalReferences": "The expectation that those who refuse to work should not be supported echoes 2 Thessalonians 3:10–12, where Paul warns against idleness and commands quiet work. Hospitality to those who come in the Lord’s name aligns with Jesus’ teaching in Matthew 10:40–42 about receiving messengers and the blessings attached to such hospitality. 3 John 5–8 likewise commends supporting faithful itinerant workers, while 1 John 4:1 urges believers to test the spirits, paralleling the Didache’s call to prove and know those who arrive.",
+  "seeAlso": [
+    "2 Thessalonians 3:10-12",
+    "Matthew 10:40-42",
+    "3 John 5-8",
+    "1 John 4:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Wise Hospitality and Work"
+    }
+  ],
+  "themes": [
+    "Hospitality",
+    "Discernment",
+    "Work ethic",
+    "Community boundaries"
+  ],
+  "practicalQuestions": [
+    "How can a community extend generous hospitality while setting fair time limits and expectations?",
+    "What prudent steps can we take to discern whether a newcomer’s motives are sincere?",
+    "In what ways can we invite those seeking help to contribute meaningfully if they lack a clear trade or skill?",
+    "How should a community respond when someone repeatedly refuses to work yet expects ongoing support?",
+    "What policies can churches adopt to support itinerant ministers without enabling exploitation?"
+  ],
+  "uncertainAreas": "The strength and nuance of the term “Christ-monger” and whether the two-to-three-day limit is a strict rule or general guideline are not fully clear; the phrase “you shall have understanding right and left” may reflect a translation choice indicating broad discernment rather than a precise instruction.",
+  "createdAt": "2025-10-20T12:36:26.011Z",
+  "modelId": "gpt-5-2025-08-07"
+}

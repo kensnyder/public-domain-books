@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Did.2",
+  "briefOverview": "A compact moral code outlining prohibitions and positive duties for the “way of life.” It emphasizes truthful speech, sexual and social integrity, protection of life, and sacrificial love.",
+  "summary": "The chapter lists prohibitions against murder, adultery, pederasty, fornication, theft, magic, witchcraft, abortion, and infanticide. It bans coveting, swearing, false witness, slander, grudges, duplicity, hypocrisy, greed, rapacity, malice, pride, and taking evil counsel against a neighbor. Speech must be truthful and backed by action. Instead of hatred, readers are urged to correct some, pray concerning others, and love some even more than their own lives.",
+  "externalContext": "The Didache is an early Christian teaching manual, commonly dated to the late first or early second century, used in catechesis and baptismal preparation. Its “Two Ways” framework (way of life vs. way of death) has roots in Jewish wisdom and ethical traditions. In the Greco-Roman world, exposure of infants and abortion were practiced and debated; the text’s explicit prohibition reflects a countercultural stance. Condemnations of magic and sorcery fit a broader Jewish and Christian rejection of occult practices common in Mediterranean urban centers.",
+  "externalReferences": "Much of this catalog echoes the Decalogue (Exodus 20:13–17; Deuteronomy 5:17–21) and Leviticus’ ethic of neighbor love and forbearance (Leviticus 19:17–18). Teachings on oaths, truthful speech, anger, lust, and love for enemies parallel the Sermon on the Mount (Matthew 5:21–48; 5:33–37), and the call to align words with deeds resonates with James on being doers of the word and controlling the tongue (James 1:22; 1:8; 3:5–10). Warnings against sorcery and magical practices align with New Testament vice lists and narratives (Galatians 5:19–21; Acts 19:19), and the call to sacrificial love reflects Jesus’ standard (John 15:13).",
+  "seeAlso": [
+    "Exodus 20:13-17",
+    "Deuteronomy 5:17-21",
+    "Leviticus 19:17-18",
+    "Matthew 5:21-48",
+    "Matthew 5:33-37",
+    "James 1:8",
+    "James 3:5-10",
+    "Galatians 5:19-21",
+    "Acts 19:19",
+    "John 15:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Moral Prohibitions and Love"
+    }
+  ],
+  "themes": [
+    "Sanctity of life",
+    "Sexual purity",
+    "Truthful speech",
+    "Contentment vs coveting",
+    "Love and correction"
+  ],
+  "practicalQuestions": [
+    "Where might my speech outpace my actions, and how can I bring my words into integrity with my deeds?",
+    "What habits or influences function as “evil counsel” in my life, and how can I replace them with wise counsel?",
+    "How can I practice correction (reproof) with humility and love rather than resentment or harshness?",
+    "What would it look like to transform grudges and slander into prayer for those individuals?",
+    "How can I embody a life-affirming ethic in contexts where the vulnerable are at risk?"
+  ],
+  "uncertainAreas": "Nuances around the scope of “you shall not swear” (absolute ban on oaths vs. perjury) are debated. The term translated “pederasty” has cultural and legal nuances that may extend beyond a single practice. The closing triad—reprove some, pray concerning some, love some more than life—does not specify criteria for discerning which response fits which person.",
+  "createdAt": "2025-10-20T12:28:51.243Z",
+  "modelId": "gpt-5-2025-08-07"
+}
