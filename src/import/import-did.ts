@@ -26,6 +26,7 @@ async function main() {
   const res = await fetch(
     'https://www.pseudepigrapha.com/LostBooks/didache.html',
   );
+  const workOsisID = 'Didache';
   if (!res.ok) {
     throw new Error(`Failed to fetch didache: HTTP ${res.status}`);
   }
@@ -48,7 +49,6 @@ async function main() {
     .map((t) => t.replace(/\s+/g, ' '));
 
   const did = books.find((book) => book.osisID === 'Did');
-  const workOsisID = 'Did';
   const bookOsisID = 'Did';
   const bookGroups = did!.groups;
   for (let i = 0, len = verses.length; i < len; i++) {

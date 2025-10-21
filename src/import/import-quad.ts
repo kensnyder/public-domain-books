@@ -4,8 +4,8 @@ main().catch(console.error);
 
 // biome-ignore format: be compact
 const works = {
-  'The Old Testament': { file: `${import.meta.dir}/../../data/verses/old-testament.json`, workOsisID: "kjv", workName: 'Bible', data: [] as OurData[] },
-  'The New Testament': { file: `${import.meta.dir}/../../data/verses/new-testament.json`, workOsisID: "kjv", workName: 'Bible', data: [] as OurData[] },
+  'The Old Testament': { file: `${import.meta.dir}/../../data/verses/old-testament.json`, workOsisID: "KJV", workName: 'Bible', data: [] as OurData[] },
+  'The New Testament': { file: `${import.meta.dir}/../../data/verses/new-testament.json`, workOsisID: "KJV", workName: 'Bible', data: [] as OurData[] },
   'The Doctrine and Covenants': { file: `${import.meta.dir}/../../data/verses/dc.json`, workOsisID: "D&C", workName: 'Doctrine & Covenants', data: [] as OurData[] },
   'The Book of Mormon': { file: `${import.meta.dir}/../../data/verses/bom.json`, workOsisID: "BofM", workName: 'Book of Mormon', data: [] as OurData[] },
   'The Pearl of Great Price': { file: `${import.meta.dir}/../../data/verses/pgp.json`, workOsisID: "PGP", workName: 'Pearl of Great Price', data: [] as OurData[] },

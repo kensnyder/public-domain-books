@@ -2,6 +2,7 @@ import metadata from '../../data/books/books.json' with { type: 'json' };
 
 const baseUrl =
   'https://raw.githubusercontent.com/rodolfoapps/Deuter-Apocrypha/4e4ecb3da87fb736e2a18a10463664b487bcb5d9';
+const workOsisID = 'KJVA';
 
 const refTextHandler = (item: any) => ({
   ref: item.reference,
@@ -81,7 +82,6 @@ async function main() {
         console.log(`Unable to find bookName=${givenName}`);
         process.exit(1);
       }
-      const workOsisID = meta.osisID;
       const bookOsisID = meta.osisID;
       const bookGroups = meta.groups;
       const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
