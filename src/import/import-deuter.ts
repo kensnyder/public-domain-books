@@ -107,9 +107,9 @@ async function main() {
       verseSequence++;
     }
   }
-  await Bun.file(`${import.meta.dir}/../../data/verses/deuter.json`).write(
+  await Bun.file(`${import.meta.dir}/../../data/verses/KJVA.json`).write(
     JSON.stringify(ourData, null, 2),
   );
-  console.log(`Wrote ${ourData.length} Deuterocanon verses to deuter.json`);
+  console.log(`Wrote ${ourData.length} Deuterocanon verses to KJVA.json`);
   console.log(`Took ${Date.now() - start}ms`);
 }

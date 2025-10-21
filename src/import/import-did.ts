@@ -31,7 +31,6 @@ async function main() {
     throw new Error(`Failed to fetch didache: HTTP ${res.status}`);
   }
   const html = await res.text();
-  console.log(html.slice(0, 2500));
   const doc = new DOMParser().parseFromString(html, 'text/html');
   const titles = Array.from(doc.getElementsByTagName('b')).map((b) => {
     const title = b.textContent;
@@ -76,11 +75,11 @@ async function main() {
     });
   }
 
-  await Bun.file(`${import.meta.dir}/../../data/verses/did.json`).write(
+  await Bun.file(`${import.meta.dir}/../../data/verses/Didache.json`).write(
     JSON.stringify(ourData, null, 2),
   );
   console.log(
-    `Wrote ${ourData.length} Didache verses to data/verses/did.json`,
+    `Wrote ${ourData.length} Didache verses to data/verses/Didache.json`,
   );
   console.log(`Took ${Date.now() - start}ms`);
 }

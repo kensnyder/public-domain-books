@@ -4,12 +4,12 @@ main().catch(console.error);
 
 // biome-ignore format: be compact
 const works = {
-  'The Old Testament': { file: `${import.meta.dir}/../../data/verses/old-testament.json`, workOsisID: "KJV", workName: 'Bible', data: [] as OurData[] },
-  'The New Testament': { file: `${import.meta.dir}/../../data/verses/new-testament.json`, workOsisID: "KJV", workName: 'Bible', data: [] as OurData[] },
-  'The Doctrine and Covenants': { file: `${import.meta.dir}/../../data/verses/dc.json`, workOsisID: "D&C", workName: 'Doctrine & Covenants', data: [] as OurData[] },
-  'The Book of Mormon': { file: `${import.meta.dir}/../../data/verses/bom.json`, workOsisID: "BofM", workName: 'Book of Mormon', data: [] as OurData[] },
-  'The Pearl of Great Price': { file: `${import.meta.dir}/../../data/verses/pgp.json`, workOsisID: "PGP", workName: 'Pearl of Great Price', data: [] as OurData[] },
+  'The Bible': { workOsisID: "KJV", workName: 'Bible', data: [] as OurData[] },
+  'The Doctrine and Covenants': { workOsisID: "D&C", workName: 'Doctrine & Covenants', data: [] as OurData[] },
+  'The Book of Mormon': { workOsisID: "BofM", workName: 'Book of Mormon', data: [] as OurData[] },
+  'The Pearl of Great Price': { workOsisID: "PGP", workName: 'Pearl of Great Price', data: [] as OurData[] },
 };
+const saveTo = `${import.meta.dir}/../../data/verses`;
 
 const ymd = new Date().toISOString().slice(0, 10);
 
@@ -51,24 +51,25 @@ async function main() {
   let verses = JSON.parse(fixed) as unknown as RemoteData[];
 
   let verseSequence = -1;
-  let lastWork = '';
+  let lastWorkTitle = '';
+  let workOsisID = '';
   for (const verse of verses) {
-    const workLongTitle = verse.volume_long_title;
-    if (!(workLongTitle in works)) {
-      console.log(`Unknown Work "${workLongTitle}"`);
+    const thisWorkTitle = getWorkTitle(verse.volume_long_title);
+    if (!(thisWorkTitle in works)) {
+      console.log(`Unknown Work "${thisWorkTitle}"`);
       process.exit(1);
     }
-    const work = works[workLongTitle as keyof typeof works];
-    if (workLongTitle !== lastWork) {
-      if (lastWork) {
+    const work = works[thisWorkTitle as keyof typeof works];
+    workOsisID = work.workOsisID;
+    if (thisWorkTitle !== lastWorkTitle) {
+      if (lastWorkTitle) {
         verseSequence = 1;
         // @ts-expect-error We know works[lastWork] will always be an object
-        await writeJson(lastWork, works[lastWork]);
+        await writeJson(workOsisID, works[lastWorkTitle].data);
       }
-      console.log(`Starting ${workLongTitle}...`);
+      console.log(`Starting ${workOsisID}...`);
     }
-    lastWork = workLongTitle;
-    const workOsisID = work.workOsisID;
+    lastWorkTitle = thisWorkTitle;
     const book = lookupBook(verse.book_title) as (typeof metadata)[number];
     const bookOsisID = book.osisID;
     const bookGroups = book.groups;
@@ -97,9 +98,16 @@ async function main() {
     verseSequence++;
   }
   // @ts-expect-error We know works[lastWork] will always be an object
-  await writeJson(lastWork, works[lastWork]);
+  await writeJson(workOsisID, works[lastWorkTitle].data);
   console.log('Done writing data to ../data/verses/*.json');
   console.log(`Took ${Date.now() - start}ms`);
+}
+
+function getWorkTitle(workLongTitle: string) {
+  if (workLongTitle.endsWith('Testament')) {
+    return "The Bible";
+  }
+  return workLongTitle;
 }
 
 const bookOsisCache = new Map<string, (typeof metadata)[number]>();
@@ -120,11 +128,12 @@ function lookupBook(bookTitle: string) {
 }
 
 async function writeJson(
-  name: string,
-  finishedWork: (typeof works)[keyof typeof works],
+  workOsisID: string,
+  data: OurData[],
 ) {
-  await Bun.file(finishedWork.file).write(
-    JSON.stringify(finishedWork.data, null, 2),
+  const writeTo = `${saveTo}/${workOsisID}.json`;
+  await Bun.file(writeTo).write(
+    JSON.stringify(data, null, 2),
   );
-  console.log(`Wrote ${name} to ${finishedWork.file.split('/').pop()}`);
+  console.log(`Wrote ${workOsisID} to ${workOsisID}.json`);
 }
