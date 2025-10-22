@@ -1,0 +1,32 @@
+[
+  {
+    "workOsisID": "KJV",
+    "workTitle": "The Holy Bible",
+    "workSubtitle": "King James Version"
+  },
+  {
+    "workOsisID": "KJVA",
+    "workTitle": "The Holy Bible Apocrypha",
+    "workSubtitle": "King James Version"
+  },
+  {
+    "workOsisID": "Didache",
+    "workTitle": "Didache",
+    "workSubtitle": "The Lord's Teaching Through the Twelve Apostles to the Nations"
+  },
+  {
+    "workOsisID": "BofM",
+    "workTitle": "The Book of Mormon",
+    "workSubtitle": "Another Testament of Jesus Christ"
+  },
+  {
+    "workOsisID": "PGP",
+    "workTitle": "Pearl of Great Price",
+    "workSubtitle": ""
+  },
+  {
+    "workOsisID": "D&C",
+    "workTitle": "Doctrine and Covenants",
+    "workSubtitle": ""
+  }
+]
