@@ -33,7 +33,7 @@
   ],
   "analysis": [
     {
-      "dataPath": "data/chapters/BofM/1Ne.1.json",
+      "dataPath": "data/analysis/BofM/1Ne.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.1",
@@ -41,7 +41,7 @@
       "createdAt": "2025-10-18T21:33:00.395Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.2.json",
+      "dataPath": "data/analysis/BofM/1Ne.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.2",
@@ -49,7 +49,7 @@
       "createdAt": "2025-10-18T21:33:29.772Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.3.json",
+      "dataPath": "data/analysis/BofM/1Ne.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.3",
@@ -57,7 +57,7 @@
       "createdAt": "2025-10-18T21:34:17.344Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.4.json",
+      "dataPath": "data/analysis/BofM/1Ne.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.4",
@@ -65,7 +65,7 @@
       "createdAt": "2025-10-18T21:35:14.413Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.5.json",
+      "dataPath": "data/analysis/BofM/1Ne.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.5",
@@ -73,7 +73,7 @@
       "createdAt": "2025-10-18T21:36:02.498Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.6.json",
+      "dataPath": "data/analysis/BofM/1Ne.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.6",
@@ -81,7 +81,7 @@
       "createdAt": "2025-10-18T21:36:30.914Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.7.json",
+      "dataPath": "data/analysis/BofM/1Ne.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.7",
@@ -89,7 +89,7 @@
       "createdAt": "2025-10-18T21:37:12.427Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.8.json",
+      "dataPath": "data/analysis/BofM/1Ne.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.8",
@@ -97,7 +97,7 @@
       "createdAt": "2025-10-18T21:38:19.396Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.9.json",
+      "dataPath": "data/analysis/BofM/1Ne.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.9",
@@ -105,7 +105,7 @@
       "createdAt": "2025-10-18T21:38:45.086Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.10.json",
+      "dataPath": "data/analysis/BofM/1Ne.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.10",
@@ -113,7 +113,7 @@
       "createdAt": "2025-10-18T21:39:32.525Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.11.json",
+      "dataPath": "data/analysis/BofM/1Ne.11.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.11",
@@ -121,7 +121,7 @@
       "createdAt": "2025-10-18T21:40:52.129Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.12.json",
+      "dataPath": "data/analysis/BofM/1Ne.12.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.12",
@@ -129,7 +129,7 @@
       "createdAt": "2025-10-18T21:41:27.759Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.13.json",
+      "dataPath": "data/analysis/BofM/1Ne.13.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.13",
@@ -137,7 +137,7 @@
       "createdAt": "2025-10-18T21:42:31.223Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.14.json",
+      "dataPath": "data/analysis/BofM/1Ne.14.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.14",
@@ -145,7 +145,7 @@
       "createdAt": "2025-10-18T21:43:17.475Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.15.json",
+      "dataPath": "data/analysis/BofM/1Ne.15.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.15",
@@ -153,7 +153,7 @@
       "createdAt": "2025-10-18T21:43:53.182Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.16.json",
+      "dataPath": "data/analysis/BofM/1Ne.16.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.16",
@@ -161,7 +161,7 @@
       "createdAt": "2025-10-18T21:44:29.803Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.17.json",
+      "dataPath": "data/analysis/BofM/1Ne.17.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.17",
@@ -169,7 +169,7 @@
       "createdAt": "2025-10-18T21:45:19.927Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.18.json",
+      "dataPath": "data/analysis/BofM/1Ne.18.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.18",
@@ -177,7 +177,7 @@
       "createdAt": "2025-10-18T21:45:43.883Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.19.json",
+      "dataPath": "data/analysis/BofM/1Ne.19.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.19",
@@ -185,7 +185,7 @@
       "createdAt": "2025-10-18T21:46:15.543Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.20.json",
+      "dataPath": "data/analysis/BofM/1Ne.20.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.20",
@@ -193,7 +193,7 @@
       "createdAt": "2025-10-18T21:46:53.201Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.21.json",
+      "dataPath": "data/analysis/BofM/1Ne.21.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.21",
@@ -201,7 +201,7 @@
       "createdAt": "2025-10-18T21:47:23.171Z"
     },
     {
-      "dataPath": "data/chapters/BofM/1Ne.22.json",
+      "dataPath": "data/analysis/BofM/1Ne.22.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
       "chapterOsisID": "1Ne.22",
@@ -209,7 +209,7 @@
       "createdAt": "2025-10-18T21:48:18.970Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.1.json",
+      "dataPath": "data/analysis/BofM/2Ne.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.1",
@@ -217,7 +217,7 @@
       "createdAt": "2025-10-18T21:48:57.199Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.2.json",
+      "dataPath": "data/analysis/BofM/2Ne.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.2",
@@ -225,7 +225,7 @@
       "createdAt": "2025-10-18T21:49:34.605Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.3.json",
+      "dataPath": "data/analysis/BofM/2Ne.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.3",
@@ -233,7 +233,7 @@
       "createdAt": "2025-10-18T21:50:29.000Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.4.json",
+      "dataPath": "data/analysis/BofM/2Ne.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.4",
@@ -241,7 +241,7 @@
       "createdAt": "2025-10-18T21:51:18.112Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.5.json",
+      "dataPath": "data/analysis/BofM/2Ne.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.5",
@@ -249,7 +249,7 @@
       "createdAt": "2025-10-18T21:52:05.862Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.6.json",
+      "dataPath": "data/analysis/BofM/2Ne.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.6",
@@ -257,7 +257,7 @@
       "createdAt": "2025-10-18T21:52:41.035Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.7.json",
+      "dataPath": "data/analysis/BofM/2Ne.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.7",
@@ -265,7 +265,7 @@
       "createdAt": "2025-10-18T21:53:10.689Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.8.json",
+      "dataPath": "data/analysis/BofM/2Ne.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.8",
@@ -273,7 +273,7 @@
       "createdAt": "2025-10-18T21:53:48.470Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.9.json",
+      "dataPath": "data/analysis/BofM/2Ne.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.9",
@@ -281,7 +281,7 @@
       "createdAt": "2025-10-18T21:54:47.088Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.10.json",
+      "dataPath": "data/analysis/BofM/2Ne.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.10",
@@ -289,7 +289,7 @@
       "createdAt": "2025-10-18T21:55:22.138Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.11.json",
+      "dataPath": "data/analysis/BofM/2Ne.11.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.11",
@@ -297,7 +297,7 @@
       "createdAt": "2025-10-18T21:56:09.717Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.12.json",
+      "dataPath": "data/analysis/BofM/2Ne.12.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.12",
@@ -305,7 +305,7 @@
       "createdAt": "2025-10-18T21:56:41.909Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.13.json",
+      "dataPath": "data/analysis/BofM/2Ne.13.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.13",
@@ -313,7 +313,7 @@
       "createdAt": "2025-10-18T21:57:12.965Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.14.json",
+      "dataPath": "data/analysis/BofM/2Ne.14.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.14",
@@ -321,7 +321,7 @@
       "createdAt": "2025-10-18T23:02:32.932Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.15.json",
+      "dataPath": "data/analysis/BofM/2Ne.15.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.15",
@@ -329,7 +329,7 @@
       "createdAt": "2025-10-18T23:03:05.197Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.16.json",
+      "dataPath": "data/analysis/BofM/2Ne.16.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.16",
@@ -337,7 +337,7 @@
       "createdAt": "2025-10-18T23:09:36.561Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.17.json",
+      "dataPath": "data/analysis/BofM/2Ne.17.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.17",
@@ -345,7 +345,7 @@
       "createdAt": "2025-10-18T23:10:00.077Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.18.json",
+      "dataPath": "data/analysis/BofM/2Ne.18.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.18",
@@ -353,7 +353,7 @@
       "createdAt": "2025-10-18T23:10:23.593Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.19.json",
+      "dataPath": "data/analysis/BofM/2Ne.19.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.19",
@@ -361,7 +361,7 @@
       "createdAt": "2025-10-18T23:10:48.045Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.20.json",
+      "dataPath": "data/analysis/BofM/2Ne.20.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.20",
@@ -369,7 +369,7 @@
       "createdAt": "2025-10-18T23:11:26.245Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.21.json",
+      "dataPath": "data/analysis/BofM/2Ne.21.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.21",
@@ -377,7 +377,7 @@
       "createdAt": "2025-10-18T23:12:01.154Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.22.json",
+      "dataPath": "data/analysis/BofM/2Ne.22.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.22",
@@ -385,7 +385,7 @@
       "createdAt": "2025-10-18T23:12:26.698Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.23.json",
+      "dataPath": "data/analysis/BofM/2Ne.23.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.23",
@@ -393,7 +393,7 @@
       "createdAt": "2025-10-18T23:12:56.466Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.24.json",
+      "dataPath": "data/analysis/BofM/2Ne.24.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.24",
@@ -401,7 +401,7 @@
       "createdAt": "2025-10-18T23:13:32.409Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.25.json",
+      "dataPath": "data/analysis/BofM/2Ne.25.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.25",
@@ -409,7 +409,7 @@
       "createdAt": "2025-10-18T23:14:02.818Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.26.json",
+      "dataPath": "data/analysis/BofM/2Ne.26.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.26",
@@ -417,7 +417,7 @@
       "createdAt": "2025-10-18T23:14:29.278Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.27.json",
+      "dataPath": "data/analysis/BofM/2Ne.27.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.27",
@@ -425,7 +425,7 @@
       "createdAt": "2025-10-18T23:15:00.526Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.28.json",
+      "dataPath": "data/analysis/BofM/2Ne.28.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.28",
@@ -433,7 +433,7 @@
       "createdAt": "2025-10-18T23:15:26.711Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.29.json",
+      "dataPath": "data/analysis/BofM/2Ne.29.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.29",
@@ -441,7 +441,7 @@
       "createdAt": "2025-10-18T23:15:49.044Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.30.json",
+      "dataPath": "data/analysis/BofM/2Ne.30.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.30",
@@ -449,7 +449,7 @@
       "createdAt": "2025-10-18T23:16:18.381Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.31.json",
+      "dataPath": "data/analysis/BofM/2Ne.31.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.31",
@@ -457,7 +457,7 @@
       "createdAt": "2025-10-18T23:16:48.126Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.32.json",
+      "dataPath": "data/analysis/BofM/2Ne.32.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.32",
@@ -465,7 +465,7 @@
       "createdAt": "2025-10-18T23:17:10.743Z"
     },
     {
-      "dataPath": "data/chapters/BofM/2Ne.33.json",
+      "dataPath": "data/analysis/BofM/2Ne.33.json",
       "workOsisID": "BofM",
       "bookOsisID": "2Ne",
       "chapterOsisID": "2Ne.33",
@@ -473,7 +473,7 @@
       "createdAt": "2025-10-18T23:17:41.241Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.1.json",
+      "dataPath": "data/analysis/BofM/3Ne.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.1",
@@ -481,7 +481,7 @@
       "createdAt": "2025-10-19T01:00:20.073Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.2.json",
+      "dataPath": "data/analysis/BofM/3Ne.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.2",
@@ -489,7 +489,7 @@
       "createdAt": "2025-10-19T01:00:53.822Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.3.json",
+      "dataPath": "data/analysis/BofM/3Ne.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.3",
@@ -497,7 +497,7 @@
       "createdAt": "2025-10-19T01:01:24.769Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.4.json",
+      "dataPath": "data/analysis/BofM/3Ne.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.4",
@@ -505,7 +505,7 @@
       "createdAt": "2025-10-19T01:01:55.520Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.5.json",
+      "dataPath": "data/analysis/BofM/3Ne.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.5",
@@ -513,7 +513,7 @@
       "createdAt": "2025-10-19T01:02:14.714Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.6.json",
+      "dataPath": "data/analysis/BofM/3Ne.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.6",
@@ -521,7 +521,7 @@
       "createdAt": "2025-10-19T01:02:37.145Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.7.json",
+      "dataPath": "data/analysis/BofM/3Ne.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.7",
@@ -529,7 +529,7 @@
       "createdAt": "2025-10-19T01:02:58.277Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.8.json",
+      "dataPath": "data/analysis/BofM/3Ne.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.8",
@@ -537,7 +537,7 @@
       "createdAt": "2025-10-19T01:03:35.041Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.9.json",
+      "dataPath": "data/analysis/BofM/3Ne.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.9",
@@ -545,7 +545,7 @@
       "createdAt": "2025-10-19T01:03:56.454Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.10.json",
+      "dataPath": "data/analysis/BofM/3Ne.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.10",
@@ -553,7 +553,7 @@
       "createdAt": "2025-10-19T01:04:24.015Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.11.json",
+      "dataPath": "data/analysis/BofM/3Ne.11.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.11",
@@ -561,7 +561,7 @@
       "createdAt": "2025-10-19T01:04:59.414Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.12.json",
+      "dataPath": "data/analysis/BofM/3Ne.12.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.12",
@@ -569,7 +569,7 @@
       "createdAt": "2025-10-19T01:05:31.495Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.13.json",
+      "dataPath": "data/analysis/BofM/3Ne.13.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.13",
@@ -577,7 +577,7 @@
       "createdAt": "2025-10-19T01:05:48.988Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.14.json",
+      "dataPath": "data/analysis/BofM/3Ne.14.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.14",
@@ -585,7 +585,7 @@
       "createdAt": "2025-10-19T01:06:20.445Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.15.json",
+      "dataPath": "data/analysis/BofM/3Ne.15.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.15",
@@ -593,7 +593,7 @@
       "createdAt": "2025-10-19T01:06:45.630Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.16.json",
+      "dataPath": "data/analysis/BofM/3Ne.16.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.16",
@@ -601,7 +601,7 @@
       "createdAt": "2025-10-19T01:07:06.706Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.17.json",
+      "dataPath": "data/analysis/BofM/3Ne.17.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.17",
@@ -609,7 +609,7 @@
       "createdAt": "2025-10-19T01:07:24.774Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.18.json",
+      "dataPath": "data/analysis/BofM/3Ne.18.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.18",
@@ -617,7 +617,7 @@
       "createdAt": "2025-10-19T01:08:01.155Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.19.json",
+      "dataPath": "data/analysis/BofM/3Ne.19.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.19",
@@ -625,7 +625,7 @@
       "createdAt": "2025-10-19T01:08:38.788Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.20.json",
+      "dataPath": "data/analysis/BofM/3Ne.20.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.20",
@@ -633,7 +633,7 @@
       "createdAt": "2025-10-19T01:09:16.391Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.21.json",
+      "dataPath": "data/analysis/BofM/3Ne.21.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.21",
@@ -641,7 +641,7 @@
       "createdAt": "2025-10-19T01:09:41.351Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.22.json",
+      "dataPath": "data/analysis/BofM/3Ne.22.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.22",
@@ -649,7 +649,7 @@
       "createdAt": "2025-10-19T01:10:08.594Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.23.json",
+      "dataPath": "data/analysis/BofM/3Ne.23.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.23",
@@ -657,7 +657,7 @@
       "createdAt": "2025-10-19T01:10:35.534Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.24.json",
+      "dataPath": "data/analysis/BofM/3Ne.24.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.24",
@@ -665,7 +665,7 @@
       "createdAt": "2025-10-19T01:10:59.011Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.25.json",
+      "dataPath": "data/analysis/BofM/3Ne.25.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.25",
@@ -673,7 +673,7 @@
       "createdAt": "2025-10-19T01:11:22.585Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.26.json",
+      "dataPath": "data/analysis/BofM/3Ne.26.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.26",
@@ -681,7 +681,7 @@
       "createdAt": "2025-10-19T01:11:47.194Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.27.json",
+      "dataPath": "data/analysis/BofM/3Ne.27.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.27",
@@ -689,7 +689,7 @@
       "createdAt": "2025-10-19T01:22:37.770Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.28.json",
+      "dataPath": "data/analysis/BofM/3Ne.28.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.28",
@@ -697,7 +697,7 @@
       "createdAt": "2025-10-19T01:23:01.736Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.29.json",
+      "dataPath": "data/analysis/BofM/3Ne.29.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.29",
@@ -705,7 +705,7 @@
       "createdAt": "2025-10-19T01:23:29.860Z"
     },
     {
-      "dataPath": "data/chapters/BofM/3Ne.30.json",
+      "dataPath": "data/analysis/BofM/3Ne.30.json",
       "workOsisID": "BofM",
       "bookOsisID": "3Ne",
       "chapterOsisID": "3Ne.30",
@@ -713,7 +713,7 @@
       "createdAt": "2025-10-19T01:23:53.162Z"
     },
     {
-      "dataPath": "data/chapters/BofM/4Ne.1.json",
+      "dataPath": "data/analysis/BofM/4Ne.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "4Ne",
       "chapterOsisID": "4Ne.1",
@@ -721,7 +721,7 @@
       "createdAt": "2025-10-19T01:24:23.750Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.1.json",
+      "dataPath": "data/analysis/BofM/Alma.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.1",
@@ -729,7 +729,7 @@
       "createdAt": "2025-10-18T23:39:49.609Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.2.json",
+      "dataPath": "data/analysis/BofM/Alma.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.2",
@@ -737,7 +737,7 @@
       "createdAt": "2025-10-18T23:40:13.277Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.3.json",
+      "dataPath": "data/analysis/BofM/Alma.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.3",
@@ -745,7 +745,7 @@
       "createdAt": "2025-10-18T23:40:35.936Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.4.json",
+      "dataPath": "data/analysis/BofM/Alma.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.4",
@@ -753,7 +753,7 @@
       "createdAt": "2025-10-18T23:41:03.635Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.5.json",
+      "dataPath": "data/analysis/BofM/Alma.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.5",
@@ -761,7 +761,7 @@
       "createdAt": "2025-10-18T23:41:27.313Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.6.json",
+      "dataPath": "data/analysis/BofM/Alma.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.6",
@@ -769,7 +769,7 @@
       "createdAt": "2025-10-18T23:48:10.431Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.7.json",
+      "dataPath": "data/analysis/BofM/Alma.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.7",
@@ -777,7 +777,7 @@
       "createdAt": "2025-10-18T23:48:31.727Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.8.json",
+      "dataPath": "data/analysis/BofM/Alma.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.8",
@@ -785,7 +785,7 @@
       "createdAt": "2025-10-18T23:48:57.416Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.9.json",
+      "dataPath": "data/analysis/BofM/Alma.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.9",
@@ -793,7 +793,7 @@
       "createdAt": "2025-10-18T23:49:20.453Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.10.json",
+      "dataPath": "data/analysis/BofM/Alma.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.10",
@@ -801,7 +801,7 @@
       "createdAt": "2025-10-18T23:49:42.322Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.11.json",
+      "dataPath": "data/analysis/BofM/Alma.11.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.11",
@@ -809,7 +809,7 @@
       "createdAt": "2025-10-18T23:50:10.162Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.12.json",
+      "dataPath": "data/analysis/BofM/Alma.12.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.12",
@@ -817,7 +817,7 @@
       "createdAt": "2025-10-18T23:50:35.447Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.13.json",
+      "dataPath": "data/analysis/BofM/Alma.13.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.13",
@@ -825,7 +825,7 @@
       "createdAt": "2025-10-18T23:51:00.567Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.14.json",
+      "dataPath": "data/analysis/BofM/Alma.14.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.14",
@@ -833,7 +833,7 @@
       "createdAt": "2025-10-18T23:51:22.465Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.15.json",
+      "dataPath": "data/analysis/BofM/Alma.15.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.15",
@@ -841,7 +841,7 @@
       "createdAt": "2025-10-18T23:51:52.744Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.16.json",
+      "dataPath": "data/analysis/BofM/Alma.16.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.16",
@@ -849,7 +849,7 @@
       "createdAt": "2025-10-18T23:52:30.838Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.17.json",
+      "dataPath": "data/analysis/BofM/Alma.17.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.17",
@@ -857,7 +857,7 @@
       "createdAt": "2025-10-18T23:53:02.708Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.18.json",
+      "dataPath": "data/analysis/BofM/Alma.18.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.18",
@@ -865,7 +865,7 @@
       "createdAt": "2025-10-18T20:20:28.727Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.19.json",
+      "dataPath": "data/analysis/BofM/Alma.19.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.19",
@@ -873,7 +873,7 @@
       "createdAt": "2025-10-18T20:21:23.834Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.20.json",
+      "dataPath": "data/analysis/BofM/Alma.20.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.20",
@@ -881,7 +881,7 @@
       "createdAt": "2025-10-18T23:53:37.832Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.21.json",
+      "dataPath": "data/analysis/BofM/Alma.21.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.21",
@@ -889,7 +889,7 @@
       "createdAt": "2025-10-18T23:54:01.653Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.22.json",
+      "dataPath": "data/analysis/BofM/Alma.22.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.22",
@@ -897,7 +897,7 @@
       "createdAt": "2025-10-18T23:54:40.016Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.23.json",
+      "dataPath": "data/analysis/BofM/Alma.23.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.23",
@@ -905,7 +905,7 @@
       "createdAt": "2025-10-18T23:55:02.848Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.24.json",
+      "dataPath": "data/analysis/BofM/Alma.24.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.24",
@@ -913,7 +913,7 @@
       "createdAt": "2025-10-18T23:55:30.448Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.25.json",
+      "dataPath": "data/analysis/BofM/Alma.25.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.25",
@@ -921,7 +921,7 @@
       "createdAt": "2025-10-18T23:56:03.765Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.26.json",
+      "dataPath": "data/analysis/BofM/Alma.26.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.26",
@@ -929,7 +929,7 @@
       "createdAt": "2025-10-18T23:56:45.006Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.27.json",
+      "dataPath": "data/analysis/BofM/Alma.27.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.27",
@@ -937,7 +937,7 @@
       "createdAt": "2025-10-18T23:57:10.880Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.28.json",
+      "dataPath": "data/analysis/BofM/Alma.28.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.28",
@@ -945,7 +945,7 @@
       "createdAt": "2025-10-18T23:57:38.333Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.29.json",
+      "dataPath": "data/analysis/BofM/Alma.29.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.29",
@@ -953,7 +953,7 @@
       "createdAt": "2025-10-18T23:58:04.651Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.30.json",
+      "dataPath": "data/analysis/BofM/Alma.30.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.30",
@@ -961,7 +961,7 @@
       "createdAt": "2025-10-18T23:58:27.366Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.31.json",
+      "dataPath": "data/analysis/BofM/Alma.31.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.31",
@@ -969,7 +969,7 @@
       "createdAt": "2025-10-18T23:58:52.101Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.32.json",
+      "dataPath": "data/analysis/BofM/Alma.32.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.32",
@@ -977,7 +977,7 @@
       "createdAt": "2025-10-18T23:59:20.225Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.33.json",
+      "dataPath": "data/analysis/BofM/Alma.33.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.33",
@@ -985,7 +985,7 @@
       "createdAt": "2025-10-18T23:59:43.112Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.34.json",
+      "dataPath": "data/analysis/BofM/Alma.34.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.34",
@@ -993,7 +993,7 @@
       "createdAt": "2025-10-19T00:00:11.289Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.35.json",
+      "dataPath": "data/analysis/BofM/Alma.35.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.35",
@@ -1001,7 +1001,7 @@
       "createdAt": "2025-10-19T00:00:35.608Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.36.json",
+      "dataPath": "data/analysis/BofM/Alma.36.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.36",
@@ -1009,7 +1009,7 @@
       "createdAt": "2025-10-19T00:00:58.190Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.37.json",
+      "dataPath": "data/analysis/BofM/Alma.37.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.37",
@@ -1017,7 +1017,7 @@
       "createdAt": "2025-10-19T00:01:31.069Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.38.json",
+      "dataPath": "data/analysis/BofM/Alma.38.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.38",
@@ -1025,7 +1025,7 @@
       "createdAt": "2025-10-19T00:13:49.791Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.39.json",
+      "dataPath": "data/analysis/BofM/Alma.39.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.39",
@@ -1033,7 +1033,7 @@
       "createdAt": "2025-10-19T00:14:24.089Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.40.json",
+      "dataPath": "data/analysis/BofM/Alma.40.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.40",
@@ -1041,7 +1041,7 @@
       "createdAt": "2025-10-19T00:14:56.525Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.41.json",
+      "dataPath": "data/analysis/BofM/Alma.41.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.41",
@@ -1049,7 +1049,7 @@
       "createdAt": "2025-10-19T00:15:19.459Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.42.json",
+      "dataPath": "data/analysis/BofM/Alma.42.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.42",
@@ -1057,7 +1057,7 @@
       "createdAt": "2025-10-19T00:15:50.106Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.43.json",
+      "dataPath": "data/analysis/BofM/Alma.43.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.43",
@@ -1065,7 +1065,7 @@
       "createdAt": "2025-10-19T00:16:26.892Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.44.json",
+      "dataPath": "data/analysis/BofM/Alma.44.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.44",
@@ -1073,7 +1073,7 @@
       "createdAt": "2025-10-19T00:16:57.387Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.45.json",
+      "dataPath": "data/analysis/BofM/Alma.45.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.45",
@@ -1081,7 +1081,7 @@
       "createdAt": "2025-10-19T00:17:24.425Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.46.json",
+      "dataPath": "data/analysis/BofM/Alma.46.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.46",
@@ -1089,7 +1089,7 @@
       "createdAt": "2025-10-19T00:17:50.942Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.47.json",
+      "dataPath": "data/analysis/BofM/Alma.47.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.47",
@@ -1097,7 +1097,7 @@
       "createdAt": "2025-10-19T00:18:22.754Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.48.json",
+      "dataPath": "data/analysis/BofM/Alma.48.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.48",
@@ -1105,7 +1105,7 @@
       "createdAt": "2025-10-19T00:18:47.568Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.49.json",
+      "dataPath": "data/analysis/BofM/Alma.49.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.49",
@@ -1113,7 +1113,7 @@
       "createdAt": "2025-10-19T00:19:20.334Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.50.json",
+      "dataPath": "data/analysis/BofM/Alma.50.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.50",
@@ -1121,7 +1121,7 @@
       "createdAt": "2025-10-19T00:19:57.605Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.51.json",
+      "dataPath": "data/analysis/BofM/Alma.51.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.51",
@@ -1129,7 +1129,7 @@
       "createdAt": "2025-10-19T00:20:33.783Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.52.json",
+      "dataPath": "data/analysis/BofM/Alma.52.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.52",
@@ -1137,7 +1137,7 @@
       "createdAt": "2025-10-19T00:21:23.544Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.53.json",
+      "dataPath": "data/analysis/BofM/Alma.53.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.53",
@@ -1145,7 +1145,7 @@
       "createdAt": "2025-10-19T00:21:45.546Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.54.json",
+      "dataPath": "data/analysis/BofM/Alma.54.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.54",
@@ -1153,7 +1153,7 @@
       "createdAt": "2025-10-19T00:46:31.654Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.55.json",
+      "dataPath": "data/analysis/BofM/Alma.55.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.55",
@@ -1161,7 +1161,7 @@
       "createdAt": "2025-10-19T00:47:17.574Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.56.json",
+      "dataPath": "data/analysis/BofM/Alma.56.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.56",
@@ -1169,7 +1169,7 @@
       "createdAt": "2025-10-19T00:48:02.567Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.57.json",
+      "dataPath": "data/analysis/BofM/Alma.57.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.57",
@@ -1177,7 +1177,7 @@
       "createdAt": "2025-10-19T00:48:37.296Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.58.json",
+      "dataPath": "data/analysis/BofM/Alma.58.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.58",
@@ -1185,7 +1185,7 @@
       "createdAt": "2025-10-19T00:49:05.635Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.59.json",
+      "dataPath": "data/analysis/BofM/Alma.59.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.59",
@@ -1193,7 +1193,7 @@
       "createdAt": "2025-10-19T00:49:31.056Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.60.json",
+      "dataPath": "data/analysis/BofM/Alma.60.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.60",
@@ -1201,7 +1201,7 @@
       "createdAt": "2025-10-19T00:50:06.693Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.61.json",
+      "dataPath": "data/analysis/BofM/Alma.61.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.61",
@@ -1209,7 +1209,7 @@
       "createdAt": "2025-10-19T00:50:38.231Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.62.json",
+      "dataPath": "data/analysis/BofM/Alma.62.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.62",
@@ -1217,7 +1217,7 @@
       "createdAt": "2025-10-19T00:51:20.808Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Alma.63.json",
+      "dataPath": "data/analysis/BofM/Alma.63.json",
       "workOsisID": "BofM",
       "bookOsisID": "Alma",
       "chapterOsisID": "Alma.63",
@@ -1225,7 +1225,7 @@
       "createdAt": "2025-10-19T00:52:18.538Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Enos.1.json",
+      "dataPath": "data/analysis/BofM/Enos.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Enos",
       "chapterOsisID": "Enos.1",
@@ -1233,7 +1233,7 @@
       "createdAt": "2025-10-18T23:22:28.363Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.1.json",
+      "dataPath": "data/analysis/BofM/Eth.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.1",
@@ -1241,7 +1241,7 @@
       "createdAt": "2025-10-19T01:28:53.458Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.2.json",
+      "dataPath": "data/analysis/BofM/Eth.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.2",
@@ -1249,7 +1249,7 @@
       "createdAt": "2025-10-19T01:29:59.444Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.3.json",
+      "dataPath": "data/analysis/BofM/Eth.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.3",
@@ -1257,7 +1257,7 @@
       "createdAt": "2025-10-19T01:30:37.591Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.4.json",
+      "dataPath": "data/analysis/BofM/Eth.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.4",
@@ -1265,7 +1265,7 @@
       "createdAt": "2025-10-19T01:31:18.012Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.5.json",
+      "dataPath": "data/analysis/BofM/Eth.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.5",
@@ -1273,7 +1273,7 @@
       "createdAt": "2025-10-19T01:31:43.700Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.6.json",
+      "dataPath": "data/analysis/BofM/Eth.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.6",
@@ -1281,7 +1281,7 @@
       "createdAt": "2025-10-19T01:32:17.104Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.7.json",
+      "dataPath": "data/analysis/BofM/Eth.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.7",
@@ -1289,7 +1289,7 @@
       "createdAt": "2025-10-19T01:32:48.723Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.8.json",
+      "dataPath": "data/analysis/BofM/Eth.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.8",
@@ -1297,7 +1297,7 @@
       "createdAt": "2025-10-19T01:33:23.010Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.9.json",
+      "dataPath": "data/analysis/BofM/Eth.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.9",
@@ -1305,7 +1305,7 @@
       "createdAt": "2025-10-19T01:33:49.099Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.10.json",
+      "dataPath": "data/analysis/BofM/Eth.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.10",
@@ -1313,7 +1313,7 @@
       "createdAt": "2025-10-19T01:34:22.599Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.11.json",
+      "dataPath": "data/analysis/BofM/Eth.11.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.11",
@@ -1321,7 +1321,7 @@
       "createdAt": "2025-10-19T01:35:07.239Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.12.json",
+      "dataPath": "data/analysis/BofM/Eth.12.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.12",
@@ -1329,7 +1329,7 @@
       "createdAt": "2025-10-19T01:35:46.162Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.13.json",
+      "dataPath": "data/analysis/BofM/Eth.13.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.13",
@@ -1337,7 +1337,7 @@
       "createdAt": "2025-10-19T01:36:10.698Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.14.json",
+      "dataPath": "data/analysis/BofM/Eth.14.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.14",
@@ -1345,7 +1345,7 @@
       "createdAt": "2025-10-19T01:37:12.757Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Eth.15.json",
+      "dataPath": "data/analysis/BofM/Eth.15.json",
       "workOsisID": "BofM",
       "bookOsisID": "Eth",
       "chapterOsisID": "Eth.15",
@@ -1353,7 +1353,7 @@
       "createdAt": "2025-10-19T01:38:02.945Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.1.json",
+      "dataPath": "data/analysis/BofM/Hel.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.1",
@@ -1361,7 +1361,7 @@
       "createdAt": "2025-10-19T00:52:47.457Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.2.json",
+      "dataPath": "data/analysis/BofM/Hel.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.2",
@@ -1369,7 +1369,7 @@
       "createdAt": "2025-10-19T00:53:28.216Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.3.json",
+      "dataPath": "data/analysis/BofM/Hel.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.3",
@@ -1377,7 +1377,7 @@
       "createdAt": "2025-10-19T00:53:53.752Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.4.json",
+      "dataPath": "data/analysis/BofM/Hel.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.4",
@@ -1385,7 +1385,7 @@
       "createdAt": "2025-10-19T00:54:19.205Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.5.json",
+      "dataPath": "data/analysis/BofM/Hel.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.5",
@@ -1393,7 +1393,7 @@
       "createdAt": "2025-10-18T20:27:15.297Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.6.json",
+      "dataPath": "data/analysis/BofM/Hel.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.6",
@@ -1401,7 +1401,7 @@
       "createdAt": "2025-10-18T20:27:58.307Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.7.json",
+      "dataPath": "data/analysis/BofM/Hel.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.7",
@@ -1409,7 +1409,7 @@
       "createdAt": "2025-10-19T00:55:23.679Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.8.json",
+      "dataPath": "data/analysis/BofM/Hel.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.8",
@@ -1417,7 +1417,7 @@
       "createdAt": "2025-10-19T00:55:52.087Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.9.json",
+      "dataPath": "data/analysis/BofM/Hel.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.9",
@@ -1425,7 +1425,7 @@
       "createdAt": "2025-10-19T00:56:20.777Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.10.json",
+      "dataPath": "data/analysis/BofM/Hel.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.10",
@@ -1433,7 +1433,7 @@
       "createdAt": "2025-10-19T00:56:54.026Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.11.json",
+      "dataPath": "data/analysis/BofM/Hel.11.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.11",
@@ -1441,7 +1441,7 @@
       "createdAt": "2025-10-19T00:57:44.216Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.12.json",
+      "dataPath": "data/analysis/BofM/Hel.12.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.12",
@@ -1449,7 +1449,7 @@
       "createdAt": "2025-10-19T00:58:09.287Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.13.json",
+      "dataPath": "data/analysis/BofM/Hel.13.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.13",
@@ -1457,7 +1457,7 @@
       "createdAt": "2025-10-19T00:58:34.364Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.14.json",
+      "dataPath": "data/analysis/BofM/Hel.14.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.14",
@@ -1465,7 +1465,7 @@
       "createdAt": "2025-10-19T00:59:00.358Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.15.json",
+      "dataPath": "data/analysis/BofM/Hel.15.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.15",
@@ -1473,7 +1473,7 @@
       "createdAt": "2025-10-19T00:59:30.035Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Hel.16.json",
+      "dataPath": "data/analysis/BofM/Hel.16.json",
       "workOsisID": "BofM",
       "bookOsisID": "Hel",
       "chapterOsisID": "Hel.16",
@@ -1481,7 +1481,7 @@
       "createdAt": "2025-10-19T00:59:52.835Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jac.1.json",
+      "dataPath": "data/analysis/BofM/Jac.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jac",
       "chapterOsisID": "Jac.1",
@@ -1489,7 +1489,7 @@
       "createdAt": "2025-10-18T23:18:05.935Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jac.2.json",
+      "dataPath": "data/analysis/BofM/Jac.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jac",
       "chapterOsisID": "Jac.2",
@@ -1497,7 +1497,7 @@
       "createdAt": "2025-10-18T23:18:34.119Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jac.3.json",
+      "dataPath": "data/analysis/BofM/Jac.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jac",
       "chapterOsisID": "Jac.3",
@@ -1505,7 +1505,7 @@
       "createdAt": "2025-10-18T23:19:07.809Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jac.4.json",
+      "dataPath": "data/analysis/BofM/Jac.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jac",
       "chapterOsisID": "Jac.4",
@@ -1513,7 +1513,7 @@
       "createdAt": "2025-10-18T23:19:42.292Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jac.5.json",
+      "dataPath": "data/analysis/BofM/Jac.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jac",
       "chapterOsisID": "Jac.5",
@@ -1521,7 +1521,7 @@
       "createdAt": "2025-10-18T23:20:05.825Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jac.6.json",
+      "dataPath": "data/analysis/BofM/Jac.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jac",
       "chapterOsisID": "Jac.6",
@@ -1529,7 +1529,7 @@
       "createdAt": "2025-10-18T23:20:45.352Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jac.7.json",
+      "dataPath": "data/analysis/BofM/Jac.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jac",
       "chapterOsisID": "Jac.7",
@@ -1537,7 +1537,7 @@
       "createdAt": "2025-10-18T23:21:50.499Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Jar.1.json",
+      "dataPath": "data/analysis/BofM/Jar.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Jar",
       "chapterOsisID": "Jar.1",
@@ -1545,7 +1545,7 @@
       "createdAt": "2025-10-18T23:22:57.464Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.1.json",
+      "dataPath": "data/analysis/BofM/Morm.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.1",
@@ -1553,7 +1553,7 @@
       "createdAt": "2025-10-19T01:24:49.461Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.2.json",
+      "dataPath": "data/analysis/BofM/Morm.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.2",
@@ -1561,7 +1561,7 @@
       "createdAt": "2025-10-19T01:25:17.098Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.3.json",
+      "dataPath": "data/analysis/BofM/Morm.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.3",
@@ -1569,7 +1569,7 @@
       "createdAt": "2025-10-19T01:25:44.322Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.4.json",
+      "dataPath": "data/analysis/BofM/Morm.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.4",
@@ -1577,7 +1577,7 @@
       "createdAt": "2025-10-19T01:26:14.024Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.5.json",
+      "dataPath": "data/analysis/BofM/Morm.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.5",
@@ -1585,7 +1585,7 @@
       "createdAt": "2025-10-19T01:26:37.933Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.6.json",
+      "dataPath": "data/analysis/BofM/Morm.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.6",
@@ -1593,7 +1593,7 @@
       "createdAt": "2025-10-19T01:27:08.307Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.7.json",
+      "dataPath": "data/analysis/BofM/Morm.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.7",
@@ -1601,7 +1601,7 @@
       "createdAt": "2025-10-19T01:27:39.233Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.8.json",
+      "dataPath": "data/analysis/BofM/Morm.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.8",
@@ -1609,7 +1609,7 @@
       "createdAt": "2025-10-19T01:28:03.269Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Morm.9.json",
+      "dataPath": "data/analysis/BofM/Morm.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "Morm",
       "chapterOsisID": "Morm.9",
@@ -1617,7 +1617,7 @@
       "createdAt": "2025-10-19T01:28:32.555Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.1.json",
+      "dataPath": "data/analysis/BofM/Moro.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.1",
@@ -1625,7 +1625,7 @@
       "createdAt": "2025-10-19T01:38:31.707Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.2.json",
+      "dataPath": "data/analysis/BofM/Moro.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.2",
@@ -1633,7 +1633,7 @@
       "createdAt": "2025-10-19T01:39:01.609Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.3.json",
+      "dataPath": "data/analysis/BofM/Moro.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.3",
@@ -1641,7 +1641,7 @@
       "createdAt": "2025-10-19T01:39:39.946Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.4.json",
+      "dataPath": "data/analysis/BofM/Moro.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.4",
@@ -1649,7 +1649,7 @@
       "createdAt": "2025-10-19T01:39:57.445Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.5.json",
+      "dataPath": "data/analysis/BofM/Moro.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.5",
@@ -1657,7 +1657,7 @@
       "createdAt": "2025-10-19T01:40:20.666Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.6.json",
+      "dataPath": "data/analysis/BofM/Moro.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.6",
@@ -1665,7 +1665,7 @@
       "createdAt": "2025-10-19T01:40:51.142Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.7.json",
+      "dataPath": "data/analysis/BofM/Moro.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.7",
@@ -1673,7 +1673,7 @@
       "createdAt": "2025-10-19T01:41:16.622Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.8.json",
+      "dataPath": "data/analysis/BofM/Moro.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.8",
@@ -1681,7 +1681,7 @@
       "createdAt": "2025-10-19T01:41:47.993Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.9.json",
+      "dataPath": "data/analysis/BofM/Moro.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.9",
@@ -1689,7 +1689,7 @@
       "createdAt": "2025-10-19T01:42:21.071Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Moro.10.json",
+      "dataPath": "data/analysis/BofM/Moro.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "Moro",
       "chapterOsisID": "Moro.10",
@@ -1697,7 +1697,7 @@
       "createdAt": "2025-10-19T01:42:45.641Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.1.json",
+      "dataPath": "data/analysis/BofM/Mosi.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.1",
@@ -1705,7 +1705,7 @@
       "createdAt": "2025-10-18T23:24:13.581Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.2.json",
+      "dataPath": "data/analysis/BofM/Mosi.2.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.2",
@@ -1713,7 +1713,7 @@
       "createdAt": "2025-10-18T23:24:43.102Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.3.json",
+      "dataPath": "data/analysis/BofM/Mosi.3.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.3",
@@ -1721,7 +1721,7 @@
       "createdAt": "2025-10-18T23:25:13.749Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.4.json",
+      "dataPath": "data/analysis/BofM/Mosi.4.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.4",
@@ -1729,7 +1729,7 @@
       "createdAt": "2025-10-18T23:25:40.330Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.5.json",
+      "dataPath": "data/analysis/BofM/Mosi.5.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.5",
@@ -1737,7 +1737,7 @@
       "createdAt": "2025-10-18T23:26:08.425Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.6.json",
+      "dataPath": "data/analysis/BofM/Mosi.6.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.6",
@@ -1745,7 +1745,7 @@
       "createdAt": "2025-10-18T23:26:41.179Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.7.json",
+      "dataPath": "data/analysis/BofM/Mosi.7.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.7",
@@ -1753,7 +1753,7 @@
       "createdAt": "2025-10-18T23:27:35.371Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.8.json",
+      "dataPath": "data/analysis/BofM/Mosi.8.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.8",
@@ -1761,7 +1761,7 @@
       "createdAt": "2025-10-18T23:28:05.001Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.9.json",
+      "dataPath": "data/analysis/BofM/Mosi.9.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.9",
@@ -1769,7 +1769,7 @@
       "createdAt": "2025-10-18T23:28:35.412Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.10.json",
+      "dataPath": "data/analysis/BofM/Mosi.10.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.10",
@@ -1777,7 +1777,7 @@
       "createdAt": "2025-10-18T23:29:10.903Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.11.json",
+      "dataPath": "data/analysis/BofM/Mosi.11.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.11",
@@ -1785,7 +1785,7 @@
       "createdAt": "2025-10-18T23:29:54.332Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.12.json",
+      "dataPath": "data/analysis/BofM/Mosi.12.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.12",
@@ -1793,7 +1793,7 @@
       "createdAt": "2025-10-18T23:30:21.117Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.13.json",
+      "dataPath": "data/analysis/BofM/Mosi.13.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.13",
@@ -1801,7 +1801,7 @@
       "createdAt": "2025-10-18T23:31:05.026Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.14.json",
+      "dataPath": "data/analysis/BofM/Mosi.14.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.14",
@@ -1809,7 +1809,7 @@
       "createdAt": "2025-10-18T23:31:26.081Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.15.json",
+      "dataPath": "data/analysis/BofM/Mosi.15.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.15",
@@ -1817,7 +1817,7 @@
       "createdAt": "2025-10-18T23:32:06.383Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.16.json",
+      "dataPath": "data/analysis/BofM/Mosi.16.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.16",
@@ -1825,7 +1825,7 @@
       "createdAt": "2025-10-18T23:32:36.228Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.17.json",
+      "dataPath": "data/analysis/BofM/Mosi.17.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.17",
@@ -1833,7 +1833,7 @@
       "createdAt": "2025-10-18T23:33:01.838Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.18.json",
+      "dataPath": "data/analysis/BofM/Mosi.18.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.18",
@@ -1841,7 +1841,7 @@
       "createdAt": "2025-10-18T23:33:32.593Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.19.json",
+      "dataPath": "data/analysis/BofM/Mosi.19.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.19",
@@ -1849,7 +1849,7 @@
       "createdAt": "2025-10-18T23:34:07.119Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.20.json",
+      "dataPath": "data/analysis/BofM/Mosi.20.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.20",
@@ -1857,7 +1857,7 @@
       "createdAt": "2025-10-18T23:34:46.854Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.21.json",
+      "dataPath": "data/analysis/BofM/Mosi.21.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.21",
@@ -1865,7 +1865,7 @@
       "createdAt": "2025-10-18T23:35:13.996Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.22.json",
+      "dataPath": "data/analysis/BofM/Mosi.22.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.22",
@@ -1873,7 +1873,7 @@
       "createdAt": "2025-10-18T23:35:55.600Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.23.json",
+      "dataPath": "data/analysis/BofM/Mosi.23.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.23",
@@ -1881,7 +1881,7 @@
       "createdAt": "2025-10-18T23:36:29.374Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.24.json",
+      "dataPath": "data/analysis/BofM/Mosi.24.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.24",
@@ -1889,7 +1889,7 @@
       "createdAt": "2025-10-18T23:36:51.840Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.25.json",
+      "dataPath": "data/analysis/BofM/Mosi.25.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.25",
@@ -1897,7 +1897,7 @@
       "createdAt": "2025-10-18T23:37:24.862Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.26.json",
+      "dataPath": "data/analysis/BofM/Mosi.26.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.26",
@@ -1905,7 +1905,7 @@
       "createdAt": "2025-10-18T23:37:48.252Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.27.json",
+      "dataPath": "data/analysis/BofM/Mosi.27.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.27",
@@ -1913,7 +1913,7 @@
       "createdAt": "2025-10-18T23:38:12.069Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.28.json",
+      "dataPath": "data/analysis/BofM/Mosi.28.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.28",
@@ -1921,7 +1921,7 @@
       "createdAt": "2025-10-18T23:38:38.203Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Mosi.29.json",
+      "dataPath": "data/analysis/BofM/Mosi.29.json",
       "workOsisID": "BofM",
       "bookOsisID": "Mosi",
       "chapterOsisID": "Mosi.29",
@@ -1929,7 +1929,7 @@
       "createdAt": "2025-10-18T23:39:14.757Z"
     },
     {
-      "dataPath": "data/chapters/BofM/Omni.1.json",
+      "dataPath": "data/analysis/BofM/Omni.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "Omni",
       "chapterOsisID": "Omni.1",
@@ -1937,7 +1937,7 @@
       "createdAt": "2025-10-18T23:23:32.039Z"
     },
     {
-      "dataPath": "data/chapters/BofM/WoM.1.json",
+      "dataPath": "data/analysis/BofM/WoM.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "WoM",
       "chapterOsisID": "WoM.1",
@@ -1945,7 +1945,7 @@
       "createdAt": "2025-10-18T23:23:52.364Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.1.json",
+      "dataPath": "data/analysis/D&C/D&C.1.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.1",
@@ -1953,7 +1953,7 @@
       "createdAt": "2025-10-19T01:43:24.403Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.2.json",
+      "dataPath": "data/analysis/D&C/D&C.2.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.2",
@@ -1961,7 +1961,7 @@
       "createdAt": "2025-10-19T01:48:01.931Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.3.json",
+      "dataPath": "data/analysis/D&C/D&C.3.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.3",
@@ -1969,7 +1969,7 @@
       "createdAt": "2025-10-19T01:48:37.927Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.4.json",
+      "dataPath": "data/analysis/D&C/D&C.4.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.4",
@@ -1977,7 +1977,7 @@
       "createdAt": "2025-10-19T03:48:54.111Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.5.json",
+      "dataPath": "data/analysis/D&C/D&C.5.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.5",
@@ -1985,7 +1985,7 @@
       "createdAt": "2025-10-19T03:49:42.646Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.6.json",
+      "dataPath": "data/analysis/D&C/D&C.6.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.6",
@@ -1993,7 +1993,7 @@
       "createdAt": "2025-10-19T03:50:08.742Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.7.json",
+      "dataPath": "data/analysis/D&C/D&C.7.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.7",
@@ -2001,7 +2001,7 @@
       "createdAt": "2025-10-19T03:50:38.966Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.8.json",
+      "dataPath": "data/analysis/D&C/D&C.8.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.8",
@@ -2009,7 +2009,7 @@
       "createdAt": "2025-10-19T03:51:11.428Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.9.json",
+      "dataPath": "data/analysis/D&C/D&C.9.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.9",
@@ -2017,7 +2017,7 @@
       "createdAt": "2025-10-19T03:51:44.866Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.10.json",
+      "dataPath": "data/analysis/D&C/D&C.10.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.10",
@@ -2025,7 +2025,7 @@
       "createdAt": "2025-10-19T03:52:30.339Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.11.json",
+      "dataPath": "data/analysis/D&C/D&C.11.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.11",
@@ -2033,7 +2033,7 @@
       "createdAt": "2025-10-19T03:53:02.611Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.12.json",
+      "dataPath": "data/analysis/D&C/D&C.12.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.12",
@@ -2041,7 +2041,7 @@
       "createdAt": "2025-10-19T03:53:30.769Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.13.json",
+      "dataPath": "data/analysis/D&C/D&C.13.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.13",
@@ -2049,7 +2049,7 @@
       "createdAt": "2025-10-19T03:54:02.615Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.14.json",
+      "dataPath": "data/analysis/D&C/D&C.14.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.14",
@@ -2057,7 +2057,7 @@
       "createdAt": "2025-10-19T03:54:38.192Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.15.json",
+      "dataPath": "data/analysis/D&C/D&C.15.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.15",
@@ -2065,7 +2065,7 @@
       "createdAt": "2025-10-19T03:55:10.188Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.16.json",
+      "dataPath": "data/analysis/D&C/D&C.16.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.16",
@@ -2073,7 +2073,7 @@
       "createdAt": "2025-10-19T03:55:35.938Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.17.json",
+      "dataPath": "data/analysis/D&C/D&C.17.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.17",
@@ -2081,7 +2081,7 @@
       "createdAt": "2025-10-19T03:56:09.289Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.18.json",
+      "dataPath": "data/analysis/D&C/D&C.18.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.18",
@@ -2089,7 +2089,7 @@
       "createdAt": "2025-10-19T03:56:57.863Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.19.json",
+      "dataPath": "data/analysis/D&C/D&C.19.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.19",
@@ -2097,7 +2097,7 @@
       "createdAt": "2025-10-19T03:57:31.996Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.20.json",
+      "dataPath": "data/analysis/D&C/D&C.20.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.20",
@@ -2105,7 +2105,7 @@
       "createdAt": "2025-10-19T03:58:36.462Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.21.json",
+      "dataPath": "data/analysis/D&C/D&C.21.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.21",
@@ -2113,7 +2113,7 @@
       "createdAt": "2025-10-19T04:00:35.061Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.22.json",
+      "dataPath": "data/analysis/D&C/D&C.22.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.22",
@@ -2121,7 +2121,7 @@
       "createdAt": "2025-10-19T04:01:07.783Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.23.json",
+      "dataPath": "data/analysis/D&C/D&C.23.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.23",
@@ -2129,7 +2129,7 @@
       "createdAt": "2025-10-19T04:01:45.407Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.24.json",
+      "dataPath": "data/analysis/D&C/D&C.24.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.24",
@@ -2137,7 +2137,7 @@
       "createdAt": "2025-10-19T04:02:24.765Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.25.json",
+      "dataPath": "data/analysis/D&C/D&C.25.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.25",
@@ -2145,7 +2145,7 @@
       "createdAt": "2025-10-19T04:02:55.328Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.26.json",
+      "dataPath": "data/analysis/D&C/D&C.26.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.26",
@@ -2153,7 +2153,7 @@
       "createdAt": "2025-10-19T04:03:40.978Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.27.json",
+      "dataPath": "data/analysis/D&C/D&C.27.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.27",
@@ -2161,7 +2161,7 @@
       "createdAt": "2025-10-19T04:04:24.252Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.28.json",
+      "dataPath": "data/analysis/D&C/D&C.28.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.28",
@@ -2169,7 +2169,7 @@
       "createdAt": "2025-10-19T04:04:58.974Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.29.json",
+      "dataPath": "data/analysis/D&C/D&C.29.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.29",
@@ -2177,7 +2177,7 @@
       "createdAt": "2025-10-19T04:05:50.351Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.30.json",
+      "dataPath": "data/analysis/D&C/D&C.30.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.30",
@@ -2185,7 +2185,7 @@
       "createdAt": "2025-10-19T04:06:21.946Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.31.json",
+      "dataPath": "data/analysis/D&C/D&C.31.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.31",
@@ -2193,7 +2193,7 @@
       "createdAt": "2025-10-19T04:06:59.110Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.32.json",
+      "dataPath": "data/analysis/D&C/D&C.32.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.32",
@@ -2201,7 +2201,7 @@
       "createdAt": "2025-10-19T04:07:29.666Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.33.json",
+      "dataPath": "data/analysis/D&C/D&C.33.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.33",
@@ -2209,7 +2209,7 @@
       "createdAt": "2025-10-19T04:08:19.731Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.34.json",
+      "dataPath": "data/analysis/D&C/D&C.34.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.34",
@@ -2217,7 +2217,7 @@
       "createdAt": "2025-10-19T04:08:48.857Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.35.json",
+      "dataPath": "data/analysis/D&C/D&C.35.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.35",
@@ -2225,7 +2225,7 @@
       "createdAt": "2025-10-19T04:09:18.978Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.36.json",
+      "dataPath": "data/analysis/D&C/D&C.36.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.36",
@@ -2233,7 +2233,7 @@
       "createdAt": "2025-10-19T04:09:55.149Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.37.json",
+      "dataPath": "data/analysis/D&C/D&C.37.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.37",
@@ -2241,7 +2241,7 @@
       "createdAt": "2025-10-19T04:10:35.546Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.38.json",
+      "dataPath": "data/analysis/D&C/D&C.38.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.38",
@@ -2249,7 +2249,7 @@
       "createdAt": "2025-10-19T04:11:41.590Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.39.json",
+      "dataPath": "data/analysis/D&C/D&C.39.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.39",
@@ -2257,7 +2257,7 @@
       "createdAt": "2025-10-19T04:12:10.660Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.40.json",
+      "dataPath": "data/analysis/D&C/D&C.40.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.40",
@@ -2265,7 +2265,7 @@
       "createdAt": "2025-10-19T04:12:39.140Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.41.json",
+      "dataPath": "data/analysis/D&C/D&C.41.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.41",
@@ -2273,7 +2273,7 @@
       "createdAt": "2025-10-19T04:13:07.730Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.42.json",
+      "dataPath": "data/analysis/D&C/D&C.42.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.42",
@@ -2281,7 +2281,7 @@
       "createdAt": "2025-10-19T04:14:07.713Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.43.json",
+      "dataPath": "data/analysis/D&C/D&C.43.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.43",
@@ -2289,7 +2289,7 @@
       "createdAt": "2025-10-19T04:14:39.968Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.44.json",
+      "dataPath": "data/analysis/D&C/D&C.44.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.44",
@@ -2297,7 +2297,7 @@
       "createdAt": "2025-10-19T04:15:11.905Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.45.json",
+      "dataPath": "data/analysis/D&C/D&C.45.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.45",
@@ -2305,7 +2305,7 @@
       "createdAt": "2025-10-19T04:16:00.993Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.46.json",
+      "dataPath": "data/analysis/D&C/D&C.46.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.46",
@@ -2313,7 +2313,7 @@
       "createdAt": "2025-10-19T04:16:30.694Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.47.json",
+      "dataPath": "data/analysis/D&C/D&C.47.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.47",
@@ -2321,7 +2321,7 @@
       "createdAt": "2025-10-19T04:17:03.909Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.48.json",
+      "dataPath": "data/analysis/D&C/D&C.48.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.48",
@@ -2329,7 +2329,7 @@
       "createdAt": "2025-10-19T04:17:33.806Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.49.json",
+      "dataPath": "data/analysis/D&C/D&C.49.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.49",
@@ -2337,7 +2337,7 @@
       "createdAt": "2025-10-19T04:18:24.404Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.50.json",
+      "dataPath": "data/analysis/D&C/D&C.50.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.50",
@@ -2345,7 +2345,7 @@
       "createdAt": "2025-10-19T04:18:51.880Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.51.json",
+      "dataPath": "data/analysis/D&C/D&C.51.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.51",
@@ -2353,7 +2353,7 @@
       "createdAt": "2025-10-19T04:19:26.563Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.52.json",
+      "dataPath": "data/analysis/D&C/D&C.52.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.52",
@@ -2361,7 +2361,7 @@
       "createdAt": "2025-10-19T04:20:04.972Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.53.json",
+      "dataPath": "data/analysis/D&C/D&C.53.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.53",
@@ -2369,7 +2369,7 @@
       "createdAt": "2025-10-19T04:20:33.465Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.54.json",
+      "dataPath": "data/analysis/D&C/D&C.54.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.54",
@@ -2377,7 +2377,7 @@
       "createdAt": "2025-10-19T04:21:03.138Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.55.json",
+      "dataPath": "data/analysis/D&C/D&C.55.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.55",
@@ -2385,7 +2385,7 @@
       "createdAt": "2025-10-19T04:21:32.641Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.56.json",
+      "dataPath": "data/analysis/D&C/D&C.56.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.56",
@@ -2393,7 +2393,7 @@
       "createdAt": "2025-10-19T04:22:06.285Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.57.json",
+      "dataPath": "data/analysis/D&C/D&C.57.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.57",
@@ -2401,7 +2401,7 @@
       "createdAt": "2025-10-19T04:22:58.952Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.58.json",
+      "dataPath": "data/analysis/D&C/D&C.58.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.58",
@@ -2409,7 +2409,7 @@
       "createdAt": "2025-10-19T04:24:11.837Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.59.json",
+      "dataPath": "data/analysis/D&C/D&C.59.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.59",
@@ -2417,7 +2417,7 @@
       "createdAt": "2025-10-19T04:25:03.679Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.60.json",
+      "dataPath": "data/analysis/D&C/D&C.60.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.60",
@@ -2425,7 +2425,7 @@
       "createdAt": "2025-10-19T04:25:42.221Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.61.json",
+      "dataPath": "data/analysis/D&C/D&C.61.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.61",
@@ -2433,7 +2433,7 @@
       "createdAt": "2025-10-19T04:26:20.568Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.62.json",
+      "dataPath": "data/analysis/D&C/D&C.62.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.62",
@@ -2441,7 +2441,7 @@
       "createdAt": "2025-10-19T04:27:00.826Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.63.json",
+      "dataPath": "data/analysis/D&C/D&C.63.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.63",
@@ -2449,7 +2449,7 @@
       "createdAt": "2025-10-19T04:27:55.492Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.64.json",
+      "dataPath": "data/analysis/D&C/D&C.64.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.64",
@@ -2457,7 +2457,7 @@
       "createdAt": "2025-10-19T04:28:46.303Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.65.json",
+      "dataPath": "data/analysis/D&C/D&C.65.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.65",
@@ -2465,7 +2465,7 @@
       "createdAt": "2025-10-19T04:29:14.880Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.66.json",
+      "dataPath": "data/analysis/D&C/D&C.66.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.66",
@@ -2473,7 +2473,7 @@
       "createdAt": "2025-10-19T04:29:42.845Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.67.json",
+      "dataPath": "data/analysis/D&C/D&C.67.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.67",
@@ -2481,7 +2481,7 @@
       "createdAt": "2025-10-19T04:30:19.418Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.68.json",
+      "dataPath": "data/analysis/D&C/D&C.68.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.68",
@@ -2489,7 +2489,7 @@
       "createdAt": "2025-10-19T04:31:20.055Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.69.json",
+      "dataPath": "data/analysis/D&C/D&C.69.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.69",
@@ -2497,7 +2497,7 @@
       "createdAt": "2025-10-19T04:32:02.448Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.70.json",
+      "dataPath": "data/analysis/D&C/D&C.70.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.70",
@@ -2505,7 +2505,7 @@
       "createdAt": "2025-10-19T04:32:29.817Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.71.json",
+      "dataPath": "data/analysis/D&C/D&C.71.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.71",
@@ -2513,7 +2513,7 @@
       "createdAt": "2025-10-19T04:32:56.222Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.72.json",
+      "dataPath": "data/analysis/D&C/D&C.72.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.72",
@@ -2521,7 +2521,7 @@
       "createdAt": "2025-10-19T04:33:30.573Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.73.json",
+      "dataPath": "data/analysis/D&C/D&C.73.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.73",
@@ -2529,7 +2529,7 @@
       "createdAt": "2025-10-19T04:33:59.284Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.74.json",
+      "dataPath": "data/analysis/D&C/D&C.74.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.74",
@@ -2537,7 +2537,7 @@
       "createdAt": "2025-10-19T04:34:36.091Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.75.json",
+      "dataPath": "data/analysis/D&C/D&C.75.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.75",
@@ -2545,7 +2545,7 @@
       "createdAt": "2025-10-19T04:35:10.230Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.76.json",
+      "dataPath": "data/analysis/D&C/D&C.76.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.76",
@@ -2553,7 +2553,7 @@
       "createdAt": "2025-10-19T04:36:14.414Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.77.json",
+      "dataPath": "data/analysis/D&C/D&C.77.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.77",
@@ -2561,7 +2561,7 @@
       "createdAt": "2025-10-19T04:36:58.556Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.78.json",
+      "dataPath": "data/analysis/D&C/D&C.78.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.78",
@@ -2569,7 +2569,7 @@
       "createdAt": "2025-10-19T04:37:39.007Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.79.json",
+      "dataPath": "data/analysis/D&C/D&C.79.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.79",
@@ -2577,7 +2577,7 @@
       "createdAt": "2025-10-19T04:38:06.619Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.80.json",
+      "dataPath": "data/analysis/D&C/D&C.80.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.80",
@@ -2585,7 +2585,7 @@
       "createdAt": "2025-10-19T04:38:37.945Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.81.json",
+      "dataPath": "data/analysis/D&C/D&C.81.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.81",
@@ -2593,7 +2593,7 @@
       "createdAt": "2025-10-19T04:39:39.019Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.82.json",
+      "dataPath": "data/analysis/D&C/D&C.82.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.82",
@@ -2601,7 +2601,7 @@
       "createdAt": "2025-10-19T04:40:15.285Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.83.json",
+      "dataPath": "data/analysis/D&C/D&C.83.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.83",
@@ -2609,7 +2609,7 @@
       "createdAt": "2025-10-19T04:40:45.425Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.84.json",
+      "dataPath": "data/analysis/D&C/D&C.84.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.84",
@@ -2617,7 +2617,7 @@
       "createdAt": "2025-10-19T04:41:30.965Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.85.json",
+      "dataPath": "data/analysis/D&C/D&C.85.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.85",
@@ -2625,7 +2625,7 @@
       "createdAt": "2025-10-19T04:42:16.949Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.86.json",
+      "dataPath": "data/analysis/D&C/D&C.86.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.86",
@@ -2633,7 +2633,7 @@
       "createdAt": "2025-10-19T04:42:58.585Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.87.json",
+      "dataPath": "data/analysis/D&C/D&C.87.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.87",
@@ -2641,7 +2641,7 @@
       "createdAt": "2025-10-19T04:43:30.145Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.88.json",
+      "dataPath": "data/analysis/D&C/D&C.88.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.88",
@@ -2649,7 +2649,7 @@
       "createdAt": "2025-10-19T04:44:20.714Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.89.json",
+      "dataPath": "data/analysis/D&C/D&C.89.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.89",
@@ -2657,7 +2657,7 @@
       "createdAt": "2025-10-19T04:45:05.694Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.90.json",
+      "dataPath": "data/analysis/D&C/D&C.90.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.90",
@@ -2665,7 +2665,7 @@
       "createdAt": "2025-10-19T04:46:11.311Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.91.json",
+      "dataPath": "data/analysis/D&C/D&C.91.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.91",
@@ -2673,7 +2673,7 @@
       "createdAt": "2025-10-19T04:46:37.713Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.92.json",
+      "dataPath": "data/analysis/D&C/D&C.92.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.92",
@@ -2681,7 +2681,7 @@
       "createdAt": "2025-10-19T04:47:05.740Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.93.json",
+      "dataPath": "data/analysis/D&C/D&C.93.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.93",
@@ -2689,7 +2689,7 @@
       "createdAt": "2025-10-19T04:47:34.618Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.94.json",
+      "dataPath": "data/analysis/D&C/D&C.94.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.94",
@@ -2697,7 +2697,7 @@
       "createdAt": "2025-10-19T04:48:24.966Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.95.json",
+      "dataPath": "data/analysis/D&C/D&C.95.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.95",
@@ -2705,7 +2705,7 @@
       "createdAt": "2025-10-19T04:49:03.534Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.96.json",
+      "dataPath": "data/analysis/D&C/D&C.96.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.96",
@@ -2713,7 +2713,7 @@
       "createdAt": "2025-10-19T04:50:01.345Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.97.json",
+      "dataPath": "data/analysis/D&C/D&C.97.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.97",
@@ -2721,7 +2721,7 @@
       "createdAt": "2025-10-19T04:50:39.496Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.98.json",
+      "dataPath": "data/analysis/D&C/D&C.98.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.98",
@@ -2729,7 +2729,7 @@
       "createdAt": "2025-10-19T04:51:29.670Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.99.json",
+      "dataPath": "data/analysis/D&C/D&C.99.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.99",
@@ -2737,7 +2737,7 @@
       "createdAt": "2025-10-19T04:52:03.609Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.100.json",
+      "dataPath": "data/analysis/D&C/D&C.100.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.100",
@@ -2745,7 +2745,7 @@
       "createdAt": "2025-10-19T04:52:46.497Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.101.json",
+      "dataPath": "data/analysis/D&C/D&C.101.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.101",
@@ -2753,7 +2753,7 @@
       "createdAt": "2025-10-19T04:53:38.012Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.102.json",
+      "dataPath": "data/analysis/D&C/D&C.102.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.102",
@@ -2761,7 +2761,7 @@
       "createdAt": "2025-10-19T04:54:22.331Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.103.json",
+      "dataPath": "data/analysis/D&C/D&C.103.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.103",
@@ -2769,7 +2769,7 @@
       "createdAt": "2025-10-19T04:54:58.187Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.104.json",
+      "dataPath": "data/analysis/D&C/D&C.104.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.104",
@@ -2777,7 +2777,7 @@
       "createdAt": "2025-10-19T04:55:55.397Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.105.json",
+      "dataPath": "data/analysis/D&C/D&C.105.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.105",
@@ -2785,7 +2785,7 @@
       "createdAt": "2025-10-19T04:56:27.441Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.106.json",
+      "dataPath": "data/analysis/D&C/D&C.106.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.106",
@@ -2793,7 +2793,7 @@
       "createdAt": "2025-10-19T04:57:03.715Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.107.json",
+      "dataPath": "data/analysis/D&C/D&C.107.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.107",
@@ -2801,7 +2801,7 @@
       "createdAt": "2025-10-19T04:57:57.982Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.108.json",
+      "dataPath": "data/analysis/D&C/D&C.108.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.108",
@@ -2809,7 +2809,7 @@
       "createdAt": "2025-10-19T04:58:31.986Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.109.json",
+      "dataPath": "data/analysis/D&C/D&C.109.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.109",
@@ -2817,7 +2817,7 @@
       "createdAt": "2025-10-19T04:59:21.004Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.110.json",
+      "dataPath": "data/analysis/D&C/D&C.110.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.110",
@@ -2825,7 +2825,7 @@
       "createdAt": "2025-10-19T05:00:09.508Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.111.json",
+      "dataPath": "data/analysis/D&C/D&C.111.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.111",
@@ -2833,7 +2833,7 @@
       "createdAt": "2025-10-19T05:00:41.331Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.112.json",
+      "dataPath": "data/analysis/D&C/D&C.112.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.112",
@@ -2841,7 +2841,7 @@
       "createdAt": "2025-10-19T05:01:14.071Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.113.json",
+      "dataPath": "data/analysis/D&C/D&C.113.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.113",
@@ -2849,7 +2849,7 @@
       "createdAt": "2025-10-19T05:01:49.405Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.114.json",
+      "dataPath": "data/analysis/D&C/D&C.114.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.114",
@@ -2857,7 +2857,7 @@
       "createdAt": "2025-10-19T05:02:15.885Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.115.json",
+      "dataPath": "data/analysis/D&C/D&C.115.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.115",
@@ -2865,7 +2865,7 @@
       "createdAt": "2025-10-19T05:02:56.296Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.116.json",
+      "dataPath": "data/analysis/D&C/D&C.116.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.116",
@@ -2873,7 +2873,7 @@
       "createdAt": "2025-10-19T05:03:22.188Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.117.json",
+      "dataPath": "data/analysis/D&C/D&C.117.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.117",
@@ -2881,7 +2881,7 @@
       "createdAt": "2025-10-19T05:03:59.541Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.118.json",
+      "dataPath": "data/analysis/D&C/D&C.118.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.118",
@@ -2889,7 +2889,7 @@
       "createdAt": "2025-10-19T05:04:33.619Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.119.json",
+      "dataPath": "data/analysis/D&C/D&C.119.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.119",
@@ -2897,7 +2897,7 @@
       "createdAt": "2025-10-19T05:05:09.189Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.120.json",
+      "dataPath": "data/analysis/D&C/D&C.120.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.120",
@@ -2905,7 +2905,7 @@
       "createdAt": "2025-10-19T05:05:35.963Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.121.json",
+      "dataPath": "data/analysis/D&C/D&C.121.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.121",
@@ -2913,7 +2913,7 @@
       "createdAt": "2025-10-19T05:06:16.452Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.122.json",
+      "dataPath": "data/analysis/D&C/D&C.122.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.122",
@@ -2921,7 +2921,7 @@
       "createdAt": "2025-10-19T05:06:50.563Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.123.json",
+      "dataPath": "data/analysis/D&C/D&C.123.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.123",
@@ -2929,7 +2929,7 @@
       "createdAt": "2025-10-19T05:07:26.280Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.124.json",
+      "dataPath": "data/analysis/D&C/D&C.124.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.124",
@@ -2937,7 +2937,7 @@
       "createdAt": "2025-10-19T05:08:40.958Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.125.json",
+      "dataPath": "data/analysis/D&C/D&C.125.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.125",
@@ -2945,7 +2945,7 @@
       "createdAt": "2025-10-19T05:09:12.258Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.126.json",
+      "dataPath": "data/analysis/D&C/D&C.126.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.126",
@@ -2953,7 +2953,7 @@
       "createdAt": "2025-10-19T05:09:49.004Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.127.json",
+      "dataPath": "data/analysis/D&C/D&C.127.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.127",
@@ -2961,7 +2961,7 @@
       "createdAt": "2025-10-19T05:10:15.990Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.128.json",
+      "dataPath": "data/analysis/D&C/D&C.128.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.128",
@@ -2969,7 +2969,7 @@
       "createdAt": "2025-10-19T05:11:13.917Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.129.json",
+      "dataPath": "data/analysis/D&C/D&C.129.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.129",
@@ -2977,7 +2977,7 @@
       "createdAt": "2025-10-19T05:11:41.318Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.130.json",
+      "dataPath": "data/analysis/D&C/D&C.130.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.130",
@@ -2985,7 +2985,7 @@
       "createdAt": "2025-10-19T05:12:17.086Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.131.json",
+      "dataPath": "data/analysis/D&C/D&C.131.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.131",
@@ -2993,7 +2993,7 @@
       "createdAt": "2025-10-19T05:12:45.167Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.132.json",
+      "dataPath": "data/analysis/D&C/D&C.132.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.132",
@@ -3001,7 +3001,7 @@
       "createdAt": "2025-10-19T05:13:34.555Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.133.json",
+      "dataPath": "data/analysis/D&C/D&C.133.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.133",
@@ -3009,7 +3009,7 @@
       "createdAt": "2025-10-19T05:14:30.997Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.134.json",
+      "dataPath": "data/analysis/D&C/D&C.134.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.134",
@@ -3017,7 +3017,7 @@
       "createdAt": "2025-10-19T05:15:02.953Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.135.json",
+      "dataPath": "data/analysis/D&C/D&C.135.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.135",
@@ -3025,7 +3025,7 @@
       "createdAt": "2025-10-19T05:15:41.812Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.136.json",
+      "dataPath": "data/analysis/D&C/D&C.136.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.136",
@@ -3033,7 +3033,7 @@
       "createdAt": "2025-10-19T05:16:17.597Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.137.json",
+      "dataPath": "data/analysis/D&C/D&C.137.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.137",
@@ -3041,7 +3041,7 @@
       "createdAt": "2025-10-19T05:16:38.646Z"
     },
     {
-      "dataPath": "data/chapters/D&C/D&C.138.json",
+      "dataPath": "data/analysis/D&C/D&C.138.json",
       "workOsisID": "D&C",
       "bookOsisID": "D&C",
       "chapterOsisID": "D&C.138",
@@ -3049,7 +3049,7 @@
       "createdAt": "2025-10-19T05:17:56.516Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.1.json",
+      "dataPath": "data/analysis/Didache/Did.1.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.1",
@@ -3057,7 +3057,7 @@
       "createdAt": "2025-10-20T12:27:45.932Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.2.json",
+      "dataPath": "data/analysis/Didache/Did.2.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.2",
@@ -3065,7 +3065,7 @@
       "createdAt": "2025-10-20T12:28:51.243Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.3.json",
+      "dataPath": "data/analysis/Didache/Did.3.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.3",
@@ -3073,7 +3073,7 @@
       "createdAt": "2025-10-20T12:29:35.984Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.4.json",
+      "dataPath": "data/analysis/Didache/Did.4.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.4",
@@ -3081,7 +3081,7 @@
       "createdAt": "2025-10-20T12:30:14.114Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.5.json",
+      "dataPath": "data/analysis/Didache/Did.5.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.5",
@@ -3089,7 +3089,7 @@
       "createdAt": "2025-10-20T12:30:43.819Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.6.json",
+      "dataPath": "data/analysis/Didache/Did.6.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.6",
@@ -3097,7 +3097,7 @@
       "createdAt": "2025-10-20T12:31:42.290Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.7.json",
+      "dataPath": "data/analysis/Didache/Did.7.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.7",
@@ -3105,7 +3105,7 @@
       "createdAt": "2025-10-20T12:32:22.793Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.8.json",
+      "dataPath": "data/analysis/Didache/Did.8.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.8",
@@ -3113,7 +3113,7 @@
       "createdAt": "2025-10-20T12:33:00.958Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.9.json",
+      "dataPath": "data/analysis/Didache/Did.9.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.9",
@@ -3121,7 +3121,7 @@
       "createdAt": "2025-10-20T12:33:50.048Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.10.json",
+      "dataPath": "data/analysis/Didache/Did.10.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.10",
@@ -3129,7 +3129,7 @@
       "createdAt": "2025-10-20T12:34:53.381Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.11.json",
+      "dataPath": "data/analysis/Didache/Did.11.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.11",
@@ -3137,7 +3137,7 @@
       "createdAt": "2025-10-20T12:35:45.806Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.12.json",
+      "dataPath": "data/analysis/Didache/Did.12.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.12",
@@ -3145,7 +3145,7 @@
       "createdAt": "2025-10-20T12:36:26.011Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.13.json",
+      "dataPath": "data/analysis/Didache/Did.13.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.13",
@@ -3153,7 +3153,7 @@
       "createdAt": "2025-10-20T12:37:16.320Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.14.json",
+      "dataPath": "data/analysis/Didache/Did.14.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.14",
@@ -3161,7 +3161,7 @@
       "createdAt": "2025-10-20T12:37:50.653Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.15.json",
+      "dataPath": "data/analysis/Didache/Did.15.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.15",
@@ -3169,7 +3169,7 @@
       "createdAt": "2025-10-20T12:38:28.683Z"
     },
     {
-      "dataPath": "data/chapters/Didache/Did.16.json",
+      "dataPath": "data/analysis/Didache/Did.16.json",
       "workOsisID": "Didache",
       "bookOsisID": "Did",
       "chapterOsisID": "Did.16",
@@ -3177,7 +3177,7 @@
       "createdAt": "2025-10-20T12:39:16.148Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.1.json",
+      "dataPath": "data/analysis/KJVA/1Esd.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.1",
@@ -3185,7 +3185,7 @@
       "createdAt": "2025-10-19T01:50:31.378Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.2.json",
+      "dataPath": "data/analysis/KJVA/1Esd.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.2",
@@ -3193,7 +3193,7 @@
       "createdAt": "2025-10-19T01:50:54.582Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.3.json",
+      "dataPath": "data/analysis/KJVA/1Esd.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.3",
@@ -3201,7 +3201,7 @@
       "createdAt": "2025-10-19T01:51:35.078Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.4.json",
+      "dataPath": "data/analysis/KJVA/1Esd.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.4",
@@ -3209,7 +3209,7 @@
       "createdAt": "2025-10-19T01:52:58.229Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.5.json",
+      "dataPath": "data/analysis/KJVA/1Esd.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.5",
@@ -3217,7 +3217,7 @@
       "createdAt": "2025-10-19T01:53:58.024Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.6.json",
+      "dataPath": "data/analysis/KJVA/1Esd.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.6",
@@ -3225,7 +3225,7 @@
       "createdAt": "2025-10-19T01:54:30.892Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.7.json",
+      "dataPath": "data/analysis/KJVA/1Esd.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.7",
@@ -3233,7 +3233,7 @@
       "createdAt": "2025-10-19T01:55:07.470Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.8.json",
+      "dataPath": "data/analysis/KJVA/1Esd.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.8",
@@ -3241,7 +3241,7 @@
       "createdAt": "2025-10-19T01:55:56.029Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Esd.9.json",
+      "dataPath": "data/analysis/KJVA/1Esd.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Esd",
       "chapterOsisID": "1Esd.9",
@@ -3249,7 +3249,7 @@
       "createdAt": "2025-10-19T01:56:32.746Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.1.json",
+      "dataPath": "data/analysis/KJVA/1Macc.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.1",
@@ -3257,7 +3257,7 @@
       "createdAt": "2025-10-19T02:11:09.087Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.2.json",
+      "dataPath": "data/analysis/KJVA/1Macc.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.2",
@@ -3265,7 +3265,7 @@
       "createdAt": "2025-10-19T02:11:47.747Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.3.json",
+      "dataPath": "data/analysis/KJVA/1Macc.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.3",
@@ -3273,7 +3273,7 @@
       "createdAt": "2025-10-19T02:12:28.202Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.4.json",
+      "dataPath": "data/analysis/KJVA/1Macc.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.4",
@@ -3281,7 +3281,7 @@
       "createdAt": "2025-10-19T02:13:15.067Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.5.json",
+      "dataPath": "data/analysis/KJVA/1Macc.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.5",
@@ -3289,7 +3289,7 @@
       "createdAt": "2025-10-19T02:14:27.061Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.6.json",
+      "dataPath": "data/analysis/KJVA/1Macc.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.6",
@@ -3297,7 +3297,7 @@
       "createdAt": "2025-10-19T02:15:50.795Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.7.json",
+      "dataPath": "data/analysis/KJVA/1Macc.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.7",
@@ -3305,7 +3305,7 @@
       "createdAt": "2025-10-19T02:16:45.098Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.8.json",
+      "dataPath": "data/analysis/KJVA/1Macc.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.8",
@@ -3313,7 +3313,7 @@
       "createdAt": "2025-10-19T02:17:28.995Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.9.json",
+      "dataPath": "data/analysis/KJVA/1Macc.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.9",
@@ -3321,7 +3321,7 @@
       "createdAt": "2025-10-19T02:18:35.839Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.10.json",
+      "dataPath": "data/analysis/KJVA/1Macc.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.10",
@@ -3329,7 +3329,7 @@
       "createdAt": "2025-10-19T02:19:58.056Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.11.json",
+      "dataPath": "data/analysis/KJVA/1Macc.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.11",
@@ -3337,7 +3337,7 @@
       "createdAt": "2025-10-19T02:21:13.882Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.12.json",
+      "dataPath": "data/analysis/KJVA/1Macc.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.12",
@@ -3345,7 +3345,7 @@
       "createdAt": "2025-10-19T02:22:09.003Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.13.json",
+      "dataPath": "data/analysis/KJVA/1Macc.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.13",
@@ -3353,7 +3353,7 @@
       "createdAt": "2025-10-19T02:23:00.365Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.14.json",
+      "dataPath": "data/analysis/KJVA/1Macc.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.14",
@@ -3361,7 +3361,7 @@
       "createdAt": "2025-10-19T02:23:36.675Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.15.json",
+      "dataPath": "data/analysis/KJVA/1Macc.15.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.15",
@@ -3369,7 +3369,7 @@
       "createdAt": "2025-10-19T02:24:23.209Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/1Macc.16.json",
+      "dataPath": "data/analysis/KJVA/1Macc.16.json",
       "workOsisID": "KJVA",
       "bookOsisID": "1Macc",
       "chapterOsisID": "1Macc.16",
@@ -3377,7 +3377,7 @@
       "createdAt": "2025-10-19T02:25:17.377Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.1.json",
+      "dataPath": "data/analysis/KJVA/2Esd.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.1",
@@ -3385,7 +3385,7 @@
       "createdAt": "2025-10-19T01:57:15.322Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.2.json",
+      "dataPath": "data/analysis/KJVA/2Esd.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.2",
@@ -3393,7 +3393,7 @@
       "createdAt": "2025-10-19T01:58:01.676Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.3.json",
+      "dataPath": "data/analysis/KJVA/2Esd.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.3",
@@ -3401,7 +3401,7 @@
       "createdAt": "2025-10-19T01:58:40.335Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.4.json",
+      "dataPath": "data/analysis/KJVA/2Esd.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.4",
@@ -3409,7 +3409,7 @@
       "createdAt": "2025-10-19T02:00:49.268Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.5.json",
+      "dataPath": "data/analysis/KJVA/2Esd.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.5",
@@ -3417,7 +3417,7 @@
       "createdAt": "2025-10-19T02:01:19.897Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.6.json",
+      "dataPath": "data/analysis/KJVA/2Esd.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.6",
@@ -3425,7 +3425,7 @@
       "createdAt": "2025-10-19T02:01:53.977Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.7.json",
+      "dataPath": "data/analysis/KJVA/2Esd.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.7",
@@ -3433,7 +3433,7 @@
       "createdAt": "2025-10-19T02:03:16.079Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.8.json",
+      "dataPath": "data/analysis/KJVA/2Esd.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.8",
@@ -3441,7 +3441,7 @@
       "createdAt": "2025-10-19T02:03:55.423Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.9.json",
+      "dataPath": "data/analysis/KJVA/2Esd.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.9",
@@ -3449,7 +3449,7 @@
       "createdAt": "2025-10-19T02:04:38.496Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.10.json",
+      "dataPath": "data/analysis/KJVA/2Esd.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.10",
@@ -3457,7 +3457,7 @@
       "createdAt": "2025-10-19T02:05:23.084Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.11.json",
+      "dataPath": "data/analysis/KJVA/2Esd.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.11",
@@ -3465,7 +3465,7 @@
       "createdAt": "2025-10-19T02:06:10.797Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.12.json",
+      "dataPath": "data/analysis/KJVA/2Esd.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.12",
@@ -3473,7 +3473,7 @@
       "createdAt": "2025-10-19T02:06:46.191Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.13.json",
+      "dataPath": "data/analysis/KJVA/2Esd.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.13",
@@ -3481,7 +3481,7 @@
       "createdAt": "2025-10-19T02:07:27.533Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.14.json",
+      "dataPath": "data/analysis/KJVA/2Esd.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.14",
@@ -3489,7 +3489,7 @@
       "createdAt": "2025-10-19T02:08:05.686Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.15.json",
+      "dataPath": "data/analysis/KJVA/2Esd.15.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.15",
@@ -3497,7 +3497,7 @@
       "createdAt": "2025-10-19T02:08:41.737Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Esd.16.json",
+      "dataPath": "data/analysis/KJVA/2Esd.16.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Esd",
       "chapterOsisID": "2Esd.16",
@@ -3505,7 +3505,7 @@
       "createdAt": "2025-10-19T02:10:03.834Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.1.json",
+      "dataPath": "data/analysis/KJVA/2Macc.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.1",
@@ -3513,7 +3513,7 @@
       "createdAt": "2025-10-19T02:26:18.468Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.2.json",
+      "dataPath": "data/analysis/KJVA/2Macc.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.2",
@@ -3521,7 +3521,7 @@
       "createdAt": "2025-10-19T02:27:01.826Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.3.json",
+      "dataPath": "data/analysis/KJVA/2Macc.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.3",
@@ -3529,7 +3529,7 @@
       "createdAt": "2025-10-19T02:27:34.444Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.4.json",
+      "dataPath": "data/analysis/KJVA/2Macc.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.4",
@@ -3537,7 +3537,7 @@
       "createdAt": "2025-10-19T02:28:14.122Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.5.json",
+      "dataPath": "data/analysis/KJVA/2Macc.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.5",
@@ -3545,7 +3545,7 @@
       "createdAt": "2025-10-19T02:29:01.558Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.6.json",
+      "dataPath": "data/analysis/KJVA/2Macc.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.6",
@@ -3553,7 +3553,7 @@
       "createdAt": "2025-10-19T02:29:51.788Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.7.json",
+      "dataPath": "data/analysis/KJVA/2Macc.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.7",
@@ -3561,7 +3561,7 @@
       "createdAt": "2025-10-19T02:30:27.762Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.8.json",
+      "dataPath": "data/analysis/KJVA/2Macc.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.8",
@@ -3569,7 +3569,7 @@
       "createdAt": "2025-10-19T02:31:16.739Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.9.json",
+      "dataPath": "data/analysis/KJVA/2Macc.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.9",
@@ -3577,7 +3577,7 @@
       "createdAt": "2025-10-19T02:31:52.721Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.10.json",
+      "dataPath": "data/analysis/KJVA/2Macc.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.10",
@@ -3585,7 +3585,7 @@
       "createdAt": "2025-10-19T02:34:04.092Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.11.json",
+      "dataPath": "data/analysis/KJVA/2Macc.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.11",
@@ -3593,7 +3593,7 @@
       "createdAt": "2025-10-19T02:34:37.859Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.12.json",
+      "dataPath": "data/analysis/KJVA/2Macc.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.12",
@@ -3601,7 +3601,7 @@
       "createdAt": "2025-10-19T02:35:08.633Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.13.json",
+      "dataPath": "data/analysis/KJVA/2Macc.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.13",
@@ -3609,7 +3609,7 @@
       "createdAt": "2025-10-19T02:35:55.823Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.14.json",
+      "dataPath": "data/analysis/KJVA/2Macc.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.14",
@@ -3617,7 +3617,7 @@
       "createdAt": "2025-10-19T02:36:53.142Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/2Macc.15.json",
+      "dataPath": "data/analysis/KJVA/2Macc.15.json",
       "workOsisID": "KJVA",
       "bookOsisID": "2Macc",
       "chapterOsisID": "2Macc.15",
@@ -3625,7 +3625,7 @@
       "createdAt": "2025-10-19T02:37:44.856Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/AddEsth.10.json",
+      "dataPath": "data/analysis/KJVA/AddEsth.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "AddEsth",
       "chapterOsisID": "AddEsth.10",
@@ -3633,7 +3633,7 @@
       "createdAt": "2025-10-19T02:38:31.165Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/AddEsth.11.json",
+      "dataPath": "data/analysis/KJVA/AddEsth.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "AddEsth",
       "chapterOsisID": "AddEsth.11",
@@ -3641,7 +3641,7 @@
       "createdAt": "2025-10-19T02:38:56.689Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/AddEsth.12.json",
+      "dataPath": "data/analysis/KJVA/AddEsth.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "AddEsth",
       "chapterOsisID": "AddEsth.12",
@@ -3649,7 +3649,7 @@
       "createdAt": "2025-10-19T02:39:30.845Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/AddEsth.13.json",
+      "dataPath": "data/analysis/KJVA/AddEsth.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "AddEsth",
       "chapterOsisID": "AddEsth.13",
@@ -3657,7 +3657,7 @@
       "createdAt": "2025-10-19T02:40:06.339Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/AddEsth.14.json",
+      "dataPath": "data/analysis/KJVA/AddEsth.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "AddEsth",
       "chapterOsisID": "AddEsth.14",
@@ -3665,7 +3665,7 @@
       "createdAt": "2025-10-19T02:40:38.062Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/AddEsth.15.json",
+      "dataPath": "data/analysis/KJVA/AddEsth.15.json",
       "workOsisID": "KJVA",
       "bookOsisID": "AddEsth",
       "chapterOsisID": "AddEsth.15",
@@ -3673,7 +3673,7 @@
       "createdAt": "2025-10-19T02:41:14.658Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/AddEsth.16.json",
+      "dataPath": "data/analysis/KJVA/AddEsth.16.json",
       "workOsisID": "KJVA",
       "bookOsisID": "AddEsth",
       "chapterOsisID": "AddEsth.16",
@@ -3681,7 +3681,7 @@
       "createdAt": "2025-10-19T02:41:42.715Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/EpJer.1.json",
+      "dataPath": "data/analysis/KJVA/EpJer.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "EpJer",
       "chapterOsisID": "EpJer.1",
@@ -3689,7 +3689,7 @@
       "createdAt": "2025-10-19T02:53:13.578Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/EpLao.1.json",
+      "dataPath": "data/analysis/KJVA/EpLao.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "EpLao",
       "chapterOsisID": "EpLao.1",
@@ -3697,7 +3697,7 @@
       "createdAt": "2025-10-19T02:52:26.492Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.1.json",
+      "dataPath": "data/analysis/KJVA/Jdt.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.1",
@@ -3705,7 +3705,7 @@
       "createdAt": "2025-10-19T02:42:11.651Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.2.json",
+      "dataPath": "data/analysis/KJVA/Jdt.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.2",
@@ -3713,7 +3713,7 @@
       "createdAt": "2025-10-19T02:42:58.151Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.3.json",
+      "dataPath": "data/analysis/KJVA/Jdt.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.3",
@@ -3721,7 +3721,7 @@
       "createdAt": "2025-10-19T02:43:34.442Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.4.json",
+      "dataPath": "data/analysis/KJVA/Jdt.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.4",
@@ -3729,7 +3729,7 @@
       "createdAt": "2025-10-19T02:44:03.737Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.5.json",
+      "dataPath": "data/analysis/KJVA/Jdt.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.5",
@@ -3737,7 +3737,7 @@
       "createdAt": "2025-10-19T02:44:35.804Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.6.json",
+      "dataPath": "data/analysis/KJVA/Jdt.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.6",
@@ -3745,7 +3745,7 @@
       "createdAt": "2025-10-19T02:45:25.866Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.7.json",
+      "dataPath": "data/analysis/KJVA/Jdt.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.7",
@@ -3753,7 +3753,7 @@
       "createdAt": "2025-10-19T02:46:08.002Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.8.json",
+      "dataPath": "data/analysis/KJVA/Jdt.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.8",
@@ -3761,7 +3761,7 @@
       "createdAt": "2025-10-19T02:46:56.335Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.9.json",
+      "dataPath": "data/analysis/KJVA/Jdt.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.9",
@@ -3769,7 +3769,7 @@
       "createdAt": "2025-10-19T02:47:39.595Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.10.json",
+      "dataPath": "data/analysis/KJVA/Jdt.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.10",
@@ -3777,7 +3777,7 @@
       "createdAt": "2025-10-19T02:48:21.942Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.11.json",
+      "dataPath": "data/analysis/KJVA/Jdt.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.11",
@@ -3785,7 +3785,7 @@
       "createdAt": "2025-10-19T02:49:00.353Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.12.json",
+      "dataPath": "data/analysis/KJVA/Jdt.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.12",
@@ -3793,7 +3793,7 @@
       "createdAt": "2025-10-19T02:49:35.369Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.13.json",
+      "dataPath": "data/analysis/KJVA/Jdt.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.13",
@@ -3801,7 +3801,7 @@
       "createdAt": "2025-10-19T02:50:02.437Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.14.json",
+      "dataPath": "data/analysis/KJVA/Jdt.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.14",
@@ -3809,7 +3809,7 @@
       "createdAt": "2025-10-19T02:50:41.206Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.15.json",
+      "dataPath": "data/analysis/KJVA/Jdt.15.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.15",
@@ -3817,7 +3817,7 @@
       "createdAt": "2025-10-19T02:51:11.758Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Jdt.16.json",
+      "dataPath": "data/analysis/KJVA/Jdt.16.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Jdt",
       "chapterOsisID": "Jdt.16",
@@ -3825,7 +3825,7 @@
       "createdAt": "2025-10-19T02:51:50.928Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/PrAzar.1.json",
+      "dataPath": "data/analysis/KJVA/PrAzar.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "PrAzar",
       "chapterOsisID": "PrAzar.1",
@@ -3833,7 +3833,7 @@
       "createdAt": "2025-10-19T02:54:10.414Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/PrMan.1.json",
+      "dataPath": "data/analysis/KJVA/PrMan.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "PrMan",
       "chapterOsisID": "PrMan.1",
@@ -3841,7 +3841,7 @@
       "createdAt": "2025-10-19T02:54:52.704Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.1.json",
+      "dataPath": "data/analysis/KJVA/Sir.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.1",
@@ -3849,7 +3849,7 @@
       "createdAt": "2025-10-19T02:56:12.613Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.2.json",
+      "dataPath": "data/analysis/KJVA/Sir.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.2",
@@ -3857,7 +3857,7 @@
       "createdAt": "2025-10-19T02:56:44.030Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.3.json",
+      "dataPath": "data/analysis/KJVA/Sir.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.3",
@@ -3865,7 +3865,7 @@
       "createdAt": "2025-10-19T02:57:18.240Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.4.json",
+      "dataPath": "data/analysis/KJVA/Sir.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.4",
@@ -3873,7 +3873,7 @@
       "createdAt": "2025-10-19T02:57:48.813Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.5.json",
+      "dataPath": "data/analysis/KJVA/Sir.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.5",
@@ -3881,7 +3881,7 @@
       "createdAt": "2025-10-19T02:58:24.679Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.6.json",
+      "dataPath": "data/analysis/KJVA/Sir.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.6",
@@ -3889,7 +3889,7 @@
       "createdAt": "2025-10-19T02:59:02.364Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.7.json",
+      "dataPath": "data/analysis/KJVA/Sir.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.7",
@@ -3897,7 +3897,7 @@
       "createdAt": "2025-10-19T02:59:40.453Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.8.json",
+      "dataPath": "data/analysis/KJVA/Sir.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.8",
@@ -3905,7 +3905,7 @@
       "createdAt": "2025-10-19T03:00:09.187Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.9.json",
+      "dataPath": "data/analysis/KJVA/Sir.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.9",
@@ -3913,7 +3913,7 @@
       "createdAt": "2025-10-19T03:00:41.785Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.10.json",
+      "dataPath": "data/analysis/KJVA/Sir.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.10",
@@ -3921,7 +3921,7 @@
       "createdAt": "2025-10-19T03:01:10.276Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.11.json",
+      "dataPath": "data/analysis/KJVA/Sir.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.11",
@@ -3929,7 +3929,7 @@
       "createdAt": "2025-10-19T03:01:54.254Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.12.json",
+      "dataPath": "data/analysis/KJVA/Sir.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.12",
@@ -3937,7 +3937,7 @@
       "createdAt": "2025-10-19T03:02:23.542Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.13.json",
+      "dataPath": "data/analysis/KJVA/Sir.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.13",
@@ -3945,7 +3945,7 @@
       "createdAt": "2025-10-19T03:02:55.114Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.14.json",
+      "dataPath": "data/analysis/KJVA/Sir.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.14",
@@ -3953,7 +3953,7 @@
       "createdAt": "2025-10-19T03:03:37.505Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.15.json",
+      "dataPath": "data/analysis/KJVA/Sir.15.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.15",
@@ -3961,7 +3961,7 @@
       "createdAt": "2025-10-19T03:04:02.083Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.16.json",
+      "dataPath": "data/analysis/KJVA/Sir.16.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.16",
@@ -3969,7 +3969,7 @@
       "createdAt": "2025-10-19T03:04:43.872Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.17.json",
+      "dataPath": "data/analysis/KJVA/Sir.17.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.17",
@@ -3977,7 +3977,7 @@
       "createdAt": "2025-10-19T03:05:21.493Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.18.json",
+      "dataPath": "data/analysis/KJVA/Sir.18.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.18",
@@ -3985,7 +3985,7 @@
       "createdAt": "2025-10-19T03:06:02.822Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.19.json",
+      "dataPath": "data/analysis/KJVA/Sir.19.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.19",
@@ -3993,7 +3993,7 @@
       "createdAt": "2025-10-19T03:06:26.110Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.20.json",
+      "dataPath": "data/analysis/KJVA/Sir.20.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.20",
@@ -4001,7 +4001,7 @@
       "createdAt": "2025-10-19T03:06:56.568Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.21.json",
+      "dataPath": "data/analysis/KJVA/Sir.21.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.21",
@@ -4009,7 +4009,7 @@
       "createdAt": "2025-10-19T03:07:30.827Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.22.json",
+      "dataPath": "data/analysis/KJVA/Sir.22.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.22",
@@ -4017,7 +4017,7 @@
       "createdAt": "2025-10-19T03:08:10.365Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.23.json",
+      "dataPath": "data/analysis/KJVA/Sir.23.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.23",
@@ -4025,7 +4025,7 @@
       "createdAt": "2025-10-19T03:08:34.412Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.24.json",
+      "dataPath": "data/analysis/KJVA/Sir.24.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.24",
@@ -4033,7 +4033,7 @@
       "createdAt": "2025-10-19T03:09:04.730Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.25.json",
+      "dataPath": "data/analysis/KJVA/Sir.25.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.25",
@@ -4041,7 +4041,7 @@
       "createdAt": "2025-10-19T03:09:42.108Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.26.json",
+      "dataPath": "data/analysis/KJVA/Sir.26.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.26",
@@ -4049,7 +4049,7 @@
       "createdAt": "2025-10-19T03:10:08.480Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.27.json",
+      "dataPath": "data/analysis/KJVA/Sir.27.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.27",
@@ -4057,7 +4057,7 @@
       "createdAt": "2025-10-19T03:10:50.923Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.28.json",
+      "dataPath": "data/analysis/KJVA/Sir.28.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.28",
@@ -4065,7 +4065,7 @@
       "createdAt": "2025-10-19T03:11:18.056Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.29.json",
+      "dataPath": "data/analysis/KJVA/Sir.29.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.29",
@@ -4073,7 +4073,7 @@
       "createdAt": "2025-10-19T03:12:05.266Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.30.json",
+      "dataPath": "data/analysis/KJVA/Sir.30.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.30",
@@ -4081,7 +4081,7 @@
       "createdAt": "2025-10-19T03:12:45.431Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.31.json",
+      "dataPath": "data/analysis/KJVA/Sir.31.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.31",
@@ -4089,7 +4089,7 @@
       "createdAt": "2025-10-19T03:13:17.561Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.32.json",
+      "dataPath": "data/analysis/KJVA/Sir.32.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.32",
@@ -4097,7 +4097,7 @@
       "createdAt": "2025-10-19T03:13:49.205Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.33.json",
+      "dataPath": "data/analysis/KJVA/Sir.33.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.33",
@@ -4105,7 +4105,7 @@
       "createdAt": "2025-10-19T03:14:16.500Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.34.json",
+      "dataPath": "data/analysis/KJVA/Sir.34.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.34",
@@ -4113,7 +4113,7 @@
       "createdAt": "2025-10-19T03:14:55.389Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.35.json",
+      "dataPath": "data/analysis/KJVA/Sir.35.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.35",
@@ -4121,7 +4121,7 @@
       "createdAt": "2025-10-19T03:15:28.485Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.36.json",
+      "dataPath": "data/analysis/KJVA/Sir.36.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.36",
@@ -4129,7 +4129,7 @@
       "createdAt": "2025-10-19T03:16:00.482Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.37.json",
+      "dataPath": "data/analysis/KJVA/Sir.37.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.37",
@@ -4137,7 +4137,7 @@
       "createdAt": "2025-10-19T03:16:36.844Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.38.json",
+      "dataPath": "data/analysis/KJVA/Sir.38.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.38",
@@ -4145,7 +4145,7 @@
       "createdAt": "2025-10-19T03:17:17.694Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.39.json",
+      "dataPath": "data/analysis/KJVA/Sir.39.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.39",
@@ -4153,7 +4153,7 @@
       "createdAt": "2025-10-19T03:17:51.794Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.40.json",
+      "dataPath": "data/analysis/KJVA/Sir.40.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.40",
@@ -4161,7 +4161,7 @@
       "createdAt": "2025-10-19T03:18:30.469Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.41.json",
+      "dataPath": "data/analysis/KJVA/Sir.41.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.41",
@@ -4169,7 +4169,7 @@
       "createdAt": "2025-10-19T03:19:05.115Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.42.json",
+      "dataPath": "data/analysis/KJVA/Sir.42.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.42",
@@ -4177,7 +4177,7 @@
       "createdAt": "2025-10-19T03:19:40.102Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.43.json",
+      "dataPath": "data/analysis/KJVA/Sir.43.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.43",
@@ -4185,7 +4185,7 @@
       "createdAt": "2025-10-19T03:20:06.349Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.44.json",
+      "dataPath": "data/analysis/KJVA/Sir.44.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.44",
@@ -4193,7 +4193,7 @@
       "createdAt": "2025-10-19T03:20:39.018Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.45.json",
+      "dataPath": "data/analysis/KJVA/Sir.45.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.45",
@@ -4201,7 +4201,7 @@
       "createdAt": "2025-10-19T03:21:15.172Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.46.json",
+      "dataPath": "data/analysis/KJVA/Sir.46.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.46",
@@ -4209,7 +4209,7 @@
       "createdAt": "2025-10-19T03:21:41.352Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.47.json",
+      "dataPath": "data/analysis/KJVA/Sir.47.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.47",
@@ -4217,7 +4217,7 @@
       "createdAt": "2025-10-19T03:22:11.795Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.48.json",
+      "dataPath": "data/analysis/KJVA/Sir.48.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.48",
@@ -4225,7 +4225,7 @@
       "createdAt": "2025-10-19T03:22:48.556Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.49.json",
+      "dataPath": "data/analysis/KJVA/Sir.49.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.49",
@@ -4233,7 +4233,7 @@
       "createdAt": "2025-10-19T03:23:33.101Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.50.json",
+      "dataPath": "data/analysis/KJVA/Sir.50.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.50",
@@ -4241,7 +4241,7 @@
       "createdAt": "2025-10-19T03:24:16.277Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sir.51.json",
+      "dataPath": "data/analysis/KJVA/Sir.51.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sir",
       "chapterOsisID": "Sir.51",
@@ -4249,7 +4249,7 @@
       "createdAt": "2025-10-19T03:24:59.877Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/SirP.1.json",
+      "dataPath": "data/analysis/KJVA/SirP.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "SirP",
       "chapterOsisID": "SirP.1",
@@ -4257,7 +4257,7 @@
       "createdAt": "2025-10-19T02:55:20.346Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Sus.1.json",
+      "dataPath": "data/analysis/KJVA/Sus.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Sus",
       "chapterOsisID": "Sus.1",
@@ -4265,7 +4265,7 @@
       "createdAt": "2025-10-19T03:25:35.649Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.1.json",
+      "dataPath": "data/analysis/KJVA/Tob.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.1",
@@ -4273,7 +4273,7 @@
       "createdAt": "2025-10-19T03:26:16.687Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.2.json",
+      "dataPath": "data/analysis/KJVA/Tob.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.2",
@@ -4281,7 +4281,7 @@
       "createdAt": "2025-10-19T03:26:56.068Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.3.json",
+      "dataPath": "data/analysis/KJVA/Tob.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.3",
@@ -4289,7 +4289,7 @@
       "createdAt": "2025-10-19T03:27:25.042Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.4.json",
+      "dataPath": "data/analysis/KJVA/Tob.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.4",
@@ -4297,7 +4297,7 @@
       "createdAt": "2025-10-19T03:28:01.084Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.5.json",
+      "dataPath": "data/analysis/KJVA/Tob.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.5",
@@ -4305,7 +4305,7 @@
       "createdAt": "2025-10-19T03:28:35.361Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.6.json",
+      "dataPath": "data/analysis/KJVA/Tob.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.6",
@@ -4313,7 +4313,7 @@
       "createdAt": "2025-10-19T03:29:05.951Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.7.json",
+      "dataPath": "data/analysis/KJVA/Tob.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.7",
@@ -4321,7 +4321,7 @@
       "createdAt": "2025-10-19T03:29:39.085Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.8.json",
+      "dataPath": "data/analysis/KJVA/Tob.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.8",
@@ -4329,7 +4329,7 @@
       "createdAt": "2025-10-19T03:30:13.119Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.9.json",
+      "dataPath": "data/analysis/KJVA/Tob.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.9",
@@ -4337,7 +4337,7 @@
       "createdAt": "2025-10-19T03:30:34.540Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.10.json",
+      "dataPath": "data/analysis/KJVA/Tob.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.10",
@@ -4345,7 +4345,7 @@
       "createdAt": "2025-10-19T03:31:04.045Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.11.json",
+      "dataPath": "data/analysis/KJVA/Tob.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.11",
@@ -4353,7 +4353,7 @@
       "createdAt": "2025-10-19T03:31:37.732Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.12.json",
+      "dataPath": "data/analysis/KJVA/Tob.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.12",
@@ -4361,7 +4361,7 @@
       "createdAt": "2025-10-19T03:32:13.818Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.13.json",
+      "dataPath": "data/analysis/KJVA/Tob.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.13",
@@ -4369,7 +4369,7 @@
       "createdAt": "2025-10-19T03:32:41.224Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Tob.14.json",
+      "dataPath": "data/analysis/KJVA/Tob.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Tob",
       "chapterOsisID": "Tob.14",
@@ -4377,7 +4377,7 @@
       "createdAt": "2025-10-19T03:33:15.252Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.1.json",
+      "dataPath": "data/analysis/KJVA/Wis.1.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.1",
@@ -4385,7 +4385,7 @@
       "createdAt": "2025-10-19T03:33:48.686Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.2.json",
+      "dataPath": "data/analysis/KJVA/Wis.2.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.2",
@@ -4393,7 +4393,7 @@
       "createdAt": "2025-10-19T03:34:30.237Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.3.json",
+      "dataPath": "data/analysis/KJVA/Wis.3.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.3",
@@ -4401,7 +4401,7 @@
       "createdAt": "2025-10-19T03:35:02.593Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.4.json",
+      "dataPath": "data/analysis/KJVA/Wis.4.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.4",
@@ -4409,7 +4409,7 @@
       "createdAt": "2025-10-19T03:35:30.907Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.5.json",
+      "dataPath": "data/analysis/KJVA/Wis.5.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.5",
@@ -4417,7 +4417,7 @@
       "createdAt": "2025-10-19T03:36:09.929Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.6.json",
+      "dataPath": "data/analysis/KJVA/Wis.6.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.6",
@@ -4425,7 +4425,7 @@
       "createdAt": "2025-10-19T03:36:41.152Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.7.json",
+      "dataPath": "data/analysis/KJVA/Wis.7.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.7",
@@ -4433,7 +4433,7 @@
       "createdAt": "2025-10-19T03:37:15.008Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.8.json",
+      "dataPath": "data/analysis/KJVA/Wis.8.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.8",
@@ -4441,7 +4441,7 @@
       "createdAt": "2025-10-19T03:37:41.791Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.9.json",
+      "dataPath": "data/analysis/KJVA/Wis.9.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.9",
@@ -4449,7 +4449,7 @@
       "createdAt": "2025-10-19T03:38:08.674Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.10.json",
+      "dataPath": "data/analysis/KJVA/Wis.10.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.10",
@@ -4457,7 +4457,7 @@
       "createdAt": "2025-10-19T03:39:08.258Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.11.json",
+      "dataPath": "data/analysis/KJVA/Wis.11.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.11",
@@ -4465,7 +4465,7 @@
       "createdAt": "2025-10-19T03:39:48.637Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.12.json",
+      "dataPath": "data/analysis/KJVA/Wis.12.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.12",
@@ -4473,7 +4473,7 @@
       "createdAt": "2025-10-19T03:40:15.323Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.13.json",
+      "dataPath": "data/analysis/KJVA/Wis.13.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.13",
@@ -4481,7 +4481,7 @@
       "createdAt": "2025-10-19T03:40:43.342Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.14.json",
+      "dataPath": "data/analysis/KJVA/Wis.14.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.14",
@@ -4489,7 +4489,7 @@
       "createdAt": "2025-10-19T03:41:20.647Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.15.json",
+      "dataPath": "data/analysis/KJVA/Wis.15.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.15",
@@ -4497,7 +4497,7 @@
       "createdAt": "2025-10-19T03:41:51.223Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.16.json",
+      "dataPath": "data/analysis/KJVA/Wis.16.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.16",
@@ -4505,7 +4505,7 @@
       "createdAt": "2025-10-19T03:42:25.155Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.17.json",
+      "dataPath": "data/analysis/KJVA/Wis.17.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.17",
@@ -4513,7 +4513,7 @@
       "createdAt": "2025-10-19T03:42:52.519Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.18.json",
+      "dataPath": "data/analysis/KJVA/Wis.18.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.18",
@@ -4521,7 +4521,7 @@
       "createdAt": "2025-10-19T03:43:34.337Z"
     },
     {
-      "dataPath": "data/chapters/KJVA/Wis.19.json",
+      "dataPath": "data/analysis/KJVA/Wis.19.json",
       "workOsisID": "KJVA",
       "bookOsisID": "Wis",
       "chapterOsisID": "Wis.19",
@@ -4529,7 +4529,7 @@
       "createdAt": "2025-10-19T03:44:03.950Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Abr.1.json",
+      "dataPath": "data/analysis/PGP/Abr.1.json",
       "workOsisID": "PGP",
       "bookOsisID": "Abr",
       "chapterOsisID": "Abr.1",
@@ -4537,7 +4537,7 @@
       "createdAt": "2025-10-19T16:15:49.097Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Abr.2.json",
+      "dataPath": "data/analysis/PGP/Abr.2.json",
       "workOsisID": "PGP",
       "bookOsisID": "Abr",
       "chapterOsisID": "Abr.2",
@@ -4545,7 +4545,7 @@
       "createdAt": "2025-10-19T16:16:42.986Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Abr.3.json",
+      "dataPath": "data/analysis/PGP/Abr.3.json",
       "workOsisID": "PGP",
       "bookOsisID": "Abr",
       "chapterOsisID": "Abr.3",
@@ -4553,7 +4553,7 @@
       "createdAt": "2025-10-19T16:17:29.706Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Abr.4.json",
+      "dataPath": "data/analysis/PGP/Abr.4.json",
       "workOsisID": "PGP",
       "bookOsisID": "Abr",
       "chapterOsisID": "Abr.4",
@@ -4561,7 +4561,7 @@
       "createdAt": "2025-10-19T16:18:09.471Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Abr.5.json",
+      "dataPath": "data/analysis/PGP/Abr.5.json",
       "workOsisID": "PGP",
       "bookOsisID": "Abr",
       "chapterOsisID": "Abr.5",
@@ -4569,7 +4569,7 @@
       "createdAt": "2025-10-19T16:19:23.721Z"
     },
     {
-      "dataPath": "data/chapters/PGP/AofF.1.json",
+      "dataPath": "data/analysis/PGP/AofF.1.json",
       "workOsisID": "PGP",
       "bookOsisID": "AofF",
       "chapterOsisID": "AofF.1",
@@ -4577,7 +4577,7 @@
       "createdAt": "2025-10-19T16:21:56.068Z"
     },
     {
-      "dataPath": "data/chapters/PGP/JSH.1.json",
+      "dataPath": "data/analysis/PGP/JSH.1.json",
       "workOsisID": "PGP",
       "bookOsisID": "JSH",
       "chapterOsisID": "JSH.1",
@@ -4585,7 +4585,7 @@
       "createdAt": "2025-10-19T16:21:21.162Z"
     },
     {
-      "dataPath": "data/chapters/PGP/JSM.1.json",
+      "dataPath": "data/analysis/PGP/JSM.1.json",
       "workOsisID": "PGP",
       "bookOsisID": "JSM",
       "chapterOsisID": "JSM.1",
@@ -4593,7 +4593,7 @@
       "createdAt": "2025-10-19T16:20:23.559Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.1.json",
+      "dataPath": "data/analysis/PGP/Mos.1.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.1",
@@ -4601,7 +4601,7 @@
       "createdAt": "2025-10-19T16:08:41.046Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.2.json",
+      "dataPath": "data/analysis/PGP/Mos.2.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.2",
@@ -4609,7 +4609,7 @@
       "createdAt": "2025-10-19T16:09:24.705Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.3.json",
+      "dataPath": "data/analysis/PGP/Mos.3.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.3",
@@ -4617,7 +4617,7 @@
       "createdAt": "2025-10-19T16:09:59.276Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.4.json",
+      "dataPath": "data/analysis/PGP/Mos.4.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.4",
@@ -4625,7 +4625,7 @@
       "createdAt": "2025-10-19T16:10:28.891Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.5.json",
+      "dataPath": "data/analysis/PGP/Mos.5.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.5",
@@ -4633,7 +4633,7 @@
       "createdAt": "2025-10-19T16:11:57.041Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.6.json",
+      "dataPath": "data/analysis/PGP/Mos.6.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.6",
@@ -4641,7 +4641,7 @@
       "createdAt": "2025-10-19T16:13:05.504Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.7.json",
+      "dataPath": "data/analysis/PGP/Mos.7.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.7",
@@ -4649,7 +4649,7 @@
       "createdAt": "2025-10-19T16:14:07.775Z"
     },
     {
-      "dataPath": "data/chapters/PGP/Mos.8.json",
+      "dataPath": "data/analysis/PGP/Mos.8.json",
       "workOsisID": "PGP",
       "bookOsisID": "Mos",
       "chapterOsisID": "Mos.8",

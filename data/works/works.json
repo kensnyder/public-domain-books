@@ -1,32 +1,9 @@
 [
-  {
-    "workOsisID": "KJV",
-    "workTitle": "The Holy Bible",
-    "workSubtitle": "King James Version"
-  },
-  {
-    "workOsisID": "KJVA",
-    "workTitle": "The Holy Bible Apocrypha",
-    "workSubtitle": "King James Version"
-  },
-  {
-    "workOsisID": "Didache",
-    "workTitle": "Didache",
-    "workSubtitle": "The Lord's Teaching Through the Twelve Apostles to the Nations"
-  },
-  {
-    "workOsisID": "BofM",
-    "workTitle": "The Book of Mormon",
-    "workSubtitle": "Another Testament of Jesus Christ"
-  },
-  {
-    "workOsisID": "PGP",
-    "workTitle": "Pearl of Great Price",
-    "workSubtitle": ""
-  },
-  {
-    "workOsisID": "D&C",
-    "workTitle": "Doctrine and Covenants",
-    "workSubtitle": ""
-  }
+  { "workOsisID": "KJV", "workTitle": "The Holy Bible", "workSubtitle": "King James Version", "aliases": ["Bible","Holy Bible"] },
+  { "workOsisID": "KJVA", "workTitle": "The Holy Bible Apocrypha", "workSubtitle": "King James Version", "aliases": ["King James Apocrypha"] },
+  { "workOsisID": "T12Patr", "workTitle": "Testaments of the Twelve Patriarchs", "workSubtitle": "", "aliases": ["The Testaments of the Twelve Patriarchs","Testament of the Twelve Patriarchs","Testament of the 12 Patriarchs","Testaments of the 12 Patriarchs","12 Patriarchs","The 12 Patriarchs","The Twelve Patriarchs","T 12 Patriarchs", "12 Patr"] },
+  { "workOsisID": "Didache", "workTitle": "Didache", "workSubtitle": "The Lord's Teaching Through the Twelve Apostles to the Nations", "aliases": ["The Didache"] },
+  { "workOsisID": "BofM", "workTitle": "The Book of Mormon", "workSubtitle": "Another Testament of Jesus Christ", "aliases": ["BOM","Book of Mormon"] },
+  { "workOsisID": "PGP", "workTitle": "Pearl of Great Price", "workSubtitle": "", "aliases": ["The Pearl of Great Price","PGoP"] },
+  { "workOsisID": "D&C", "workTitle": "Doctrine and Covenants", "workSubtitle": "", "aliases": ["D and C", "The Doctrine & Covenants","Doctrine & Covenants", "The Doctrine and Covenants"] }
 ]
