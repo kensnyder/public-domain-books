@@ -1,14 +1,9 @@
-import metadata from '../../data/books/books.json' with { type: 'json' };
+import process from 'node:process';
+import getBookByName from '~/lib/getBookByName.ts';
+import getWorkByName from '~/lib/getWorkByName.ts';
 
 main().catch(console.error);
 
-// biome-ignore format: be compact
-const works = {
-  'The Bible': { workOsisID: "KJV", workName: 'Bible', data: [] as OurData[] },
-  'The Doctrine and Covenants': { workOsisID: "D&C", workName: 'Doctrine & Covenants', data: [] as OurData[] },
-  'The Book of Mormon': { workOsisID: "BofM", workName: 'Book of Mormon', data: [] as OurData[] },
-  'The Pearl of Great Price': { workOsisID: "PGP", workName: 'Pearl of Great Price', data: [] as OurData[] },
-};
 const saveTo = `${import.meta.dir}/../../data/verses`;
 
 const ymd = new Date().toISOString().slice(0, 10);
@@ -48,39 +43,51 @@ async function main() {
   }
   const text = await res.text();
   const fixed = text.replace(/\\\\"/g, '\\"');
-  let verses = JSON.parse(fixed) as unknown as RemoteData[];
+  const verses = JSON.parse(fixed) as unknown as RemoteData[];
+  console.log(`Downloaded ${verses.length} verses`);
 
   let verseSequence = -1;
   let lastWorkTitle = '';
   let workOsisID = '';
+  const data: OurData[] = [];
   for (const verse of verses) {
-    const thisWorkTitle = getWorkTitle(verse.volume_long_title);
-    if (!(thisWorkTitle in works)) {
-      console.log(`Unknown Work "${thisWorkTitle}"`);
+    const ourTitle =
+      verse.volume_long_title === 'The Old Testament' ||
+      verse.volume_long_title === 'The New Testament'
+        ? 'Bible'
+        : verse.volume_long_title;
+    const work = getWorkByName(ourTitle);
+    if (!work) {
+      console.log(`Unknown Work "${ourTitle}"`);
       process.exit(1);
     }
-    const work = works[thisWorkTitle as keyof typeof works];
-    workOsisID = work.workOsisID;
-    if (thisWorkTitle !== lastWorkTitle) {
+    if (work.workTitle !== lastWorkTitle) {
       if (lastWorkTitle) {
-        verseSequence = 1;
-        // @ts-expect-error We know works[lastWork] will always be an object
-        await writeJson(workOsisID, works[lastWorkTitle].data);
+        console.log(`Writing ${data.length} items to ${workOsisID}...`);
+        await writeJson(workOsisID, data);
+        data.length = 0;
       }
-      console.log(`Starting ${workOsisID}...`);
+      verseSequence = 1;
+      console.log(`Starting ${work.workOsisID}...`);
     }
-    lastWorkTitle = thisWorkTitle;
-    const book = lookupBook(verse.book_title) as (typeof metadata)[number];
-    const bookOsisID = book.osisID;
+    workOsisID = work.workOsisID;
+    lastWorkTitle = work.workTitle;
+    const book = getBookByName(verse.book_title);
+    if (!book) {
+      console.log(`Unknown Book "${verse.book_title}"`);
+      process.exit(1);
+    }
+
+    const bookOsisID = book.bookOsisID;
     const bookGroups = book.groups;
     const chapterNumber = parseInt(verse.chapter_number, 10);
-    const chapterTitle = workOsisID === 'D&C' ? `Section ${chapterNumber}` : `Chapter ${chapterNumber}`;
+    const chapterTitle = `${book.chapterLabel} ${chapterNumber}`;
     const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
     const verseNumber = parseInt(verse.verse_number, 10);
     const verseOsisID = `${bookOsisID}.${chapterNumber}.${verseNumber}`;
     const verseText = verse.scripture_text;
     const verseLanguage = 'en';
-    work.data.push({
+    data.push({
       workOsisID,
       bookOsisID,
       bookGroups,
@@ -97,43 +104,13 @@ async function main() {
 
     verseSequence++;
   }
-  // @ts-expect-error We know works[lastWork] will always be an object
-  await writeJson(workOsisID, works[lastWorkTitle].data);
+  await writeJson(workOsisID, data);
   console.log('Done writing data to ../data/verses/*.json');
   console.log(`Took ${Date.now() - start}ms`);
 }
 
-function getWorkTitle(workLongTitle: string) {
-  if (workLongTitle.endsWith('Testament')) {
-    return "The Bible";
-  }
-  return workLongTitle;
-}
-
-const bookOsisCache = new Map<string, (typeof metadata)[number]>();
-
-function lookupBook(bookTitle: string) {
-  if (bookOsisCache.has(bookTitle)) {
-    return bookOsisCache.get(bookTitle);
-  } else {
-    for (const book of metadata) {
-      if (book.name === bookTitle || book.aliases.includes(bookTitle)) {
-        bookOsisCache.set(bookTitle, book);
-        return book;
-      }
-    }
-    console.log(`Unknown book title: ${bookTitle}`);
-    process.exit(1);
-  }
-}
-
-async function writeJson(
-  workOsisID: string,
-  data: OurData[],
-) {
+async function writeJson(workOsisID: string, data: OurData[]) {
   const writeTo = `${saveTo}/${workOsisID}.json`;
-  await Bun.file(writeTo).write(
-    JSON.stringify(data, null, 2),
-  );
+  await Bun.file(writeTo).write(JSON.stringify(data, null, 2));
   console.log(`Wrote ${workOsisID} to ${workOsisID}.json`);
 }
