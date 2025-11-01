@@ -1,12 +1,10 @@
 import process from 'node:process';
 import getBookByName from '~/lib/getBookByName.ts';
+import getChapterCount from '~/lib/getChapterCount.ts';
 import getWorkByName from '~/lib/getWorkByName.ts';
+import books from '../../data/books/books.json' with { type: 'json' };
 
 main().catch(console.error);
-
-const saveTo = `${import.meta.dir}/../../data/verses`;
-
-const ymd = new Date().toISOString().slice(0, 10);
 
 type RemoteData = {
   volume_long_title: string;
@@ -28,15 +26,15 @@ type OurData = {
   verseText: string;
   verseLanguage: string;
   verseSequence: number;
-  importDate: string;
 };
 
 async function main() {
+  const source =
+    'https://raw.githubusercontent.com/mormon-documentation-project/lds-scriptures/8c9ae85b3363d7154aa96b6cde24de0b2ef8b1f1/lds-scriptures.json';
+
   const start = Date.now();
   console.log('Fetching data from GitHub');
-  const res = await fetch(
-    'https://raw.githubusercontent.com/mormon-documentation-project/lds-scriptures/8c9ae85b3363d7154aa96b6cde24de0b2ef8b1f1/lds-scriptures.json',
-  );
+  const res = await fetch(source);
   if (!res.ok) {
     console.error(res);
     return;
@@ -99,7 +97,6 @@ async function main() {
       verseText,
       verseLanguage,
       verseSequence,
-      importDate: ymd,
     });
 
     verseSequence++;
@@ -107,10 +104,36 @@ async function main() {
   await writeJson(workOsisID, data);
   console.log('Done writing data to ../data/verses/*.json');
   console.log(`Took ${Date.now() - start}ms`);
-}
 
-async function writeJson(workOsisID: string, data: OurData[]) {
-  const writeTo = `${saveTo}/${workOsisID}.json`;
-  await Bun.file(writeTo).write(JSON.stringify(data, null, 2));
-  console.log(`Wrote ${workOsisID} to ${workOsisID}.json`);
+  async function writeJson(workOsisID: string, verses: OurData[]) {
+    const ymd = new Date().toISOString().slice(0, 10);
+
+    const writeTo = `${import.meta.dir}/../../data/verses/${workOsisID}.json`;
+    const work = getWorkByName(workOsisID);
+    const theseBooks = books
+      .filter((b) => b.workOsisID === workOsisID)
+      .map((b) => ({
+        bookName: b.bookName,
+        bookSubtitle: b.bookSubtitle,
+        bookOsisID: b.bookOsisID,
+        paratext: b.paratext,
+        aliases: b.aliases,
+        groups: b.groups,
+        authors: b.authors,
+        dateEarliest: b.dateEarliest,
+        dateLatest: b.dateLatest,
+        chapterLabel: b.chapterLabel,
+        verseLabel: b.verseLabel,
+        chapterCount: getChapterCount(b.bookOsisID, verses),
+      }));
+    const data = {
+      work,
+      compiledAt: ymd,
+      sources: [source],
+      books: theseBooks,
+      verses,
+    };
+    await Bun.file(writeTo).write(JSON.stringify(data, null, 2));
+    console.log(`Wrote ${workOsisID} to ${workOsisID}.json`);
+  }
 }

@@ -9,9 +9,10 @@
     "aliases": ["Ge", "Gn", "The First Book of Moses called Genesis"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Moses",
+    "authors": ["Moses"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -23,9 +24,10 @@
     "aliases": ["Ex", "The Second Book of Moses called Exodus"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Moses",
+    "authors": ["Moses"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -37,9 +39,10 @@
     "aliases": ["Le", "The Third Book of Moses called Leviticus"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Moses",
+    "authors": ["Moses"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -51,9 +54,10 @@
     "aliases": ["Nu", "Nm", "Nb", "The Fourth Book of Moses called Numbers"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Moses",
+    "authors": ["Moses"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -70,9 +74,10 @@
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Moses",
+    "authors": ["Moses"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -84,9 +89,10 @@
     "aliases": ["Josh", "Jsh"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -98,9 +104,10 @@
     "aliases": ["Judg", "Jdg", "Jdgs", "Jg"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -112,9 +119,10 @@
     "aliases": ["Rth", "Ru"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -126,9 +134,10 @@
     "aliases": ["1 Sam", "1SA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -140,9 +149,10 @@
     "aliases": ["2 Sam", "2SA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -154,9 +164,10 @@
     "aliases": ["1Kgs", "1KI"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -168,9 +179,10 @@
     "aliases": ["2Kgs", "2KI"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -182,9 +194,10 @@
     "aliases": ["1Chr", "1CH"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -196,9 +209,10 @@
     "aliases": ["2Chr", "2CH"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -210,9 +224,10 @@
     "aliases": ["Ezra", "EZR"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -224,9 +239,10 @@
     "aliases": ["Neh", "NEH"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -238,9 +254,10 @@
     "aliases": ["Esth", "EST"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -252,9 +269,10 @@
     "aliases": ["Job", "JOB"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -266,9 +284,10 @@
     "aliases": ["Ps", "PSA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -280,9 +299,10 @@
     "aliases": ["Prov", "PRO"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -294,9 +314,10 @@
     "aliases": ["Qohelet", "Eccl", "ECC"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -308,9 +329,10 @@
     "aliases": ["Canticle of Canticles", "Song", "SNG", "Solomon's Song"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -322,9 +344,10 @@
     "aliases": ["Isa", "ISA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Isaiah",
+    "authors": ["Isaiah"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -336,9 +359,10 @@
     "aliases": ["Jer", "JER"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Jeremiah",
+    "authors": ["Jeremiah"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -350,9 +374,10 @@
     "aliases": ["Lam", "LAM"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -364,9 +389,10 @@
     "aliases": ["Ezek", "EZK"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Ezekiel",
+    "authors": ["Ezekiel"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -378,9 +404,10 @@
     "aliases": ["Dan", "DAN"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Daniel",
+    "authors": ["Daniel"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -392,9 +419,10 @@
     "aliases": ["Hos", "HOS"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -406,9 +434,10 @@
     "aliases": ["Joel", "JOL"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -420,9 +449,10 @@
     "aliases": ["Amos", "AMO"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -434,9 +464,10 @@
     "aliases": ["Obad", "OBA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -448,9 +479,10 @@
     "aliases": ["Jonah", "JON"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -462,9 +494,10 @@
     "aliases": ["Mic", "MIC"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -476,9 +509,10 @@
     "aliases": ["Nah", "NAM"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -490,9 +524,10 @@
     "aliases": ["Hab", "HAB"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -504,9 +539,10 @@
     "aliases": ["Zeph", "ZEP"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -518,9 +554,10 @@
     "aliases": ["Hag", "HAG"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -532,9 +569,10 @@
     "aliases": ["Zech", "ZEC"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -546,9 +584,10 @@
     "aliases": ["Mal", "MAL"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -557,12 +596,20 @@
     "bookOsisID": "Matt",
     "paratext": "MAT",
     "groups": ["New Testament", "Bible", "Gospels"],
-    "aliases": ["Matt", "MAT"],
+    "aliases": [
+      "St Matthew",
+      "St. Matthew",
+      "Saint Matthew",
+      "The Gospel According to St Matthew",
+      "The Gospel According to St. Matthew",
+      "The Gospel According to Saint Matthew"
+    ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Matthew",
+    "authors": ["St. Matthew"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -571,12 +618,20 @@
     "bookOsisID": "Mark",
     "paratext": "MRK",
     "groups": ["New Testament", "Bible", "Gospels"],
-    "aliases": ["Mark", "MRK"],
+    "aliases": [
+      "St Mark",
+      "St. Mark",
+      "Saint Mark",
+      "The Gospel According to St Mark",
+      "The Gospel According to St. Mark",
+      "The Gospel According to Saint Mark"
+    ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mark",
+    "authors": ["St. Mark"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -585,12 +640,20 @@
     "bookOsisID": "Luke",
     "paratext": "LUK",
     "groups": ["New Testament", "Bible", "Gospels"],
-    "aliases": ["Luke", "LUK"],
+    "aliases": [
+      "St Luke",
+      "St. Luke",
+      "Saint Luke",
+      "The Gospel According to St Luke",
+      "The Gospel According to St. Luke",
+      "The Gospel According to Saint Luke"
+    ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Luke",
+    "authors": ["St. Luke"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -599,12 +662,20 @@
     "bookOsisID": "John",
     "paratext": "JHN",
     "groups": ["New Testament", "Bible", "Gospels"],
-    "aliases": ["John", "JHN"],
+    "aliases": [
+      "St John",
+      "St. John",
+      "Saint John",
+      "The Gospel According to St John",
+      "The Gospel According to St. John",
+      "The Gospel According to Saint John"
+    ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "St. John",
+    "authors": ["St. John"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -616,9 +687,10 @@
     "aliases": ["Acts", "ACT"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -630,9 +702,10 @@
     "aliases": ["Rom", "ROM"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -644,9 +717,10 @@
     "aliases": ["1Cor", "1CO"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -658,9 +732,10 @@
     "aliases": ["2Cor", "2CO"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -672,9 +747,10 @@
     "aliases": ["Gal", "GAL"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -686,9 +762,10 @@
     "aliases": ["Eph", "EPH"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -700,9 +777,10 @@
     "aliases": ["Phil", "PHP"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -714,9 +792,10 @@
     "aliases": ["Col", "COL"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -728,9 +807,10 @@
     "aliases": ["1Thess", "1TH"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -742,9 +822,10 @@
     "aliases": ["2Thess", "2TH"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -756,9 +837,10 @@
     "aliases": ["1Tim", "1TI"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -770,9 +852,10 @@
     "aliases": ["2Tim", "2TI"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -784,9 +867,10 @@
     "aliases": ["Titus", "TIT"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -798,9 +882,10 @@
     "aliases": ["Phlm", "PHM"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -812,9 +897,10 @@
     "aliases": ["Heb", "HEB"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Paul",
+    "authors": ["Paul"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -826,9 +912,10 @@
     "aliases": ["Jas", "JAS"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "James",
+    "authors": ["James"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -840,9 +927,10 @@
     "aliases": ["1Pet", "1PE"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Peter",
+    "authors": ["Peter"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -854,9 +942,10 @@
     "aliases": ["2Pet", "2PE"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Peter",
+    "authors": ["Peter"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -868,9 +957,10 @@
     "aliases": ["1John", "1JN"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Apostle John",
+    "authors": ["The Apostle John"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -882,9 +972,10 @@
     "aliases": ["2John", "2JN"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Apostle John",
+    "authors": ["The Apostle John"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -896,9 +987,10 @@
     "aliases": ["3John", "3JN"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["The Apostle John"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -910,9 +1002,10 @@
     "aliases": ["Jude", "JUD"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Jude"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJV",
@@ -924,9 +1017,10 @@
     "aliases": ["Rev", "REV"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "John the Revelator",
+    "authors": ["John the Revelator"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -938,9 +1032,10 @@
     "aliases": ["Tob", "TOB"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Tobit"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -952,9 +1047,10 @@
     "aliases": ["Jdt", "JDT"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Judith"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "",
@@ -966,9 +1062,10 @@
     "aliases": ["EsthGr", "ESG"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Esther"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -980,9 +1077,10 @@
     "aliases": ["AddEsth", "ADE"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -994,9 +1092,10 @@
     "aliases": ["Wisdom of Solomon", "Wis", "WIS"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Solomon"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -1008,9 +1107,10 @@
     "aliases": ["SirP", "Ecclesiasticus Prologue"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Sirach"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -1022,9 +1122,10 @@
     "aliases": ["Ecclesiasticus", "Sir", "SIR"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Sirach"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -1036,9 +1137,10 @@
     "aliases": ["Bar", "BAR"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Baruch"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1050,9 +1152,10 @@
     "aliases": ["EpJer", "The Letter of Jeremiah", "Letter of Jeremiah", "LJE"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Jeremiah"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1064,9 +1167,10 @@
     "aliases": ["DanGr", "DAG"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Daniel"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1078,9 +1182,10 @@
     "aliases": ["AddDan"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1097,9 +1202,10 @@
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Azariah"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -1111,9 +1217,10 @@
     "aliases": ["Sus", "SUS"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Susanna"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -1125,9 +1232,10 @@
     "aliases": ["Bel", "BEL"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1139,9 +1247,10 @@
     "aliases": ["1Macc", "1MA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -1153,9 +1262,10 @@
     "aliases": ["2Macc", "2MA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "",
@@ -1167,9 +1277,10 @@
     "aliases": ["3Macc", "3MA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1181,9 +1292,10 @@
     "aliases": ["4Macc", "4MA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1195,12 +1307,13 @@
     "aliases": ["PrMan", "MAN"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Manasseh"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
-    "workOsisID": "",
+    "workOsisID": "KJVA",
     "bookName": "1 Esdras",
     "bookSubtitle": "The First Book of Esdras",
     "bookOsisID": "1Esd",
@@ -1209,9 +1322,10 @@
     "aliases": ["1Esd", "1ES"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Esdras"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "KJVA",
@@ -1223,9 +1337,10 @@
     "aliases": ["2Esd", "2ES"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Esdras"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "",
@@ -1237,9 +1352,10 @@
     "aliases": ["AddPs", "PS2"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1251,9 +1367,10 @@
     "aliases": ["Odes", "ODA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1265,9 +1382,10 @@
     "aliases": ["PssSol", "PSS"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Solomon"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1279,9 +1397,10 @@
     "aliases": ["JoshA", "JSA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Joshua"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1293,9 +1412,10 @@
     "aliases": ["JudgB", "JDB"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1307,9 +1427,10 @@
     "aliases": ["TobS", "TBS"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Tobit"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1321,9 +1442,10 @@
     "aliases": ["SusTh", "SST"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Susanna"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1335,9 +1457,10 @@
     "aliases": ["DanTh", "DNT"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Daniel"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1349,9 +1472,10 @@
     "aliases": ["BelTh", "BLT"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1363,9 +1487,10 @@
     "aliases": ["EpLao", "LAO", "Laodiceans"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "",
@@ -1377,9 +1502,10 @@
     "aliases": ["5Ezra", "5EZ"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ezra"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1391,9 +1517,10 @@
     "aliases": ["Ezra Apocalypse", "4Ezra", "EZA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ezra"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1405,9 +1532,10 @@
     "aliases": ["6Ezra", "6EZ"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ezra"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1419,9 +1547,10 @@
     "aliases": ["PrSol", "PSO"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Solomon"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1433,9 +1562,10 @@
     "aliases": ["PrJer", "PJE"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Jeremiah"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1447,9 +1577,10 @@
     "aliases": ["Ethiopic Apocalypse of Enoch", "Ethiopic Enoch", "1En", "ENO"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Enoch"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1461,9 +1592,10 @@
     "aliases": ["Jub", "JUB"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1475,9 +1607,10 @@
     "aliases": ["Paraleipomena Jeremiou", "4Bar", "4BA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Baruch"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1489,9 +1622,10 @@
     "aliases": ["1Meq", "1MQ"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1503,9 +1637,10 @@
     "aliases": ["2Meq", "2MQ"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1517,9 +1652,10 @@
     "aliases": ["3Meq", "3MQ"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1531,9 +1667,10 @@
     "aliases": ["Tegsas", "Tegsats", "Taagsas", "Rep", "REP"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1545,9 +1682,10 @@
     "aliases": ["Rest of Jeremiah", "AddJer"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1563,9 +1701,10 @@
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1577,9 +1716,10 @@
     "aliases": ["EpCorPaul", "COP"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1591,9 +1731,10 @@
     "aliases": ["3Cor", "3CO"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1605,9 +1746,10 @@
     "aliases": ["WSir", "WSI"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1619,9 +1761,10 @@
     "aliases": ["PrEuth", "EUT"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Euthalius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1633,9 +1776,10 @@
     "aliases": ["DormJohn", "DOJ"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["John"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1647,9 +1791,10 @@
     "aliases": ["JosAsen"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1661,9 +1806,10 @@
     "aliases": ["T12Patr"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1675,9 +1821,10 @@
     "aliases": ["TAsh"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Asher"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1689,9 +1836,10 @@
     "aliases": ["TBenj"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Benjamin"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1703,9 +1851,10 @@
     "aliases": ["TDan"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Dan"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1717,9 +1866,10 @@
     "aliases": ["TGad"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Gad"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1731,9 +1881,10 @@
     "aliases": ["TIss"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Issachar"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1745,9 +1896,10 @@
     "aliases": ["TJos"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Joseph"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1759,9 +1911,10 @@
     "aliases": ["TJud"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Judah"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1773,9 +1926,10 @@
     "aliases": ["TLevi"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Levi"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1787,9 +1941,10 @@
     "aliases": ["TNaph"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Naphtali"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1801,9 +1956,10 @@
     "aliases": ["TReu"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Reuben"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1815,9 +1971,10 @@
     "aliases": ["TSim"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Simeon"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "T12Patr",
@@ -1829,9 +1986,10 @@
     "aliases": ["TZeb"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Zebulun"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1843,9 +2001,10 @@
     "aliases": ["(Syriac) Apocalypse of Baruch"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Baruch"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1857,9 +2016,10 @@
     "aliases": ["EpBar", "LBA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Baruch"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1871,9 +2031,10 @@
     "aliases": ["5 Apocryphal Syriac Psalms"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1885,9 +2046,10 @@
     "aliases": ["JosephusJWvi"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Josephus"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1899,9 +2061,10 @@
     "aliases": ["1Clem", "1CL"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Clement"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1913,9 +2076,10 @@
     "aliases": ["2Clem", "2CL"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Clement"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1927,9 +2091,10 @@
     "aliases": ["IgnEph"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ignatius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1941,9 +2106,10 @@
     "aliases": ["IgnMagn"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ignatius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1955,9 +2121,10 @@
     "aliases": ["IgnTrall"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ignatius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1969,9 +2136,10 @@
     "aliases": ["IgnRom"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ignatius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1983,9 +2151,10 @@
     "aliases": ["IgnPhld"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ignatius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -1997,9 +2166,10 @@
     "aliases": ["IgnSmyrn"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ignatius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2011,9 +2181,10 @@
     "aliases": ["IgnPol"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Ignatius"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2025,9 +2196,10 @@
     "aliases": ["PolPhil"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Polycarp"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2039,9 +2211,10 @@
     "aliases": ["MartPol"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "Didache",
@@ -2053,9 +2226,10 @@
     "aliases": ["Did", "DID"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Apostalic Fathers"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "",
@@ -2067,9 +2241,10 @@
     "aliases": ["Barn", "LBA"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Barnabas"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2081,9 +2256,10 @@
     "aliases": ["Herm", "SHE"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2095,9 +2271,10 @@
     "aliases": ["Herm.Mand"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2109,9 +2286,10 @@
     "aliases": ["Herm.Sim"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2123,9 +2301,10 @@
     "aliases": ["Herm.Vis"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2137,9 +2316,10 @@
     "aliases": ["Diogn"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2151,9 +2331,10 @@
     "aliases": ["AposCreed"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2165,9 +2346,10 @@
     "aliases": ["PapFrag"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Papias"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2179,9 +2361,10 @@
     "aliases": ["RelElders"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2193,9 +2376,10 @@
     "aliases": ["QuadFrag"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Quadratus"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2207,9 +2391,10 @@
     "aliases": ["Tatian's Diatessaron", "Tatian"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "",
@@ -2221,14 +2406,15 @@
     "aliases": ["PsMet", "PSB"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": [],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": false
   },
   {
     "workOsisID": "BofM",
     "bookName": "1 Nephi",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "1Ne",
     "paratext": null,
     "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
@@ -2242,14 +2428,15 @@
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Nephi",
+    "authors": ["Nephi"],
     "dateEarliest": "-0600-01-01",
-    "dateLatest": "-0570-01-01"
+    "dateLatest": "-0570-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "2 Nephi",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "2Ne",
     "paratext": null,
     "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
@@ -2263,84 +2450,90 @@
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Nephi",
+    "authors": ["Nephi"],
     "dateEarliest": "-0588-01-01",
-    "dateLatest": "-0545-01-01"
+    "dateLatest": "-0545-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Jacob",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "the Brother of Nephi",
     "bookOsisID": "Jac",
     "paratext": null,
     "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
     "aliases": ["Jac"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Jacob",
+    "authors": ["Jacob"],
     "dateEarliest": "-0544-01-01",
-    "dateLatest": "-0421-01-01"
+    "dateLatest": "-0421-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Enos",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "Enos",
     "paratext": null,
     "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
     "aliases": ["Eno"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Enos"],
     "dateEarliest": "-0420-01-01",
-    "dateLatest": "-0420-01-01"
+    "dateLatest": "-0420-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Jarom",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "Jar",
     "paratext": null,
     "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
     "aliases": ["Jar"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Jarom"],
     "dateEarliest": "-0399-01-01",
-    "dateLatest": "-0361-01-01"
+    "dateLatest": "-0361-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Omni",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "Omni",
     "paratext": null,
     "groups": ["Book of Mormon", "Small Plates of Nephi", "LDS"],
     "aliases": ["Omn"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "",
+    "authors": ["Omni", "Chemish", "Abinadom", "Amaleki"],
     "dateEarliest": "-0323-01-01",
-    "dateLatest": "-0130-01-01"
+    "dateLatest": "-0130-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Words of Mormon",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "WoM",
     "paratext": null,
     "groups": ["Book of Mormon", "LDS", "Mormon"],
     "aliases": ["WoM"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "0385-01-01",
-    "dateLatest": "0385-01-01"
+    "dateLatest": "0385-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Mosiah",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "Mosi",
     "paratext": null,
     "groups": [
@@ -2353,14 +2546,15 @@
     "aliases": ["Mosi"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "-0130-01-01",
-    "dateLatest": "-0091-01-01"
+    "dateLatest": "-0091-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Alma",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "the Son of Alma",
     "bookOsisID": "Alma",
     "paratext": null,
     "groups": [
@@ -2373,14 +2567,15 @@
     "aliases": ["Alm"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "-0091-01-01",
-    "dateLatest": "-0052-01-01"
+    "dateLatest": "-0052-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Helaman",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "Hel",
     "paratext": null,
     "groups": [
@@ -2393,14 +2588,15 @@
     "aliases": ["He", "Hlm", "Helm"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "-0052-01-01",
-    "dateLatest": "-0001-01-01"
+    "dateLatest": "-0001-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "3 Nephi",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "the Son of Nephi, Who Was the Son of Helaman",
     "bookOsisID": "3Ne",
     "paratext": null,
     "groups": [
@@ -2413,14 +2609,15 @@
     "aliases": ["3 Ne", "3rd Nephi", "Third Nephi", "III Nephi"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "0005-01-01",
-    "dateLatest": "0035-01-01"
+    "dateLatest": "0035-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "4 Nephi",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "Who Is the Son of Nephi—One of the Disciples of Jesus Christ",
     "bookOsisID": "4Ne",
     "paratext": null,
     "groups": [
@@ -2433,14 +2630,15 @@
     "aliases": ["4 Ne", "4th Nephi", "Fourth Nephi", "IV Nephi"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "0035-01-01",
-    "dateLatest": "0321-01-01"
+    "dateLatest": "0321-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Mormon",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "Morm",
     "paratext": null,
     "groups": [
@@ -2453,14 +2651,15 @@
     "aliases": ["Mmn", "Morm"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "0321-01-01",
-    "dateLatest": "0421-01-01"
+    "dateLatest": "0421-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Ether",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "The record of the Jaredites, taken from the twenty-four plates found by the people of Limhi in the days of King Mosiah.",
     "bookOsisID": "Eth",
     "paratext": null,
     "groups": [
@@ -2473,14 +2672,15 @@
     "aliases": ["Eth"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "-2200-01-01",
-    "dateLatest": "-0350-01-01"
+    "dateLatest": "-0350-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "BofM",
     "bookName": "Moroni",
-    "bookSubtitle": "Another Testament of Jesus Christ",
+    "bookSubtitle": "",
     "bookOsisID": "Moro",
     "paratext": null,
     "groups": [
@@ -2493,9 +2693,10 @@
     "aliases": ["Mni", "Moro"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Mormon",
+    "authors": ["Mormon"],
     "dateEarliest": "0401-01-01",
-    "dateLatest": "0401-01-01"
+    "dateLatest": "0401-01-01",
+    "hasData": true
   },
   {
     "workOsisID": "PGP",
@@ -2514,9 +2715,10 @@
     "aliases": ["Mos", "The Book of Moses"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Moses",
+    "authors": ["Moses"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "PGP",
@@ -2535,9 +2737,10 @@
     "aliases": ["Abr", "The Book of Abraham"],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
-    "author": "Abraham",
+    "authors": ["Abraham"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "PGP",
@@ -2549,9 +2752,10 @@
     "aliases": ["AofF"],
     "chapterLabel": "",
     "verseLabel": "Article",
-    "author": "Joseph Smith",
+    "authors": ["Joseph Smith"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "PGP",
@@ -2570,9 +2774,10 @@
     "aliases": ["JSH", "Joseph Smith History", "Joseph Smith--History"],
     "chapterLabel": "",
     "verseLabel": "Verse",
-    "author": "Joseph Smith",
+    "authors": ["Joseph Smith"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "PGP",
@@ -2591,9 +2796,10 @@
     "aliases": ["JSM", "Joseph Smith Matthew", "Joseph Smith--Matthew"],
     "chapterLabel": "",
     "verseLabel": "Verse",
-    "author": "Matthew",
+    "authors": ["St. Matthew"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   },
   {
     "workOsisID": "D&C",
@@ -2610,8 +2816,9 @@
     ],
     "chapterLabel": "Section",
     "verseLabel": "Verse",
-    "author": "Joseph Smith",
+    "authors": ["Joseph Smith"],
     "dateEarliest": "",
-    "dateLatest": ""
+    "dateLatest": "",
+    "hasData": true
   }
 ]
