@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Matt.23",
+  "briefOverview": "Jesus denounces the hypocrisy of religious leaders, calls his followers to humble service, and laments Jerusalem’s refusal to receive God’s messengers.",
+  "summary": "Speaking to the crowds and his disciples, Jesus acknowledges the scribes’ and Pharisees’ teaching authority but warns against imitating their behavior, which seeks status and visibility rather than obedience, humility, and service. He forbids honor-seeking titles and declares that true greatness is found in serving others, promising that the exalted will be humbled and the humble exalted. He then pronounces a series of woes against the leaders for shutting people out of the kingdom, exploiting the vulnerable, legalistic oath-casuistry, meticulous tithing while neglecting justice, mercy, and faith, and for maintaining outward purity while inwardly full of corruption. He indicts them for honoring the prophets’ tombs while inheriting their ancestors’ murderous hostility to God’s messengers, warning of coming judgment for the bloodshed from Abel to Zechariah. Finally, Jesus laments Jerusalem’s rejection and foretells its desolation until it acknowledges the one who comes in the Lord’s name.",
+  "externalContext": "In first-century Judea, “scribes” were experts in the Torah and its interpretation, and “Pharisees” a lay movement devoted to strict observance and traditions of the elders. “Moses’ seat” was a Jewish idiom for authoritative teaching of the Law. Phylacteries (tefillin) and the fringes on garments (tzitzit) were tangible reminders of God’s commandments, which some made conspicuously large as status markers. Jewish legal debates of the period included detailed rules about oaths and tithes; some later rabbinic sources discuss tithing even small herbs. This discourse occurs during Jesus’ final week in Jerusalem, amid escalating conflict in the temple precincts.",
+  "externalReferences": "The mention of broad phylacteries and enlarged fringes evokes the commandments to bind God’s words “as a sign” and to wear tassels (Deuteronomy 6:8; Numbers 15:38–40). Jesus’ critique of oath-making resonates with his earlier teaching to avoid elaborate oaths and to let one’s “Yes” be “Yes” (Matthew 5:33–37). His emphasis on the “weightier matters” of justice and mercy echoes Micah 6:8. The range “from the blood of righteous Abel” (Genesis 4:8–10) to “Zechariah” likely recalls the temple murder of Zechariah in 2 Chronicles 24:20–22, though Matthew’s “son of Barachias” creates a well-known identification difficulty; and the closing citation, “Blessed is he that cometh in the name of the Lord,” quotes Psalm 118:26.",
+  "seeAlso": [
+    "Deuteronomy 6:8",
+    "Numbers 15:38-40",
+    "Matthew 5:33-37",
+    "Micah 6:8",
+    "Genesis 4:8-10",
+    "2 Chronicles 24:20-22",
+    "Psalm 118:26",
+    "Luke 11:39-52",
+    "Matthew 20:26-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Warning against hypocritical leaders"
+    },
+    {
+      "range": "13-36",
+      "title": "Seven woes on hypocrisy"
+    },
+    {
+      "range": "37-39",
+      "title": "Lament over Jerusalem"
+    }
+  ],
+  "themes": [
+    "Hypocrisy",
+    "Humility",
+    "Justice and mercy",
+    "Servant leadership",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "Where might I be prioritizing religious image over genuine obedience and inner integrity?",
+    "How can I practice humble service instead of seeking status or honorific titles?",
+    "In what ways have I neglected the “weightier matters” of justice, mercy, and faith while focusing on lesser details?",
+    "How can my speech and commitments be trustworthy without resorting to manipulative or technical oaths?",
+    "What safeguards can our community adopt to protect the vulnerable rather than exploit them?",
+    "How do we avoid gatekeeping behaviors that hinder others from entering the kingdom of God?"
+  ],
+  "uncertainAreas": "Identification of “Zacharias son of Barachias” (whether the figure in 2 Chronicles 24 or another Zechariah); the degree to which “call no man father/teacher” is absolute versus addressing status-seeking use of titles; whether “your house is left desolate” specifically predicts the temple’s destruction or a broader judgment; the precise scope of “this generation” in verse 36; and the textual status and placement of verse 14 in different manuscript traditions.",
+  "createdAt": "2025-11-02T16:47:56.358Z",
+  "modelId": "gpt-5-2025-08-07"
+}

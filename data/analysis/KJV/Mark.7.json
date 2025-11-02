@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Mark.7",
+  "briefOverview": "Jesus confronts Pharisaic traditions that override God’s commandments and teaches that true defilement comes from the heart, then extends his healing ministry beyond Israel to Gentile regions.",
+  "summary": "Pharisees and scribes criticize Jesus’ disciples for eating with unwashed hands, invoking the tradition of the elders. Jesus rebukes them with Isaiah’s words, exposing how their traditions (exemplified by the Corban practice) nullify God’s command to honor parents. He then teaches the crowd that what defiles a person is not what enters the body but what proceeds from the heart—evil thoughts and actions. In private, he explains to the disciples that food passes through the body while moral corruption arises from within. Traveling to the region of Tyre and Sidon, Jesus grants a Gentile mother’s request to free her daughter from a demon after her humble reply. Returning through the Decapolis, he heals a deaf man with a speech impediment, and the crowd marvels that he “has done all things well.”",
+  "externalContext": "The “tradition of the elders” refers to oral interpretations and practices later codified in rabbinic literature (e.g., the Mishnah), including ritual handwashing as a purity safeguard beyond written Torah requirements. Corban was a vow dedicating resources to God; some used it to shield assets from family obligations, creating tension between piety and filial duty. Tyre, Sidon, and the Decapolis were predominantly Gentile areas; Jesus’ presence and miracles there indicate a widening scope of his ministry beyond Jewish territory. Aramaic was Jesus’ likely spoken language; Mark preserves his words “Ephphatha” (“Be opened”), a feature of this Gospel’s style.",
+  "externalReferences": "Jesus cites Isaiah 29:13 to accuse the leaders of honoring God with lips while hearts are far from him. His appeal to God’s command to honor parents echoes Exodus 20:12, and the penalty for cursing parents reflects Exodus 21:17 and Leviticus 20:9. The healing of the deaf and mute recalls Isaiah 35:5–6, which envisions a time when the deaf hear and the mute sing for joy. A close narrative parallel to the Syrophoenician episode appears in Matthew 15:21–28.",
+  "seeAlso": [
+    "Isaiah 29:13",
+    "Exodus 20:12",
+    "Exodus 21:17",
+    "Leviticus 20:9",
+    "Isaiah 35:5-6",
+    "Matthew 15:21-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Tradition and Corban Rebuke"
+    },
+    {
+      "range": "14-23",
+      "title": "What Truly Defiles"
+    },
+    {
+      "range": "24-37",
+      "title": "Healings Among Gentiles"
+    }
+  ],
+  "themes": [
+    "Command vs. tradition",
+    "Inner purity",
+    "Faith and persistence",
+    "Gentile inclusion",
+    "Healing and restoration"
+  ],
+  "practicalQuestions": [
+    "Where might my religious habits or group traditions undermine clear ethical commands, especially obligations to family or the vulnerable?",
+    "How do I examine my heart for the attitudes and behaviors Jesus lists as truly defiling?",
+    "In what ways can I demonstrate faith and humility like the Syrophoenician mother when seeking help from God?",
+    "How open am I to God’s work beyond my familiar community or boundaries?",
+    "What practices help my words align with a heart that honors God, not just outward compliance?"
+  ],
+  "uncertainAreas": "Interpretation of verse 19 varies; some translations render it as Jesus declaring all foods clean, while the KJV phrasing is less explicit. Jesus’ reference to “dogs” in speaking to the Syrophoenician woman may signal a testing of faith or an initial priority to Israel—its precise tone and intent are debated.",
+  "createdAt": "2025-11-02T16:55:09.854Z",
+  "modelId": "gpt-5-2025-08-07"
+}

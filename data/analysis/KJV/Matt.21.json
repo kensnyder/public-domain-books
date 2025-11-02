@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Matt.21",
+  "briefOverview": "Jesus enters Jerusalem as the promised king, confronts temple corruption, teaches on faith, and issues parables that indict unfaithful leaders.",
+  "summary": "Jesus arranges to ride into Jerusalem on a donkey, fulfilling prophetic expectations, as crowds acclaim him with messianic praise. He then drives out buyers and sellers from the temple, calling it a house of prayer, and heals the blind and lame as children praise him. The next morning he curses a fruitless fig tree, and teaches the disciples that believing prayer can accomplish the impossible. When challenged about his authority by chief priests and elders, Jesus exposes their evasiveness regarding John’s baptism and refuses to answer directly. He tells the parable of two sons to show that sinners who repent and obey enter God’s kingdom ahead of leaders who refuse to believe. In the parable of the wicked tenants, he depicts the rejection and killing of the owner’s son and warns that the kingdom will be given to a people producing its fruit; he cites Scripture about the rejected stone becoming the cornerstone. The leaders perceive the parables target them but hesitate to arrest him because of the crowds.",
+  "externalContext": "This scene likely occurs during the Passover season, when Jerusalem swelled with pilgrims and messianic hopes intensified. Money-changing and animal sales in the temple precincts were connected to sacrificial worship and the requirement to use acceptable coinage, though abuses were widely criticized. The chief priests and elders formed part of the Sanhedrin, the highest Jewish council under Roman oversight, responsible for religious and some civil matters. The Mount of Olives and nearby villages (Bethphage, Bethany) lie just east of Jerusalem, a common approach route for pilgrims. Vineyards were a standard biblical image for Israel, making vineyard parables readily understandable to Jesus’ audience.",
+  "externalReferences": "Matthew cites Zechariah 9:9 and Isaiah 62:11 in the donkey-riding king (v.5), and the crowd’s cries echo Psalm 118:25–26 (“Hosanna… Blessed is he who comes in the name of the Lord”). Jesus’ temple citation blends Isaiah 56:7 (“house of prayer”) with Jeremiah 7:11 (“den of robbers”), and his affirmation of children’s praise draws on Psalm 8:2 (v.16). The vineyard setup in the parable (hedge, tower, winepress) evokes Isaiah 5:1–7, a song about God’s vineyard (Israel) failing to yield good fruit. The “rejected stone” saying quotes Psalm 118:22–23; the sayings about stumbling and crushing resonate with Isaiah 8:14–15 and possibly Daniel 2:34–35’s stone imagery.",
+  "seeAlso": [
+    "Zechariah 9:9",
+    "Isaiah 62:11",
+    "Psalm 118:25-26",
+    "Isaiah 56:7",
+    "Jeremiah 7:11",
+    "Psalm 8:2",
+    "Isaiah 5:1-7",
+    "Psalm 118:22-23",
+    "Isaiah 8:14-15",
+    "Daniel 2:34-35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Triumphal Entry"
+    },
+    {
+      "range": "12-22",
+      "title": "Temple Cleansing and Faith"
+    },
+    {
+      "range": "23-46",
+      "title": "Authority Challenged and Parables"
+    }
+  ],
+  "themes": [
+    "Messianic kingship",
+    "Authority and judgment",
+    "Faith and prayer",
+    "Obedience and fruitfulness"
+  ],
+  "practicalQuestions": [
+    "Where might religious activity in my context drift from prayerful worship into self-serving commerce or performance, and how should it be corrected?",
+    "How can I cultivate the kind of trusting prayer Jesus commends, balancing confidence with alignment to God’s will?",
+    "Do my actions align with my words like the first son, or do I say the right things but fail to follow through?",
+    "What “fruit” is God seeking from me and my community, and how will we render it in its season?",
+    "How do I respond when Jesus’ authority challenges my assumptions—do I evade, or do I repent and believe?",
+    "Where might I need to recognize and honor God’s work through unexpected people, as the leaders failed to do with John and with Jesus?"
+  ],
+  "uncertainAreas": "The fig tree’s withering is often read symbolically (e.g., judgment on fruitless Israel or warning against barren religiosity), but Matthew does not state the symbol explicitly. The identity of the “nation/people” receiving the kingdom’s fruit (v.43) could mean Gentiles, a renewed Israel, or a faithful community defined by fruitfulness—Matthew leaves it open. The layered “stone” imagery (v.42–44) draws on multiple texts, making the precise referent and mechanics of “falling” versus “crushing” debated among interpreters.",
+  "createdAt": "2025-11-02T16:46:20.795Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Matt.15",
+  "briefOverview": "Jesus confronts traditions that nullify God’s commands, teaches that defilement arises from the heart, and extends mercy and provision beyond expected boundaries.",
+  "summary": "Religious leaders challenge Jesus because his disciples do not follow the elders’ handwashing tradition; Jesus counters that their traditions can overturn God’s command to honor parents and cites Isaiah to expose lip-service worship. He teaches the crowd that moral defilement comes not from food entering the body but from evil that proceeds from the heart, listing sins that truly defile. After warning that blind leaders will be uprooted, he explains this teaching to the disciples. In the region of Tyre and Sidon, a Canaanite woman persistently appeals to him as Son of David; despite initial refusal framed by Israel’s priority, Jesus praises her great faith and heals her daughter. Returning near the Sea of Galilee, he heals many and, moved by compassion for the crowds who have been with him three days, multiplies seven loaves and a few fish to feed four thousand men plus women and children, with seven baskets left over, before departing to Magdala.",
+  "externalContext": "First-century Pharisaic practice included ritual handwashings as part of the \"tradition of the elders,\" a body of oral interpretations meant to safeguard the Law. Some traditions allowed a vow dedicating resources to God (often called Corban), which could be used to avoid providing material support to parents—contradicting the command to honor father and mother. Tyre and Sidon were major Phoenician port cities north of Galilee, predominantly Gentile areas, making the approach of a \"Canaanite\" woman especially notable in a Jewish context. The term translated \"dogs\" could refer to house dogs, and the exchange reflects common Jewish-Gentile boundary language of the time while highlighting the woman’s humility and persistence. Public healings and mass feedings in the wilderness evoke biblical themes of God’s compassionate provision for his people.",
+  "externalReferences": "Jesus quotes Isaiah 29:13 to indict worship that honors God with lips while hearts are far from him, and he invokes the command to honor father and mother (Exodus 20:12) alongside the death penalty for cursing parents (Exodus 21:17; Leviticus 20:9). His focus on what proceeds from the heart aligns with his earlier teaching that speech reveals the heart (Matthew 12:34–37); the \"blind leading the blind\" echoes a proverbial warning also found in Luke 6:39. The limitation to \"the lost sheep of the house of Israel\" recalls his earlier mission directive (Matthew 10:5–6), while the Gentile woman’s faith anticipates wider inclusion; parallels to the handwashing dispute and the defilement teaching appear in Mark 7:1–23 (where Mark notes all foods clean), and the feeding of the four thousand is paralleled in Mark 8:1–10 and recalled in Matthew 16:9–10.",
+  "seeAlso": [
+    "Isaiah 29:13",
+    "Exodus 20:12",
+    "Exodus 21:17",
+    "Leviticus 20:9",
+    "Matthew 10:5-6",
+    "Matthew 12:34-37",
+    "Matthew 16:9-10",
+    "Mark 7:1-23",
+    "Mark 8:1-10",
+    "Luke 6:39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Tradition versus commandment"
+    },
+    {
+      "range": "10-20",
+      "title": "What truly defiles"
+    },
+    {
+      "range": "21-39",
+      "title": "Faith, healings, and feeding"
+    }
+  ],
+  "themes": [
+    "Command vs tradition",
+    "Inner purity",
+    "Faith of outsiders",
+    "Compassion",
+    "Provision"
+  ],
+  "practicalQuestions": [
+    "Where might my inherited traditions or habits be obscuring straightforward obedience to God’s commands?",
+    "What do my words and reactions reveal about the condition of my heart, and how can I cultivate inner purity?",
+    "How do I respond when people outside my community demonstrate sincere faith and need—do I make room for them?",
+    "In seasons of scarcity, how can I practice trust in God’s compassionate provision while using what I have?",
+    "What concrete steps can I take to honor and care for my parents or elders?",
+    "Am I following leaders who truly see and submit to God, or am I at risk of the blind leading the blind?"
+  ],
+  "uncertainAreas": "The precise nature of the vow described (\"it is a gift\") is not named here; identifying it with the Corban practice relies on parallels (e.g., Mark 7). It is debated whether Jesus’ teaching in Matthew 15 alone implies abrogation of food laws (as Mark explicitly states) or focuses more narrowly on moral defilement. The setting of the healing/feeding crowds near the Sea of Galilee may include Gentiles (suggested by \"they glorified the God of Israel\"), but the composition of the crowd is not specified. The connotations of \"dogs\" may be softened by a diminutive, yet the tone and intent of the exchange are interpreted variously.",
+  "createdAt": "2025-11-02T16:42:42.743Z",
+  "modelId": "gpt-5-2025-08-07"
+}

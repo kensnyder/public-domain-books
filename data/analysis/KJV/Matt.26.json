@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Matt.26",
+  "briefOverview": "Matthew 26 moves from the plot against Jesus through the Last Supper to Gethsemane, arrest, trial before the high priest, and Peter’s denial, presenting these events as fulfillment of Scripture and the prelude to Jesus’ crucifixion.",
+  "summary": "Jesus announces that his betrayal and crucifixion will occur at Passover while leaders plot his death. In Bethany, an unnamed woman anoints him with costly ointment; Jesus defends her act as preparation for his burial and a lasting memorial, after which Judas agrees to betray him for thirty pieces of silver. During the Passover meal, Jesus predicts a betrayer among the Twelve and institutes the bread and cup as his body and blood of the new covenant for the forgiveness of sins. He foretells the disciples’ scattering and Peter’s triple denial. In Gethsemane, Jesus prays in deep distress, submitting to the Father’s will while the disciples sleep; Judas arrives with an armed crowd, identifies Jesus with a kiss, and Jesus is arrested as he rejects violent resistance and affirms Scripture’s fulfillment. Before Caiaphas and the council, false witnesses fail until Jesus, under oath, affirms his identity and future exaltation, prompting a charge of blasphemy and abuse by the council. Peter, watching from a distance, denies Jesus three times and weeps bitterly when the rooster crows, recalling Jesus’ prediction.",
+  "externalContext": "Passover commemorated Israel’s deliverance from Egypt and centered on a sacrificial meal (Exodus 12); first-century Jews flocked to Jerusalem, heightening political and religious sensitivities under Roman rule. The high priest Caiaphas (in office roughly 18–36 CE) presided over the Sanhedrin, the Jewish council with significant religious authority, though capital sentences required Roman confirmation. Gethsemane, on the Mount of Olives, likely means “oil press,” an apt setting for Jesus’ agonized prayer. Thirty pieces of silver was the price of a slave’s compensation in Exodus 21:32, underscoring the humiliation involved in Judas’s bargain. Trials held at night and the use of false witnesses were controversial and may reflect haste and fear of public uproar during the festival.",
+  "externalReferences": "Jesus quotes or alludes to Zechariah 13:7 in predicting the scattering of the disciples (“I will smite the shepherd”), and he evokes Psalm 110:1 and Daniel 7:13–14 in declaring the Son of Man’s exaltation and coming on the clouds before the high priest. The cup as “my blood of the new covenant” recalls Jeremiah 31:31–34 and is set within Passover, evoking Exodus 12’s deliverance through sacrificial blood. “You always have the poor” echoes Deuteronomy 15:11, framing the anointing as a timely act of devotion. The accusation about destroying and rebuilding the temple parallels Jesus’ saying in John 2:19 (misunderstood by witnesses here), and Judas’s thirty pieces of silver echoes Zechariah 11:12–13 (explicitly connected in Matthew 27:9–10).",
+  "seeAlso": [
+    "Exodus 12:1-14",
+    "Deuteronomy 15:11",
+    "Jeremiah 31:31-34",
+    "Psalm 110:1",
+    "Daniel 7:13-14",
+    "Zechariah 11:12-13",
+    "Zechariah 13:7",
+    "John 2:19-22",
+    "Mark 14:1-72",
+    "Luke 22:1-71",
+    "John 12:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Plot, anointing, betrayal"
+    },
+    {
+      "range": "17-35",
+      "title": "Passover and predictions"
+    },
+    {
+      "range": "36-75",
+      "title": "Gethsemane, arrest, trial"
+    }
+  ],
+  "themes": [
+    "Betrayal",
+    "Fulfillment of Scripture",
+    "New Covenant",
+    "Watchfulness and Weakness",
+    "Suffering Obedience"
+  ],
+  "practicalQuestions": [
+    "How does devotion to Christ shape my use of resources, especially when good charitable causes compete with acts of worship and witness?",
+    "Where am I most likely to fall asleep spiritually, and how can I watch and pray to resist temptation?",
+    "When pressured by fear or social risk, in what subtle ways might I deny my commitments—and how can I strengthen fidelity?",
+    "How should I respond to injustice or hostility without resorting to violence, trusting God’s purposes?",
+    "What would it look like to submit my will to God’s in present suffering, as Jesus did in Gethsemane?"
+  ],
+  "uncertainAreas": "Identity of the anointing woman (unnamed here) and harmonization with other Gospels; the exact chronology of the Passover meal relative to Jesus’ crucifixion; which disciple drew the sword (unnamed in Matthew); the legal propriety and timing of the nighttime hearing; interpretive nuances of “This is my body/blood” across traditions.",
+  "createdAt": "2025-11-02T16:49:42.733Z",
+  "modelId": "gpt-5-2025-08-07"
+}

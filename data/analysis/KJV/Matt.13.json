@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Matt.13",
+  "briefOverview": "Jesus delivers a series of parables revealing the nature, growth, and value of the kingdom of heaven, along with explanations and an ensuing rejection in his hometown.",
+  "summary": "Jesus teaches large crowds by the sea using parables, beginning with the sower, and explains to his disciples that parables disclose kingdom mysteries to receptive hearers while fulfilling prophetic warnings about dull hearts. He interprets the sower: varied soils represent different receptions of the word—from loss to persecution to worldly distraction to fruitful understanding. He adds parables about weeds among wheat, a mustard seed, and leaven, highlighting the kingdom’s hidden growth amid opposition and its final separation at the harvest; he later explains that the Son of Man will judge at the end of the age. Further parables of hidden treasure and a priceless pearl stress the kingdom’s surpassing worth, and the net depicts the final sorting of the righteous and wicked. Jesus likens a trained scribe of the kingdom to a householder bringing out new and old treasures. Returning to his hometown, he is met with skepticism over his ordinary family background, and he performs few mighty works there because of their unbelief.",
+  "externalContext": "Parables were a familiar Jewish teaching form that used everyday scenes to convey moral and theological truths. The agricultural images reflect Galilean life: sowers broadcast seed by hand; thin, rocky soil and thorny patches were common. The “tares” likely refer to darnel (Lolium temulentum), a weed that closely resembles wheat until maturity, making early removal risky. Mustard (probably black mustard) could grow large like a shrub or small tree in that region; “three measures of meal” is a large amount of flour, emphasizing pervasive leavening. Honor-shame dynamics in small towns meant that a person’s familiar background could hinder perceived authority, illuminating the proverb about a prophet lacking honor at home.",
+  "externalReferences": "Jesus cites Isaiah 6:9–10 to explain why many hear without understanding, framing parables as both revelation and judgment. Matthew 13:35 quotes Psalm 78:2 (Asaph) to present Jesus as the revealer of hidden things through parables. The imagery of the righteous “shining” evokes Daniel 12:3, while the burning of the wicked recalls judgment imagery such as Malachi 4:1; the separation of good and bad also echoes earlier themes in Matthew 3:12 (winnowing). The mustard tree offering bird-shelter resonates with royal-kingdom imagery where great trees host birds (e.g., Ezekiel 17:23; Daniel 4:12), suggesting the kingdom’s expansive refuge.",
+  "seeAlso": [
+    "Isaiah 6:9-10",
+    "Psalm 78:2",
+    "Daniel 12:3",
+    "Malachi 4:1",
+    "Matthew 3:12",
+    "Mark 4:1-34",
+    "Luke 8:4-15",
+    "Luke 13:18-21",
+    "Matthew 25:31-46",
+    "Mark 6:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-23",
+      "title": "Sower and purpose of parables"
+    },
+    {
+      "range": "24-43",
+      "title": "Kingdom parables and weeds explained"
+    },
+    {
+      "range": "44-58",
+      "title": "Treasure, net, and hometown rejection"
+    }
+  ],
+  "themes": [
+    "Hearing and understanding",
+    "Hidden growth",
+    "Judgment and separation",
+    "Supreme value of the kingdom",
+    "Unbelief"
+  ],
+  "practicalQuestions": [
+    "Which “soil” best describes my current reception of Scripture, and what would deepen my roots to endure pressure or persecution?",
+    "What worries or wealth-related pursuits may be choking my fruitfulness, and what concrete changes would free space for growth?",
+    "How can I patiently live within a mixed community where good and evil coexist, trusting God’s timing for final sorting?",
+    "What am I willing to relinquish to gain what the kingdom offers, and how might that look in my finances, time, or relationships?",
+    "How can I cultivate ears that truly hear—moving from initial enthusiasm to understanding and obedience?",
+    "Where might familiarity or preconceived categories be blinding me to God’s work, as in Jesus’s hometown?"
+  ],
+  "uncertainAreas": "Nuances of why Jesus uses parables (revelation versus judicial concealment) are debated, though the text affirms both dynamics. The exact referent of “the end of the world/age” and the nature of the “furnace of fire” involve eschatological interpretation (literal versus metaphorical imagery of judgment). The identification of “tares” with darnel is likely but not explicit in the text. The statement that the mustard seed is the least of seeds is conventional/hyperbolic, not a botanical claim. The scope of “every scribe instructed for the kingdom” (apostolic leaders, Christian teachers, or any trained disciple) is not specified. The relation between unbelief and fewer miracles in Nazareth—whether causal limitation or Jesus’s deliberate restraint—is not fully detailed.",
+  "createdAt": "2025-11-02T16:41:20.519Z",
+  "modelId": "gpt-5-2025-08-07"
+}

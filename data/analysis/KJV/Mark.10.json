@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Mark.10",
+  "briefOverview": "Jesus teaches on the permanence of marriage, the necessity of childlike reception of God’s reign, the danger of wealth for discipleship, the path of suffering service, and he heals a blind beggar who trusts him.",
+  "summary": "Pharisees test Jesus about divorce; he points beyond Deuteronomy’s concession to God’s creation intent, affirming that marriage unites two into one flesh and that divorcing to remarry is adultery. He welcomes children, insisting that the kingdom must be received like a child. A wealthy inquirer claims to keep the commandments, but Jesus calls him to sell his possessions, give to the poor, and follow; he departs sorrowful, prompting teaching on the difficulty of entering the kingdom when trusting riches and on God’s power to save. Jesus promises reward—with persecutions—to those who leave much for the gospel and warns that many first will be last. On the way to Jerusalem he again predicts his rejection, death, and resurrection; when James and John seek places of honor, he teaches that greatness is measured by service, as the Son of Man gives his life as a ransom for many. Near Jericho, blind Bartimaeus persistently appeals to “Son of David” for mercy; Jesus credits his faith, restores his sight, and Bartimaeus follows him.",
+  "externalContext": "Debates about divorce were active among Jewish teachers in the first century, often framed by Deuteronomy 24:1 and differing schools (e.g., Shammai’s stricter view and Hillel’s more permissive view). Jesus’ location “beyond the Jordan” places him in Perea, under Herod Antipas, whose controversial divorce and remarriage had figured in John the Baptist’s arrest, making the Pharisees’ question politically charged. Wealth was commonly viewed in Second Temple Judaism as a sign of divine favor, so Jesus’ warning about riches would challenge prevailing assumptions. The imagery of a “cup” and “baptism” for suffering drew on prophetic and poetic traditions of God’s cup of wrath and overwhelming trials. The term “ransom” evoked the manumission or redemption price to free slaves or captives, framing Jesus’ death as liberating service.",
+  "externalReferences": "Jesus grounds his marriage teaching in creation texts (Genesis 1:27; 2:24) rather than in the concession of Deuteronomy 24:1. His third passion prediction continues a pattern begun in Mark 8:31 and 9:31. The images of the “cup” and redemptive suffering resonate with Isaiah 51:17 and Psalm 75:8, while the statement about giving his life “as a ransom for many” echoes the Suffering Servant’s representative, atoning work (Isaiah 53:10–12). Bartimaeus’s address “Son of David” reflects messianic hope grounded in God’s covenant with David (2 Samuel 7:12–16).",
+  "seeAlso": [
+    "Genesis 1:27",
+    "Genesis 2:24",
+    "Deuteronomy 24:1",
+    "Mark 8:31",
+    "Mark 9:31",
+    "Isaiah 53:10-12",
+    "Isaiah 51:17",
+    "Psalm 75:8",
+    "Matthew 19:1-30",
+    "Luke 18:15-43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Marriage and divorce"
+    },
+    {
+      "range": "13-31",
+      "title": "Children, wealth, discipleship"
+    },
+    {
+      "range": "32-52",
+      "title": "Suffering and true greatness"
+    }
+  ],
+  "themes": [
+    "Marriage fidelity",
+    "Childlike reception",
+    "Detachment from wealth",
+    "Servant leadership",
+    "Saving grace of God"
+  ],
+  "practicalQuestions": [
+    "Where might I need to receive God’s reign with the humility, trust, and openness of a child?",
+    "How are money, security, or status shaping my decisions more than obedience to Jesus, and what concrete steps would loosen their grip?",
+    "In my family, work, or community, how can I practice leadership defined by serving rather than by asserting power?",
+    "How does Jesus’ path of suffering and service recalibrate my expectations about honor, success, and timing of reward?",
+    "What would faithfulness look like in honoring the marriage covenant, and how do compassion and truth both inform my stance toward divorce and remarriage?",
+    "Who around me is calling out for mercy like Bartimaeus, and how can I help remove barriers so they can encounter Jesus?"
+  ],
+  "uncertainAreas": "Interpretations vary on divorce and remarriage (Mark omits Matthew’s exception clause), the precise sense of the “camel through the eye of a needle” hyperbole, the extent and mechanics of “ransom for many,” and what “receive a hundredfold…with persecutions” entails concretely in this life.",
+  "createdAt": "2025-11-02T16:57:04.163Z",
+  "modelId": "gpt-5-2025-08-07"
+}

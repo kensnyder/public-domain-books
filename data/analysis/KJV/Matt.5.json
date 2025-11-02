@@ -1,0 +1,54 @@
+{
+  "chapterOsisID": "Matt.5",
+  "briefOverview": "Jesus inaugurates his teaching on kingdom righteousness, redefining blessedness and intensifying the Law’s moral demands to the level of inner character and enemy-love.",
+  "summary": "Jesus blesses those who are poor in spirit, mournful, meek, hungry for righteousness, merciful, pure, peacemaking, and persecuted, promising them God’s kingdom, comfort, inheritance, and reward. He calls his followers the earth’s salt and the world’s light, urging visible good works that glorify the Father. He asserts he has come not to abolish but to fulfill the Law and the Prophets, insisting that even the least commandment matters and that true righteousness must surpass that of scribes and Pharisees. He deepens the command against murder to include anger and contempt, prioritizing reconciliation even over sacrificial worship. He intensifies the command against adultery to include lust, warns against casual divorce except for sexual immorality, and commands simple truthfulness rather than oath-taking. He overturns retaliation with nonresistance and generosity, culminating in love for enemies so that disciples resemble the perfect Father who gives sun and rain to all.",
+  "externalContext": "Matthew’s Gospel is often seen as addressing a largely Jewish audience, and this sermon’s setting on a mountain evokes Moses on Sinai, framing Jesus as the authoritative interpreter of Torah. First-century Judea and Galilee lived under Roman rule; soldiers could compel civilians to carry loads (angareia), illuminating the instruction to go a second mile. Oath-taking was a common practice, and Jews frequently used circumlocutions (heaven, Jerusalem) to avoid pronouncing the divine name. Divorce was legally regulated (Deuteronomy 24:1), and contemporary Jewish debates discussed legitimate grounds for divorce. Temple worship in Jerusalem involved sacrifices, making Jesus’ call to reconcile before offering particularly striking for Galileans who traveled to the Temple.",
+  "externalReferences": "The Beatitudes resonate with Isaiah 61:1–3 (good news to the poor, comfort for mourners) and Psalm 37:11 (“the meek shall inherit the land”). Jesus’ antitheses engage the Decalogue and Torah: “You shall not murder” (Exodus 20:13) and “You shall not commit adultery” (Exodus 20:14); divorce regulation (Deuteronomy 24:1); oath obligations (Leviticus 19:12; Numbers 30:2); and lex talionis, “eye for eye” (Exodus 21:24; Leviticus 24:20; Deuteronomy 19:21). His call to love enemies parallels Proverbs 25:21–22 and is echoed in Romans 12:14–21; his ban on oaths is reiterated in James 5:12. A parallel collection of teachings appears in Luke 6:20–36 (often called the Sermon on the Plain).",
+  "seeAlso": [
+    "Isaiah 61:1-3",
+    "Psalm 37:11",
+    "Exodus 20:13",
+    "Exodus 20:14",
+    "Deuteronomy 24:1",
+    "Leviticus 19:12",
+    "Numbers 30:2",
+    "Exodus 21:24",
+    "Leviticus 24:20",
+    "Deuteronomy 19:21",
+    "Proverbs 25:21-22",
+    "Luke 6:20-36",
+    "James 5:12",
+    "Romans 12:14-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Blessings of the Kingdom"
+    },
+    {
+      "range": "13-20",
+      "title": "Salt, Light, and Fulfillment"
+    },
+    {
+      "range": "21-48",
+      "title": "Deepening the Commandments"
+    }
+  ],
+  "themes": [
+    "Kingdom righteousness",
+    "Inner transformation",
+    "Witness and light",
+    "Nonretaliation",
+    "Enemy love"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to limit righteousness to outward compliance instead of inner transformation?",
+    "With whom do I need to seek reconciliation before I resume religious or communal duties?",
+    "How can I practice truthfulness so that my simple yes or no is trustworthy without oaths?",
+    "What does it look like, in my context, to refuse retaliation and instead act generously?",
+    "Who counts as an “enemy” for me, and how will I concretely bless, do good to, and pray for them this week?"
+  ],
+  "uncertainAreas": "The scope of “anger without a cause” in v.22 is debated due to textual variants; the ethical implications of “do not resist an evil person” (vv.38–42) range from personal nonretaliation to broader nonviolence, and practical application can vary. The meaning of “perfect” (teleios) in v.48 may indicate moral completeness or maturity patterned after God’s character rather than absolute flawlessness. The exact parameters of the divorce exception (“fornication”) and its relationship to remarriage are also contested.",
+  "createdAt": "2025-11-02T16:36:15.168Z",
+  "modelId": "gpt-5-2025-08-07"
+}

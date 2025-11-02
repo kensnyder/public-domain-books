@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Matt.9",
+  "briefOverview": "A sequence of healings and teachings displays Jesus’ authority to forgive sins, redefine piety around mercy, and inaugurate something new. The chapter culminates with his compassion for the crowds and a call to prayer for more workers.",
+  "summary": "Jesus returns to his city and heals a paralytic after declaring his sins forgiven, provoking scribal accusations of blasphemy but demonstrating authority by the man’s immediate recovery. He calls Matthew from the tax booth and eats with “tax collectors and sinners,” explaining that he came as a physician for the sick and citing God’s preference for mercy over sacrifice. Questioned about fasting, he identifies himself as the bridegroom and uses images of unshrunk cloth and new wine to teach the need for new forms. On the way to raise a ruler’s daughter, a woman with a twelve‑year hemorrhage is healed by touching his garment; he then raises the girl despite the mourners’ ridicule. Two blind men address him as “Son of David” and are healed according to their faith, though they publicize it despite his warning, and a mute demoniac is delivered, prompting praise from crowds and suspicion from Pharisees. Jesus then goes through towns teaching, proclaiming the kingdom, and healing, moved with compassion for people “like sheep without a shepherd,” and urges prayer for more laborers for the plentiful harvest.",
+  "externalContext": "“His own city” is commonly understood as Capernaum, a base for Jesus’ Galilean ministry. Tax collectors (publicans) worked under Roman authority and were widely despised for corruption and collaboration, making table fellowship with them socially scandalous. Pharisaic piety in this period often included regular fasts (e.g., twice weekly), and some disciples of John the Baptist practiced fasting as a sign of repentance or anticipation. The woman’s chronic bleeding and contact with a corpse would render one ritually impure under Levitical law, highlighting the social and religious barriers Jesus crosses. Professional mourners and flutists at funerals were customary in first‑century Judea. The title “Son of David” was a common messianic designation, and “Son of Man” evokes both human humility and an exalted, eschatological figure in Jewish apocalyptic expectations.",
+  "externalReferences": "Jesus’ citation “I desire mercy, and not sacrifice” directly quotes Hosea 6:6, framing his table fellowship as fidelity to God’s heart rather than neglect of the law. His self‑designation “Son of Man” and demonstration of authority to forgive sins resonate with Daniel 7:13–14, where a human‑like figure receives authority from God. The compassion for people “like sheep without a shepherd” echoes Israel’s longing for faithful leadership (Numbers 27:17; Ezekiel 34:5). The crowd’s address “Son of David” reflects messianic hopes grounded in God’s covenant with David (2 Samuel 7:12–16) and prophetic expectation of a Davidic ruler (Isaiah 11:1).",
+  "seeAlso": [
+    "Hosea 6:6",
+    "Daniel 7:13-14",
+    "Numbers 27:17",
+    "Ezekiel 34:5",
+    "2 Samuel 7:12-16",
+    "Isaiah 11:1",
+    "Mark 2:1-22",
+    "Luke 5:17-39",
+    "Mark 5:21-43",
+    "John 3:29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Authority to Forgive"
+    },
+    {
+      "range": "9-17",
+      "title": "Call of Matthew; Mercy"
+    },
+    {
+      "range": "18-38",
+      "title": "Healings and Harvest Call"
+    }
+  ],
+  "themes": [
+    "Authority of Jesus",
+    "Mercy over sacrifice",
+    "Faith and healing",
+    "Newness of the kingdom",
+    "Compassionate mission"
+  ],
+  "practicalQuestions": [
+    "Where might I prioritize mercy over ritual correctness in my relationships and community life?",
+    "What “old wineskins” in my habits or structures resist the new work God may be doing?",
+    "How do I seek both forgiveness and wholeness when I face illness, failure, or need?",
+    "How should I respond when sincere obedience draws criticism or misunderstanding?",
+    "What concrete steps can I take to pray for and participate in the “harvest” where I live?"
+  ],
+  "uncertainAreas": "“His own city” is likely Capernaum but not explicitly named here; the ruler is unnamed (elsewhere called Jairus); Jesus’ statement that the girl “sleeps” may be metaphorical for death; the reason for Jesus’ strict command to silence after healing the blind men is not explained; the precise timing and application of fasting once the bridegroom is “taken away” is open to interpretation.",
+  "createdAt": "2025-11-02T16:38:36.531Z",
+  "modelId": "gpt-5-2025-08-07"
+}

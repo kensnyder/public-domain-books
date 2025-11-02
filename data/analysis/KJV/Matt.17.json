@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Matt.17",
+  "briefOverview": "Jesus is revealed in glory at the Transfiguration and then instructs his disciples on faith, his coming suffering, and conscientiousness regarding obligations.",
+  "summary": "Jesus takes Peter, James, and John up a mountain and is transfigured before them; Moses and Elijah appear, and a divine voice affirms Jesus as the beloved Son to whom they must listen. Descending, Jesus explains that Elijah has already come in John the Baptist. He heals a boy whom the disciples could not cure, attributing their failure to unbelief and teaching that even mustard-seed faith can move mountains, with some cases requiring prayer (and fasting). Jesus again predicts his betrayal, death, and resurrection, and the disciples are grieved. In Capernaum, when asked about the temple tax, Jesus teaches that sons are free but chooses not to give offense, providing the payment miraculously through a coin found in a fish’s mouth.",
+  "externalContext": "First-century Jews expected Elijah to return before the Messiah, reflecting interpretations of the prophet Malachi; scribes commonly taught this as part of messianic expectation. The mountain setting and bright cloud evoke Old Testament theophanies, where God reveals himself on mountains and in clouds, signaling divine presence and authority. The “tribute” in this passage most likely refers to the annual temple tax paid by Jewish males to support temple services, not Roman imperial taxes. Public healing and exorcism were known in Jewish and Greco-Roman contexts, but Jesus’ emphasis on faith and prayer frames the event within covenantal reliance on God.",
+  "externalReferences": "The divine voice echoes Psalm 2:7 and Isaiah 42:1, combining royal sonship and the Servant motif, and the command to “hear him” resonates with Deuteronomy 18:15 about a prophet like Moses. Jesus’ identification of John the Baptist with the promised Elijah fulfills Malachi 4:5–6 and aligns with Matthew 11:14; parallel accounts of the Transfiguration and the healing appear in Mark 9:2–29 and Luke 9:28–45. The conversation about the temple tax evokes Exodus 30:13–16; later, 2 Peter 1:16–18 recalls eyewitness testimony of the Transfiguration.",
+  "seeAlso": [
+    "Malachi 4:5-6",
+    "Deuteronomy 18:15",
+    "Psalm 2:7",
+    "Isaiah 42:1",
+    "Matthew 11:14",
+    "Mark 9:2-29",
+    "Luke 9:28-45",
+    "Exodus 30:13-16",
+    "Matthew 21:21",
+    "2 Peter 1:16-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Transfiguration and Elijah"
+    },
+    {
+      "range": "14-21",
+      "title": "Healing and faith’s power"
+    },
+    {
+      "range": "22-27",
+      "title": "Passion prediction and tax"
+    }
+  ],
+  "themes": [
+    "Divine sonship",
+    "Revelation and glory",
+    "Faith’s power",
+    "Suffering foretold",
+    "Avoiding offense"
+  ],
+  "practicalQuestions": [
+    "What practices help me “hear” Jesus above competing voices when making decisions?",
+    "Where do I need to act in mustard-seed faith rather than be paralyzed by unbelief?",
+    "How might prayer (and fasting) shape my response to persistent or entrenched problems?",
+    "In what ways can I avoid unnecessary offense while still living out my convictions?",
+    "How does the vision of Jesus’ glory sustain trust when facing suffering or disappointment?"
+  ],
+  "uncertainAreas": "The precise mountain of the Transfiguration is not identified in the text (traditions vary). The meaning of “restore all things” regarding Elijah/John the Baptist is concise and open to interpretive nuance. Verse 21 (“by prayer and fasting”) has a notable textual variant in manuscript traditions. The metaphor of moving a mountain expresses extraordinary efficacy of faith, but whether it implies literal or hyperbolic action is debated. The mechanism of the coin-in-the-fish miracle is unique and unexplained.",
+  "createdAt": "2025-11-02T16:43:42.125Z",
+  "modelId": "gpt-5-2025-08-07"
+}

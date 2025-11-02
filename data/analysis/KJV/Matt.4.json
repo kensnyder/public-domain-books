@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Matt.4",
+  "briefOverview": "Jesus resists Satan’s temptations, inaugurates his public ministry in Galilee, calls his first disciples, and demonstrates authority by teaching and healing.",
+  "summary": "Led by the Spirit into the wilderness, Jesus fasts forty days and is tempted by the devil to satisfy hunger miraculously, test God’s protection, and gain worldly rule by worshiping Satan; he refuses each by citing Scripture. After the devil departs and angels minister to him, Jesus moves to Capernaum in Galilee following John’s imprisonment, marking a fulfillment of Isaiah’s prophecy about light dawning in Zebulun and Naphtali. He begins to preach, “Repent, for the kingdom of heaven is at hand.” By the Sea of Galilee he calls Simon Peter and Andrew, then James and John, who immediately leave their nets and follow him. He then travels throughout Galilee teaching in synagogues, proclaiming the kingdom, and healing every kind of disease and affliction, so that crowds from across the region and beyond follow him.",
+  "externalContext": "The Judean wilderness is a desolate region east of Jerusalem associated with testing and prophetic encounters with God. A forty-day fast evokes Israel’s forty years in the wilderness and recalls Moses and Elijah’s extended fasts, underscoring prophetic continuity. Galilee, especially the area around Capernaum, was densely populated, economically active, and ethnically mixed (“Galilee of the Gentiles”) due to earlier Assyrian resettlements. Synagogues functioned as local centers for Scripture reading and teaching, giving itinerant teachers like Jesus a public platform. John the Baptist’s imprisonment likely occurred under Herod Antipas, tetrarch of Galilee and Perea, reflecting the political volatility surrounding prophetic critique. The Decapolis was a league of Hellenized cities east and south of the Sea of Galilee, indicating Jesus’ fame spread beyond Jewish territories.",
+  "externalReferences": "Jesus counters the temptations by citing Deuteronomy: “Man shall not live by bread alone” (Deuteronomy 8:3), “You shall not put the Lord your God to the test” (Deuteronomy 6:16), and “You shall worship the Lord your God and him only shall you serve” (Deuteronomy 6:13). The devil quotes Psalm 91:11–12 regarding angelic protection, which Jesus rejects as a pretext for testing God. Matthew explicitly presents Jesus’ move to Capernaum as fulfilling Isaiah 9:1–2 about light dawning in Zebulun and Naphtali. Parallel accounts of the temptation and the call of the first disciples appear in Mark 1:12–20 and Luke 4:1–15; Luke’s order of the second and third temptations differs from Matthew’s.",
+  "seeAlso": [
+    "Deuteronomy 8:3",
+    "Deuteronomy 6:16",
+    "Deuteronomy 6:13",
+    "Psalm 91:11-12",
+    "Isaiah 9:1-2",
+    "Mark 1:12-20",
+    "Luke 4:1-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Temptation in the wilderness"
+    },
+    {
+      "range": "12-17",
+      "title": "Light dawns in Galilee"
+    },
+    {
+      "range": "18-25",
+      "title": "Calling and healing ministry"
+    }
+  ],
+  "themes": [
+    "Obedience amid temptation",
+    "Kingdom proclamation",
+    "Discipleship call",
+    "Healing authority",
+    "Light in darkness"
+  ],
+  "practicalQuestions": [
+    "How do I rely on Scripture to confront subtle temptations that twist good desires or misuse truth?",
+    "Where might I be testing God rather than trusting him in faithful obedience?",
+    "What does repentance look like for me if the kingdom of heaven is near?",
+    "What nets—occupations, habits, or loyalties—might I need to leave to follow Jesus’ call more fully?",
+    "How can my community embody the kingdom through both proclamation and compassionate care for the afflicted?"
+  ],
+  "uncertainAreas": "The precise location and meaning of the temple “pinnacle” is unclear, as is how Jesus was shown “all the kingdoms of the world” from a mountain. The sequence of the temptations differs in Luke, raising questions about narrative order. The terms translated “devils” and “lunatick” are imprecise by modern categories, leaving the exact nature of those afflictions uncertain. The manner in which angels ministered to Jesus is not described.",
+  "createdAt": "2025-11-02T16:35:47.641Z",
+  "modelId": "gpt-5-2025-08-07"
+}

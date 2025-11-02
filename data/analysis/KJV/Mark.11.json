@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Mark.11",
+  "briefOverview": "Jesus enters Jerusalem as a messianic king, performs symbolic acts of judgment and cleansing, teaches on faith and forgiveness, and confronts leaders about authority.",
+  "summary": "Jesus orchestrates his entry into Jerusalem by riding a colt while crowds acclaim him with shouts of Hosanna and Davidic hopes, and he surveys the temple before leaving for Bethany. The next day he curses a leafy fig tree for its barrenness and drives out buyers and sellers from the temple, declaring it should be a house of prayer rather than a den of thieves. The authorities begin seeking a way to destroy him as the people marvel at his teaching. On the following morning the withered fig tree prompts Jesus to teach about faith-filled prayer, the necessity of believing, and the imperative of forgiving others. When challenged about his authority in the temple, Jesus counters with a question about John’s baptism, exposing the leaders’ unwillingness to commit, and declines to answer them.",
+  "externalContext": "This scene occurs during the days leading up to Passover, when large numbers of Jewish pilgrims traveled to Jerusalem, heightening expectations of deliverance and messianic hope under Roman occupation. Bethphage and Bethany lie on the eastern slope of the Mount of Olives, a ridge east of Jerusalem associated in Jewish expectation with God’s future intervention. Moneychangers and animal sellers operated in the temple precincts, likely the Court of the Gentiles, to facilitate the temple tax and sacrificial requirements, practices overseen by priestly authorities. The chief priests, scribes, and elders collectively represent Jerusalem’s religious leadership, including members of the Sanhedrin who exercised significant influence over temple administration and public order under Roman oversight.",
+  "externalReferences": "The crowd’s cries echo Psalm 118:25–26 (“Hosanna” and “Blessed is he who comes in the name of the Lord”), a psalm used in festival processions. Jesus’ entry on a colt aligns with Zechariah 9:9’s image of a humble, righteous king coming to Zion. His citation in the temple combines Isaiah 56:7 (“my house shall be called a house of prayer for all nations”) with Jeremiah 7:11 (“den of robbers”), framing the action as prophetic critique. The leaders’ question about authority and Jesus’ counter about John’s baptism recalls earlier ministry in Mark 1:2–8, where John is introduced as a divinely sent forerunner.",
+  "seeAlso": [
+    "Psalm 118:25-26",
+    "Zechariah 9:9",
+    "Isaiah 56:7",
+    "Jeremiah 7:11",
+    "Mark 1:2-8",
+    "Matthew 21:1-27",
+    "Luke 19:28-48",
+    "John 12:12-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Entry and Acclamation"
+    },
+    {
+      "range": "12-26",
+      "title": "Fig Tree and Temple"
+    },
+    {
+      "range": "27-33",
+      "title": "Authority Challenged"
+    }
+  ],
+  "themes": [
+    "Messianic kingship",
+    "Judgment",
+    "True worship",
+    "Faith and prayer",
+    "Authority"
+  ],
+  "practicalQuestions": [
+    "Where might my religious habits crowd out prayer and welcome for others, and how should I reform them?",
+    "In what areas do I need to exercise trusting, specific prayer rather than resignation or doubt?",
+    "Whom do I need to forgive so that my prayers are not hindered?",
+    "Do I welcome Jesus’ authority when it challenges my assumptions and systems?",
+    "Am I bearing fruit that matches my outward appearance of devotion?"
+  ],
+  "uncertainAreas": "The rationale for cursing the fig tree when “the time of figs was not yet” is debated; Mark likely uses it symbolically in relation to the temple, but the precise botanical timing and intent are contested. The referent of “this mountain” (v. 23) could be the Mount of Olives or the temple mount; Mark does not specify. The prohibition of carrying vessels through the temple (v. 16) may forbid using the courts as a shortcut or any non-worship use; the exact practice targeted is unclear. “The Lord has need of it” (v. 3) could refer to God’s claim or to Jesus’ own authority; the text leaves it ambiguous.",
+  "createdAt": "2025-11-02T16:57:38.657Z",
+  "modelId": "gpt-5-2025-08-07"
+}

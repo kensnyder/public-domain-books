@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Matt.8",
+  "briefOverview": "Matthew 8 presents a sequence of miracles and teachings that display Jesus’ comprehensive authority—over disease, demons, nature, and over would-be disciples’ priorities.",
+  "summary": "Coming down from the mountain, Jesus cleanses a leper who asks to be made clean and instructs him to show himself to the priest as Moses commanded. In Capernaum a centurion appeals for his tormented servant; Jesus marvels at the centurion’s trust in his word, foretells that many from east and west will share the patriarchs’ banquet while some “children of the kingdom” are cast into outer darkness, and heals the servant at once. At Peter’s house Jesus heals Peter’s mother-in-law, then many sick and demon-possessed, fulfilling Isaiah’s words that he took infirmities and bore sicknesses. He warns eager followers about the cost of discipleship, declaring that the Son of Man has nowhere to lay his head and calling another to follow without delay. Crossing the lake, he rebukes the wind and sea after questioning the disciples’ fear, and a great calm follows. Upon arrival in the Gergesenes’ region, he drives demons from two fierce men into a herd of swine, which rushes into the sea; the townspeople then beg him to leave their territory.",
+  "externalContext": "Leprosy in the first century covered various skin diseases and rendered a person ritually unclean; restoration required priestly inspection and prescribed offerings (Leviticus 13–14). A centurion was a mid-level Roman military officer, a Gentile outsider to Israel’s covenant community, making his exemplary faith notable in a Jewish setting. Sudden, dangerous squalls were common on the Sea of Galilee due to its topography. Pigs were unclean animals in Jewish law (Leviticus 11:7), and a large swine herd suggests a predominantly Gentile area, often associated with the Decapolis east of the lake. First-century Jewish burial customs typically involved prompt burial, so delaying discipleship for burial could reflect either an immediate duty or a broader obligation to family rites. “Son of Man” evokes Daniel 7’s figure and was Jesus’ preferred self-designation in the Synoptics.",
+  "externalReferences": "Jesus’ instruction to the healed leper to offer the gift “Moses commanded” refers to the purification procedures in Leviticus 14:2–32. Matthew explicitly cites Isaiah 53:4 (“He took our infirmities and bore our diseases”) as fulfilled in Jesus’ healings. Jesus’ calming of the storm recalls God’s sovereignty over seas and storms in Psalms, notably Psalm 107:28–29. Parallels to many events appear in the other Synoptics: the centurion’s servant (Luke 7:1–10), the calming of the storm (Mark 4:35–41; Luke 8:22–25), and the Gerasene/Gadarene demoniac(s) (Mark 5:1–20; Luke 8:26–39).",
+  "seeAlso": [
+    "Leviticus 14:2-32",
+    "Isaiah 53:4",
+    "Psalm 107:28-29",
+    "Luke 7:1-10",
+    "Mark 4:35-41",
+    "Luke 8:22-25",
+    "Mark 5:1-20",
+    "Luke 8:26-39",
+    "Matthew 22:13",
+    "Luke 13:28-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Healings and faith commended"
+    },
+    {
+      "range": "18-22",
+      "title": "Demands of following Jesus"
+    },
+    {
+      "range": "23-34",
+      "title": "Authority over storm and demons"
+    }
+  ],
+  "themes": [
+    "Jesus’ authority",
+    "Faith",
+    "Discipleship cost",
+    "Gentile inclusion",
+    "Prophecy fulfilled"
+  ],
+  "practicalQuestions": [
+    "Where do I need to trust Jesus’ word rather than demand visible proof, like the centurion did?",
+    "What comforts or obligations might I be clinging to that hinder prompt obedience to Jesus’ call?",
+    "How do I respond when Jesus’ work disrupts my economy or expectations, as with the townspeople and the swine?",
+    "Do I approach marginalised or “unclean” people with Jesus’ compassionate touch and restorative intent?",
+    "How do I handle fear in crises—do I bring it to Jesus and grow in faith, or let it rule me?"
+  ],
+  "uncertainAreas": "“Children of the kingdom” likely refers to those presuming covenant privilege without faith, but whether this targets ethnic Israelites generally or unresponsive individuals within Israel is debated. The precise location of the “Gergesenes” varies in manuscripts (Gadarenes/Gerasenes), affecting geographical identification. The phrase “let the dead bury their dead” is terse; whether it concerns an immediate burial or prolonged familial obligations is unclear. The demons’ reference to being tormented “before the time” alludes to a final judgment, but the exact eschatological timetable is not specified here.",
+  "createdAt": "2025-11-02T16:37:43.274Z",
+  "modelId": "gpt-5-2025-08-07"
+}

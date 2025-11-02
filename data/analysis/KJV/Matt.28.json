@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Matt.28",
+  "briefOverview": "The chapter records Jesus’ resurrection, first appearances, the competing report spread by authorities, and the commissioning of the disciples to make disciples of all nations.",
+  "summary": "At dawn after the Sabbath, Mary Magdalene and the other Mary visit the tomb, where an angel announces that Jesus has risen and instructs them to tell the disciples to meet him in Galilee. As they go, Jesus meets them; they worship him, and he confirms the Galilee meeting. Meanwhile, the guards report to the chief priests, who bribe them to say the disciples stole the body, a story said to have circulated widely. The eleven go to a mountain in Galilee, worship Jesus—though some doubt—and Jesus declares that all authority in heaven and on earth has been given to him. He commissions them to make disciples of all nations, baptizing in the name of the Father, Son, and Holy Spirit, and teaching obedience to his commands, promising his ongoing presence to the end of the age.",
+  "externalContext": "The visit occurs after the Jewish Sabbath, which ended at sundown Saturday; the “first day of the week” is Sunday, later central to Christian worship. Roman soldiers guarding a sealed tomb would have been under Roman authority with potential penalties for dereliction, which helps explain the bribery and promise of protection. Women were not typically regarded as primary legal witnesses in many ancient contexts, making their role as first witnesses notable. Galilee had been Jesus’ primary ministry region in Matthew, and mountains in biblical literature often function as sites of revelation and commissioning. Baptism as an initiation into a community was known in Second Temple Judaism (e.g., proselyte washings), but Jesus here gives it a distinctive Trinitarian framing and missionary scope.",
+  "externalReferences": "Matthew presents the resurrection as fulfillment of Jesus’ own predictions that he would be raised on the third day (Matthew 16:21; 17:22–23; 20:19) and his promise to go before the disciples into Galilee (Matthew 26:32). Jesus’ declaration that all authority has been given to him echoes the dominion given to the Son of Man in Daniel 7:13–14. The commissioning to bear witness to all nations coheres with later summaries of the mission in Acts 1:8. Paul later catalogs resurrection appearances as foundational to the gospel proclamation (1 Corinthians 15:3–8).",
+  "seeAlso": [
+    "Matthew 26:32",
+    "Matthew 16:21",
+    "Matthew 17:22-23",
+    "Matthew 20:19",
+    "Matthew 27:62-66",
+    "Daniel 7:13-14",
+    "Acts 1:8",
+    "1 Corinthians 15:3-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Empty tomb and appearance"
+    },
+    {
+      "range": "11-15",
+      "title": "Guards bribed"
+    },
+    {
+      "range": "16-20",
+      "title": "The Great Commission"
+    }
+  ],
+  "themes": [
+    "Resurrection",
+    "Jesus’ authority",
+    "Mission to nations",
+    "Witness and testimony",
+    "Presence amid doubt"
+  ],
+  "practicalQuestions": [
+    "Where is Jesus calling me to “go,” and how can I participate in making disciples rather than merely informing people?",
+    "How does Jesus’ promise to be with us always shape my courage and priorities this week?",
+    "What intentional steps can I take to teach others to observe Jesus’ commands in a way that is faithful and practicable?",
+    "How do I address my doubts or the doubts of others while still moving toward worship and obedience?",
+    "In what ways might competing narratives or pressures tempt me to conceal or distort the truth about Jesus, and how will I respond?",
+    "How does my practice of baptism and community life reflect the Father, Son, and Holy Spirit named here?"
+  ],
+  "uncertainAreas": "The identity of “the other Mary” is not specified here; the location of the particular mountain in Galilee is unstated; the scope and nature of “some doubted” is ambiguous (who doubted and in what sense); the chronology relative to other resurrection appearances in the Gospels is not fully harmonized; the exact mechanisms of the guards’ coordination with the governor are unclear; the phrase “end of the world” could mean end of the age.",
+  "createdAt": "2025-11-02T16:50:58.678Z",
+  "modelId": "gpt-5-2025-08-07"
+}

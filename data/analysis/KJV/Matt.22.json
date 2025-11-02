@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Matt.22",
+  "briefOverview": "Jesus contrasts responses to God’s kingdom with a parable and answers traps about tax, resurrection, and the law, ending by questioning the leaders about the Messiah’s identity.",
+  "summary": "Jesus tells a parable of a king’s wedding banquet: invited guests refuse and abuse the messengers, so the king judges them and invites others; yet a guest without proper attire is expelled, concluding, “Many are called, but few are chosen.” Pharisees and Herodians try to trap Jesus about paying Caesar’s tax; he replies to give Caesar what bears his image and God what bears God’s image. Sadducees, denying resurrection, pose a levirate-marriage riddle; Jesus corrects them, teaching that resurrected life is unlike earthly marriage and grounding resurrection in God’s self-identification as God of the living. A lawyer asks about the greatest commandment; Jesus cites love for God with one’s whole being and love for neighbor as the summative core of the Law and Prophets. Jesus then asks how the Christ can be both David’s son and David’s Lord, silencing further challenges.",
+  "externalContext": "Roman tribute (a head tax) was widely resented in Judaea; the Herodians favored the Herodian dynasty allied with Rome, while the Pharisees generally opposed Roman interference, making their joint question politically explosive. The tax was commonly paid with a denarius bearing Caesar’s image and divine titles, which many Jews found religiously objectionable. The Sadducees were a priestly aristocratic group who accepted the Torah as primary and rejected doctrines like resurrection that were not explicit there, unlike the Pharisees who affirmed resurrection. Levirate marriage (brother-in-law marriage) was a known legal provision in ancient Israel to preserve a deceased brother’s line and inheritance.",
+  "externalReferences": "The Sadducees’ scenario depends on the levirate marriage law (Deuteronomy 25:5–6). Jesus proves resurrection by citing God’s words to Moses at the bush, “I am the God of Abraham…,” (Exodus 3:6), implying the patriarchs live to God. The greatest commandments consolidate Deuteronomy 6:5 (love God wholly) and Leviticus 19:18 (love your neighbor). Jesus’ question about David calling the Messiah “Lord” quotes Psalm 110:1 to expand messianic expectations beyond mere biological descent.",
+  "seeAlso": [
+    "Deuteronomy 25:5-6",
+    "Exodus 3:6",
+    "Deuteronomy 6:5",
+    "Leviticus 19:18",
+    "Psalm 110:1",
+    "Luke 14:16-24",
+    "Mark 12:13-37",
+    "Luke 20:20-44",
+    "Romans 13:1-7",
+    "1 Peter 2:13-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Wedding Banquet Parable"
+    },
+    {
+      "range": "15-40",
+      "title": "Controversies in the Temple"
+    },
+    {
+      "range": "41-46",
+      "title": "David’s Lord Question"
+    }
+  ],
+  "themes": [
+    "Kingdom invitation",
+    "Judgment",
+    "Jesus’ authority",
+    "Love and law",
+    "Resurrection"
+  ],
+  "practicalQuestions": [
+    "Where might I be making light of God’s invitation through distraction or indifference, and what would repentance look like?",
+    "What does it mean in my context to render both to governing authorities and to God without compromising ultimate allegiance to God?",
+    "How can love for God and neighbor concretely guide my decisions this week, especially where laws, policies, or traditions are complex?",
+    "How does hope in the resurrection reshape my view of marriage, status, and identity in this life?",
+    "What would constitute a fitting “wedding garment” in my life—attitudes and actions that align with entering God’s kingdom?",
+    "How can I avoid using questions to trap or score points and instead seek truth and understanding in disagreement?"
+  ],
+  "uncertainAreas": "The identity of the “wedding garment” (ethical fruit, repentance, divinely provided righteousness, or something else) is not specified. Whether the king’s burning of the city alludes to a specific historical event (e.g., 70 CE) is not explicit in the text. The scope of “Render to Caesar” for contemporary political questions is not detailed. The exact nature of being “as the angels” in resurrection is only briefly described.",
+  "createdAt": "2025-11-02T16:47:03.451Z",
+  "modelId": "gpt-5-2025-08-07"
+}

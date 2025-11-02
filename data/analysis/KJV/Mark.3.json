@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.3",
+  "briefOverview": "Jesus heals on the Sabbath, faces intensifying opposition, appoints the Twelve, refutes charges of demonic power, and redefines his true family.",
+  "summary": "In a synagogue Jesus heals a man’s withered hand on the Sabbath, confronting his opponents with the question of whether doing good is lawful, and the Pharisees plot with the Herodians to destroy him. Crowds from many regions throng to him for healing, and unclean spirits declare him the Son of God, but he silences them. Jesus ascends a mountain, appoints twelve to be with him and to be sent out to preach with authority to heal and cast out demons, naming them individually. Amid overwhelming crowds, some close to him think he is out of his mind, and scribes from Jerusalem accuse him of casting out demons by Beelzebul. Jesus answers with parables about a divided kingdom and binding the strong man, and warns that blasphemy against the Holy Spirit is uniquely unforgivable because they were saying he had an unclean spirit. When his mother and brothers arrive, he identifies those who do God’s will as his true family.",
+  "externalContext": "Sabbath observance was a defining Jewish practice in the Second Temple period; debates among groups like the Pharisees concerned what constituted lawful work versus acts of mercy. The Herodians were supporters of the Herodian dynasty allied with Roman power; Pharisees and Herodians sharing a tactical interest against Jesus suggests an unusual coalition. Exorcism and claims of spirit possession were widely acknowledged in Jewish and Greco-Roman contexts, with accusations of illicit spiritual power used to discredit rivals. Appointing Twelve disciples likely evokes the symbolism of Israel’s twelve tribes, suggesting restoration. In Mediterranean kinship cultures, family honor and control were strong; public disruption by a family member could prompt relatives to intervene.",
+  "externalReferences": "Mark earlier records Jesus’ authority over unclean spirits and his silencing of them (Mark 1:23–27, 1:34), anticipating 3:11–12. The Sabbath controversy continues from the grainfield dispute (Mark 2:23–28) and parallels healing-on-Sabbath accounts (Matthew 12:9–14; Luke 6:6–11). The Beelzebul accusation and Jesus’ responses about a divided kingdom and binding the strong man parallel Matthew 12:24–29 and Luke 11:14–23, with the warning about blasphemy against the Spirit echoed in Matthew 12:31–32 and Luke 12:10. The list and commissioning of the Twelve also appear in Matthew 10:1–4 and Luke 6:12–16, and Jesus’ redefinition of family is paralleled in Matthew 12:46–50 and Luke 8:19–21.",
+  "seeAlso": [
+    "Mark 1:23-27",
+    "Mark 1:34",
+    "Mark 2:23-28",
+    "Matthew 12:9-14",
+    "Luke 6:6-11",
+    "Matthew 12:24-32",
+    "Luke 11:14-23",
+    "Luke 12:10",
+    "Matthew 10:1-4",
+    "Matthew 12:46-50"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Sabbath Healing and Plot"
+    },
+    {
+      "range": "7-19",
+      "title": "Crowds and the Twelve"
+    },
+    {
+      "range": "20-35",
+      "title": "Beelzebul Charge and True Family"
+    }
+  ],
+  "themes": [
+    "Jesus’ authority",
+    "Opposition and conflict",
+    "Discipleship and mission",
+    "Spiritual discernment",
+    "True kinship"
+  ],
+  "practicalQuestions": [
+    "How should I balance religious observance with opportunities to do good and preserve life?",
+    "When God is at work, how can I avoid cynical or hard-hearted interpretations that mislabel it?",
+    "What does it look like for me to be “with” Jesus before being “sent” by him in service?",
+    "How can I respond when family or friends misunderstand my commitments to faith?",
+    "What signs show that I am doing the will of God and thus belonging to Jesus’ true family?"
+  ],
+  "uncertainAreas": "The phrase translated “his friends” (v. 21) may mean family or close associates; the exact identity is debated. The precise meaning of “blasphemy against the Holy Spirit” and how it applies beyond the immediate context is contested. “Simon the Canaanite” likely means “Cananaean/Zealot,” but the term’s nuance in Mark is debated. The nature and composition of the “Herodians” are not fully clear from historical sources.",
+  "createdAt": "2025-11-02T16:52:55.356Z",
+  "modelId": "gpt-5-2025-08-07"
+}

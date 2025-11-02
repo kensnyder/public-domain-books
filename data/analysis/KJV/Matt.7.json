@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Matt.7",
+  "briefOverview": "Jesus concludes the Sermon on the Mount by commanding humble self-examination, confident prayer, decisive commitment, and discerning obedience that produces genuine fruit.",
+  "summary": "Jesus warns against hypocritical judgment, urging self-examination before correcting others and cautioning against wasting holy things on those who will only trample them. He encourages persistent prayer, assuring God’s generous goodness to those who ask, and caps this with the Golden Rule as the summary of “the Law and the Prophets.” He contrasts the narrow way that leads to life with the broad way to destruction, and warns against false prophets whose true nature is revealed by their fruit. Doing the Father’s will, not merely invoking Jesus’ name or performing wonders, determines acceptance on the final day. He closes with the parable of the wise and foolish builders: hearing and doing his words is a rock-solid foundation, while hearing without doing leads to ruin; the crowds are astonished at his authoritative teaching.",
+  "externalContext": "This chapter concludes the Sermon on the Mount (Matthew 5–7), a foundational discourse in early first-century Judea and Galilee under Roman rule. In Jewish culture, calling someone a “dog” or “swine” evoked images of uncleanness and hostility, underscoring prudence in sharing sacred things. The gate-and-way imagery reflects common ancient experiences of entering cities and traveling roads, conveying moral paths with real destinations. Warnings about false prophets would resonate in a context shaped by Israel’s prophetic tradition and concerns about misleading teachers. Scribes typically cited earlier authorities; Jesus’ direct, declarative style (“I say to you”) marked unusual personal authority.",
+  "externalReferences": "Many teachings here parallel Luke’s Sermon on the Plain (Luke 6:37–49) and Luke’s teaching on prayer (Luke 11:9–13), including “judge not,” “by their fruits,” and the house-foundation parable. The Golden Rule aligns with the love command of Leviticus 19:18 and its summary in Matthew 22:37–40 and is echoed in Paul’s ethic (Romans 13:8–10). The test for prophets coheres with Deuteronomy’s criteria for discerning false prophecy (Deuteronomy 13:1–5). Jesus’ final verdict, “Depart from me, you workers of lawlessness,” echoes Psalm 6:8 (LXX/MT), linking empty religious claims with lawlessness.",
+  "seeAlso": [
+    "Luke 6:37-49",
+    "Luke 11:9-13",
+    "Leviticus 19:18",
+    "Matthew 22:37-40",
+    "Romans 13:8-10",
+    "Deuteronomy 13:1-5",
+    "Psalm 6:8",
+    "Luke 13:24",
+    "John 15:1-8",
+    "Mark 4:24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "On judging and discernment"
+    },
+    {
+      "range": "7-12",
+      "title": "Prayer and the Golden Rule"
+    },
+    {
+      "range": "13-29",
+      "title": "Two ways, tests, and foundations"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Prayer",
+    "Discernment",
+    "Obedience",
+    "True discipleship"
+  ],
+  "practicalQuestions": [
+    "Where do I need to remove my own “beam” before attempting to correct someone else?",
+    "How can I practice persistence in prayer while trusting God’s goodness for the outcome?",
+    "What boundaries should I observe to avoid casting “pearls before swine,” and how can I discern when to withhold or share?",
+    "What concrete steps will help me choose the narrow way in a context that favors the broad one?",
+    "By what fruit—habits, character, outcomes—should I evaluate teachers I follow?",
+    "In what ways can I translate Jesus’ words into consistent action so my life rests on a rock-solid foundation?"
+  ],
+  "uncertainAreas": "The precise scope of “judge not” versus legitimate moral discernment is debated, especially alongside verse 6 and the fruit test. “Dogs” and “swine” likely symbolize hostile or unreceptive audiences, but identifying them in practice is context-dependent. The breadth of the promise in “ask, seek, knock” is interpreted variously—some see unconditional provision, others see it conditioned by the Father’s will and the broader Sermon ethic. The meaning of “few” finding the narrow way invites questions about scope and emphasis (warning versus statistical prediction).",
+  "createdAt": "2025-11-02T16:37:07.092Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,27 +1,35 @@
+import process from 'node:process';
 import { aiAnalyzeChapter } from '~/lib/aiAnalyzeChapter.ts';
+import getBookByName from '~/lib/getBookByName.ts';
 import { updateTokenCounts } from '~/lib/updateTokenCounts.ts';
-import metadata from '../../data/books/books.json' with { type: 'json' };
-import data from '../../data/verses/deuter.json' with { type: 'json' };
+import type { VerseDataFileShape } from '~/types/data-shapes.ts';
+import data from '../../data/verses/KJV.json' with { type: 'json' };
+
+const workData = data as VerseDataFileShape;
+const toAnalyze = ['Matt', 'Mark', 'Luke', 'John'];
 
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters(data).slice(0, 200);
+  const allChapters = getAllChapters().slice(0, 200);
   let idx = 1;
   for (const osisID of allChapters) {
-    const path = `${import.meta.dir}/../../data/chapters/deuter/${osisID}.json`;
+    const path = `${import.meta.dir}/../../data/analysis/KJV/${osisID}.json`;
     const file = Bun.file(path);
     if (file.size) {
       continue;
     }
-    const chapter = data.filter((v) => v.chapterOsisID === osisID);
+    const chapter = workData.verses.filter((v) => v.chapterOsisID === osisID);
     const firstVerse = chapter[0];
     const verses = chapter
       .map((v) => `${v.verseNumber}. ${v.verseText}`)
       .join('\n');
-    const heading = `${getBookName(firstVerse.bookOsisID)} Chapter ${firstVerse.chapterNumber}`;
+    const book = getBookByName(firstVerse.bookOsisID)!;
+    const heading = `${book.bookName}\n${book.bookSubtitle}\nChapter ${firstVerse.chapterNumber}`;
     const text = `${heading}\n\n${verses}`;
-    process.stdout.write(`${idx++}) AI is analyzing ${heading}...`);
+    process.stdout.write(
+      `${idx++}) AI is analyzing ${book.bookName} Chapter ${firstVerse.chapterNumber}...`,
+    );
 
     const start = Date.now();
     const res = await aiAnalyzeChapter(text);
@@ -44,18 +52,12 @@ async function main() {
   console.log(`${idx - 1} Chapters saved.`);
 }
 
-function getBookName(bookOsisID: string) {
-  for (const meta of metadata) {
-    if (bookOsisID === meta.osisID) {
-      return meta.name;
-    }
-  }
-  return '';
-}
-
-function getAllChapters(verses: typeof data) {
+function getAllChapters() {
   const set = new Set();
-  for (const verse of verses) {
+  for (const verse of workData.verses) {
+    if (!toAnalyze.includes(verse.bookOsisID)) {
+      continue;
+    }
     set.add(verse.chapterOsisID);
   }
   return Array.from(set);

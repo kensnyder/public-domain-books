@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Mark.12",
+  "briefOverview": "Jesus confronts Jerusalem’s leaders through a parable and a series of temple debates, clarifying God’s authority and the heart of the law. The chapter culminates in a warning against religious pretension and a commendation of sacrificial devotion.",
+  "summary": "Jesus tells a parable of a vineyard whose tenants beat and kill the owner’s servants and son; he declares the owner will destroy the tenants and give the vineyard to others, citing the rejected stone becoming the cornerstone. Knowing the parable targets them, the leaders seek to seize him but fear the crowd. Pharisees and Herodians try to trap him about paying tax to Caesar; Jesus answers that they should render to Caesar what is Caesar’s and to God what is God’s. Sadducees challenge him with a levirate-marriage puzzle to deny resurrection; Jesus replies that in the resurrection people neither marry nor are given in marriage and proves resurrection from God’s words to Moses about Abraham, Isaac, and Jacob. A scribe asks the greatest commandment, and Jesus names love of God with one’s whole being and love of neighbor as the greatest; the scribe agrees that this surpasses sacrifices, and Jesus says he is not far from God’s kingdom. Jesus questions how the Messiah can be David’s son if David calls him Lord, warns against status-seeking scribes who exploit widows, and praises a poor widow who gives two mites as more than all others because she gave all she had.",
+  "externalContext": "This scene occurs during Jesus’ final week in Jerusalem, with teaching centered in the Temple courts, a public arena for legal and theological debate. The vineyard imagery was a familiar symbol for Israel in prophetic literature and would evoke Isaiah’s “Song of the Vineyard,” often used to indict unfaithful leadership. The poll tax to Caesar (a denarius with the emperor’s image and imperial titles) was politically charged, tied to Roman rule over Judea after 6 CE and raising questions about loyalty and idolatry. The Sadducees, an elite priestly group, generally accepted the Torah as primary authority and denied resurrection and angels, which shapes Jesus’ response from Exodus. The Temple treasury likely used trumpet-shaped chests for offerings, and the widow’s two “mites” (lepta) were the smallest copper coins in circulation.",
+  "externalReferences": "The parable’s vineyard and its failed stewards echo Isaiah 5:1–7, while the rejected cornerstone quotation comes from Psalm 118:22–23. The levirate marriage scenario draws on Deuteronomy 25:5–6, and Jesus’ proof of resurrection appeals to Exodus 3:6, where God names himself as the God of Abraham, Isaac, and Jacob. Jesus’ summary of the law cites the Shema and its call to love God (Deuteronomy 6:4–5) and pairs it with the command to love one’s neighbor (Leviticus 19:18). His question about the Messiah’s identity quotes Psalm 110:1 to suggest a lordship beyond simple descent from David.",
+  "seeAlso": [
+    "Isaiah 5:1-7",
+    "Psalm 118:22-23",
+    "Deuteronomy 25:5-6",
+    "Exodus 3:6",
+    "Deuteronomy 6:4-5",
+    "Leviticus 19:18",
+    "Matthew 22:15-46",
+    "Luke 20:9-47",
+    "Romans 13:1-7",
+    "James 1:27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Parable of the Tenants"
+    },
+    {
+      "range": "13-34",
+      "title": "Temple Debates and Commands"
+    },
+    {
+      "range": "35-44",
+      "title": "David’s Lord, Scribes, Widow"
+    }
+  ],
+  "themes": [
+    "Authority",
+    "Love of God",
+    "Love of neighbor",
+    "Hypocrisy",
+    "Generosity"
+  ],
+  "practicalQuestions": [
+    "What does it look like to give God what is God’s while meeting civic obligations today?",
+    "Where might God be seeking fruit from what I steward, and how am I responding?",
+    "How can I love God with my whole heart, mind, soul, and strength this week?",
+    "Who is the neighbor I am overlooking, and what does love require toward them?",
+    "In what ways might I seek religious recognition rather than serve, especially the vulnerable?",
+    "What might sacrificial generosity look like for me given my resources and responsibilities?"
+  ],
+  "uncertainAreas": "The referent of “give the vineyard to others” is unstated (new leaders, the wider people of God, Gentiles, or the church). The scope of “render to Caesar” is not delineated, leaving tension about limits of civil and divine claims. “Like the angels” in resurrection is brief and does not specify all aspects of resurrected life. Jesus’ use of Psalm 110:1 raises questions about how Messiah is both David’s son and David’s Lord without explicit resolution. The widow’s offering is presented as exemplary, yet its proximity to the critique of those who “devour widows’ houses” leaves some ambiguity about whether the scene also laments an exploitative system.",
+  "createdAt": "2025-11-02T16:58:31.804Z",
+  "modelId": "gpt-5-2025-08-07"
+}

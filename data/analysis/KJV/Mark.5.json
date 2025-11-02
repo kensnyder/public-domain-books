@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.5",
+  "briefOverview": "Jesus demonstrates authority over demonic powers, chronic illness, and death. The chapter contrasts fear and rejection with personal faith and public testimony.",
+  "summary": "Crossing into the region of the Gadarenes, Jesus meets a man possessed by many unclean spirits calling themselves “Legion.” At the demons’ request, Jesus permits them to enter a nearby herd of pigs, which rushes into the sea and drowns; the delivered man is found calm and clothed, but the locals, afraid, ask Jesus to leave, and the healed man is commissioned to tell his story in the Decapolis. Back across the lake, Jairus, a synagogue leader, implores Jesus to heal his dying daughter, and on the way a woman with a twelve-year hemorrhage secretly touches Jesus’ garment and is immediately healed; Jesus commends her faith. News arrives that Jairus’s daughter has died, yet Jesus urges, “Do not fear, only believe,” dismisses the mourners, and, with a few witnesses, takes the girl by the hand and raises her, instructing secrecy and that she be given food.",
+  "externalContext": "The “Gadarenes”/“Gerasenes” region lies east of the Sea of Galilee, associated with the Greco-Roman Decapolis—largely Gentile cities where pig herding would be notable, since pigs were unclean for Jews (Leviticus 11). First-century Jewish purity laws considered both ongoing menstrual bleeding and contact with corpses ritually defiling, which heightened the social isolation of the hemorrhaging woman and the taboo surrounding a dead child (Leviticus 15; Numbers 19). Professional mourners and public wailing were customary at deaths. A “synagogue ruler” (archisynagogos) was a respected community official overseeing synagogue affairs rather than a priest. “Legion” is also the Latin term for a major Roman military unit, a word familiar in occupied Palestine, though here it functions directly as the demons’ self-description of multiplicity.",
+  "externalReferences": "Parallel accounts of the demoniac and the swine appear in Matthew 8:28–34 and Luke 8:26–39; the intertwined stories of Jairus’s daughter and the hemorrhaging woman parallel Matthew 9:18–26 and Luke 8:40–56. The woman’s impurity status aligns with Leviticus 15:25–27, and the concern over corpse impurity with Numbers 19:11. Jesus’ triumph over demonic forces echoes his earlier exorcisms (Mark 1:23–27) and resonates with the imagery of binding the strong man (Mark 3:27). The metaphor of death as “sleep” appears in other biblical texts (Daniel 12:2; John 11:11–14).",
+  "seeAlso": [
+    "Matthew 8:28-34",
+    "Luke 8:26-39",
+    "Matthew 9:18-26",
+    "Luke 8:40-56",
+    "Leviticus 15:25-27",
+    "Numbers 19:11",
+    "Mark 1:23-27",
+    "Mark 3:27",
+    "Daniel 12:2",
+    "John 11:11-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Demoniac Delivered and Sent"
+    },
+    {
+      "range": "21-34",
+      "title": "Hemorrhaging Woman Healed"
+    },
+    {
+      "range": "35-43",
+      "title": "Jairus’s Daughter Raised"
+    }
+  ],
+  "themes": [
+    "Jesus’ authority",
+    "Faith vs. fear",
+    "Restoration",
+    "Clean/unclean reversed",
+    "Witness"
+  ],
+  "practicalQuestions": [
+    "Where do fear and economic or social concerns lead me to push away what brings true restoration?",
+    "How might I bear witness to mercy I’ve received, as the delivered man did in the Decapolis?",
+    "What does persevering faith look like when answers are delayed or circumstances worsen, as with Jairus and the woman?",
+    "How does Jesus’ touch reshape my view of purity, stigma, and who is “untouchable”?",
+    "In crises, what practices help me move from fear to trust in God’s character and power?"
+  ],
+  "uncertainAreas": "Textual/location variants exist (Gadarenes/Gerasenes/Gergesenes). The nuance of “Legion” (mere multiplicity vs. a veiled allusion to Roman power) is debated. The precise mechanism of “power” going out from Jesus is not explained. Jesus’ differing instructions—public testimony for the delivered man but secrecy for Jairus’s family—invite multiple explanations. The statement that the girl is “sleeping” may be euphemistic for death or indicate a divine perspective on her state.",
+  "createdAt": "2025-11-02T16:53:58.060Z",
+  "modelId": "gpt-5-2025-08-07"
+}

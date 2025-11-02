@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Matt.14",
+  "briefOverview": "Matthew juxtaposes John the Baptist’s execution by Herod with Jesus’ compassionate miracles, highlighting Jesus’ authority over provision, nature, and illness.",
+  "summary": "Herod Antipas hears of Jesus and concludes He must be John the Baptist risen, recalling how Herod imprisoned and executed John at Herodias’s instigation after a rash oath at a birthday banquet. When Jesus hears of John’s death, He withdraws, yet the crowds follow; moved with compassion, He heals them and miraculously feeds about five thousand men (besides women and children) with five loaves and two fish, leaving twelve baskets of leftovers. He then sends the disciples ahead by boat and prays alone; during the night He walks on the sea to them. Peter briefly walks toward Jesus on the water but, frightened by the wind, begins to sink and cries for rescue; Jesus saves him and rebukes his doubt, after which the wind ceases. Those in the boat worship Jesus, confessing, “Truly you are the Son of God.” Upon reaching Gennesaret, many are healed, even by touching the fringe of His garment.",
+  "externalContext": "Herod Antipas was tetrarch of Galilee and Perea (4 BCE–39 CE), a client ruler under Rome. His marriage to Herodias, previously married to his relative (commonly identified in scholarship as Herod Philip), was viewed by Jewish critics as unlawful per Levitical prohibitions. Elite birthday banquets with entertainers were customary in the Herodian court and Greco-Roman culture. The “fourth watch of the night” reflects Roman timekeeping (roughly 3–6 a.m.). The Plain of Gennesaret, on the western shore of the Sea of Galilee, was a fertile, populated area where news of healers could spread quickly.",
+  "externalReferences": "The unlawfulness of Herod’s marriage resonates with Leviticus 18:16 and 20:21, which forbid taking a brother’s wife. The feeding of the five thousand and Jesus’ walking on water are paralleled in Mark 6:14–56, Luke 9:7–17 (feeding), and John 6:1–21, which together provide complementary details. Jesus’ mastery of the sea echoes Old Testament depictions of God’s sovereignty over the waters (Job 9:8; Psalm 77:19). The healing by touching the garment’s fringe recalls the earlier episode in Matthew 9:20–22 and aligns with the broader practice noted in Mark 6:56.",
+  "seeAlso": [
+    "Leviticus 18:16",
+    "Leviticus 20:21",
+    "Mark 6:14-56",
+    "Luke 9:7-17",
+    "John 6:1-21",
+    "Matthew 9:20-22",
+    "Mark 6:56",
+    "Job 9:8",
+    "Psalm 77:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "John the Baptist Beheaded"
+    },
+    {
+      "range": "13-21",
+      "title": "Feeding the Five Thousand"
+    },
+    {
+      "range": "22-36",
+      "title": "Jesus Walks on Water and Heals"
+    }
+  ],
+  "themes": [
+    "Compassion",
+    "Divine authority",
+    "Faith and doubt",
+    "Provision",
+    "Opposition to truth"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted, like Herod, to choose reputation or social pressure over conscience and truth?",
+    "How do I respond to others’ needs when I am tired or grieving, as Jesus did with compassion?",
+    "What does trusting Jesus look like when resources seem inadequate, as with the loaves and fish?",
+    "When fear rises like the wind for Peter, what practices help me keep my focus on Jesus rather than the threat?",
+    "How can communal participation (disciples distributing bread) shape my approach to service and generosity?"
+  ],
+  "uncertainAreas": "The precise identification of “Philip” (whether Herod II or Philip the tetrarch) is debated among historians; the text simply calls him Herod’s brother. The exact location of the “desert place” is not specified. The narrative does not explain the mechanics of the multiplication of food or walking on water, only their occurrence. The extent to which the disciples’ confession (“Son of God”) reflects full Christological understanding at this point is not detailed.",
+  "createdAt": "2025-11-02T16:41:55.323Z",
+  "modelId": "gpt-5-2025-08-07"
+}

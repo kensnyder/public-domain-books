@@ -1,0 +1,4157 @@
+{
+  "books": [
+    {
+      "workOsisID": "KJV",
+      "bookName": "Genesis",
+      "bookSubtitle": "The First Book of Moses called Genesis",
+      "bookOsisID": "Gen",
+      "paratext": "GEN",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Pentatuech",
+        "Torah"
+      ],
+      "aliases": [
+        "Ge",
+        "Gn",
+        "The First Book of Moses called Genesis"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Moses"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Exodus",
+      "bookSubtitle": "The Second Book of Moses, called Exodus",
+      "bookOsisID": "Exod",
+      "paratext": "EXO",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Pentatuech",
+        "Torah"
+      ],
+      "aliases": [
+        "Ex",
+        "The Second Book of Moses called Exodus"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Moses"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Leviticus",
+      "bookSubtitle": "The Third Book of Moses, called Leviticus",
+      "bookOsisID": "Lev",
+      "paratext": "LEV",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Pentatuech",
+        "Torah"
+      ],
+      "aliases": [
+        "Le",
+        "The Third Book of Moses called Leviticus"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Moses"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Numbers",
+      "bookSubtitle": "The Fourth Book of Moses, called Numbers",
+      "bookOsisID": "Num",
+      "paratext": "NUM",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Pentatuech",
+        "Torah"
+      ],
+      "aliases": [
+        "Nu",
+        "Nm",
+        "Nb",
+        "The Fourth Book of Moses called Numbers"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Moses"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Deuteronomy",
+      "bookSubtitle": "The Fifth Book of Moses, called Deuteronomy",
+      "bookOsisID": "Deut",
+      "paratext": "DEU",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Deut",
+        "Dt",
+        "Du",
+        "The Fifth Book of Moses called Deuteronomy"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Moses"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Joshua",
+      "bookSubtitle": "The Book of Joshua",
+      "bookOsisID": "Josh",
+      "paratext": "JOS",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Josh",
+        "Jsh"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Judges",
+      "bookSubtitle": "The Book of Judges",
+      "bookOsisID": "Judg",
+      "paratext": "JDG",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Judg",
+        "Jdg",
+        "Jdgs",
+        "Jg"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Ruth",
+      "bookSubtitle": "The Book of Ruth",
+      "bookOsisID": "Ruth",
+      "paratext": "RUT",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Rth",
+        "Ru"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 Samuel",
+      "bookSubtitle": "The Book of 1 Samuel",
+      "bookOsisID": "1Sam",
+      "paratext": "1SA",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "1 Sam",
+        "1SA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 Samuel",
+      "bookSubtitle": "The Book of 2 Samuel",
+      "bookOsisID": "2Sam",
+      "paratext": "2SA",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "2 Sam",
+        "2SA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 Kings",
+      "bookSubtitle": "The First Book of Kings",
+      "bookOsisID": "1Kgs",
+      "paratext": "1KI",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Kings"
+      ],
+      "aliases": [
+        "1Kgs",
+        "1KI"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 Kings",
+      "bookSubtitle": "The Second Book of Kings",
+      "bookOsisID": "2Kgs",
+      "paratext": "2KI",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Kings"
+      ],
+      "aliases": [
+        "2Kgs",
+        "2KI"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 Chronicles",
+      "bookSubtitle": "The First Book of Chronicles",
+      "bookOsisID": "1Chr",
+      "paratext": "1CH",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Persian Period"
+      ],
+      "aliases": [
+        "1Chr",
+        "1CH"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 Chronicles",
+      "bookSubtitle": "The Second Book of Chronicals",
+      "bookOsisID": "2Chr",
+      "paratext": "2CH",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Persian Period"
+      ],
+      "aliases": [
+        "2Chr",
+        "2CH"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Ezra",
+      "bookSubtitle": "The Book of Ezra",
+      "bookOsisID": "Ezra",
+      "paratext": "EZR",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Persian Period"
+      ],
+      "aliases": [
+        "Ezra",
+        "EZR"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Nehemiah",
+      "bookSubtitle": "The Book of Nehemiah",
+      "bookOsisID": "Neh",
+      "paratext": "NEH",
+      "groups": [
+        "Old Testament",
+        "Bible",
+        "Persian Period"
+      ],
+      "aliases": [
+        "Neh",
+        "NEH"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Esther",
+      "bookSubtitle": "The Book of Esther",
+      "bookOsisID": "Esth",
+      "paratext": "EST",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Esth",
+        "EST"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Job",
+      "bookSubtitle": "The Book of Job",
+      "bookOsisID": "Job",
+      "paratext": "JOB",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Job",
+        "JOB"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Psalms",
+      "bookSubtitle": "The Book of Psalms",
+      "bookOsisID": "Ps",
+      "paratext": "PSA",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Ps",
+        "PSA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Proverbs",
+      "bookSubtitle": "The Book of Proverbs",
+      "bookOsisID": "Prov",
+      "paratext": "PRO",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Prov",
+        "PRO"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Ecclesiastes",
+      "bookSubtitle": "The Book of Ecclesiastes",
+      "bookOsisID": "Eccl",
+      "paratext": "ECC",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Qohelet",
+        "Eccl",
+        "ECC"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Song of Solomon",
+      "bookSubtitle": "The Book of Song of Solomon",
+      "bookOsisID": "Song",
+      "paratext": "SNG",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Canticle of Canticles",
+        "Song",
+        "SNG",
+        "Solomon's Song"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Isaiah",
+      "bookSubtitle": "The Book of Isaiah",
+      "bookOsisID": "Isa",
+      "paratext": "ISA",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Isa",
+        "ISA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Isaiah"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Jeremiah",
+      "bookSubtitle": "The Book of Jeremiah",
+      "bookOsisID": "Jer",
+      "paratext": "JER",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Jer",
+        "JER"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Jeremiah"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Lamentations",
+      "bookSubtitle": "The Book of Lamentations",
+      "bookOsisID": "Lam",
+      "paratext": "LAM",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Lam",
+        "LAM"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Ezekiel",
+      "bookSubtitle": "The Book of Ezekiel",
+      "bookOsisID": "Ezek",
+      "paratext": "EZK",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Ezek",
+        "EZK"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ezekiel"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Daniel",
+      "bookSubtitle": "The Book of Daniel",
+      "bookOsisID": "Dan",
+      "paratext": "DAN",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Dan",
+        "DAN"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Daniel"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Hosea",
+      "bookSubtitle": "The Book of Hosea",
+      "bookOsisID": "Hos",
+      "paratext": "HOS",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Hos",
+        "HOS"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Joel",
+      "bookSubtitle": "The Book of Joel",
+      "bookOsisID": "Joel",
+      "paratext": "JOL",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Joel",
+        "JOL"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Amos",
+      "bookSubtitle": "The Book of Amos",
+      "bookOsisID": "Amos",
+      "paratext": "AMO",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Amos",
+        "AMO"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Obadiah",
+      "bookSubtitle": "The Book of Obadiah",
+      "bookOsisID": "Obad",
+      "paratext": "OBA",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Obad",
+        "OBA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Jonah",
+      "bookSubtitle": "The Book of Jonah",
+      "bookOsisID": "Jonah",
+      "paratext": "JON",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Jonah",
+        "JON"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Micah",
+      "bookSubtitle": "The Book of Micah",
+      "bookOsisID": "Mic",
+      "paratext": "MIC",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Mic",
+        "MIC"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Nahum",
+      "bookSubtitle": "The Book of Nahum",
+      "bookOsisID": "Nah",
+      "paratext": "NAM",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Nah",
+        "NAM"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Habakkuk",
+      "bookSubtitle": "The Book of Habakkuk",
+      "bookOsisID": "Hab",
+      "paratext": "HAB",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Hab",
+        "HAB"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Zephaniah",
+      "bookSubtitle": "The Book of Zephaniah",
+      "bookOsisID": "Zeph",
+      "paratext": "ZEP",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Zeph",
+        "ZEP"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Haggai",
+      "bookSubtitle": "The Book of Haggai",
+      "bookOsisID": "Hag",
+      "paratext": "HAG",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Hag",
+        "HAG"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Zechariah",
+      "bookSubtitle": "The Book of Zechariah",
+      "bookOsisID": "Zech",
+      "paratext": "ZEC",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Zech",
+        "ZEC"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Malachi",
+      "bookSubtitle": "The Book of Malachi",
+      "bookOsisID": "Mal",
+      "paratext": "MAL",
+      "groups": [
+        "Old Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Mal",
+        "MAL"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Matthew",
+      "bookSubtitle": "The Gospel According to St. Matthew",
+      "bookOsisID": "Matt",
+      "paratext": "MAT",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Gospels"
+      ],
+      "aliases": [
+        "St Matthew",
+        "St. Matthew",
+        "Saint Matthew",
+        "The Gospel According to St Matthew",
+        "The Gospel According to St. Matthew",
+        "The Gospel According to Saint Matthew"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "St. Matthew"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Mark",
+      "bookSubtitle": "The Gospel According to St. Mark",
+      "bookOsisID": "Mark",
+      "paratext": "MRK",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Gospels"
+      ],
+      "aliases": [
+        "St Mark",
+        "St. Mark",
+        "Saint Mark",
+        "The Gospel According to St Mark",
+        "The Gospel According to St. Mark",
+        "The Gospel According to Saint Mark"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "St. Mark"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Luke",
+      "bookSubtitle": "The Gospel According to St. Luke",
+      "bookOsisID": "Luke",
+      "paratext": "LUK",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Gospels"
+      ],
+      "aliases": [
+        "St Luke",
+        "St. Luke",
+        "Saint Luke",
+        "The Gospel According to St Luke",
+        "The Gospel According to St. Luke",
+        "The Gospel According to Saint Luke"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "St. Luke"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "John",
+      "bookSubtitle": "The Gospel According to St. John",
+      "bookOsisID": "John",
+      "paratext": "JHN",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Gospels"
+      ],
+      "aliases": [
+        "St John",
+        "St. John",
+        "Saint John",
+        "The Gospel According to St John",
+        "The Gospel According to St. John",
+        "The Gospel According to Saint John"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "St. John"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Acts",
+      "bookSubtitle": "The Acts of the Apostles",
+      "bookOsisID": "Acts",
+      "paratext": "ACT",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Acts",
+        "ACT"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Romans",
+      "bookSubtitle": "The Epistle of Paul to the Romans ",
+      "bookOsisID": "Rom",
+      "paratext": "ROM",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "Rom",
+        "ROM"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 Corinthians",
+      "bookSubtitle": "The First Epistle of Paul to the Corinthians ",
+      "bookOsisID": "1Cor",
+      "paratext": "1CO",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "1Cor",
+        "1CO"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 Corinthians",
+      "bookSubtitle": "The Second Epistle of Paul to the Corinthians ",
+      "bookOsisID": "2Cor",
+      "paratext": "2CO",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "2Cor",
+        "2CO"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Galatians",
+      "bookSubtitle": "The Epistle of Paul to the Galatians ",
+      "bookOsisID": "Gal",
+      "paratext": "GAL",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "Gal",
+        "GAL"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Ephesians",
+      "bookSubtitle": "The Epistle of Paul to the Ephesians ",
+      "bookOsisID": "Eph",
+      "paratext": "EPH",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "Eph",
+        "EPH"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Philippians",
+      "bookSubtitle": "The Epistle of Paul to the Philippians ",
+      "bookOsisID": "Phil",
+      "paratext": "PHP",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "Phil",
+        "PHP"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Colossians",
+      "bookSubtitle": "The Epistle of Paul to the Colossians ",
+      "bookOsisID": "Col",
+      "paratext": "COL",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "Col",
+        "COL"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 Thessalonians",
+      "bookSubtitle": "The First Epistle of Paul to the Thessalonians ",
+      "bookOsisID": "1Thess",
+      "paratext": "1TH",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "1Thess",
+        "1TH"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 Thessalonians",
+      "bookSubtitle": "The Second Epistle of Paul to the Thessalonians ",
+      "bookOsisID": "2Thess",
+      "paratext": "2TH",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "2Thess",
+        "2TH"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 Timothy",
+      "bookSubtitle": "The First Epistle of Paul to Timothy ",
+      "bookOsisID": "1Tim",
+      "paratext": "1TI",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "1Tim",
+        "1TI"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 Timothy",
+      "bookSubtitle": "The Second Epistle of Paul to Timothy ",
+      "bookOsisID": "2Tim",
+      "paratext": "2TI",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "2Tim",
+        "2TI"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Titus",
+      "bookSubtitle": "The Epistle of Paul to Titus ",
+      "bookOsisID": "Titus",
+      "paratext": "TIT",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "Titus",
+        "TIT"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Philemon",
+      "bookSubtitle": "The Epistle of Paul to Philemon ",
+      "bookOsisID": "Phlm",
+      "paratext": "PHM",
+      "groups": [
+        "New Testament",
+        "Bible",
+        "Pauline Epistles"
+      ],
+      "aliases": [
+        "Phlm",
+        "PHM"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Hebrews",
+      "bookSubtitle": "The Epistle to the Hebrews ",
+      "bookOsisID": "Heb",
+      "paratext": "HEB",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Heb",
+        "HEB"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Paul"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "James",
+      "bookSubtitle": "The General Epistle of James ",
+      "bookOsisID": "Jas",
+      "paratext": "JAS",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Jas",
+        "JAS"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "James"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 Peter",
+      "bookSubtitle": "The First Epistle of Peter ",
+      "bookOsisID": "1Pet",
+      "paratext": "1PE",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "1Pet",
+        "1PE"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Peter"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 Peter",
+      "bookSubtitle": "The Second Epistle of Peter ",
+      "bookOsisID": "2Pet",
+      "paratext": "2PE",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "2Pet",
+        "2PE"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Peter"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "1 John",
+      "bookSubtitle": "The First Epistle of John ",
+      "bookOsisID": "1John",
+      "paratext": "1JN",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "1John",
+        "1JN"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "The Apostle John"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "2 John",
+      "bookSubtitle": "The Second Epistle of John ",
+      "bookOsisID": "2John",
+      "paratext": "2JN",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "2John",
+        "2JN"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "The Apostle John"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "3 John",
+      "bookSubtitle": "The Third Epistle of John ",
+      "bookOsisID": "3John",
+      "paratext": "3JN",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "3John",
+        "3JN"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "The Apostle John"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Jude",
+      "bookSubtitle": "The Epistle of Jude ",
+      "bookOsisID": "Jude",
+      "paratext": "JUD",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Jude",
+        "JUD"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Jude"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJV",
+      "bookName": "Revelation",
+      "bookSubtitle": "The Revelation of Jesus Christ (or The Apocalypse of John) ",
+      "bookOsisID": "Rev",
+      "paratext": "REV",
+      "groups": [
+        "New Testament",
+        "Bible"
+      ],
+      "aliases": [
+        "Rev",
+        "REV"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "John the Revelator"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Tobit",
+      "bookSubtitle": "The Book of Tobit",
+      "bookOsisID": "Tob",
+      "paratext": "TOB",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Tob",
+        "TOB"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Tobit"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Judith",
+      "bookSubtitle": "The Book of Judith",
+      "bookOsisID": "Jdt",
+      "paratext": "JDT",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Jdt",
+        "JDT"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Judith"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Greek Esther",
+      "bookSubtitle": "",
+      "bookOsisID": "EsthGr",
+      "paratext": "ESG",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "EsthGr",
+        "ESG"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Esther"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Additions to Esther",
+      "bookSubtitle": "The Rest of the Chapters of the Book of Esther, which are found neither in the Hebrew, nor in the Chaldee",
+      "bookOsisID": "AddEsth",
+      "paratext": "ADE",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "AddEsth",
+        "ADE"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Wisdom",
+      "bookSubtitle": "The Wisdom of Solomon",
+      "bookOsisID": "Wis",
+      "paratext": "WIS",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Wisdom of Solomon",
+        "Wis",
+        "WIS"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Solomon"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Sirach Prologue",
+      "bookSubtitle": "The Wisdom of Jesus the Son of Sirach (Prologue)",
+      "bookOsisID": "SirP",
+      "paratext": null,
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "SirP",
+        "Ecclesiasticus Prologue"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Sirach"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Sirach",
+      "bookSubtitle": "The Wisdom of Jesus the Son of Sirach",
+      "bookOsisID": "Sir",
+      "paratext": "SIR",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Ecclesiasticus",
+        "Sir",
+        "SIR"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Sirach"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Baruch",
+      "bookSubtitle": "Baruch the Prophet",
+      "bookOsisID": "Bar",
+      "paratext": "BAR",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Bar",
+        "BAR"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Baruch"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Epistle of Jeremiah",
+      "bookSubtitle": "The Epistle of Jeremiah",
+      "bookOsisID": "EpJer",
+      "paratext": "LJE",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "EpJer",
+        "The Letter of Jeremiah",
+        "Letter of Jeremiah",
+        "LJE"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Jeremiah"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Greek Daniel",
+      "bookSubtitle": "",
+      "bookOsisID": "DanGr",
+      "paratext": "DAG",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "DanGr",
+        "DAG"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Daniel"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Additions to Daniel",
+      "bookSubtitle": "",
+      "bookOsisID": "AddDan",
+      "paratext": null,
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "AddDan"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Prayer of Azariah",
+      "bookSubtitle": "Song of the Three Holy Children",
+      "bookOsisID": "PrAzar",
+      "paratext": "S3Y",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Song of the Three Children",
+        "Song of the Three Holy Children",
+        "PrAzar",
+        "S3Y"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Azariah"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Susanna",
+      "bookSubtitle": "History of Susanna",
+      "bookOsisID": "Sus",
+      "paratext": "SUS",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Sus",
+        "SUS"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Susanna"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Bel and the Dragon",
+      "bookSubtitle": "",
+      "bookOsisID": "Bel",
+      "paratext": "BEL",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Bel",
+        "BEL"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "1 Maccabees",
+      "bookSubtitle": "The First Book of the Maccabees",
+      "bookOsisID": "1Macc",
+      "paratext": "1MA",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "1Macc",
+        "1MA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "2 Maccabees",
+      "bookSubtitle": "The Second Book of the Maccabees",
+      "bookOsisID": "2Macc",
+      "paratext": "2MA",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "2Macc",
+        "2MA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "",
+      "bookName": "3 Maccabees",
+      "bookSubtitle": "The Third Book of the Maccabees",
+      "bookOsisID": "3Macc",
+      "paratext": "3MA",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "3Macc",
+        "3MA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "4 Maccabees",
+      "bookSubtitle": "The Fourth Book of the Maccabees",
+      "bookOsisID": "4Macc",
+      "paratext": "4MA",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "4Macc",
+        "4MA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Prayer of Manasseh",
+      "bookSubtitle": "The Prayer of Manasses King of Juda, when he was holden captive in Babylon",
+      "bookOsisID": "PrMan",
+      "paratext": "MAN",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PrMan",
+        "MAN"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Manasseh"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "1 Esdras",
+      "bookSubtitle": "The First Book of Esdras",
+      "bookOsisID": "1Esd",
+      "paratext": "1ES",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "1Esd",
+        "1ES"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Esdras"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "2 Esdras",
+      "bookSubtitle": "The Second Book of Esdras",
+      "bookOsisID": "2Esd",
+      "paratext": "2ES",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "2Esd",
+        "2ES"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Esdras"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Psalm 151",
+      "bookSubtitle": "",
+      "bookOsisID": "AddPs",
+      "paratext": "PS2",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "AddPs",
+        "PS2"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Odes",
+      "bookSubtitle": "",
+      "bookOsisID": "Odes",
+      "paratext": "ODA",
+      "groups": [
+        "Rahlfs' LXX",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Odes",
+        "ODA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Psalms of Solomon",
+      "bookSubtitle": "",
+      "bookOsisID": "PssSol",
+      "paratext": "PSS",
+      "groups": [
+        "Rahlfs' LXX",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PssSol",
+        "PSS"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Solomon"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Joshua A",
+      "bookSubtitle": "",
+      "bookOsisID": "JoshA",
+      "paratext": "JSA",
+      "groups": [
+        "Rahlfs' variant books",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "JoshA",
+        "JSA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Joshua"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Judges B",
+      "bookSubtitle": "",
+      "bookOsisID": "JudgB",
+      "paratext": "JDB",
+      "groups": [
+        "Rahlfs' variant books",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "JudgB",
+        "JDB"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Tobit S",
+      "bookSubtitle": "",
+      "bookOsisID": "TobS",
+      "paratext": "TBS",
+      "groups": [
+        "Rahlfs' variant books",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TobS",
+        "TBS"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Tobit"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Susanna θ",
+      "bookSubtitle": "",
+      "bookOsisID": "SusTh",
+      "paratext": "SST",
+      "groups": [
+        "Rahlfs' variant books",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "SusTh",
+        "SST"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Susanna"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Daniel θ",
+      "bookSubtitle": "",
+      "bookOsisID": "DanTh",
+      "paratext": "DNT",
+      "groups": [
+        "Rahlfs' variant books",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "DanTh",
+        "DNT"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Daniel"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Bel and the Dragon θ",
+      "bookSubtitle": "",
+      "bookOsisID": "BelTh",
+      "paratext": "BLT",
+      "groups": [
+        "Rahlfs' variant books",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "BelTh",
+        "BLT"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Epistle to the Laodiceans",
+      "bookSubtitle": "Epistle to the Laodiceans",
+      "bookOsisID": "EpLao",
+      "paratext": "LAO",
+      "groups": [
+        "Vulgate",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "EpLao",
+        "LAO",
+        "Laodiceans"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "",
+      "bookName": "5 Ezra",
+      "bookSubtitle": "",
+      "bookOsisID": "5Ezra",
+      "paratext": "5EZ",
+      "groups": [
+        "Vulgate",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "5Ezra",
+        "5EZ"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ezra"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "4 Ezra",
+      "bookSubtitle": "",
+      "bookOsisID": "4Ezra",
+      "paratext": "EZA",
+      "groups": [
+        "Vulgate",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Ezra Apocalypse",
+        "4Ezra",
+        "EZA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ezra"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "6 Ezra",
+      "bookSubtitle": "",
+      "bookOsisID": "6Ezra",
+      "paratext": "6EZ",
+      "groups": [
+        "Vulgate",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "6Ezra",
+        "6EZ"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ezra"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Prayer of Solomon",
+      "bookSubtitle": "",
+      "bookOsisID": "PrSol",
+      "paratext": "PSO",
+      "groups": [
+        "Vulgate",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PrSol",
+        "PSO"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Solomon"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Prayer of Jeremiah",
+      "bookSubtitle": "",
+      "bookOsisID": "PrJer",
+      "paratext": "PJE",
+      "groups": [
+        "Vulgate",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PrJer",
+        "PJE"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Jeremiah"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "1 Enoch",
+      "bookSubtitle": "",
+      "bookOsisID": "1En",
+      "paratext": "ENO",
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Ethiopic Apocalypse of Enoch",
+        "Ethiopic Enoch",
+        "1En",
+        "ENO"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Enoch"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Jubilees",
+      "bookSubtitle": "",
+      "bookOsisID": "Jub",
+      "paratext": "JUB",
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Jub",
+        "JUB"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "4 Baruch",
+      "bookSubtitle": "",
+      "bookOsisID": "4Bar",
+      "paratext": "4BA",
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Paraleipomena Jeremiou",
+        "4Bar",
+        "4BA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Baruch"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "1 Meqabyan",
+      "bookSubtitle": "",
+      "bookOsisID": "1Meq",
+      "paratext": "1MQ",
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "1Meq",
+        "1MQ"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "2 Meqabyan",
+      "bookSubtitle": "",
+      "bookOsisID": "2Meq",
+      "paratext": "2MQ",
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "2Meq",
+        "2MQ"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "3 Meqabyan",
+      "bookSubtitle": "",
+      "bookOsisID": "3Meq",
+      "paratext": "3MQ",
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "3Meq",
+        "3MQ"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Reproof",
+      "bookSubtitle": "",
+      "bookOsisID": "Rep",
+      "paratext": "REP",
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Tegsas",
+        "Tegsats",
+        "Taagsas",
+        "Rep",
+        "REP"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Additions to Jeremiah",
+      "bookSubtitle": "",
+      "bookOsisID": "AddJer",
+      "paratext": null,
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Rest of Jeremiah",
+        "AddJer"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Pseudo-Josephus",
+      "bookSubtitle": "",
+      "bookOsisID": "PsJos",
+      "paratext": null,
+      "groups": [
+        "Ethiopian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Jossipon",
+        "Joseph ben Gorion's Medieval History of the Jews",
+        "PsJos"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Epistle of the Corinthians to Paul",
+      "bookSubtitle": "",
+      "bookOsisID": "EpCorPaul",
+      "paratext": "COP",
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "EpCorPaul",
+        "COP"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "3 Corinthians",
+      "bookSubtitle": "",
+      "bookOsisID": "3Cor",
+      "paratext": "3CO",
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "3Cor",
+        "3CO"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Words of Sirach",
+      "bookSubtitle": "",
+      "bookOsisID": "WSir",
+      "paratext": "WSI",
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "WSir",
+        "WSI"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Prayer of Euthalius",
+      "bookSubtitle": "",
+      "bookOsisID": "PrEuth",
+      "paratext": "EUT",
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PrEuth",
+        "EUT"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Euthalius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Dormition of John",
+      "bookSubtitle": "",
+      "bookOsisID": "DormJohn",
+      "paratext": "DOJ",
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "DormJohn",
+        "DOJ"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "John"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Joseph and Asenath",
+      "bookSubtitle": "",
+      "bookOsisID": "JosAsen",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "JosAsen"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testaments of the Twelve Patriarchs (composed of:)",
+      "bookSubtitle": "",
+      "bookOsisID": "T12Patr",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "T12Patr"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Asher",
+      "bookSubtitle": "",
+      "bookOsisID": "TAsh",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TAsh"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Asher"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Benjamin",
+      "bookSubtitle": "",
+      "bookOsisID": "TBenj",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TBenj"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Benjamin"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Dan",
+      "bookSubtitle": "",
+      "bookOsisID": "TDan",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TDan"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Dan"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Gad",
+      "bookSubtitle": "",
+      "bookOsisID": "TGad",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TGad"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Gad"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Issachar",
+      "bookSubtitle": "",
+      "bookOsisID": "TIss",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TIss"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Issachar"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Joseph",
+      "bookSubtitle": "",
+      "bookOsisID": "TJos",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TJos"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Joseph"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Judah",
+      "bookSubtitle": "",
+      "bookOsisID": "TJud",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TJud"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Judah"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Levi",
+      "bookSubtitle": "",
+      "bookOsisID": "TLevi",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TLevi"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Levi"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Naphtali",
+      "bookSubtitle": "",
+      "bookOsisID": "TNaph",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TNaph"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Naphtali"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Reuben",
+      "bookSubtitle": "",
+      "bookOsisID": "TReu",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TReu"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Reuben"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Simeon",
+      "bookSubtitle": "",
+      "bookOsisID": "TSim",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TSim"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Simeon"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "T12Patr",
+      "bookName": "Testament of Zebulun",
+      "bookSubtitle": "",
+      "bookOsisID": "TZeb",
+      "paratext": null,
+      "groups": [
+        "Armenian Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "TZeb"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Zebulun"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "2 Baruch",
+      "bookSubtitle": "",
+      "bookOsisID": "2Bar",
+      "paratext": "2BA",
+      "groups": [
+        "Syriac Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "(Syriac) Apocalypse of Baruch"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Baruch"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Letter of Baruch",
+      "bookSubtitle": "",
+      "bookOsisID": "EpBar",
+      "paratext": "LBA",
+      "groups": [
+        "Syriac Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "EpBar",
+        "LBA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Baruch"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Additional Syriac Psalms",
+      "bookSubtitle": "",
+      "bookOsisID": "5ApocSyrPss",
+      "paratext": "PS3",
+      "groups": [
+        "Syriac Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "5 Apocryphal Syriac Psalms"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Josephus' Jewish War VI",
+      "bookSubtitle": "",
+      "bookOsisID": "JosephusJWvi",
+      "paratext": null,
+      "groups": [
+        "Syriac Orthodox Canon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "JosephusJWvi"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Josephus"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "1 Clement",
+      "bookSubtitle": "The First Epistle of Clement: To the Church of God at Corinth",
+      "bookOsisID": "1Clem",
+      "paratext": "1CL",
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "1Clem",
+        "1CL"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Clement"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "2 Clement",
+      "bookSubtitle": "The Second Epistle of Clement",
+      "bookOsisID": "2Clem",
+      "paratext": "2CL",
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "2Clem",
+        "2CL"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Clement"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Ignatius to the Ephesians",
+      "bookSubtitle": "The Epistle of Ignatius to the Ephesians",
+      "bookOsisID": "IgnEph",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "IgnEph"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ignatius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Ignatius to the Magnesians",
+      "bookSubtitle": "The Epistle of Ignatius to the Magnesians",
+      "bookOsisID": "IgnMagn",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "IgnMagn"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ignatius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Ignatius to the Trallians",
+      "bookSubtitle": "The Epistle of Ignatius to the Trallians",
+      "bookOsisID": "IgnTrall",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "IgnTrall"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ignatius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Ignatius to the Romans",
+      "bookSubtitle": "The Epistle of Ignatius to the Romans",
+      "bookOsisID": "IgnRom",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "IgnRom"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ignatius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Ignatius to the Philadelphians",
+      "bookSubtitle": "The Epistle of Ignatius to the Philadelphians",
+      "bookOsisID": "IgnPhld",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "IgnPhld"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ignatius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Ignatius to the Smyrnaeans",
+      "bookSubtitle": "The Epistle of Ignatius to the Smyrnaeans",
+      "bookOsisID": "IgnSmyrn",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "IgnSmyrn"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ignatius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Ignatius to Polycarp",
+      "bookSubtitle": "The Epistle of Ignatius to Polycarp",
+      "bookOsisID": "IgnPol",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "IgnPol"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Ignatius"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Polycarp to the Philippians",
+      "bookSubtitle": "The Epistle of Polycarp to the Philippians",
+      "bookOsisID": "PolPhil",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PolPhil"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Polycarp"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Martyrdom of Polycarp",
+      "bookSubtitle": "The Martyrdom of St. Polycarp",
+      "bookOsisID": "MartPol",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "MartPol"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "Didache",
+      "bookName": "Didache",
+      "bookSubtitle": "The Lord's Teaching Through the Twelve Apostles to the Nations",
+      "bookOsisID": "Did",
+      "paratext": "DID",
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Did",
+        "DID"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Apostalic Fathers"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Barnabas",
+      "bookSubtitle": "The Epistle of Barnabas",
+      "bookOsisID": "Barn",
+      "paratext": "LBA",
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Barn",
+        "LBA"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Barnabas"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Shepherd of Hermas",
+      "bookSubtitle": "The Shepherd of Hermas",
+      "bookOsisID": "Herm",
+      "paratext": "SHE",
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Herm",
+        "SHE"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Shepherd of Hermas, Mandates",
+      "bookSubtitle": "The Shepherd of Hermas - 12 Commandments",
+      "bookOsisID": "Herm.Mand",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Herm.Mand"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Shepherd of Hermas, Similitudes",
+      "bookSubtitle": "The Shepherd of Hermas - 10 Parables",
+      "bookOsisID": "Herm.Sim",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Herm.Sim"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Shepherd of Hermas, Visions",
+      "bookSubtitle": "The Shepherd of Hermas - 5 visions",
+      "bookOsisID": "Herm.Vis",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Herm.Vis"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Diognetus",
+      "bookSubtitle": "The Epistle to Diognetus",
+      "bookOsisID": "Diogn",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Diogn"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Apostles' Creed",
+      "bookSubtitle": "",
+      "bookOsisID": "AposCreed",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "AposCreed"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Fragments of Papias",
+      "bookSubtitle": "Fragments of the Writings of Papias of Hierapolis",
+      "bookOsisID": "PapFrag",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PapFrag"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Papias"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Reliques of the Elders",
+      "bookSubtitle": "",
+      "bookOsisID": "RelElders",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "RelElders"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Fragment of Quadratus",
+      "bookSubtitle": "Fragment of the Apology of Quadratus of Athens",
+      "bookOsisID": "QuadFrag",
+      "paratext": null,
+      "groups": [
+        "Apostolic Fathers",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "QuadFrag"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Quadratus"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Diatessaron",
+      "bookSubtitle": "",
+      "bookOsisID": "TatDiat",
+      "paratext": null,
+      "groups": [
+        "Apocrypha",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Tatian's Diatessaron",
+        "Tatian"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "",
+      "bookName": "Metrical Psalms",
+      "bookSubtitle": "",
+      "bookOsisID": "PsMet",
+      "paratext": "PSB",
+      "groups": [
+        "Apocrypha",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "PsMet",
+        "PSB"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": false
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "1 Nephi",
+      "bookSubtitle": "",
+      "bookOsisID": "1Ne",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "Small Plates of Nephi",
+        "LDS"
+      ],
+      "aliases": [
+        "1Ne",
+        "1 Ne",
+        "1st Nephi",
+        "First Nephi",
+        "The First Book of Nephi",
+        "I Nephi"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Nephi"
+      ],
+      "dateEarliest": "-0600-01-01",
+      "dateLatest": "-0570-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "2 Nephi",
+      "bookSubtitle": "",
+      "bookOsisID": "2Ne",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "Small Plates of Nephi",
+        "LDS"
+      ],
+      "aliases": [
+        "2Ne",
+        "2 Ne",
+        "2nd Nephi",
+        "Second Nephi",
+        "The Second Book of Nephi",
+        "II Nephi"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Nephi"
+      ],
+      "dateEarliest": "-0588-01-01",
+      "dateLatest": "-0545-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Jacob",
+      "bookSubtitle": "the Brother of Nephi",
+      "bookOsisID": "Jac",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "Small Plates of Nephi",
+        "LDS"
+      ],
+      "aliases": [
+        "Jac"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Jacob"
+      ],
+      "dateEarliest": "-0544-01-01",
+      "dateLatest": "-0421-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Enos",
+      "bookSubtitle": "",
+      "bookOsisID": "Enos",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "Small Plates of Nephi",
+        "LDS"
+      ],
+      "aliases": [
+        "Eno"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Enos"
+      ],
+      "dateEarliest": "-0420-01-01",
+      "dateLatest": "-0420-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Jarom",
+      "bookSubtitle": "",
+      "bookOsisID": "Jar",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "Small Plates of Nephi",
+        "LDS"
+      ],
+      "aliases": [
+        "Jar"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Jarom"
+      ],
+      "dateEarliest": "-0399-01-01",
+      "dateLatest": "-0361-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Omni",
+      "bookSubtitle": "",
+      "bookOsisID": "Omni",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "Small Plates of Nephi",
+        "LDS"
+      ],
+      "aliases": [
+        "Omn"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Omni",
+        "Chemish",
+        "Abinadom",
+        "Amaleki"
+      ],
+      "dateEarliest": "-0323-01-01",
+      "dateLatest": "-0130-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Words of Mormon",
+      "bookSubtitle": "",
+      "bookOsisID": "WoM",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon"
+      ],
+      "aliases": [
+        "WoM"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "0385-01-01",
+      "dateLatest": "0385-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Mosiah",
+      "bookSubtitle": "",
+      "bookOsisID": "Mosi",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "Mosi"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "-0130-01-01",
+      "dateLatest": "-0091-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Alma",
+      "bookSubtitle": "the Son of Alma",
+      "bookOsisID": "Alma",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "Alm"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "-0091-01-01",
+      "dateLatest": "-0052-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Helaman",
+      "bookSubtitle": "",
+      "bookOsisID": "Hel",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "He",
+        "Hlm",
+        "Helm"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "-0052-01-01",
+      "dateLatest": "-0001-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "3 Nephi",
+      "bookSubtitle": "the Son of Nephi, Who Was the Son of Helaman",
+      "bookOsisID": "3Ne",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "3 Ne",
+        "3rd Nephi",
+        "Third Nephi",
+        "III Nephi"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "0005-01-01",
+      "dateLatest": "0035-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "4 Nephi",
+      "bookSubtitle": "Who Is the Son of Nephi—One of the Disciples of Jesus Christ",
+      "bookOsisID": "4Ne",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "4 Ne",
+        "4th Nephi",
+        "Fourth Nephi",
+        "IV Nephi"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "0035-01-01",
+      "dateLatest": "0321-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Mormon",
+      "bookSubtitle": "",
+      "bookOsisID": "Morm",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "Mmn",
+        "Morm"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "0321-01-01",
+      "dateLatest": "0421-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Ether",
+      "bookSubtitle": "The record of the Jaredites, taken from the twenty-four plates found by the people of Limhi in the days of King Mosiah.",
+      "bookOsisID": "Eth",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "Eth"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "-2200-01-01",
+      "dateLatest": "-0350-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "BofM",
+      "bookName": "Moroni",
+      "bookSubtitle": "",
+      "bookOsisID": "Moro",
+      "paratext": null,
+      "groups": [
+        "Book of Mormon",
+        "LDS",
+        "Mormon",
+        "Large Plates of Nephi",
+        "Abridgement"
+      ],
+      "aliases": [
+        "Mni",
+        "Moro"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Mormon"
+      ],
+      "dateEarliest": "0401-01-01",
+      "dateLatest": "0401-01-01",
+      "hasData": true
+    },
+    {
+      "workOsisID": "PGP",
+      "bookName": "Moses",
+      "bookSubtitle": "Selections from the Book of Moses",
+      "bookOsisID": "Mos",
+      "paratext": null,
+      "groups": [
+        "Pearl of Great Price",
+        "Inspired Translation",
+        "Joseph Smith Translation",
+        "JST",
+        "Joseph Smith",
+        "LDS"
+      ],
+      "aliases": [
+        "Mos",
+        "The Book of Moses"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Moses"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "PGP",
+      "bookName": "Abraham",
+      "bookSubtitle": "Translated from the Papyrus, by Joseph Smith",
+      "bookOsisID": "Abr",
+      "paratext": null,
+      "groups": [
+        "Pearl of Great Price",
+        "Inspired Translation",
+        "Joseph Smith Translation",
+        "JST",
+        "Joseph Smith",
+        "LDS"
+      ],
+      "aliases": [
+        "Abr",
+        "The Book of Abraham"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Abraham"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "PGP",
+      "bookName": "Articles of Faith",
+      "bookSubtitle": "of The Church of Jesus Christ of Latter-day Saints",
+      "bookOsisID": "AofF",
+      "paratext": null,
+      "groups": [
+        "Pearl of Great Price",
+        "LDS",
+        "Joseph Smith"
+      ],
+      "aliases": [
+        "AofF"
+      ],
+      "chapterLabel": "",
+      "verseLabel": "Article",
+      "authors": [
+        "Joseph Smith"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "PGP",
+      "bookName": "Joseph Smith—History",
+      "bookSubtitle": "Extracts from the History of Joseph Smith, the Prophet",
+      "bookOsisID": "JSH",
+      "paratext": null,
+      "groups": [
+        "Pearl of Great Price",
+        "Inspired Translation",
+        "Joseph Smith Translation",
+        "JST",
+        "Joseph Smith",
+        "LDS"
+      ],
+      "aliases": [
+        "JSH",
+        "Joseph Smith History",
+        "Joseph Smith--History"
+      ],
+      "chapterLabel": "",
+      "verseLabel": "Verse",
+      "authors": [
+        "Joseph Smith"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "PGP",
+      "bookName": "Joseph Smith—Matthew",
+      "bookSubtitle": "An extract from the translation of the Bible as revealed to Joseph Smith the Prophet in 1831: Matthew 23:39 and chapter 24",
+      "bookOsisID": "JSM",
+      "paratext": null,
+      "groups": [
+        "Pearl of Great Price",
+        "Inspired Translation",
+        "Joseph Smith Translation",
+        "JST",
+        "Joseph Smith",
+        "LDS"
+      ],
+      "aliases": [
+        "JSM",
+        "Joseph Smith Matthew",
+        "Joseph Smith--Matthew"
+      ],
+      "chapterLabel": "",
+      "verseLabel": "Verse",
+      "authors": [
+        "St. Matthew"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    },
+    {
+      "workOsisID": "D&C",
+      "bookName": "Doctrine and Covenants",
+      "bookSubtitle": "of The Church of Jesus Christ of Latter-day Saints",
+      "bookOsisID": "D&C",
+      "paratext": null,
+      "groups": [
+        "Doctrine and Covenants",
+        "LDS"
+      ],
+      "aliases": [
+        "D and C",
+        "The Doctrine & Covenants",
+        "Doctrine & Covenants",
+        "The Doctrine and Covenants"
+      ],
+      "chapterLabel": "Section",
+      "verseLabel": "Verse",
+      "authors": [
+        "Joseph Smith"
+      ],
+      "dateEarliest": "",
+      "dateLatest": "",
+      "hasData": true
+    }
+  ],
+  "works": [
+    {
+      "workOsisID": "KJV",
+      "workTitle": "The Holy Bible",
+      "workSubtitle": "King James Version",
+      "aliases": [
+        "Bible",
+        "Holy Bible"
+      ]
+    },
+    {
+      "workOsisID": "KJVA",
+      "workTitle": "The Holy Bible Apocrypha",
+      "workSubtitle": "King James Version",
+      "aliases": [
+        "King James Apocrypha"
+      ]
+    },
+    {
+      "workOsisID": "T12Patr",
+      "workTitle": "Testaments of the Twelve Patriarchs",
+      "workSubtitle": "",
+      "aliases": [
+        "The Testaments of the Twelve Patriarchs",
+        "Testament of the Twelve Patriarchs",
+        "Testament of the 12 Patriarchs",
+        "Testaments of the 12 Patriarchs",
+        "12 Patriarchs",
+        "The 12 Patriarchs",
+        "The Twelve Patriarchs",
+        "T 12 Patriarchs",
+        "12 Patr"
+      ]
+    },
+    {
+      "workOsisID": "Didache",
+      "workTitle": "Didache",
+      "workSubtitle": "The Lord's Teaching Through the Twelve Apostles to the Nations",
+      "aliases": [
+        "The Didache"
+      ]
+    },
+    {
+      "workOsisID": "BofM",
+      "workTitle": "The Book of Mormon",
+      "workSubtitle": "Another Testament of Jesus Christ",
+      "aliases": [
+        "BOM",
+        "Book of Mormon"
+      ]
+    },
+    {
+      "workOsisID": "PGP",
+      "workTitle": "Pearl of Great Price",
+      "workSubtitle": "",
+      "aliases": [
+        "The Pearl of Great Price",
+        "PGoP"
+      ]
+    },
+    {
+      "workOsisID": "D&C",
+      "workTitle": "Doctrine and Covenants",
+      "workSubtitle": "",
+      "aliases": [
+        "D and C",
+        "The Doctrine & Covenants",
+        "Doctrine & Covenants",
+        "The Doctrine and Covenants"
+      ]
+    }
+  ]
+}

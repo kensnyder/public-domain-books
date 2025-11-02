@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.1",
+  "briefOverview": "Mark opens by presenting John the Baptist as the forerunner and launching Jesus’ public ministry, emphasizing Jesus’ authority in word and deed.",
+  "summary": "Mark introduces the “gospel of Jesus Christ, the Son of God,” linking it to prophetic preparation. John the Baptist appears in the wilderness preaching repentance and baptizing, announcing One mightier who will baptize with the Holy Spirit. Jesus is baptized, the Spirit descends on him, and a heavenly voice declares him God’s beloved Son; the Spirit then drives him into the wilderness for forty days of testing with Satan, among wild animals, attended by angels. After John’s imprisonment, Jesus proclaims in Galilee that the time is fulfilled and the kingdom of God is at hand, calling for repentance and faith. He summons Simon, Andrew, James, and John, who immediately leave their nets to follow him. In Capernaum, Jesus teaches with authority, expels an unclean spirit that recognizes him as the Holy One of God, and his fame spreads. He heals Simon’s mother-in-law, many sick and demonized, prays in solitude, continues preaching throughout Galilee, and compassionately cleanses a leper while instructing him to follow Mosaic procedures and keep silent—yet news spreads so widely that Jesus stays in deserted places while people come to him from everywhere.",
+  "externalContext": "Traditionally attributed to John Mark and often dated to the late first century, this Gospel is the shortest and is known for its brisk pace, often marked by the word “immediately.” In first-century Judea and Galilee under Roman rule, synagogues functioned as local centers for teaching and prayer, where scribes typically taught by citing authorities; Mark contrasts this with Jesus’ direct authority. John the Baptist’s wilderness location and austere dress echoed prophetic and renewal movements that called Israel to repentance in anticipation of God’s imminent action. Fishermen along the Sea of Galilee formed a significant local economy; the mention of hired servants suggests some families operated small businesses with employees. Those diagnosed with “leprosy” (a range of skin diseases) were ritually unclean and socially marginalized; the law required priestly inspection and offerings for reintegration into community life.",
+  "externalReferences": "Mark’s opening quotation combines Malachi 3:1 (“I send my messenger before your face”) and Isaiah 40:3 (“voice…in the wilderness”), framing John as the forerunner who prepares the Lord’s way. John’s clothing of camel’s hair and a leather belt recalls Elijah’s appearance in 2 Kings 1:8 and resonates with expectations of an Elijah-like figure (Malachi 4:5–6). The heavenly declaration at Jesus’ baptism echoes Psalm 2:7 (“You are my Son”) and Isaiah 42:1 (“in whom my soul delights”), linking royal and servant imagery. Jesus’ instruction for the cleansed leper to show himself to the priest and offer the prescribed sacrifices aligns with Leviticus 14:2–32.",
+  "seeAlso": [
+    "Malachi 3:1",
+    "Isaiah 40:3",
+    "2 Kings 1:8",
+    "Malachi 4:5-6",
+    "Leviticus 14:2-32",
+    "Psalm 2:7",
+    "Isaiah 42:1",
+    "Mark 6:17-29",
+    "Matthew 4:1-11",
+    "Acts 1:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "John prepares the way"
+    },
+    {
+      "range": "9-20",
+      "title": "Baptism, testing, first disciples"
+    },
+    {
+      "range": "21-45",
+      "title": "Authority shown in word and deed"
+    }
+  ],
+  "themes": [
+    "Authority of Jesus",
+    "Repentance",
+    "Kingdom of God",
+    "Discipleship",
+    "Compassion"
+  ],
+  "practicalQuestions": [
+    "What does repentance and belief look like concretely in my current habits and relationships?",
+    "How might I respond promptly to Jesus’ call, as the first disciples did, in my work and commitments?",
+    "Where do I need to seek solitude and prayer to sustain service, following Jesus’ example?",
+    "How can I extend compassionate, restoring care to those who are socially or spiritually marginalized?",
+    "What does it mean to acknowledge Jesus’ authority in areas where I usually rely on other authorities or traditions?"
+  ],
+  "uncertainAreas": "The precise sources intended in the combined prophetic citation (v. 2–3) and how Mark expects readers to parse them; the significance of “with the wild beasts” during the temptation (v. 13); the exact meaning and timing of “baptize with the Holy Spirit” (v. 8) within Mark’s narrative; and the rationale behind Jesus’ commands to silence (vv. 34, 44) beyond managing publicity and misunderstanding.",
+  "createdAt": "2025-11-02T16:51:43.929Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,53 @@
+{
+  "chapterOsisID": "Matt.24",
+  "briefOverview": "Jesus delivers the Olivet Discourse, warning of deception, persecution, and tribulation while calling for watchfulness and faithful service until the Son of Man’s coming.",
+  "summary": "Jesus foretells the destruction of the temple and answers the disciples’ private questions about the timing and signs of his coming and the end of the age. He warns of false messiahs, wars, natural disasters, and widespread apostasy, urging endurance and noting that the gospel will be preached to all nations before the end. He speaks of the “abomination of desolation” as a signal for urgent flight from Judea, describing an unparalleled tribulation whose days will be shortened for the sake of the elect. He cautions against chasing secretive claims of Christ’s appearance, affirming that the Son of Man’s coming will be unmistakable, accompanied by cosmic signs and a gathering of the elect. Using the fig tree, he teaches discernment of the season while insisting that the precise day and hour are unknown, likening the time to the sudden onset of the flood in Noah’s day. He concludes with parables calling for constant readiness and faithful stewardship, contrasting blessed, diligent servants with the judged, negligent one.",
+  "externalContext": "This discourse is delivered on the Mount of Olives overlooking Herod’s temple, renowned for its grandeur; that temple was destroyed in 70 CE by Roman forces under Titus during the First Jewish–Roman War. Jewish apocalyptic literature often uses cosmic imagery (e.g., darkened sun, falling stars) to depict divine judgment and world-shaking events. The “abomination of desolation” echoes Daniel and historically evoked memories of profanations of the temple (such as under Antiochus IV in the 2nd century BCE), and later, Roman desecrations were also viewed in this light. First-century Judea saw turmoil, including messianic claimants and prophetic movements, which frames Jesus’ warnings about deception. The mention of praying that flight not be on a Sabbath reflects the constraints of Sabbath travel and commerce in Jewish society, which could hinder escape.",
+  "externalReferences": "Jesus’ reference to the “abomination of desolation” draws from Daniel’s visions (Daniel 9:27; 11:31; 12:11). The Son of Man “coming in the clouds” echoes Daniel 7:13–14, while the universal mourning may recall Zechariah 12:10–12; the celestial darkening parallels prophetic judgment imagery (Isaiah 13:10; Joel 2:31). The suddenness “as in the days of Noah” connects to Genesis 6–7; the thief-like coming motif is later echoed in 1 Thessalonians 5:2 and 2 Peter 3:10, and the trumpet and gathering resonate with 1 Thessalonians 4:16–17. Parallels to this discourse appear in Mark 13 and Luke 21, which offer complementary emphases and details.",
+  "seeAlso": [
+    "Daniel 9:27",
+    "Daniel 11:31",
+    "Daniel 12:11",
+    "Daniel 7:13-14",
+    "Isaiah 13:10",
+    "Joel 2:31",
+    "Genesis 6-7",
+    "Mark 13:1-37",
+    "Luke 21:5-36",
+    "1 Thessalonians 4:16-17",
+    "1 Thessalonians 5:2",
+    "2 Peter 3:10",
+    "Zechariah 12:10-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Warnings and Endurance"
+    },
+    {
+      "range": "15-31",
+      "title": "Abomination and Coming"
+    },
+    {
+      "range": "32-51",
+      "title": "Watchfulness and Faithful Service"
+    }
+  ],
+  "themes": [
+    "Watchfulness",
+    "Endurance under persecution",
+    "False messiahs and deception",
+    "Judgment",
+    "Certainty amid unknown timing"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate discernment to avoid deception when compelling religious claims and signs appear?",
+    "What habits help me remain faithful and diligent in ordinary duties, even when outcomes or timelines are unclear?",
+    "How should a community prepare spiritually and practically for seasons of hardship without succumbing to fear?",
+    "In what ways can I keep love from “growing cold” amid increasing conflict or lawlessness?",
+    "How does the certainty of Jesus’ words shape my priorities when the timing of fulfillment remains unknown?"
+  ],
+  "uncertainAreas": "The scope and timing of “all these things” in relation to “this generation” (v. 34) are debated, as is whether Jesus refers to events culminating in 70 CE, a future consummation, or both. The precise referent of the “abomination of desolation” (v. 15) is contested (e.g., historical desecrations vs. a future event). The meaning of “one taken and the other left” (vv. 40–41) is ambiguous—possibly removal in judgment or rescue. The proverb about vultures/eagles and the carcass (v. 28) is enigmatic and variously interpreted as a sign of inevitable judgment or the unmistakable nature of the event.",
+  "createdAt": "2025-11-02T16:48:28.680Z",
+  "modelId": "gpt-5-2025-08-07"
+}

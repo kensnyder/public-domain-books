@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.6",
+  "briefOverview": "Jesus faces rejection at home, commissions the Twelve, John the Baptist is executed, and Jesus miraculously feeds the crowd and walks on the sea.",
+  "summary": "Returning to his hometown, Jesus teaches in the synagogue but is rejected due to familiarity, limiting the miracles done there. He then sends the Twelve out in pairs with minimal provisions, empowering them to preach repentance, exorcise demons, and heal. News of Jesus reaches Herod, prompting a flashback explaining John the Baptist’s imprisonment and execution for condemning Herod’s unlawful marriage to Herodias. After the apostles report back, Jesus seeks rest with them, but a large crowd gathers; moved with compassion, he teaches and then feeds about five thousand men with five loaves and two fish, leaving twelve baskets of leftovers. Jesus sends the disciples ahead, prays alone, and later walks on the sea to them, calming the wind; they are amazed, not understanding the significance of the loaves. Landing in Gennesaret, widespread healings occur as people touch even the fringe of his garment.",
+  "externalContext": "“King Herod” here refers to Herod Antipas, tetrarch of Galilee and Perea under Roman authority; calling him “king” was common parlance though not technically accurate. According to Josephus (Antiquities 18.5.2), John was imprisoned and executed at Machaerus, a fortress east of the Dead Sea, aligning with the Gospel’s account of Herod’s actions. The controversy over Herod’s marriage stems from Jewish law prohibiting a man from taking his brother’s wife while the brother lives. Traveling with minimal supplies reflected itinerant prophetic practice and dependence on hospitality; shaking dust from one’s feet was a symbolic act of disassociation and warning. The “fourth watch of the night” (roughly 3–6 a.m.) reflects Roman timekeeping used in Judea by the first century.",
+  "externalReferences": "Jesus’ rejection at Nazareth parallels Matthew 13:53–58; his proverb about a prophet lacking honor echoes John 4:44. The commissioning of the Twelve and the instructions about provisions and shaking off the dust parallel Matthew 10:5–15 and are later echoed in Acts 13:51. Herod’s execution of John the Baptist is also narrated in Matthew 14:1–12, and John’s rebuke of Herod draws on Leviticus 18:16’s prohibition. The feeding of the five thousand and Jesus’ walking on the water are narrated together in John 6:1–21; Jesus’ compassion because the crowd were “sheep without a shepherd” recalls Numbers 27:17, and his walking on the sea resonates with Job 9:8,11, where God alone “treads on the waves.”",
+  "seeAlso": [
+    "Matthew 13:53-58",
+    "John 4:44",
+    "Matthew 10:5-15",
+    "Acts 13:51",
+    "Matthew 14:1-12",
+    "Leviticus 18:16",
+    "John 6:1-21",
+    "Numbers 27:17",
+    "Job 9:8,11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Rejection and Sending"
+    },
+    {
+      "range": "14-29",
+      "title": "Death of John"
+    },
+    {
+      "range": "30-56",
+      "title": "Feeding and Sea Miracle"
+    }
+  ],
+  "themes": [
+    "Unbelief",
+    "Mission and Authority",
+    "Compassion",
+    "Divine Power",
+    "Martyrdom"
+  ],
+  "practicalQuestions": [
+    "Where might familiarity or prejudice keep me from recognizing truth or goodness close to home?",
+    "How can I practice dependence on God and hospitality from others when serving rather than relying on excess resources?",
+    "What does faithful witness look like when speaking hard truths to power may have a cost?",
+    "How can compassion guide my response to others even when I am tired or interrupted?",
+    "In seasons of headwind and fear, what practices help me recognize Jesus’ presence and words, “Be not afraid”?",
+    "What does the surplus after the feeding suggest about my assumptions of scarcity and generosity?"
+  ],
+  "uncertainAreas": "Interpreting “he could there do no mighty work” (v.5) raises questions about the relationship between faith and Jesus’ miracles. The phrase “he would have passed by them” (v.48) may allude to a theophany, but the degree of intentional echo is debated. Identifying the exact significance of the twelve baskets is interpretively open. The role of anointing with oil (v.13) could be medicinal, symbolic, or both; the text does not specify.",
+  "createdAt": "2025-11-02T16:54:44.241Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Matt.2",
+  "briefOverview": "Magi seek and honor the newborn King while Herod plots violence; Joseph is divinely guided to protect the child, fulfilling Scripture.",
+  "summary": "Magi from the east arrive in Jerusalem seeking the newborn “King of the Jews,” guided by a star. Herod, disturbed, consults the chief priests and scribes, who cite Bethlehem as the Messiah’s birthplace; Herod secretly instructs the Magi to report back. The star leads the Magi to the child, whom they worship and to whom they present gold, frankincense, and myrrh; warned in a dream, they return home by another route. An angel directs Joseph to flee with the child and Mary to Egypt, where they remain until Herod’s death. In rage at being outwitted, Herod orders the massacre of boys two years old and under in Bethlehem. After Herod dies, Joseph is instructed to return, but fearing Archelaus in Judea, he settles in Nazareth in Galilee, fulfilling prophetic expectations.",
+  "externalContext": "Herod the Great ruled as a Roman client king over Judea and died in 4 BCE; his son Archelaus governed Judea, Samaria, and Idumea from 4 BCE to 6 CE before being deposed. “Magi” were learned astrologers or court advisors from Persia/Babylonia, associated with observing celestial signs; consulting the stars for omens was common in the ancient Near East. Bethlehem was historically linked to King David, shaping messianic hopes for a ruler from David’s line. Egypt, under Roman control yet outside Herod’s jurisdiction, hosted a large Jewish population (notably in Alexandria), making it a plausible refuge for Judeans fleeing political danger.",
+  "externalReferences": "Matthew explicitly connects Jesus’ Bethlehem birth with Micah 5:2, which foretells a ruler from Bethlehem. The flight to Egypt and later return are linked to Hosea 11:1 (“Out of Egypt I called my son”), applying Israel’s historical exodus pattern to Jesus. The lament over the slain children is tied to Jeremiah 31:15 (“Rachel weeping for her children”), evoking grief associated with Ramah and exile. The statement “He shall be called a Nazarene” has no exact Old Testament verse; many interpreters suggest a wordplay on “branch” (netzer) in Isaiah 11:1 or a summary of prophetic themes about the Messiah’s lowliness, but the source remains debated.",
+  "seeAlso": [
+    "Micah 5:2",
+    "Hosea 11:1",
+    "Jeremiah 31:15",
+    "Isaiah 11:1",
+    "Luke 2:1-20",
+    "Matthew 1:18-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Magi and Herod’s Inquiry"
+    },
+    {
+      "range": "13-18",
+      "title": "Flight and Massacre"
+    },
+    {
+      "range": "19-23",
+      "title": "Return and Nazareth"
+    }
+  ],
+  "themes": [
+    "Kingship of Jesus",
+    "Fulfillment of prophecy",
+    "Divine guidance",
+    "Opposition and violence"
+  ],
+  "practicalQuestions": [
+    "How do I respond when new light challenges my assumptions—like the Magi leaving their land to seek truth?",
+    "Where might fear or insecurity tempt me to control outcomes, as Herod did, rather than seek truth honestly?",
+    "Am I attentive to guidance (including warnings) that calls for timely, courageous action to protect the vulnerable?",
+    "What offerings—of resources, time, or honor—am I bringing to Christ in my daily life?",
+    "How do I interpret painful events in light of hope, without minimizing real grief, as Matthew sets lament within fulfillment?"
+  ],
+  "uncertainAreas": "The nature of the star (astronomical event, miraculous sign, or literary-theological device), the Magi’s exact origin and number, the historical scope of the Bethlehem massacre, the precise source of the “Nazarene” prophecy, and harmonization of chronology with Luke remain debated; I focused on what the text states and widely recognized cross-references.",
+  "createdAt": "2025-11-02T16:34:30.835Z",
+  "modelId": "gpt-5-2025-08-07"
+}

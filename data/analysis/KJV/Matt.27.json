@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Matt.27",
+  "briefOverview": "Matthew narrates Jesus’ condemnation, crucifixion, death, and burial, emphasizing his innocence and the fulfillment of Scripture. The chapter also recounts Judas’s remorse and death and the securing of the guarded tomb.",
+  "summary": "At daybreak the chief priests and elders deliver Jesus to Pilate, while Judas, grieving his betrayal, returns the thirty silver pieces and hangs himself; the leaders use the money to buy the potter’s field, which Matthew presents as fulfilling prophecy. Pilate questions Jesus about being “King of the Jews,” and, though recognizing the leaders’ envy and warned by his wife’s dream, he yields to the crowd’s demand to release Barabbas and crucify Jesus, publicly washing his hands. Roman soldiers mock Jesus with a scarlet robe, crown of thorns, and a scepter-reed, then lead him to Golgotha, compelling Simon of Cyrene to carry the cross. Jesus is crucified between two thieves; his garments are divided by lot and passersby, leaders, and even the crucified bandits mock him as “King of Israel” and “Son of God.” Darkness falls from the sixth to the ninth hour, and Jesus cries, “My God, my God, why have you forsaken me?” before dying; the temple veil tears, an earthquake occurs, and many fearfully acknowledge him as God’s Son. Women disciples witness from afar; Joseph of Arimathea buries Jesus in his own new tomb, rolling a great stone to the entrance. The leaders then secure the tomb by sealing the stone and setting a watch to prevent any claim of resurrection.",
+  "externalContext": "Pontius Pilate served as the Roman prefect of Judea (AD 26–36), overseeing capital cases since the Sanhedrin lacked authority to execute. Crucifixion was a Roman method of execution reserved largely for rebels and slaves, designed for public shame and deterrence, typically preceded by scourging. The events occur during Passover/Unleavened Bread, when Jerusalem swelled with pilgrims; some festival-related clemency customs are attested in the Gospels. Tombs hewn into rock with rolling stones were common among the wealthy in Second Temple Judea, and burial before the Sabbath was customary. Sealing a tomb and posting a guard were standard measures to certify official control and prevent tampering.",
+  "externalReferences": "Matthew attributes the thirty pieces of silver and the potter’s field to Jeremiah, though the wording aligns closely with Zechariah 11:12–13 and the potter/field motif appears in Jeremiah 19:1–13; many understand this as a conflation of prophetic themes under Jeremiah’s name. The soldiers casting lots and Jesus’ cry of dereliction echo Psalm 22:18 and Psalm 22:1; the sour wine parallels Psalm 69:21. Jesus’ prediction that he would rise after three days is recalled by the leaders (27:63) and was foretold earlier (Matthew 16:21; 20:19; cf. 26:61). Judas’s death and the naming of the “Field of Blood” also appear in Acts 1:18–19, which preserves differing details.",
+  "seeAlso": [
+    "Zechariah 11:12-13",
+    "Jeremiah 19:1-13",
+    "Psalm 22:1",
+    "Psalm 22:18",
+    "Psalm 69:21",
+    "Matthew 16:21",
+    "Matthew 20:19",
+    "Matthew 26:61",
+    "Acts 1:18-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Judas and the potter’s field"
+    },
+    {
+      "range": "11-31",
+      "title": "Trial before Pilate and mockery"
+    },
+    {
+      "range": "32-66",
+      "title": "Crucifixion, death, and secured tomb"
+    }
+  ],
+  "themes": [
+    "Innocence and injustice",
+    "Scripture fulfilled",
+    "Mocked kingship",
+    "Suffering and death",
+    "Witness and response"
+  ],
+  "practicalQuestions": [
+    "Where might I, like Pilate, wash my hands of responsibility instead of acting justly under pressure?",
+    "How do public opinion and fear of unrest influence my ethical decisions, especially when truth is unpopular?",
+    "Judas felt remorse but despaired—what does genuine repentance look like, and where can it lead differently?",
+    "In what ways do I mock or dismiss vulnerable truth-tellers, as the soldiers and passersby did to Jesus?",
+    "How do I respond to signs that contradict my expectations—do I harden myself or reconsider my judgments?",
+    "What practices help me remember that God’s purposes can be fulfilled even amid apparent defeat?"
+  ],
+  "uncertainAreas": "The attribution of the prophecy to Jeremiah (vv. 9–10) is debated; the wording most closely parallels Zechariah 11:12–13 while drawing on Jeremiah’s imagery. The timing and nature of the saints’ resurrection (vv. 52–53) and how it relates to Jesus’ death and resurrection are not fully clarified. The identity of the guard (Roman or temple) and details of the sealing procedure are not specified. The precise historical basis of the Passover prisoner-release custom outside the Gospels is uncertain. Differences between Matthew’s account of Judas’s death and Acts 1:18–19 raise harmonization questions.",
+  "createdAt": "2025-11-02T16:50:22.497Z",
+  "modelId": "gpt-5-2025-08-07"
+}

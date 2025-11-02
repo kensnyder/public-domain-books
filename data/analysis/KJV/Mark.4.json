@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.4",
+  "briefOverview": "Jesus teaches in parables about receptive hearing and the kingdom’s hidden-yet-inevitable growth, then demonstrates divine authority by calming a storm.",
+  "summary": "By the sea, Jesus tells the Parable of the Sower, depicting varied responses to the word: hard paths snatched by Satan, shallow soil withers under persecution, thorny ground choked by cares and riches, and good soil bearing abundant fruit. Privately he explains the parable to his disciples and states that understanding the kingdom is given to them, while others hear in parables that both reveal and conceal. He teaches about not hiding a lamp, warns that the measure one uses will be measured back, and says more is given to those who truly hear. Two parables portray the kingdom’s organic growth: seed that grows mysteriously to harvest, and a tiny mustard seed that becomes a large plant offering shelter. Jesus often used parables with crowds and explained them to disciples. That evening he stills a sudden storm with a command, rebukes the disciples’ fear, and leaves them marveling at his authority over wind and sea.",
+  "externalContext": "Teaching from a boat along the Sea of Galilee was practical in first‑century Galilee, where crowds gathered on sloped shorelines and water carried sound. Parables were a common Jewish pedagogical form, using familiar agricultural and household images (sowing, lamps, measures) to convey moral and theological truths. Galilean agriculture included rocky and thorny soils, and the mustard plant, though small in seed, could grow impressively as a shrub. The Sea of Galilee is known for sudden squalls due to its basin topography, making storms dangerous for small fishing boats. Household lamps were small clay vessels placed on stands to illuminate a one-room home, and “measures” referred to standard quantities used in markets, evoking fairness and reciprocity.",
+  "externalReferences": "Jesus’ statement about seeing and not perceiving clearly echoes Isaiah 6:9–10, framing parables as both revelation and judgment. The calming of the storm recalls Israel’s Scriptures where the LORD stills seas (Psalm 107:23–30; cf. Job 38:8–11), highlighting Jesus’ authority over creation. The Sower and Mustard Seed parables have Synoptic parallels that reinforce their interpretation (Matthew 13:1–23, 31–32; Luke 8:4–15, 18–19), and the principle of measure and hearing parallels Matthew 7:2 and Luke 8:16–18. The image of birds nesting in a great plant or tree evokes expansive, sheltering rule (Ezekiel 17:22–24; Daniel 4:10–12).",
+  "seeAlso": [
+    "Isaiah 6:9-10",
+    "Psalm 107:23-30",
+    "Job 38:8-11",
+    "Matthew 13:1-23",
+    "Matthew 13:31-32",
+    "Luke 8:4-15",
+    "Luke 8:16-18",
+    "Matthew 8:23-27",
+    "Luke 8:22-25",
+    "Ezekiel 17:22-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Sower and its meaning"
+    },
+    {
+      "range": "21-34",
+      "title": "Light, measure, and growth"
+    },
+    {
+      "range": "35-41",
+      "title": "Jesus calms the storm"
+    }
+  ],
+  "themes": [
+    "Hearing and response",
+    "Kingdom growth",
+    "Revelation and concealment",
+    "Faith versus fear",
+    "Fruitfulness"
+  ],
+  "practicalQuestions": [
+    "Which “soil” best describes my present response to Scripture, and what would it take to become good soil?",
+    "How are worries, wealth, or desires choking fruitfulness in my life, and what concrete steps could remove those thorns?",
+    "What truths or gifts am I hiding that should be put “on a stand” for others’ benefit?",
+    "How can I cultivate patient trust in God’s gradual, often unseen work rather than forcing outcomes?",
+    "Where is fear overriding faith in my current “storms,” and what practices can help me turn to Jesus rather than panic?"
+  ],
+  "uncertainAreas": "The intent behind v. 12 (revelation vs. judicial hardening) is debated; the text presents both revealing and concealing functions of parables. The scope of the “harvest” in 4:29 may imply eschatological judgment or simply the natural goal of growth. The birds nesting in the mustard plant could broadly signify expansive inclusion or shelter without specifying precise referents.",
+  "createdAt": "2025-11-02T16:53:25.370Z",
+  "modelId": "gpt-5-2025-08-07"
+}
