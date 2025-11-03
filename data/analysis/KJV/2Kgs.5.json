@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "2Kgs.5",
+  "briefOverview": "A Syrian commander with leprosy is healed after humbly obeying Elisha’s simple instructions, and a servant is punished for greed. The chapter highlights prophetic authority, humility in receiving grace, and consequences for deceit.",
+  "summary": "Naaman, an honored Syrian commander afflicted with leprosy, is recommended by an Israelite captive girl to seek the prophet in Samaria. After Naaman brings a letter and rich gifts, Elisha instructs him to wash seven times in the Jordan; Naaman initially objects but is persuaded by his servants and is healed when he obeys. Grateful, Naaman offers gifts and declares the God of Israel the only God, but Elisha refuses payment; Naaman requests soil to continue worship of the LORD while serving his king. Gehazi, Elisha’s servant, secretly pursues Naaman to accept a bribe, lies about his errand, and is struck with Naaman’s leprosy as judgment, which the text says will cling to him and his descendants.",
+  "externalContext": "The episode takes place in the divided-monarchy period when Aram (Syria) and Israel frequently interacted politically and militarily. 'Leprosy' (Hebrew tzara'at) in the ancient Near East often denotes a variety of skin diseases and ritual impurity with social and religious consequences, not strictly the modern disease leprosy. Prophets like Elisha functioned as recognized religious authorities whose acts and words could override royal confusion about responsibility for miraculous cures.",
+  "externalReferences": "The legal and ritual background for 'leprosy' and its cleansing is described in Leviticus 13–14, which frames the social implications of being declared clean. Elisha’s pattern of miraculous acts and authority over life and death resonates with other Elisha narratives, for example 2 Kings 4:32–35 (the raising of the Shunammite’s son). The New Testament recounts a similar motif of a foreigner healed of a skin disease and the theme of gratitude in Luke 17:11–19 (the Samaritan leper), which echoes questions of faith, humility, and recognition of God.",
+  "seeAlso": [
+    "Leviticus 13:1-14:32",
+    "2 Kings 4:32-35",
+    "Luke 17:11-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Naaman Healed by Obedience"
+    },
+    {
+      "range": "15-19",
+      "title": "Refusal of Gifts"
+    },
+    {
+      "range": "20-27",
+      "title": "Gehazi’s Greed and Punishment"
+    }
+  ],
+  "themes": [
+    "Healing",
+    "Humility",
+    "Prophetic authority",
+    "Greed and judgment"
+  ],
+  "practicalQuestions": [
+    "When we seek help, do we expect dramatic signs or are we willing to obey simple, unfamiliar instructions?",
+    "How should gratitude be expressed when someone refuses reward for help? What are appropriate boundaries?",
+    "What safeguards can communities put in place to prevent leaders’ attendants from exploiting generosity?",
+    "How do we honor religious commitments when working within pluralistic or compromising public roles?"
+  ],
+  "uncertainAreas": "The exact medical/ritual nature of 'leprosy' (Hebrew tzara'at) is uncertain and broader than modern leprosy; Naaman’s request for soil and his intended practice of worshiping the LORD while bowing in the house of Rimmon leave open questions about the sincerity and future shape of his loyalty; the phrase that Gehazi’s descendants will be leprous 'for ever' may be hyperbolic or a narrative way to express severe, lasting consequence rather than literal perpetual inheritance.",
+  "createdAt": "2025-11-03T18:48:07.058Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

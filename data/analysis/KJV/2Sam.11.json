@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "2Sam.11",
+  "briefOverview": "David commits adultery with Bathsheba and arranges the death of her husband Uriah to conceal the sin, provoking the LORD’s displeasure.",
+  "summary": "While Israel besieges Rabbah, David remains in Jerusalem, sees Bathsheba bathing, summons her, and she conceives. To mask the pregnancy, David recalls Uriah from the front, urging him to go home, but Uriah refuses out of solidarity with the ark and the army. After a second attempt and making Uriah drunk, Uriah still sleeps among the servants and does not go to his house. David then sends a letter by Uriah instructing Joab to place him in the fiercest fighting and withdraw, resulting in Uriah’s death along with other soldiers. Joab anticipates David’s potential anger at the tactical loss and instructs the messenger to add that Uriah is dead; David responds fatalistically and urges Joab to press the siege. Bathsheba mourns, then David marries her and she bears a son, but the LORD is displeased with David’s actions.",
+  "externalContext": "In the ancient Near East, warfare commonly resumed in spring after the rainy season, hence the phrase “when kings go forth to battle.” Royal residences in Jerusalem had flat roofs, which functioned as living space and vantage points, making rooftop observation plausible. The note that Bathsheba was purified from uncleanness reflects ritual purity practices related to menstruation (cf. Leviticus 15), highlighting the likelihood that the paternity of the child would be attributed to David. Uriah is called “the Hittite,” indicating the presence and integration of non-Israelites or descendants of earlier populations in David’s forces. Kings in Israel were expected to model covenant fidelity; remaining at home while the army fights subtly sets the stage for David’s moral failure in the narrative.",
+  "externalReferences": "Joab’s mention of Abimelech’s death at Thebez recalls Judges 9:50–54, where an assault too near a city wall led to fatal consequences, underscoring the recklessness of the tactic that killed Uriah. David’s actions violate the commandments against murder and adultery (Exodus 20:13–14). The narrative continues in 2 Samuel 12:1–15 with Nathan’s rebuke and David’s confession; tradition also associates Psalm 51 with David’s repentance after this sin. Uriah is later listed among David’s mighty men (2 Samuel 23:39), sharpening the sense of betrayal.",
+  "seeAlso": [
+    "Judges 9:50-54",
+    "Exodus 20:13-14",
+    "2 Samuel 12:1-15",
+    "Psalm 51",
+    "2 Samuel 23:39",
+    "1 Kings 15:5",
+    "1 Chronicles 20:1-3",
+    "Deuteronomy 17:17",
+    "Leviticus 15:19-24",
+    "James 1:14-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "David and Bathsheba"
+    },
+    {
+      "range": "6-13",
+      "title": "Uriah’s Integrity, Failed Cover-Up"
+    },
+    {
+      "range": "14-27",
+      "title": "Uriah Killed; Aftermath and Displeasure"
+    }
+  ],
+  "themes": [
+    "Abuse of power",
+    "Adultery and murder",
+    "Deceit and cover-up",
+    "Divine justice"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to use authority or influence to serve myself rather than others?",
+    "How can I build safeguards and accountability to prevent a small compromise from escalating into greater wrongdoing?",
+    "What does Uriah’s integrity under pressure teach me about solidarity and ethical consistency?",
+    "How should I respond when I have grievously wronged others—concealment or confession and restitution?",
+    "How do I speak truthfully and courageously when my role exposes me to unethical orders or complicity?"
+  ],
+  "uncertainAreas": "The text does not state Bathsheba’s perspective or consent, leaving her agency ambiguous. Uriah’s reference to the ark dwelling in tents is unclear given the ark’s prior relocation to Jerusalem; it may be rhetorical or imply temporary deployment. The phrase about Bathsheba’s purification likely relates to menstrual laws but the precise timing and intent are interpretive. Joab’s exact knowledge of David’s motive is implied but not fully spelled out.",
+  "createdAt": "2025-11-03T18:09:18.687Z",
+  "modelId": "gpt-5-2025-08-07"
+}

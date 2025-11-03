@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "2Sam.6",
+  "briefOverview": "David relocates the ark to Jerusalem, learning the gravity of God’s holiness through Uzzah’s death and celebrating God’s presence with exuberant worship. A domestic conflict with Michal follows over the propriety of David’s public devotion.",
+  "summary": "David assembles a large company to bring the ark from Baale of Judah, placing it on a new cart and celebrating with music. When the oxen stumble, Uzzah touches the ark and is struck dead, which angers and frightens David, who leaves the ark at the house of Obed-edom for three months; Obed-edom’s household is blessed. Hearing of the blessing, David brings the ark to the city of David with gladness; after six steps he offers sacrifices, and he dances with all his might wearing a linen ephod. The ark is set in a tent David has pitched, he offers burnt and peace offerings, blesses the people, and distributes food to all. Michal, Saul’s daughter, despises David for what she considers shameless exposure and rebukes him; David replies that he was celebrating before the LORD who chose him, and he will be even more humble. The chapter concludes that Michal had no child to the day of her death.",
+  "externalContext": "David had recently established Jerusalem (the city of David) as his political center, and bringing the ark there signaled a religious unification of the kingdom. In the Torah, the ark symbolized God’s enthroned presence and was associated with the mercy seat and cherubim atop it, marking the most holy space in Israel’s worship. Ancient Near Eastern royal processions commonly included music, dancing, and public distribution of food to celebrate sacred occasions. The linen ephod was a priestly garment; David’s wearing it reflected a cultic role or identification with worship, though not the high priesthood. The narrative reflects Israel’s concern that worship be both heartfelt and regulated by divine instruction.",
+  "externalReferences": "The ark had been kept at Kiriath-jearim (Baalah/Baale of Judah) in Abinadab’s house since its return from the Philistines (1 Samuel 7:1–2). The Torah stipulated that Levites were to carry the ark by its poles and not touch the holy things (Exodus 25:14–15; Numbers 4:15; Deuteronomy 10:8), while the Philistines had previously sent it back on a new cart (1 Samuel 6:7–11), which may explain David’s initial method here. The title “the LORD of hosts that dwelleth between the cherubims” echoes the ark’s design and function (Exodus 25:18–22; cf. 1 Samuel 4:4). A parallel account notes David later directed the Levites to carry the ark properly (1 Chronicles 15:13–15) and that the Mosaic tabernacle remained at Gibeon (1 Chronicles 16:39).",
+  "seeAlso": [
+    "1 Samuel 7:1-2",
+    "1 Samuel 6:7-11",
+    "Exodus 25:14-15",
+    "Numbers 4:15",
+    "Deuteronomy 10:8",
+    "Exodus 25:18-22",
+    "1 Samuel 4:4",
+    "1 Chronicles 15:13-15",
+    "1 Chronicles 16:39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "First attempt; Uzzah’s death"
+    },
+    {
+      "range": "12-19",
+      "title": "Ark enters Jerusalem with joy"
+    },
+    {
+      "range": "20-23",
+      "title": "David and Michal’s dispute"
+    }
+  ],
+  "themes": [
+    "Holiness of God",
+    "Obedience in worship",
+    "Joyful worship",
+    "Divine blessing",
+    "Humility and honor"
+  ],
+  "practicalQuestions": [
+    "Where might zeal in worship need to be aligned with careful obedience to God’s instructions?",
+    "How should we respond when God’s discipline interrupts our plans—withdraw in fear or seek correction and try again?",
+    "What does it look like for leaders to model joyful, humble worship without being controlled by public opinion?",
+    "How do we discern the line between appropriate freedom in worship and actions that distract or scandalize others?",
+    "In what ways does honoring God’s presence shape how we bless and serve our communities?"
+  ],
+  "uncertainAreas": "The identity of “Obed-edom the Gittite” (Philistine from Gath or a Levite from Gath-rimmon) is debated. The extent of David’s “uncovering” and whether it violated decorum is unclear. Whether David personally performed the sacrifices or oversaw them through priests is not specified. The precise location of Nachon’s threshing floor and the identification of Baale of Judah with Kiriath-jearim rely on parallel texts.",
+  "createdAt": "2025-11-03T18:05:11.719Z",
+  "modelId": "gpt-5-2025-08-07"
+}

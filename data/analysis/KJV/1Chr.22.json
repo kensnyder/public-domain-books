@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "1Chr.22",
+  "briefOverview": "David organizes materials and labor for the temple and charges his son Solomon to build the LORD’s house, urging obedience, wisdom, and courage.",
+  "summary": "David declares the chosen site for the LORD’s house and mobilizes craftsmen, materials (iron, brass, cedar), and foreign labor to prepare for construction. He explains that although he desired to build the temple, God withheld that privilege because of David’s record of warfare; instead God promised a son (Solomon) who would have rest and build the house. David charges Solomon to seek the LORD, to obtain wisdom and understanding, and to observe the statutes given through Moses so that he may prosper. David reports vast preparations of precious metals, timber, stone, and skilled workmen already laid up for the project and commands Israel’s leaders to support Solomon and bring the ark and sacred vessels into the new house.",
+  "externalContext": "1 Chronicles was written or edited after the Babylonian exile with a theological emphasis on the temple, the Davidic line, and proper worship; the Chronicler often highlights temple preparations even when the actual building is attributed to Solomon. Phoenician cities such as Tyre supplied cedar and skilled sailors and craftsmen to Israelite kings (cf. historical contacts with Hiram of Tyre). The large quantities and talents mentioned reflect ancient Near Eastern royal building projects and the chronicler’s interest in portraying abundant, orderly provision for sacred construction.",
+  "externalReferences": "The promise that David would not build the temple but that his son would (and that the son’s throne would be established) closely parallels 2 Samuel 7:12–16, where God speaks through the prophet to David about his descendant. The account of Solomon actually receiving cedar and craftsmen from Tyre and building the temple is narrated in 1 Kings 5–6. The charge that a king keep the law echoes Deuteronomy 17:14–20, which instructs a king to observe the law and not exalt himself.",
+  "seeAlso": [
+    "2 Samuel 7:12-16",
+    "1 Kings 5:1-12",
+    "1 Kings 6:1-14",
+    "Deuteronomy 17:14-20",
+    "1 Chronicles 28:2-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Preparations for the Temple"
+    },
+    {
+      "range": "6-13",
+      "title": "David’s Charge to Solomon"
+    },
+    {
+      "range": "14-19",
+      "title": "Resources and National Support"
+    }
+  ],
+  "themes": [
+    "Temple preparation",
+    "Leadership succession",
+    "Obedience to law",
+    "Divine promise"
+  ],
+  "practicalQuestions": [
+    "How should current leaders prepare and resource those who will succeed them?",
+    "In what ways can congregations plan responsibly for long-term worship needs and sacred space?",
+    "How does the balance between human initiative and perceived divine timing affect decision-making?",
+    "What role does obedience to foundational teachings (the law) play in the legitimacy and success of leadership?"
+  ],
+  "uncertainAreas": "Unclear whether numerical quantities are literal or idealized; the precise prophetic channel of the divine message (e.g., Nathan) is not specified here; the identity and status of the \"strangers\" and the full political arrangements with Tyre are not spelled out.",
+  "createdAt": "2025-11-03T19:12:50.041Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

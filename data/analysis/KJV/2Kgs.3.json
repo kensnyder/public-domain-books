@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Kgs.3",
+  "briefOverview": "Israel, Judah, and Edom unite to crush Moab’s revolt; Elisha promises water and victory, but the campaign ends with a shocking sacrifice and a sudden withdrawal.",
+  "summary": "Jehoram of Israel, though removing his father’s Baal pillar, persists in Jeroboam’s sins. When Mesha king of Moab rebels after Ahab’s death, Jehoram secures Jehoshaphat of Judah and the king of Edom for a southern approach, but the armies run out of water. At Jehoshaphat’s prompting they consult Elisha, who, out of regard for Jehoshaphat, prophesies miraculously supplied water and victory with scorched‑earth tactics. Water fills the valley without visible rain, and at sunrise it appears like blood to the Moabites, who rush to plunder and are routed. Israel and its allies devastate Moab’s land and besiege Kir-hareseth. Cornered, the Moabite king sacrifices his heir on the city wall, after which ‘great indignation against Israel’ arises and the coalition withdraws.",
+  "externalContext": "This episode occurs during the divided monarchy, with Israel (north) and Judah (south) often engaging neighboring states; Edom was frequently under Judah’s influence, which explains the joint route through Edomite territory. The Mesha Stele (9th century BCE) records King Mesha’s perspective on his rebellion against Israel, crediting Chemosh (Moab’s god) with victory and corroborating the broader conflict. In ancient Near Eastern warfare, destroying fields, trees, and water sources was a known tactic to cripple an enemy’s capacity to resist. The ‘meat offering’ mentioned is the regular morning grain offering at the sanctuary, marking liturgical time in Israel’s daily worship.",
+  "externalReferences": "Moab’s revolt after Ahab’s death is first noted in 2 Kings 1:1. Jehoram’s partial reform is contrasted with the Baal worship established under Ahab and Jezebel (1 Kings 16:31–33), yet he continues ‘the sins of Jeroboam’—the calf cult at Bethel and Dan (1 Kings 12:28–33). Jehoshaphat had earlier insisted on seeking a prophet before battle in his alliance with Ahab (1 Kings 22:5–7), paralleling his appeal to consult Elisha here. The water’s arrival at the time of the morning offering echoes the timing motif seen in 1 Kings 18:36 (Elijah at the evening sacrifice).",
+  "seeAlso": [
+    "2 Kings 1:1",
+    "1 Kings 12:28-33",
+    "1 Kings 16:31-33",
+    "1 Kings 22:5-7",
+    "1 Kings 18:36",
+    "Exodus 29:38-41",
+    "Isaiah 16:7-11",
+    "Jeremiah 48:31,36"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Jehoram’s partial reform"
+    },
+    {
+      "range": "4-20",
+      "title": "Alliance and Elisha’s oracle"
+    },
+    {
+      "range": "21-27",
+      "title": "Rout, siege, and withdrawal"
+    }
+  ],
+  "themes": [
+    "Prophetic authority",
+    "Divine provision",
+    "Alliances in crisis",
+    "Judgment in war"
+  ],
+  "practicalQuestions": [
+    "When facing a crisis, to whom do I instinctively turn first for guidance, and how do I make space to hear God’s direction?",
+    "What risks accompany alliances with leaders or systems that mix reform with ongoing compromise?",
+    "How do outward religious changes differ from genuine repentance, and how might that affect outcomes?",
+    "What ethical boundaries should govern the means we use to achieve ‘victory’ in conflict or competition?",
+    "How can practices of worship (including music) help attune me to discernment and wise action?"
+  ],
+  "uncertainAreas": "The closing line—‘there was great indignation against Israel’—is ambiguous: it could indicate divine wrath, Moabite fury emboldened by the sacrifice, or Israelite horror leading to retreat. The rationale for Elisha’s command to fell ‘every good tree’ vis-à-vis Deuteronomy’s usual restrictions on destroying fruit trees is not explained. The identity and political status of the ‘king of Edom’ (vassal vs. sovereign) is implied but not explicit.",
+  "createdAt": "2025-11-03T18:46:54.042Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "1Sam.7",
+  "briefOverview": "Israel returns the ark to Kiriath‑jearim and, under Samuel's leadership, repents and prays at Mizpeh, where God grants victory over the Philistines.",
+  "summary": "The ark is brought to the house of Abinadab in Kiriath‑jearim and remains there for twenty years, during which Israel laments after the LORD. Samuel calls Israel to wholehearted repentance: they remove foreign gods, assemble at Mizpeh, fast, and confess sin. When the Philistines advance, Samuel offers a burnt offering and prays; God answers with thunder that routs the Philistines, and Israel pursues them. Samuel sets up a stone called Eben‑ezer as a memorial of divine help, judges Israel throughout his life, makes circuit visits, and establishes peace and restoration of cities taken by the Philistines.",
+  "externalContext": "This episode falls in the transitional period from the period of the judges to the early monarchy (late second to early first millennium BCE in traditional chronology), when Philistine pressure was a major geopolitical factor in the coastal plain. The ark’s movements (capture by the Philistines, return, and lodging at Kiriath‑jearim) reflect longstanding concerns about Israel’s covenant symbol and its presence among the people. Assemblies at high places like Mizpeh and the role of charismatic judges/priestly figures were common features of Israelite religion in this era.",
+  "externalReferences": "The ark’s prior capture and the Philistine narrative are recounted in 1 Samuel 4–6, which provide background for why the ark was at Kiriath‑jearim. The pattern of national sin, public repentance, prayer by a leader, and divine deliverance recalls the cycles in Judges (e.g., Judges 2:16–19). The injunction to put away other gods and serve the LORD alone echoes the Torah’s commands against other gods (see Exodus 20:3; Deuteronomy 6:5).",
+  "seeAlso": [
+    "1 Samuel 4:1-11",
+    "1 Samuel 5:1-12",
+    "1 Samuel 6:1-21",
+    "Judges 2:16-19",
+    "Exodus 20:3",
+    "Deuteronomy 6:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Ark at Kiriath‑jearim"
+    },
+    {
+      "range": "3-12",
+      "title": "Repentance and Victory"
+    },
+    {
+      "range": "13-17",
+      "title": "Samuel's Judgeship"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Divine deliverance",
+    "Covenant presence",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How does corporate repentance and the removal of competing loyalties apply to modern communities of faith?",
+    "In what ways can leaders model prayer and worship when a community faces external threats or internal decline?",
+    "What kinds of tangible memorials or practices help communities remember past assistance and maintain gratitude?",
+    "How should communities balance seeking religious reform with practical measures when confronting oppression or injustice?"
+  ],
+  "uncertainAreas": "The historic detail of the thunder striking the Philistines is reported as direct divine intervention and cannot be independently verified; the precise dating and archaeological identification of some place names (e.g., Beth‑car) and the exact length and extent of the peace 'all the days of Samuel' are uncertain.",
+  "createdAt": "2025-11-03T17:43:32.172Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

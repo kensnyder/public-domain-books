@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "2Sam.21",
+  "briefOverview": "David addresses a covenant breach that caused a famine and records victories over Philistine giants late in his reign.",
+  "summary": "A three-year famine prompts David to seek the LORD, who reveals it is due to Saul’s bloodguilt against the Gibeonites. David asks the Gibeonites how to make atonement; they request seven male descendants of Saul to be put to death, which David grants while sparing Jonathan’s son Mephibosheth because of a sworn oath. The executions occur at the beginning of barley harvest, and Rizpah, mother of two of the executed, guards the corpses until rain falls; David then gathers the bones of Saul, Jonathan, and the executed men and buries them in Benjamin. After these actions, God is entreated for the land and the famine ends. Subsequent narratives recount Philistine wars in which David grows faint but is rescued, and several warriors slay giants related to Goliath, leading David’s men to forbid him from risking himself in battle.",
+  "externalContext": "The Gibeonites had secured a treaty with Israel in Joshua 9; despite their deception, the oath obligated Israel to spare them and integrate them as protected laborers. In ancient Israel, bloodshed was believed to pollute the land and require expiation, sometimes through judicial action or ritual, to remove communal guilt. Public exposure of executed bodies was rare and ritually sensitive; Israelite law stressed prompt burial and avoidance of defilement, though royal and wartime exceptions occurred. Barley harvest typically fell in spring; the note about rain suggests a prolonged vigil by Rizpah through a dry season until the autumn rains, highlighting the severity of the famine and the poignancy of her mourning.",
+  "externalReferences": "This episode presupposes the covenant with Gibeon made in Joshua 9:3–27 and evokes the principle that bloodshed defiles the land (Numbers 35:33). David’s sparing of Mephibosheth reflects his oath-bound loyalty to Jonathan (1 Samuel 20:12–17; cf. 2 Samuel 9:1–13). The retrieval and reburial of Saul and Jonathan link back to their deaths and initial burial by Jabesh-gilead (1 Samuel 31:11–13). The giant-slaying accounts parallel 1 Chronicles 20:4–8, which records similar exploits by David’s warriors.",
+  "seeAlso": [
+    "Joshua 9:3-27",
+    "Numbers 35:33",
+    "Deuteronomy 21:22-23",
+    "Deuteronomy 24:16",
+    "1 Samuel 20:12-17",
+    "1 Samuel 31:11-13",
+    "2 Samuel 9:1-13",
+    "1 Chronicles 20:4-8",
+    "1 Kings 11:36"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Famine and Gibeonite atonement"
+    },
+    {
+      "range": "15-22",
+      "title": "Battles with Philistine giants"
+    }
+  ],
+  "themes": [
+    "Covenant oaths",
+    "Bloodguilt and atonement",
+    "Justice and retribution",
+    "Leadership protection",
+    "Mourning and burial"
+  ],
+  "practicalQuestions": [
+    "What responsibilities do communities have to repair harms done by previous leaders or generations?",
+    "How should leaders honor covenants, especially when keeping them is costly or politically difficult?",
+    "Where is the line between justice for grievous wrongs and mercy toward the families of offenders?",
+    "What practices help protect key leaders so the broader community is not imperiled?",
+    "How can we honor victims and the dead in ways that promote healing for a community?"
+  ],
+  "uncertainAreas": "The text does not detail Saul’s actions against the Gibeonites beyond a general description, leaving the extent and timing unclear. Verse 8 attributes five sons to “Michal,” though elsewhere Merab is linked to Adriel; the wording may reflect a textual issue or fostering arrangement. The duration of Rizpah’s vigil and the precise timing of the rains are not specified. There are known textual variations about Elhanan’s feat (brother of Goliath vs. Goliath himself) in parallel accounts.",
+  "createdAt": "2025-11-03T18:18:58.833Z",
+  "modelId": "gpt-5-2025-08-07"
+}

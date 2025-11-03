@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.4",
+  "briefOverview": "Elisha performs a series of miracles that provide for the needy, reward hospitality, and restore life, displaying prophetic power and care for vulnerable people.",
+  "summary": "A widow of a prophet pleads with Elisha to save her sons from being taken as bondmen; Elisha instructs her to borrow many empty vessels and the little oil she has miraculously multiplies to fill them so she can sell it, pay her debts, and live (1–7). A wealthy Shunammite woman provides hospitality to Elisha and is promised a son in old age; the child later dies but is miraculously restored to life after the mother fetches Elisha and he performs a sequence of gestures and prayers (8–37). Back at Gilgal, Elisha neutralizes a poisonous pottage by adding meal so the sons of the prophets can eat, and then he miraculously multiplies twenty loaves and some ears of grain to feed a hundred men with leftovers, again demonstrating providential care (38–44).",
+  "externalContext": "Elisha is portrayed as the principal prophetic figure in the northern kingdom after Elijah (traditionally active in the 9th century BCE), and the book of Kings is generally understood as part of the Deuteronomistic history compiled and edited later (often associated with the exilic or post‑exilic period). \"Sons of the prophets\" appears to denote prophetic circles or guilds who lived and trained together. Practices such as hospitality and patronage were culturally important in the ancient Near East, and debt could lead to servitude; the narrative assumes these social realities as the problem Elisha addresses.",
+  "externalReferences": "The stories intentionally echo earlier prophetic narratives: Elijah’s provision for the widow of Zarephath (1 Kings 17:8–16) and Elijah’s raising of that widow’s son (1 Kings 17:17–24) are clear parallels to Elisha’s multiplication of oil and the resurrection of the Shunammite’s child. The loaves miracle in 2 Kings 4:42–44 also anticipates New Testament feeding accounts (for example Matthew 14:13–21; John 6:1–14) that emphasize prophetic or Christ‑like provision and abundance.",
+  "seeAlso": [
+    "1 Kings 17:8-16",
+    "1 Kings 17:17-24",
+    "Matthew 14:13-21",
+    "John 6:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Widow’s Oil Provision"
+    },
+    {
+      "range": "8-37",
+      "title": "Shunammite: Promise and Restoration"
+    },
+    {
+      "range": "38-44",
+      "title": "Potage and Loaves Provision"
+    }
+  ],
+  "themes": [
+    "Provision",
+    "Prophetic authority",
+    "Hospitality",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How can communities create systems today to prevent desperate families from losing children or falling into debt servitude?",
+    "In what ways can hospitality and patronage be practiced now to support those in ministry or vulnerable neighbors?",
+    "When facing apparent scarcity or contamination, how should leaders combine practical measures (like adding meal) with ethical and spiritual discernment?",
+    "How do we respond pastorally to grieving parents and what practices of accompaniment or advocacy does this text model?"
+  ],
+  "uncertainAreas": "Uncertainties include the precise historical dating and editorial layers of the Elisha narratives; the exact nature and organization of the \"sons of the prophets\"; the theological significance of particular ritual gestures (e.g., Elisha’s laying on of mouth/eyes/hands and the child sneezing seven times) which may reflect ancient motif(s) whose full meaning is debated; and whether some miraculous details are symbolic, folkloric, or intended as literal reportage.",
+  "createdAt": "2025-11-03T18:47:40.859Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "2Kgs.17",
+  "briefOverview": "Narrates the fall and exile of the northern kingdom of Israel under Assyria and explains that exile as divine judgment for persistent idolatry and covenant unfaithfulness.",
+  "summary": "Hoshea reigns nine years in Samaria, becomes subject to Assyria, is imprisoned for conspiring with Egypt, and after a three‑year siege Samaria falls and the Israelites are deported to Assyria (vv.1–6). The narrator attributes the catastrophe to Israel’s long history of sin: idolatry, high places, child sacrifice, divination, and refusal to heed the prophets and the law (vv.7–23). After the deportation the Assyrian king resettles the land with peoples from Babylon, Cuthah, Hamath and elsewhere; their ignorance of local worship provokes the sending back of an Israelite priest to teach them (vv.24–29). These transplanted peoples adopt a mixed religion: they ",
+  "externalContext": "This chapter reflects the geopolitical reality of the late 8th century BCE when Assyria expanded westward; Samaria’s fall is usually dated ca. 722 BCE. Deportation and population transfer was a standard Assyrian imperial policy used to prevent revolt and to integrate conquered territory. The list of foreign gods (Nergal, Ashima, etc.) indicates Mesopotamian and Levantine religious influences among the resettled populations.",
+  "externalReferences": "The text explicitly links Israel’s religious policies to the reforms of Jeroboam, who set up calf‑idols at Bethel and Dan (see 1 Kings 12:26–33), an origin the narrator blames for persistent northern apostasy. The theological pattern of covenant disobedience leading to exile echoes Deuteronomic warnings (see Deuteronomy 4:25–31 and Deuteronomy 6:14–15) which promise national punishment if Israel follows other gods.",
+  "seeAlso": [
+    "1 Kings 12:26-33",
+    "Deuteronomy 4:25-31",
+    "Deuteronomy 6:14-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Hoshea and Samaria's Fall"
+    },
+    {
+      "range": "7-23",
+      "title": "Reasons: Covenant Unfaithfulness"
+    },
+    {
+      "range": "24-41",
+      "title": "Resettlement and Syncretism"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Covenant",
+    "Judgment",
+    "Syncretism"
+  ],
+  "practicalQuestions": [
+    "What practices or compromises in our communities might parallel the 'syncretism' criticized here, and how should leaders respond?",
+    "How can a religious community heed warnings (prophetic or ethical) before institutional failure occurs?",
+    "What responsibilities do conquerors or dominant institutions have toward the religious practices of transplanted populations?",
+    "How should we remember and teach historical failures so they inform present fidelity without becoming merely polemical?"
+  ],
+  "uncertainAreas": "Minor historical uncertainties include the precise Assyrian ruler(s) responsible for Samaria’s fall (the chapter names Shalmaneser, but later Assyrian records also mention Sargon II) and the exact identity or cultic character of some named deities. The narrator’s theological framing (Deuteronomic interpretation) shapes the account; disentangling the historical from the theological reconstruction is sometimes difficult.",
+  "createdAt": "2025-11-03T18:56:03.649Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

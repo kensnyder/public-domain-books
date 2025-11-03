@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "1Kgs.7",
+  "briefOverview": "The chapter details Solomon’s palace complex and the crafting of temple furnishings, highlighting elaborate architecture and expert bronze and gold work. It culminates in the completion of the LORD’s house and the placement of items dedicated by David into the temple treasury.",
+  "summary": "Solomon spends thirteen years building his own house and related structures, including the House of the Forest of Lebanon, a porch of pillars, a judgment hall, and a house for Pharaoh’s daughter, all of costly stone and cedar. The great court is built with hewn stones and cedar to correspond with the inner court of the LORD’s house. Solomon brings Hiram of Tyre, a master in bronze, to craft two monumental bronze pillars (named Jachin and Boaz) with ornate chapiters, networks, and pomegranates. Hiram also makes the great molten sea on twelve oxen, ten movable bronze stands with lavers, and various bronze utensils. The bronze work is cast in the Jordan plain and is so abundant it is left unweighed. Solomon then makes the gold altar, table for the bread of the Presence, ten lampstands, and other gold vessels and fittings; with the work finished, he brings in the treasures dedicated by David into the temple storehouses.",
+  "externalContext": "Tyre was a Phoenician maritime city renowned in the ancient Near East for skilled artisans and metalworkers, which explains Solomon’s enlistment of a Tyrian craftsman for large-scale bronze casting. Large foundries were often situated near river plains with clay suitable for molds; the Jordan plain between Succoth and Zarethan fits this industrial need. Royal palace complexes in the ancient Near East typically included judgment halls and auxiliary buildings, reflecting centralized administration and the king’s judicial role. Decorative motifs like lilies, pomegranates, lions, oxen, and palm trees were common in Levantine art and symbolized fertility, strength, and ordered creation.",
+  "externalReferences": "The temple furnishings closely echo the tabernacle patterns in Exodus (e.g., lampstand, table, altar; see Exodus 25–30), signaling continuity between wilderness worship and the permanent temple. The parallel account in 2 Chronicles 2–4 describes Huram’s craftsmanship and details similar furnishings, sometimes with variant measurements. The note that Solomon brought in items dedicated by David aligns with David’s setting aside spoils for the LORD (2 Samuel 8:11; cf. 1 Chronicles 26:26–28).",
+  "seeAlso": [
+    "Exodus 25:23-40",
+    "Exodus 30:1-10",
+    "Exodus 31:1-6",
+    "2 Samuel 8:11",
+    "1 Kings 5:1-18",
+    "2 Chronicles 2:13-14",
+    "2 Chronicles 3:15-17",
+    "2 Chronicles 4:1-6",
+    "1 Chronicles 26:26-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Royal complex construction"
+    },
+    {
+      "range": "13-22",
+      "title": "Bronze pillars Jachin and Boaz"
+    },
+    {
+      "range": "23-51",
+      "title": "Temple furnishings and completion"
+    }
+  ],
+  "themes": [
+    "Craftsmanship",
+    "Worship preparation",
+    "Royal splendor",
+    "Order and beauty"
+  ],
+  "practicalQuestions": [
+    "How does the chapter challenge my view of beauty and excellence in the spaces where I worship and serve?",
+    "What skills or craftsmanship in my community could be dedicated to God’s work, as Hiram dedicated his?",
+    "How do I steward resources that others before me have dedicated to God’s purposes?",
+    "What symbols or designs in our worship context help communicate God’s character and order without becoming distractions?",
+    "Where might cross-cultural collaboration advance wise and faithful work in service to God and neighbor?"
+  ],
+  "uncertainAreas": "The precise functions and symbolism of some items (e.g., the movable bases with lavers, the full significance of the pillar names Jachin and Boaz) are not explained in the text. The purpose of the House of the Forest of Lebanon (armory, audience hall, or storehouse) is not specified. There are known textual differences in measurements and capacities in parallel accounts (e.g., the molten sea’s capacity in 2 Chronicles 4:5), but this chapter itself does not address them.",
+  "createdAt": "2025-11-03T18:28:42.400Z",
+  "modelId": "gpt-5-2025-08-07"
+}

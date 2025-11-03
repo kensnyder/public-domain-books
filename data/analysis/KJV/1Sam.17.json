@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "1Sam.17",
+  "briefOverview": "A young David confronts the Philistine champion Goliath and, trusting God rather than conventional armor or arms, defeats him with a sling, reversing the army's fear into victory.",
+  "summary": "The Philistines and Israelites face off at the Valley of Elah, and the giant Goliath issues a forty-day challenge for single combat that terrifies Israel. Jesse's youngest son David arrives from Bethlehem to bring provisions to his brothers, hears Goliath's taunts, and volunteers to fight. David rejects Saul's armor, relies on skill from shepherding (a sling and five stones), and confronts Goliath in the name of the LORD. David strikes Goliath in the forehead with a stone, then uses Goliath's own sword to behead him; the Philistine army flees and Israel pursues, spoils the camp, and celebrates. David brings Goliath's head to Jerusalem and is presented to Saul, establishing his rising reputation.",
+  "externalContext": "The Philistines were an Aegean-related people often associated with superior metal weaponry (iron) in the early Iron Age, making clashes with Israel both military and cultural. Single combat or representative champions appears in ancient Near Eastern warfare as a way to decide or shame opponents without full-scale slaughter. Shepherding was a common youth occupation and trained boys in sling use; slings were effective ranged weapons in antiquity. Saul's kingship represents Israel's early hereditary monarchy under strain, and young men like David could gain prestige through military success.",
+  "externalReferences": "David's earlier selection and anointing as Saul's successor is narrated in 1 Samuel 16:1–13, which provides background for his later prominence. The label \"uncircumcised Philistine\" evokes Israel's covenant identity sealed by circumcision (see Genesis 17:9–14). David's later accession to kingship after Saul is recorded in 2 Samuel 5:4–5, linking this episode to his eventual rise to rule.",
+  "seeAlso": [
+    "1 Samuel 16:1-13",
+    "Genesis 17:9-14",
+    "2 Samuel 5:4-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Philistine Challenge"
+    },
+    {
+      "range": "12-37",
+      "title": "David Volunteers"
+    },
+    {
+      "range": "38-58",
+      "title": "Victory and Aftermath"
+    }
+  ],
+  "themes": [
+    "Courage",
+    "Faith",
+    "Divine deliverance",
+    "Underdog victory"
+  ],
+  "practicalQuestions": [
+    "When facing intimidation or overwhelming obstacles today, how do we decide whether to rely on conventional resources or on faith-driven action?",
+    "How can communities recognize and support unexpected or younger leaders who show competence and conviction?",
+    "In what ways can ordinary skills acquired in daily life (like David's shepherding) be reframed as resources for public service?",
+    "How should we interpret claims that success is \"the LORD's\" in situations involving violence, defeat, or national conflict?"
+  ],
+  "uncertainAreas": "Historic details such as Goliath's exact height (textual measurement variants) and precise archaeological correlation of named sites are debated. Motives behind characters' reactions (e.g., Eliab's anger) and theological claims about divine agency in battle allow multiple interpretations.",
+  "createdAt": "2025-11-03T17:48:57.473Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

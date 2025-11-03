@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "2Sam.5",
+  "briefOverview": "David is anointed king over all Israel, establishes Jerusalem as his capital, and wins decisive victories over the Philistines by following divine guidance.",
+  "summary": "All the tribes of Israel come to David at Hebron, acknowledge their kinship and his prior leadership, and make a covenant with him before the LORD, anointing him king over all Israel. David, thirty at the start of his reign, rules forty years—seven and a half in Hebron and thirty-three in Jerusalem. He captures the Jebusite stronghold of Zion, names it the City of David, fortifies it, and grows in stature because the LORD is with him. Hiram of Tyre sends materials and craftsmen to build David a house, leading David to perceive that the LORD has established his kingship for the sake of Israel; David also takes additional wives and has children in Jerusalem. When the Philistines twice mass in the Valley of Rephaim, David twice inquires of the LORD: first he is told to advance and wins at Baal-perazim, burning the Philistines’ idols; then he is told to circle behind and move at the sound in the treetops, signaling the LORD’s advance, resulting in a sweeping victory from Geba to Gezer.",
+  "externalContext": "Hebron, in Judah, served as David’s initial royal seat during a period when the northern tribes had followed Saul’s house; the move to Jerusalem unified the kingdom because the city was centrally located and, as a Jebusite enclave, not identified with any single tribe. The Jebusites were a Canaanite people who had long held Jerusalem, whose steep topography and fortifications made it strategically formidable. The Valley of Rephaim lies just southwest of Jerusalem, a natural corridor for forces approaching from the Philistine coastal plain. The Philistines were a powerful confederation along the southern Levantine coast in the 11th–10th centuries BCE, often in conflict with Israel. Tyre was a major Phoenician port; its cedar, craftsmen, and diplomatic relations (represented by Hiram) were prized throughout the region and signal international recognition of David’s rule.",
+  "externalReferences": "The shepherd-ruler language recalls David’s earlier role under Saul and his divine selection (e.g., 1 Samuel 18:13–16; 1 Samuel 16:12–13). Parallel accounts of the anointing, capture of Jerusalem, and Philistine battles appear in 1 Chronicles 11:1–9 and 1 Chronicles 14:8–17, which add details such as Joab’s role and variations in place names. The burning of the Philistines’ images aligns with Deuteronomic law against idols (Deuteronomy 7:5; 7:25). Isaiah 28:21 likely alludes to this victory by mentioning the LORD’s work “as at Mount Perazim,” echoing the naming of Baal-perazim here; Hiram’s assistance anticipates his later partnership with Solomon in building the temple (1 Kings 5:1–10).",
+  "seeAlso": [
+    "1 Samuel 16:12-13",
+    "1 Samuel 18:13-16",
+    "1 Chronicles 11:1-9",
+    "1 Chronicles 14:8-17",
+    "Deuteronomy 7:5",
+    "Deuteronomy 7:25",
+    "Isaiah 28:21",
+    "1 Kings 5:1-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "David anointed king"
+    },
+    {
+      "range": "6-10",
+      "title": "Capture of Jerusalem/Zion"
+    },
+    {
+      "range": "11-25",
+      "title": "House, family, and victories"
+    }
+  ],
+  "themes": [
+    "Unified kingship",
+    "Divine guidance",
+    "Jerusalem/Zion",
+    "Covenant and anointing",
+    "Victory over enemies"
+  ],
+  "practicalQuestions": [
+    "Before major decisions, where do I seek guidance, and how do I discern and act on it as David did?",
+    "Do I view leadership or influence as established for others’ sake rather than my own (v.12)?",
+    "What ‘strongholds’ in my context seem impenetrable, and what faithful, strategic steps might correspond to “going up the water shaft” to address them?",
+    "How do I respond to success—with self-congratulation or by naming the LORD’s action, as at Baal-perazim?",
+    "What competing loyalties or ‘idols’ do I need to remove decisively to align with God’s purposes?",
+    "When circumstances repeat, am I open to fresh strategies instead of assuming yesterday’s guidance automatically applies today?"
+  ],
+  "uncertainAreas": "Verse 8’s references to “the blind and the lame” and the phrase “get up to the gutter” are difficult; the latter likely means a water shaft used in the assault, and the former may be a taunt or proverb rather than a blanket judgment—parallels in 1 Chronicles 11 leave some ambiguity about wording and Joab’s role. The exact species of the “mulberry trees” and the nature of the “sound of a going” (vv.23–24) are not specified. The KJV spelling “Gazer” reflects Gezer; some textual traditions vary slightly on the endpoints of the pursuit.",
+  "createdAt": "2025-11-03T18:04:15.088Z",
+  "modelId": "gpt-5-2025-08-07"
+}

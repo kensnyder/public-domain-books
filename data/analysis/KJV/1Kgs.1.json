@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1Kgs.1",
+  "briefOverview": "David’s frailty triggers a succession crisis between Adonijah’s self-assertion and Solomon’s divinely-affirmed installation. The chapter establishes Solomon as king through David’s decree, priestly-prophetic anointing, and public acclamation.",
+  "summary": "David is old and unable to keep warm, attended by Abishag the Shunammite. Sensing opportunity, Adonijah elevates himself as king with support from Joab and Abiathar, excluding Solomon and key loyalists. Nathan counsels Bathsheba to remind David of his oath that Solomon would reign; Nathan confirms the report, prompting David to command Solomon’s immediate anointing at Gihon by Zadok and Nathan, with Solomon riding the king’s mule.\n\nSolomon is publicly anointed, the people rejoice, and word reaches Adonijah’s feast, scattering his supporters. Fearing retribution, Adonijah grasps the altar’s horns to seek safety, and Solomon grants conditional mercy: if Adonijah proves worthy, he will live; if wickedness is found, he will die.",
+  "externalContext": "Royal succession in the ancient Near East was often contested; primogeniture was not guaranteed, and public rites—anointing, trumpet blasts, and a royal mount—signaled legitimacy. The Gihon was a major water source near Jerusalem, an accessible site for public proclamation. The Cherethites and Pelethites, frequently mentioned as David’s elite guard, likely functioned as a loyal protective force around the king. Grasping the horns of the altar reflects a customary appeal for sanctuary, though Israelite law did not grant blanket immunity. The use of a young attendant to warm an elderly monarch reflects known ancient practices of therapeutic care and court service.",
+  "externalReferences": "Adonijah’s move echoes Absalom’s earlier bid for the throne (2 Samuel 15–18), highlighting recurring internal challenges in David’s house. Solomon’s anointing by a priest and endorsement by a prophet recall Saul’s and David’s anointings as signs of divine choice (1 Samuel 10:1; 16:13). The Davidic covenant promised a successor from David’s line (2 Samuel 7:12–16), and David’s designation of Solomon is narrated elsewhere (1 Chronicles 22:6–10; 28:5–7), framing Bathsheba’s appeal. Adonijah’s grasp of the altar fits assumptions about sanctuary, though the Torah limits altar-protection for deliberate killers (Exodus 21:12–14).",
+  "seeAlso": [
+    "2 Samuel 15-18",
+    "1 Samuel 10:1",
+    "1 Samuel 16:13",
+    "2 Samuel 7:12-16",
+    "1 Chronicles 22:6-10",
+    "1 Chronicles 28:5-7",
+    "Exodus 21:12-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "David’s frailty; Adonijah’s claim"
+    },
+    {
+      "range": "11-30",
+      "title": "Nathan and Bathsheba secure Solomon"
+    },
+    {
+      "range": "31-53",
+      "title": "Solomon anointed; Adonijah spared"
+    }
+  ],
+  "themes": [
+    "Succession",
+    "Legitimate authority",
+    "Prophetic counsel",
+    "Covenant promise",
+    "Mercy and justice"
+  ],
+  "practicalQuestions": [
+    "How can leaders plan clear, public transitions that minimize power struggles?",
+    "When should we seek counsel to appeal to authority rightly and prevent injustice?",
+    "What signals of legitimate authority should communities look for before rallying to a leader?",
+    "How do we balance mercy with accountability toward those who have acted ambitiously or deceitfully?",
+    "Where might personal ambition be clouding discernment of what is right or promised?"
+  ],
+  "uncertainAreas": "The text references David’s prior oath to enthrone Solomon but does not recount when it was first sworn; its timing and form are assumed rather than narrated here. The legal force of grasping the altar’s horns is not fully specified in this chapter, beyond its symbolic appeal for mercy. The identities of Shimei and Rei are not clarified in this chapter, and the exact locations of Zoheleth and En-rogel are noted but not explained.",
+  "createdAt": "2025-11-03T18:23:06.227Z",
+  "modelId": "gpt-5-2025-08-07"
+}

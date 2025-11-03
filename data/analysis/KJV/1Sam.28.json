@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "1Sam.28",
+  "briefOverview": "On the eve of battle with the Philistines, Saul—met with divine silence—resorts to a forbidden medium at Endor and hears a final word of judgment from Samuel’s spirit. The chapter also notes David’s alignment with Achish, setting up parallel crises for Israel’s leadership.",
+  "summary": "Achish tells David he will join the Philistine campaign against Israel, and David replies ambiguously, securing Achish’s confidence. With Samuel dead and the Philistines massed at Shunem, Saul is terrified and receives no answer from the LORD by dreams, Urim, or prophets. He then seeks out a woman with a familiar spirit at Endor, despite having previously expelled such practitioners, and under disguise asks her to summon Samuel. The woman perceives a figure described as an old man in a mantle, and Saul bows, recognizing Samuel; the apparition rebukes Saul, declaring that the LORD has turned against him, the kingdom has been given to David, and Israel will fall to the Philistines. Samuel foretells that Saul and his sons will die the next day. Overwhelmed and weakened from fasting, Saul is urged by the woman and his servants to eat; she prepares a meal, and they depart that night.",
+  "externalContext": "Ancient Israel’s law explicitly banned necromancy and consultation of mediums, a common practice in surrounding Ancient Near Eastern cultures for seeking guidance from the dead. Official means of divine guidance in Israel included prophetic words, dreams, and priestly oracles (Urim and Thummim). The Philistines were a dominant coastal power in the late second–early first millennium BCE, often clashing with Israel’s early monarchy. Endor lay north of Saul’s camp near Gilboa and near the Philistine position at Shunem; Saul’s nighttime approach suggests he risked passing behind enemy lines. At this point in 1 Samuel, David has sought refuge with Achish of Gath, complicating loyalties as Israel faces a major Philistine offensive.",
+  "externalReferences": "Saul’s resort to a medium transgresses Torah prohibitions (Deuteronomy 18:10–12; Leviticus 19:31; 20:6,27), and Isaiah later rebukes consulting the dead rather than God (Isaiah 8:19). Samuel’s message reiterates earlier judgments: the kingdom torn from Saul for disobedience concerning Amalek (1 Samuel 15:22–29) and the Spirit’s departure with David’s anointing (1 Samuel 16:13–14). The Chronicler later interprets Saul’s death as judgment for unfaithfulness and specifically for consulting a medium (1 Chronicles 10:13–14). The prophecy of defeat and death is fulfilled in Saul’s end at Mount Gilboa (1 Samuel 31:1–6).",
+  "seeAlso": [
+    "Deuteronomy 18:10-12",
+    "Leviticus 19:31",
+    "Leviticus 20:6,27",
+    "Isaiah 8:19",
+    "1 Samuel 15:22-29",
+    "1 Samuel 16:13-14",
+    "1 Samuel 31:1-6",
+    "1 Chronicles 10:13-14",
+    "1 Samuel 29:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Achish Enlists David"
+    },
+    {
+      "range": "3-19",
+      "title": "Saul Consults the Medium and Samuel"
+    },
+    {
+      "range": "20-25",
+      "title": "A Final Meal and Departure"
+    }
+  ],
+  "themes": [
+    "Divine silence",
+    "Disobedience and judgment",
+    "Forbidden divination",
+    "Fear and despair"
+  ],
+  "practicalQuestions": [
+    "Where do I turn for guidance when God seems silent, and what sources should I refuse even under pressure?",
+    "How do past acts of disobedience constrain or shape my present options and outcomes?",
+    "In moments of fear, how can I act consistently with my professed convictions rather than from desperation?",
+    "Who around me is in despair like Saul, and how might practical care (food, presence) serve them even when outcomes won’t change?",
+    "What practices help me seek and wait for God’s guidance through legitimate means?"
+  ],
+  "uncertainAreas": "The narrative presents the figure as Samuel and attributes speech to him, but interpreters debate whether this was a genuine appearance permitted by God or a deceptive phenomenon; the woman’s phrase “gods/spirits ascending” is also ambiguous. The immediacy of “tomorrow” and the phrase “you and your sons will be with me” (location in Sheol) involve interpretive nuances. The extent of David’s intended participation in the Philistine battle remains unresolved in this chapter and is clarified in the next.",
+  "createdAt": "2025-11-03T17:57:51.378Z",
+  "modelId": "gpt-5-2025-08-07"
+}

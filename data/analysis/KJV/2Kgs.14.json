@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.14",
+  "briefOverview": "Amaziah of Judah reigns with mixed fidelity, wins against Edom but is humbled and captured by Jehoash of Israel; Jeroboam II of Israel rises to a long, expansionist reign despite doing evil in the LORD’s sight.",
+  "summary": "Amaziah becomes king of Judah at twenty-five and reigns twenty-nine years; he does what is right but fails to remove high place worship and executes his father's murderers while sparing their children in keeping with the Mosaic law. He defeats Edom, takes Selah (renamed Joktheel), then provokes a confrontation with Jehoash king of Israel. Jehoash warns him with a parable, and when Amaziah persists, Israel defeats Judah at Beth-shemesh, Jehoash breaks down part of Jerusalem's wall and plunders the temple and royal treasures. Amaziah is later assassinated in a conspiracy; his son Azariah (Uzziah) succeeds him and restores Elath. In the north, Jeroboam II begins a forty-one-year reign, does evil by following the sins of Jeroboam son of Nebat, yet restores Israel’s territory from Hamath to the Dead Sea—an outcome the text attributes to a prior prophecy of Jonah and to the LORD’s preservation of Israel in their distress.",
+  "externalContext": "The narrative reflects the divided monarchy period (roughly 9th–8th century BCE) when Israel (north) and Judah (south) often clashed militarily and competed for territory. 'High places' were local cultic sites whose continued use marks incomplete religious reform in Jerusalem. Jeroboam II’s expansion is commonly dated to a time of Assyrian weakness, which allowed Israel to regain buffer territories. The reference to Mosaic law (fathers and children) fits Deuteronomic legal formulations known in the Hebrew Bible.",
+  "externalReferences": "The Mosaic legal principle cited (that sons should not be punished for fathers’ crimes) parallels Deuteronomy 24:16 which forbids collective punishment of descendants for the ancestors’ sins. The chapter’s note that the restoration of Israel’s borders occurred 'according to the word of the LORD... by Jonah son of Amittai' connects to the prophet Jonah (cf. Jonah 1:1 for identification of Jonah, though Jonah’s book does not narrate this specific oracle in detail). The historical placement of Jeroboam II corresponds with prophetic activity recorded in Amos 1:1, which situates Amos’ prophecies in the days of Jeroboam son of Joash and Uzziah of Judah.",
+  "seeAlso": [
+    "Deuteronomy 24:16",
+    "2 Chronicles 25",
+    "Jonah 1:1",
+    "Amos 1:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Amaziah's Early Reign"
+    },
+    {
+      "range": "8-15",
+      "title": "Conflict with Israel"
+    },
+    {
+      "range": "16-29",
+      "title": "Deaths and Jeroboam's Rise"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "War and Politics",
+    "Divine Providence",
+    "Prophecy and Restoration"
+  ],
+  "practicalQuestions": [
+    "How should leaders respond when success tempts them toward pride or risky aggression (as Amaziah is warned)?",
+    "What limits should justice and retribution have, in light of the law about not punishing children for parents' crimes?",
+    "How do communities weigh religious reform (removing high places) against political stability?",
+    "How should we understand situations where a nation prospers despite leadership that 'does evil'—what does this say about divine action and human responsibility?"
+  ],
+  "uncertainAreas": "The text alludes to Jonah's prophecy restoring Israel's borders but does not give the content or context of that oracle; the precise historic extent and dating of Jeroboam II’s territorial recovery remain debated by scholars. Identification of the place names (Selah/Joktheel) and the full political background of the Israel–Aram/Assyria dynamics at this moment are also not spelled out here.",
+  "createdAt": "2025-11-03T18:54:29.099Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

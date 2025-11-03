@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "1Chr.12",
+  "briefOverview": "A roster of warriors and tribes who joined David during his exile and at Hebron, showing growing support that secured his kingship and led to communal celebration.",
+  "summary": "The chapter lists individuals and groups who joined David at Ziklag and in the wilderness, emphasizing their martial skill and loyalty (1–15). David tests incoming men for sincerity (v.17) and Amasai, speaking under the spirit, publicly pledges allegiance (v.18). Additional fighters from Manasseh and other tribes attach themselves to David (vv.19–22). Large, enumerated contingents from nearly all tribes assemble at Hebron to make David king, each described by numbers and special capacities (vv.23–37). The assembled forces come 'with a perfect heart' and stay three days in feasting, with abundant provisions brought from neighboring regions (vv.38–40).",
+  "externalContext": "The Books of Chronicles were compiled after the Babylonian exile and often reshape earlier material to emphasize legitimate, divinely sanctioned kingship and proper cultic leadership. The scenes here correspond to episodes in the Samuel narratives (David's flight, stay at Ziklag, and anointment at Hebron) and reflect ancient Israelite values that prized banded military followers ('mighty men'), tribal militias, and priestly support. The chronicler also pays attention to Levites and Aaronites, fitting his broader interest in temple and priestly institutions.",
+  "externalReferences": "Many names and themes here overlap with lists of David's warriors in 2 Samuel 23:8–39 and the broader account of David becoming king in 2 Samuel 5:1–5. The Ziklag background and raids on David's men are narrated in 1 Samuel 27–30; 1 Chronicles 11 contains a related roster of David's 'mighty men' and earlier traditions the chronicler reworks.",
+  "seeAlso": [
+    "2 Samuel 23:8-39",
+    "2 Samuel 5:1-5",
+    "1 Samuel 27:1-30:31",
+    "1 Chronicles 11:10-47"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Early Warrior Lists"
+    },
+    {
+      "range": "16-22",
+      "title": "Test and Allegiance"
+    },
+    {
+      "range": "23-40",
+      "title": "Tribal Muster and Feast"
+    }
+  ],
+  "themes": [
+    "Loyalty",
+    "Military readiness",
+    "Unity",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How do we discern genuine loyalty and service in those who come to support a leader or cause (cf. v.17)?",
+    "In what ways can communities today cultivate the 'one heart' unity described in v.38 while preserving healthy dissent?",
+    "How should modern institutions recognize and integrate the specialized skills individuals bring, as the chapter emphasizes martial expertise?",
+    "What responsibilities do communities have to celebrate and provision those who commit to common defense or public service (cf. vv.39–40)?"
+  ],
+  "uncertainAreas": "Exact historicity and dating of the lists and numbers are debated; the relationship between this catalogue and parallel lists in Samuel (overlap vs. editorial reworking) is not fully determinable from the chapter alone. Some names recur elsewhere, making precise identification uncertain.",
+  "createdAt": "2025-11-03T19:07:01.030Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

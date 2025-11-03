@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "1Sam.14",
+  "briefOverview": "Jonathan takes bold initiative against the Philistines and sparks a rout, while Saul's rash oath and leadership decisions create crisis and tension within Israel.",
+  "summary": "Jonathan and his armor-bearer secretly attack a Philistine outpost, kill about twenty men, and their small victory triggers panic across the Philistine camp so that the two armies fall into confusion. Saul orders a public count, consults the ark, and the battle turns decisively in Israel’s favor as hidden Israelite fighters join the pursuit. Saul then makes a rash oath forbidding any food until evening; the troops grow faint but refrain from eating until Jonathan, unaware of the oath, eats honey and is refreshed. Others seize spoils and eat meat with the blood, which is reported as a violation of the law, prompting Saul to force the people to slaughter animals properly and to build an altar. Saul seeks divine guidance about pursuing the Philistines but receives no answer; he then casts lots, which implicate Jonathan, and the people intervene to spare Jonathan’s life. The chapter closes with a brief summary of Saul’s wider military actions and his family and household officials.",
+  "externalContext": "The Philistines were a dominant coastal, iron-age military power in the southern Levant; their presence posed a recurrent military threat to Israelite tribes in the hill country. Israel at this time is transitioning from loose tribal leadership toward centralized monarchy under Saul; religious authority remains tied to the priesthood (Shiloh, the ark, and the ephod). The prohibition on consuming blood is codified in the Pentateuch (see Leviticus) and shaped Israelite ritual practice.",
+  "externalReferences": "Leviticus 17:10–14 establishes the prohibition against consuming blood and requires that blood be poured out at the altar, which helps explain why eating meat with the blood is described as sin in verse 33.\n\n1 Samuel 13:8–14 records an earlier episode where Saul acted without proper priestly/sacrificial process (offering a sacrifice himself) and was rebuked by Samuel; that precedent helps situate Saul’s recurring pattern of rash religious decisions and problematic leadership in this chapter.",
+  "seeAlso": [
+    "Leviticus 17:10-14",
+    "1 Samuel 13:8-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-23",
+      "title": "Jonathan's Surprise Victory"
+    },
+    {
+      "range": "24-35",
+      "title": "Oath, Honey, and Blood"
+    },
+    {
+      "range": "36-46",
+      "title": "Inquiry, Lots, and Rescue"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Initiative and faith",
+    "Rash leadership",
+    "Oath and law"
+  ],
+  "practicalQuestions": [
+    "When is individual initiative (like Jonathan’s) appropriate within a community or organization, and how should leaders respond to successful subordinates who act independently?",
+    "How should leaders weigh the moral force of vows or public commitments against the immediate needs and welfare of people under their care?",
+    "What safeguards can a community put in place to prevent rash religious or moral decisions from causing harm?",
+    "How do ritual laws (e.g., prohibitions about blood) interact with practical exigencies in times of war or crisis?"
+  ],
+  "uncertainAreas": "It is unclear why God did not answer Saul when he inquired (v. 37): the text does not state whether this silence is due to Saul’s earlier behavior, a suspended prophetic presence, or other reasons. The precise legal status and communal understanding of the soldiers’ eating with blood in this specific campaign is also somewhat ambiguous in the narrative context (intentional transgression versus ignorance).",
+  "createdAt": "2025-11-03T17:47:24.579Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

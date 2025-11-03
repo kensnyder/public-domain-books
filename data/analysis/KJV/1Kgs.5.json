@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1Kgs.5",
+  "briefOverview": "Solomon secures materials and a treaty with Hiram of Tyre to prepare for building the temple, organizing large-scale labor and resources for the project.",
+  "summary": "Hiram of Tyre, a friend to David, sends envoys to Solomon, who explains that David could not build the LORD’s house due to warfare, but that he now has rest and will fulfill the promise that David’s son would build it. Solomon requests Lebanon cedar and skilled Sidonian workmanship, offering wages; Hiram gladly agrees, blessing the LORD, and proposes floating the timber by sea to a designated port in exchange for food for his household. An annual provision arrangement is made, and the text notes the LORD’s gift of wisdom to Solomon and the peaceful alliance between the two kings. Solomon then levies thirty thousand workers from Israel on a rotating schedule, assigns Adoniram over the levy, and engages additional burden-bearers, stonecutters, and supervisors. Great, costly stones are quarried and hewn, and Solomon’s and Hiram’s builders together prepare the timber and stones to lay the temple’s foundations.",
+  "externalContext": "Tyre was a leading Phoenician city-state known for maritime trade, shipbuilding, and skilled artisanship, especially in timber from the Lebanon ranges. Cedar and cypress (often called “fir” in older translations) were prized in the ancient Near East for durability and use in monumental architecture. Royal corvée (compulsory labor) was a common state practice across the region for major building projects, often arranged in rotations to balance agricultural cycles. Transporting logs by sea as rafts to a nearby port (later specified as Joppa in Chronicles) reflects standard Phoenician logistics for heavy materials.",
+  "externalReferences": "Solomon’s claim that David’s son would build the house of the LORD reflects the promise given to David (2 Samuel 7:12–13; see also 1 Chronicles 22:7–10; 28:2–7). The note that the LORD gave Solomon wisdom echoes the earlier divine grant (1 Kings 3:12), and the description of rest on every side aligns with the ideal of a divinely chosen central sanctuary once Israel had rest (Deuteronomy 12:10–11). The organization of labor anticipates later clarifications about who was made into forced laborers (1 Kings 9:20–22), and parallels and elaborations of the Tyrian partnership appear in the Chronicler’s account (2 Chronicles 2:3–16).",
+  "seeAlso": [
+    "2 Samuel 7:12-13",
+    "1 Chronicles 22:7-10",
+    "1 Chronicles 28:2-7",
+    "Deuteronomy 12:10-11",
+    "1 Kings 3:12",
+    "1 Kings 4:24-25",
+    "1 Kings 9:20-22",
+    "2 Chronicles 2:3-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Solomon’s Temple Intent"
+    },
+    {
+      "range": "6-12",
+      "title": "Treaty With Hiram"
+    },
+    {
+      "range": "13-18",
+      "title": "Labor and Materials Prepared"
+    }
+  ],
+  "themes": [
+    "Temple preparation",
+    "Wisdom and peace",
+    "International alliance",
+    "Labor conscription"
+  ],
+  "practicalQuestions": [
+    "How can seasons of peace or stability be used to pursue long-term, God-centered projects?",
+    "What principles of fair exchange and mutual benefit emerge from Solomon’s treaty with Hiram?",
+    "How should leaders balance large-scale goals with the burden their plans place on people?",
+    "What forms of skilled collaboration are necessary for excellent, lasting work today?",
+    "How can wise planning and organization prevent exploitation while achieving major objectives?"
+  ],
+  "uncertainAreas": "The exact nature of the levy—whether temporary corvée of Israelites or a distinct category from the later bond-labor noted in 1 Kings 9:20–22—can be read in different ways. The identification of “fir” may refer to cypress, and the specific measures (especially the oil) differ from Chronicles, suggesting variant textual traditions or units. The destination port for the floated timber is not named here (Chronicles later specifies Joppa).",
+  "createdAt": "2025-11-03T18:26:36.578Z",
+  "modelId": "gpt-5-2025-08-07"
+}

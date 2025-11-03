@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "2Sam.20",
+  "briefOverview": "Sheba sparks a fresh revolt against David; Joab reasserts military control by killing Amasa and ending the uprising through a negotiated surrender at Abel Beth-maacah, followed by a list of David’s officials.",
+  "summary": "A Benjamite named Sheba calls the northern tribes to secede from David, and Israel follows him while Judah remains with the king. Returning to Jerusalem, David confines the ten concubines Absalom had violated, providing for them but not resuming relations. David orders Amasa to muster Judah, but when he delays, Abishai is sent; Joab meets Amasa on the march and murders him, then continues the pursuit. Sheba fortifies himself in Abel Beth-maacah, which Joab besieges. A wise woman negotiates with Joab, and the townspeople execute Sheba, ending the revolt. Joab returns to Jerusalem, and the chapter records David’s administrative leaders.",
+  "externalContext": "This episode follows Absalom’s civil war, amid ongoing tribal rivalries between the northern tribes (often called “Israel”) and Judah, the king’s tribe, a fault line traceable to Saul’s earlier Benjamite dynasty. The Cherethites and Pelethites mentioned were elite royal guards, likely foreign mercenary units, reflecting a common ancient Near Eastern practice of relying on loyal, non-tribal troops. Abel Beth-maacah was a fortified northern city near Israel’s border, making it a strategic refuge for rebels and a priority target for royal forces. Ancient siege practice included building ramps and battering walls; cities sometimes averted destruction by surrendering offenders to satisfy the besieger’s demand.",
+  "externalReferences": "Sheba’s revolt grows from the quarrel between Judah and Israel in 2 Samuel 19:41–43, where the tribes argued over the king’s restoration. David’s confinement of the ten concubines relates back to Absalom’s public appropriation of them in 2 Samuel 16:21–22. Joab’s killing of Amasa echoes his earlier assassination of Abner (2 Samuel 3:27), and David later cites both murders when instructing Solomon to address Joab’s bloodguilt (1 Kings 2:5–6, 32). The roster of officials recalls an earlier list of David’s administration (2 Samuel 8:15–18), with Joab again functioning as commander despite David’s attempt to replace him (cf. 2 Samuel 19:13).",
+  "seeAlso": [
+    "2 Samuel 19:41-43",
+    "2 Samuel 19:13",
+    "2 Samuel 16:21-22",
+    "2 Samuel 3:27",
+    "1 Kings 2:5-6",
+    "1 Kings 2:28-34",
+    "2 Samuel 8:15-18",
+    "1 Kings 1:38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Sheba’s revolt; David’s return"
+    },
+    {
+      "range": "4-13",
+      "title": "Amasa’s delay and death"
+    },
+    {
+      "range": "14-26",
+      "title": "Siege resolved; officials listed"
+    }
+  ],
+  "themes": [
+    "Rebellion and loyalty",
+    "Tribal division",
+    "Pragmatic violence",
+    "Peacemaking wisdom",
+    "Royal authority"
+  ],
+  "practicalQuestions": [
+    "When factions emerge, how can wise mediation prevent broader harm to a community?",
+    "What are the risks of pursuing quick, pragmatic solutions that compromise justice or process?",
+    "How should leaders handle appointments and transitions when trust in old and new commanders is fragile?",
+    "In conflicts, what boundaries should govern the treatment of noncombatants and bystanders?",
+    "How can communities resist being swept up by charismatic calls to division without losing legitimate grievances?"
+  ],
+  "uncertainAreas": "The phrase “a man of mount Ephraim” (v.21) alongside Sheba’s identification as a Benjamite (v.1) may reflect geographic movement, a textual nuance, or mixed affiliations; the text does not clarify. Amasa’s reason for delaying the muster is unstated. The identity of “the Berites” (v.14) is unclear. Names in the official list (e.g., Sheva/Shavsha; Adoram/Adoniram) vary across passages and manuscripts, making exact identification uncertain.",
+  "createdAt": "2025-11-03T18:17:49.424Z",
+  "modelId": "gpt-5-2025-08-07"
+}

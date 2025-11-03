@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Sam.24",
+  "briefOverview": "David orders a census that provokes divine judgment, then intercedes and builds an altar at Araunah’s threshing floor, where the plague is stayed.",
+  "summary": "Provoked by the LORD’s anger against Israel, David commands a census of Israel and Judah despite Joab’s hesitation. After nine months, Joab reports 800,000 fighting men in Israel and 500,000 in Judah, but David’s conscience strikes him and he confesses sin. Through the prophet Gad, God offers three judgments; David chooses to fall into the LORD’s hand, and a plague kills seventy thousand. As the destroying angel approaches Jerusalem, the LORD relents and halts the angel at the threshing floor of Araunah the Jebusite. David pleads that the punishment fall on him rather than the people. Directed by Gad, David purchases Araunah’s threshing floor (refusing a gift that costs him nothing), builds an altar, offers burnt and peace offerings, and the plague is stopped.",
+  "externalContext": "In the ancient Near East, royal censuses often served military conscription and taxation, symbolizing a king’s reliance on national strength. Israelite law associated numbering the people with a required atonement payment to avert a plague, suggesting spiritual risk in counting without divine sanction. Threshing floors were elevated, wind-exposed sites used for processing grain and often became public or cultic locations. Burnt offerings signified total consecration, and peace offerings expressed fellowship and gratitude. Royal prophets or seers like Gad functioned as authorized intermediaries to convey divine instruction to the king.",
+  "externalReferences": "A parallel account in 1 Chronicles 21:1–30 attributes the provocation to Satan and preserves similar events, while differing in some details, including the famine’s duration and the purchase price. Exodus 30:11–16 instructs that a ransom be paid when the people are numbered to prevent a plague, illuminating why an unauthorized census could incur judgment. 2 Chronicles 3:1 identifies Araunah’s (Ornan’s) threshing floor on Mount Moriah as the site where Solomon later built the temple, linking this episode to the temple’s location and, by extension, to Genesis 22:2’s land of Moriah.",
+  "seeAlso": [
+    "Exodus 30:11-16",
+    "1 Chronicles 21:1-30",
+    "2 Chronicles 3:1",
+    "Genesis 22:2",
+    "Numbers 16:46-50",
+    "Exodus 32:30-32",
+    "Psalm 20:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Census of Israel and Judah"
+    },
+    {
+      "range": "10-17",
+      "title": "Judgment and David’s Plea"
+    },
+    {
+      "range": "18-25",
+      "title": "Altar at Araunah; Plague Stayed"
+    }
+  ],
+  "themes": [
+    "Leadership accountability",
+    "Divine judgment and mercy",
+    "Repentance",
+    "Sacrifice",
+    "Trust in God"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to rely on numbers, strength, or metrics rather than trusting God’s provision and guidance?",
+    "How do I respond when conscience convicts me—do I confess quickly and seek restoration as David did?",
+    "In positions of influence, how can I take responsibility and intercede for those affected by my decisions?",
+    "What does it mean for my worship or generosity to be truly costly rather than convenient?",
+    "When facing consequences, how can I entrust myself to God’s mercy rather than to human strategies or pride?"
+  ],
+  "uncertainAreas": "Why the census is sinful is not explicitly stated (possible issues include pride, lack of divine authorization, or neglect of the ransom in Exodus 30). The text says the LORD moved David, while 1 Chronicles 21:1 attributes the provocation to Satan—raising questions of agency. There are discrepancies between Samuel and Chronicles regarding the famine’s duration, troop totals, and the purchase price, which interpreters harmonize in different ways.",
+  "createdAt": "2025-11-03T18:22:12.702Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "1Sam.23",
+  "briefOverview": "David repeatedly seeks divine guidance while protecting Judah and evading Saul; Jonathan reaffirms David’s destined kingship. Local alliances shift, culminating in a narrow escape when Saul is diverted by a Philistine incursion.",
+  "summary": "Hearing that the Philistines are plundering Keilah, David consults the LORD, receives permission, and with his men defeats the Philistines, saving the town. With Abiathar the priest and the ephod present, David inquires again when Saul plans to besiege him in Keilah, learning that Saul will come and the townspeople would surrender him, so he departs with about six hundred men. David then hides in the wilderness of Ziph, where Saul seeks him daily, but God does not deliver him into Saul’s hand. Jonathan visits David, strengthens him in God, and affirms that David will be king, renewing their covenant. The Ziphites inform Saul of David’s whereabouts; Saul coordinates a careful search, and in the wilderness of Maon he nearly captures David. A sudden Philistine invasion forces Saul to break off the pursuit, and David relocates to the strongholds of En-gedi.",
+  "externalContext": "In ancient Israel, fortified towns with “gates and bars” offered protection but could become traps during sieges. The ephod associated with the high priest was used for sacred inquiry, likely involving the Urim and Thummim, to seek God’s guidance on specific questions. Keilah, Ziph, Maon, and En-gedi are in Judah’s hill country and wilderness regions near the Dead Sea, areas suited for fugitives using caves and strongholds. The Philistines were a constant military threat in the late 11th century BCE, often drawing royal forces away from internal pursuits. Tribal levies under Saul could be mustered quickly, but loyalty among local clans could be divided when harboring a royal fugitive risked reprisal.",
+  "externalReferences": "Abiathar’s arrival with the ephod follows the massacre at Nob and his flight to David (1 Samuel 22:20–23), and the ephod’s role in inquiry relates to prescriptions about Urim and Thummim (Exodus 28:30; Numbers 27:21). Jonathan’s assurance that David will be king coheres with David’s earlier anointing by Samuel (1 Samuel 16:1–13) and echoes the covenantal loyalty forged between David and Jonathan (1 Samuel 20:12–17). The Ziphites’ betrayal corresponds with the superscription of Psalm 54, “when the Ziphites went and told Saul,” and they later report on David again near the hill of Hachilah (1 Samuel 26:1–3).",
+  "seeAlso": [
+    "1 Samuel 22:20-23",
+    "Exodus 28:30",
+    "Numbers 27:21",
+    "1 Samuel 16:1-13",
+    "1 Samuel 20:12-17",
+    "Psalm 54:1-7",
+    "1 Samuel 26:1-3",
+    "2 Samuel 5:17-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Keilah saved; oracle and escape"
+    },
+    {
+      "range": "14-18",
+      "title": "Jonathan strengthens David"
+    },
+    {
+      "range": "19-29",
+      "title": "Ziphites betray; narrow escape"
+    }
+  ],
+  "themes": [
+    "Divine guidance",
+    "Providence",
+    "Loyalty and betrayal",
+    "Kingship promise",
+    "Prudence and courage"
+  ],
+  "practicalQuestions": [
+    "How do I seek clear guidance from God before taking risky action that affects others?",
+    "When fear arises among those I lead, how can I combine courage with prudence, as David does?",
+    "Where might I be tempted to compromise loyalty under pressure, like the men of Keilah or the Ziphites?",
+    "Who strengthens my faith in times of vulnerability, as Jonathan did for David—and whom can I strengthen?",
+    "How can I recognize and give thanks for providential interruptions that protect me from harm?"
+  ],
+  "uncertainAreas": "The precise mechanism of inquiry using the ephod (e.g., Urim and Thummim) is not described; the determinism vs. conditionality of the LORD’s oracle about Saul’s coming and Keilah’s betrayal is debated; the exact meaning of Sela-hammahlekoth (“rock of escapes/division”) and the detailed geography of the pursuit in Maon are uncertain.",
+  "createdAt": "2025-11-03T17:53:38.527Z",
+  "modelId": "gpt-5-2025-08-07"
+}

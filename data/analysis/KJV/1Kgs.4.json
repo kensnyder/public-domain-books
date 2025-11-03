@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "1Kgs.4",
+  "briefOverview": "The chapter catalogs Solomon’s administrative structure and the reach and prosperity of his reign, culminating in an emphasis on his God-given wisdom and international fame.",
+  "summary": "Solomon’s royal court is organized with key officials over the army, priesthood, record-keeping, household, tribute, and provincial officers. Twelve district officers supply the king’s household month by month, their jurisdictions spanning both sides of the Jordan, with some officials allied by marriage to Solomon. The population prospers and rejoices, while Solomon’s rule extends from the river to the land of the Philistines and to Egypt’s border, with surrounding kingdoms bringing tribute. Daily provisions for the royal table are vast, yet the officers keep supplies flowing without lack; the realm enjoys peace and security, described as each person dwelling under his vine and fig tree. Solomon maintains a large chariot force and cavalry; fodder is systematically provided. God grants him extraordinary wisdom and breadth of understanding, expressed in proverbs, songs, and knowledge of nature, drawing visitors and rulers from far-off lands to hear him.",
+  "externalContext": "Ancient Near Eastern monarchies commonly employed bureaucracies with scribes, recorders, and stewards managing civil, military, and fiscal affairs. Provisioning a royal court by rotating districts is attested in various forms across the region and functioned as an in-kind tax system. The phrase “from Tiphsah to Gaza” frames an imperial horizon that likely references the Euphrates in the north/east and the Philistine coast in the southwest, a typical way to signal dominance over key trade routes. “Sitting under one’s vine and fig tree” was an idiom for settled peace and personal security in the Levant. Chariotry and horse imports were prestige military assets in the early Iron Age, tied to diplomacy and trade networks with Egypt and north Syrian states.",
+  "externalReferences": "The chapter’s portrayal of wisdom fulfills God’s promise to Solomon in 1 Kings 3:12 and anticipates international recognition in 1 Kings 10:1–9 (the Queen of Sheba). The claim that Solomon authored many proverbs and songs aligns with headings such as Proverbs 1:1 and Song of Songs 1:1, while the comparison with Ethan and Heman recalls figures named in Psalm titles (Psalm 89 title; Psalm 88 title). The territorial extent “from the river … to the border of Egypt” echoes boundary promises given to Israel (Genesis 15:18; Exodus 23:31). Solomon’s accumulation of horses (v. 26) invites comparison with the royal cautions of Deuteronomy 17:16.",
+  "seeAlso": [
+    "1 Kings 3:12",
+    "1 Kings 10:1-9",
+    "Proverbs 1:1",
+    "Song of Songs 1:1",
+    "Psalm 88:title",
+    "Psalm 89:title",
+    "Genesis 15:18",
+    "Exodus 23:31",
+    "Deuteronomy 17:16",
+    "Micah 4:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Royal court appointments"
+    },
+    {
+      "range": "7-28",
+      "title": "District governors and prosperity"
+    },
+    {
+      "range": "29-34",
+      "title": "Wisdom, writings, and fame"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Administration",
+    "Prosperity",
+    "Peace",
+    "International renown"
+  ],
+  "practicalQuestions": [
+    "How can thoughtful delegation and clear roles sustain a large community without neglecting justice or burdening people?",
+    "What safeguards help leaders steward abundance so that prosperity benefits the whole community?",
+    "In what ways can careful study of the natural world contribute to wise leadership today?",
+    "How might we measure and cultivate genuine peace and security in our neighborhoods and institutions?",
+    "What are the risks and responsibilities that come with international prestige and material strength?"
+  ],
+  "uncertainAreas": "Listing Abiathar as priest (v. 4) seems in tension with his earlier removal in 1 Kings 2:26–27; this may reflect chronology or source arrangement. The figure of “forty thousand” stalls (v. 26) differs from “four thousand” in 2 Chronicles 9:25, suggesting a textual or numerical tradition issue. Some official identifications (e.g., Azariah’s parentage and the precise boundaries of several districts) are difficult to reconstruct with certainty.",
+  "createdAt": "2025-11-03T18:26:01.374Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "1Chr.15",
+  "briefOverview": "David arranges for the ark of the covenant to be brought to Jerusalem, organizing Levites, priests, and musicians and insisting on proper ritual order.",
+  "summary": "David prepares a dwelling for the ark in the city of David and instructs that only Levites carry it, assembling the leading families and naming chiefs. He requires sanctification because a previous attempt had failed, and the Levites carry the ark with staves as commanded in the Mosaic instructions. David appoints singers, instrumentalists, doorkeepers, and trumpeters, giving many names and musical roles. The procession brings the ark from the house of Obed-edom with offerings of seven bullocks and seven rams; David and the Levites wear linen and celebrate with shouting and instruments. As the ark arrives, Michal watches David dancing and despises him in her heart.",
+  "externalContext": "In Israelite religion the ark symbolized God's presence and was treated with strict ritual rules; Levitical families had hereditary responsibilities for tabernacle/temple service. Moving the ark to Jerusalem reflects David's political and religious program to centralize worship in the newly established capital. Mosaic legislation (e.g., Exodus, Numbers) prescribes that certain Levites carry the ark on poles rather than touching it directly.",
+  "externalReferences": "This chapter connects directly to the failed earlier attempt to move the ark recorded in 1 Chronicles 13 (and 2 Samuel 6:6–11), where Uzzah’s death prompted a pause and the need for proper order. The instruction to carry the ark with staves and Levitical duties echoes Mosaic law (see Exodus 25:14; Numbers 4:15). The parallel narrative in 2 Samuel 6 recounts many of the same events, including Michal’s reaction to David.",
+  "seeAlso": [
+    "1 Chronicles 13:1-14",
+    "2 Samuel 6:1-23",
+    "Exodus 25:10-15",
+    "Numbers 4:15",
+    "Psalm 132:8-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Preparation and Sanctification"
+    },
+    {
+      "range": "16-29",
+      "title": "Musicians and Procession"
+    }
+  ],
+  "themes": [
+    "Worship",
+    "Holiness",
+    "Leadership",
+    "Music"
+  ],
+  "practicalQuestions": [
+    "How does a community balance reverence for sacred objects with accessible worship practices today?",
+    "In what ways should leaders model humility and appropriate conduct during public worship?",
+    "How can ritual mistakes be acknowledged and corrected without discouraging participation?",
+    "What role does music and communal celebration play in fostering religious identity?"
+  ],
+  "uncertainAreas": "The text refers to a prior breach without restating details (the Uzzah episode), so readers must connect this chapter to earlier accounts; the motivations behind Michal’s contempt and the full significance of David’s public dancing are open to interpretive variation. Some named roles and musical terms (e.g., Alamoth, Sheminith) have uncertain technical meanings in the original context.",
+  "createdAt": "2025-11-03T19:08:57.273Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Kgs.19",
+  "briefOverview": "Hezekiah responds to Assyrian threats with prayer and prophetic counsel; God promises and effects deliverance for Jerusalem.",
+  "summary": "When Hezekiah receives Rab-shakeh’s insulting letter and news of the Assyrian advance, he tears his clothes, dons sackcloth, and sends officials to consult Isaiah the prophet. Isaiah reassures Hezekiah that the LORD has heard his prayer and will defend Jerusalem, pronouncing judgment on Sennacherib for blaspheming the Holy One of Israel. The prophet predicts the Assyrian king will withdraw to his own land and will not attack Jerusalem, and gives a sign concerning agricultural recovery over three years and the survival and restoration of a remnant. God declares that he will defend the city for his own sake and for the sake of David. That night the angel of the LORD strikes down 185,000 in the Assyrian camp; Sennacherib returns to Nineveh, where he is later killed by his sons and succeeded by Esarhaddon.",
+  "externalContext": "The episode fits the late 8th/early 7th century BCE Assyrian campaigns into the Levant under Sennacherib (historically dated to c. 701 BCE). Assyrian siege warfare, deportation policies, and public boasting through envoys like the 'Rab‑shakeh' form the background to the political and religious crisis for Judah. The chapter's emphasis on the Davidic line reflects longstanding royal theology rooted in promises to David (e.g., 2 Samuel 7).",
+  "externalReferences": "This chapter closely parallels Isaiah 37 and the account in 2 Chronicles 32, which recount the same siege and divine deliverance. The promise to defend Jerusalem 'for David's sake' echoes the Davidic covenant language (see 2 Samuel 7:12–16). The sudden destruction of the Assyrian army is also described in Isaiah 37:36.",
+  "seeAlso": [
+    "Isaiah 37",
+    "2 Kings 18",
+    "2 Chronicles 32",
+    "2 Samuel 7:12-16",
+    "Isaiah 36"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Hezekiah's Distress"
+    },
+    {
+      "range": "8-21",
+      "title": "Prophetic Reproof"
+    },
+    {
+      "range": "22-37",
+      "title": "Divine Deliverance"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Prophecy",
+    "Divine deliverance",
+    "Remnant"
+  ],
+  "practicalQuestions": [
+    "When facing political or personal crisis, how does this chapter suggest we combine prayer, counsel, and prophetic insight?",
+    "What does trusting 'for my own sake and for David's sake' teach about God's reasons for acting — how should that shape our expectations today?",
+    "How should communities remember and interpret past deliverances without letting them replace ongoing ethical responsibility?",
+    "In what ways does the text challenge modern readers to respond to rhetoric that mocks or denies God?"
+  ],
+  "uncertainAreas": "Historical elements that are debated include whether the death of 185,000 is to be taken as a precise literal figure or as a theological hyperbole, the exact historical timing of Sennacherib's assassination relative to the siege, and the nature of 'the angel of the LORD' (a theophanic figure, an agentic messenger, or literary device). The 'three-year' agricultural sign can be read either as pragmatic siege-recovery advice or as part of a prophetic reassurance; the text allows both readings.",
+  "createdAt": "2025-11-03T18:57:23.153Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

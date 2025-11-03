@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.22",
+  "briefOverview": "During Josiah’s reign a book of the law is found in the temple; the king’s repentant reaction leads him to consult the prophetess Huldah, who announces judgment for the nation but peace for Josiah personally.",
+  "summary": "Josiah, who reigned from age eight and “did right” in the ways of David, commissions repairs on the house of the LORD in his eighteenth year. In the course of those repairs Hilkiah the high priest discovers a \"book of the law,\" which Shaphan the scribe reads to the king. Distressed, Josiah tears his clothes and sends Hilkiah, several officials, and Shaphan to inquire of the LORD through Huldah the prophetess. Huldah delivers a message that the LORD will bring disaster on Jerusalem because the people have forsaken him and practiced idolatry, but she assures that because Josiah humbled himself and wept, he will be spared seeing that calamity and will die in peace. The delegation returns and brings the prophetess’ words to the king.",
+  "externalContext": "Scholars commonly date Josiah’s reign to the late 7th century BCE (c. 640–609 BCE); the account fits a historical context of temple repair and religious reform in Judah shortly before the Babylonian crisis. The \"book of the law\" is often identified by scholars as an early form or core of Deuteronomy (or Deuteronomic material), a text closely tied to covenantal demands and curses that would have spurred reform. Huldah’s status as a prophetess in Jerusalem reflects that prophetic authority was not strictly male and that kings consulted established prophetic figures for oracle decisions.",
+  "externalReferences": "The language of covenant curses and impending disaster echoes Deuteronomy’s covenant warnings (e.g., Deuteronomy 28). Josiah’s subsequent reform movement is narrated immediately after this chapter (see 2 Kings 23), and a parallel retelling of the discovery and reform appears in 2 Chronicles 34:14–33. Huldah’s prophetic role in Jerusalem is unique here but consistent with other prophetic warnings about national unfaithfulness (compare Jeremiah’s announcements of judgment in Jeremiah).",
+  "seeAlso": [
+    "Deuteronomy 28",
+    "2 Kings 23:1-25",
+    "2 Chronicles 34:8-33",
+    "Jeremiah (various warnings)"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Josiah's Reign"
+    },
+    {
+      "range": "3-11",
+      "title": "Temple Repairs and Discovery"
+    },
+    {
+      "range": "12-20",
+      "title": "Inquiry and Prophecy"
+    }
+  ],
+  "themes": [
+    "Law",
+    "Repentance",
+    "Prophecy",
+    "Judgment and mercy"
+  ],
+  "practicalQuestions": [
+    "When Scripture or moral truth convicts a community, how should leaders respond in ways that combine humility and decisive action?",
+    "What institutional practices (like oversight and trustworthy officials) can help religious communities protect and restore sacred spaces and values?",
+    "How does genuine personal humility affect public outcomes—should leaders’ inward repentance influence public policy and reform?",
+    "Who are the appropriate interpreters of foundational texts in a community, and how should their findings be communicated to the people?"
+  ],
+  "uncertainAreas": "The precise identity of the \"book of the law\" is not specified in the text and is debated (often linked to Deuteronomy but not named). The account’s degree of historical versus theological shaping—how much the narrative is framed to justify later reforms—is uncertain. The timing and scope of the promised \"evil\" and how Josiah’s reforms influenced its delay or fulfillment are also open questions.",
+  "createdAt": "2025-11-03T18:59:13.908Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

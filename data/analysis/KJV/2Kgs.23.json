@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Kgs.23",
+  "briefOverview": "King Josiah institutes a sweeping religious reform after the discovery of a 'book of the covenant,' destroying idols and high places and renewing the nation's covenant with Yahweh. Despite his reforms and a celebrated Passover, the narrative affirms that God's judgment on Judah remains because of earlier national sins.",
+  "summary": "Josiah summons the leaders, reads the book of the covenant found in the temple, and makes a public covenant to follow the LORD (vv. 1–3). He orders removal and destruction of objects and sites associated with Baal, the 'grove,' astral worship, and other idolatrous practices, defiles high places, executes or deposes idolatrous priests, and even desecrates altars associated with false worship (vv. 4–20). Josiah institutes a Passover celebrated more fully than in many previous generations and purges practitioners of divination and witchcraft (vv. 21–25). The narrator then qualifies Josiah's piety by reporting that God's anger toward Judah remains because of the provocations of Manasseh (vv. 26–27). The chapter closes with Josiah's death at Megiddo fighting Pharaoh Necho II and the brief reign and deposition of his son Jehoahaz followed by Jehoiakim's accession, both of whom do evil in the LORD's sight (vv. 28–37).",
+  "externalContext": "The events are commonly dated to late 7th century BCE during a period when Assyrian influence was waning and Egypt (under Pharaoh Necho II) intervened in northern Mesopotamian affairs. Temple repairs under Hilkiah are associated in scholarship with the 'finding' of a legal text (often linked to Deuteronomy), which spurred centralizing and reforming religious policies aimed at concentrating worship in Jerusalem. The political backdrop helps explain Josiah's confrontation with Egypt and the regional turmoil that followed.",
+  "externalReferences": "The chapter's destruction of the altar and the story of the 'man of God' at Bethel recalls the earlier narrative in 1 Kings 13 (the prophet from Judah who condemned the altar at Bethel). The prescription to centralize worship and abolish high places resonates with Deuteronomy 12:2–4. Prohibitions against child sacrifice to Molech recall Leviticus 18:21 and Deuteronomy 18:10–12, and the catalogue of Manasseh's provocations aligns with the account in 2 Kings 21:1–18. The parallel (and fuller) account of Josiah's reforms appears in 2 Chronicles 34–35.",
+  "seeAlso": [
+    "1 Kings 13",
+    "Deuteronomy 12:2-4",
+    "Leviticus 18:21",
+    "2 Kings 21:1-18",
+    "2 Chronicles 34-35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Covenant Renewal"
+    },
+    {
+      "range": "4-20",
+      "title": "Idolatry Purge"
+    },
+    {
+      "range": "21-37",
+      "title": "Passover and Succession"
+    }
+  ],
+  "themes": [
+    "Religious reform",
+    "Covenant renewal",
+    "Idolatry",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "What contemporary 'high places' or practices compete with central commitments in my spiritual community, and how should they be addressed?",
+    "How should leaders implement reforms when founding texts challenge entrenched customs and institutions?",
+    "When a community sincerely reforms, how do we respond to continuing consequences of past collective wrongdoing?",
+    "How can public rituals (like the Passover here) renew communal identity in ways that avoid mere formalism?"
+  ],
+  "uncertainAreas": "Identity of the 'book of the covenant' (extent and contents) is debated; the precise historicity and sequence of some actions (e.g., removal of bones at Bethel, execution of priests at Samaria) are narratively vivid but not independently corroborated here; the text's theological insistence that judgment still comes despite Josiah's reforms raises interpretive questions about corporate responsibility and the scope of repentance.",
+  "createdAt": "2025-11-03T18:59:51.267Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

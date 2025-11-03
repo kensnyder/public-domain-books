@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "1Kgs.6",
+  "briefOverview": "The chapter records Solomon’s construction of the temple, giving detailed dimensions, materials, ornamentation, and methods, while inserting a divine reminder that God’s enduring presence depends on covenant obedience.",
+  "summary": "In the 480th year after the Exodus, during Solomon’s fourth regnal year (month Ziv), he begins building the house of the LORD, with dimensions of 60 by 20 by 30 cubits and a front porch. Side chambers are built around the temple with increasing width by story, and stones are prepared offsite so no iron tools are heard at the site. The LORD speaks to Solomon, promising to fulfill His word to David and dwell among Israel if Solomon walks in His statutes and commandments. The interior is lined with cedar and fir, carved with gourds and open flowers, and completely overlaid with gold; the inner sanctuary (the “oracle,” Most Holy Place) is a perfect cube of 20 cubits, prepared to house the ark. Two large olive-wood cherubim (10 cubits high) stand in the inner sanctuary with outstretched wings, and walls, doors, and floors feature carved cherubim, palm trees, and flowers, all covered with gold. An inner court is built with hewn stone and cedar beams, and the project lasts seven years, from the fourth year (Ziv) to the eleventh year (Bul).",
+  "externalContext": "Solomon’s temple replaces the wilderness tabernacle as Israel’s central sanctuary and royal-cultic focal point in the 10th century BCE. The month names Ziv (second month) and Bul (eighth month) reflect older West Semitic/Canaanite calendrical terms, later known as Iyyar and Marcheshvan. Extensive use of cedar and skilled craftsmanship reflects broader Levantine trade and artisan networks of the period (notably with Tyre). In ancient Near Eastern iconography, winged throne guardians (cherubim) often flank a deity’s throne; in Israel, they symbolically attend the invisible LORD enthroned above the ark. A cubit typically measured roughly 18 inches/45 cm (though variations existed), shaping perceptions of the temple’s scale.",
+  "externalReferences": "The conditional promise in 6:11–13 echoes the Davidic covenant of 2 Samuel 7:12–16, where God pledges to establish David’s line while also calling his heirs to faithfulness. The temple’s plan and décor recall the tabernacle instructions (Exodus 25–31; 26:31–37) and its completion (Exodus 36–40), including the cherubim and the Most Holy Place housing the ark. The prohibition of iron tools at the building site (6:7) resonates with laws about unhewn altars (Exodus 20:25; Deuteronomy 27:5), highlighting reverence and ritual purity. Later texts identify the site as Mount Moriah in Jerusalem, linked to David’s altar (2 Chronicles 3:1; cf. 2 Samuel 24), and the ark’s placement under overshadowing cherubim is echoed in 1 Kings 8:6–13.",
+  "seeAlso": [
+    "2 Samuel 7:12-16",
+    "Exodus 25-31",
+    "Exodus 26:31-37",
+    "Exodus 36-40",
+    "Exodus 20:25",
+    "Deuteronomy 27:5",
+    "2 Chronicles 3:1",
+    "2 Samuel 24:18-25",
+    "1 Kings 8:6-13",
+    "Ezekiel 41:18-20",
+    "Hebrews 9:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Temple begun and method"
+    },
+    {
+      "range": "11-13",
+      "title": "Divine conditional promise"
+    },
+    {
+      "range": "14-38",
+      "title": "Interior, ornaments, and completion"
+    }
+  ],
+  "themes": [
+    "Temple construction",
+    "Covenant obedience",
+    "Divine presence",
+    "Holiness",
+    "Sacred craftsmanship"
+  ],
+  "practicalQuestions": [
+    "How does careful, excellent craftsmanship in sacred work relate to cultivating inner obedience and integrity?",
+    "In what ways can large, public religious projects remain attentive to quiet reverence (symbolized by the silence at the building site)?",
+    "What practices help leaders remember that God’s presence is conditioned on faithfulness, not merely impressive structures?",
+    "How might physical spaces for worship communicate holiness and beauty without overshadowing the God they serve?",
+    "What would it look like to prepare thoroughly and respectfully before engaging in acts of worship or service?"
+  ],
+  "uncertainAreas": "The precise chronology implied by “the 480th year” is debated among scholars. The exact meanings of “windows of narrow lights” (v.4) and “chains of gold” as a partition (v.21) are uncertain. The reference to “the altar which was of cedar” (v.20) likely denotes the inner (incense) altar but is not explicitly clarified here. Cubit length varies by period and region, affecting precise scale estimates.",
+  "createdAt": "2025-11-03T18:27:42.075Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "1Sam.10",
+  "briefOverview": "Samuel anoints Saul as Israel's first king and gives signs confirming his calling; Saul is publicly chosen and acclaimed despite mixed reactions.",
+  "summary": "Samuel anoints Saul with oil and gives him a series of signs to confirm his appointment (meetings at Rachel's tomb and on Mount Tabor, prophetic bands, and a changed heart). The Spirit of the LORD comes upon Saul, he prophesies with other prophets, and is described as being changed into \"another man.\" Samuel assembles Israel, rebukes them for asking for a king as a rejection of God, and conducts a public selection by tribe and family that yields Saul, who is initially hidden among the baggage. When revealed, Saul stands head and shoulders above the others and the people shout, \"God save the king.\" Samuel records the terms of the kingdom, and Saul returns home with men whose hearts God had touched, while some scoffers despise him but he remains silent.",
+  "externalContext": "The narrative reflects a transitional moment in Iron Age Israel when loose tribal leadership under judges was giving way to centralized monarchy, partly in response to external threats such as the Philistines. Anointing with oil was a recognized symbol of consecration for kings and priests. Public methods of legitimizing leaders included prophetic confirmation, signs attributed to divine activity, and casting or determining by lot as a communal decision mechanism.",
+  "externalReferences": "This chapter continues material begun in 1 Samuel 9, which narrates Saul's initial meeting with Samuel and his search for his father's donkeys. Samuel's later dealings with Saul, including Saul's failures and eventual rejection by God, are narrated in 1 Samuel 13–15. The speech in verses 18–19 echoes Israel's foundational history of deliverance from Egypt (cf. Exodus 12:31–42) as the basis for Samuel's claim that the people have rejected the one who saved them.",
+  "seeAlso": [
+    "1 Samuel 9",
+    "1 Samuel 13:1-15",
+    "1 Samuel 15:10-11",
+    "1 Samuel 19:18-24",
+    "Exodus 12:31-42"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Anointing and Signs"
+    },
+    {
+      "range": "9-11",
+      "title": "Spirit and Prophecy"
+    },
+    {
+      "range": "17-24",
+      "title": "Public Choice of Saul"
+    }
+  ],
+  "themes": [
+    "Anointing",
+    "Divine election",
+    "Prophetic inspiration",
+    "Monarchy"
+  ],
+  "practicalQuestions": [
+    "How should a community balance divine guidance, charismatic signs, and communal procedures when choosing leaders today?",
+    "What does it mean to 'reject God' by asking for human leadership, and how does that apply to modern relationships between faith and political authority?",
+    "How ought communities respond to new leaders who are affirmed by many yet despised or doubted by others?",
+    "In what ways should signs or spiritual transformation be weighed against character and long-term conduct in judging a leader?"
+  ],
+  "uncertainAreas": "Reasons for the people's demand for a king are summarized as \"rejecting God,\" but the text leaves social, military, and political motivations implicit. The precise nature of the prophetic episode (its form, duration, and effects) is described phenomenologically and open to interpretation. Details of the lot-selection process and the identity/scope of the \"children of Belial\" are not fully specified.",
+  "createdAt": "2025-11-03T17:45:01.401Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

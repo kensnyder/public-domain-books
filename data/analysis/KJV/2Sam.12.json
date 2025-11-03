@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Sam.12",
+  "briefOverview": "Nathan confronts David with a parable that exposes his sin; David confesses and is forgiven, yet severe consequences follow, including the child’s death, while Solomon is born and the Ammonite capital is captured.",
+  "summary": "Nathan tells David a parable about a rich man stealing a poor man’s cherished lamb; David condemns the offender, and Nathan declares, “You are the man,” indicting David for taking Uriah’s wife and arranging his death. God recounts His past blessings to David, announces judgment—unrest will plague David’s house and his wives will be publicly taken—yet upon David’s confession, Nathan declares that God has put away his sin and David will not die. Nevertheless, the child born to Bathsheba becomes ill and dies despite David’s fasting and prayer; after the child’s death, David worships, resumes eating, and explains his hope in God’s mercy while the child lived and his acceptance once the child had died. David consoles Bathsheba; she bears Solomon, whom the Lord loves, and through Nathan he is named Jedidiah. Meanwhile, Joab secures Rabbah and calls David to complete the victory; David takes the city, receives the king’s crown, gathers great spoil, and subjects the Ammonite cities to harsh treatment before returning to Jerusalem.",
+  "externalContext": "In ancient Israel, prophets served as divine messengers who could rebuke kings, asserting that the monarchy was accountable to God’s covenant. Ancient Near Eastern legal norms and Israel’s Torah included restitution laws and penalties for murder and adultery, shaping the moral framework behind Nathan’s indictment. Siege warfare was protracted, and it was customary for a commander like Joab to summon the king to claim the final honor of a city’s capture. Royal naming and prophetic declarations (such as Jedidiah, “beloved of the LORD”) often signaled divine favor or vocation.",
+  "externalReferences": "The parable’s demand for fourfold restitution aligns with the law regarding stolen livestock (Exodus 22:1), and David’s crimes directly violate the commandments against murder and adultery (Exodus 20:13–14). The chapter presupposes the events of David’s adultery and Uriah’s death (2 Samuel 11:1–27), which Nathan makes explicit. David’s confession is traditionally associated with Psalm 51 (see its superscription), often read as his prayer of repentance. The public taking of David’s wives is later realized when Absalom lies with his father’s concubines in the sight of Israel (2 Samuel 16:22).",
+  "seeAlso": [
+    "2 Samuel 11:1-27",
+    "Exodus 22:1",
+    "Exodus 20:13-14",
+    "Psalm 51:1-19",
+    "2 Samuel 16:22",
+    "Psalm 32:1-5",
+    "1 Kings 1:28-40"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Nathan’s parable and verdict"
+    },
+    {
+      "range": "15-25",
+      "title": "The child’s death and Solomon’s birth"
+    },
+    {
+      "range": "26-31",
+      "title": "Rabbah taken and aftermath"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Justice and mercy",
+    "Consequences of sin",
+    "Prophetic accountability"
+  ],
+  "practicalQuestions": [
+    "How do I respond when confronted with wrongdoing—defensiveness, minimization, or confession?",
+    "What practices (fasting, prayer, worship) help me seek God’s mercy while outcomes remain uncertain?",
+    "How should leaders handle power and privilege to avoid harming the vulnerable?",
+    "What does accepting forgiveness yet living with consequences look like in my relationships and responsibilities?",
+    "When private failures have public fallout, how can I make restitution and pursue transparent integrity?"
+  ],
+  "uncertainAreas": "The severity and nature of David’s treatment of the Ammonites (v.31) is debated—whether it describes execution/torture or conscription to forced labor with iron tools and brickmaking. The pronouns around Solomon’s additional name “Jedidiah” (v.25) are ambiguous regarding who formally conferred it (the LORD via Nathan, or Nathan/David acting). The precise meaning of David’s statement “I shall go to him” (v.23) is not fully defined in the text (whether referring to the grave, the afterlife, or eventual reunion). The identity nuance of the “neighbor” who will take David’s wives (v.11) is later tied to Absalom, but the term itself is broad in this chapter.",
+  "createdAt": "2025-11-03T18:10:11.507Z",
+  "modelId": "gpt-5-2025-08-07"
+}

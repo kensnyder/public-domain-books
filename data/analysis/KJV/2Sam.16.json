@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Sam.16",
+  "briefOverview": "David endures humiliation and makes hasty judgments while fleeing Absalom, as Absalom consolidates power in Jerusalem through shocking public acts advised by Ahithophel.",
+  "summary": "As David departs, Ziba, servant of Mephibosheth, brings provisions and claims Mephibosheth stayed in Jerusalem hoping for the restoration of Saul’s kingdom; David, accepting the report, grants Mephibosheth’s estate to Ziba. At Bahurim, Shimei of Saul’s house curses and pelts David, calling him a bloodshedder; Abishai offers to kill Shimei, but David restrains him, interpreting the cursing as possibly from the LORD and hoping for divine recompense. David and his company arrive weary and refresh themselves. Meanwhile Absalom enters Jerusalem with Ahithophel; Hushai greets Absalom and avers he will serve the one chosen by the LORD and the people. Absalom seeks counsel, and Ahithophel advises publicly going in to David’s concubines to signal an irreversible break with David, which Absalom does on a rooftop before Israel. Ahithophel’s counsel is esteemed as though it were an oracle.",
+  "externalContext": "Bahurim lies in Benjaminite territory, a region with residual loyalty to Saul’s house, which helps explain Shimei’s hostility. In the ancient Near Eastern royal court, the king’s harem symbolized dynastic authority; seizing a predecessor’s concubines was a recognized act of claiming the throne. Publicly pitched tents on rooftops in royal compounds made such claims visible to the populace. Ahithophel, likely a senior court advisor, held exceptional prestige; his reputation for near-oracular wisdom underscores the political weight of his counsel.",
+  "externalReferences": "David had previously shown covenant kindness to Mephibosheth and restored Saul’s land to him with Ziba as steward (2 Samuel 9), which frames the gravity of David’s sudden reversal here; later, Mephibosheth contradicts Ziba’s account (2 Samuel 19:24–30). Nathan had prophesied that David’s wives would be taken publicly as a judgment for his sin with Bathsheba (2 Samuel 12:11–12); Absalom’s act fulfills this word. Hushai’s presence fulfills David’s plan from earlier (2 Samuel 15:32–37) to counter Ahithophel’s counsel. The use of a predecessor’s concubines as a claim to royal legitimacy is also seen with Saul’s concubine Rizpah (2 Samuel 3:7) and later in Adonijah’s request for Abishag (1 Kings 2:13–25).",
+  "seeAlso": [
+    "2 Samuel 9:1-13",
+    "2 Samuel 12:11-12",
+    "2 Samuel 15:32-37",
+    "2 Samuel 19:24-30",
+    "2 Samuel 19:16-23",
+    "2 Samuel 3:7",
+    "1 Kings 2:13-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Ziba’s gifts and claim"
+    },
+    {
+      "range": "5-14",
+      "title": "Shimei curses; David restrains"
+    },
+    {
+      "range": "15-23",
+      "title": "Hushai received; Ahithophel’s counsel"
+    }
+  ],
+  "themes": [
+    "Deception",
+    "Divine judgment",
+    "Restraint",
+    "Legitimacy",
+    "Counsel and strategy"
+  ],
+  "practicalQuestions": [
+    "How can I avoid making rash decisions when I have only one side of a story?",
+    "When insulted or unjustly criticized, what would godly restraint look like in my response?",
+    "How do I discern whether hardship is corrective discipline, a test, or simply opposition—and respond wisely?",
+    "What safeguards can leaders build to test influential counsel, even when it seems unimpeachable?",
+    "In what ways might public actions communicate deeper loyalties or claims, and how can I ensure mine align with integrity?"
+  ],
+  "uncertainAreas": "Ziba’s report about Mephibosheth is unresolved within this chapter; David’s statement that the LORD told Shimei to curse could be literal or a providential interpretation; Hushai’s loyalty appears ambiguous in this chapter without 2 Samuel 15; the description of Ahithophel’s counsel as oracle-like may reflect public perception rather than divine endorsement.",
+  "createdAt": "2025-11-03T18:14:16.991Z",
+  "modelId": "gpt-5-2025-08-07"
+}

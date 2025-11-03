@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.20",
+  "briefOverview": "King Hezekiah is miraculously healed after prayer, receives a heavenly sign, but later exposes his treasures to Babylonian envoys and receives a prophetic warning of exile.",
+  "summary": "Hezekiah is told by Isaiah that he will die; he prays earnestly, reminding God of his faithful life, and God answers that he will be healed and granted fifteen more years. Isaiah prescribes a fig poultice for Hezekiah's boil, and gives a sign: the sun's shadow on the 'dial of Ahaz' moves backward ten degrees.\n\nSoon afterward Babylonian envoys (Berodach-baladan's messengers) visit; Hezekiah shows them all his treasures. Isaiah rebukes him and delivers a prophecy that those treasures and Hezekiah’s descendants will be carried off to Babylon. The chapter closes with a short note on Hezekiah's other deeds and his death, succeeded by his son Manasseh.",
+  "externalContext": "Hezekiah ruled Judah in the late 8th/early 7th century BCE during intense Assyrian pressure (see 2 Kings 18–19 for the campaign of Sennacherib). Berodach-baladan (Marduk-apla-iddina II) was a historical Babylonian ruler who at times opposed Assyria and sought alliances in the region. The 'dial (or sundial) of Ahaz' likely refers to a gnomon or solar timepiece; fig poultices were known in ancient Near Eastern medicine though the narrative treats the recovery as both medicinal and divinely acted.",
+  "externalReferences": "This chapter has a close parallel in Isaiah 38, which narrates the illness, Hezekiah’s prayer, the fig poultice, and the sign of the reversed shadow; Isaiah 39 parallels the visit of Babylonian envoys and the prophetic warning. 2 Chronicles 32:24–26 retells aspects of Hezekiah’s illness and recovery and adds post-recovery details (including later pride) that illuminate the warning about showing treasures. The chapter also ties back to the Assyrian crisis described in 2 Kings 18–19, since God’s promise includes deliverance from the king of Assyria.",
+  "seeAlso": [
+    "Isaiah 38:1-8, 21-22",
+    "Isaiah 39:1-8",
+    "2 Chronicles 32:24-26",
+    "2 Kings 18:13-19:37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Illness and Promise"
+    },
+    {
+      "range": "8-11",
+      "title": "Sign of the Shadow"
+    },
+    {
+      "range": "12-21",
+      "title": "Babylonian Envoys and Warning"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Healing",
+    "Sign",
+    "Exile"
+  ],
+  "practicalQuestions": [
+    "How should individuals or communities pray when facing apparent finality or medical crisis, and what can Hezekiah’s prayer teach about framing petitions?",
+    "What balance should leaders keep between open hospitality/diplomacy and prudential secrecy in matters of national security and legacy?",
+    "How do we interpret and respond to prophetic warnings about future consequences for present actions?",
+    "What does the episode suggest about stewardship of resources and the long-term effects of choices made in moments of pride or relief?"
+  ],
+  "uncertainAreas": "The exact nature of the 'dial of Ahaz' (sundial, gnomon, or symbolic device) and whether the fig poultice is meant primarily as a medical remedy or as part of the miracle are unclear. Hezekiah's reply to Isaiah about the prophecy ('Is it not good...') is ambiguous in tone: it may express resigned acceptance, self-justification, or short-sighted contentment; the text does not fully resolve his inner motive.",
+  "createdAt": "2025-11-03T18:58:00.096Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

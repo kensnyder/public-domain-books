@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Sam.10",
+  "briefOverview": "David’s condolence mission to Ammon is misread as espionage, provoking humiliation and war; Israel defeats the Ammonites and their Aramean allies under Joab and then David.",
+  "summary": "After the Ammonite king dies, David sends envoys to comfort his son Hanun, but Ammonite princes suspect a ruse. Hanun humiliates the envoys by shaving half their beards and cutting their garments, and David instructs them to wait at Jericho until their beards regrow. Realizing they have offended Israel, the Ammonites hire Aramean (Syrian) forces from Beth-rehob, Zobah, Maacah, and Ish-tob. Joab divides Israel’s army to face threats at the city gate and in the open field, urging courage while entrusting the outcome to the LORD; the Arameans flee, and the Ammonites retreat into their city. The Arameans regroup under Hadadezer and his general Shobach beyond the river and assemble at Helam, but David personally leads Israel across the Jordan, defeats them decisively, and kills Shobach. Subordinate kings of Hadadezer make peace and serve Israel, and the Arameans cease aiding Ammon.",
+  "externalContext": "In the ancient Near East, beards symbolized male honor; forcibly shaving an envoy’s beard and exposing him was a severe diplomatic insult. Employing mercenaries and forming coalitions among small Aramean polities (e.g., Zobah, Beth-rehob, Maacah, likely Ish-tob) was common in regional warfare. “Beyond the river” in biblical texts often denotes lands beyond the Euphrates, signaling a broader Aramean coalition. Jericho, near the Jordan, served as a border town where shamed envoys could wait without inflaming public scandal in Jerusalem. David’s reign involved consolidating control over neighboring states, and conflicts with Aramean city-states were a feature of the geopolitical landscape.",
+  "externalReferences": "A closely parallel account appears in 1 Chronicles 19, which mirrors the events and includes a numerical variant (2 Samuel 10:18 reports seven hundred chariots; 1 Chronicles 19:18 mentions seven thousand charioteers). The chapter connects with 2 Samuel 8:3–8, where David had previously subdued Hadadezer of Zobah, explaining the renewed Aramean coalition. The superscription of Psalm 60 situates a prayer in the context of wars against Aram-naharaim and Aram-zobah, thematically resonating with this campaign. The aftermath continues in 2 Samuel 11–12, where the conflict with Ammon resumes and culminates in the capture of their city.",
+  "seeAlso": [
+    "1 Chronicles 19:1-19",
+    "2 Samuel 8:3-8",
+    "Psalm 60:1",
+    "2 Samuel 11:1",
+    "2 Samuel 12:26-31",
+    "1 Samuel 11:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Kindness Misread, Envoys Humiliated"
+    },
+    {
+      "range": "6-14",
+      "title": "Joab’s Split-Front Strategy"
+    },
+    {
+      "range": "15-19",
+      "title": "David’s Decisive Victory at Helam"
+    }
+  ],
+  "themes": [
+    "Diplomacy spurned",
+    "Honor and shame",
+    "Courage and trust",
+    "Divine sovereignty",
+    "Warfare and alliances"
+  ],
+  "practicalQuestions": [
+    "How should leaders respond when good intentions are misinterpreted and provoke hostility?",
+    "When publicly humiliated, what forms of restraint and care for dignity are available before reacting?",
+    "How can teams plan mutual support when facing threats on multiple fronts?",
+    "What does entrusting outcomes to God look like while still exercising bold action and strategy?",
+    "When is it wise to escalate involvement from delegation (Joab) to direct leadership (David)?"
+  ],
+  "uncertainAreas": "The text mentions that Nahash had shown kindness to David but does not specify when or how; the historical detail is unclear. The exact locations of Helam and Ish-tob are uncertain. “Beyond the river” likely refers to the Euphrates but is not explicitly defined. There is a numerical discrepancy between 2 Samuel 10:18 and 1 Chronicles 19:18 regarding the chariot forces.",
+  "createdAt": "2025-11-03T18:08:22.775Z",
+  "modelId": "gpt-5-2025-08-07"
+}

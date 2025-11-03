@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Sam.3",
+  "briefOverview": "The chapter traces the turning point in Israel’s civil war as Abner defects from Saul’s house to David, only to be assassinated by Joab, while David publicly dissociates himself and honors Abner.",
+  "summary": "During the prolonged conflict between Saul’s house and David’s, David’s position grows stronger, and six sons are born to him in Hebron. After Ish-bosheth accuses Abner of taking Saul’s concubine, Abner angrily breaks with him and offers to bring all Israel under David, invoking the LORD’s promise to David. David agrees on condition that Michal, Saul’s daughter and David’s earlier wife, be returned to him; Ish-bosheth complies. Abner canvasses Israel and Benjamin for David’s kingship, feasts with David in Hebron, and departs in peace to finalize the transfer. Joab, returning from a raid, secretly recalls Abner and murders him in Hebron to avenge his brother Asahel. David declares his innocence, pronounces a curse on Joab’s house, leads public mourning and fasting for Abner, and laments him as a great man, making it clear to all Israel that Abner’s death was not by the king’s will; David concludes that the LORD will repay the evildoer.",
+  "externalContext": "In the ancient Near East, taking a deceased king’s concubine could be interpreted as a claim to royal authority; thus Ish-bosheth’s charge against Abner implies a challenge to legitimacy. Tribal loyalties—especially Benjamin’s loyalty to Saul’s house—shaped the politics of succession, and military commanders like Abner and Joab wielded significant power. “From Dan to Beersheba” was a common formula for the full span of Israel’s territory. City gates functioned as places of judgment and negotiation, and Hebron itself was both David’s early capital and a Levitical city designated as a city of refuge (Joshua 20:7), highlighting the gravity of Abner’s murder there. Customs of blood vengeance could drive cycles of retaliation, though royal justice and sanctuary laws sought to restrain them.",
+  "externalReferences": "David’s bride-price for Michal is recalled from 1 Samuel 18:25–27, where Saul demanded Philistine foreskins and David exceeded the requirement. Abner’s killing of Asahel at Gibeon, the stated motive for Joab’s revenge, occurs in 2 Samuel 2:18–23. The political significance of sleeping with a royal concubine appears again when Absalom takes David’s concubines (2 Samuel 16:21–22) and when Adonijah’s request for Abishag is read as a bid for the throne (1 Kings 2:22). The idiom “from Dan to Beersheba” appears elsewhere to denote all Israel (e.g., Judges 20:1; 1 Samuel 3:20).",
+  "seeAlso": [
+    "1 Samuel 18:25-27",
+    "2 Samuel 2:18-23",
+    "2 Samuel 16:21-22",
+    "1 Kings 2:22",
+    "Judges 20:1",
+    "1 Samuel 3:20",
+    "Joshua 20:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "David’s house strengthens"
+    },
+    {
+      "range": "6-21",
+      "title": "Abner defects and negotiates"
+    },
+    {
+      "range": "22-39",
+      "title": "Joab murders Abner; David laments"
+    }
+  ],
+  "themes": [
+    "Legitimacy",
+    "Power transition",
+    "Vengeance and justice",
+    "Public perception",
+    "Leadership restraint"
+  ],
+  "practicalQuestions": [
+    "How should leaders respond when allies act unjustly in ways that serve short-term interests?",
+    "What safeguards help prevent personal vendettas from derailing reconciliation efforts?",
+    "When is it wise to require symbolic acts (like David’s demand for Michal) to secure legitimacy or trust?",
+    "How can public acts of mourning or transparency restore confidence after a scandal?",
+    "What does it look like to entrust ultimate justice to God while exercising appropriate authority?"
+  ],
+  "uncertainAreas": "Abner’s inner motives (principled recognition of God’s promise vs. self-preservation) are not explicit; David’s demand for Michal may reflect both personal and political calculations; Joab’s intent mixes blood vengeance with political rivalry; the legal implications of killing Abner at Hebron’s gate are suggestive but not spelled out in the text.",
+  "createdAt": "2025-11-03T18:02:20.313Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Kgs.13",
+  "briefOverview": "Chapter records the troubled reigns of two northern kings, a final prophetic act by Elisha, and God's partial restoration of Israel from Syrian oppression.",
+  "summary": "Jehoahaz and his son Joash each reign in Samaria and continue the sins instituted by Jeroboam, provoking Syrian domination under Hazael and Ben‑hadad. Jehoahaz pleads with the LORD and Israel receives a limited deliverance from Syria, though they persist in idolatry; military strength is much reduced. Elisha, near death, instructs King Joash in a symbolic archery ritual promising victory over Syria; Joash strikes the ground only three times and is rebuked for not striking more. After Elisha dies and is buried, a dead man is restored to life when his body touches Elisha’s bones. The chapter closes with Ben‑hadad’s succession and Joash recovering some cities from Syria through three victories.",
+  "externalContext": "This chapter sits in the divided monarchy period (roughly 9th century BCE) when the northern kingdom (Israel) frequently contended with the Aramean (Syrian) state centered at Damascus. Hazael and his son Ben‑hadad were powerful regional rulers attested in other biblical passages and in extra‑biblical inscriptions, and prophets like Elisha functioned as both religious and political actors whose words were understood to convey divine will. The recurring reference to the \"sins of Jeroboam\" points to the institutionalized calf worship set up in 1 Kings 12, which shaped Israelite religion and justified prophetic criticism.",
+  "externalReferences": "The critique of the \"sins of Jeroboam\" alludes to 1 Kings 12:26–33, where Jeroboam establishes alternate sanctuaries and calves. Elisha’s role as Elijah’s successor and the \"chariot\" imagery resonates with 2 Kings 2:11–14, where Elijah is taken up and Elisha receives a double portion. The miracle of revival by touching a prophet’s bones recalls Elisha’s earlier resurrection of the Shunammite’s son in 2 Kings 4:32–35. The explanation that God spared Israel \"because of his covenant with Abraham, Isaac, and Jacob\" points back to the ancestral promises in Genesis (e.g., Genesis 12:1–3; Genesis 17:7).",
+  "seeAlso": [
+    "1 Kings 12:26-33",
+    "2 Kings 2:11-14",
+    "2 Kings 4:32-35",
+    "2 Kings 8:7-15",
+    "Genesis 12:1-3",
+    "Genesis 17:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Reigns of Jehoahaz and Joash"
+    },
+    {
+      "range": "14-19",
+      "title": "Elisha's Final Prophecy"
+    },
+    {
+      "range": "20-25",
+      "title": "Death, Miracle, Victory"
+    }
+  ],
+  "themes": [
+    "Sin and Judgment",
+    "Prophetic Authority",
+    "Covenant Mercy",
+    "Incomplete Obedience"
+  ],
+  "practicalQuestions": [
+    "How should leaders respond when prophetic warnings call for decisive action?",
+    "What are the consequences of partial obedience in pursuing a just or moral goal?",
+    "In what ways does communal memory of foundational promises (e.g., covenant) shape responses to suffering?",
+    "How can a community steward the legacy of spiritual leaders after their death?"
+  ],
+  "uncertainAreas": "Exact dating and synchronisms of the reigns and battles depend on larger chronological reconstructions; the parenthetical verse (5–6) and some details reflect editorial summarizing and may compress events. The mechanism and theological meaning of the resurrection by contact with Elisha’s bones are narrated without explanation, leaving room for interpretive uncertainty about whether the episode is meant primarily as sign, miracle precedent, or legend. The practical consequence of Joash’s three strikes vs. the implied five or six is presented as symbolic rather than fully explained historically.",
+  "createdAt": "2025-11-03T18:53:53.504Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

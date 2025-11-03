@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Sam.15",
+  "briefOverview": "Absalom wins popular support and declares himself king, forcing David to flee Jerusalem. David submits the outcome to God while arranging loyal networks and countercounsel within the city.",
+  "summary": "Absalom cultivates a public image of justice at the city gate, undermining David and winning the hearts of Israel. Claiming a vow to fulfill at Hebron, he secretly launches a coup, gathers unwitting supporters, and secures Ahithophel’s counsel. Informed of the swelling conspiracy, David evacuates Jerusalem to spare the city, leaving ten concubines to keep the house and being accompanied by loyalists such as Ittai the Gittite and the royal guards. When priests bring the ark, David orders it returned to Jerusalem, entrusting his fate to God’s will. Ascending the Mount of Olives in grief, David prays that Ahithophel’s counsel be confounded. He then deploys Hushai back into Jerusalem to serve Absalom and relay information through Zadok and Abiathar via their sons, while David waits in the wilderness.",
+  "externalContext": "Absalom had previously killed his brother Amnon and lived in exile in Geshur (an Aramean kingdom) before being restored to Jerusalem (2 Samuel 13–14). The city gate was the customary place for legal disputes and civic administration in ancient Israel, making Absalom’s presence there a strategic play for popular favor. Hebron had been David’s first royal capital and Absalom’s likely birthplace, lending symbolic weight to Absalom’s declaration there. The Cherethites and Pelethites were elite royal guards, probably of foreign origin, highlighting David’s mix of Israelite and non-Israelite support. Many manuscripts and translations read “four years” in verse 7 instead of “forty years,” reflecting a well-known textual issue and a more plausible timeline for Absalom’s preparation.",
+  "externalReferences": "Absalom’s backstory—Amnon’s death, Absalom’s exile in Geshur, and his return—frames the tensions that culminate in this chapter (2 Samuel 13:28–39; 14:21–33). David’s betrayal by a close adviser echoes the lament of Psalm 41:9, often associated with Ahithophel (“my own familiar friend”). Adonijah later imitates Absalom’s self-exalting tactics, presenting himself with chariots and runners (1 Kings 1:5–10), suggesting a pattern of royal usurpation. The contest between Ahithophel and Hushai unfolds explicitly in the following chapters (2 Samuel 16:15–23; 17:1–14).",
+  "seeAlso": [
+    "2 Samuel 13:28-39",
+    "2 Samuel 14:21-33",
+    "2 Samuel 16:15-23",
+    "2 Samuel 17:1-14",
+    "1 Kings 1:5-10",
+    "Psalm 41:9",
+    "Deuteronomy 17:16-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Absalom’s conspiracy at Hebron"
+    },
+    {
+      "range": "13-23",
+      "title": "David’s flight from Jerusalem"
+    },
+    {
+      "range": "24-37",
+      "title": "Ark returned; Hushai embedded"
+    }
+  ],
+  "themes": [
+    "Usurpation",
+    "Betrayal",
+    "Loyalty",
+    "Submission to God",
+    "Lament"
+  ],
+  "practicalQuestions": [
+    "How can we discern the difference between flattery and genuine concern for justice in leaders we follow?",
+    "When betrayed by trusted advisors or family, what practices help us respond with integrity rather than retaliation?",
+    "What does it look like to entrust outcomes to God while still planning prudently and acting decisively?",
+    "Whom do we rely on for counsel, and how do we assess whether their advice aligns with wisdom and righteousness?",
+    "How can leaders avoid creating the perception of inaccessibility that breeds discontent and opportunism?"
+  ],
+  "uncertainAreas": "The “forty years” in verse 7 is likely a textual issue (many witnesses read “four”); I did not determine which reading the user prefers. The nuance of calling Zadok a “seer” (v.27) is unclear—whether prophetic or administrative. The phrase “two hundred men… in their simplicity” (v.11) leaves the extent of their awareness ambiguous. David’s motives for leaving ten concubines (v.16) are not fully explained by the chapter.",
+  "createdAt": "2025-11-03T18:13:13.184Z",
+  "modelId": "gpt-5-2025-08-07"
+}

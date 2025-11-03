@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "2Sam.17",
+  "briefOverview": "Absalom rejects Ahithophel’s swift-strike plan in favor of Hushai’s delay, enabling David to escape across the Jordan. The chapter highlights providential reversal, clandestine communication, Ahithophel’s suicide, and support for David in exile.",
+  "summary": "Ahithophel advises Absalom to pursue and kill only David that very night, promising a quick end to the conflict, and his counsel pleases Absalom and the elders. Hushai, secretly loyal to David, counters that David and his warriors are enraged and strategic, urging a nationwide mustering led personally by Absalom. Absalom and Israel prefer Hushai’s counsel, for the LORD had purposed to defeat Ahithophel’s good advice. Hushai alerts Zadok and Abiathar to warn David to cross the Jordan immediately; despite detection, their couriers evade capture with the help of a woman who hides them in a well, and David’s whole company crosses safely by morning. Seeing his counsel rejected, Ahithophel returns home, arranges his affairs, and hangs himself. Absalom appoints Amasa over the army and encamps in Gilead, while David reaches Mahanaim and receives generous provisions from Shobi, Machir, and Barzillai for his weary people.",
+  "externalContext": "Absalom’s revolt unfolds within Israel’s early monarchy, where court counselors like Ahithophel wielded significant influence over military and political decisions. Hushai had been planted in Jerusalem by David to undermine Ahithophel’s advice, a common stratagem in ancient power struggles. Mahanaim, east of the Jordan in Gilead, had earlier served as a royal base (Ish-bosheth’s) and offered strategic refuge; the phrase “from Dan to Beersheba” was a standard idiom for the entire land of Israel.",
+  "externalReferences": "This chapter fulfills David’s prayer that God would turn Ahithophel’s counsel into foolishness (2 Samuel 15:31) and continues the espionage plan established when Hushai was sent back to Jerusalem (2 Samuel 15:32–37; 16:15–19). The idiom “from Dan to Beersheba” parallels usages in Judges 20:1 and 1 Samuel 3:20, denoting the whole nation. The supporters who supply David—Machir and Barzillai—are known from related episodes (2 Samuel 9:4–5; 19:31–39), and Shobi is identified as an Ammonite royal figure, tying back to David’s earlier dealings with Ammon (2 Samuel 10:1–4). The narrative sets up the ensuing battle and Absalom’s fate in the next chapter (2 Samuel 18:1–18).",
+  "seeAlso": [
+    "2 Samuel 15:31",
+    "2 Samuel 15:32-37",
+    "2 Samuel 16:15-23",
+    "2 Samuel 18:1-18",
+    "Judges 20:1",
+    "1 Samuel 3:20",
+    "2 Samuel 9:4-5",
+    "2 Samuel 19:31-39",
+    "1 Kings 2:7",
+    "2 Samuel 10:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Competing Counsel to Absalom"
+    },
+    {
+      "range": "15-22",
+      "title": "Secret Warning and Escape"
+    },
+    {
+      "range": "23-29",
+      "title": "Ahithophel’s End; Aid at Mahanaim"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Counsel and strategy",
+    "Loyalty and betrayal",
+    "Hospitality to exiles"
+  ],
+  "practicalQuestions": [
+    "Whose counsel do I privilege in urgent decisions, and what criteria ensure it is wise rather than merely appealing?",
+    "How do I recognize and cooperate with providential delays rather than forcing immediate action?",
+    "Where can I practice courageous loyalty—like Hushai and the unnamed woman—when truth is at risk?",
+    "How can I materially support those who are exhausted or displaced by conflict or crisis?",
+    "What steps help me avoid despair when my plans are rejected or fail, as with Ahithophel?"
+  ],
+  "uncertainAreas": "The identification of Amasa’s father as “Ithra an Israelite” here differs from “Jether the Ishmaelite” in 1 Chronicles 2:17, suggesting a textual or lineage complexity. The extent to which Shobi’s relationship to other Ammonite royals (e.g., Hanun) should be inferred is not explicit here. The hyperbolic imagery of dragging a fortified city into a river (v.13) is rhetorical, leaving its precise tactical meaning uncertain.",
+  "createdAt": "2025-11-03T18:15:06.829Z",
+  "modelId": "gpt-5-2025-08-07"
+}

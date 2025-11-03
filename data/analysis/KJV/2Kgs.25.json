@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.25",
+  "briefOverview": "The chapter narrates the fall and destruction of Jerusalem, the exile of its people, and the final disposition of Judah’s leaders.",
+  "summary": "Nebuchadnezzar besieges Jerusalem until famine and a breakout attempt; King Zedekiah is captured, his sons are killed before him, and he is blinded and taken to Babylon. Nebuzar‑adan burns the temple, the royal palace, and many houses; Babylonian forces dismantle the city walls and seize the temple’s bronze and precious vessels. A large deportation follows, though some poor remain to tend the land. Nebuchadnezzar appoints Gedaliah as governor over those left, but Gedaliah is assassinated by Ishmael, prompting many to flee to Egypt. The chapter closes with a later note that Evil‑merodach (Amel‑Marduk) released Jehoiachin from prison and provided for him in Babylon for the remainder of his life.",
+  "externalContext": "The events reflect the Babylonian imperial policy of besieging rebellious vassal cities, deporting elites, and installing puppet governors; Nebuchadnezzar II was the dominant Near Eastern ruler in the late 7th/early 6th century BCE. The destruction of the Jerusalem temple is traditionally dated to 586/587 BCE and marks a major turning point in Israelite/Judahite religion and identity, initiating the Babylonian Exile. Riblah (where Zedekiah is judged) was a military center in northern Syria used by Babylonian forces to assemble and try captives.",
+  "externalReferences": "The narrative here completes a story begun earlier in Kings about Zedekiah’s rebellion and Jehoiachin’s earlier exile (compare 2 Kings 24:10–17). Jeremiah 39 and Jeremiah 52 retell and reflect on the fall of Jerusalem and the temple’s destruction, and 2 Chronicles 36:17–21 offers a parallel account emphasizing the theological reasons for exile. The release of Jehoiachin by Evil‑merodach is also attested in Babylonian administrative records (the Babylonian Ration Lists) and aligns with the biblical note of his elevation.",
+  "seeAlso": [
+    "2 Kings 24:10-17",
+    "Jeremiah 39:1-10",
+    "Jeremiah 52:12-34",
+    "2 Chronicles 36:17-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Siege and Capture"
+    },
+    {
+      "range": "8-17",
+      "title": "Temple Destroyed and Plundered"
+    },
+    {
+      "range": "18-30",
+      "title": "Captivity, Gedaliah, Release"
+    }
+  ],
+  "themes": [
+    "Exile",
+    "Judgment",
+    "Destruction",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How should a community respond when its institutions and leaders fail during crisis?",
+    "What practices or priorities help preserve identity when a people are displaced or their place of worship is destroyed?",
+    "How can leaders be held accountable while protecting the vulnerable who remain behind?",
+    "What responsibilities do surrounding powers (or modern states) have toward refugees and the poor after conflict?"
+  ],
+  "uncertainAreas": "Precise dating (586 vs. 587 BCE) and some chronological details are debated among scholars. Motives and broader political calculations behind Ishmael’s assassination of Gedaliah are not fully explained in the text. The phrase about leaving 'the poor of the land' is brief and open to interpretation regarding their exact status and treatment.",
+  "createdAt": "2025-11-03T19:00:56.492Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "1Chr.21",
+  "briefOverview": "David's census, instigated by Satan, brings divine punishment on Israel; David repents, purchases a threshing floor, and offers sacrifice to stop the plague.",
+  "summary": "David orders a census of Israel despite Joab's objections; the count shows about 1,100,000 fighting men in Israel and 470,000 in Judah, with Levi and Benjamin not included. God is displeased and smites Israel; David recognizes his sin and pleads for mercy. Gad, David's seer, reports that God offers three punishments; David chooses to fall into the LORD's mercy rather than human hands. A pestilence kills seventy thousand Israelites until the angel of the LORD is stayed at the threshing floor of Ornan (Araunah). David buys the threshing floor for six hundred shekels of gold, builds an altar, offers burnt and peace offerings, and God answers by fire and halts the destroying angel. The chapter closes by noting that the tabernacle was at Gibeon at that time and David did not go there to inquire because he feared the angel's sword.",
+  "externalContext": "1 Chronicles was compiled in the post-exilic period by an author (or school) with strong priestly and temple interests; the Chronicler often reshapes earlier narratives to emphasize proper worship, the temple, and the Davidic line. Ancient censuses could be politically and religiously sensitive because counting people could connote reliance on military/tax power rather than trust in God. The Chronicler's naming of 'Satan' here differs from the parallel in 2 Samuel and reflects evolving theological language about an adversarial figure.",
+  "externalReferences": "This chapter closely parallels 2 Samuel 24:1–25, which records the same census and aftermath but attributes the incitement differently (there the LORD incites David); many details (the purchase of the threshing floor, price, and sacrifice) are also found in that passage. The site David buys is later associated with the temple mount (see 2 Chronicles 3:1), tying this episode to the eventual establishment of the temple. The mention of the tabernacle made by Moses and located at Gibeon recalls Exodus 25–40 and the wilderness tabernacle tradition (e.g., Exodus 40:34–38).",
+  "seeAlso": [
+    "2 Samuel 24:1-25",
+    "2 Samuel 24:24",
+    "2 Chronicles 3:1",
+    "Exodus 40:34-38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "The Census and Anger"
+    },
+    {
+      "range": "8-17",
+      "title": "Gad's Choice and Plague"
+    },
+    {
+      "range": "18-29",
+      "title": "Threshing Floor Purchased"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Repentance",
+    "Sacrifice",
+    "Sacred place"
+  ],
+  "practicalQuestions": [
+    "When leaders make mistakes that harm the community, how should responsibility and restitution be handled in ways that protect others?",
+    "What does it mean in contemporary life to 'choose the hand of the LORD' rather than human solutions when facing consequences?",
+    "How can the purchase and dedication of sacred space inform modern practices of making amends or creating places of reconciliation?",
+    "What role should visible acts of repentance (public confession, costly restitution) play in restoring communal trust today?"
+  ],
+  "uncertainAreas": "The text's attribution of the initial incitement to 'Satan' differs from 2 Samuel, which credits the LORD; this raises questions about divine vs. adversarial agency that the chapter does not resolve. Identification of Ornan/Araunah and the exact relationship of the threshing floor to Mount Moriah/temple tradition is implied but not fully spelled out here. The theological evaluation of David's actions (whether exemplary humility or a flawed royal initiative) is open to interpretation.",
+  "createdAt": "2025-11-03T19:12:24.097Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

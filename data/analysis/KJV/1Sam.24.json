@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "1Sam.24",
+  "briefOverview": "David spares Saul in a cave at En-gedi, demonstrating restraint toward the LORD’s anointed and appealing to divine justice rather than personal revenge.",
+  "summary": "Saul pursues David at En-gedi with three thousand men and enters a cave where David and his men are hiding. Urged to kill Saul, David instead secretly cuts off the corner of Saul’s robe but is conscience-stricken and forbids harming him as the LORD’s anointed. After Saul leaves, David reveals the cut piece, bows, and argues his innocence, entrusting judgment and vengeance to the LORD. He likens himself to a “dead dog” or a “flea,” underscoring his unthreatening status. Saul weeps, confesses David’s greater righteousness, acknowledges David’s future kingship, and asks for an oath to spare his descendants. David swears, Saul returns home, and David remains in the stronghold.",
+  "externalContext": "En-gedi is an oasis with steep cliffs and many caves along the western shore of the Dead Sea, often used as shelters and sheepfolds. The phrase “cover his feet” is commonly understood as a euphemism for relieving oneself, indicating Saul was vulnerable. In the ancient Near East, harming a reigning king was taboo and often framed as sacrilege; “the LORD’s anointed” signals divine sanction for Saul’s office despite his failings. Dynastic change frequently involved eliminating the previous king’s heirs; Saul’s request that David not “cut off” his seed reflects a common concern during transitions of power. Public prostration and respectful address (“my lord the king,” “my father”) were conventional gestures of loyalty and deference.",
+  "externalReferences": "A closely related episode appears in 1 Samuel 26:7–12, where David again spares Saul, reinforcing his principle of not harming the LORD’s anointed. The term “the LORD’s anointed” is applied to Saul at 1 Samuel 10:1 and to David at 1 Samuel 16:13, framing this conflict within God’s sovereign choice. David’s refusal to take Saul’s life anticipates his execution of the Amalekite who claimed to have killed Saul (2 Samuel 1:14–16), underscoring consistent reverence for the anointed office. David’s oath not to cut off Saul’s seed is later reflected in his kindness to Jonathan’s son Mephibosheth (2 Samuel 9:1–7); related prayers from a cave are echoed in Psalm 57 and Psalm 142 superscriptions.",
+  "seeAlso": [
+    "1 Samuel 26:7-12",
+    "1 Samuel 10:1",
+    "1 Samuel 16:13",
+    "2 Samuel 1:14-16",
+    "2 Samuel 9:1-7",
+    "Psalm 57:1-11",
+    "Psalm 142:1-7",
+    "1 Samuel 20:14-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "David spares Saul in cave"
+    },
+    {
+      "range": "8-15",
+      "title": "David’s appeal to Saul and God"
+    },
+    {
+      "range": "16-22",
+      "title": "Saul’s remorse and oath"
+    }
+  ],
+  "themes": [
+    "Restraint",
+    "Divine justice",
+    "Respect for authority",
+    "Kingship",
+    "Mercy"
+  ],
+  "practicalQuestions": [
+    "When wronged, what would it look like to entrust vindication to God rather than seeking personal revenge?",
+    "How can we show respect for institutions or leaders while still recognizing their faults?",
+    "What practices help restrain us from acting on peer pressure when others urge us toward rash action?",
+    "How do we demonstrate mercy and integrity toward adversaries without compromising safety or truth?",
+    "In what ways should we keep promises made under tense circumstances, even when doing so is costly?"
+  ],
+  "uncertainAreas": "The exact meaning and symbolism of cutting the corner of Saul’s robe (beyond humiliation or a token of restraint) is debated; “cover his feet” is likely a euphemism but not explicitly defined; the sincerity and durability of Saul’s repentance is ambiguous; the source of the supposed divine promise referenced by David’s men in v.4 is not identified elsewhere.",
+  "createdAt": "2025-11-03T17:54:06.492Z",
+  "modelId": "gpt-5-2025-08-07"
+}

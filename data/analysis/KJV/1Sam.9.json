@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "1Sam.9",
+  "briefOverview": "Introduction of Saul: his background and an unexpected encounter with Samuel that foreshadows his selection as Israel’s first king.",
+  "summary": "A Benjamite named Kish has a son, Saul, described as taller and more handsome than his peers; when Kish’s donkeys go missing Saul sets out to search for them. After fruitless searching Saul and a servant decide to seek a local ‘man of God’ (a seer); the servant offers a small payment to obtain guidance. Samuel, who the LORD had informed the day before that he would send a man from Benjamin to be anointed, meets Saul as he enters the city. Samuel invites Saul to eat at the sacrificial meal and privately tells him not to worry about the lost donkeys, revealing instead that Israel’s desire is upon him. The chapter closes with Samuel preparing to reveal God’s word to Saul on the city roof before sending him away.",
+  "externalContext": "The narrative is set in the late period of the Israelite tribal confederacy, a transitional era between the judges and the establishment of monarchy; Philistine pressure and internal disorder provide the backdrop for Israel’s demand for centralized leadership. ‘Seers’ (Hebrew ro'eh) and ‘prophets’ were religious figures who mediated divine guidance—this chapter even notes a recent change in terminology (v.9). Public sacrifices at high places and the social practice of a leading religious figure blessing a communal meal are cultural markers of this period.",
+  "externalReferences": "This episode foreshadows the formal anointing and public confirmation of Saul recorded in 1 Samuel 10, where Samuel anoints Saul and gives signs confirming his call. The rise of a human king here connects to the earlier account of Israel’s demand for a king in 1 Samuel 8:4–22, which provides the political-theological context for why being ‘captain over my people’ is significant.",
+  "seeAlso": [
+    "1 Samuel 8:4-22",
+    "1 Samuel 10:1-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Saul's Search and Decision"
+    },
+    {
+      "range": "10-17",
+      "title": "Seeking the Seer"
+    },
+    {
+      "range": "18-27",
+      "title": "Divine Disclosure with Samuel"
+    }
+  ],
+  "themes": [
+    "Divine calling",
+    "Providence",
+    "Humility",
+    "Prophetic authority"
+  ],
+  "practicalQuestions": [
+    "How do ordinary setbacks or errands in my life (like the lost donkeys) prepare me for larger opportunities or callings?",
+    "When someone is unexpectedly chosen for leadership, how should we balance humility with accepting responsibility?",
+    "How should communities weigh prophetic or spiritual claims about leaders against popular desire or political pressure?",
+    "What practices help us discern God’s guidance in everyday decisions?"
+  ],
+  "uncertainAreas": "The narrative’s link between the lost donkeys and Saul’s call is thematic rather than causal, so it’s unclear whether the donkey-search is merely a narrative device. The exact social meaning of ‘all the desire of Israel’ (v.20) is ambiguous—whether it denotes popular affection, tribal expectation, or divine designation. Terminology shift from ‘seer’ to ‘prophet’ (v.9) is noted but its full implications for institutional change are not spelled out.",
+  "createdAt": "2025-11-03T17:44:24.317Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

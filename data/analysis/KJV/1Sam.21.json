@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "1Sam.21",
+  "briefOverview": "David, fleeing Saul, seeks food and weapons from the priest at Nob and then flees to the Philistine city of Gath, where he feigns madness to escape danger.",
+  "summary": "David comes alone to Nob and asks Ahimelech the priest for food and weapons. Ahimelech gives him the consecrated showbread after David claims his men have kept ceremonial purity, and tells him of the sword of Goliath, which David takes. Doeg the Edomite, present at Nob and loyal to Saul, is noted in the crowd. David then flees to Achish king of Gath; the Philistine servants recognize him and recall his fame, which alarms David. To avoid capture or execution, David pretends to be insane before Achish and is dismissed.\n",
+  "externalContext": "Nob was a priestly town near Jerusalem where priests ministered and kept the sacred bread; according to the Torah (e.g., Leviticus 24:5–9) the showbread (bread of the presence) was normally reserved for priests. The political background is David’s fugitive status after falling out with King Saul, and the Philistine city of Gath was one of the principal centers of Philistine power and the home region of Goliath.",
+  "externalReferences": "The episode presupposes David’s earlier slaying of Goliath (1 Samuel 17), which explains the presence of Goliath’s sword. The description of the showbread connects with Leviticus 24:5–9 on the bread of the Presence and its priestly use. Doeg’s presence here sets up his later role in informing Saul and the subsequent massacre of the priests (1 Samuel 22:9–23).",
+  "seeAlso": [
+    "1 Samuel 17",
+    "Leviticus 24:5-9",
+    "1 Samuel 22:9-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Request for Holy Bread"
+    },
+    {
+      "range": "7-9",
+      "title": "Goliath's Sword"
+    },
+    {
+      "range": "10-15",
+      "title": "Flight to Gath"
+    }
+  ],
+  "themes": [
+    "Survival",
+    "Sanctity",
+    "Deception",
+    "Vulnerability"
+  ],
+  "practicalQuestions": [
+    "When rules for sacred practices conflict with urgent human need, how should communities balance law and mercy?",
+    "What ethical considerations arise when someone uses deception to protect their life or the lives of others?",
+    "How should communities respond to fugitives who seek help while concealing their full circumstances?",
+    "What safeguards should exist to protect religious personnel and sanctuaries during political conflict?"
+  ],
+  "uncertainAreas": "Translation and interpretive issues around verse 5 (phrases like \"vessels of the young men are holy\" and \"in a manner common\") affect whether David claims full ritual purity; motives behind David’s specific choices (why he goes to Gath rather than elsewhere) are implied but not fully explained. Also, the narrative leaves open how Ahimelech assesses David’s story and whether his decision is normative or exceptional.",
+  "createdAt": "2025-11-03T17:50:56.218Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

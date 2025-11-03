@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "1Kgs.2",
+  "briefOverview": "David gives Solomon a final charge to obey God and administer justice, then Solomon secures the throne by dealing decisively with Adonijah, Abiathar, Joab, and Shimei.",
+  "summary": "As David nears death, he exhorts Solomon to be strong, keep the law of Moses, and thus uphold God's conditional promise to David's house. He advises Solomon to act wisely regarding Joab’s bloodguilt, to show kindness to Barzillai’s family, and to hold Shimei accountable for past offenses. David dies after a forty-year reign, and Solomon’s rule is firmly established. Adonijah requests Abishag as wife via Bathsheba; Solomon interprets this as a renewed bid for the throne and has Adonijah executed. Solomon deposes Abiathar (sparing his life), executes Joab despite his grasping the altar, and appoints Benaiah over the army and Zadok as priest. He restricts Shimei to Jerusalem under oath; when Shimei violates the condition, Solomon orders his execution, and the kingdom is established in Solomon’s hand.",
+  "externalContext": "In the ancient Near East, transitions of power were precarious, and new kings often consolidated authority by neutralizing rival claimants and securing loyalty among military and priestly elites. Possession of a previous king’s concubines was widely understood as a symbolic claim to the throne. Altars could function as places of asylum, though Israel’s law limited such protection, especially in cases of intentional bloodshed. Under David, priestly leadership was shared by Zadok and Abiathar; their divergence in succession politics had religious and political implications. Anathoth, to which Abiathar is banished, was a Levitical town associated with priests.",
+  "externalReferences": "This chapter presumes the events of 1 Kings 1 (Adonijah’s earlier attempt to seize the throne and Abishag’s service to David); taking a royal concubine signified a claim to kingship, as seen when Absalom went in to David’s concubines (2 Samuel 16:22). Solomon cites Joab’s murders of Abner (2 Samuel 3:27) and Amasa (2 Samuel 20:10), and his execution of Joab accords with Exodus 21:14, which excludes intentional killers from altar asylum. Shimei had cursed David during Absalom’s rebellion and later sought pardon (2 Samuel 16:5–13; 19:16–23), framing Solomon’s conditional parole and later execution. Abiathar’s removal fulfills the word against Eli’s house (1 Samuel 2:27–36), and David’s reminder of God’s promise echoes the Davidic covenant (2 Samuel 7:12–16).",
+  "seeAlso": [
+    "1 Kings 1:1-53",
+    "2 Samuel 3:27",
+    "2 Samuel 20:10",
+    "2 Samuel 16:22",
+    "2 Samuel 16:5-13",
+    "2 Samuel 19:16-23",
+    "2 Samuel 7:12-16",
+    "1 Samuel 2:27-36",
+    "Exodus 21:14",
+    "Deuteronomy 17:18-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "David’s final charge and death"
+    },
+    {
+      "range": "13-35",
+      "title": "Adonijah punished; Abiathar deposed; Joab executed"
+    },
+    {
+      "range": "36-46",
+      "title": "Shimei confined, violates oath, executed"
+    }
+  ],
+  "themes": [
+    "Covenant obedience",
+    "Legitimacy of rule",
+    "Justice and retribution",
+    "Wisdom in governance"
+  ],
+  "practicalQuestions": [
+    "In leadership transitions, how can we uphold justice without succumbing to vindictiveness?",
+    "What safeguards help leaders keep their authority aligned with God’s law rather than personal ambition?",
+    "How should prior loyalties and past offenses be weighed when establishing a new administration?",
+    "What does it look like to keep our oaths and boundaries, even when doing so is costly?",
+    "How can kindness to loyal supporters coexist with firm accountability for wrongdoing?"
+  ],
+  "uncertainAreas": "The narrative blends justice and political consolidation; the degree to which Solomon’s actions are portrayed as purely righteous judgment versus strategic elimination of rivals is interpretively delicate. The status of Abishag—though described earlier as not sexually known by David—still functions like a royal concubine; the extent to which this made Adonijah’s request treasonous is inferred rather than explicitly stated. The identity of Achish of Gath (v.39) relative to earlier figures of the same name is unclear.",
+  "createdAt": "2025-11-03T18:23:59.774Z",
+  "modelId": "gpt-5-2025-08-07"
+}

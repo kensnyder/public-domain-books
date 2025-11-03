@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "2Sam.13",
+  "briefOverview": "Amnon assaults his half-sister Tamar, and Absalom avenges her by murdering Amnon, fracturing David’s household.",
+  "summary": "Amnon, obsessed with his half-sister Tamar, follows the crafty counsel of Jonadab to feign illness so David will send Tamar to serve him; once alone, he overpowers and rapes her despite her pleas, then drives her away in contempt. Tamar publicly mourns and lives desolate in Absalom’s house, while David is very angry but takes no recorded action. Absalom harbors silent hatred for two years. During a sheepshearing feast, he instructs his servants to kill Amnon when his heart is merry with wine, and they do so, prompting the other royal sons to flee. A panicked report tells David all his sons are dead, but Jonadab clarifies that only Amnon has been killed, a plan Absalom had intended since Tamar’s violation. Absalom flees to his maternal grandfather Talmai in Geshur for three years, while David mourns and eventually longs to go to Absalom, being comforted regarding Amnon’s death.",
+  "externalContext": "In ancient Israel, royal households were often polygynous, producing complex networks of half-siblings and rivalries within the court. Kings served as ultimate judges, expected to uphold justice, yet intra-palace offenses could be politically fraught to prosecute. Israel’s Torah forbade sexual relations with a sister or half-sister (Leviticus 18), and prescribed protections and penalties in cases of sexual violence (Deuteronomy 22). Sheepshearing was a time of festivity and feasting, often used as a setting for political or violent turns (cf. 1 Samuel 25). Geshur was a small neighboring kingdom allied to David’s house by marriage; Absalom’s mother was a Geshurite princess, making it a natural place of refuge.",
+  "externalReferences": "The turmoil in David’s household echoes Nathan’s prophecy after David’s sin with Bathsheba: that the sword would not depart from his house and that calamity would arise from within (2 Samuel 12:10–12). Tamar’s plea stands against Torah prohibitions of incest (Leviticus 18:9) and the law’s concern for coerced relations (Deuteronomy 22:25–27; 22:28–29); her suggestion to “speak to the king” is often read as a desperate attempt to delay, since such a union would be unlawful. Absalom’s flight to Talmai ties back to Absalom’s maternal lineage (2 Samuel 3:3), explaining his haven in Geshur.",
+  "seeAlso": [
+    "2 Samuel 12:10-12",
+    "Leviticus 18:9",
+    "Deuteronomy 22:25-27",
+    "Deuteronomy 22:28-29",
+    "2 Samuel 3:3",
+    "1 Samuel 25:2-8",
+    "Genesis 37:3",
+    "2 Samuel 14:1-24",
+    "2 Samuel 15:1-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "Amnon’s deception and rape"
+    },
+    {
+      "range": "20-29",
+      "title": "Absalom’s hatred and revenge"
+    },
+    {
+      "range": "30-39",
+      "title": "News, mourning, and flight to Geshur"
+    }
+  ],
+  "themes": [
+    "Sexual violence",
+    "Abuse of power",
+    "Deceit",
+    "Vengeance",
+    "Failed justice"
+  ],
+  "practicalQuestions": [
+    "How should leaders respond promptly and justly to sexual violence, especially within their own circles?",
+    "What safeguards can communities build to prevent manipulation and isolation that enable abuse?",
+    "When justice is delayed or absent, how can individuals resist the pull toward personal vengeance?",
+    "How does unaddressed family or organizational sin fester into greater harm over time?",
+    "In situations of trauma, what concrete steps can we take to validate victims and support their long-term restoration?"
+  ],
+  "uncertainAreas": "Tamar’s statement that David would not withhold her from Amnon is difficult, given Leviticus 18’s incest prohibitions; whether she meant it literally, as a legal tactic, or as a delaying strategy is unclear. The narrative notes David’s anger but does not state why he took no judicial action; the reasons for his inaction are not explicit. The description of Tamar’s garment (“divers colours”) may denote a long-sleeved or special robe; the exact nuance is debated.",
+  "createdAt": "2025-11-03T18:11:17.317Z",
+  "modelId": "gpt-5-2025-08-07"
+}

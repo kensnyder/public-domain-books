@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "1Sam.19",
+  "briefOverview": "A narrative of Saul's renewed attempts to kill David, his son Jonathan's protective intervention, Michal's help in David's escape, and a closing scene where the Spirit overwhelms Saul and his messengers so they prophesy.",
+  "summary": "Saul orders David's death, but Jonathan warns and advocates for David, securing Saul's temporary oath of safety (1–7). David continues military service and again distinguishes himself in battle against the Philistines, while Saul, tormented by an evil spirit, attempts to kill David with a javelin but fails (8–11). Michal helps David escape by lowering him through a window and deceives Saul's messengers with an image in the bed; David flees to Samuel at Ramah and they live at Naioth (12–18). Saul sends messengers to seize David, but when they encounter the prophetic community at Naioth the Spirit comes upon them and they prophesy; this happens repeatedly, and when Saul himself goes there the Spirit seizes him so that he strips off his clothes and prophesies (19–24).",
+  "externalContext": "The narrative sits in the early monarchy period of ancient Israel (late 11th century BCE in traditional chronology), when kingship, prophetic institutions, and military conflict with the Philistines are prominent. Prophetic groups or ecstatic prophetic circles (here at Naioth) appear elsewhere in the Hebrew Bible and could function as communities where prophecy, music, and communal worship were practiced. The idea of an 'evil spirit from the LORD' reflects ancient Near Eastern views in which divine or spiritual agency could be credited for both deliverance and distress, not always distinguished in modern categories of psychological illness or demonic activity.",
+  "externalReferences": "The episode alludes back to David's earlier fame for killing the Philistine (see 1 Samuel 17:48–51), a key reason given for Saul's jealousy and Jonathan's defense. The motif of Saul being overcome by the spirit and prophesying among prophets appears earlier in 1 Samuel 10:10–11 and echoes the present scene (19:23–24), showing a literary parallel that frames Saul's kingship with prophetic encounters.\n\nSaul's repeated attempts on David's life continue the conflict described in surrounding chapters (notably 1 Samuel 18:6–11 and the covenantal friendliness and political tension developed in 1 Samuel 20), situating this chapter within the ongoing Saul–David rivalry.",
+  "seeAlso": [
+    "1 Samuel 17:48-51",
+    "1 Samuel 10:10-11",
+    "1 Samuel 18:6-11",
+    "1 Samuel 20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Jonathan Advocates for David"
+    },
+    {
+      "range": "8-18",
+      "title": "Assaults, Escape, and Flight"
+    },
+    {
+      "range": "19-24",
+      "title": "Prophecy at Naioth"
+    }
+  ],
+  "themes": [
+    "Jealousy and Rivalry",
+    "Loyalty and Protection",
+    "Prophetic Ecstasy",
+    "Escape and Survival"
+  ],
+  "practicalQuestions": [
+    "How should friends and family respond when a leader acts unjustly toward someone they care about?",
+    "What responsibilities do bystanders have when they see state or institutional abuse of power?",
+    "How do communities discern genuine prophetic or spiritual experiences, and what safeguards are appropriate?",
+    "In what ways can courage and quick thinking (as shown by Michal and Jonathan) inform contemporary responses to danger?"
+  ],
+  "uncertainAreas": "The text's phrase 'the evil spirit from the LORD' is theologically and historically ambiguous—unclear whether it denotes divine judgment, demonic influence, or a literary way to describe Saul's disturbed behavior. The exact nature of the prophetic activity at Naioth (ritual ecstasy, music, legal sanctuary, or political resistance) is not fully specified. Michal's motives and later fate are not detailed here, leaving her intentions partly uncertain.",
+  "createdAt": "2025-11-03T17:50:01.577Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

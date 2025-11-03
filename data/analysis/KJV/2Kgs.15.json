@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Kgs.15",
+  "briefOverview": "A historical summary of successive kings in Israel and Judah emphasizing political violence, religious compromise, and Assyrian pressure.",
+  "summary": "The chapter records the reigns of Judah’s Azariah (Uzziah) and Jotham and a rapid succession of northern kings: Zechariah, Shallum, Menahem, Pekahiah, Pekah, and finally Hoshea. Azariah rules long and is judged largely positive but is struck with leprosy and isolates himself while his son Jotham administers the kingdom. The northern kingdom experiences coups and assassinations, brutal suppression of rebellious towns (Tiphsah), and payment of heavy tribute to Assyria to secure a ruler’s position. Assyrian intervention under Tiglath-pileser/Pul leads to territorial losses in the north. The chapter closes with Jotham reigning righteously in Judah though high places remain, and with external pressure from Rezin of Syria and Pekah of Israel against Judah.",
+  "externalContext": "These events belong to the 8th century BCE, a period of growing Assyrian power in the Near East; local kings often sought Assyrian support or paid tribute to secure their thrones. The Deuteronomistic editorial perspective that evaluates kings by fidelity to YHWH and the removal of high places shapes the chapter’s assessments. Political assassinations and palace coups were a common feature of monarchic succession in the ancient Near East.",
+  "externalReferences": "The persistent fault ascribed to many northern kings—continuing the sin of Jeroboam son of Nebat—echoes the origin story of Israelite idolatry in 1 Kings 12:26–33, where Jeroboam sets up rival high places and golden calves. The promise that Jehu’s descendants would sit on Israel’s throne to the fourth generation appears earlier in the Jehu narrative (2 Kings 10:30). The Assyrian campaigns noted here anticipate the partial conquest and deportations described later in the narrative (see 2 Kings 17:6).",
+  "seeAlso": [
+    "1 Kings 12:26-33",
+    "2 Kings 10:30",
+    "2 Kings 17:6",
+    "2 Kings 18:10-12",
+    "2 Chronicles 26",
+    "2 Chronicles 27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Azariah (Uzziah) Reign"
+    },
+    {
+      "range": "8-31",
+      "title": "Israel: Coups and Assyria"
+    },
+    {
+      "range": "32-38",
+      "title": "Jotham of Judah"
+    }
+  ],
+  "themes": [
+    "Political instability",
+    "Religious compromise",
+    "Assyrian pressure",
+    "Divine assessment"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when political leadership is marked by violence and insecurity?",
+    "What does it mean to ‘do right’ yet tolerate religious compromise, and how should that shape contemporary reform?",
+    "When is it appropriate to seek security through foreign alliances or payment of tribute, and what are the moral costs?",
+    "How do we read text statements that appear to link disease or disaster directly to divine punishment?"
+  ],
+  "uncertainAreas": "Identification of 'Pul' with Tiglath‑pileser III is common but not explicitly explained in the text; the narrative’s causal link between sin and events (e.g., Azariah’s leprosy) reflects theological interpretation rather than detailed historical explanation; synchronisms of regnal years can be complex and are not fully resolved within the chapter.",
+  "createdAt": "2025-11-03T18:54:55.514Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

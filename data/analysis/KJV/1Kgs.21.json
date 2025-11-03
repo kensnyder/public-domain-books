@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "1Kgs.21",
+  "briefOverview": "Ahab covets Naboth’s vineyard; Jezebel engineers Naboth’s execution so Ahab can seize the land. Elijah pronounces judgment on Ahab’s house, which is partially deferred when Ahab humbles himself.",
+  "summary": "Ahab offers to buy or trade for Naboth’s vineyard near his Jezreel palace, but Naboth refuses, citing the inheritance of his fathers. Jezebel writes letters in Ahab’s name to Jezreel’s elders, orchestrating a sham fast, false witnesses, and Naboth’s stoning for alleged blasphemy. After Ahab goes to possess the vineyard, Elijah confronts him with the Lord’s word: he is condemned for murder and theft; his dynasty will be cut off and Jezebel will be eaten by dogs, with dogs and birds consuming any of Ahab’s line who die. The narrator underscores Ahab’s unequaled wickedness, stirred up by Jezebel, and his idolatry like the Amorites. Ahab tears his clothes, fasts, and walks humbly, and God delays the announced disaster until his son’s days.",
+  "externalContext": "Israelite land tenure treated ancestral plots as a family trust that ordinarily could not be permanently alienated, especially in the Northern Kingdom’s agrarian society. Judicial procedure in ancient Israel required two witnesses for capital charges, and blasphemy was a stoning offense; communal fasts signaled crises requiring public inquiry. Jezreel served as a royal residence with a palace and chariot grounds, while Samaria was the Northern Kingdom’s capital. Jezebel, a Sidonian princess, had promoted Baal worship in Israel, heightening prophetic opposition to the royal house.",
+  "externalReferences": "Naboth’s refusal accords with laws preserving ancestral land (Leviticus 25:23; Numbers 36:7–9). Jezebel’s scheme mimics legal forms—two witnesses and stoning—but corrupts them (Deuteronomy 17:6; 19:15; Leviticus 24:16). Elijah’s word about dogs licking Ahab’s blood echoes in Ahab’s death narrative (1 Kings 22:38), and Jezebel’s fate is fulfilled in Jezreel (2 Kings 9:36–37). The threat to make Ahab’s house like Jeroboam’s and Baasha’s recalls prior judgments on those dynasties (1 Kings 14:10–11; 16:3–4).",
+  "seeAlso": [
+    "Leviticus 25:23",
+    "Numbers 36:7-9",
+    "Deuteronomy 17:6",
+    "Deuteronomy 19:15",
+    "Leviticus 24:16",
+    "1 Kings 22:38",
+    "2 Kings 9:25-26",
+    "2 Kings 9:36-37",
+    "1 Kings 14:10-11",
+    "1 Kings 16:3-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Naboth’s vineyard seized"
+    },
+    {
+      "range": "17-24",
+      "title": "Elijah’s judgment oracle"
+    },
+    {
+      "range": "25-29",
+      "title": "Ahab’s humility and reprieve"
+    }
+  ],
+  "themes": [
+    "Abuse of power",
+    "False witness",
+    "Divine justice",
+    "Repentance and mercy",
+    "Inheritance law"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted to use legitimate processes (legal or organizational) for illegitimate ends?",
+    "How do I respond when authority pressures me to enable injustice or dishonesty?",
+    "What safeguards can my community adopt to protect the vulnerable from false accusation?",
+    "When confronted with wrongdoing, do I humble myself promptly, and how might genuine repentance alter consequences?",
+    "How should leaders respect limits on their power, especially regarding others’ property or rights?"
+  ],
+  "uncertainAreas": "The text does not state whether Ahab knew Jezebel’s exact plan prior to Naboth’s death, only that he took possession afterward. The phrase about dogs licking Ahab’s blood “in the place where dogs licked the blood of Naboth” is textually and geographically debated in relation to 1 Kings 22:38. The function of seating Naboth “on high” at the fast—honor before accusation or positioning for public condemnation—has some ambiguity.",
+  "createdAt": "2025-11-03T18:42:24.069Z",
+  "modelId": "gpt-5-2025-08-07"
+}

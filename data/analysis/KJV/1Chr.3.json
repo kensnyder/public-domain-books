@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "1Chr.3",
+  "briefOverview": "A genealogical record tracing David’s sons and the succession of Judah’s kings, then following Jeconiah’s descendants down to Zerubbabel and his offspring.",
+  "summary": "Verses 1–9 list the sons born to David in Hebron and Jerusalem, naming wives and noting Tamar. Verses 10–16 trace Solomon’s royal descendants through Josiah, giving the line of Judah’s kings. Verses 17–24 enumerate the sons of Jeconiah (Jehoiachin) and follow his descendants, highlighting Zerubbabel and the families that descend from him down to Elioenai. The chapter functions as a structured lineage linking the Davidic monarchy to post-exilic leaders associated with the return from Babylon.",
+  "externalContext": "1 Chronicles is generally regarded as a post-exilic composition (after the Babylonian exile) when lineage and legitimate claims to leadership mattered for community restoration and religious order. Genealogies in this period helped re-establish identity, priestly and royal legitimacy, and continuity with pre-exilic Israel.",
+  "externalReferences": "The lists of David’s sons born in Hebron parallel the list in 2 Samuel 3:2–5, where some names differ (for example, 'Daniel' appears here where 2 Samuel has 'Chileab'). Zerubbabel, named here as a descendant of Jeconiah, figures prominently in the return narratives and prophetic encouragement to rebuild the temple (see Ezra 3:2; Haggai 1:1). Jeconiah/Jehoiachin is elsewhere the subject of Jeremiah’s oracle about the downfall of his line (Jeremiah 22:24–30), a background that shapes the significance of later descendants.",
+  "seeAlso": [
+    "2 Samuel 3:2-5",
+    "Ezra 3:2",
+    "Haggai 1:1",
+    "Jeremiah 22:24-30",
+    "Zechariah 4:6-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "David’s Sons"
+    },
+    {
+      "range": "10-16",
+      "title": "Davidic Royal Succession"
+    },
+    {
+      "range": "17-24",
+      "title": "Jeconiah to Zerubbabel"
+    }
+  ],
+  "themes": [
+    "Davidic succession",
+    "Genealogy",
+    "Royal lineage",
+    "Exilic restoration"
+  ],
+  "practicalQuestions": [
+    "How does tracing ancestry shape a community’s sense of identity and purpose today?",
+    "What can modern leaders learn from the Chronicle’s emphasis on legitimate succession and continuity?",
+    "In what ways should families and institutions preserve and transmit their histories?",
+    "How can communities recover continuity and leadership after displacement or crisis?"
+  ],
+  "uncertainAreas": "Variant names and small textual differences between Chronicles and Samuel/Kings (e.g., 'Daniel' vs. 'Chileab') raise questions about sources and editorial choices. The precise editorial purpose of listing some minor names and omitting others (concubines, daughters) is not fully clear from the text alone, and the exact dating and authorship of Chronicles remain debated.",
+  "createdAt": "2025-11-03T19:02:26.856Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

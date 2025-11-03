@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Sam.2",
+  "briefOverview": "David is anointed king by Judah at Hebron while Abner installs Ish-bosheth over the northern tribes, producing a divided rule. A deadly clash at Gibeon escalates into battle, culminating in Asahel’s death and a negotiated halt to pursuit.",
+  "summary": "David seeks the LORD’s guidance, goes to Hebron with his households, and is anointed king over Judah. He commends the men of Jabesh-gilead for burying Saul and signals his own kingship to them. Abner sets up Ish-bosheth, Saul’s son, as king over Gilead, Jezreel, Ephraim, Benjamin, and “all Israel,” while Judah remains loyal to David; Ish-bosheth reigns two years, and David reigns over Judah from Hebron for seven years and six months. The forces of Abner and Joab meet at the pool of Gibeon, where a contest among young men turns into a fierce battle, resulting in Abner’s defeat. Asahel relentlessly pursues Abner, who warns him off; Abner kills Asahel with his spear-butt, and Joab and Abishai pursue until Abner calls for an end to fraternal bloodshed. Joab sounds the trumpet, hostilities cease, and both sides withdraw; David’s side loses nineteen men plus Asahel, while Abner’s side loses three hundred and sixty, and Asahel is buried at Bethlehem.",
+  "externalContext": "After Saul’s death, Israel functioned as a loose tribal confederation where regional loyalties shaped politics; Judah often acted distinctly from the northern tribes. Hebron was a major Judean center and an ancient patriarchal site, making it a strategic and symbolic choice for David’s base. Anointing with oil signified divine appointment and public recognition for kings in ancient Israel. Mahanaim lay east of the Jordan, a defensible location fitting for Ish-bosheth’s court under Abner’s protection. The “pool of Gibeon” refers to a large reservoir; gatherings at such sites could facilitate parley—or, as here, become flashpoints. The proposal that the “young men … play” likely denotes champion combat, an ancient practice sometimes used to decide contests but capable of igniting broader warfare.",
+  "externalReferences": "David’s anointing by Judah echoes his earlier secret anointing by Samuel (1 Samuel 16:1, 12–13), underscoring his divinely recognized legitimacy. His inquiry of the LORD continues a pattern established during his wilderness years (1 Samuel 23:2, 4; 30:7–8). David’s blessing to Jabesh-gilead connects to their courage in retrieving and burying Saul’s body (1 Samuel 31:11–13), itself tied to Saul’s earlier rescue of Jabesh-gilead that forged their loyalty (1 Samuel 11:1–11). Asahel’s death becomes a catalyst for later events between Joab and Abner (2 Samuel 3:27).",
+  "seeAlso": [
+    "1 Samuel 16:1,12-13",
+    "1 Samuel 23:2,4",
+    "1 Samuel 30:7-8",
+    "1 Samuel 31:11-13",
+    "1 Samuel 11:1-11",
+    "2 Samuel 3:27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "David Anointed in Judah"
+    },
+    {
+      "range": "8-11",
+      "title": "Ish-bosheth Made King"
+    },
+    {
+      "range": "12-32",
+      "title": "Battle at Gibeon"
+    }
+  ],
+  "themes": [
+    "Divine guidance",
+    "Legitimacy of kingship",
+    "Civil conflict",
+    "Loyalty",
+    "Restraint in warfare"
+  ],
+  "practicalQuestions": [
+    "Do I seek guidance before major decisions, as David does?",
+    "How can I honor predecessors and opponents without compromising conviction?",
+    "When conflict escalates, what actions could de-escalate and preserve relationships?",
+    "Where might loyalty to my group overshadow a larger commitment to unity and justice?",
+    "How should leaders balance pursuit of victory with the cost of fraternal strife?"
+  ],
+  "uncertainAreas": "The chronology between Ish-bosheth’s two-year reign and David’s seven-and-a-half years in Hebron is difficult to harmonize; the text does not explain the overlap. The term “Ashurites” (v. 9) is uncertain in identification. The word “play” (v. 14) likely means representative combat, but the exact custom and intent are debated. Motivations behind Abner’s truce appeal and Joab’s response involve interpretive nuance beyond explicit statements.",
+  "createdAt": "2025-11-03T18:01:38.858Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "2Sam.1",
+  "briefOverview": "David learns of Saul and Jonathan’s deaths, responds with mourning and judgment, and composes a national lament.",
+  "summary": "On the third day after returning to Ziklag, David receives a report from an Amalekite that Saul and Jonathan have died in battle. The messenger claims he finished Saul at Saul’s request and presents the royal crown and bracelet to David. David and his men tear their clothes, weep, and fast for Saul, Jonathan, and Israel. Confronting the messenger, David condemns him for claiming to have killed the LORD’s anointed and has him executed. David then composes and orders the teaching of a lament—recorded in the Book of Jasher—praising Saul and Jonathan and grieving Israel’s loss. The lament repeatedly cries, “How are the mighty fallen,” and honors Jonathan’s loyalty and love toward David.",
+  "externalContext": "In ancient Israel and the broader Near East, tearing clothes, placing dust on the head, and fasting were conventional signs of mourning. The Amalekites were long-standing enemies of Israel, and Saul’s earlier failure to destroy them fully (1 Samuel 15) formed part of the rationale for his rejection as king. The phrase “son of a stranger” indicates a resident alien (ger) living among Israel without full landholding rights. The “Book of Jasher” appears to have been a collection of heroic poetry also referenced in Joshua 10:13, though it is no longer extant. Mount Gilboa lies in northern Israel; the Philistine victory there would have been experienced as a national catastrophe.",
+  "externalReferences": "1 Samuel 31:1–6 gives a different account of Saul’s death (Saul falls on his own sword), highlighting a likely discrepancy with the Amalekite’s claim here. David’s refusal to harm “the LORD’s anointed” aligns with his earlier restraint toward Saul in 1 Samuel 24:4–7 and 26:8–11. David’s deep grief for Jonathan reflects their covenantal bond described in 1 Samuel 18:1–4; 20:16–17; and 23:16–18. The mention of the “Book of Jasher” connects to Joshua 10:12–13, where another poem is cited from the same source.",
+  "seeAlso": [
+    "1 Samuel 31:1-6",
+    "1 Samuel 24:4-7",
+    "1 Samuel 26:8-11",
+    "1 Samuel 18:1-4",
+    "1 Samuel 20:16-17",
+    "Joshua 10:12-13",
+    "1 Samuel 15:2-11",
+    "2 Samuel 4:9-12",
+    "Micah 1:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "An Amalekite Reports Saul’s Death"
+    },
+    {
+      "range": "11-16",
+      "title": "Mourning and Justice on the Messenger"
+    },
+    {
+      "range": "17-27",
+      "title": "David’s Lament: “How the Mighty Have Fallen”"
+    }
+  ],
+  "themes": [
+    "Respect for God’s anointed",
+    "Grief and lament",
+    "Justice and integrity",
+    "National loss"
+  ],
+  "practicalQuestions": [
+    "How should we respond when a flawed leader falls—gloating, indifference, or lament?",
+    "What does it look like to honor God-ordained authority without excusing wrongdoing?",
+    "Where might we be tempted to curry favor through exaggeration or deceit, and how should we resist?",
+    "How can public lament and remembrance help communities process collective loss?",
+    "Do we speak and act in ways that honor loyal friendships and covenantal commitments?"
+  ],
+  "uncertainAreas": "The Amalekite’s account conflicts with 1 Samuel 31, raising uncertainty about whether he lied to gain favor. The phrase “teach the children of Judah the use of the bow” may denote either martial training or the title of the lament (“The Bow”). The precise nature of David’s legal basis for executing the messenger rests on his confession—whether taken as factual or self-incriminating boast. The “Book of Jasher” and the exact nuance of “your love to me was wonderful, passing the love of women” are not fully clear from the text.",
+  "createdAt": "2025-11-03T18:01:02.902Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.11",
+  "briefOverview": "The chapter recounts the secret rescue and coronation of the child Joash and the overthrow of Queen Athaliah, highlighting priestly leadership and a return to Yahwistic worship.",
+  "summary": "Athaliah, having seen her son Ahaziah dead, seeks to exterminate the royal line, but Jehosheba secretly rescues Joash and hides him in the house of the LORD for six years. In the seventh year the priest Jehoiada organizes the army and temple guard, distributes responsibilities, arms the men with David’s spears and shields, and publicly presents Joash to be anointed and crowned king. When Athaliah hears the commotion and protests, she is seized and executed outside the temple precincts at Jehoiada’s command. Jehoiada then makes a covenant between the LORD, the king, and the people; the people destroy the house of Baal and kill its priest Mattan. Leaders are appointed over the temple, the young king is installed in the palace, the city quiets, and Joash begins to reign at seven years old.",
+  "externalContext": "This episode takes place during the divided monarchy (Israel and Judah) when political alliances and royal marriages commonly brought foreign religious influences into Judah; Athaliah is identified elsewhere as related to the Omride dynasty (the house of Ahab), which promoted Baal worship in Israel. The temple in Jerusalem functioned both as a religious sanctuary and, at times, as a political center; priests could exercise significant influence. Coronation customs included anointing and public acclamation (\"God save the king\"), and sanctuary protection for a child in the temple was a recognized practice.",
+  "externalReferences": "The account has a close parallel in 2 Chronicles 22–23, which provides a more detailed retelling of Jehoiada’s actions and the covenant-making. Athaliah’s connection to the northern house of Omri/Ahab helps explain the presence of Baal worship in Jerusalem and echoes earlier conflicts over Baal in the reign of Ahab—cf. 1 Kings 18 (Elijah’s contest with Baal). The narrative sets the stage for Joash’s later reign reported in 2 Kings 12:1 and related passages.",
+  "seeAlso": [
+    "2 Chronicles 23:1-21",
+    "1 Kings 18:16-40",
+    "2 Kings 8:26-27",
+    "2 Kings 12:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Rescue of Joash"
+    },
+    {
+      "range": "4-14",
+      "title": "Coronation and Confrontation"
+    },
+    {
+      "range": "15-21",
+      "title": "Covenant and Purge"
+    }
+  ],
+  "themes": [
+    "Dynastic survival",
+    "Priestly leadership",
+    "Temple sanctuary",
+    "Idolatry removed"
+  ],
+  "practicalQuestions": [
+    "When should religious leaders intervene in political crises to protect legitimate institutions?",
+    "How can communities protect vulnerable children and heirs in times of political violence?",
+    "What responsibilities do communities have to remove harmful practices or institutions, and how should they do so ethically?",
+    "How do we balance sanctuary principles with demands for justice when leaders have abused power?"
+  ],
+  "uncertainAreas": "Uncertainty about some motives and legalities (e.g., full authority by which Jehoiada ordered executions, the precise political alliances behind Athaliah) and the symbolic versus literal status of elements like \"David’s spears.\"",
+  "createdAt": "2025-11-03T18:51:42.602Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

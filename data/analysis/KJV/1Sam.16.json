@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "1Sam.16",
+  "briefOverview": "God directs Samuel to anoint a new king from Jesse's sons—David—and the Spirit of the LORD departs from Saul while David enters Saul's service as a harpist and armour-bearer.",
+  "summary": "God tells Samuel to stop mourning Saul and to anoint a son of Jesse in Bethlehem, promising that a king has been chosen. Samuel fears for his safety but follows God's instructions and convenes Jesse and his sons under the pretense of sacrifice. Samuel inspects Jesse's sons in order, but God rejects them because God examines the heart rather than outward appearance; the youngest, David, is summoned from the sheep, anointed, and the Spirit of the LORD comes upon him. Afterward the Spirit departs from Saul and an 'evil spirit from the LORD' troubles him. Saul's servants suggest finding a skillful harpist; David is brought to Saul, becomes his attendant, and soothes Saul by playing, relieving him when the troubling spirit comes.",
+  "externalContext": "This chapter belongs to Israel's transition from tribal leadership under judges to centralized monarchy; Samuel functions as prophet, judge, and king-maker. Anointing with oil signaled divine selection in Israelite practice, and the 'Spirit of the LORD' functioning as an empowering presence is a recurrent biblical motif for leadership and prophetic ability. Bethlehem is portrayed as a small rural town; selecting a youngest son who tends sheep subverts expected social norms about primogeniture.",
+  "externalReferences": "1 Samuel 15 recounts Samuel's confrontation with Saul and the explicit statement that God has rejected Saul as king, setting the narrative context for God choosing a new king here (1 Samuel 15:26–28). Earlier in the Saul narrative Samuel's rebuke (1 Samuel 13:13–14) already anticipates God's finding 'a man after his own heart' to rule, language that later readers connect with David. The story of David's rise continues in 1 Samuel 17 (David and Goliath), which depicts how David's public deeds establish his reputation and leadership beyond this initial anointing.",
+  "seeAlso": [
+    "1 Samuel 15:26-28",
+    "1 Samuel 13:13-14",
+    "1 Samuel 17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Anointing of David"
+    },
+    {
+      "range": "14-23",
+      "title": "Saul, Spirit, and Service"
+    }
+  ],
+  "themes": [
+    "Divine selection",
+    "Heart vs appearance",
+    "Spirit and leadership",
+    "Service"
+  ],
+  "practicalQuestions": [
+    "How do we balance attention to outward qualifications with discernment of inner character when choosing leaders today?",
+    "In what ways can humble service (like David's music) open opportunities for influence and responsibility in community life?",
+    "How should communities respond when a leader loses moral or spiritual authority?",
+    "What practices help nurture and recognize spiritual gifts and vocational calling in others?"
+  ],
+  "uncertainAreas": "The phrase 'an evil spirit from the LORD' is theologically and narratively ambiguous—interpretations vary about whether this describes divine judgment, a psychological/spiritual affliction, or an ancient idiom for distress. The text also leaves imprecise the public status and timing of David's anointing (private vs. later public recognition) and the duration/character of the Spirit's presence on David versus Saul.",
+  "createdAt": "2025-11-03T17:48:32.937Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

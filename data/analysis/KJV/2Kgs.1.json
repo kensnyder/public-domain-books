@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Kgs.1",
+  "briefOverview": "Elijah confronts King Ahaziah’s appeal to a foreign god and announces divine judgment, highlighting God’s exclusive authority over Israel.",
+  "summary": "After Ahab’s death, Moab rebels against Israel. Ahaziah is injured in a fall and sends messengers to consult Baal-zebub, the god of Ekron, about his recovery, but Elijah intercepts them with the word of the LORD, rebuking the king’s idolatry and declaring that Ahaziah will die. Recognizing the description of Elijah, Ahaziah sends three captains with fifty soldiers each to summon Elijah; fire from heaven consumes the first two groups after they arrogantly demand he come down, while the third humbly pleads for mercy and is spared. Directed by the angel of the LORD, Elijah accompanies the third captain and delivers the same verdict to Ahaziah, who then dies as foretold. Jehoram succeeds him because Ahaziah has no son.",
+  "externalContext": "Ekron was one of the five principal Philistine city-states, and consulting foreign deities or local oracles for prognosis was a common Ancient Near Eastern practice. “Baal-zebub” likely reflects a Philistine Baal title; later Jewish tradition associated the name with “lord of the flies,” though the original title may have been “Baal-zebul” (“exalted lord”). Moab had been a vassal to Israel under Omri and Ahab; its revolt after Ahab’s death is corroborated by the Mesha Stele (Moabite Stone), which recounts King Mesha’s rebellion and victories from Moab’s perspective. Prophets in Israel often wore distinctive garments; Elijah’s “hairy” description may refer to a rough hair garment rather than bodily hair, signaling his prophetic identity.",
+  "externalReferences": "Elijah’s calling down of fire recalls the fire of the LORD consuming the sacrifice on Mount Carmel (1 Kings 18:36–39), again authenticating his prophetic authority. Ahaziah’s seeking guidance from a foreign deity contrasts with Israel’s law forbidding divination and turning to other spiritual sources (Deuteronomy 18:10–12), and parallels Saul’s downfall for seeking a medium instead of the LORD (1 Chronicles 10:13–14). The Moabite rebellion mentioned here connects to the later narrative of Israel’s campaign against Moab (2 Kings 3:4–5). In the New Testament, Jesus rebukes disciples who want to call down fire “as Elijah did,” reframing the use of prophetic power (Luke 9:54–56).",
+  "seeAlso": [
+    "1 Kings 22:51-53",
+    "1 Kings 18:36-39",
+    "Deuteronomy 18:10-12",
+    "1 Chronicles 10:13-14",
+    "2 Kings 3:4-5",
+    "Luke 9:54-56",
+    "Exodus 20:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Moab Rebels"
+    },
+    {
+      "range": "2-15",
+      "title": "Elijah Confronts Ahaziah"
+    },
+    {
+      "range": "16-18",
+      "title": "Oracle Fulfilled"
+    }
+  ],
+  "themes": [
+    "Divine exclusivity",
+    "Prophetic authority",
+    "Judgment",
+    "Humility"
+  ],
+  "practicalQuestions": [
+    "Where do I instinctively turn for guidance or assurance in crisis—toward God or alternative sources?",
+    "How do I respond when confronted with hard truth—resistance, force, or humility?",
+    "As a leader, in what ways might my pride or impatience endanger those under my authority?",
+    "What practices help me inquire of God’s word before acting?",
+    "How can humility change the outcome of a tense confrontation?"
+  ],
+  "uncertainAreas": "The meaning of “Baal-zebub” (flies vs. exalted lord) and whether Elijah was physically hairy or wore a hair garment are debated. The ethics of Elijah’s calling down fire are descriptive here and later reframed in Luke 9:54–56. The chronological note about Jehoram’s accession (v.17) is complex due to overlapping reigns and identical royal names in Israel and Judah.",
+  "createdAt": "2025-11-03T18:44:24.943Z",
+  "modelId": "gpt-5-2025-08-07"
+}

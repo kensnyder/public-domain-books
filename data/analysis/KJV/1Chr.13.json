@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "1Chr.13",
+  "briefOverview": "David attempts to bring the Ark of the Covenant to his capital, but a mishandling leads to divine judgment and the ark’s temporary stay in another household.",
+  "summary": "David consults the leaders and the assembly and organizes a national effort to bring the ark back from Kirjath-jearim because it had not been consulted in Saul’s time. The ark is placed on a new cart from the house of Abinadab and driven by Uzza and Ahio while the people celebrate with music and sacrifice. At the threshing floor of Chidon, when the oxen stumble, Uzza reaches out to steady the ark and God strikes him dead. David is alarmed, names the place Perez-uzza, and leaves the ark in the house of Obed-edom, where it remains three months and God blesses that household.",
+  "externalContext": "The Ark of the Covenant functioned as Israel’s central cultic symbol and was to be handled according to priestly regulations (e.g., carried on poles by Levites). Mishandling sacred objects was treated very seriously in ancient Near Eastern and Israelite cultic practice because of concerns about divine presence and holiness. The Books of Chronicles are usually viewed as post-exilic compositions that emphasize proper Levitical and Davidic worship and thus shape how earlier traditions are presented.",
+  "externalReferences": "This episode parallels and differs in detail from the narrative in 2 Samuel 6:1–11, which also records Uzzah’s death and David’s later rejoicing when the ark is brought up properly. The law about how the ark should be transported is set out in Exodus 25:12–15 and Numbers 4:15, which prescribe Levites carrying the ark on poles rather than using a cart. The earlier story of the ark’s return from Philistine territory (1 Samuel 6:7–12) explains that the ark had previously been transported on a cart, a precedent that may have influenced the method used here. 1 Chronicles 15 recounts the later, corrected transfer of the ark with explicit Levitical roles and ritual.",
+  "seeAlso": [
+    "2 Samuel 6:1-11",
+    "2 Samuel 6:12-23",
+    "Exodus 25:12-15",
+    "Numbers 4:15",
+    "1 Samuel 6:7-12",
+    "1 Chronicles 15:1-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Decision to Restore Ark"
+    },
+    {
+      "range": "7-11",
+      "title": "Procession and Tragedy"
+    },
+    {
+      "range": "12-14",
+      "title": "Aftermath and Blessing"
+    }
+  ],
+  "themes": [
+    "Divine holiness",
+    "Liturgical propriety",
+    "Fear and reverence",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How do we balance communal enthusiasm in worship with careful observance of tradition and instruction?",
+    "What safeguards should leaders use to ensure religious practices respect the convictions and regulations of their tradition?",
+    "How should a community respond when a sacred practice unexpectedly leads to harm or crisis?",
+    "In what ways do we recognize and honor 'holy' boundaries today without becoming paralyzed by fear?"
+  ],
+  "uncertainAreas": "The text does not fully explain why touching the ark merited instantaneous death beyond the statement that 'the anger of the LORD was kindled'; it is also unclear whether Levites were present or why a cart (as in the Philistine precedent) was chosen instead of pole-bearing as in the Mosaic law. Differences in wording from the parallel Samuel account raise questions about editorial emphasis in Chronicles.",
+  "createdAt": "2025-11-03T19:08:01.841Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

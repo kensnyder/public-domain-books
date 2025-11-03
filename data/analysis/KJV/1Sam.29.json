@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "1Sam.29",
+  "briefOverview": "Philistine commanders reject David’s participation in their campaign, forcing King Achish to send him back. The chapter spotlights tension between David’s reputation in Israel and his temporary alliance with Philistia.",
+  "summary": "As the Philistine armies assemble at Aphek and Israel camps by a spring in Jezreel, David and his men march at the rear with Achish. The Philistine princes question David’s presence, fearing he might turn on them in battle to regain Saul’s favor, recalling the song praising David’s victories. Though Achish defends David’s loyalty and claims to have found no fault in him, he bows to the other lords’ objections. Achish dismisses David peacefully, praising him and urging an early departure. David protests his exclusion but obeys; he and his men return to Philistine territory while the Philistines proceed toward Jezreel.",
+  "externalContext": "David had previously sought refuge with Achish of Gath and was given Ziklag as a base (a Philistine city under Gath’s control), reflecting the Philistines’ confederation of city-states led by multiple “lords.” Philistia’s political structure involved powerful regional rulers who could override a single king’s preference in military decisions. In the late Iron Age context, employing foreign soldiers or defectors could be useful yet risky, especially when facing their former compatriots. The Jezreel Valley, a key corridor in northern Israel, was a frequent theater for major battles due to its open terrain and strategic routes.",
+  "externalReferences": "The princes’ citation of the popular refrain “Saul has slain his thousands, and David his ten thousands” recalls David’s earlier fame and Saul’s jealousy (1 Samuel 18:7). David’s residence with Achish and receipt of Ziklag are narrated in 1 Samuel 27:1–7, providing the backdrop for his presence in the Philistine ranks. Achish had previously promised David a trusted role in the coming campaign (1 Samuel 28:1–2), heightening the irony of his forced dismissal here. The gathering at Aphek evokes an earlier Philistine mustering site where Israel suffered defeat and lost the ark (1 Samuel 4:1–11), underscoring the gravity of the impending conflict.",
+  "seeAlso": [
+    "1 Samuel 18:7",
+    "1 Samuel 27:1-7",
+    "1 Samuel 28:1-2",
+    "1 Samuel 4:1-11",
+    "1 Samuel 31:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Philistine suspicion of David"
+    },
+    {
+      "range": "6-11",
+      "title": "Achish dismisses David"
+    }
+  ],
+  "themes": [
+    "Reputation and trust",
+    "Loyalty under scrutiny",
+    "Political prudence",
+    "Providential deliverance"
+  ],
+  "practicalQuestions": [
+    "How does a prior reputation influence present trust and opportunities, for good or ill?",
+    "When loyalties appear to conflict, what principles help maintain integrity and avoid needless harm?",
+    "How can we respond graciously when others, out of caution, exclude us from roles we believe we can fulfill?",
+    "Where might a disappointing detour actually protect us or redirect us toward a better responsibility?"
+  ],
+  "uncertainAreas": "The referents of “my lord the king” (v.8) and “thy master’s servants” (v.10) are ambiguous—possibly Achish or Saul for the former, and either David’s men or other retainers for the latter. The relationship between the locations named here (Aphek, Jezreel) and those in the adjacent narratives (e.g., Shunem and Gilboa) involves complex staging and may reflect summarized troop movements rather than a single static scene. Achish’s oath formula “as the LORD lives” from a Philistine ruler raises questions about rhetorical accommodation versus genuine theological appropriation.",
+  "createdAt": "2025-11-03T17:58:45.211Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.12",
+  "briefOverview": "Jehoash (Joash) oversees a program to repair the Jerusalem temple under priestly supervision, and the chapter closes with a foreign threat and the king's assassination.",
+  "summary": "Jehoash reigns forty years and follows the guidance of Jehoiada the priest, though high place worship continues. He instructs that all dedicated money brought to the temple be used to repair its breaches, but after many years no repairs had been completed. Jehoiada installs a collection chest with a slot so offerings can be given directly to the work overseers; the funds are counted, paid to craftsmen, and used for repairs rather than for new vessels. The chapter notes that trespass and sin money remained the priests' own and were not placed in the temple chest. Hazael king of Syria besieges Gath and threatens Jerusalem, prompting Jehoash to send the temple and palace treasures to Hazael, after which Hazael withdraws. The chapter ends with a conspiracy by Jehoash’s servants who assassinate him and place his son Amaziah on the throne.",
+  "externalContext": "Jehoash/Joash is a king of Judah in the 9th century BCE within the dynasty founded by Jehu; his reign reflects the ongoing tension in Israelite religion between centralized temple worship in Jerusalem and local high-place cults. Hazael was a powerful Aramean (Syrian) king active in the region, known from Assyrian and biblical sources for aggressive campaigns that pressured both Israel and Judah. The practice of dedicating valuables to the temple and of priests receiving certain fines or guilt-offering monies has roots in Israelite law and cultic practice (see Levitical regulations), making issues of stewardship and priestly income a recurring concern in the Hebrew Bible.",
+  "externalReferences": "Jehoiada’s earlier role in installing and protecting Joash is narrated in 2 Kings 11, which gives background for the priest’s authority here. The more detailed parallel account of Joash’s reforms, the temple repairs, his sending of treasures to Hazael, and his assassination appears in 2 Chronicles 24. The mention that trespass and sin money belonged to the priests echoes Levitical rules about guilt and sin offerings (see Leviticus 5–7) though the chapter does not explain the legal distinctions.",
+  "seeAlso": [
+    "2 Kings 11:1-3",
+    "2 Chronicles 24",
+    "Leviticus 5:14-6:7",
+    "2 Kings 8:7-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Jehoash's Reign Established"
+    },
+    {
+      "range": "4-16",
+      "title": "Temple Repair and Collections"
+    },
+    {
+      "range": "17-21",
+      "title": "Foreign Threat and Assassination"
+    }
+  ],
+  "themes": [
+    "Temple restoration",
+    "Leadership and oversight",
+    "Religious practice",
+    "Political violence"
+  ],
+  "practicalQuestions": [
+    "How should religious communities ensure transparent handling of donations and stewardship of communal resources?",
+    "What mechanisms can leaders create to prevent promised repairs or reforms from being neglected over time?",
+    "When is it appropriate to use funds for maintenance and service rather than for ceremonial display?",
+    "How should communities respond when political pressures or threats force them to make compromises with opponents?"
+  ],
+  "uncertainAreas": "The text does not explain why the repairs were neglected for twenty-three years—whether due to priestly indifference, corruption, or administrative failure. It is also unclear whether the transfer of temple and royal treasures to Hazael was paid as tribute under duress or as a voluntary diplomatic gift; the motive is not explicit. The precise legal status and intended use of 'trespass and sin money' in this narrative are not fully detailed in the chapter.",
+  "createdAt": "2025-11-03T18:52:12.697Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

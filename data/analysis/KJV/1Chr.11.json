@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "1Chr.11",
+  "briefOverview": "Chapter records Israel's recognition and anointing of David as king, his capture and establishment of Jerusalem as his capital, and a roster of his elite warriors with notable exploits.",
+  "summary": "All Israel gathers at Hebron to acknowledge and anoint David as king, recalling his prior leadership and the prophetic word through Samuel. David conquers Jebus and captures the stronghold called the city of David; he fortifies and expands it (Millo) while Joab plays a leading military role. The chapter then lists David’s chief warriors, highlighting individual feats: Jashobeam’s slaying of 300, Eleazar’s stand at Pas-dammim, the three who risked their lives to fetch water from Bethlehem (which David poured out as an offering), and Benaiah’s exploits against Moabites and an Egyptian. A longer catalogue of mighty men and other valiant fighters closes the chapter, underscoring David’s military support and the loyalty that secured his kingdom.",
+  "externalContext": "1 Chronicles was compiled in the post-exilic period by an author or school (the Chronicler) who reshaped earlier material to emphasize the Davidic line, Jerusalem, and temple-related themes. Hebron was the initial royal seat for David among Judah, and the capture of Jebus (Jerusalem) established a neutral capital centrally located between tribal territories. 'Mighty men' functioned as elite warriors and household troops in ancient Near Eastern monarchies, and family or tribal affiliations in the lists reflect the socio-political makeup of the early monarchy.",
+  "externalReferences": "Many details here parallel and rework narratives found in Samuel: the transfer of kingship and capture of Jerusalem are told in 2 Samuel 2–5 (see especially 2 Samuel 5:1–10), while the lists of David’s warriors and their deeds correspond closely to 2 Samuel 23:8–39. The specific story of the three who drew water from Bethlehem and David’s refusal to drink it appears in 2 Samuel 23:13–17.",
+  "seeAlso": [
+    "2 Samuel 2:1-4",
+    "2 Samuel 5:1-10",
+    "2 Samuel 23:8-39",
+    "2 Samuel 23:13-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Anointing at Hebron"
+    },
+    {
+      "range": "4-9",
+      "title": "Capture of Jerusalem"
+    },
+    {
+      "range": "10-47",
+      "title": "Catalogue of Warriors"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Loyalty",
+    "Heroism",
+    "Divine favor"
+  ],
+  "practicalQuestions": [
+    "How should leaders publicly acknowledge and reward loyal service in ways that build lasting unity?",
+    "What can David’s symbolic refusal to drink the soldiers’ risky water teach about honoring sacrificial loyalty without exploiting it?",
+    "How can modern communities remember and preserve the contributions of those who serve faithfully but are not widely celebrated?",
+    "In what ways does concentrating power in a central, neutral place (like David’s choice of Jerusalem) promote reconciliation among divided groups?"
+  ],
+  "uncertainAreas": "Uncertainties include the historical sequencing and precise historicity of the listed exploits (the Chronicler adapts earlier sources), identification and background of many named individuals and places, and whether some details are theological/editorial emphases rather than straightforward historical report.",
+  "createdAt": "2025-11-03T19:06:35.997Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "1Sam.22",
+  "briefOverview": "David gathers followers while fleeing Saul and seeks refuge for his family; Saul, driven by suspicion, orders the massacre of the priests at Nob, leaving Abiathar to join David.",
+  "summary": "David escapes to the cave of Adullam, where his family and about four hundred distressed men gather to him, and he shelters his parents in Moab while awaiting God’s direction. The prophet Gad then instructs David to leave the stronghold and return to Judah, so he moves to the forest of Hareth. Saul, brooding over a perceived conspiracy, hears from Doeg the Edomite that Ahimelech the priest aided David at Nob. Summoning Ahimelech and the priests, Saul accuses them of treason; despite Ahimelech’s defense of David’s loyalty, Saul condemns them. When Saul’s own servants refuse to strike the priests, Doeg kills eighty-five who wore the linen ephod and destroys the city of Nob. Abiathar escapes, tells David what happened, and David, expressing remorse for the consequences of his earlier visit, offers Abiathar protection.",
+  "externalContext": "Adullam lies in the Judean lowlands near Philistine territory; caves in this region often served as natural strongholds for fugitives. Nob functioned as a priestly town, apparently housing the tabernacle after the fall of Shiloh, making its destruction a profound religious crisis. David’s request to the king of Moab may reflect family ties through Ruth the Moabitess, David’s great-grandmother, which could make Moab a plausible place of refuge. Doeg the Edomite’s prominence in Saul’s service reflects the presence of non-Israelites in royal administrations and longstanding regional tensions; Edomites were descendants of Esau, Israel’s neighbor and frequent rival. The “linen ephod” identifies the victims as priests engaged in sacred service.",
+  "externalReferences": "This chapter looks back to David’s visit to Nob, where Ahimelech gave him holy bread and Goliath’s sword (1 Samuel 21:1–9), and to Doeg’s earlier presence there (1 Samuel 21:7). Saul’s complaint that his son made a covenant with David echoes Jonathan’s covenants of loyalty with David (1 Samuel 18:3; 20:16–17). The wiping out of Eli’s priestly house at Nob, with only Abiathar surviving, intersects with earlier pronouncements of judgment on Eli’s house (1 Samuel 2:31–36; 3:11–14); Abiathar later serves David and is eventually deposed (1 Kings 2:26–27). David’s time in a cave resonates with psalm headings that situate prayers “when he was in the cave” (Psalm 57; Psalm 142).",
+  "seeAlso": [
+    "1 Samuel 21:1-9",
+    "1 Samuel 21:7",
+    "1 Samuel 18:3",
+    "1 Samuel 20:16-17",
+    "1 Samuel 2:31-36",
+    "1 Samuel 3:11-14",
+    "1 Samuel 23:6",
+    "Psalm 57:1-11",
+    "Psalm 142:1-7",
+    "1 Kings 2:26-27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "David’s refuge and guidance"
+    },
+    {
+      "range": "6-19",
+      "title": "Saul’s accusation and massacre"
+    },
+    {
+      "range": "20-23",
+      "title": "Abiathar joins David"
+    }
+  ],
+  "themes": [
+    "Flight and refuge",
+    "Abuse of power",
+    "Divine guidance",
+    "Innocent suffering",
+    "Loyalty and responsibility"
+  ],
+  "practicalQuestions": [
+    "How should we respond when leaders misuse power and demand complicity in wrongdoing?",
+    "What responsibilities do we bear for unintended harm that results from our choices, and how can we address it as David does with Abiathar?",
+    "Where do we seek trustworthy guidance when under pressure, as David did through the prophet Gad?",
+    "How can we provide refuge and leadership to those who are distressed or marginalized?",
+    "When loyalty to God conflicts with loyalty to human authority, what courageous refusals (like the king’s servants) are called for?"
+  ],
+  "uncertainAreas": "It is unclear whether Ahimelech actually inquired of the LORD for David in the earlier episode; Doeg alleges it (22:10), while Ahimelech’s reply (22:15) is ambiguous. The exact location of David’s “hold” and the reference to Saul being in Gibeah “under a tree in Ramah” are not fully clear in this translation. The degree to which David is morally responsible for Nob’s destruction is acknowledged by David himself, but the narrative does not explicitly assign divine judgment on him here.",
+  "createdAt": "2025-11-03T17:52:47.383Z",
+  "modelId": "gpt-5-2025-08-07"
+}

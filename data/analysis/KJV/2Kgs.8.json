@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Kgs.8",
+  "briefOverview": "Elisha intervenes in personal and political affairs — protecting a widow, confronting Hazael whose rise will bring violence — and the chapter records successive reigns in Judah with notes of revolt and war.",
+  "summary": "Elisha warns the widow whose son he had revived to flee because a seven‑year famine is coming; she sojourns in Philistine territory and on return obtains restitution of her property through the king after Gehazi identifies her. Elisha visits Damascus where Hazael is sent to ask if King Ben‑hadad will recover; Elisha prophesies that the king will die and weeps because God showed him Hazael will bring brutal destruction on Israel. Hazael returns, murders Ben‑hadad by smothering him and becomes king of Syria. The chapter closes with regnal notices: Jehoram son of Jehoshaphat begins to reign in Judah (walking in the ways of Israel's kings), revolts in Edom and Libnah, Joram campaigns against Edom, dies and is succeeded by Ahaziah who also follows Ahab's house and joins Joram in the campaign where Joram is wounded.",
+  "externalContext": "The scene is set in the divided monarchy period (Israel and Judah, 9th–8th century BCE) when Israel (the northern kingdom) and Aram (Syria) frequently clashed. Prophets like Elisha functioned as both miracle‑workers and public seers whose word could affect private claims (the widow) and international politics (the rise of Hazael). Royal marriages between houses (e.g., Jehoram's marriage to Ahab's daughter) were a common political strategy that could draw Judah into Israelite policies and religious influence.",
+  "externalReferences": "The woman whose son was restored is narrated earlier in 2 Kings 4:8–37, and Gehazi’s earlier misconduct and affliction appear in 2 Kings 5. The promise that David’s line would endure is rooted in the Davidic covenant (see 2 Samuel 7:12–16), which the text invokes to explain divine restraint toward Judah despite its sins.",
+  "seeAlso": [
+    "2 Kings 4:8-37",
+    "2 Kings 5:1-27",
+    "2 Samuel 7:12-16",
+    "1 Kings 20:1-43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Widow's Famine and Restitution"
+    },
+    {
+      "range": "7-15",
+      "title": "Elisha and Hazael"
+    },
+    {
+      "range": "16-29",
+      "title": "Judah's Kings and Revolts"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Kingship",
+    "Judgment",
+    "Succession"
+  ],
+  "practicalQuestions": [
+    "When authorities or religious leaders warn of hardship, how should individuals and communities prepare and respond practically?",
+    "What responsibilities do rulers have to rectify past injustices when a wronged person makes a claim (as the king restores the widow's property)?",
+    "How should one interpret and respond to prophetic warnings that predict both recovery and imminent death or judgment?",
+    "In what ways do political marriages and alliances shape moral and religious life in a community today?"
+  ],
+  "uncertainAreas": "The text is terse about chronology and which king is meant when the woman appeals to “the king”; synchronisms between Israelite and Judean regnal years are complex. Elisha’s apparent double message to Hazael — telling him the king may recover while also saying the LORD showed he will die — is ambiguous (possible tension between a humanly possible recovery and a divinely decreed outcome). Motives and wider context for Hazael’s sudden murderous accession are not fully explained in this chapter.",
+  "createdAt": "2025-11-03T18:50:00.037Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

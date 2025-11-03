@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Kgs.24",
+  "briefOverview": "The chapter narrates the beginning of Judah's downfall under Babylonian pressure: royal succession, siege and deportation, and the installation of a puppet king as divine judgment for past sins.",
+  "summary": "Nebuchadnezzar of Babylon asserts dominance when Jehoiakim first becomes his vassal for three years and then rebels; the LORD sends invading bands (Chaldeans, Syrians, Moabites, Ammonites) against Judah as judgment for the sins of Manasseh and for shedding innocent blood. Jehoiakim dies and his son Jehoiachin succeeds him at eighteen, reigning only three months and doing evil. Nebuchadnezzar besieges Jerusalem, takes Jehoiachin and many treasures and people into exile (including artisans and soldiers), and carries off the temple's gold vessels. Babylon installs Mattaniah as king, renaming him Zedekiah, who reigns eleven years and also does evil; his later rebellion is presented as the continuation of the LORD’s judgment that will remove Judah from his presence.",
+  "externalContext": "Nebuchadnezzar II ruled the Neo-Babylonian Empire in the late 7th/early 6th century BCE; Babylonian policy commonly included deposing rulers, deporting elites and skilled workers, and seizing valuable temple and royal property to consolidate control. Deportation served both economic and political purposes (repopulate, utilize skills, deter revolt). The chapter corresponds to the historical first major exile (often dated to 597 BCE) that precedes the final destruction of Jerusalem in 586 BCE.",
+  "externalReferences": "The chapter’s charge that Judah is punished for Manasseh’s sins echoes the earlier account and prophetic pronouncements against Manasseh in 2 Kings 21:10–15. The large-scale deportations and seizure of temple vessels are related to the fuller account of Jerusalem’s fall and later removals in 2 Kings 25:8–11 and the parallel report in Jeremiah 52:28–30. Jehoiachin’s removal here and his later treatment (including his eventual release) are narrated further in 2 Kings 25:27–30 and Jeremiah 52:31–34.",
+  "seeAlso": [
+    "2 Kings 21:10-15",
+    "2 Kings 25:8-11",
+    "2 Kings 25:27-30",
+    "Jeremiah 52:28-34",
+    "2 Chronicles 36:15-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Rebellion and Judgment"
+    },
+    {
+      "range": "5-16",
+      "title": "Jehoiakim to Jehoiachin"
+    },
+    {
+      "range": "17-20",
+      "title": "Zedekiah Installed"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Exile",
+    "Kingship",
+    "Sin and Bloodshed"
+  ],
+  "practicalQuestions": [
+    "How should communities remember and address the consequences of leaders' wrongful actions?",
+    "In what ways do political alliances and rebellions carry long-term consequences for ordinary people today?",
+    "How can institutions preserve cultural and religious heritage when symbols and treasures are lost or taken?",
+    "What responsibilities do later generations have to acknowledge and repair harms tied to past injustice and violence?"
+  ],
+  "uncertainAreas": "It is unclear which specific prophets are meant by the phrase 'as the LORD had said' and whether the listed foreign 'bands' acted in coordinated alliance or opportunistic raids. Precise chronological markers (e.g., exact regnal-year dating) and the literal versus literary meaning of the numbers taken into exile are also open to interpretation.",
+  "createdAt": "2025-11-03T19:00:27.875Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

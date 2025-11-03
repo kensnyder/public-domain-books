@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "2Sam.4",
+  "briefOverview": "Ish-bosheth is assassinated by two of his own captains, and David decisively punishes them, signaling that his kingship will not be advanced by treachery.",
+  "summary": "After Abner’s death, Ish-bosheth loses courage and Israel is unsettled. A note recalls Jonathan’s son Mephibosheth, who became lame when news of Saul and Jonathan’s deaths arrived. Rechab and Baanah, Beerothite captains under Ish-bosheth, enter his house at midday under pretense, kill and behead him, and bring his head to David claiming the Lord has avenged the king. David rebukes them, recalling how he executed the messenger who claimed to kill Saul, and declares them guilty for murdering a righteous man in his own house. He orders their execution, has their hands and feet cut off and displayed at Hebron’s pool, and buries Ish-bosheth’s head in Abner’s tomb.",
+  "externalContext": "Following Saul’s death, Israel was politically divided: David ruled Judah from Hebron while Ish-bosheth, installed by Abner, ruled the northern tribes. Abner’s assassination (2 Samuel 3) destabilized Ish-bosheth’s regime, making such coups more likely. In the ancient Near East, assassins sometimes presented severed heads to rival claimants to secure favor, and rulers publicly displayed the bodies or body parts of criminals as a deterrent. Beeroth was a Benjaminite town; population displacement to places like Gittaim reflects wartime upheaval common in this era.",
+  "externalReferences": "The chapter presumes the backdrop of Saul and Jonathan’s deaths at Jezreel/Gilboa (1 Samuel 31:1–6) and Abner’s murder by Joab (2 Samuel 3:27). David’s response explicitly recalls the Amalekite who claimed to have killed Saul and whom David executed instead of rewarding (2 Samuel 1:6–16), reinforcing his policy against opportunistic bloodshed. The repeated phrase “under the fifth rib” echoes other targeted killings in 2 Samuel (2 Samuel 2:23; 3:27; 20:10). Mephibosheth, introduced here, becomes central when David later shows him covenant kindness (2 Samuel 9:1–13).",
+  "seeAlso": [
+    "1 Samuel 31:1-6",
+    "2 Samuel 1:6-16",
+    "2 Samuel 2:8-10",
+    "2 Samuel 2:23",
+    "2 Samuel 3:27",
+    "2 Samuel 9:1-13",
+    "2 Samuel 20:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Instability; Mephibosheth noted"
+    },
+    {
+      "range": "5-8",
+      "title": "Assassination of Ish-bosheth"
+    },
+    {
+      "range": "9-12",
+      "title": "David’s judgment and burial"
+    }
+  ],
+  "themes": [
+    "Justice over expediency",
+    "Legitimacy of rule",
+    "Treachery",
+    "Sanctity of life"
+  ],
+  "practicalQuestions": [
+    "When opportunities arise to advance our goals by questionable means, what principles should govern our response?",
+    "How do we discern and reject claims of divine approval when they are tied to unethical actions?",
+    "What does it look like for leaders to uphold justice even when it seems politically advantageous not to?",
+    "How can we avoid rewarding treachery or manipulation in our communities and institutions?",
+    "In what ways should we honor the dignity of victims while dealing firmly with perpetrators?"
+  ],
+  "uncertainAreas": "The nuance of David calling Ish-bosheth “righteous” likely denotes innocence in the immediate circumstance rather than a comprehensive moral judgment. The precise meaning of “under the fifth rib” is debated (idiom for a fatal stab vs. anatomical detail). The reasons for the Beerothites’ displacement to Gittaim and the narrative function of the Mephibosheth notice here (anticipation vs. historical aside) are not entirely clear.",
+  "createdAt": "2025-11-03T18:03:00.264Z",
+  "modelId": "gpt-5-2025-08-07"
+}

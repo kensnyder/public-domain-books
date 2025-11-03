@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "2Kgs.21",
+  "briefOverview": "A summary of King Manasseh's long, idolatrous reign and the prophetic pronouncement of divine judgment, followed by the brief, similarly wicked reign and assassination of his son Amon and the accession of Josiah.",
+  "summary": "Manasseh began to reign at age twelve and ruled fifty-five years; he practiced extensive idolatry — rebuilding high places, installing altars (even in the temple), worshiping the host of heaven, and engaging in child sacrifice and occult practices. Because of these actions and the shedding of innocent blood, God announces through prophets a severe judgment on Jerusalem and Judah, using imagery of measurement and wiping away as a dish. The narrative records Manasseh’s death and burial and the succession of his son Amon, who reigned two years and continued his father’s evils. Amon was assassinated by his servants; the people then killed the conspirators and made Amon’s son Josiah king. The chronicler notes fuller records exist in the book of the kings’ chronicles.",
+  "externalContext": "This account is shaped by the Deuteronomistic perspective that emphasizes covenant faithfulness and centralization of worship (cf. Deuteronomy). Historically, Manasseh is placed in the late 8th–7th century BCE during a period of Assyrian dominance when foreign cultic practices and astral worship were widespread in the region. Phrases like \"passed through the fire\" are commonly understood in the ancient Near East as references to child sacrifice (e.g., Molech rites) and \"host of heaven\" to astral/planetary cults. The book of Kings is theological history written to explain Israel’s fortunes in terms of obedience or disobedience to Yahweh.",
+  "externalReferences": "The critique of worship outside the central sanctuary echoes Deuteronomy 12:1–14, which commands centralized worship and condemns high-place altars. The prohibition of divination, necromancy, and related practices is paralleled by Deuteronomy 18:10–12.\n\n2 Chronicles 33 gives a different, fuller portrait of Manasseh that includes his captivity and later repentance, a detail absent here; the theme of prophetic warning and tophet imagery is also comparable to Jeremiah 7:30–34.",
+  "seeAlso": [
+    "Deuteronomy 12:1-14",
+    "Deuteronomy 18:10-12",
+    "2 Chronicles 33:1-20",
+    "Jeremiah 7:30-34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Manasseh's Wicked Reign"
+    },
+    {
+      "range": "19-26",
+      "title": "Amon's Reign and Death"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Divine judgment",
+    "Temple desecration",
+    "Royal violence"
+  ],
+  "practicalQuestions": [
+    "How should religious communities respond when leaders misuse or desecrate shared sacred institutions?",
+    "What mechanisms of accountability are appropriate when a leader's actions harm the vulnerable (\"shedding innocent blood\")?",
+    "How do we thoughtfully distinguish cultural accommodation from compromises that undermine core ethical or religious commitments?",
+    "What role should collective action play when conspiracies or violent plots succeed in removing corrupt leaders?"
+  ],
+  "uncertainAreas": "The text’s historical details are shaped by theological aims (Deuteronomistic editing), so exact historical reconstruction is uncertain. Phrases like \"made his son pass through the fire\" could mean child sacrifice or a related ritual practice; \"line of Samaria/plummet of Ahab\" is figurative and its full implications are open to interpretation. The contrast with 2 Chronicles’ account of Manasseh’s repentance raises questions about differing sources or theological emphases.",
+  "createdAt": "2025-11-03T18:58:46.000Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

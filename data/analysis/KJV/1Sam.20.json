@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "1Sam.20",
+  "briefOverview": "David and Jonathan confirm their deep friendship and form a covenant while testing whether King Saul intends to kill David. The chapter portrays loyalty and the political rupture between Saul's household and David.",
+  "summary": "David, fleeing Saul, asks Jonathan whether Saul intends to kill him; Jonathan reassures David and pledges loyalty. They make a covenant, and David proposes an excuse to miss the new moon feast so Jonathan can test Saul's attitude. Jonathan devises a coded signal with arrows to tell David whether it is safe to return. At the feast David's seat is empty for two days; Saul angrily confronts Jonathan and, in a violent outburst, attempts to kill him with a javelin, revealing his intent toward David. The next morning Jonathan meets David in the field, executes the predetermined arrow signal indicating danger, and the two men take a tearful farewell, reaffirming that the LORD will be between their families forever.",
+  "externalContext": "This narrative is set in the early Israelite monarchy (circa 11th century BCE), when royal succession and popular military success could create intense court rivalries. The “new moon” was an important liturgical and royal meal occasion (a monthly feast), so David’s absence at the king’s table would be conspicuous. Covenants and sworn oaths invoking the LORD were binding social and religious instruments in Israelite culture, often carrying political as well as personal weight.",
+  "externalReferences": "Earlier scenes in the Saul–David story show Saul’s jealousy and attempts on David’s life (1 Samuel 18:6–11) and Jonathan’s prior defense of David (1 Samuel 19:1–7), which provide immediate background to the fear expressed here. Later passages recall and continue this friendship: Jonathan encourages David in the wilderness (1 Samuel 23:16–18) and David laments Jonathan’s death and celebrates their bond (2 Samuel 1:26).",
+  "seeAlso": [
+    "1 Samuel 18:6-11",
+    "1 Samuel 19:1-7",
+    "1 Samuel 23:16-18",
+    "2 Samuel 1:26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Fear and Covenant"
+    },
+    {
+      "range": "18-23",
+      "title": "Signal Plan"
+    },
+    {
+      "range": "24-42",
+      "title": "Test and Farewell"
+    }
+  ],
+  "themes": [
+    "Friendship",
+    "Covenant",
+    "Loyalty",
+    "Royal jealousy"
+  ],
+  "practicalQuestions": [
+    "When leaders act out of jealousy or fear, how should loyal friends or subordinates respond ethically and protectively?",
+    "How can vows or covenants be used responsibly in personal and political relationships today?",
+    "What safeguards can communities put in place to prevent personal animosities from damaging institutions?",
+    "How do we balance personal loyalty with awareness of larger political consequences?"
+  ],
+  "uncertainAreas": "The precise force of the covenantal formula (“the LORD be between me and thee and between my seed and thy seed for ever”) is ambiguous — whether it promises dynastic blessing, mutual protection, or a solemn personal pledge. The narrative leaves open whether Saul’s motivations are primarily political paranoia, personal jealousy, or perceived divine sanction; the text foregrounds Saul’s anger but does not supply full psychological explanation. The emotional detail “David exceeded” is vague about degree and expression.",
+  "createdAt": "2025-11-03T17:50:33.574Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

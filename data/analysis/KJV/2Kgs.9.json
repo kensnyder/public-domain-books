@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "2Kgs.9",
+  "briefOverview": "Elisha’s prophet secretly anoints Jehu as king, and Jehu executes a sudden, violent coup that destroys the house of Ahab—killing Joram, Ahaziah, and Jezebel—and so fulfils prophetic judgment.",
+  "summary": "Elisha sends a young prophet to anoint Jehu at Ramoth-gilead and commission him to destroy Ahab’s house as vengeance for the blood of the prophets and Naboth. The prophet anoints Jehu, who is immediately proclaimed king by the troops and rides to Jezreel. Jehu confronts and kills King Joram of Israel and orders the death of Ahaziah of Judah, who later dies after being taken to Jerusalem. Jezebel is thrown from a palace window, trampled, and largely consumed so that only her skull, feet, and hands are found; Jehu cites an earlier prophecy about her fate. The chapter frames these violent acts as fulfillment of divine judgment and the removal of Ahab’s corrupt dynasty.",
+  "externalContext": "Jehu’s coup occurs in the milieu of the divided monarchy in the ancient Near East, when kingship was often secured or overturned by military force and prophetic endorsement. Anointing a ruler by a prophet was the conventional way to legitimize kingship (compare Israelite examples such as Saul and David). Ramoth-gilead was a strategic frontier city contested with Aram/Syria, and the narrative reflects ongoing conflicts between Israel and Syria under Hazael. The “sons of the prophets” (the young prophet sent by Elisha) represent a prophetic network that could authorize and publicize royal transitions.",
+  "externalReferences": "The motive for vengeance and the specific reference to Naboth’s blood recall the incident at Naboth’s vineyard recorded in 1 Kings 21:1–16, where Ahab and Jezebel are implicated in Naboth’s death and Elijah pronounces judgment on Ahab’s house (see 1 Kings 21:17–29). The formula of a prophet anointing a king echoes earlier Israelite episodes, e.g., Samuel anointing Saul (1 Samuel 10:1) and David (1 Samuel 16:13). The narrative begun here continues into 2 Kings 10, which describes the wider purge of Ahab’s house and Baal’s cult carried out by Jehu.",
+  "seeAlso": [
+    "1 Kings 21:1-29",
+    "1 Samuel 10:1",
+    "1 Samuel 16:13",
+    "2 Kings 10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Anointing and Commission"
+    },
+    {
+      "range": "11-37",
+      "title": "Jehu’s Coup and Executions"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Prophetic authority",
+    "Dynastic overthrow",
+    "Fulfillment of prophecy"
+  ],
+  "practicalQuestions": [
+    "How should communities seek accountability for leaders who abuse power, and what nonviolent alternatives exist to prevent cycles of revenge?",
+    "When public figures claim divine mandate, how can we discern genuine prophetic authority from political ambition?",
+    "What responsibilities do religious leaders have when their pronouncements affect political transitions?",
+    "How ought modern readers balance the text’s portrayal of divine justice with contemporary ethical commitments to due process and human dignity?"
+  ],
+  "uncertainAreas": "The text frames Jehu’s actions as divinely commanded, but the motives (prophetic commission versus political opportunism) are open to interpretation. The precise earlier wording and location of Elijah’s prophecy about Jezebel (the text cites it) can be matched to 1 Kings 21 but verse numbering/details may vary in some traditions. The graphic details of Jezebel’s death leave room for ambiguity about who finished her and how much was consumed by animals versus trampling.",
+  "createdAt": "2025-11-03T18:50:37.984Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

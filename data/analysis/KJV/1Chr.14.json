@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "1Chr.14",
+  "briefOverview": "Chapter 14 records two linked scenes: royal consolidation (foreign aid and David’s household) and military victories over the Philistines guided by direct divine consultation.",
+  "summary": "Hiram, king of Tyre, sends cedar timber and skilled workers to David to build him a house; David recognizes this as confirmation of his kingship and expands his household, with a list of sons born in Jerusalem (vv.1–7). Hearing that David is now king over all Israel, the Philistines attack and occupy the valley of Rephaim (v.8–9). David twice inquires of the LORD about engaging the Philistines; the first time God commands him to attack and gives him victory at a place named Baal-perazim (vv.10–12). After a renewed Philistine deployment, God instructs David not to pursue but to wait by the trees and to move when he hears the sound in the treetops; following this guidance David defeats them from Gibeon to Gazer and his fame spreads (vv.13–17).",
+  "externalContext": "Hiram of Tyre was a Phoenician king with whom Israelite kings negotiated for cedars and craftsmen; such timber from Lebanon was prized for royal and temple construction (see parallel accounts in Kings). Chronicles is generally a later (post-exilic) retelling of Israel’s history that emphasizes legitimate Davidic rule, temple-related matters, and divine sanction of kingship. The Philistines were Israel’s longtime maritime/coastal rivals in the Iron Age Levant, so military clashes over strategic valleys like Rephaim are historically plausible.",
+  "externalReferences": "This chapter closely parallels the account in 2 Samuel 5:11–25, which also records Hiram’s gifts and David’s two victories over the Philistines (including the naming of Baal-perazim and the ambush by the trees). The relationship with Hiram anticipates the later, fuller alliance between Hiram and Solomon recorded in 1 Kings 5:1–12 for building projects. David’s burning of the Philistine gods resonates with Deuteronomic injunctions to destroy foreign altars and images (e.g., Deuteronomy 7:5; 12:2–3).",
+  "seeAlso": [
+    "2 Samuel 5:11-25",
+    "1 Kings 5:1-12",
+    "Deuteronomy 7:5",
+    "Deuteronomy 12:2-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Foreign Aid and Household"
+    },
+    {
+      "range": "8-17",
+      "title": "Philistine Threat and Victory"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Divine guidance",
+    "Warfare",
+    "Idolatry"
+  ],
+  "practicalQuestions": [
+    "How should leaders seek and discern guidance before making consequential decisions, and what institutional practices support such discernment today?",
+    "When a community achieves victory or success, how ought it to treat the defeated and their symbols in ways that balance justice, mercy, and ethical restraint?",
+    "What responsibilities accompany alliances with foreign powers or experts (like Hiram’s craftsmen) in building public projects?",
+    "How does the public reputation of a leader form, and what measures can communities take to ensure fame does not replace accountability?"
+  ],
+  "uncertainAreas": "The narrative does not specify the means by which David 'enquired of God' (prophet, priestly ephod, or other means), nor the exact identity of the trees called 'mulberry' in this translation (other versions read different tree names). The use of the name Baal-perazim—apparently incorporating 'Baal'—is ambiguous: it may be a place-name with ironic use of 'Baal' or reflect older local nomenclature. Differences in detail between this account and the parallel in 2 Samuel raise questions about editorial emphasis by the Chronicler.",
+  "createdAt": "2025-11-03T19:08:33.457Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

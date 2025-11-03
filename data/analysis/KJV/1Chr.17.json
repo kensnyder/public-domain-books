@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "1Chr.17",
+  "briefOverview": "God rejects David's plan to build a permanent temple but promises to establish David's house (dynasty) forever; David responds with a prayer of praise and petition to confirm that promise.",
+  "summary": "David tells the prophet Nathan that he lives in a cedar house while the ark remains under curtains; Nathan initially approves, but God speaks to Nathan that David shall not build a house for God. God recounts how he raised David from shepherd to king, promises to secure Israel, to give David a lasting dynasty, and that David's offspring will build a house for God and have an enduring throne. Nathan relays God's words to David, and David then offers a humble, theologically rich prayer: he praises God's uniqueness and past acts, acknowledges Israel as God's chosen people, and asks that the promise concerning his house be firmly established and blessed forever.",
+  "externalContext": "1 Chronicles is generally understood to be a post-exilic composition shaped by priestly and theological interests: it emphasizes the Davidic line and the temple as central to Israel's identity after the exile. The episode closely parallels 2 Samuel 7 and fits the Chronicler's project of legitimating the temple and the Davidic succession for the community reestablishing worship in Jerusalem.",
+  "externalReferences": "This chapter closely parallels 2 Samuel 7:1–17, which contains the original oracle to David and his subsequent prayer. The themes and language echo Psalms associated with the Davidic covenant and the ark, notably Psalm 89:3–4 (God's promise to David) and Psalm 132 (David's concern for a dwelling place for the ark). Later Chronicles passages that treat the temple project and Solomon's role (e.g., 1 Chronicles 22:6–10; 28:2–7) presuppose and build on this promise.",
+  "seeAlso": [
+    "2 Samuel 7:1-17",
+    "Psalm 89:3-4",
+    "Psalm 132:1-10",
+    "1 Chronicles 22:6-10",
+    "1 Chronicles 28:2-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "God's Covenant Promised"
+    },
+    {
+      "range": "16-27",
+      "title": "David's Prayer Response"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Kingship",
+    "Temple",
+    "Praise"
+  ],
+  "practicalQuestions": [
+    "How should we respond when our plans for honoring God differ from what God actually intends?",
+    "What does it mean to trust a promise that will be fulfilled by future generations rather than by ourselves?",
+    "How can communities balance devotion to sacred places with recognition that God's purposes may transcend any single building?",
+    "In what ways can David's prayer model gratitude and petition when we receive unexpected divine answers?"
+  ],
+  "uncertainAreas": "The text assumes familiarity with the parallel account in 2 Samuel; it is sometimes unclear whether the Chronicler reshaped details for theological emphasis (e.g., stronger temple focus). The precise historical circumstances of Nathan's initial approval and the timing of the oracle are not fully explained in the chapter itself, leaving room for interpretive reconstruction about motive and composition.",
+  "createdAt": "2025-11-03T19:09:55.782Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

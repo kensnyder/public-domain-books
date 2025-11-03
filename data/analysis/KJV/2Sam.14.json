@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "2Sam.14",
+  "briefOverview": "Joab engineers a parable through a wise woman to move David toward recalling Absalom, leading to a partial and then full reconciliation.",
+  "summary": "Sensing David’s yearning for Absalom, Joab recruits a wise woman from Tekoa to present a fabricated case about a widow whose surviving son faces execution, which would extinguish her family line. David promises protection, and the woman then applies the logic to David’s own banished son, asserting that God devises ways so the banished are not expelled. David discerns Joab’s role; he orders Absalom brought back from Geshur but forbids him from seeing the king’s face. After two years in Jerusalem without an audience, Absalom, noted for his striking appearance, forces the issue by burning Joab’s field to secure a meeting. Joab arranges the audience, Absalom bows, and David kisses him, signaling reconciliation.",
+  "externalContext": "Ancient Israelite practice included the ‘avenger of blood’ (goel haddam), a kin-based custom in which a slain person’s relative sought justice; Israel’s law moderated this through provisions for manslayers and cities of refuge (e.g., Numbers 35; Deuteronomy 19). Gaining access to the king’s face signified restored favor at court; withholding it implied lingering disfavor. Tekoa was a Judean town south of Jerusalem, known later as the home of the prophet Amos. Absalom had fled to Geshur in Aram, the kingdom of his maternal grandfather, a politically plausible refuge after killing Amnon.",
+  "externalReferences": "The woman’s crafted parable mirrors Nathan’s earlier parable to David (2 Samuel 12:1–6), using an indirect story to provoke a just verdict before applying it to the king. The backdrop is Absalom’s killing of Amnon and flight to Geshur (2 Samuel 13:37–39), which created the ongoing estrangement this chapter seeks to resolve. Her appeal against blood vengeance evokes Israel’s legal instructions about manslaughter, avengers of blood, and the preservation of life within a just process (Numbers 35:9–34; Deuteronomy 19:4–13; Joshua 20:1–6). David’s oath that “not one hair” will fall from the son’s head echoes a known idiom of protection also seen in Saul’s oath concerning Jonathan (1 Samuel 14:45).",
+  "seeAlso": [
+    "2 Samuel 12:1-6",
+    "2 Samuel 13:37-39",
+    "Numbers 35:9-34",
+    "Deuteronomy 19:4-13",
+    "Joshua 20:1-6",
+    "1 Samuel 14:45",
+    "2 Samuel 15:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Tekoa woman’s parable"
+    },
+    {
+      "range": "21-24",
+      "title": "Conditional return granted"
+    },
+    {
+      "range": "25-33",
+      "title": "Absalom forces audience"
+    }
+  ],
+  "themes": [
+    "Mercy and justice",
+    "Political manipulation",
+    "Exile and return",
+    "Royal authority",
+    "Charisma and image"
+  ],
+  "practicalQuestions": [
+    "When is it wise for leaders to show mercy, and how can they do so without undermining justice?",
+    "What are the dangers of achieving good outcomes through manipulative means?",
+    "How does partial reconciliation (proximity without true audience) prolong conflict in families or institutions?",
+    "In what ways can outward charisma or attractiveness distort our judgments of character and policy?",
+    "How should we address long-standing estrangement directly rather than resorting to destructive tactics to be heard?"
+  ],
+  "uncertainAreas": "The woman’s theological claim that God devises means to restore the banished is evocative but its precise scope is unclear in context. David’s motives for allowing Absalom’s return yet withholding his face are not explicitly stated. The measurement of Absalom’s hair (two hundred shekels after the king’s weight) is difficult to interpret due to uncertainties about the standard and whether it includes ornaments or a different unit.",
+  "createdAt": "2025-11-03T18:12:09.413Z",
+  "modelId": "gpt-5-2025-08-07"
+}

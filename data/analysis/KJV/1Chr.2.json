@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "1Chr.2",
+  "briefOverview": "A detailed genealogy of the tribe of Judah and related families, tracing key ancestors down to David and describing several clan branches and their settlements.",
+  "summary": "The chapter lists the descendants of Judah, beginning with his sons and noting the problematic deaths of Er and Onan and Tamar's birth of Perez and Zerah. It traces the line from Perez through Hezron to Nahshon, Boaz, Obed, Jesse, and David, and records sisters Zeruiah and Abigail and their notable sons. The narrative then follows Hezron’s other branches—Jerahmeel, Ram, and Caleb—giving many named descendants and brief notes about marriages, childless deaths, and servant marriages. It mentions territorial details (for example Jair’s towns in Gilead and cities taken from Geshur and Aram) and identifies Achar (Achar/Achan) as a transgressor. The chapter closes with families associated with Kirjath-jearim, Bethlehem, and the scribal clans at Jabez, linking genealogies to places and occupational groups.",
+  "externalContext": "1 Chronicles is generally considered a post-exilic compilation (5th–4th century BCE) that reshapes earlier traditions to emphasize the continuity of Israel, especially Judah and the Davidic line. Genealogies in Chronicles often serve to legitimize current social, religious, and territorial claims after the Babylonian exile and to connect contemporary communities with authoritative ancestors. The chapter preserves and rearranges material also found in earlier books (e.g., Genesis, Numbers, Joshua, Ruth) to foreground Judah, David, and allied clans.",
+  "externalReferences": "The story elements here connect to Genesis 38, which records Judah, Tamar, and the birth of Perez and Zerah. The figure called Achar (Achar, the troubler of Israel) echoes Achan who stole the accursed things in Joshua 7. The Davidic descent through Boaz and Obed ties to the genealogy in Ruth 4:18–22 and to David’s selection and anointing found later in 1 Samuel 16. Nahshon is attested elsewhere as a Judahite leader in the wilderness censuses (see Numbers 1:7; 2:3).",
+  "seeAlso": [
+    "Genesis 38",
+    "Joshua 7:1",
+    "Ruth 4:18-22",
+    "Numbers 1:7",
+    "1 Samuel 16:1-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Judah to David"
+    },
+    {
+      "range": "13-25",
+      "title": "Hezron’s Branches"
+    },
+    {
+      "range": "26-55",
+      "title": "Jerahmeel and Caleb Families"
+    }
+  ],
+  "themes": [
+    "Genealogy",
+    "Davidic lineage",
+    "Tribal identity",
+    "Ancestral memory"
+  ],
+  "practicalQuestions": [
+    "How does knowing family or communal origins shape identity and responsibility today?",
+    "How should communities address and remember moral failures among honored ancestors?",
+    "In what ways can place and genealogy be used to affirm belonging without excluding newcomers?",
+    "What role should historical continuity play in contemporary religious or civic leadership claims?"
+  ],
+  "uncertainAreas": "Some names, relationships, and place-identifications reflect variant traditions or editorial choices (e.g., the identification of Achar with Achan, exact boundaries of Jair’s towns, and the historicity of ages or late marriages). The compiler’s sources and their redactional changes are not explicit here, so resolution of some genealogical gaps and chronological questions remains uncertain.",
+  "createdAt": "2025-11-03T19:01:56.648Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
