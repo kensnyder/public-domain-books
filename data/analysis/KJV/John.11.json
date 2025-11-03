@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "John.11",
+  "briefOverview": "Jesus reveals himself as the resurrection and the life by raising Lazarus, leading many to believe while provoking the authorities to plot his death.",
+  "summary": "Jesus delays two days after hearing Lazarus is sick, then announces to his disciples that Lazarus has died and that this will lead to their belief. Near Jerusalem, Martha meets him, expressing grief yet confidence; Jesus declares, \"I am the resurrection, and the life,\" and she confesses him as the Christ, the Son of God. Mary arrives weeping; Jesus is deeply moved and weeps, then goes to the tomb and, after praying aloud to the Father for the sake of the onlookers, commands Lazarus to come out; Lazarus emerges still bound in grave clothes. Many who witnessed this believe, but others report to the Pharisees. The chief priests and Pharisees convene, fearing Roman reprisal if Jesus’ following grows; the high priest Caiaphas argues it is better for one man to die for the people, which the narrator frames as a prophecy that Jesus would die for the nation and gather God’s scattered children. From then on they plan to put Jesus to death; he withdraws to Ephraim as Passover approaches and an order is issued to report his whereabouts.",
+  "externalContext": "Bethany lay about two miles from Jerusalem, making Jesus’ appearance there highly visible to Judean leaders. First-century Jewish mourning customs involved community presence and open lament over several days, which explains the crowd with Mary and Martha. Rock-hewn tombs closed by stones and burial with linen cloths were common burial practices in Judea. Caiaphas served as high priest under Roman oversight, and the Sanhedrin balanced religious authority with political realities under Roman rule. Passover drew large pilgrim crowds to Jerusalem, and many undertook ritual purification beforehand.",
+  "externalReferences": "The crowd’s remark, \"Could not this man, which opened the eyes of the blind…\" points back to the sign in John 9 (John 9:1–7; 9:24–34). Jesus’ declaration and act align with earlier claims that the Son gives life and will raise the dead (John 5:21, 25–29) and echo the day–night imagery about doing God’s work (John 9:4–5). Caiaphas’s statement is recalled later (John 18:14) and coheres with Jesus’ mission to unite God’s scattered people (John 10:16).",
+  "seeAlso": [
+    "John 9:1-7",
+    "John 9:4-5",
+    "John 5:21-29",
+    "John 10:16",
+    "John 18:14",
+    "Mark 5:35-43",
+    "Luke 7:11-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Decision to return to Judea"
+    },
+    {
+      "range": "17-44",
+      "title": "Grief, confession, and raising"
+    },
+    {
+      "range": "45-57",
+      "title": "Council plots Jesus’ death"
+    }
+  ],
+  "themes": [
+    "Resurrection life",
+    "Belief and unbelief",
+    "Glory of God",
+    "Compassion",
+    "Opposition"
+  ],
+  "practicalQuestions": [
+    "How do I respond when God’s help seems delayed—does my trust deepen or shrink?",
+    "In seasons of grief, how can I bring both honest lament and faith-filled confession to God?",
+    "What does it mean, practically, to live as if Jesus is \"the resurrection and the life\" now?",
+    "How can I imitate Jesus’ compassionate presence with the grieving?",
+    "Where might public thanksgiving and prayer, like Jesus at the tomb, help others come to faith?"
+  ],
+  "uncertainAreas": "Possible cultural significance of \"four days\" in the tomb is debated; I avoided assuming a specific belief about the soul lingering. The term \"the Jews\" varies in scope—sometimes local mourners, sometimes authorities; I distinguished when clear. The exact location of Ephraim is uncertain. \"Children of God scattered abroad\" could refer to diaspora Jews and/or include Gentiles anticipating later inclusion. Thomas’s remark may be courageous solidarity or resigned fatalism; the tone is not explicit.",
+  "createdAt": "2025-11-02T22:16:17.832Z",
+  "modelId": "gpt-5-2025-08-07"
+}

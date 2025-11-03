@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "John.3",
+  "briefOverview": "Jesus teaches Nicodemus the necessity of new birth by the Spirit and reveals God’s saving love; John the Baptist affirms Jesus’ heavenly supremacy and willingly yields prominence.",
+  "summary": "Nicodemus, a Pharisee and ruler, visits Jesus at night and hears that no one can see or enter God’s kingdom without being born again/from above—of water and the Spirit; the Spirit’s work is sovereign and mysterious like the wind. Jesus, identifying himself as the Son of Man from heaven, says he must be lifted up like Moses’ serpent so that everyone who believes may have eternal life. God loved the world and sent his only Son not to condemn but to save; belief removes condemnation, while those who love darkness avoid the light because their deeds are evil, but those who practice truth come to the light. Jesus and his disciples spend time in Judea baptizing, while John is also baptizing at Aenon; a dispute about purification prompts John’s disciples to note Jesus’ rising popularity. John insists he is not the Christ, likens himself to the friend of the bridegroom, and declares, \"He must increase, but I must decrease.\" He testifies that the one from above speaks God’s words with the Spirit without measure, the Father has given all things to the Son, and eternal life belongs to those who believe, while God’s wrath remains on those who refuse the Son.",
+  "externalContext": "Nicodemus, as a Pharisee and a ruler, likely belonged to the Sanhedrin, the Jewish ruling council, which could make a nighttime visit a cautious approach to a controversial teacher. First-century Judaism practiced various ritual washings (mikva’ot) connected to purity laws; John’s baptism was a public, once-for-all sign of repentance in anticipation of God’s coming kingdom. Aenon near Salim is traditionally located in the Jordan Valley region, chosen because of abundant water for baptizing. The bridegroom imagery reflects Jewish wedding customs where a friend attends to the groom and rejoices at his voice, a role of honored assistance rather than center stage. In Greek, the word rendered “again” (anōthen) can also mean “from above,” a nuance that shapes how readers understand Jesus’ teaching on new birth.",
+  "externalReferences": "Jesus’ comparison to Moses lifting up the serpent refers to Numbers 21:4–9, where those who looked at the bronze serpent were healed; John applies this to the Son of Man being “lifted up” so that believers have eternal life. The title “Son of Man” echoes Daniel 7:13–14, pointing to a heavenly figure endowed with divine authority. The phrase “born of water and Spirit” resonates with Ezekiel 36:25–27, which promises cleansing and a new Spirit, and John’s bridegroom metaphor draws on God’s marital imagery with Israel (Isaiah 62:5; Hosea 2:19–20). The light/darkness motif continues themes stated earlier in the Gospel (John 1:4–5, 9–12).",
+  "seeAlso": [
+    "Numbers 21:4-9",
+    "Ezekiel 36:25-27",
+    "Daniel 7:13-14",
+    "Isaiah 62:5",
+    "Hosea 2:19-20",
+    "John 1:4-12",
+    "John 8:28",
+    "John 12:32-33",
+    "1 John 5:11-12",
+    "Titus 3:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-21",
+      "title": "Jesus and Nicodemus"
+    },
+    {
+      "range": "22-30",
+      "title": "John’s Joyful Decrease"
+    },
+    {
+      "range": "31-36",
+      "title": "The One From Above"
+    }
+  ],
+  "themes": [
+    "New birth",
+    "Faith and unbelief",
+    "Light and darkness",
+    "Eternal life",
+    "Jesus’ supremacy"
+  ],
+  "practicalQuestions": [
+    "How do I welcome the Spirit’s transforming work rather than relying on external rituals alone?",
+    "What would it look like to bring my deeds into the light before God and trusted others?",
+    "Where in my life do I need to “decrease” so that Christ’s presence and purposes “increase”?",
+    "How does believing Jesus’ testimony shape my decisions, especially when it conflicts with my habits or status?",
+    "What practices help me move from loving darkness to walking in the light consistently?"
+  ],
+  "uncertainAreas": "Possible speaker shift at 3:31–36 (whether John the Baptist continues or the narrator summarizes) is debated. The meaning of “born of water and Spirit” (baptismal reference, natural birth plus Spirit, or Ezekiel’s cleansing-and-Spirit promise) is contested. John 3:22 says Jesus was baptizing, while John 4:2 clarifies that his disciples did the baptizing—how to harmonize is interpretively noted. The Greek anōthen in 3:3 can mean “again” or “from above,” and translations weigh both. A textual variant in 3:13 (“who is in heaven”) affects how readers understand the Son of Man’s heavenly presence.",
+  "createdAt": "2025-11-02T22:10:21.819Z",
+  "modelId": "gpt-5-2025-08-07"
+}

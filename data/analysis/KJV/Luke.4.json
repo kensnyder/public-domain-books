@@ -1,0 +1,52 @@
+{
+  "chapterOsisID": "Luke.4",
+  "briefOverview": "Jesus resists temptation, announces his Spirit-anointed mission, faces rejection at Nazareth, and demonstrates authoritative teaching and healing in Galilee.",
+  "summary": "Full of the Holy Spirit, Jesus is tempted by the devil in the wilderness for forty days and counters each test with Scripture, after which the devil departs for a time. Returning to Galilee in the Spirit’s power, he teaches in synagogues and gains acclaim. In Nazareth he reads Isaiah’s promise of good news to the poor, liberty for captives, and sight for the blind, declaring it fulfilled; when he cites Elijah and Elisha aiding Gentiles, his townspeople become enraged and attempt to kill him, but he passes through them unharmed. In Capernaum he teaches with authority and expels an unclean spirit that recognizes him as the Holy One of God. He heals Simon’s mother-in-law and many others, silencing demons who identify him as the Christ. Despite the crowd’s pleas to stay, he insists on preaching the kingdom of God in other towns, continuing to teach in Galilean synagogues.",
+  "externalContext": "The forty-day testing echoes Israel’s forty years in the wilderness, a formative period of learning reliance on God. Synagogue worship in the Second Temple period commonly included readings from the Law and the Prophets, followed by exposition from a seated teacher. Isaiah 61’s language of anointed proclamation and “the acceptable year of the Lord” evokes Jubilee themes (release and restoration) from Leviticus 25. In the first century, exorcism and healing were recognized parts of Jewish religious life, but Jesus’ direct, unmediated authority to command demons was distinctive. Nazareth and Capernaum were small Galilean towns; Capernaum later functioned as a base for Jesus’ ministry.",
+  "externalReferences": "Jesus answers the temptations with Deuteronomy: bread (Deuteronomy 8:3), exclusive worship (Deuteronomy 6:13; cf. 10:20), and not testing God (Deuteronomy 6:16), while the devil quotes Psalm 91:11–12 about angelic protection. Jesus’ Nazareth reading draws on Isaiah 61:1–2 (and likely Isaiah 58:6) concerning Spirit-anointed liberation, resonating with Jubilee concepts in Leviticus 25:8–13. His examples of prophetic mission to outsiders reference Elijah and the widow of Zarephath (1 Kings 17:8–24) and Elisha and Naaman the Syrian (2 Kings 5:1–14). Parallel accounts of the temptation and early Galilean ministry appear in Matthew 4:1–11 and Mark 1:21–34.",
+  "seeAlso": [
+    "Deuteronomy 8:3",
+    "Deuteronomy 6:13",
+    "Deuteronomy 6:16",
+    "Psalm 91:11-12",
+    "Isaiah 61:1-2",
+    "Isaiah 58:6",
+    "Leviticus 25:8-13",
+    "1 Kings 17:8-24",
+    "2 Kings 5:1-14",
+    "Matthew 4:1-11",
+    "Mark 1:21-34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Temptation in the wilderness"
+    },
+    {
+      "range": "14-30",
+      "title": "Nazareth reading and rejection"
+    },
+    {
+      "range": "31-44",
+      "title": "Capernaum authority and healings"
+    }
+  ],
+  "themes": [
+    "Temptation",
+    "Scripture’s authority",
+    "Mission to the poor",
+    "Rejection",
+    "Authority over evil"
+  ],
+  "practicalQuestions": [
+    "How can I use Scripture wisely to counter temptations that target legitimate needs or ambitions?",
+    "Where in my community are the “poor,” “captives,” or “bruised” to whom I can bring tangible good news and relief?",
+    "How should I respond when those closest to me question or reject my calling or convictions?",
+    "What practices help me keep mission priority (like Jesus moving to other towns) over popularity or comfort?",
+    "In what ways might I be ‘testing’ God rather than trusting and obeying him?",
+    "How do I discern and confront forms of evil or oppression with humility and authority rooted in Jesus’ example?"
+  ],
+  "uncertainAreas": "Textual variants affect v.8 (“Get thee behind me, Satan” is absent in some manuscripts). Luke’s order of the second and third temptations differs from Matthew’s, raising questions about chronological sequence versus thematic arrangement. The manner in which Jesus “passed through” the hostile crowd at Nazareth is not explained—whether miraculous or providential remains unstated.",
+  "createdAt": "2025-11-02T21:07:18.331Z",
+  "modelId": "gpt-5-2025-08-07"
+}

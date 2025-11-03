@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Acts.8",
+  "briefOverview": "Persecution scatters the Jerusalem church and propels mission into Samaria and beyond, highlighted by Philip’s ministry and two conversion accounts. The chapter contrasts true reception of the Spirit with manipulative motives and extends the gospel to a high-ranking Ethiopian official.",
+  "summary": "After Stephen’s death, persecution intensifies under Saul, scattering believers from Jerusalem; those scattered preach the word, and Philip proclaims Christ in Samaria with signs and exorcisms, bringing great joy. A magician named Simon believes and is baptized, but when Peter and John come from Jerusalem and lay hands on the baptized to receive the Holy Spirit, Simon offers money for this power and is sharply rebuked by Peter, who calls him to repent.\nAn angel directs Philip to the desert road toward Gaza, where he meets an Ethiopian eunuch returning from worship in Jerusalem while reading Isaiah. Philip explains the passage as referring to Jesus, the eunuch professes faith, and is baptized at roadside water. The Spirit then carries Philip away, and he continues preaching up the coast to Caesarea, while the eunuch departs rejoicing.",
+  "externalContext": "Samaritans were a neighboring people with intertwined yet contested ties to Israel, maintaining their own center of worship at Mount Gerizim; relations with Jews were often strained in the first century. The Gaza road was a known southwesterly route from Jerusalem toward the coast and Egypt. “Candace” was a dynastic title for queens of the ancient Kingdom of Kush (often called Ethiopia in Greco-Roman sources), centered in Nubia. Eunuchs commonly served as high officials in royal courts across the ancient Near East. Pilgrims from beyond Judea sometimes traveled to Jerusalem to worship Israel’s God, reflecting Judaism’s wider Diaspora reach.",
+  "externalReferences": "The Samarian mission realizes Jesus’ programmatic promise of witness “in Jerusalem, and in all Judea and Samaria, and to the ends of the earth” (Acts 1:8). The eunuch is reading Isaiah 53:7–8, part of the Suffering Servant passage that early Christians interpreted as fulfilled in Jesus. Jesus’ earlier engagement with Samaritans provides narrative precedent and contrast (John 4:4–42; cf. Luke 9:51–56). Saul’s role here anticipates his later persecution and conversion (Acts 7:58; 9:1–2), and the Spirit’s impartation through apostolic laying on of hands finds a parallel in Acts 19:6.",
+  "seeAlso": [
+    "Acts 1:8",
+    "Isaiah 53:7-8",
+    "John 4:4-42",
+    "Luke 9:51-56",
+    "Acts 7:58",
+    "Acts 9:1-2",
+    "Acts 11:19",
+    "Acts 19:6",
+    "Isaiah 56:3-5",
+    "Deuteronomy 23:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Persecution and Samaria"
+    },
+    {
+      "range": "9-25",
+      "title": "Simon Rebuked by Peter"
+    },
+    {
+      "range": "26-40",
+      "title": "Philip and the Ethiopian"
+    }
+  ],
+  "themes": [
+    "Mission beyond Jerusalem",
+    "Holy Spirit’s gift",
+    "Repentance and integrity",
+    "Baptism and belief",
+    "Inclusion of outsiders"
+  ],
+  "practicalQuestions": [
+    "How do hardship and opposition push me to share good news in new places or ways?",
+    "Do I seek spiritual gifts or influence for service, or for personal status and control?",
+    "How can I discern and correct wrong motives in myself while inviting repentance and restoration in others?",
+    "Whom might I consider an outsider, and how can I welcome them as God expands the community’s boundaries?",
+    "Am I ready to explain scripture clearly when someone is spiritually curious, and what habits prepare me for that moment?",
+    "What steps of obedient response (like baptism) correspond to the faith I profess?"
+  ],
+  "uncertainAreas": "Verse 37’s confession by the eunuch has significant textual variation and is absent from many early manuscripts; its presence here may reflect a later scribal addition. The delay between baptism and reception of the Holy Spirit in Samaria is unusual in Acts and raises questions about narrative theology and apostolic mediation. Simon’s inner state—whether his initial belief was genuine—is left ambiguous. The mode of Philip being “caught away” by the Spirit is not explained.",
+  "createdAt": "2025-11-03T00:15:01.922Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "John.12",
+  "briefOverview": "John 12 transitions into Jesus’ final week, juxtaposing public acclaim with growing opposition while framing his impending death as the path to glory.",
+  "summary": "In Bethany, Mary anoints Jesus with costly perfume; Judas protests under a pretense of concern for the poor, but Jesus defends the act as preparation for his burial. Crowds gather to see both Jesus and Lazarus, prompting chief priests to plot Lazarus’s death because many were believing on account of him. Jesus then enters Jerusalem to palm branches and acclamations as Israel’s king, fulfilling Scripture, though his disciples only grasp its meaning after his glorification. Greeks seek an audience, and Jesus announces that his hour has come, teaching that life comes through death like a seed, calling followers to lose their life to keep it, and praying for the Father’s glory; a heavenly voice affirms it. He declares the coming judgment of the world, the casting out of its ruler, and that when he is lifted up he will draw all people to himself; he urges the crowd to believe in the light while they have it. Despite many signs, widespread unbelief fulfills Isaiah’s prophecy, though some rulers believe secretly; Jesus concludes with a public appeal that believing in him is believing in the One who sent him, that he came to save, and that his word will judge on the last day, since he speaks the Father’s life-giving command.",
+  "externalContext": "Passover drew large pilgrim crowds to Jerusalem, heightening messianic hopes and tensions with authorities. Bethany was a village near Jerusalem, making Jesus’ presence and the raising of Lazarus highly visible to festival-goers. Spikenard was an imported, expensive perfume; 300 denarii approximated a laborer’s annual wage, underscoring the extravagance of Mary’s act and its suitability for burial customs involving spices and ointments. Palm branches were associated with Jewish celebration and, in some periods, national hopes; their use could signal royal or messianic expectation. “Greeks” likely refers to Greek-speaking Gentiles who were God-fearers attending the feast, reflecting widening interest beyond Judea. Social sanctions like synagogue expulsion were a known means of enforcing religious conformity and could deter public confession.",
+  "externalReferences": "The crowd’s cry and acclamation echo Psalm 118:25–26 (“Hosanna… Blessed is he who comes in the name of the LORD”), and Jesus’ donkey-riding fulfills Zechariah 9:9. Jesus’ statement about the poor being always present recalls Deuteronomy 15:11, which simultaneously commands ongoing care for the poor. John cites Isaiah 53:1 (“Who has believed our report?”) and Isaiah 6:9–10 (blindness and hardening) to interpret persistent unbelief. Jesus’ language about being “lifted up” recalls John 3:14, which itself alludes to Numbers 21:8–9 (the bronze serpent), linking his exaltation to the manner of his death.",
+  "seeAlso": [
+    "Zechariah 9:9",
+    "Psalm 118:25-26",
+    "Deuteronomy 15:11",
+    "Isaiah 53:1",
+    "Isaiah 6:9-10",
+    "Numbers 21:8-9",
+    "John 3:14",
+    "John 8:12",
+    "John 11:1-44",
+    "Matthew 21:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Anointing and rising opposition"
+    },
+    {
+      "range": "12-19",
+      "title": "Triumphal entry to Jerusalem"
+    },
+    {
+      "range": "20-50",
+      "title": "Hour of glory and final appeal"
+    }
+  ],
+  "themes": [
+    "Glory through death",
+    "Belief and unbelief",
+    "Light and darkness",
+    "True kingship",
+    "Costly devotion"
+  ],
+  "practicalQuestions": [
+    "How might I practice costly devotion to Christ without neglecting ongoing care for the poor?",
+    "Where am I tempted to seek human approval rather than openly aligning with truth?",
+    "What does following Jesus into self-denial look like in my present responsibilities and relationships?",
+    "While I have clarity or opportunity (“the light”), what next step of faith or obedience should I take?",
+    "How can I serve in ways that honor the Father rather than secure personal recognition?"
+  ],
+  "uncertainAreas": "It is unclear whether the Greeks actually met Jesus or only prompted his teaching through their request; the extent to which the crowd understood the heavenly voice is mixed in the text; the phrase “they could not believe” alongside human responsibility raises interpretive tension about divine hardening and human unbelief; and “lifted up” holds a dual sense of crucifixion and exaltation that John emphasizes without fully resolving for the audience within the scene.",
+  "createdAt": "2025-11-02T22:17:01.064Z",
+  "modelId": "gpt-5-2025-08-07"
+}

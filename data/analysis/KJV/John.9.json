@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "John.9",
+  "briefOverview": "Jesus heals a man born blind, leading to escalating inquiry and revealing the contrast between physical sight and spiritual blindness.",
+  "summary": "Jesus rejects the assumption that the man’s blindness was caused by sin and heals him with mud and a command to wash in Siloam, declaring himself the light of the world. Neighbors and then Pharisees interrogate the healed man; controversy centers on Jesus performing the sign on the Sabbath. The man increasingly testifies to Jesus’ divine origin, while his parents avoid testifying out of fear of being put out of the synagogue. The authorities expel the man; Jesus then finds him, reveals himself as the Son of God, and the man believes and worships. Jesus states that his coming brings judgment: those who admit their lack of sight receive sight, while those who claim sight remain blind in sin.",
+  "externalContext": "Sabbath observance in Second Temple Judaism included detailed interpretations of prohibited work; kneading or mixing substances (like making mud) could be viewed as a violation. The Pool of Siloam was a water reservoir in Jerusalem’s City of David, fed by Hezekiah’s tunnel, used for ritual and civic purposes. Being put out of the synagogue entailed exclusion from communal worship and social networks, a serious social penalty. John’s narrative from chapters 7–9 is set around the time of the Feast of Tabernacles (Sukkot), when water and light symbolism were prominent in Jerusalem.",
+  "externalReferences": "Jesus’ claim to be the light of the world echoes John 8:12 and frames the sign of giving sight (cf. John 3:19–21 on light and judgment). Healing on the Sabbath reprises earlier conflict in John 5:9–18. The opening of blind eyes aligns with messianic expectations (Isaiah 35:5; Isaiah 42:6–7; Psalm 146:8). The parents’ fear of expulsion anticipates later notes about synagogue exclusion (John 12:42; 16:2), and the phrase “Give God the praise” reflects an oath formula seen in Joshua 7:19.",
+  "seeAlso": [
+    "John 8:12",
+    "John 5:9-18",
+    "John 3:19-21",
+    "Isaiah 35:5",
+    "Isaiah 42:6-7",
+    "Psalm 146:8",
+    "John 12:42",
+    "John 16:2",
+    "Joshua 7:19",
+    "Isaiah 59:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Healing at Siloam"
+    },
+    {
+      "range": "8-34",
+      "title": "Interrogations and Expulsion"
+    },
+    {
+      "range": "35-41",
+      "title": "True Sight and Judgment"
+    }
+  ],
+  "themes": [
+    "Spiritual blindness",
+    "Light and judgment",
+    "Sabbath controversy",
+    "Witness under pressure",
+    "Faith and worship"
+  ],
+  "practicalQuestions": [
+    "Where am I assuming suffering is always someone’s fault instead of asking how God might work through it?",
+    "How do I respond when social pressure discourages me from speaking truth about what I have experienced?",
+    "What practices help me remain open to correction so I do not become spiritually blind while claiming to see?",
+    "In what ways can I honor God’s work even when it challenges my traditions or expectations?",
+    "How does Jesus’ identity as the light of the world shape how I interpret hardship and healing?"
+  ],
+  "uncertainAreas": "Textual variation exists at 9:35 (“Son of God” vs. “Son of Man”), which affects nuance but not the narrative’s thrust. The clause in 9:3 (“that the works of God might be displayed”) can be read as purpose or result, and translations differ in punctuation. The historical specifics and timing of synagogue expulsion practices are debated; the narrative reflects fear of exclusion, but the precise policy and date are uncertain. The healed man’s claim that God does not hear sinners (9:31) reflects conventional wisdom and his reasoning, not necessarily a comprehensive theological statement.",
+  "createdAt": "2025-11-02T22:14:51.104Z",
+  "modelId": "gpt-5-2025-08-07"
+}

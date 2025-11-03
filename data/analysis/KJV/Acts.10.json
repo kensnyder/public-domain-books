@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.10",
+  "briefOverview": "Peter is led by visions and the Spirit to proclaim Jesus to the Gentile Cornelius, demonstrating that God shows no partiality and grants the Holy Spirit beyond Jewish boundaries.",
+  "summary": "An angel directs the devout Roman centurion Cornelius to send for Peter. Meanwhile, Peter receives a vision of a descending sheet of animals and a voice declaring them clean, which he later understands to mean he must not call any person unclean. The Spirit instructs Peter to go with Cornelius’s messengers, and he enters Cornelius’s home where many have gathered to hear God’s message. Peter proclaims that God accepts those who fear him in every nation and summarizes Jesus’s ministry, death, resurrection, and role as judge, testifying to forgiveness through his name. While Peter speaks, the Holy Spirit falls on all the Gentiles present, who speak in tongues and praise God. Peter then orders them to be baptized, recognizing they received the Spirit just as Jewish believers did.",
+  "externalContext": "Caesarea was the Roman administrative center of Judea, housing a significant Gentile population and a military garrison. A centurion commanded roughly a hundred soldiers; Luke occasionally portrays centurions positively. Cornelius is described as a “God-fearer,” a Gentile sympathizer with Jewish monotheism who practiced prayer and almsgiving without full conversion to Judaism. Jewish purity customs in the Second Temple period discouraged close table fellowship with Gentiles, and tanners were considered ritually problematic because of contact with animal carcasses. Daily prayer commonly occurred at set hours (e.g., the sixth and ninth hours), aligning with temple schedules and personal devotion.",
+  "externalReferences": "Peter’s vision engages the clean/unclean distinctions of the Torah (Leviticus 11), yet he explicitly applies its meaning to people rather than food (Acts 10:28). The reception of Gentiles anticipates and fulfills Israel’s calling to be a light to the nations (Isaiah 49:6) and coheres with the mission to witness “to the end of the earth” (Acts 1:8). The Spirit’s outpouring with speech in tongues parallels Pentecost (Acts 2:1–4) and reflects the promise that God would pour out his Spirit on all flesh (Joel 2:28–29). Peter’s claim that witnesses ate and drank with the risen Jesus echoes Luke 24:42–43, and Jesus as judge of the living and the dead aligns with John 5:22–27.",
+  "seeAlso": [
+    "Leviticus 11:1-47",
+    "Isaiah 49:6",
+    "Joel 2:28-29",
+    "Acts 1:8",
+    "Acts 2:1-4",
+    "Luke 24:42-43",
+    "John 5:22-27",
+    "Acts 11:1-18",
+    "Acts 15:7-11",
+    "Ephesians 2:11-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Cornelius’s vision and summons"
+    },
+    {
+      "range": "9-33",
+      "title": "Peter’s vision and meeting"
+    },
+    {
+      "range": "34-48",
+      "title": "Peter’s message and Gentile Pentecost"
+    }
+  ],
+  "themes": [
+    "Gentile inclusion",
+    "God's impartiality",
+    "Holy Spirit",
+    "Witness",
+    "Baptism"
+  ],
+  "practicalQuestions": [
+    "Where might cultural or religious boundaries be keeping me from sharing life and faith with others whom God is welcoming?",
+    "How do I discern and obey the Spirit’s guidance, especially when it challenges my assumptions or traditions?",
+    "What evidences of the Spirit’s work should the community recognize before drawing lines of acceptance or exclusion?",
+    "In what ways can my prayers and generosity, like Cornelius’s, prepare the ground for deeper encounters with God?",
+    "How can my summary of the gospel mirror Peter’s focus on Jesus’s life, death, resurrection, and universal lordship?"
+  ],
+  "uncertainAreas": "The extent to which Peter’s vision addresses food laws directly versus serving only as a metaphor for accepting Gentiles is debated; the narrative emphasizes people, but the imagery draws on dietary categories. “It is unlawful” may reflect Jewish halakhic customs rather than explicit Torah command, and interpretations vary. The nature of the tongues (known languages vs. ecstatic speech) is not specified. The exact baptismal formula (“in the name of the Lord”) is not detailed and is interpreted variously in relation to other baptism passages.",
+  "createdAt": "2025-11-03T00:16:31.483Z",
+  "modelId": "gpt-5-2025-08-07"
+}

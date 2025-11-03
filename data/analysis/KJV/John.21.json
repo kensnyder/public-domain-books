@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "John.21",
+  "briefOverview": "The risen Jesus appears by the Sea of Tiberias to renew fellowship with his disciples and publicly restore Peter with a commission to shepherd his people.",
+  "summary": "After an unproductive night of fishing, seven disciples encounter Jesus on the shore, who instructs them to cast the net on the right side; they haul an abundant catch and share a meal he provides. John recognizes Jesus first, and Peter rushes to him, while the others bring the fish to land, numbering 153. Jesus serves them bread and fish, marking his third post-resurrection appearance to the disciples. He then asks Peter three times whether he loves him, paralleling Peter’s earlier three denials, and charges him to feed and tend his sheep. Jesus foretells Peter’s future suffering and death, calling him to follow, and rebukes Peter’s curiosity about the beloved disciple’s future by focusing him on his own call. The chapter closes with the beloved disciple’s testimony and an acknowledgment that Jesus did many other unwritten deeds.",
+  "externalContext": "The Sea of Tiberias is another name for the Sea of Galilee, a hub for fishing with cast and drag nets; night fishing was common due to better catch rates and cooler waters. Counting and sorting fish at shore was a routine commercial practice, which explains the precise tally. A charcoal fire on the beach evokes a familiar domestic scene; charcoal fires were used for steady heat and cooking. In the Roman world, execution by crucifixion was a known fate for some criminals and dissidents; language about stretching out hands could allude to such a death. Early Christian communities often highlighted eyewitness testimony to authenticate their accounts in a culture that valued credible witnesses.",
+  "externalReferences": "The miraculous catch recalls Luke 5:1–11, where an abundant haul accompanies Peter’s initial call, here echoing a renewed call after failure. Peter’s threefold affirmation of love mirrors his three denials by a charcoal fire (John 18:17, 25–27), with this scene’s charcoal fire subtly linking the episodes. Jesus’ charge to “feed my sheep” resonates with the Good Shepherd discourse (John 10:11–16) and is echoed in Peter’s later exhortation to “shepherd the flock of God” (1 Peter 5:2). The prediction of Peter’s death (John 21:18–19) aligns with Peter’s later remark that his departure was made clear by the Lord (2 Peter 1:14), and the reference to this being the third appearance follows the earlier gatherings in John 20:19–23 and 20:26–29.",
+  "seeAlso": [
+    "Luke 5:1-11",
+    "John 18:17,25-27",
+    "John 10:11-16",
+    "1 Peter 5:2",
+    "2 Peter 1:14",
+    "John 20:19-29",
+    "John 13:23-25",
+    "John 6:9-13",
+    "John 13:36-38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Miraculous catch and meal"
+    },
+    {
+      "range": "15-19",
+      "title": "Peter restored and commissioned"
+    },
+    {
+      "range": "20-25",
+      "title": "Beloved disciple and witness"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Discipleship",
+    "Shepherding",
+    "Witness"
+  ],
+  "practicalQuestions": [
+    "Where is Jesus inviting me to obey in simple, concrete ways even when I feel I’ve come up empty?",
+    "How can love for Christ be expressed through tangible care for people under my influence or responsibility?",
+    "What would it look like to follow Jesus without comparing my path to others’ callings or destinies?",
+    "How do I respond after failure—do I avoid Jesus, or move toward him for restoration and renewed purpose?",
+    "How can my community guard against and correct well-intentioned but inaccurate rumors about spiritual matters?"
+  ],
+  "uncertainAreas": "The meaning of “lovest thou me more than these” is ambiguous (whether ‘these’ refers to the fish/occupation or the other disciples). The significance of the exact number 153 is not explained in the text. “You will stretch out your hands” likely alludes to martyrdom but the specific manner is not explicit. The phrase “if I will that he remain till I come” leaves the timing and nature of the ‘coming’ undefined.",
+  "createdAt": "2025-11-02T22:23:55.503Z",
+  "modelId": "gpt-5-2025-08-07"
+}

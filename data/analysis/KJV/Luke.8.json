@@ -1,0 +1,53 @@
+{
+  "chapterOsisID": "Luke.8",
+  "briefOverview": "Jesus teaches about truly hearing God’s word and demonstrates his authority over nature, demons, disease, and death.",
+  "summary": "Jesus travels proclaiming the kingdom with the Twelve and several women who support the mission. He teaches the parable of the sower and explains differing responses to the word, urging careful hearing, open witness, and obedience as the mark of his true family. He calms a storm, rebuking his disciples’ fear. In the country of the Gadarenes he frees a man possessed by many demons; the spirits enter a herd of pigs, and the healed man is sent to testify. Returning, Jesus heals a woman with a twelve-year hemorrhage who touches his garment in faith. He then raises Jairus’s twelve-year-old daughter, encouraging faith despite news of her death and instructing silence afterward.",
+  "externalContext": "Luke’s mention of women patrons aligns with known patterns in the ancient Mediterranean where wealthy women sometimes funded religious-philosophical movements. Pig herding indicates a largely Gentile region east of the Sea of Galilee, where Jewish purity norms were less determinative for the local economy. According to Levitical law, a chronic flow of blood rendered a woman ritually unclean and socially marginalized. Galilee’s sudden squalls are well attested and could endanger small fishing boats. Synagogue rulers were local lay leaders responsible for order and programming in the synagogue, typically respected figures in their communities.",
+  "externalReferences": "Parallels to the parable of the sower and its explanation appear in Matthew 13:3–23 and Mark 4:1–20; the lamp-on-a-stand saying also parallels Matthew 5:15 and Mark 4:21–25. The calming of the storm corresponds to Matthew 8:23–27 and Mark 4:35–41; the Gadarenes/Gerasenes exorcism and the intertwined healings of Jairus’s daughter and the hemorrhaging woman parallel Mark 5:1–43 and Matthew 9:18–26. The woman’s touching the garment’s fringe echoes Numbers 15:38–39, while her condition relates to Leviticus 15:25–27. Jesus redefining family by hearing and doing God’s word has parallels in Matthew 12:46–50 and Mark 3:31–35.",
+  "seeAlso": [
+    "Matthew 13:3-23",
+    "Mark 4:1-20",
+    "Matthew 5:15",
+    "Mark 4:21-25",
+    "Matthew 8:23-27",
+    "Mark 4:35-41",
+    "Mark 5:1-20",
+    "Mark 5:21-43",
+    "Numbers 15:38-39",
+    "Leviticus 15:25-27",
+    "Matthew 12:46-50",
+    "Mark 3:31-35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-21",
+      "title": "Hearing and Doing the Word"
+    },
+    {
+      "range": "22-39",
+      "title": "Authority over Storm and Demons"
+    },
+    {
+      "range": "40-56",
+      "title": "Faith and Restoration to Life"
+    }
+  ],
+  "themes": [
+    "Hearing and doing",
+    "Faith versus fear",
+    "Jesus’ authority",
+    "Light and revelation",
+    "Witness"
+  ],
+  "practicalQuestions": [
+    "Which “soil” most resembles how I currently receive God’s word, and what would help me become good soil that bears fruit with patience?",
+    "What worries, riches, or pleasures most choke my responsiveness to God, and how can I prune them?",
+    "Where might I be hiding the light I’ve received instead of setting it where others can see?",
+    "How do I respond in crises—fear or trust—and what practices help cultivate faith under pressure?",
+    "Whom do I treat as family in practice: those who hear and do God’s word, or only biological ties?",
+    "In what concrete ways can I bear witness to what God has done for me among my own community?"
+  ],
+  "uncertainAreas": "The purpose of parables in v.10 (“that seeing they might not see…”) admits multiple readings—judicial hardening versus pedagogical veiling until receptivity. The exact geography (Gadarenes/Gerasenes) is textually varied. The meaning of “the deep” (abyss) in v.31, and why Jesus permits demons to enter pigs, is not fully explained. The interplay between public testimony (v.39) and later silence (v.56) likely reflects differing settings but remains interpretively debated.",
+  "createdAt": "2025-11-02T21:11:16.513Z",
+  "modelId": "gpt-5-2025-08-07"
+}

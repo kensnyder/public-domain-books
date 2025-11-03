@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "John.7",
+  "briefOverview": "At the Feast of Tabernacles, Jesus moves from secrecy to public teaching, challenging surface-level judgments and claiming divine authorization. The chapter culminates in an invitation to the thirsty and a divided response among leaders and crowds.",
+  "summary": "Because authorities in Judea sought his life, Jesus initially stayed in Galilee and declined his brothers’ push to reveal himself publicly, saying his time had not yet come. He later went to Jerusalem quietly for the Feast of Tabernacles; opinions among the crowds were split and hushed for fear of the authorities. Midway through the feast, Jesus taught in the temple, asserting that his teaching came from the One who sent him and urging judgment by righteous standards rather than appearance; he defended his Sabbath healing by comparing it to permitted Sabbath circumcision. Disputes arose over his origin and identity; though some tried to arrest him, no one seized him because his hour had not yet come. On the feast’s great day he invited the thirsty to come to him for “living water,” which John interprets as the future gift of the Spirit after Jesus’ glorification. The officers returned empty-handed, impressed by his words, while the Pharisees dismissed the crowds; Nicodemus appealed for a fair hearing, but was rebuffed, and the assembly dispersed.",
+  "externalContext": "The Feast of Tabernacles (Sukkot) was a major pilgrimage festival marked by joyful celebration in Jerusalem; it included processions, temporary shelters, and, in later traditions, a water-pouring rite at the temple and prominent illumination. The “great day of the feast” likely refers to the climactic final day (Hoshana Rabbah), making Jesus’ water imagery especially pointed. Temple “officers” were Levite guards under priestly supervision, and the Pharisees and chief priests together represent the ruling council (Sanhedrin) factions. “How knoweth this man letters” reflects the expectation of formal scribal training for recognized teachers, which Jesus lacked by conventional standards. The mention of the “dispersed among the Gentiles” reflects the Jewish diaspora living throughout the Greco-Roman world.",
+  "externalReferences": "Jesus’ defense of healing on the Sabbath alludes to the earlier episode at Bethesda (John 5:1–16), where his act and command to carry a mat provoked controversy; here he argues from the accepted practice of Sabbath circumcision to the greater good of making a person whole. The motif that his “hour” had not yet come connects to earlier and later statements about divine timing and glorification (John 2:4; John 12:23). The crowd’s claims about the Messiah’s origins draw on promises of Davidic descent and Bethlehem birth (2 Samuel 7:12–16; Micah 5:2), and some identify him as “the Prophet,” evoking Deuteronomy 18:15–18. Jesus’ “living water” promise echoes scriptural streams-of-life imagery rather than a single verse (e.g., Isaiah 44:3; Ezekiel 47:1–12; Zechariah 14:8).",
+  "seeAlso": [
+    "John 5:1-16",
+    "John 2:4",
+    "John 12:23",
+    "Deuteronomy 18:15-18",
+    "2 Samuel 7:12-16",
+    "Micah 5:2",
+    "Isaiah 44:3",
+    "Ezekiel 47:1-12",
+    "Zechariah 14:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "To the Feast in Secret"
+    },
+    {
+      "range": "14-36",
+      "title": "Temple Teaching and Claims"
+    },
+    {
+      "range": "37-53",
+      "title": "Living Water and Division"
+    }
+  ],
+  "themes": [
+    "Divine timing",
+    "True judgment",
+    "Authority from God",
+    "Division over Jesus",
+    "Spirit’s promise"
+  ],
+  "practicalQuestions": [
+    "Where might I be judging by appearances rather than with righteous judgment?",
+    "How do I discern teaching that genuinely seeks God’s glory rather than self-promotion?",
+    "Am I willing to pursue God’s will so that I can better recognize what is from God?",
+    "How do I respond when social pressure or fear discourages open conversation about truth?",
+    "Do I bring my spiritual thirst to Jesus, trusting his promise of the Spirit’s life-giving work?"
+  ],
+  "uncertainAreas": "The exact scriptural source behind “as the scripture hath said” about living water is not specified and likely blends multiple passages; interpretations vary. The crowd’s assertion that “no prophet arises from Galilee” may be rhetorical or reflect limited knowledge; its accuracy is debated. The interplay between different groups labeled “the Jews,” “the people,” and “the rulers” can be difficult to map precisely in each verse. The narrative emphasis on Jesus’ timing (“hour not yet come”) leaves some ambiguity about why and how attempts to arrest him failed beyond divine restraint.",
+  "createdAt": "2025-11-02T22:13:31.116Z",
+  "modelId": "gpt-5-2025-08-07"
+}

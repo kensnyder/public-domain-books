@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.1",
+  "briefOverview": "Acts opens by linking to Luke’s Gospel, recounting the risen Jesus’ final instructions, promise of the Spirit, and ascension. The disciples wait in prayer at Jerusalem and replace Judas with Matthias to restore the Twelve.",
+  "summary": "Luke addresses Theophilus, recalling Jesus’ works and teachings up to his ascension, after giving commands through the Holy Spirit. Over forty days the risen Jesus appears to the apostles, teaching about the kingdom of God, and instructs them to remain in Jerusalem to receive the Father’s promised Holy Spirit. When asked about restoring the kingdom to Israel, Jesus defers the timing to the Father but promises power to be his witnesses in Jerusalem, Judea, Samaria, and to the ends of the earth. Jesus ascends from the Mount of Olives as they watch, and two men in white announce that he will return in like manner. The disciples return to Jerusalem and join in steadfast prayer with the women, Mary the mother of Jesus, and his brothers. Peter cites Scripture regarding Judas’ fate and the need to fill his office, and after prayer and casting lots, Matthias is chosen and numbered with the eleven apostles.",
+  "externalContext": "Acts is the second volume of a two-part work (Luke–Acts), traditionally attributed to Luke, a companion of Paul, and addressed to Theophilus, likely a patron or high-status inquirer. The forty days between Jesus’ resurrection and ascension lead into the Jewish festival calendar, with Pentecost (Shavuot) occurring fifty days after Passover, explaining the disciples’ presence in Jerusalem. A “Sabbath day’s journey” reflects a customary limit of about 2,000 cubits (roughly 0.5–0.7 miles) for travel on the Sabbath. Casting lots was a recognized Jewish method for discerning divine choice (e.g., Proverbs 16:33) and had temple precedents. Maintaining the number twelve symbolically mirrors Israel’s twelve tribes, signaling continuity with Israel’s story.",
+  "externalReferences": "The address to Theophilus and the ascension command echo Luke’s first volume (Luke 1:1–4; 24:49–53). The promise of Spirit-baptism recalls John the Baptist’s words (Luke 3:16), and Jesus’ witnesses-to-the-ends-of-the-earth commission complements the Great Commission (Matthew 28:18–20). Peter’s citations about replacing Judas and desolation draw from Psalms 69:25 and 109:8. Accounts of Judas’ death and the “field of blood” are narrated differently in Matthew 27:3–10; the appearances of the risen Jesus to the apostles also align with 1 Corinthians 15:5–7.",
+  "seeAlso": [
+    "Luke 1:1-4",
+    "Luke 24:49-53",
+    "Luke 3:16",
+    "Psalms 69:25",
+    "Psalms 109:8",
+    "Matthew 27:3-10",
+    "1 Corinthians 15:5-7",
+    "John 14:16-17",
+    "Matthew 28:18-20",
+    "Acts 2:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Promise of the Spirit and Mission"
+    },
+    {
+      "range": "9-11",
+      "title": "Ascension and Assurance"
+    },
+    {
+      "range": "12-26",
+      "title": "Prayer and Choosing Matthias"
+    }
+  ],
+  "themes": [
+    "Holy Spirit",
+    "Witnesses",
+    "Resurrection",
+    "Prayerful unity",
+    "Apostolic leadership"
+  ],
+  "practicalQuestions": [
+    "How do I practice patient, prayerful waiting for God’s timing rather than demanding immediate answers?",
+    "In what concrete ways can I bear witness to Jesus locally, regionally, and cross-culturally?",
+    "How can a community discern leadership decisions through prayerful dependence and transparent process?",
+    "What habits help me live with hope and responsibility in light of Christ’s promised return?",
+    "How does the reality of the resurrection shape my courage and priorities?"
+  ],
+  "uncertainAreas": "The precise meaning of “restore the kingdom to Israel” is not explained and interpretations vary. The identity of the “two men in white” is implied to be angelic but not explicitly stated. The differing accounts of Judas’ death (Acts 1 vs. Matthew 27) raise harmonization questions. Whether casting lots sets a normative pattern for church decision-making after the Spirit’s coming is debated.",
+  "createdAt": "2025-11-03T00:10:54.561Z",
+  "modelId": "gpt-5-2025-08-07"
+}

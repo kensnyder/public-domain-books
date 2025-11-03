@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.5",
+  "briefOverview": "Jesus calls his first disciples, heals and forgives with divine authority, and teaches that his mission brings a new order that cannot be contained by old patterns.",
+  "summary": "By the Lake of Gennesaret, Jesus uses Simon’s boat to teach, then commands a miraculous catch that leads Simon Peter, James, and John to leave everything and follow him. He cleanses a man with leprosy and directs him to fulfill Mosaic requirements, yet crowds grow so large that Jesus often withdraws to pray. When friends lower a paralyzed man through a roof, Jesus declares his sins forgiven and heals him to demonstrate the Son of Man’s authority. Jesus then calls Levi the tax collector, dines with many tax collectors and others, and explains his mission as a physician for the sick—calling sinners to repentance. When challenged about fasting, he identifies himself as the bridegroom and teaches with images of unshrunk cloth and new wine, signaling the incompatibility of his new work with old frameworks.",
+  "externalContext": "The Lake of Gennesaret is another name for the Sea of Galilee, a major freshwater lake supporting a thriving fishing trade in the first century. Leprosy in biblical usage covered a range of skin diseases; those afflicted were socially and ritually marginalized, and the Law required priestly inspection and offerings for restoration (Leviticus 13–14). Tax collectors like Levi worked under Herodian or Roman authority and were widely disliked for corruption and collaboration. Homes in Galilee commonly had flat roofs with accessible external stairs; roof materials could be removed and replaced, making the paralytic’s lowering plausible. Pharisees and scribes were influential lay scholars and teachers committed to the Law and traditions, including practices such as regular fasting. Wineskins were animal-skin containers; new fermenting wine expands, so old, brittle skins could burst if reused.",
+  "externalReferences": "Jesus’ instruction to the cleansed leper to show himself to the priest and offer what Moses commanded alludes directly to Leviticus 14:2–32. His self-designation as the “Son of Man” and claim of authority to forgive sins echo Daniel 7:13–14, where a heavenly figure is given authority and dominion by God; the leaders’ protest that only God can forgive sins aligns with texts like Isaiah 43:25. The call to “catch men” parallels Matthew 4:18–22’s “fishers of men,” and the later, post-resurrection miraculous catch in John 21:1–11 recalls and deepens this theme. The fasting controversy and the parables of the bridegroom and wineskins have close parallels in Matthew 9:14–17 and Mark 2:18–22; bridegroom imagery for God’s relationship with his people appears in Hosea 2:19–20 and Isaiah 62:5.",
+  "seeAlso": [
+    "Leviticus 14:2-32",
+    "Daniel 7:13-14",
+    "Isaiah 43:25",
+    "Matthew 4:18-22",
+    "Matthew 9:1-17",
+    "Mark 2:1-22",
+    "John 21:1-11",
+    "Hosea 2:19-20",
+    "Isaiah 62:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Miraculous catch and call"
+    },
+    {
+      "range": "12-26",
+      "title": "Cleansing and forgiving authority"
+    },
+    {
+      "range": "27-39",
+      "title": "Levi’s call and new wine"
+    }
+  ],
+  "themes": [
+    "Discipleship",
+    "Divine authority",
+    "Forgiveness",
+    "Faith",
+    "Newness"
+  ],
+  "practicalQuestions": [
+    "Where might Jesus be asking me to trust his word beyond my professional expertise or past experience, as Peter did?",
+    "What habits help me, like Jesus, to withdraw for prayer amid busy demands?",
+    "How can I practice hospitality that welcomes those considered outsiders or sinners without compromising integrity?",
+    "What would repentance look like in my context if Jesus is a physician for my deepest sicknesses?",
+    "How should my approach to fasting or spiritual disciplines change in light of Jesus’ presence and purpose?",
+    "Where am I trying to fit new work God is doing into old frameworks that can’t hold it?"
+  ],
+  "uncertainAreas": "Verse 17’s phrase “the power of the Lord was present to heal them” is ambiguous about whom “them” refers to (the crowd broadly, or the sick specifically). The concluding saying in verse 39 about preferring old wine (unique to Luke) is open to interpretation—whether it comments on human resistance to change or nuances the value of the old relative to the new. The identification of Levi with Matthew is traditional but not stated in this chapter.",
+  "createdAt": "2025-11-02T21:08:22.190Z",
+  "modelId": "gpt-5-2025-08-07"
+}

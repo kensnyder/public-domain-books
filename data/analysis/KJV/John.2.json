@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "John.2",
+  "briefOverview": "Jesus reveals his glory at a wedding in Cana and asserts authority over the Jerusalem temple, hinting at his death and resurrection.",
+  "summary": "At a wedding in Cana, Jesus responds to his mother’s report of a wine shortage by transforming water reserved for Jewish purification into superior wine, which reveals his glory and strengthens his disciples’ faith. He then visits Capernaum briefly before going up to Jerusalem for Passover. In the temple, Jesus drives out merchants and money changers, calling it his Father’s house and rejecting its commercialization. Challenged for a sign, he enigmatically offers, “Destroy this temple, and in three days I will raise it,” which John explains refers to his body and resurrection. After his resurrection, the disciples recall this saying and believe the Scripture and Jesus’ words. Many in Jerusalem believe because of signs, yet Jesus does not entrust himself to them, knowing what is in people.",
+  "externalContext": "First-century Jewish weddings were multi-day village celebrations, typically overseen by a master of the banquet (architriklinos) who ensured provisions and order. Stone water jars were used because they were less susceptible to ritual impurity; the water they held served for purification washings required by Jewish custom. Passover drew pilgrims to Jerusalem, and the temple courts hosted money changers (to exchange various currencies into acceptable coinage for offerings) and sellers of sacrificial animals. Herod the Great’s reconstruction of the Second Temple began around 20/19 BCE; the remark about 46 years reflects an ongoing, decades-long building project. The annual pilgrimage heightened national, religious, and economic activity within the temple precincts.",
+  "externalReferences": "John explicitly links Jesus’ zeal in the temple to Psalm 69:9 (“Zeal for your house has consumed me”), framing his actions as fulfillment of Scripture. Jesus’ reference to “my hour” anticipates later moments when his hour has not yet come (John 7:30; 8:20) and when it finally arrives (John 12:23; 17:1). His saying about the temple being raised in three days is echoed and contested at his trial (Mark 14:58; Matthew 26:61) and later charges (Acts 6:14), showing how his words were remembered and misunderstood. Parallels to the temple cleansing appear in the Synoptic Gospels (Matthew 21:12–13; Mark 11:15–17; Luke 19:45–46), though John places the event at the beginning of Jesus’ ministry.",
+  "seeAlso": [
+    "Psalm 69:9",
+    "Matthew 21:12-13",
+    "Mark 11:15-17",
+    "Luke 19:45-46",
+    "Mark 14:58",
+    "Matthew 26:61",
+    "Acts 6:14",
+    "John 7:30",
+    "John 8:20",
+    "John 12:23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Cana wedding, first sign"
+    },
+    {
+      "range": "13-17",
+      "title": "Cleansing the temple"
+    },
+    {
+      "range": "18-25",
+      "title": "Sign of the temple and responses"
+    }
+  ],
+  "themes": [
+    "Signs",
+    "Glory",
+    "Temple holiness",
+    "Jesus' authority",
+    "Divine timing"
+  ],
+  "practicalQuestions": [
+    "Where do I see ordinary rituals or resources that could be transformed for God’s purposes, as the water jars were?",
+    "How should reverence for places of worship shape my financial and religious practices?",
+    "When confronted, do I ask for more signs, or do I respond to the authority already revealed?",
+    "What does Jesus’ sense of timing (“my hour”) teach me about exercising patience and purpose in my decisions?",
+    "If Jesus knows what is in me, how can I practice honesty and repentance rather than outward performance?"
+  ],
+  "uncertainAreas": "The tone and nuance of Jesus’ address to his mother (“Woman… my hour is not yet come”) and precisely what “hour” denotes at this point; whether John intends this temple cleansing to be the same event as the Synoptic accounts or a distinct earlier one; which specific “scripture” in v.22 the disciples believed after the resurrection.",
+  "createdAt": "2025-11-02T22:09:33.537Z",
+  "modelId": "gpt-5-2025-08-07"
+}

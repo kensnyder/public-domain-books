@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "John.4",
+  "briefOverview": "Jesus reveals himself as the giver of “living water” and defines true worship, leading many Samaritans to believe, and he later heals a royal official’s son in Galilee by his word.",
+  "summary": "Hearing that the Pharisees noted his growing influence, Jesus travels from Judea to Galilee through Samaria and, at Jacob’s well, asks a Samaritan woman for water. He offers her “living water” that becomes a spring to eternal life, exposes her past, and teaches that true worship is to the Father “in spirit and in truth,” declaring himself to be the Messiah. The woman testifies in her city, and many Samaritans believe; more believe after hearing Jesus directly, calling him “the Savior of the world.” Jesus teaches his disciples that doing the Father’s will is his food and that the fields are ready for harvest, with sowers and reapers rejoicing together. After two days, he goes to Galilee, where—though a prophet has no honor in his own country—the Galileans receive him, having seen his works at the feast. In Cana, he tells a royal official seeking healing for his dying son, “Your son lives”; the healing occurs at that hour, leading the official and his household to believe—John’s second Galilean sign.",
+  "externalContext": "Relations between Jews and Samaritans in the first century were tense; Samaritans accepted the Pentateuch and worshiped on Mount Gerizim, while Jews centered worship in Jerusalem. Jacob’s well is traditionally located near Shechem (modern Nablus), close to land associated with Jacob and Joseph. In Jewish usage, “living water” can mean flowing, fresh water, a potent image for life and purity. Social conventions typically discouraged Jewish men—especially teachers—from public conversations with unrelated women. The “royal official” (Greek basilikos) likely served in Herod Antipas’s administration, with Capernaum as a regional center on the Sea of Galilee.",
+  "externalReferences": "The mention of Jacob’s land and Joseph recalls Genesis 33:19 and Joshua 24:32, grounding the scene in Israel’s ancestral heritage. Jesus’ teaching on “living water” resonates with prophetic imagery of God as the source of living waters (Jeremiah 2:13; Isaiah 55:1; Ezekiel 47:1–12; Zechariah 14:8). The proverb about a prophet lacking honor parallels synoptic formulations (Matthew 13:57; Mark 6:4; Luke 4:24). John identifies the healing of the official’s son as the second sign performed in Galilee, linking back to the first sign at Cana (John 2:1–11), while the Samaritans’ confession “Savior of the world” is echoed later in 1 John 4:14.",
+  "seeAlso": [
+    "Genesis 33:19",
+    "Joshua 24:32",
+    "Jeremiah 2:13",
+    "Isaiah 55:1",
+    "Ezekiel 47:1-12",
+    "Zechariah 14:8",
+    "Matthew 13:57",
+    "Mark 6:4",
+    "Luke 4:24",
+    "John 2:1-11",
+    "1 John 4:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-26",
+      "title": "Jesus and Samaritan woman"
+    },
+    {
+      "range": "27-42",
+      "title": "Harvest and Samaritan belief"
+    },
+    {
+      "range": "43-54",
+      "title": "Official’s son healed"
+    }
+  ],
+  "themes": [
+    "Living water",
+    "True worship",
+    "Faith versus signs",
+    "Mission to outsiders",
+    "Harvest imagery"
+  ],
+  "practicalQuestions": [
+    "How might social or cultural barriers keep me from engaging those God places in my path, and how could I cross them graciously?",
+    "What would it mean for me to worship “in spirit and in truth” in my current habits and community life?",
+    "Do I rely on dramatic “signs,” or am I learning to trust Jesus’ word?",
+    "Where are the “fields” around me already ripe for spiritual harvest, and what role can I play as sower or reaper?",
+    "In what ways can personal testimony, like the Samaritan woman’s, point others to encounter Jesus directly?"
+  ],
+  "uncertainAreas": "The precise meaning of “the sixth hour” (noon vs. another reckoning) is debated; the identity and exact role of the “royal official” is not specified; the relationship between “a prophet has no honor in his own country” and the Galileans’ favorable reception is interpretively complex; and whether “fields white for harvest” points specifically to the approaching Samaritans or is a general proverb remains uncertain.",
+  "createdAt": "2025-11-02T22:11:06.239Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.15",
+  "briefOverview": "Jesus is tried before Pilate, mocked, crucified, and buried. The narrative highlights his kingship, innocent suffering, and the fulfillment of Scripture.",
+  "summary": "At dawn, the chief priests deliver Jesus to Pilate, who questions him about being “King of the Jews”; Jesus largely remains silent while the leaders accuse him. Pilate, recognizing their envy yet seeking to appease the crowd, releases Barabbas and orders Jesus scourged and crucified. Soldiers mock Jesus with a purple cloak and crown of thorns, and Simon of Cyrene is compelled to carry his cross to Golgotha, where Jesus is crucified between two others under the charge, “The King of the Jews.” Bystanders and religious leaders mock him to come down from the cross; darkness covers the land until Jesus cries out Psalm 22:1 and dies. The temple veil is torn in two, and a Roman centurion concludes, “Truly this man was the Son of God,” while women followers look on; Joseph of Arimathea boldly requests Jesus’ body and lays it in a rock-hewn tomb as the women witness the burial.",
+  "externalContext": "Crucifixion was a Roman execution designed for deterrence and public humiliation, typically preceded by scourging and involving the victim carrying the crossbeam to the site. Pontius Pilate served as the Roman prefect of Judea (AD 26–36) and was responsible for capital cases; political tensions around Passover made crowd management especially sensitive. “Preparation” refers to the day before the Sabbath, indicating these events occur on Friday; Jewish time reckoning makes the third hour around 9 a.m., the sixth noon, and the ninth about 3 p.m. Wine mixed with myrrh could function as a numbing draught, while the “vinegar” offered is likely sour wine common to soldiers. The inscription stating the charge was customary in Roman executions, and the presence of a centurion fits Roman military procedure at crucifixions.",
+  "externalReferences": "Jesus’ cry, “My God, my God, why have you forsaken me?” quotes Psalm 22:1, and several details echo Psalm 22, including mockers “wagging their heads” (Psalm 22:7) and casting lots for garments (Psalm 22:18). Mark 15:28 (as in many manuscripts) connects the scene to Isaiah 53:12, “numbered with the transgressors,” reinforcing the Servant motif. The offering of sour wine aligns with Psalm 69:21. The onlookers’ expectation of Elijah reflects Malachi 4:5, which fueled hopes that Elijah would come before the day of the Lord.",
+  "seeAlso": [
+    "Psalm 22:1",
+    "Psalm 22:7",
+    "Psalm 22:18",
+    "Isaiah 53:12",
+    "Psalm 69:21",
+    "Malachi 4:5",
+    "Matthew 27:11-61",
+    "Luke 23:1-56",
+    "John 18:28-19:42",
+    "Hebrews 10:19-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Trial before Pilate"
+    },
+    {
+      "range": "16-32",
+      "title": "Mockery and Crucifixion"
+    },
+    {
+      "range": "33-47",
+      "title": "Death and Burial"
+    }
+  ],
+  "themes": [
+    "Innocent suffering",
+    "Kingship of Jesus",
+    "Fulfilled Scripture",
+    "Witness and confession",
+    "Mockery and rejection"
+  ],
+  "practicalQuestions": [
+    "When facing false accusation or hostility, when is silence wise and when should we speak?",
+    "How does Jesus’ refusal to save himself redefine power and kingship for us today?",
+    "In what ways do we, like the crowd, choose immediate comfort over what is just or true?",
+    "What does the centurion’s confession invite me to confess about Jesus amid suffering?",
+    "How can I imitate the courage of Joseph of Arimathea and the steadfast presence of the women followers?"
+  ],
+  "uncertainAreas": "The precise meaning of Jesus’ cry of dereliction and whether it signals abandonment, identification with Psalm 22, or both; whether the darkness was natural or supernatural; the historical basis of the Passover amnesty beyond the Gospels; textual issues around Mark 15:28 in some manuscripts; the specific theological significance of the torn temple veil within Mark’s intent.",
+  "createdAt": "2025-11-02T17:17:11.072Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Acts.11",
+  "briefOverview": "Peter defends God’s inclusion of Gentiles, and the mission expands in Antioch with charitable outreach to Judea.",
+  "summary": "Criticized in Jerusalem for eating with uncircumcised people, Peter recounts his vision at Joppa, the Spirit’s command to go to Caesarea, and the Holy Spirit falling on Gentiles just as at the beginning, concluding that he could not oppose God. The Jerusalem believers then glorify God for granting repentance to the Gentiles. Meanwhile, believers scattered by the persecution after Stephen preach in Phoenicia, Cyprus, and Antioch; some speak also to Greeks, and many believe. The Jerusalem church sends Barnabas, who encourages the new believers and brings Saul from Tarsus; they teach together in Antioch for a year, where the disciples are first called Christians. Prophets arrive from Jerusalem; Agabus predicts a great famine during Claudius’s reign, prompting the Antioch church to send relief to Judea via Barnabas and Saul.",
+  "externalContext": "Table fellowship with Gentiles and consumption of foods considered unclean were major boundary markers in Second Temple Judaism; crossing these lines could be viewed as covenantal compromise. Antioch (Syria) was a major cosmopolitan city and became an early hub of the Jesus movement beyond Judea, with a diverse population of Jews and Gentiles. The title “Christian” likely originated as an outsider designation in Antioch’s urban milieu before being adopted by believers themselves. Prophets in the early church functioned as Spirit-inspired speakers who provided guidance, exhortation, and sometimes predictive messages. The famine under Emperor Claudius (AD 41–54) is historically attested in multiple regional shortages in the mid-40s, affecting Judea especially.",
+  "externalReferences": "Peter’s defense reprises the events of Acts 10 (Cornelius’s household), and his phrase “as on us at the beginning” points back to the Pentecost outpouring (Acts 2:1–4). He explicitly recalls Jesus’ promise, “John baptized with water, but you will be baptized with the Holy Spirit” (Acts 1:5; cf. Luke 3:16). The scattering after Stephen’s death echoes Acts 8:1–4, which describes the dispersion of believers beyond Jerusalem. The first use of “Christian” here is echoed later in Acts 26:28 and in 1 Peter 4:16, and the prophet Agabus appears again predicting Paul’s arrest in Acts 21:10–11.",
+  "seeAlso": [
+    "Acts 10:1-48",
+    "Acts 2:1-4",
+    "Acts 1:5",
+    "Acts 8:1-4",
+    "Acts 26:28",
+    "1 Peter 4:16",
+    "Acts 21:10-11",
+    "Ephesians 2:11-22",
+    "Isaiah 49:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Peter defends Gentile inclusion"
+    },
+    {
+      "range": "19-26",
+      "title": "Church growth in Antioch"
+    },
+    {
+      "range": "27-30",
+      "title": "Famine prophecy and relief"
+    }
+  ],
+  "themes": [
+    "Gentile inclusion",
+    "Holy Spirit guidance",
+    "Mission expansion",
+    "Generosity and unity"
+  ],
+  "practicalQuestions": [
+    "When the Spirit’s work challenges my traditions, how do I discern and respond without resisting God?",
+    "Who today might be excluded by community norms, and how can I practice table fellowship that reflects God’s welcome?",
+    "What would it look like for my church to encourage new believers the way Barnabas did, with purpose of heart and visible grace?",
+    "How can we cultivate multi-ethnic mission like Antioch, using diverse gifts for teaching and outreach?",
+    "In times of wider crisis, how can we organize practical relief across regions to support fellow believers?"
+  ],
+  "uncertainAreas": "The KJV term “Grecians” in v.20 can mean Greek-speaking Jews or Gentile Greeks; many manuscripts favor Gentiles, but the nuance affects how we read Antioch’s outreach. The phrase “throughout all the world” for the famine may be hyperbolic or regional. “As on us at the beginning” most likely refers to Pentecost, though Luke does not detail all phenomena here. The emergence and role of “elders” in Jerusalem (v.30) is noted without explanation of how this leadership structure developed.",
+  "createdAt": "2025-11-03T00:17:06.141Z",
+  "modelId": "gpt-5-2025-08-07"
+}

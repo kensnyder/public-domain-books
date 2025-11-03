@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.14",
+  "briefOverview": "At a Sabbath meal Jesus challenges status-seeking and reciprocity, tells a parable about a rejected banquet invitation, and calls the crowds to count the cost of discipleship.",
+  "summary": "At a Sabbath dinner in a Pharisee’s home, Jesus heals a man with dropsy and exposes the inconsistency of forbidding mercy on the Sabbath. Observing guests vie for honor, he teaches that humility leads to exaltation and urges hosts to invite the poor and disabled who cannot repay, promising reward at the resurrection of the just. When a guest blesses those who will eat in God’s kingdom, Jesus tells a parable: the originally invited make excuses, so the master brings in the poor and outsiders until the house is full, while the first invitees are excluded. Turning to the crowds, Jesus states that loyalty to him must supersede family and even one’s own life, and that disciples must bear their cross. He gives two mini-parables about counting the cost—building a tower and waging war—to underscore the need for sober commitment. He concludes with a warning that salt that loses its savor is discarded, calling for attentive hearing.",
+  "externalContext": "Sabbath disputes were common among Jewish teachers; while rest from labor was expected, there was debate about what kinds of healing or rescue constituted prohibited “work.” First-century banquets featured a clear hierarchy of seating, with honor-shame dynamics shaping where guests reclined and how hosts curated guest lists for social reciprocity. Inviting those who could not repay ran against prevailing patronage norms in both Jewish and Greco-Roman settings. “Bearing the cross” would have evoked Rome’s brutal execution practice in which condemned persons often carried the crossbeam to the site. Dropsy (edema) was a known ailment characterized by swelling due to fluid retention, sometimes associated with moralizing stereotypes in antiquity, making the healing socially notable.",
+  "externalReferences": "Jesus’ logic about rescuing an animal on the Sabbath echoes similar teaching (Matthew 12:11) and Luke’s earlier scene about untying an ox or donkey on the Sabbath (Luke 13:15). The maxim “whoever exalts himself will be humbled” reappears in Luke 18:14. The great banquet imagery resonates with Isaiah’s vision of a lavish eschatological feast (Isaiah 25:6), and the promise of reward at “the resurrection of the just” aligns with Jewish resurrection hope (Daniel 12:2). Calls to take up the cross and prioritize allegiance to Jesus parallel Luke 9:23 and Matthew 10:37, while the salt warning parallels Matthew 5:13 and Mark 9:50.",
+  "seeAlso": [
+    "Matthew 12:11",
+    "Luke 13:15",
+    "Luke 18:14",
+    "Isaiah 25:6",
+    "Daniel 12:2",
+    "Luke 9:23",
+    "Matthew 10:37",
+    "Matthew 5:13",
+    "Mark 9:50",
+    "Matthew 22:1-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Sabbath mercy and humility"
+    },
+    {
+      "range": "15-24",
+      "title": "Parable of the great banquet"
+    },
+    {
+      "range": "25-35",
+      "title": "Cost of discipleship and salt"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Kingdom invitation",
+    "Hospitality to poor",
+    "Costly discipleship",
+    "Reversal"
+  ],
+  "practicalQuestions": [
+    "Where am I seeking honor rather than choosing the low place?",
+    "How can I extend hospitality to those who cannot repay me?",
+    "What commitments or attachments might keep me from responding to God’s invitation?",
+    "Have I realistically counted the cost of following Jesus, including potential loss and opposition?",
+    "In what ways can I preserve my “saltiness” so that my discipleship remains faithful and useful?"
+  ],
+  "uncertainAreas": "“Hate” in verse 26 likely uses Semitic hyperbole for priority of allegiance, but the degree and expression of this priority can be interpreted differently. The identification of the initially invited guests and later invitees in the banquet parable (e.g., specific groups within Israel vs. broader inclusion of Gentiles) is not explicit. “Compel them to come in” has been misused historically; here it most plausibly means urgent persuasion, not coercion. The mechanism by which “salt” loses savor is debated (chemical vs. metaphorical impurity), though the warning’s force is clear.",
+  "createdAt": "2025-11-02T22:00:49.325Z",
+  "modelId": "gpt-5-2025-08-07"
+}

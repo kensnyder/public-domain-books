@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Acts.2",
+  "briefOverview": "At Pentecost the Holy Spirit is poured out, empowering the apostles to speak to a multiethnic crowd and prompting Peter to proclaim Jesus as the risen Lord and Messiah. The chapter ends with mass repentance, baptism, and the formation of a devoted, generous community.",
+  "summary": "On Pentecost, the gathered disciples experience a divine arrival: a sound like a rushing wind, tongues like fire, and Spirit-enabled speech in diverse languages. Pilgrims from across the diaspora hear God's mighty works in their native tongues; some are amazed while others accuse the speakers of drunkenness. Peter explains the event as the fulfillment of Joel's prophecy about the last days and testifies that Jesus—attested by miracles, crucified by human wickedness yet according to God's plan—has been raised and exalted. He cites Davidic Scripture to argue for Jesus' resurrection and lordship, concluding that God has made the crucified Jesus both Lord and Christ. The listeners are cut to the heart and ask what to do; Peter calls them to repent and be baptized in Jesus' name for the forgiveness of sins and the gift of the Holy Spirit, a promise for them, their children, and those far off. Around three thousand are baptized, and the new community devotes itself to the apostles' teaching, fellowship, breaking of bread, and prayers, practicing generous sharing and enjoying favor as the Lord adds to their number daily.",
+  "externalContext": "Pentecost (Shavuot) was a Jewish pilgrimage feast occurring fifty days after Passover, associated with firstfruits of the harvest and, in later Jewish tradition, the giving of the Torah. As a pilgrimage festival, it drew Jews and proselytes from across the Mediterranean and Near East to Jerusalem, explaining the multilingual crowd. The \"third hour\" corresponds roughly to 9 a.m. in Roman timekeeping. Early followers of Jesus met in the temple courts, a common public space for prayer and teaching. Ritual washings (mikva'ot) were known in Second Temple Judaism, providing a cultural backdrop for the readiness of mass baptisms near the temple area.",
+  "externalReferences": "Peter explicitly cites Joel 2:28–32 to explain the outpouring of the Spirit, the prophetic activity of various groups, and the promise that all who call on the name of the Lord will be saved. He quotes Psalm 16:8–11 to argue that the Holy One would not see decay, applying this to Jesus' resurrection rather than to David, whose tomb remained.\n\nPeter also invokes Psalm 110:1 to assert Jesus' exaltation to God's right hand and the subjection of his enemies. His mention of God's oath to David about a descendant on his throne echoes Psalm 132:11 (and the covenantal promise of 2 Samuel 7:12–13). Within Luke-Acts, this moment fulfills Jesus' promise of the \"promise of the Father\" and Spirit empowerment (Luke 24:49; Acts 1:4–5).",
+  "seeAlso": [
+    "Joel 2:28-32",
+    "Psalm 16:8-11",
+    "Psalm 110:1",
+    "Psalm 132:11",
+    "2 Samuel 7:12-13",
+    "Luke 24:49",
+    "Acts 1:4-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Spirit poured out at Pentecost"
+    },
+    {
+      "range": "14-36",
+      "title": "Peter’s Scripture-shaped proclamation"
+    },
+    {
+      "range": "37-47",
+      "title": "Repentance and communal life"
+    }
+  ],
+  "themes": [
+    "Holy Spirit outpouring",
+    "Jesus’ resurrection",
+    "Repentance and baptism",
+    "Witness and proclamation",
+    "Community sharing"
+  ],
+  "practicalQuestions": [
+    "How can we discern and welcome the Spirit’s work in ways that build understanding rather than confusion?",
+    "What does genuine repentance involve in thought, speech, and daily practice today?",
+    "In what concrete ways can a faith community embody generous sharing to meet needs?",
+    "How might we communicate the good news across cultural and linguistic differences with clarity and respect?",
+    "What rhythms of teaching, fellowship, shared meals, and prayer could help our community grow in unity and joy?"
+  ],
+  "uncertainAreas": "The precise nature of the \"tongues\" (known human languages only, or a broader range of Spirit speech) is debated. The scope of \"all that are afar off\" could include diaspora Jews and/or Gentiles; Acts later clarifies Gentile inclusion. The relationship between baptism and forgiveness in verse 38 is interpreted variously across traditions. The extent, duration, and normative status of holding \"all things in common\" are not specified and are understood differently.",
+  "createdAt": "2025-11-03T00:11:23.071Z",
+  "modelId": "gpt-5-2025-08-07"
+}

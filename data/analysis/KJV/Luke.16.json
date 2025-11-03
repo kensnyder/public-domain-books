@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Luke.16",
+  "briefOverview": "Jesus teaches about wealth, faithfulness, and ultimate accountability, contrasting worldly shrewdness with kingdom priorities and warning of irreversible judgment.",
+  "summary": "Jesus tells a parable of a steward who, facing dismissal, reduces his master’s debtors’ bills to secure future help; the master commends his shrewdness. Jesus applies the lesson: use worldly wealth to gain friends for eternal purposes, for faithfulness in small things reveals fitness for greater trust, and one cannot serve both God and mammon. Hearing this, covetous Pharisees mock him, and Jesus exposes their self-justification before people versus God’s knowledge of the heart, affirming the enduring validity of the Law even as the kingdom is proclaimed, and stating that divorce and remarriage constitute adultery. He then depicts a rich man who ignores a suffering beggar, Lazarus; after death Lazarus is comforted with Abraham while the rich man is tormented across an unbridgeable gulf. The rich man seeks relief and a warning for his brothers, but Abraham insists they already have Moses and the prophets; if they will not listen to Scripture, they would not be persuaded even by someone rising from the dead.",
+  "externalContext": "In the ancient Mediterranean world, wealthy landowners often appointed stewards (oikonomoi) to manage estates and accounts; these agents negotiated rents and commodity debts (such as oil and grain) and could adjust terms within customary margins. The quantities mentioned (a hundred measures of oil or wheat) reflect sizable commercial obligations typical of tenant farmers or merchants, indicating substantial wealth at stake. “Mammon” is a Semitic term (likely from Aramaic) for wealth or property, personified here as a rival master. The Pharisees were a prominent lay movement known for strict observance and influence among the populace; some were wealthy, and debates about righteousness and money were live issues. Jewish debates on divorce in the Second Temple period centered on Deuteronomy 24:1, with stricter (Shammai) and looser (Hillel) interpretations; Jesus’ statement aligns with a restrictive view of divorce and remarriage. The afterlife imagery of Hades and “Abraham’s bosom” evokes common Jewish motifs of postmortem reversal and banquet fellowship with the patriarchs.",
+  "externalReferences": "Jesus’ insistence that one cannot serve both God and mammon parallels Matthew 6:24, reinforcing the demand for undivided loyalty. His affirmation of the Law’s durability alongside the kingdom’s arrival resembles Matthew 11:12–13, which speaks of the transition from “the Law and the Prophets” to the proclamation of the kingdom. The warning about divorce and remarriage relates to Deuteronomy 24:1 and is consistent with Jesus’ stricter teaching elsewhere (Mark 10:11–12; Matthew 5:31–32). The rich man’s neglect of Lazarus stands against the Torah and prophetic calls to care for the poor (Deuteronomy 15:7–11; Isaiah 58:6–7; Amos 6:4–7), clarifying what “Moses and the prophets” already require.",
+  "seeAlso": [
+    "Matthew 6:24",
+    "Matthew 11:12-13",
+    "Deuteronomy 24:1",
+    "Mark 10:11-12",
+    "Deuteronomy 15:7-11",
+    "Isaiah 58:6-7",
+    "Amos 6:4-7",
+    "Luke 12:16-21",
+    "Luke 12:33-34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Shrewd Steward and Mammon"
+    },
+    {
+      "range": "14-18",
+      "title": "Self-Justification and the Law"
+    },
+    {
+      "range": "19-31",
+      "title": "Rich Man and Lazarus"
+    }
+  ],
+  "themes": [
+    "Stewardship",
+    "Wealth and mercy",
+    "Faithfulness",
+    "Judgment",
+    "Scripture’s authority"
+  ],
+  "practicalQuestions": [
+    "How am I using my present resources to serve people and purposes that endure beyond this life?",
+    "Where might faithfulness in small, hidden responsibilities be preparing me for greater trust from God?",
+    "In what ways do I try to divide allegiance between God and wealth, and what concrete step would re-center my loyalty?",
+    "How can I let Moses and the Prophets (the Scriptures) correct my assumptions about righteousness, money, and mercy?",
+    "Who is the “Lazarus at my gate” that I am overlooking, and how can I respond today?"
+  ],
+  "uncertainAreas": "The precise ethics of the steward’s reductions are debated (e.g., canceling his own commission versus illicitly altering contracts). The meaning of “make friends by means of unrighteous mammon” raises interpretive questions about whether it advocates charitable use of wealth, prudent planning, or both. The phrase “every man presseth into it” (v. 16) is ambiguous, possibly indicating eager entry or forceful opposition. The extent to which the afterlife scene is literal description versus parabolic imagery is unclear. How v. 17’s affirmation of the Law’s permanence relates to the concise statement on divorce in v. 18 invites further contextual correlation with broader gospel teaching.",
+  "createdAt": "2025-11-02T22:02:04.803Z",
+  "modelId": "gpt-5-2025-08-07"
+}

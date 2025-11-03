@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "John.13",
+  "briefOverview": "Jesus models humble service by washing the disciples’ feet, foretells betrayal and Peter’s denial, and gives a new commandment of mutual love.",
+  "summary": "On the eve of Passover, Jesus, fully aware of his impending departure to the Father, washes his disciples’ feet, teaching that their Lord’s humility is their pattern. Peter resists, but Jesus insists that unless he washes him, Peter has no share with him; Jesus notes the disciples are clean, though not all, alluding to the betrayer. After explaining the example—servants are not greater than their master—Jesus cites Scripture about a close companion turning against him and predicts betrayal to strengthen their faith when it occurs. By identifying the betrayer through a dipped morsel given to Judas, who then departs into the night, Jesus signals the beginning of events that will glorify the Son of Man and the Father. He addresses the disciples tenderly, announcing his imminent absence, and gives a new commandment: to love one another as he has loved them, which will be the mark of true discipleship. Peter declares loyalty even to death, but Jesus solemnly predicts Peter will deny him three times before the rooster crows.",
+  "externalContext": "Footwashing in the first-century Mediterranean world was a menial task typically performed by servants for guests who had walked dusty roads in sandals; a respected teacher performing it for his followers would have been socially startling. At festive meals such as those around Passover, diners reclined on cushions around a low table (a triclinium), which explains the physical nearness of the “disciple whom Jesus loved” leaning against Jesus’ chest. Giving a dipped morsel to a guest could be a gesture of honor or intimacy at table fellowship, deepening the poignancy of Judas’s betrayal. Judas’s role as keeper of the common purse (noted elsewhere in John) explains why some thought he left to buy supplies or give alms during the feast preparations.",
+  "externalReferences": "Jesus explicitly cites Psalm 41:9 (“He that eateth bread with me hath lifted up his heel against me”) as the scriptural backdrop to the betrayal. The statement “He who receives whomever I send receives me” parallels Jesus’ mission discourse in Matthew 10:40 and Luke 10:16. The prediction of Peter’s triple denial is echoed in the Synoptics (e.g., Matthew 26:34; Mark 14:30) and fulfilled later in John 18:17, 25–27. The theme of glorification through the impending passion connects with John 12:23, where Jesus announces that the hour has come for the Son of Man to be glorified.",
+  "seeAlso": [
+    "Psalm 41:9",
+    "Matthew 10:40",
+    "Luke 10:16",
+    "Matthew 26:34",
+    "Mark 14:30",
+    "John 12:23",
+    "John 15:12",
+    "John 18:17-27",
+    "Luke 22:3",
+    "Philippians 2:5-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Jesus washes the feet"
+    },
+    {
+      "range": "18-30",
+      "title": "Betrayer identified; Judas departs"
+    },
+    {
+      "range": "31-38",
+      "title": "New commandment; Peter’s denial"
+    }
+  ],
+  "themes": [
+    "Humble service",
+    "Betrayal",
+    "Love as identity",
+    "Glorification through suffering"
+  ],
+  "practicalQuestions": [
+    "Where can I take the lower place and serve others in concrete, humble ways?",
+    "How does my love for fellow believers make Christ recognizable to others?",
+    "How should I respond when trust is broken or I feel betrayed within my community?",
+    "What practices help me remain faithful when my intentions (like Peter’s) outpace my resilience?",
+    "In what ways does embracing costly love participate in God’s glory rather than mere success or honor?"
+  ],
+  "uncertainAreas": "Translation nuances around v.2 (“during supper” vs. “supper being ended”) can affect timing; the exact referent of “clean” (ritual, moral, or relational) beyond exclusion of Judas is debated; the identity of the “disciple whom Jesus loved” is not specified in the text; the precise sense of “glorify” (cross, resurrection, exaltation, or all together) is compressed; the cultural meaning of the dipped morsel—honor vs. simple identification—may carry layered significance.",
+  "createdAt": "2025-11-02T22:17:40.602Z",
+  "modelId": "gpt-5-2025-08-07"
+}

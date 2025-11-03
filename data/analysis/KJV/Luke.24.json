@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Luke.24",
+  "briefOverview": "Luke narrates Jesus’ resurrection appearances, his scriptural interpretation of his suffering and rising, the commission to preach repentance and forgiveness, and his ascension.",
+  "summary": "Women discover the empty tomb at dawn and are told by two radiant messengers that Jesus has risen, recalling his predictions. The apostles initially doubt, though Peter inspects the tomb and marvels. On the road to Emmaus, the risen Jesus walks with two disciples, interprets the Scriptures concerning the Messiah’s suffering and glory, and is recognized by them in the breaking of bread before vanishing. Jesus then appears to the gathered disciples, proves his bodily resurrection by showing his wounds and eating before them, and opens their minds to understand the Law, Prophets, and Psalms as pointing to his suffering and third-day resurrection. He commissions them to proclaim repentance and forgiveness of sins to all nations beginning at Jerusalem, promises the Father’s power from on high, leads them to Bethany, blesses them, and is carried up into heaven. The disciples worship him and return to Jerusalem with great joy, continually praising God in the temple.",
+  "externalContext": "In Second Temple Judaism, spices were used to honor the dead and mitigate odors, and tombs were hewn into rock with stones sealing the entrance. Women’s testimony often carried less legal weight in ancient Jewish and Greco-Roman contexts, which highlights the narrative’s emphasis on women as the first witnesses. Bethany lay on the eastern slope of the Mount of Olives, near Jerusalem, a common route for Jesus’ movements during his final week. Early Christian tradition attributes Luke–Acts to a companion of Paul, situating this chapter as a bridge to the mission and empowerment described in Acts. The “promise of the Father” would be understood within early Christian communities as the Holy Spirit’s coming at Pentecost.",
+  "externalReferences": "Jesus’ explanation that the Messiah must suffer and rise on the third day resonates with texts such as Isaiah 53:3–5 (the suffering servant) and Psalm 16:10 (God not abandoning his Holy One to decay), which the early church read christologically. The “third day” motif may echo Hosea 6:2, which speaks of revival on the third day. Luke’s brief ascension account is amplified in Acts 1:3–9, which specifies a forty-day period of appearances and identifies the promised power as the Holy Spirit. The report that the risen Jesus appeared to Simon aligns with the witness list in 1 Corinthians 15:3–8.",
+  "seeAlso": [
+    "Isaiah 53:3-5",
+    "Psalm 16:10",
+    "Hosea 6:2",
+    "1 Corinthians 15:3-8",
+    "Acts 1:3-9",
+    "Luke 9:22",
+    "Luke 18:31-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Empty Tomb and Witnesses"
+    },
+    {
+      "range": "13-35",
+      "title": "Emmaus: Scriptures Opened"
+    },
+    {
+      "range": "36-53",
+      "title": "Appearance, Commission, Ascension"
+    }
+  ],
+  "themes": [
+    "Resurrection",
+    "Scripture fulfilled",
+    "Witness",
+    "Repentance and forgiveness",
+    "Mission"
+  ],
+  "practicalQuestions": [
+    "Where do I tend to dismiss difficult testimony as “idle tales,” and how might I re-examine it thoughtfully?",
+    "How does reading the whole of Scripture in light of Christ’s suffering and rising reshape my understanding of God’s purposes?",
+    "In what concrete ways can I bear witness to repentance and forgiveness starting in my immediate context?",
+    "What practices help move me from fear and doubt to joy-filled worship?",
+    "How am I waiting on and seeking God’s empowerment rather than relying on my own strength?"
+  ],
+  "uncertainAreas": "The identity of the “two men” in shining garments is traditionally angelic but not explicitly labeled as such in this chapter. The recognition of Jesus “in the breaking of bread” may allude to Eucharistic practice or simply a normal meal—Luke does not specify. Emmaus’s exact location is debated despite the distance given. Luke’s timeline may compress events compared to Acts 1’s forty days; how to harmonize these accounts is debated among readers.",
+  "createdAt": "2025-11-02T22:08:11.445Z",
+  "modelId": "gpt-5-2025-08-07"
+}

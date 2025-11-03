@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Luke.21",
+  "briefOverview": "Jesus contrasts a widow’s sacrificial offering with outward abundance and delivers an eschatological discourse about Jerusalem’s fall, worldwide turmoil, and the coming of the Son of Man, urging vigilance and prayer.",
+  "summary": "Jesus observes rich donors and a poor widow giving two mites, declaring her gift greater because she gave all she had. He then predicts the temple’s destruction and warns against deception by false claimants and premature end-time alarms. He foretells wars, disasters, and especially persecution of his followers, promising Spirit-given wisdom for their testimony even amid betrayal and hatred. He instructs flight when Jerusalem is surrounded by armies, describing days of vengeance, slaughter, exile, and the city’s trampling by Gentiles until their time is fulfilled. He speaks of cosmic signs and fear among nations, after which the Son of Man will come in a cloud with power and glory, a sign for his followers to lift their heads because redemption draws near. Using the fig tree, he teaches that visible signs indicate the nearness of God’s kingdom, affirming the certainty of his words. Finally, he urges watchfulness and prayer to stand before the Son of Man, while continuing to teach daily in the temple and lodging on the Mount of Olives.",
+  "externalContext": "The temple treasury in Herod’s Temple included donation chests in the Court of Women where worshipers contributed offerings; two mites represented a minimal coin value, emphasizing the widow’s poverty. Luke’s discourse aligns with Jewish apocalyptic patterns that used cosmic imagery to depict divine judgment and transition, common in Second Temple literature. Jerusalem’s siege and destruction by Rome occurred in 70 CE after the Jewish Revolt (66–73 CE), leading to massive loss of life and dispersal. Synagogues functioned not only for worship but also as local communal and judicial venues, explaining why followers could be tried there. The Mount of Olives, just east of the temple, was a common place for lodging and teaching during festivals.",
+  "externalReferences": "The description of the Son of Man coming in a cloud with power and glory strongly echoes Daniel 7:13–14. The cosmic signs (sun, moon, stars) recall prophetic imagery such as Joel 2:30–31. Jesus’ focus on Jerusalem’s downfall parallels his earlier lament and prediction in Luke 19:41–44, and the persecution and courtroom witness of disciples is reflected in Acts (e.g., before the Sanhedrin in Acts 4:5–22 and before governors and a king in Acts 24–26). The overall discourse parallels Matthew 24 and Mark 13, which present similar teachings on deception, tribulation, and watchfulness.",
+  "seeAlso": [
+    "Daniel 7:13-14",
+    "Joel 2:30-31",
+    "Matthew 24:1-35",
+    "Mark 13:1-37",
+    "Luke 19:41-44",
+    "Acts 4:5-22",
+    "Acts 24:10-27",
+    "Romans 11:25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Widow’s sacrificial gift"
+    },
+    {
+      "range": "5-24",
+      "title": "Temple’s fall and Jerusalem’s siege"
+    },
+    {
+      "range": "25-38",
+      "title": "Cosmic signs and watchfulness"
+    }
+  ],
+  "themes": [
+    "Sacrificial giving",
+    "Judgment on Jerusalem",
+    "Persecution and testimony",
+    "Watchfulness",
+    "End-time hope"
+  ],
+  "practicalQuestions": [
+    "Where might I be giving from surplus rather than sacrificial trust, like the widow’s example challenges?",
+    "How can I cultivate discernment so I am not misled by sensational claims or false spiritual authorities?",
+    "What habits of prayer and Scripture can prepare me to speak wisely under pressure or opposition?",
+    "How do I remain alert without becoming anxious or distracted by indulgence and daily cares?",
+    "In times of social upheaval, what does faithful witness look like—both prudently fleeing danger and courageously testifying to Christ?"
+  ],
+  "uncertainAreas": "The scope and timing of the discourse are debated—what applies specifically to 70 CE versus the ultimate coming of the Son of Man; the meaning of “this generation” (v. 32); the nuance of “not a hair of your head shall perish” (v. 18) alongside predictions of martyrdom (v. 16); and the precise referent of “the times of the Gentiles” (v. 24).",
+  "createdAt": "2025-11-02T22:06:10.700Z",
+  "modelId": "gpt-5-2025-08-07"
+}

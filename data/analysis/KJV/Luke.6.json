@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Luke.6",
+  "briefOverview": "Jesus claims authority over the Sabbath, appoints twelve apostles, and delivers the Sermon on the Plain, emphasizing reversal, mercy, and obedience.",
+  "summary": "On two Sabbaths Jesus defends his disciples’ grain-plucking by recalling David and the showbread, declares the Son of Man Lord of the Sabbath, and heals a man’s withered hand, provoking hostility. He spends a night in prayer, then selects twelve from his disciples as apostles. Crowds from Judea and the Phoenician coast come to hear him and receive healing. He blesses the poor, hungry, weeping, and persecuted, while pronouncing woes on the rich, satisfied, laughing, and widely praised. He teaches enemy love, radical generosity, nonjudgment, and mercy, warning against hypocrisy and urging self-examination. Concluding parables contrast blind guides, trees known by fruit, and houses with or without foundations, stressing that true security comes from doing his words.",
+  "externalContext": "Sabbath observance involved extensive debates among Jewish teachers about what constituted work; actions like plucking and rubbing grain could be construed as harvesting and threshing under oral tradition. Israel’s law allowed travelers to pluck heads of grain by hand in a neighbor’s field (not with a sickle), reflecting communal provision (Deuteronomy 23:25). David’s consumption of the consecrated bread (showbread) was a well-known precedent in discussions of necessity and ritual law. Naming twelve apostles symbolically evokes Israel’s twelve tribes, signaling renewal for God’s people. Tyre and Sidon were predominantly Gentile regions; their presence highlights the widening appeal of Jesus’ ministry beyond Judea.",
+  "externalReferences": "Jesus cites David eating the consecrated bread in 1 Samuel 21:1–6 to defend his disciples’ actions. The allowance for hand-plucking grain derives from Deuteronomy 23:25. Parallels to the Sabbath disputes and the healing appear in Matthew 12:1–14 and Mark 2:23–3:6; the claim that the Son of Man is Lord of the Sabbath is also in Mark 2:28. Many teachings in the Sermon on the Plain echo the Sermon on the Mount (Matthew 5–7), including enemy love (Matthew 5:43–48), judging others (Matthew 7:1–5), fruit and trees (Matthew 7:16–20), and the house on rock versus sand (Matthew 7:24–27).",
+  "seeAlso": [
+    "1 Samuel 21:1-6",
+    "Deuteronomy 23:25",
+    "Mark 2:23-3:6",
+    "Matthew 12:1-14",
+    "Matthew 5:43-48",
+    "Matthew 7:1-5",
+    "Matthew 7:16-20",
+    "Matthew 7:24-27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Sabbath controversies"
+    },
+    {
+      "range": "12-19",
+      "title": "Prayer, Twelve, and healings"
+    },
+    {
+      "range": "20-49",
+      "title": "Sermon on the Plain"
+    }
+  ],
+  "themes": [
+    "Sabbath lordship",
+    "Kingdom reversals",
+    "Enemy love",
+    "Mercy and generosity",
+    "Obedience and foundation"
+  ],
+  "practicalQuestions": [
+    "Where might I be prioritizing rule-keeping over doing good and showing mercy?",
+    "How can I tangibly love and pray for an adversary this week?",
+    "What habits can help me stop condemning others and start practicing generous forgiveness?",
+    "What “fruit” do my words and actions reveal about my inner life, and how can I cultivate better treasure in the heart?",
+    "In what concrete ways will I put Jesus’ teachings into practice so my life rests on a solid foundation?"
+  ],
+  "uncertainAreas": "The phrase “second sabbath after the first” (v.1) is textually and historically debated; its precise calendrical meaning is unclear. The KJV rendering “Judas the brother of James” (v.16) reflects a translation choice; many manuscripts read “son of James.” How Luke’s “Sermon on the Plain” (vv.20–49) relates to Matthew’s “Sermon on the Mount” is debated—whether they are the same event in different settings or distinct but similar teachings.",
+  "createdAt": "2025-11-02T21:09:15.111Z",
+  "modelId": "gpt-5-2025-08-07"
+}

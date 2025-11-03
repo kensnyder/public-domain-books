@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "John.19",
+  "briefOverview": "John recounts Jesus’s condemnation, crucifixion, death, and burial, highlighting his kingship and the fulfillment of Scripture.",
+  "summary": "Pilate has Jesus scourged and presented to the crowd, declaring he finds no fault, yet the chief priests demand crucifixion on the charge that Jesus claimed to be the Son of God. Pressured by political threats about Caesar, Pilate yields, and Jesus is led to Golgotha, crucified between two others, with an inscription identifying him as \"King of the Jews\" in Hebrew, Greek, and Latin. Soldiers divide Jesus’s garments and cast lots for his seamless tunic; at the cross Jesus entrusts his mother to the beloved disciple. Aware that Scripture is fulfilled, Jesus says, \"I thirst,\" receives sour wine, declares \"It is finished,\" and dies. To hasten removal before the high Sabbath, soldiers break the legs of the others, but not Jesus’s; instead his side is pierced, and blood and water flow. John testifies as eyewitness, interpreting these events as fulfilling Scripture about unbroken bones and looking on the pierced one. Joseph of Arimathea and Nicodemus take Jesus’s body, wrap it with spices, and lay it in a nearby new tomb because of the preparation day.",
+  "externalContext": "Roman crucifixion was a public, degrading execution intended to deter rebellion; victims often carried the crossbeam to the site, and soldiers customarily divided a condemned man’s clothing as perquisites. A titulus (charge board) was affixed to the cross stating the legal reason for execution, here rendered in the empire’s common languages for maximum publicity. Judeans called the day before the Sabbath a \"preparation\"; when Passover coincided with the weekly Sabbath, it was considered a \"high day,\" intensifying concerns about ritual propriety and corpse exposure. Breaking legs (crurifragium) hastened death by preventing the crucified from pushing up to breathe. Jewish burial customs included washing, wrapping in linen, and packing spices and aloes; wealthy families sometimes owned rock-cut tombs in gardens outside the city walls.",
+  "externalReferences": "John explicitly links the casting of lots for Jesus’s clothing to Psalm 22:18 and the offering of sour wine to Psalm 69:21. The note that no bone was broken evokes the Passover lamb regulations (Exodus 12:46) and is echoed in Psalm 34:20. The piercing and the call to \"look on him whom they pierced\" cite Zechariah 12:10. The use of hyssop may recall Exodus 12:22, where hyssop is used in the Passover ritual; John's \"It is finished\" aligns with Jesus’s earlier claim of completing the work given by the Father (John 17:4).",
+  "seeAlso": [
+    "Psalm 22:18",
+    "Psalm 69:21",
+    "Zechariah 12:10",
+    "Exodus 12:46",
+    "Psalm 34:20",
+    "Exodus 12:22",
+    "Matthew 27:27-61",
+    "Mark 15:16-47",
+    "Luke 23:26-56",
+    "John 17:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Pilate and the King"
+    },
+    {
+      "range": "17-30",
+      "title": "Crucifixion and Death"
+    },
+    {
+      "range": "31-42",
+      "title": "Piercing and Burial"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Fulfilled Scripture",
+    "Witness",
+    "Sacrifice"
+  ],
+  "practicalQuestions": [
+    "How do I respond when acknowledging Jesus’s kingship is socially or politically costly?",
+    "Where am I tempted, like Pilate, to compromise justice under pressure?",
+    "What does it look like to care for family and community in moments of suffering, as Jesus did from the cross?",
+    "How might I bear truthful witness, like the beloved disciple, even when it risks reputation or safety?",
+    "In what ways do I let Scripture shape my understanding of suffering and apparent defeat?"
+  ],
+  "uncertainAreas": "The identification of \"he that delivered me unto thee\" (Judas vs. the chief priestly authorities) is not explicit. The meaning of the blood and water from Jesus’s side has multiple interpretations (medical, sacramental, symbolic) that the text does not settle. The timing note \"about the sixth hour\" may differ from Synoptic timelines. The identification of the women at the cross and the exact identity of the \"beloved disciple\" remain debated. The reference to hyssop in administering sour wine is puzzling given its typical length and uses.",
+  "createdAt": "2025-11-02T22:22:47.033Z",
+  "modelId": "gpt-5-2025-08-07"
+}

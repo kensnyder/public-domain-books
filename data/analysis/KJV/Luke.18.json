@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Luke.18",
+  "briefOverview": "Jesus teaches persistence in prayer, humility before God, the challenge wealth poses to discipleship, and he foretells his passion before healing a blind man near Jericho.",
+  "summary": "Jesus tells a parable of an unjust judge to urge constant prayer and confidence that God will bring justice to his chosen, while asking whether faith will be found when the Son of Man comes. He then contrasts a self-righteous Pharisee with a penitent tax collector, teaching that humility leads to justification. Jesus welcomes children and declares that the kingdom must be received like a child. A wealthy ruler, though morally observant, refuses Jesus’ call to sell his possessions and follow him, prompting teaching on the difficulty of the rich entering God’s kingdom and the promise of reward for those who leave all for it. Jesus predicts his suffering, death, and resurrection, which the disciples do not understand. Near Jericho, a blind beggar cries out to the “Son of David,” is healed by Jesus, and glorifies God with the crowd.",
+  "externalContext": "In first-century Judea, widows were among the most vulnerable and often lacked legal and economic protection, making their appeals to judges especially perilous without advocates. Local judges, whether Jewish or under Roman influence, were susceptible to corruption and social pressure, a backdrop that heightens the parable’s force. Pharisees were respected for rigorous observance of the law, including fasting and tithing, while tax collectors were despised for collaborating with Rome and for extortion. Wealth was commonly viewed as a sign of divine favor, so Jesus’ warning about riches would have sounded counterintuitive. Jericho sat on a major pilgrimage route to Jerusalem, making the setting bustling with travelers. The title “Son of David” expressed messianic hopes rooted in God’s promise of a lasting Davidic dynasty.",
+  "externalReferences": "The call to persistent prayer resonates with Luke’s earlier parable of the friend at midnight (Luke 11:5–8) and with the exhortation to “pray without ceasing” (1 Thessalonians 5:17). The saying “everyone who exalts himself will be humbled” restates a Lucan maxim from a different setting (Luke 14:11). The encounter with the rich ruler parallels Matthew 19:16–30 and Mark 10:17–31, including the assurance that “with God all things are possible” (Mark 10:27). Jesus’ prediction that the Son of Man will fulfill what was written by the prophets is often connected to texts like Isaiah 53:3–7 and Psalm 22:6–18, and the Jericho healing corresponds to Mark 10:46–52 and Matthew 20:29–34.",
+  "seeAlso": [
+    "Luke 11:5-8",
+    "1 Thessalonians 5:17",
+    "Luke 14:11",
+    "Matthew 19:16-30",
+    "Mark 10:17-31",
+    "Mark 10:46-52",
+    "Matthew 20:29-34",
+    "Isaiah 53:3-7",
+    "Psalm 22:6-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Persistent Prayer and Humility"
+    },
+    {
+      "range": "15-30",
+      "title": "Children and the Rich Ruler"
+    },
+    {
+      "range": "31-43",
+      "title": "Passion Predicted, Blind Healed"
+    }
+  ],
+  "themes": [
+    "Persistent prayer",
+    "Humility and justification",
+    "Wealth and discipleship",
+    "Faith and salvation",
+    "Kingdom reversal"
+  ],
+  "practicalQuestions": [
+    "Where do I need to persevere in prayer rather than give up?",
+    "How might spiritual pride be shaping my prayers or my view of others?",
+    "What would it mean, concretely, to receive God’s kingdom with childlike trust?",
+    "How attached am I to wealth or security, and what steps could loosen that grip for the sake of following Jesus?",
+    "In what ways can I publicly honor God when he answers prayer, as the healed man did?"
+  ],
+  "uncertainAreas": "The meaning of “though he bear long with them” alongside “he will avenge them speedily” (vv. 7–8) involves tension about divine timing. Jesus’ response “Why do you call me good?” (v. 19) is theologically debated. The camel-and-needle saying (v. 25) is idiomatic and its exact nuance is discussed. Identifying the blind man (unnamed here) with figures in other Gospels and harmonizing details raises historical questions the text itself does not resolve.",
+  "createdAt": "2025-11-02T22:03:35.435Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.19",
+  "briefOverview": "Jesus brings salvation to an outcast, corrects expectations about the kingdom through a stewardship parable, and enters Jerusalem as king, lamenting its blindness and cleansing the temple.",
+  "summary": "In Jericho, Jesus calls Zacchaeus, a rich chief tax collector, and declares that salvation has come to his house after Zacchaeus pledges generous restitution and almsgiving, affirming Jesus’ mission to seek and save the lost. Jesus then tells a parable of a nobleman who entrusts money to servants, rewarding faithful enterprise with authority and condemning both the unproductive servant and rebellious citizens, teaching accountability while delaying kingdom expectations. Approaching Jerusalem, Jesus sends for a colt and rides in amid acclamations of kingship; when Pharisees ask him to silence the crowd, he replies that even the stones would cry out. He weeps over Jerusalem, foretelling a siege and destruction because it did not recognize the time of its visitation. Entering the temple, he drives out sellers and buyers, declaring it should be a house of prayer, and he teaches daily while leaders seek a way to destroy him but cannot because the people are attentive.",
+  "externalContext": "Tax collectors (publicans) in Roman Judea worked within a tax-farming system and were widely viewed as exploitative collaborators, which explains the crowd’s shock at Jesus dining with Zacchaeus. The parable’s image of a nobleman going to a far country to receive a kingdom echoes known political processes under Rome, notably Herodian rulers who traveled to Rome for confirmation, and the hostility of citizens mirrors political resistance to such claims. Charging interest was permitted in the Greco-Roman banking world and, although regulated within Jewish law for fellow Israelites, the practice was common in cities like Jericho. Riding a colt into Jerusalem evoked royal symbolism, signaling peaceful kingship rather than militaristic conquest. Jesus’ prediction of encirclement and razing of Jerusalem corresponds to Roman siege tactics, realized historically in 70 CE. The buying and selling in the temple likely occurred in the outer courts, where money-changing and animal sales for sacrifices were customary, though vulnerable to abuse.",
+  "externalReferences": "Zacchaeus’s fourfold restitution echoes Torah’s principle of multiple repayment for theft (Exodus 22:1). Jesus’ mission to seek the lost resonates with God’s shepherding in Ezekiel 34:11–16. The acclamation, “Blessed be the King that cometh in the name of the Lord,” draws on Psalm 118:26, and the donkey imagery aligns with Zechariah 9:9’s vision of a humble king. In cleansing the temple, Jesus cites Isaiah 56:7 (“house of prayer”) and Jeremiah 7:11 (“den of thieves”); Luke’s entry hymn also recalls Luke 2:14’s “glory in the highest,” while Jesus’ lament anticipates the later discourse on Jerusalem’s destruction (Luke 21:5–6, 20–24).",
+  "seeAlso": [
+    "Exodus 22:1",
+    "Ezekiel 34:11-16",
+    "Psalm 118:26",
+    "Zechariah 9:9",
+    "Isaiah 56:7",
+    "Jeremiah 7:11",
+    "Matthew 25:14-30",
+    "Luke 2:14",
+    "Luke 21:5-6",
+    "Luke 21:20-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Zacchaeus and Salvation"
+    },
+    {
+      "range": "11-27",
+      "title": "Parable of the Minas"
+    },
+    {
+      "range": "28-48",
+      "title": "Entry, Lament, and Temple Cleansing"
+    }
+  ],
+  "themes": [
+    "Salvation for the lost",
+    "Kingdom accountability",
+    "True kingship",
+    "Judgment and lament",
+    "Purified worship"
+  ],
+  "practicalQuestions": [
+    "Where might I be called to make concrete restitution or generosity as part of repentance?",
+    "How am I investing the resources and opportunities entrusted to me while I await outcomes I cannot control?",
+    "Do my expectations of God’s kingdom timing align with Jesus’ teaching about patient, faithful service?",
+    "How do I respond when Jesus’ authority challenges my assumptions or social norms?",
+    "What would it look like to cultivate prayerful integrity in places and practices of worship today?"
+  ],
+  "uncertainAreas": "In verse 8, it is debated whether Zacchaeus describes his current practice or pledges future action; both readings affect the nuance of his repentance. The parable’s nobleman is often read as representing Jesus, but some see a critique of harsh rulers; the severe judgment in verse 27 is also interpreted variously as parabolic hyperbole or eschatological warning. The approval of banking interest in the parable is illustrative rather than a blanket ethical endorsement, given complexities in Jewish law and context.",
+  "createdAt": "2025-11-02T22:04:32.000Z",
+  "modelId": "gpt-5-2025-08-07"
+}

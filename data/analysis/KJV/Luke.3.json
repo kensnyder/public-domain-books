@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.3",
+  "briefOverview": "John the Baptist announces a call to repentance in preparation for the Lord’s coming, and Jesus is publicly affirmed as God’s beloved Son. Luke then traces Jesus’ lineage back to Adam, underscoring a universal scope.",
+  "summary": "Luke dates John’s ministry within the reigns of Roman and local rulers and the high-priesthood, then depicts John preaching a baptism of repentance, citing Isaiah’s promise that all flesh will see God’s salvation. John demands ethical fruit—generosity, honesty in taxation, and integrity from soldiers—warning that judgment is imminent and heritage from Abraham is no shield. When crowds wonder if he is the Christ, John deflects, promising one mightier who will baptize with the Holy Spirit and fire and separate wheat from chaff. Herod imprisons John after being reproved for his conduct. Jesus is baptized; as he prays, the Spirit descends like a dove and a heavenly voice declares him God’s beloved Son; Luke then records Jesus’ genealogy back through David and Abraham to Adam, “son of God.”",
+  "externalContext": "The fifteenth year of Tiberius Caesar likely places John’s appearance around AD 28–29, during Pontius Pilate’s governorship of Judea (AD 26–36) and the tetrarchies of Herod Antipas (Galilee and Perea) and Philip (northeast territories). Annas had been high priest earlier (deposed by the Romans) but retained influence; Caiaphas, his son-in-law, was the acting high priest. John’s baptism in the Jordan should be viewed against Second Temple purification practices (mikva’ot), yet his was a once-for-all, repentance-marking rite anticipating divine visitation. Tax collectors operated within a Roman farming system that fostered abuses, and soldiers mentioned may have been local auxiliaries, making John’s ethical directives immediately practical. Genealogies were important for identity and legitimacy in Jewish culture, and tracing Jesus to David validated messianic claims while reaching back to Adam suggested universal relevance.",
+  "externalReferences": "Luke quotes Isaiah 40:3–5 to frame John as the forerunner preparing the Lord’s way and proclaiming that “all flesh” will see God’s salvation. The heavenly proclamation at Jesus’ baptism echoes Psalm 2:7 (“You are my Son”) and Isaiah 42:1 (“in whom my soul delights”), linking royal and servant motifs. John’s promise that the coming one will baptize with the Holy Spirit (and fire) resonates with Joel 2:28–29 and finds narrative fulfillment imagery in Acts 2:3–4 (“tongues as of fire”). The genealogy connects with Genesis 5 and 11 genealogies and with God’s promise to David (2 Samuel 7:12–16), underlining Jesus’ Davidic and universal lineage.",
+  "seeAlso": [
+    "Isaiah 40:3-5",
+    "Psalm 2:7",
+    "Isaiah 42:1",
+    "Joel 2:28-29",
+    "Acts 2:3-4",
+    "Matthew 3:1-17",
+    "Mark 1:1-11",
+    "John 1:19-34",
+    "Genesis 5:1-32",
+    "2 Samuel 7:12-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "John’s call and prophecy"
+    },
+    {
+      "range": "7-20",
+      "title": "Repentance and John’s role"
+    },
+    {
+      "range": "21-38",
+      "title": "Baptism and genealogy"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Judgment",
+    "Messiah’s identity",
+    "Holy Spirit",
+    "Universal salvation"
+  ],
+  "practicalQuestions": [
+    "What concrete actions would demonstrate my repentance in how I handle money, possessions, and influence?",
+    "Where might I be relying on heritage, status, or affiliation rather than bearing good fruit?",
+    "In my profession, what practices resemble the abuses John condemns, and how can I act with integrity?",
+    "How do I respond to prophetic correction—defensively like Herod, or receptively with change?",
+    "What does Jesus’ affirmed sonship and the gift of the Spirit mean for how I prepare for and participate in God’s work today?"
+  ],
+  "uncertainAreas": "Luke narrates John’s imprisonment (vv. 19–20) before mentioning Jesus’ baptism (vv. 21–22), raising questions about chronological sequence versus thematic arrangement. The phrase “baptize you with the Holy Ghost and with fire” is debated—whether the fire is purifying (linked to the Spirit) or a symbol of judgment (vv. 17). The genealogy’s relationship to Matthew’s (different names and route through David via Nathan rather than Solomon) and whether Luke traces Joseph’s or Mary’s line remain debated; the text itself does not specify beyond “as was supposed.”",
+  "createdAt": "2025-11-02T21:06:40.443Z",
+  "modelId": "gpt-5-2025-08-07"
+}

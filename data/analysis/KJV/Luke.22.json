@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Luke.22",
+  "briefOverview": "Luke narrates Jesus’ final Passover with his disciples, instituting the meal of remembrance, teaching servant leadership, and foretelling betrayal and denial. The chapter moves from the upper room to Gethsemane, culminating in Jesus’ arrest, Peter’s denial, and the morning council’s charge.",
+  "summary": "As Passover approaches, religious leaders plot Jesus’ death, and Judas agrees to betray him. Jesus directs Peter and John to prepare the Passover, then at table he expresses desire to eat this meal before suffering, shares bread and cup as his body and blood for them, and announces a betrayer among them. He corrects a dispute about greatness by teaching servant leadership and promises the disciples a share in his kingdom; he also predicts Peter’s threefold denial and warns of coming hardship. On the Mount of Olives he prays for the cup to pass yet submits to the Father’s will; an angel strengthens him, and he exhorts the disciples to pray against temptation. Judas arrives with a crowd and identifies Jesus with a kiss; Jesus heals the high priest’s servant after a disciple strikes him and submits to arrest, calling it their hour and the power of darkness. Peter then denies Jesus three times and weeps bitterly when the rooster crows and Jesus looks at him. Jesus is mocked and beaten during the night, and at daybreak the council interrogates him; he declares the Son of Man will be seated at God’s right hand, leading them to conclude he claims to be the Son of God.",
+  "externalContext": "Passover commemorated Israel’s deliverance from Egypt and involved the slaughter of lambs at the temple and a memorial meal in Jerusalem for pilgrims. The “feast of Unleavened Bread” and “Passover” could function as overlapping terms in first-century usage. The Sanhedrin (council of elders, chief priests, and scribes) could try religious cases but under Roman rule typically required Roman authority for capital execution, prompting early-morning proceedings. “Benefactors” was a common honorific for Greco-Roman rulers who used patronage to project benevolence, sharpening Jesus’ counter-teaching on leadership. The Mount of Olives, just east of Jerusalem, was a customary place for Jesus’ prayer and instruction.",
+  "externalReferences": "Jesus’ citation, “he was reckoned among the transgressors” (22:37), directly references Isaiah 53:12 and frames his arrest as fulfillment of the Suffering Servant. His claim that the Son of Man will sit at God’s right hand (22:69) echoes Psalm 110:1 and the Son of Man vision in Daniel 7:13–14. The “new covenant” in his blood (22:20) resonates with Jeremiah 31:31–34 and the covenant inaugurated with blood in Exodus 24:8; Paul later recites this tradition in 1 Corinthians 11:23–26. Jesus’ teaching on servant leadership (22:25–27) parallels Mark 10:42–45 and is dramatically enacted in John 13:1–17.",
+  "seeAlso": [
+    "Isaiah 53:12",
+    "Psalm 110:1",
+    "Daniel 7:13-14",
+    "Jeremiah 31:31-34",
+    "Exodus 24:8",
+    "1 Corinthians 11:23-26",
+    "Mark 10:42-45",
+    "John 13:1-17",
+    "Luke 4:13",
+    "Matthew 26:47-56"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-23",
+      "title": "Passover And Betrayal"
+    },
+    {
+      "range": "24-38",
+      "title": "Servant Leadership And Warnings"
+    },
+    {
+      "range": "39-71",
+      "title": "Gethsemane, Arrest, Interrogation"
+    }
+  ],
+  "themes": [
+    "Betrayal",
+    "New covenant",
+    "Servant leadership",
+    "Prayer in trial",
+    "Scripture fulfilled"
+  ],
+  "practicalQuestions": [
+    "How does Jesus’ command, “do this in remembrance of me,” shape the way I approach communal worship and daily remembrance?",
+    "Where am I tempted to seek status, and how can I adopt Jesus’ model of serving as the greater way?",
+    "What concrete practices help me pray so that I “enter not into temptation” during seasons of pressure?",
+    "How should Jesus’ submission to the Father’s will inform my response to suffering or fear?",
+    "After personal failure like Peter’s, what steps can I take to repent, be restored, and strengthen others?",
+    "What does Jesus’ rebuke of violence in his arrest scene suggest about how I exercise power when threatened?"
+  ],
+  "uncertainAreas": "Interpretation of the bread and cup (literal vs. symbolic) varies among traditions; the timing of the meal relative to Passover differs across Gospels; the meaning of “buy a sword” and “It is enough” is debated; “his sweat was as it were great drops of blood” may be a simile or a literal hematidrosis; the identity and arrangements with the man carrying water are unstated.",
+  "createdAt": "2025-11-02T22:07:14.071Z",
+  "modelId": "gpt-5-2025-08-07"
+}

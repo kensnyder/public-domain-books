@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.13",
+  "briefOverview": "Jesus confronts assumptions about suffering, calls for urgent repentance that bears fruit, demonstrates Sabbath mercy, and warns about entering the kingdom through a narrow door while lamenting Jerusalem’s resistance.",
+  "summary": "Jesus rejects the idea that victims of tragedies (the Galileans killed by Pilate and those crushed by the tower of Siloam) were worse sinners than others, and twice warns that all must repent or perish. He tells a parable of a barren fig tree to depict God’s patience but impending judgment if fruit is absent. He heals a woman crippled for eighteen years on the Sabbath, arguing that freeing a “daughter of Abraham” from Satan’s bondage is more fitting than common allowances for animals, which shames his opponents and delights the people. He compares the kingdom of God to a mustard seed growing into a large plant and to leaven permeating flour, indicating surprising, pervasive growth. When asked if few are saved, he urges striving to enter through the narrow door before it is shut, warning that mere proximity to Jesus will not suffice; many from all directions will feast with the patriarchs while some who presumed priority are cast out, and the last will be first. Warned about Herod, Jesus insists he will continue his work until his mission is complete and laments Jerusalem’s history of rejecting prophets, declaring their house desolate until they welcome the one who comes in the Lord’s name.",
+  "externalContext": "Pontius Pilate, the Roman prefect of Judea (AD 26–36), was known for harsh measures, which aligns with reports of violent incidents even if this specific episode is not recorded elsewhere. Siloam was a district in Jerusalem associated with a pool fed by Hezekiah’s tunnel; a tower collapse there evokes the risks of urban construction in the period. Synagogue gatherings on the Sabbath included Scripture reading and teaching, and debates about what constituted prohibited “work” were active among Jewish groups; acts of life-preserving mercy and animal care were commonly discussed. Herod Antipas ruled Galilee and Perea and had previously executed John the Baptist; calling him “that fox” reflects political cunning or duplicity. Psalm 118 was used in pilgrimage festivals, and its blessing (“Blessed is he who comes in the name of the Lord”) became associated with messianic hopes.",
+  "externalReferences": "The vineyard/fig imagery echoes prophetic critiques of fruitlessness, notably Isaiah 5:1–7, where Israel is depicted as God’s vineyard expected to yield good fruit. The mustard seed and leaven parables are closely paralleled in Matthew 13:31–33. The warning about exclusion from the banquet alongside Abraham, Isaac, and Jacob and the gathering from east and west parallels Matthew 8:11–12. Jesus’ lament over Jerusalem and the declaration about not seeing him until the blessing from Psalm 118:26 are paralleled in Matthew 23:37–39 and draw directly on Psalm 118:26.",
+  "seeAlso": [
+    "Isaiah 5:1-7",
+    "Matthew 13:31-33",
+    "Matthew 8:11-12",
+    "Matthew 23:37-39",
+    "Psalm 118:26",
+    "Matthew 7:13-14",
+    "Mark 11:12-14",
+    "Luke 14:1-6",
+    "Luke 3:8-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Call to repent, bear fruit"
+    },
+    {
+      "range": "10-21",
+      "title": "Sabbath healing and kingdom parables"
+    },
+    {
+      "range": "22-35",
+      "title": "Narrow door and Jerusalem lament"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Fruitfulness",
+    "Sabbath mercy",
+    "Kingdom growth",
+    "Reversal"
+  ],
+  "practicalQuestions": [
+    "How do I interpret tragedies without assuming they are God’s punishment, while still taking them as a sober call to examine my life?",
+    "Where in my life is God patiently seeking fruit, and what repentance would cultivate it?",
+    "Do my religious routines ever hinder acts of mercy that reflect God’s heart?",
+    "Am I striving to enter through the narrow door, or relying on mere familiarity with Jesus or religious community?",
+    "How can I embrace the kingdom’s surprising growth, welcoming those I might assume are last?",
+    "What would it look like to respond to Jesus’ lament with a receptive, humble posture today?"
+  ],
+  "uncertainAreas": "The precise historical incident of Pilate mingling Galileans’ blood with sacrifices is not corroborated outside Luke. The scope of the fig tree parable (individuals, Israel, or both) is debated. “Few be saved” and the identity of the “last” and “first” (e.g., Gentiles versus Jews, or broader reversal of expectations) are not specified. The phrase “the third day I shall be perfected” could allude to completion of mission, resurrection, or a symbolic timeline, and is not explained within the chapter. “Your house is left desolate” may refer to the temple or Jerusalem generally; the timing and extent of desolation are not detailed here.",
+  "createdAt": "2025-11-02T22:00:17.829Z",
+  "modelId": "gpt-5-2025-08-07"
+}

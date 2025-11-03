@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Acts.4",
+  "briefOverview": "Peter and John defend healing in Jesus’ name before the Jerusalem council, pray for boldness amid threats, and the believers practice striking economic unity.",
+  "summary": "After healing a lame man, Peter and John are arrested by the priests, the temple captain, and the Sadducees for teaching the resurrection through Jesus. Brought before Annas, Caiaphas, and other leaders, Peter—filled with the Holy Spirit—declares that the man was healed by Jesus Christ of Nazareth, whom they crucified and God raised, and asserts that salvation is in no other name. Unable to deny the miracle, the council threatens them and orders them not to speak in Jesus’ name; the apostles refuse, saying they must obey God and testify to what they have seen and heard, and they are released. The community prays, citing Scripture about opposition to the Lord’s Anointed, asking for boldness and for God to continue healing and performing signs through Jesus’ name; the place is shaken, and they are filled with the Holy Spirit and speak boldly. The believers share possessions so that none lack, and Barnabas sells land and lays the proceeds at the apostles’ feet.",
+  "externalContext": "The Sadducees, a priestly group with significant influence over the temple, denied the resurrection (Acts 23:8), which helps explain their alarm at resurrection preaching. The “captain of the temple” commanded the temple guard and enforced order within the temple precincts. Annas and Caiaphas were members of the high-priestly family known from Jewish and Roman sources; Caiaphas served as high priest under Roman appointment during much of Tiberius’s reign. The Sanhedrin was the high council in Jerusalem with authority over religious and some civil matters, though capital punishment required Roman involvement. Barnabas is noted as a Levite from Cyprus, reflecting the dispersion of Jews throughout the Mediterranean and the presence of diaspora Jews in Jerusalem.",
+  "externalReferences": "Peter quotes Psalm 118:22 (“the stone which the builders rejected”) to interpret Jesus as the rejected yet exalted cornerstone; Jesus had applied this verse to himself during his ministry (Matthew 21:42; Luke 20:17). The believers’ prayer cites Psalm 2:1–2 to frame the collusion of Herod, Pilate, Gentiles, and Israel against Jesus as fulfillment of Scripture. The resolve to obey God rather than human authorities anticipates the explicit statement in Acts 5:29. The communal sharing echoes the earlier description in Acts 2:44–45, while their witness centers on Jesus’ death and resurrection, as narrated in the passion accounts (e.g., Luke 23:1–25).",
+  "seeAlso": [
+    "Psalm 118:22",
+    "Psalm 2:1-2",
+    "Matthew 21:42",
+    "Luke 20:17",
+    "Acts 3:1-10",
+    "Acts 2:44-45",
+    "Acts 5:29",
+    "Luke 23:1-25",
+    "Acts 23:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-22",
+      "title": "Arrest and Bold Defense"
+    },
+    {
+      "range": "23-31",
+      "title": "Prayer and Empowering"
+    },
+    {
+      "range": "32-37",
+      "title": "Common Life and Barnabas"
+    }
+  ],
+  "themes": [
+    "Bold witness",
+    "Jesus’ name",
+    "Resurrection",
+    "Opposition",
+    "Communal sharing"
+  ],
+  "practicalQuestions": [
+    "When civil or social authorities oppose core convictions, how do I discern and practice obedience to God with integrity and respect?",
+    "What would it look like to ask God for boldness rather than safety when facing pressure or criticism?",
+    "How can my community structure generosity so that no one lacks while maintaining transparency and trust?",
+    "In what specific ways can I bear witness to what I have “seen and heard” of Jesus’ work in my life?",
+    "How might prayer rooted in Scripture reshape my response to hostility or uncertainty?"
+  ],
+  "uncertainAreas": "The precise identities of “John” and “Alexander” in the high priestly circle are unclear. The description of the place being “shaken” could be literal or symbolic; the text does not specify. The extent to which the communal sharing was universal, permanent, or situational is not fully detailed. How a Levite like Barnabas possessed land (given Levite allotment rules) is not explained; it could reflect non-tribal property or diaspora circumstances.",
+  "createdAt": "2025-11-03T00:12:21.413Z",
+  "modelId": "gpt-5-2025-08-07"
+}

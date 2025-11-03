@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.10",
+  "briefOverview": "Jesus commissions a larger group of disciples for mission, warns of judgment for unresponsive towns, rejoices in divine revelation to the humble, and teaches love and attentive discipleship through the Good Samaritan and the Mary–Martha episode.",
+  "summary": "Jesus appoints seventy disciples, sending them in pairs with instructions to travel light, offer peace, accept hospitality, heal, and announce that the kingdom of God has come near; if rejected, they are to shake off the dust as a testimony. He pronounces woes on Chorazin, Bethsaida, and Capernaum for failing to repent despite mighty works, and affirms that receiving his messengers is receiving him and the One who sent him. The seventy return rejoicing at authority over demons, but Jesus redirects their joy to the fact that their names are written in heaven, and he praises the Father for revealing these things to the humble. He declares the mutual knowledge of Father and Son and the blessedness of the disciples who witness these days. In response to a lawyer, Jesus confirms the law’s summary of loving God and neighbor and, through the parable of the Good Samaritan, shows that neighbor-love means merciful action even across social hostility. Visiting Martha and Mary, Jesus gently corrects Martha’s anxious busyness and commends Mary’s focused attentiveness to his word as the one necessary thing.",
+  "externalContext": "Luke is a carefully ordered narrative likely aimed at helping a mixed (including Gentile) audience understand Jesus’ mission and the spread of the kingdom. The sending of “seventy” (some manuscripts read seventy-two) may evoke the traditional number of nations in Genesis 10, hinting at a mission with global scope. First-century travel in Judea and Galilee relied heavily on hospitality; staying in one household avoided appearing fickle and protected hosts’ honor. Jews and Samaritans had longstanding religious and ethnic hostilities dating back to post-exilic disputes, so a Samaritan hero would have been provocative to Jewish listeners. The road from Jerusalem to Jericho was steep and notoriously dangerous, making robbery a plausible narrative setting.",
+  "externalReferences": "The lawyer’s summary of the law cites Deuteronomy 6:5 and Leviticus 19:18, which Jesus elsewhere affirms as the greatest commandments (Matthew 22:37–39; Mark 12:28–34). The mission discourse echoes the earlier sending of the Twelve (Luke 9:1–6) and Jesus’ saying about the plentiful harvest and few laborers (Matthew 9:37–38). “The laborer is worthy of his wages” is later quoted as Scripture in 1 Timothy 5:18, likely citing Luke 10:7. Jesus’ authority over spiritual enemies and the promise to “tread on” harmful powers recall imagery like Psalm 91:13, while “names written in heaven” resonates with Exodus 32:32–33 and Daniel 12:1 regarding a heavenly register. The woes to Chorazin, Bethsaida, and Capernaum parallel Matthew 11:20–24. Mary and Martha appear again in John 11 and 12.",
+  "seeAlso": [
+    "Deuteronomy 6:5",
+    "Leviticus 19:18",
+    "Matthew 11:20-24",
+    "Matthew 9:37-38",
+    "Luke 9:1-6",
+    "Psalm 91:13",
+    "Exodus 32:32-33",
+    "Daniel 12:1",
+    "1 Timothy 5:18",
+    "John 11:1-44"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-24",
+      "title": "Mission and Jesus’ rejoicing"
+    },
+    {
+      "range": "25-37",
+      "title": "Parable of the Good Samaritan"
+    },
+    {
+      "range": "38-42",
+      "title": "Mary and Martha"
+    }
+  ],
+  "themes": [
+    "Mission",
+    "Mercy",
+    "Discipleship",
+    "Judgment",
+    "Revelation"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to measure spiritual success by power or results rather than by belonging to God?",
+    "How can I practice steady, non-fickle hospitality and contentment when serving or being hosted?",
+    "Who are the ‘outsiders’ in my context, and what would it look like to show them Samaritan-like mercy?",
+    "When I face rejection in doing good, how can I respond with clarity and without bitterness?",
+    "What would choosing the ‘one necessary thing’ look like in my current commitments and pace of life?"
+  ],
+  "uncertainAreas": "The symbolic scope of the number “seventy” (or “seventy-two”) and whether it intentionally references the nations list is debated. Jesus’ statement about seeing Satan fall may describe a visionary experience, a metaphor for the enemy’s defeat through the mission, or both. The promise about serpents and scorpions likely symbolizes hostile powers, though some read it more literally. The village of Martha and Mary is unnamed here; traditional identification with Bethany comes from John, not this passage.",
+  "createdAt": "2025-11-02T21:12:55.046Z",
+  "modelId": "gpt-5-2025-08-07"
+}

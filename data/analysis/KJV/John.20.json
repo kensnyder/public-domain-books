@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "John.20",
+  "briefOverview": "John 20 recounts Jesus’ resurrection appearances, moving witnesses from confusion and fear to belief and commissioning. It climaxes with Thomas’s confession and the Gospel’s stated purpose for readers’ faith and life.",
+  "summary": "Mary Magdalene finds the tomb open and tells Peter and the beloved disciple, who see the grave clothes; the beloved disciple believes, though they do not yet understand the Scripture about rising. Mary remains weeping, encounters two angels, and then recognizes Jesus when he speaks her name; he directs her to tell the disciples that he is ascending to his Father. That evening Jesus appears to the disciples behind shut doors, greets them with peace, shows his wounds, commissions them as the Father sent him, breathes the Holy Spirit, and speaks of authority concerning forgiveness. Thomas, absent at first, insists on seeing and touching; eight days later Jesus invites him to do so, leading to Thomas’s confession, “My Lord and my God.” Jesus pronounces blessing on those who believe without seeing. The chapter concludes that these signs are written so readers may believe Jesus is the Messiah, the Son of God, and have life in his name.",
+  "externalContext": "The “first day of the week” indicates Sunday, which became the primary day of Christian gathering in remembrance of the resurrection. First-century Jewish burial custom included wrapping bodies with linen and a separate head cloth, explaining the noted arrangement inside the tomb. Women’s testimony often held lower legal standing in that culture, making Mary Magdalene’s role as first witness striking in its historical context. The disciples’ fear behind locked doors reflects the danger posed by recent events surrounding Jesus’ execution under Roman authority in collaboration with some Judean leaders. “Peace be with you” echoes the common Semitic greeting shalom, here invested with post-resurrection assurance and reconciliation.",
+  "externalReferences": "Jesus’ rising “as the Scripture said” evokes texts used by early Christians to interpret the resurrection, such as Psalm 16:10 and Hosea 6:2; he had also foretold it (John 2:19–22; Mark 8:31). The sending in 20:21 mirrors Jesus’ prayer, “As you sent me… I have sent them” (John 17:18), and his breathing the Spirit recalls God’s life-giving breath in Genesis 2:7; it also anticipates the church’s empowerment at Pentecost (Acts 2:1–4). The statement about forgiving or retaining sins resonates with the authority language of Matthew 16:19 and 18:18 and with the mission of proclaiming forgiveness (Luke 24:47). Jesus’ blessing on those who believe without seeing finds an echo in 1 Peter 1:8.",
+  "seeAlso": [
+    "John 2:19-22",
+    "Psalm 16:10",
+    "Hosea 6:2",
+    "Genesis 2:7",
+    "John 17:18",
+    "Acts 2:1-4",
+    "Matthew 16:19",
+    "Matthew 18:18",
+    "Luke 24:47",
+    "1 Peter 1:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Empty Tomb and First Witness"
+    },
+    {
+      "range": "19-23",
+      "title": "Peace, Spirit, and Commission"
+    },
+    {
+      "range": "24-31",
+      "title": "Thomas and Gospel Purpose"
+    }
+  ],
+  "themes": [
+    "Resurrection",
+    "Witness",
+    "Faith and doubt",
+    "Mission and forgiveness",
+    "Holy Spirit"
+  ],
+  "practicalQuestions": [
+    "How do I respond to my doubts—and others’—in a way that seeks honest encounter rather than shame?",
+    "Where is Jesus sending me, and how might his model of being sent shape my posture and methods?",
+    "What does it mean for me to embody “peace” in fearful or hostile settings?",
+    "How should the community exercise responsibility in extending forgiveness and addressing sin?",
+    "How can I cultivate trust in Christ even when I do not have the kind of evidence Thomas received?"
+  ],
+  "uncertainAreas": "The identity of “the other disciple” is unstated; the precise meaning of “Do not touch/hold on to me” (v.17) and its relation to the ascension is debated; how John’s breathing of the Spirit (vv.22–23) relates temporally and theologically to Pentecost is interpreted variously; the scope of authority implied by remitting/retaining sins is contested; the exact Scripture alluded to in v.9 is unspecified.",
+  "createdAt": "2025-11-02T22:23:27.478Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.16",
+  "briefOverview": "Mark 16 narrates Jesus’ resurrection, initial unbelief among followers, the commission to proclaim the gospel globally, and Jesus’ ascension.",
+  "summary": "At dawn after the Sabbath, Mary Magdalene, Mary the mother of James, and Salome visit Jesus’ tomb to anoint him but find the stone rolled away and a young man in white announcing that Jesus has risen and will be seen in Galilee. The women flee in fear and initially tell no one. Jesus then appears first to Mary Magdalene, who reports to the mourning disciples, but they do not believe; he also appears to two others in the countryside, whose report is likewise doubted. Jesus appears to the eleven at table, rebukes their unbelief, and commissions them to preach the gospel to all creation, declaring salvation for those who believe and are baptized and warning of condemnation for unbelief. He promises signs accompanying believers, including exorcisms, new tongues, protection from serpents and poison, and healing the sick. Jesus is then taken up into heaven and sits at God’s right hand, while the disciples go out preaching everywhere, with the Lord confirming their message by accompanying signs.",
+  "externalContext": "In Jewish burial custom, spices were used to honor the dead and mitigate odor, and handling a corpse was avoided on the Sabbath, explaining the women’s arrival at dawn on the first day of the week. Large tomb stones required multiple people to move, highlighting the women’s concern about access. In the earliest extant Greek manuscripts of Mark (e.g., Codex Sinaiticus and Codex Vaticanus), the Gospel ends at 16:8; the longer ending (16:9–20) has later manuscript support and was widely received in Christian tradition, shaping liturgy and mission practice. Women serving as first witnesses contrasts with some ancient cultural norms that discounted women’s testimony, adding narrative irony and emphasis to their role. Early Christians quickly gathered on the first day of the week (Sunday) in the wake of the resurrection, shaping later Christian worship patterns.",
+  "externalReferences": "The instruction that the disciples will see Jesus in Galilee echoes his prior prediction in Mark 14:28. The appearance to Mary Magdalene parallels John 20:11–18 and aligns with her earlier description in Luke 8:2 as one from whom seven demons had been cast out. The appearance to “two of them” resembles the Emmaus account in Luke 24:13–35, and the commissioning and ascension align with Matthew 28:16–20; Luke 24:44–53; and Acts 1:1–11. The exaltation to God’s right hand reflects Psalm 110:1 and is affirmed elsewhere in Mark 14:62; signs mentioned here find echoes in Acts (tongues: Acts 2:1–4; 10:44–46; 19:6; exorcisms: Acts 16:18; protection from a serpent: Acts 28:3–6).",
+  "seeAlso": [
+    "Mark 14:28",
+    "Psalm 110:1",
+    "Matthew 28:16-20",
+    "Luke 24:13-35",
+    "Luke 24:44-53",
+    "John 20:11-18",
+    "Acts 1:1-11",
+    "Acts 2:1-4",
+    "Acts 16:18",
+    "Acts 28:3-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Women find empty tomb"
+    },
+    {
+      "range": "9-14",
+      "title": "Appearances and rebuke"
+    },
+    {
+      "range": "15-20",
+      "title": "Commission and ascension"
+    }
+  ],
+  "themes": [
+    "Resurrection",
+    "Witness",
+    "Mission",
+    "Unbelief and faith",
+    "Divine power"
+  ],
+  "practicalQuestions": [
+    "Where do I see fear or astonishment holding me back from sharing what I have encountered, and how might I respond faithfully?",
+    "How should belief and baptism relate in my understanding and practice of Christian initiation and discipleship?",
+    "What does it mean for me to participate in preaching the gospel to “every creature” in my context?",
+    "How can I discern and pursue the Lord’s work “confirming the word” without presumption about miraculous signs?",
+    "When faced with skepticism—my own or others’—how can I move toward a faithful, informed witness rather than silence?"
+  ],
+  "uncertainAreas": "Text-critical issue: whether Mark originally ended at 16:8 or included 16:9–20. The identity of the “young man” (angelic messenger implied, not named). The reference to the two disciples “in another form” may correspond to Emmaus (Luke 24) but is not explicit. The scope and application of promised signs (serpents, poison) are debated—literal, protective, occasional, or symbolic—and there is no canonical example of drinking poison. The relationship between belief and baptism in v.16 invites theological nuance beyond what the text explicitly specifies.",
+  "createdAt": "2025-11-02T17:17:48.725Z",
+  "modelId": "gpt-5-2025-08-07"
+}

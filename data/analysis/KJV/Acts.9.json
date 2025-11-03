@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Acts.9",
+  "briefOverview": "Saul’s dramatic encounter with the risen Jesus leads to his commissioning and early ministry, while Peter’s healings in Lydda and Joppa catalyze further growth of the church.",
+  "summary": "On his way to persecute believers in Damascus, Saul is confronted by a heavenly light and the voice of Jesus asking why Saul persecutes him; blinded, Saul is led into the city. The Lord directs the disciple Ananias to lay hands on Saul, who regains sight, is filled with the Holy Spirit, and is baptized. Saul immediately proclaims in the synagogues that Jesus is the Son of God, provoking amazement and opposition; a plot to kill him forces a nighttime escape through the city wall. In Jerusalem the disciples initially fear him, but Barnabas vouches for his encounter and bold preaching; further threats lead the believers to send Saul to Tarsus. The churches throughout Judea, Galilee, and Samaria experience peace, growth, and encouragement from the Holy Spirit. Meanwhile, Peter heals the paralyzed Aeneas in Lydda and raises the beloved disciple Tabitha (Dorcas) in Joppa, leading many to believe, and he stays with Simon the tanner.",
+  "externalContext": "The high priest in Jerusalem exercised influence among diaspora synagogues, and letters of authorization could facilitate the arrest and extradition of suspects back to Jerusalem. Damascus, a major city with a significant Jewish population and trade routes, was connected to Judea by established roads, making Saul’s mission plausible. Tanners, who worked with animal carcasses, were often considered ritually unclean in Jewish purity culture, making Peter’s lodging with Simon notable and foreshadowing boundary-crossing ministry. Widows were a particularly vulnerable group in ancient societies and were a focus of charitable works within early Christian communities. Synagogues functioned as communal and teaching centers, where traveling teachers like Saul could address audiences and debate.",
+  "externalReferences": "Luke later records Saul’s own retellings of his Damascus encounter and commission (Acts 22:6–16; Acts 26:12–18), which illuminate and complement the details in this chapter. Paul refers to his former persecution and subsequent period away from Jerusalem (Galatians 1:13–18) and to his dramatic escape from Damascus by basket (2 Corinthians 11:32–33). Peter’s raising of Tabitha recalls Jesus raising Jairus’s daughter with a similar command (Mark 5:41), and his healing of Aeneas echoes earlier apostolic healing (Acts 3:6–8); the designation “the Way” appears elsewhere in Acts for the Christian movement (e.g., Acts 19:9; Acts 24:14).",
+  "seeAlso": [
+    "Acts 22:6-16",
+    "Acts 26:12-18",
+    "Galatians 1:13-18",
+    "2 Corinthians 11:32-33",
+    "Mark 5:41",
+    "Acts 3:6-8",
+    "Acts 19:9",
+    "Acts 24:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "Saul’s conversion and baptism"
+    },
+    {
+      "range": "20-31",
+      "title": "Saul’s early ministry and protection"
+    },
+    {
+      "range": "32-43",
+      "title": "Peter heals and raises"
+    }
+  ],
+  "themes": [
+    "Conversion",
+    "Divine calling",
+    "Suffering for Christ",
+    "Miraculous healings",
+    "Church growth"
+  ],
+  "practicalQuestions": [
+    "Where might I need to reconsider long-held convictions in light of a fresh encounter with truth?",
+    "How can I, like Barnabas, advocate for someone with a troubled past who seeks to follow Christ?",
+    "What risks am I willing to take to speak boldly, and how do I discern when to flee danger versus stay?",
+    "In what ways can my community center practical care for the vulnerable, as seen in the widows around Tabitha?",
+    "What boundaries or purity norms might I need to cross to extend hospitality and mission, as Peter did with a tanner?"
+  ],
+  "uncertainAreas": "The harmonization of details about what Saul’s companions perceived (hearing a voice/sound but not seeing or understanding) varies across Acts 9 and 22, and the exact timeline implied by “many days” in Damascus relative to Paul’s sojourn mentioned in Galatians 1:17 is not specified here. The identity of the “Grecians” may denote Hellenistic Jews rather than Gentiles, but the term can be ambiguous in translation. Additionally, the phrase “kick against the pricks” appears in some textual traditions and is more fully attested in Acts 26, which may reflect textual variation.",
+  "createdAt": "2025-11-03T00:15:50.914Z",
+  "modelId": "gpt-5-2025-08-07"
+}

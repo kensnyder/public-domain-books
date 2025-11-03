@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.2",
+  "briefOverview": "Luke narrates Jesus’ humble birth, early recognition by heaven and faithful Israelites, and a rare glimpse of his boyhood wisdom. The chapter emphasizes God’s salvation revealed to the lowly and to all nations, within the framework of Israel’s law and worship.",
+  "summary": "A decree from Caesar Augustus leads Joseph and Mary to Bethlehem, where Jesus is born and laid in a manger because there was no room in the inn. Angels announce to nearby shepherds the birth of a Savior, Christ the Lord, and the shepherds visit and spread the news; Mary treasures these events. Jesus is circumcised on the eighth day and named as the angel had said, then presented at the temple according to the Law. There Simeon, led by the Spirit, proclaims the child as God’s salvation—a light for the Gentiles and glory for Israel—and warns Mary of future opposition and sorrow; the prophetess Anna also gives thanks and speaks of him to those awaiting redemption. The family returns to Nazareth, and Jesus grows strong, wise, and favored by God. At age twelve, he remains in the temple discussing with teachers, astonishing listeners; he tells his parents he must be about his Father’s business, then returns to Nazareth in obedience and continues to mature.",
+  "externalContext": "Caesar Augustus (27 BCE–14 CE) conducted empire-wide censuses for taxation and administration; Luke situates Jesus’ birth amid such Roman governance. The reference to “Cyrenius” (Quirinius) as governor of Syria intersects with a well-known census around 6–7 CE; the precise harmonization with Luke’s chronology is debated among historians. Jewish law (Torah) required circumcision on the eighth day (Genesis 17) and purification/presentation rites after childbirth (Leviticus 12; Exodus 13), often involving offerings scaled to a family’s means. Shepherds in first-century Judea were common laborers who could be socially marginal; their inclusion highlights God’s message reaching humble hearers. The Jerusalem temple was the central place of worship, sacrifice, and teaching, and pilgrimage feasts like Passover drew Jewish families annually.",
+  "externalReferences": "Jesus’ birth in Bethlehem evokes messianic expectation tied to David’s city (Micah 5:2). Simeon’s words about “a light to lighten the Gentiles” echo Isaiah’s servant prophecies (Isaiah 42:6; 49:6) and the promise of peace resonates with Isaiah 9:6–7. The presentation and offerings fulfill the Law’s provisions for firstborn consecration and postpartum purification (Exodus 13:2,12; Leviticus 12:6–8), and Jesus’ growth “in favor with God and man” mirrors Samuel’s maturation (1 Samuel 2:26).",
+  "seeAlso": [
+    "Micah 5:2",
+    "Isaiah 42:6",
+    "Isaiah 49:6",
+    "Isaiah 9:6-7",
+    "Exodus 13:2",
+    "Exodus 13:12",
+    "Leviticus 12:6-8",
+    "1 Samuel 2:26",
+    "Luke 1:31",
+    "Matthew 1:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Birth and shepherds"
+    },
+    {
+      "range": "21-40",
+      "title": "Presentation and growth"
+    },
+    {
+      "range": "41-52",
+      "title": "Boy Jesus in the temple"
+    }
+  ],
+  "themes": [
+    "Humble beginnings",
+    "Divine revelation",
+    "Fulfillment of law",
+    "Universal salvation",
+    "Spiritual growth"
+  ],
+  "practicalQuestions": [
+    "How might I respond to God’s good news with the eagerness and witness of the shepherds?",
+    "What practices help me, like Mary, to treasure and ponder God’s work rather than rush past it?",
+    "In what ways can I honor God through ordinary obedience, as Jesus’ family did with the law’s requirements?",
+    "How does this chapter challenge me to welcome outsiders and the humble as recipients of God’s salvation?",
+    "Where is God inviting me to align my commitments with “my Father’s business” in daily life?"
+  ],
+  "uncertainAreas": "The historical coordination of Luke’s census reference with Quirinius’ governorship is debated. The angelic hymn in 2:14 has a textual variant (“peace on earth, good will toward men” vs. “peace among those with whom he is pleased”). In 2:49, some manuscripts read “in my Father’s house” instead of “about my Father’s business,” slightly affecting the nuance of Jesus’ statement.",
+  "createdAt": "2025-11-02T21:05:40.461Z",
+  "modelId": "gpt-5-2025-08-07"
+}

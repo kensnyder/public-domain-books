@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Acts.5",
+  "briefOverview": "The chapter contrasts the holiness and power of the early church with mounting opposition from Jerusalem’s leaders. It features divine judgment within the community, miraculous growth, and a principled defense of preaching Jesus despite threats.",
+  "summary": "Ananias and Sapphira conspire to misrepresent the proceeds of a sale; confronted by Peter for lying to God, each dies, and great fear grips the church. The apostles perform many signs, crowds bring the sick for healing, and believers multiply. The high priest and Sadducees arrest the apostles, but an angel releases them and commands them to preach in the temple, which they do. Brought before the council, Peter insists they must obey God rather than men and proclaims Jesus’s death, resurrection, exaltation, and the offer of repentance and forgiveness to Israel. Though enraged, the council is persuaded by Gamaliel’s caution to leave the apostles alone; after beating them and forbidding them to speak in Jesus’s name, they release them. The apostles rejoice in suffering for Jesus and continue teaching daily.",
+  "externalContext": "Jerusalem’s Sanhedrin served as the highest Jewish council, presided over by the high priest; Sadducees, influential in the priestly class, denied the resurrection and angels, sharpening their conflict with the apostles’ message. Flogging (likely the 39 lashes) was a standard disciplinary measure for religious transgressions in Jewish legal practice. Solomon’s Portico was a colonnaded area on the Temple Mount where public teaching was common. Early believers in Jerusalem practiced voluntary sharing of goods to meet needs, making honesty about donations a serious communal matter. Gamaliel was a respected Pharisaic teacher, later identified as Paul’s mentor (Acts 22:3).",
+  "externalReferences": "Peter’s declaration that they must obey God rather than human authorities recalls the earlier confrontation (Acts 4:18–20). His phrase that Jesus was “hanged on a tree” echoes Deuteronomy 21:22–23, framing the crucifixion within covenantal curse language now reversed by God’s exaltation. The Sadducean opposition aligns with their denial of resurrection and angels (Acts 23:8), which the apostles’ message and the angelic release directly contradict. The Spirit’s witness alongside the apostles resonates with Jesus’s promise of the Spirit’s testimony (John 15:26–27) and the mandate to be witnesses (Acts 1:8).",
+  "seeAlso": [
+    "Acts 4:18-20",
+    "Deuteronomy 21:22-23",
+    "Acts 23:8",
+    "John 15:26-27",
+    "Acts 1:8",
+    "Acts 4:32-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Ananias and Sapphira’s deceit"
+    },
+    {
+      "range": "12-16",
+      "title": "Signs, healings, and growth"
+    },
+    {
+      "range": "17-42",
+      "title": "Arrest, defense, and resolve"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "Apostolic authority",
+    "Obedience to God",
+    "Persecution and witness",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted to seek spiritual reputation without corresponding integrity, and how can I correct that honestly?",
+    "When civil or social pressure conflicts with clear obedience to God, what criteria help me decide my response?",
+    "How does a reverent fear of God shape my approach to generosity, truth-telling, and leadership accountability?",
+    "What would it look like to rejoice in suffering for Christ today without glorifying suffering itself?",
+    "How can Gamaliel’s prudence inform my discernment toward new movements or claims within my faith community?"
+  ],
+  "uncertainAreas": "The text does not explain the precise mechanism of Ananias’s and Sapphira’s deaths or the full meaning of “tempt the Spirit,” leaving questions about whether the judgment was miraculous, psychosomatic, or otherwise. Verse 13’s note that “of the rest durst no man join himself to them” is ambiguous—whether it refers to outsiders fearing association or to a guarded membership process. Historical identification and dating of Gamaliel’s references to Theudas present a known chronological difficulty relative to other sources. The identity or nature of the “angel of the Lord” is not specified.",
+  "createdAt": "2025-11-03T00:12:59.892Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Acts.6",
+  "briefOverview": "The early church resolves a cultural inequity in its benevolence and then faces intensifying opposition as Stephen is accused before the council. The chapter contrasts practical leadership delegation with Spirit-empowered witness under scrutiny.",
+  "summary": "As the number of disciples grows, Greek-speaking believers complain that their widows are being overlooked in the daily distribution. The twelve apostles ask the community to select seven reputable, Spirit-filled, and wise men to oversee this task, freeing the apostles to focus on prayer and the ministry of the word. The community chooses Stephen, Philip, and five others; the apostles pray and lay hands on them, and the church’s growth accelerates with even many priests becoming obedient to the faith.\nStephen, full of grace and power, performs great signs, provoking disputes from members of certain synagogues, yet none can resist his wisdom and the Spirit. Opponents secretly instigate false charges that Stephen blasphemes Moses, God, the temple, and the law, alleging he claims Jesus will destroy the holy place and alter Mosaic customs. Stephen is seized and brought before the council, where, as all gaze at him, his face appears like that of an angel.",
+  "externalContext": "Jerusalem’s early Jesus-movement remained centered around the temple and Jewish communal life, including organized charity for widows, a vulnerable demographic in antiquity. Hellenists were Greek-speaking Jews from the diaspora who often differed culturally from native Aramaic-speaking Jews; tensions between these groups were a known social reality. The Sanhedrin (council) functioned as the high Jewish judicial and religious body in Jerusalem. Laying on of hands was a recognized Jewish practice to commission individuals for specific tasks or leadership. Synagogues of diaspora Jews in Jerusalem often formed along regional or social lines, such as those of freedmen (former slaves) and communities from North Africa and Asia Minor.",
+  "externalReferences": "The appointment of qualified leaders to share administrative burdens echoes Moses’ delegation of judges at Jethro’s advice (Exodus 18:21–26) and the commissioning pattern seen with Joshua (Numbers 27:18–23) involving the laying on of hands. The accusations that Stephen speaks against the temple and law parallel the charges brought against Jesus, including misapplied statements about the temple’s destruction (Mark 14:57–59; cf. John 2:19–21) and Jesus’ prediction that the temple would be destroyed (Mark 13:2; Matthew 24:2). The narrative prepares for Stephen’s speech and martyrdom (Acts 7) and anticipates broader mission through figures like Philip (Acts 8).",
+  "seeAlso": [
+    "Exodus 18:21-26",
+    "Numbers 27:18-23",
+    "Mark 14:57-59",
+    "John 2:19-21",
+    "Mark 13:2",
+    "Matthew 24:2",
+    "Acts 7:1-60",
+    "Acts 8:4-13",
+    "1 Timothy 3:8-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Seven appointed for service"
+    },
+    {
+      "range": "8-10",
+      "title": "Stephen’s Spirit-given wisdom"
+    },
+    {
+      "range": "11-15",
+      "title": "Charges before the council"
+    }
+  ],
+  "themes": [
+    "Community care",
+    "Leadership delegation",
+    "Word and prayer",
+    "Opposition",
+    "Temple and law"
+  ],
+  "practicalQuestions": [
+    "How can a community ensure that charitable care reaches marginalized groups without cultural bias?",
+    "What rhythms help leaders prioritize prayer and teaching while ensuring practical needs are met?",
+    "What criteria should guide the selection and commissioning of trusted servants in a congregation or organization?",
+    "How should one respond when misrepresented or falsely accused for convictions of faith?",
+    "What does being “full of the Spirit and wisdom” look like in decisions about resources and justice today?"
+  ],
+  "uncertainAreas": "Whether “Grecians” refers strictly to Greek-speaking Jews or includes Gentile God-fearers is debated, though the context suggests Hellenistic Jews. The exact nature and number of the synagogues mentioned (one “synagogue of the Freedmen” vs. several distinct synagogues) is grammatically ambiguous. The extent to which the seven constitute a formal “diaconate” is not explicit in the text. The meaning of Stephen’s face appearing “like an angel” (radiance, serenity, divine favor) is evocative but not defined. The mention of many priests becoming obedient does not specify which priestly groups or ranks converted.",
+  "createdAt": "2025-11-03T00:13:29.118Z",
+  "modelId": "gpt-5-2025-08-07"
+}

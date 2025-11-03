@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Acts.7",
+  "briefOverview": "Stephen recounts Israel’s history to show a pattern of resisting God’s messengers and to argue that God’s presence is not confined to the temple; his indictment leads to his martyrdom after a vision of the exalted Jesus.",
+  "summary": "In response to the high priest, Stephen reviews God’s call to Abraham, the promise of land and descendants, and the covenant, noting that Abraham himself received no inheritance in the land. He narrates Joseph’s rejection by his brothers and God’s subsequent exaltation of Joseph in Egypt, through whom Jacob’s family was preserved. Stephen then recounts Moses’ early attempt to help Israel, their rejection of him, his divine commissioning at the burning bush, and the Exodus, highlighting Israel’s disobedience and idolatry in the wilderness. He contrasts the portable tabernacle with Solomon’s temple and emphasizes that the Most High does not dwell in houses made by human hands. Turning to the council, he accuses them of resisting the Holy Spirit as their ancestors did, persecuting the prophets and betraying and killing “the Just One.” Enraged, they stone Stephen, who sees the Son of Man standing at God’s right hand and prays for Jesus to receive his spirit and to forgive his accusers.",
+  "externalContext": "Stephen is answering charges before the Sanhedrin (Jerusalem’s high court) that he spoke against the temple and the law, accusations often leveled at early followers of Jesus who proclaimed a new stage in God’s plan. As a Hellenistic (Greek-speaking) Jew chosen among the Seven (Acts 6), Stephen addresses an audience steeped in Israel’s scriptures and temple traditions. Under Roman rule, the Sanhedrin’s authority over capital cases was constrained; Stephen’s death likely reflects intense social-religious conflict that erupted into mob execution. Stoning was a traditional Jewish method of execution for blasphemy, with “witnesses” initiating the act, reflecting legal practice. Stephen is widely regarded as the first Christian martyr, and Saul’s presence foreshadows his later prominence as Paul.",
+  "externalReferences": "Stephen’s historical survey cites or echoes many scriptures: God’s call and promises to Abraham (Genesis 12:1; 15:13–14) and the covenant of circumcision (Genesis 17), the Joseph narrative (Genesis 37–50), and Israel’s oppression and Moses’ call (Exodus 1–3). He invokes Moses’ prophecy about a future prophet “like me” (Deuteronomy 18:15) and recalls Israel’s idolatry with the golden calf (Exodus 32:1–6). His critique of temple-centered thinking draws on prophetic texts, especially Amos’s indictment of wilderness-era sacrifices and astral worship (Amos 5:25–27) and Isaiah’s affirmation of God’s transcendence beyond any house (Isaiah 66:1–2). Stephen’s vision of the Son of Man at God’s right hand resonates with Psalm 110:1 and Daniel 7:13–14, depicting the Messiah’s exalted authority.",
+  "seeAlso": [
+    "Genesis 12:1",
+    "Genesis 15:13-14",
+    "Exodus 3:1-10",
+    "Deuteronomy 18:15",
+    "Exodus 32:1-6",
+    "Amos 5:25-27",
+    "Isaiah 66:1-2",
+    "Psalm 110:1",
+    "Daniel 7:13-14",
+    "Luke 23:34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Patriarchs and Promise"
+    },
+    {
+      "range": "17-50",
+      "title": "Moses, Idolatry, and the Temple"
+    },
+    {
+      "range": "51-60",
+      "title": "Indictment and Martyrdom"
+    }
+  ],
+  "themes": [
+    "Rejection of messengers",
+    "God’s transcendence",
+    "Covenant promise",
+    "Martyrdom and witness"
+  ],
+  "practicalQuestions": [
+    "Where might I be resisting the Holy Spirit’s promptings because they challenge my assumptions or traditions?",
+    "Do I rely on religious spaces and forms more than on obedience and faith in God’s living presence?",
+    "How do I respond when faithful correction exposes my community’s or my own failures?",
+    "In conflict, can I imitate Stephen’s posture of forgiveness and trust in God’s vindication?",
+    "How does remembering God’s faithfulness in history shape my courage and integrity today?"
+  ],
+  "uncertainAreas": "Verse 14 lists “seventy-five” persons entering Egypt, following the Septuagint tradition, whereas the Masoretic Text of Genesis 46:27 totals seventy; the harmonization is debated. Verse 16 attributes a burial site at Shechem to Abraham’s purchase, though Genesis distinguishes Abraham’s purchase of the cave of Machpelah (Genesis 23) from Jacob’s purchase at Shechem (Genesis 33:19), suggesting a conflation or summary. In verse 45, “Jesus” likely refers to Joshua (the Greek Iēsous), which can confuse readers. The phrase “received the law by the disposition of angels” (v. 53) reflects a Jewish tradition about angelic mediation of the law; the exact scriptural basis and interpretation vary.",
+  "createdAt": "2025-11-03T00:14:13.039Z",
+  "modelId": "gpt-5-2025-08-07"
+}

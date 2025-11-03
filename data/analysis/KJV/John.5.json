@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "John.5",
+  "briefOverview": "Jesus heals a long-disabled man on the Sabbath, triggering controversy, and then delivers a discourse claiming divine authority to give life, judge, and fulfill the testimony of Scripture.",
+  "summary": "At a Jerusalem pool called Bethesda, Jesus heals a man disabled for thirty-eight years and instructs him to carry his mat, provoking Sabbath objections from Jewish authorities. Jesus later warns the healed man to “sin no more,” and the authorities intensify their opposition because the healing occurred on the Sabbath and because Jesus calls God his Father. Jesus explains that the Son does only what he sees the Father doing and shares the Father’s works, including giving life and executing judgment. He declares that hearing and believing bring present passage from death to life and foretells a future resurrection to life or judgment. He asserts that multiple witnesses validate his mission: John the Baptist, his works, the Father, and the Scriptures. He concludes that their failure to believe reveals a love of human honor over the honor that comes from God and a failure to believe Moses, who wrote about him.",
+  "externalContext": "The Pool of Bethesda has been identified archaeologically near the Sheep Gate in Jerusalem, featuring structures consistent with five porticoes. In Second Temple Judaism, strict Sabbath observance included prohibitions on carrying loads; debates existed over what acts constituted “work.” In John’s Gospel, “the Jews” often refers to Jerusalem’s religious authorities rather than the Jewish people generally. Many early Greek manuscripts omit John 5:3b–4 (the note about an angel stirring the water), suggesting it may be a later explanatory addition. The title “Son of Man” evokes a figure of authority and dominion in Jewish apocalyptic expectation, shaping how Jesus’ claims would have been heard.",
+  "externalReferences": "The concern about carrying a mat on the Sabbath echoes Jeremiah 17:21–22, where carrying burdens on the Sabbath is prohibited, explaining the leaders’ reaction. Jesus’ language about a future resurrection to life or judgment parallels Daniel 12:2, while his self-identification with the authority to judge as the “Son of Man” resonates with Daniel 7:13–14. His appeal to multiple witnesses reflects the legal principle of corroboration in Deuteronomy 19:15. When Jesus says Moses wrote about him, readers may recall Deuteronomy 18:15’s promise of a prophet like Moses, and his reference to John’s prior testimony connects to John 1:19–34.",
+  "seeAlso": [
+    "Jeremiah 17:21-22",
+    "Daniel 12:2",
+    "Daniel 7:13-14",
+    "Deuteronomy 19:15",
+    "Deuteronomy 18:15",
+    "John 1:19-34",
+    "John 10:37-38",
+    "John 11:25-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Healing at Bethesda and dispute"
+    },
+    {
+      "range": "16-30",
+      "title": "The Son’s life and judgment"
+    },
+    {
+      "range": "31-47",
+      "title": "Witnesses and unbelief"
+    }
+  ],
+  "themes": [
+    "Jesus’ authority",
+    "Life and judgment",
+    "Witness and testimony",
+    "Sabbath controversy",
+    "Faith and unbelief"
+  ],
+  "practicalQuestions": [
+    "Where might my attachment to human approval keep me from recognizing and obeying what is truly from God?",
+    "How do I read Scripture so that it leads me to the person of Jesus rather than merely to information or rules?",
+    "What does it mean, practically, to honor the Son as I honor the Father in my daily decisions?",
+    "How should compassion and the purpose of Sabbath rest shape my response to human need, especially when tradition or habit resists change?",
+    "In what ways do I experience Jesus’ life-giving voice now, and how does that shape my hope for the future resurrection?"
+  ],
+  "uncertainAreas": "The specific festival is unnamed. The note about an angel stirring the water (5:3b–4) is absent in many early manuscripts. The link between the man’s prior condition and sin (5:14) is not fully explained. The precise relation between faith, doing good, and the two resurrections (5:29) is theologically debated.",
+  "createdAt": "2025-11-02T22:11:42.117Z",
+  "modelId": "gpt-5-2025-08-07"
+}

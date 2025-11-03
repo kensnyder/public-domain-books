@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Luke.11",
+  "briefOverview": "Jesus teaches prayer and persistence, asserts that his exorcisms signal God’s kingdom, calls for inner light and obedience, and pronounces woes on religious leaders for hypocrisy and hindering others.",
+  "summary": "At a disciple’s request Jesus provides a model prayer that honors God, seeks his kingdom and will, asks for daily provision, forgiveness linked to forgiving others, and deliverance from evil; he then urges persistent petitioning and promises the Father will give the Holy Spirit to those who ask. After casting out a demon that had made a man mute, he refutes accusations that he works by Beelzebul, arguing that a divided kingdom cannot stand and that his works demonstrate the arrival of God’s kingdom; neutrality toward him is impossible. He warns that an expelled spirit may return with greater force if a life remains empty, commends those who hear and keep God’s word over mere biological ties, and rebukes the demand for signs, offering instead the sign of Jonah and asserting he is greater than Solomon and Jonah. Using light imagery, he calls for an undivided, healthy ‘eye’ so the whole person is filled with light. Dining with a Pharisee, Jesus condemns attention to external purity while neglecting inner righteousness, issuing woes for tithing minutiae while ignoring justice and love, craving honor, defiling others like hidden graves, loading people with heavy legal burdens, perpetuating the pattern of killing God’s messengers, and withholding the key of knowledge. The religious leaders respond by pressing him and seeking grounds to accuse him.",
+  "externalContext": "First-century Jewish teachers often taught set patterns of prayer; John the Baptist apparently did so for his disciples. Pharisaic traditions included ritual handwashing before meals as part of broader purity practices, which went beyond what the Torah explicitly required. Hospitality was a strong social obligation; households were small, and families often slept in one room, making a midnight request disruptive. Jewish exorcists existed in the period, and accusations of collusion with demonic powers reflected intense debates about authority and spiritual power; “Beelzebul/Beelzebub” was a polemical title for the demonic ruler. Scribes (“lawyers”) were experts in the Mosaic Law, shaping how everyday people understood and carried religious obligations, including tithing and purity. In the Hebrew canon’s traditional order, the span “Abel to Zechariah” covers the first to the last martyr recorded (Genesis to Chronicles).",
+  "externalReferences": "The prayer and the call to ask, seek, and knock parallel Matthew 6:9–13 and Matthew 7:7–11. Jesus’ response to the Beelzebul charge and the ‘house divided’ logic echo Mark 3:22–27 and Matthew 12:25–29; his phrase “finger of God” recalls Exodus 8:19, where magicians recognize God’s power. The examples of the Queen of the South and the Ninevites refer to 1 Kings 10:1–13 and Jonah 3, respectively. The range “from the blood of Abel to the blood of Zechariah” points to Genesis 4:8–10 and 2 Chronicles 24:20–22; the lamp imagery appears elsewhere in Luke 8:16 and Matthew 5:15–16.",
+  "seeAlso": [
+    "Matthew 6:9-13",
+    "Matthew 7:7-11",
+    "Mark 3:22-27",
+    "Matthew 12:25-29",
+    "Exodus 8:19",
+    "1 Kings 10:1-13",
+    "Jonah 3",
+    "Genesis 4:8-10",
+    "2 Chronicles 24:20-22",
+    "Matthew 5:15-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Teaching on Prayer"
+    },
+    {
+      "range": "14-36",
+      "title": "Kingdom, Signs, and Light"
+    },
+    {
+      "range": "37-54",
+      "title": "Woes to Leaders’ Hypocrisy"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Persistence",
+    "Kingdom of God",
+    "Inner purity",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How do my prayers reflect Jesus’ priorities: God’s honor, his kingdom, daily provision, forgiveness, and deliverance?",
+    "Where do I need to persist in asking God, specifically for the Holy Spirit’s help and presence?",
+    "Am I trying to remain neutral about Jesus’ mission, and what does this passage say about such neutrality?",
+    "In what ways might I focus on outward religious performance while neglecting justice, love, and inner integrity?",
+    "Do my religious expectations or teachings place unnecessary burdens on others, and how can I instead open doors of understanding?",
+    "How am I responding to the light I already have so that my whole life is illuminated rather than darkened?"
+  ],
+  "uncertainAreas": "The exact meaning of “give alms… and behold, all things are clean” (v. 41) and how it functions in the discourse is debated. The “sign of Jonah” in Luke emphasizes Jonah as a sign to Nineveh rather than explicitly referencing three days in the fish, leaving some ambiguity about its precise application to Jesus. The identification of “Zacharias” (v. 51) most likely refers to Zechariah son of Jehoiada in 2 Chronicles 24:20–22, but some details are still discussed. The imagery of the returning unclean spirit (vv. 24–26) raises interpretive questions about moral reform without genuine transformation. The petition “lead us not into temptation” involves nuances about testing versus temptation that the text itself does not fully unpack.",
+  "createdAt": "2025-11-02T21:58:42.302Z",
+  "modelId": "gpt-5-2025-08-07"
+}

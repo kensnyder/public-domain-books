@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.23",
+  "briefOverview": "Jesus is tried by Pilate and Herod, condemned under pressure, crucified between criminals, and buried before the Sabbath. The narrative stresses his innocence, mercy, and royal identity amid rejection.",
+  "summary": "The leaders accuse Jesus before Pilate of sedition and claiming kingship; Pilate and Herod both find no basis for death, yet the crowd demands Barabbas and Jesus’ crucifixion. On the way to Golgotha, Jesus warns the “daughters of Jerusalem” of coming judgment. He is crucified between two criminals, prays for his executioners’ forgiveness, and a placard identifies him as “King of the Jews.” One criminal mocks him, while the other confesses Jesus’ innocence and asks to be remembered; Jesus promises him paradise that day. Darkness falls from the sixth to the ninth hour, the temple veil is torn, and Jesus entrusts his spirit to the Father. The centurion declares him righteous, the crowds depart in grief, and Joseph of Arimathea buries Jesus in a new tomb as the women observe and prepare spices before resting for the Sabbath.",
+  "externalContext": "Judea was under Roman occupation, with Pontius Pilate serving as prefect (AD 26–36) and Herod Antipas ruling Galilee as tetrarch. Roman crucifixion was a public, brutal form of execution commonly used for rebels and slaves, intended as a deterrent. Jewish authorities could recommend capital charges, but Rome controlled executions for political crimes like sedition. The inscription in three languages reflects the multilingual environment of Jerusalem during festivals. The “preparation” refers to Friday before the Sabbath, making haste in burial customary. Time markers like the sixth to ninth hours correspond roughly to noon to 3 p.m.",
+  "externalReferences": "The charge about forbidding tribute contrasts with Jesus’ earlier teaching, “Render to Caesar” (Luke 20:22–25). Several details echo Scripture: casting lots for garments and mocking the righteous sufferer recall Psalm 22:7–8, 16–18; Jesus’ final prayer quotes Psalm 31:5. His being “numbered with the transgressors” aligns with Isaiah 53:12, and his promise of salvation to the penitent evokes the suffering servant’s role (Isaiah 53:5–6). The cry about mountains falling reflects Hosea 10:8, later echoed in Revelation 6:16, while the torn veil’s significance is thematized in Hebrews 10:19–20.",
+  "seeAlso": [
+    "Luke 20:22-25",
+    "Psalm 22:7-8",
+    "Psalm 22:16-18",
+    "Psalm 31:5",
+    "Isaiah 53:3-12",
+    "Hosea 10:8",
+    "Matthew 27:15-61",
+    "Mark 15:1-47",
+    "John 19:1-42",
+    "Hebrews 10:19-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-25",
+      "title": "Trial and Sentencing"
+    },
+    {
+      "range": "26-43",
+      "title": "Way to Cross; Two Criminals"
+    },
+    {
+      "range": "44-56",
+      "title": "Death, Signs, and Burial"
+    }
+  ],
+  "themes": [
+    "Innocence of Jesus",
+    "Mercy and forgiveness",
+    "Kingship and identity",
+    "Prophecy fulfillment",
+    "Witness and response"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted, like Pilate, to prioritize approval over justice?",
+    "How does Jesus’ prayer of forgiveness shape the way I respond to wrongs against me?",
+    "What does the penitent criminal teach about humility and hope at the edge of failure or death?",
+    "How can I bear witness to Jesus’ innocence and kingship amid public mockery or pressure?",
+    "In what ways do Joseph and the women model courageous, practical devotion when hopes seem lost?"
+  ],
+  "uncertainAreas": "The precise meaning of the “green tree/dry” saying (v.31) is debated—likely contrasting Jesus’ innocence with impending judgment on a guilty people, but the referents and timing are not explicit. The historicity and details of the Passover release custom are discussed by scholars, though it is presented straightforwardly here. The scope of the darkness (“over all the earth/land”) and the immediate referents of Jesus’ forgiveness (“they know not what they do”) are not specified in the text.",
+  "createdAt": "2025-11-02T22:07:43.263Z",
+  "modelId": "gpt-5-2025-08-07"
+}

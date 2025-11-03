@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "John.18",
+  "briefOverview": "Jesus is arrested and interrogated, Peter denies him, and Jesus testifies before Pilate about his kingdom and mission to bear witness to the truth.",
+  "summary": "Jesus crosses the Kidron to a garden where Judas arrives with officers to arrest him; Jesus identifies himself and protects his disciples, while Peter wounds Malchus and is rebuked as Jesus accepts “the cup” from the Father. Jesus is taken to Annas; meanwhile Peter denies Jesus three times as Jesus is questioned about his teaching, insisting he spoke openly and calling for witnesses. From Caiaphas they bring Jesus to Pilate; the leaders avoid entering the praetorium to remain ritually clean for Passover. Pilate questions Jesus about kingship, and Jesus declares his kingdom is not of this world and that he came to bear witness to the truth; Pilate finds no guilt. Despite a Passover custom of release, the crowd chooses Barabbas over Jesus.",
+  "externalContext": "The Kidron Valley lies east of Jerusalem near the Mount of Olives, where gardens and olive presses were common in the first century. Annas had been high priest earlier (AD 6–15) and, though deposed by Rome, retained influence as patriarch of a powerful priestly family that included his son-in-law Caiaphas. Under Roman rule, the prefect (here Pontius Pilate, AD 26–36) held authority over capital punishment, which is why the leaders sought Roman approval. Entering the Roman governor’s residence (a Gentile space) could render Jews ritually unclean for festival observance, according to purity concerns of the period. The custom of releasing a prisoner at Passover is attested in the Gospels but not in surviving Roman records; however, governors sometimes granted amnesties to maintain public order during festivals.",
+  "externalReferences": "Jesus’ protection of his disciples fulfills his earlier statement, “of those whom you gave me I have lost none” (John 17:12). The note about Caiaphas recalls his prior counsel that one man should die for the people (John 11:49–52), framing the proceedings within a larger salvific irony. Peter’s triple denial fulfills Jesus’ prediction in the upper room (John 13:38). The reference to Jesus’ death fulfilling what he had said about being “lifted up” points to crucifixion (John 12:32–33), and Jesus’ acceptance of the “cup” parallels the Synoptic Gethsemane prayers (e.g., Mark 14:36; Matthew 26:39; Luke 22:42).",
+  "seeAlso": [
+    "John 17:12",
+    "John 11:49-52",
+    "John 13:38",
+    "John 12:32-33",
+    "Matthew 26:36-56",
+    "Mark 14:32-52",
+    "Luke 22:39-53",
+    "John 19:1-16",
+    "1 Timothy 6:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Arrest in the garden"
+    },
+    {
+      "range": "12-27",
+      "title": "Annas interrogates; Peter denies"
+    },
+    {
+      "range": "28-40",
+      "title": "Before Pilate and Barabbas"
+    }
+  ],
+  "themes": [
+    "Kingship and truth",
+    "Fulfillment",
+    "Betrayal and denial",
+    "Obedient suffering",
+    "Jurisdiction and power"
+  ],
+  "practicalQuestions": [
+    "How do I respond when truth challenges my loyalties or comfort, as Peter’s did?",
+    "What does it look like to embody Jesus’ nonviolent commitment when under pressure or threat?",
+    "Where do I place my ultimate allegiance when earthly and spiritual authorities collide?",
+    "Do my public words and actions, like Jesus’ open teaching, withstand scrutiny from honest witnesses?",
+    "How might fear of social or religious exclusion influence my pursuit of justice and truth?"
+  ],
+  "uncertainAreas": "The identity of the “other disciple” who knew the high priest is unstated; the sequence and exact roles of Annas and Caiaphas in the interrogation are terse; the reason the arresting party fell back at Jesus’ “I am he” is not explained; and the Passover timing/defilement details in John compared with the Synoptics raise chronology questions not resolved in this chapter.",
+  "createdAt": "2025-11-02T22:22:00.127Z",
+  "modelId": "gpt-5-2025-08-07"
+}

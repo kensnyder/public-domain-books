@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Luke.20",
+  "briefOverview": "In the temple, Jesus’ authority is challenged, and he responds with incisive questions, a parable of judgment, teaching on civic duty and resurrection, and a public warning against hypocritical leaders.",
+  "summary": "Religious leaders question Jesus’ authority, and he counters by asking them about John’s baptism, exposing their evasiveness and declining to answer. He tells a parable of a vineyard whose tenants beat the owner’s servants and kill his beloved son; judgment will come and the vineyard be given to others, a point he underlines by citing the rejected stone becoming the cornerstone, provoking the leaders. Spies try to trap him over paying taxes to Caesar, but he answers: give Caesar what bears Caesar’s image and give God what is God’s. Sadducees mock the resurrection with a levirate-marriage puzzle; Jesus teaches that in the resurrection people neither marry nor die but are like angels, and he grounds resurrection hope in God’s self-identification as the God of Abraham, Isaac, and Jacob. He then asks how the Messiah can be David’s son if David calls him Lord, and he warns the crowd against scribes who seek honor and exploit widows, saying they will face greater condemnation.",
+  "externalContext": "This scene occurs during Jesus’ final days in Jerusalem, where public teaching in the temple drew scrutiny from the temple establishment. Under Roman rule, a poll tax was paid with a denarius bearing the emperor’s image (likely Tiberius), making the tax question politically volatile. The Sadducees, an elite priestly group, generally denied resurrection, angels, and spirits, distinguishing them from the Pharisees. Levirate marriage (a brother marrying a childless widow to raise offspring for the deceased) is prescribed in Deuteronomy and frames the Sadducees’ hypothetical.",
+  "externalReferences": "The vineyard parable echoes Isaiah 5:1–7, where Israel is depicted as God’s vineyard that fails to yield justice. Jesus cites Psalm 118:22–23 about the rejected stone becoming the cornerstone to interpret his rejection and vindication. His argument for resurrection uses Exodus 3:6 (God as the God of Abraham, Isaac, and Jacob), implying the patriarchs live to God. His question about the Messiah’s identity quotes Psalm 110:1, highlighting a lordship that surpasses merely being David’s descendant.",
+  "seeAlso": [
+    "Isaiah 5:1-7",
+    "Psalm 118:22-23",
+    "Exodus 3:6",
+    "Deuteronomy 25:5-10",
+    "Psalm 110:1",
+    "Matthew 22:15-22",
+    "Mark 12:18-27",
+    "Matthew 21:33-46",
+    "Luke 19:45-48",
+    "Mark 12:38-40"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Challenge to Jesus’ Authority"
+    },
+    {
+      "range": "9-19",
+      "title": "Tenants and the Cornerstone"
+    },
+    {
+      "range": "20-47",
+      "title": "Taxes, Resurrection, and Warnings"
+    }
+  ],
+  "themes": [
+    "Jesus’ authority",
+    "Rejection and judgment",
+    "Resurrection hope",
+    "Allegiance to God",
+    "Religious hypocrisy"
+  ],
+  "practicalQuestions": [
+    "Where am I resisting Jesus’ authority even when the evidence confronts me?",
+    "How can I honor civic obligations while ensuring God receives what truly belongs to him?",
+    "Does my religious practice seek status or serve the vulnerable, especially widows and the powerless?",
+    "How does belief in the resurrection reshape my view of marriage, death, and present priorities?",
+    "Do I use Scripture to evade uncomfortable truth, or to submit to God’s will?"
+  ],
+  "uncertainAreas": "The specific referent of “others” who receive the vineyard is not stated (whether faithful Israel, the apostles, Gentiles, or the church broadly). The “stone” imagery beyond Psalm 118 may allude to other texts, but Luke explicitly quotes only Psalm 118. The extent and mechanism of being “like angels” in the resurrection (and implications for personal relationships) are not detailed. The identity of the spies and the precise legal means by which scribes “devour widows’ houses” are not specified.",
+  "createdAt": "2025-11-02T22:05:28.556Z",
+  "modelId": "gpt-5-2025-08-07"
+}

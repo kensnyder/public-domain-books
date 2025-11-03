@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Mark.14",
+  "briefOverview": "Mark 14 traces the cascade toward Jesus’ crucifixion: plotting by leaders, an anointing at Bethany, the Last Supper, Gethsemane, arrest, a night trial, and Peter’s denial.",
+  "summary": "Religious authorities plot Jesus’ death while a woman in Bethany anoints him, which Jesus interprets as preparation for burial, and Judas agrees to betray him. Jesus directs Passover preparations, predicts a betrayer at table, and institutes bread and cup as his body and “blood of the new covenant,” vowing not to drink again until God’s kingdom. He foretells the disciples’ stumbling and Peter’s triple denial, then in Gethsemane he prays for the cup to pass yet submits to the Father’s will as the disciples repeatedly fall asleep. Judas arrives with an armed crowd and identifies Jesus with a kiss; Jesus is seized and the disciples flee, including a young man who escapes leaving his garment. Taken to the high priest, Jesus faces conflicting testimony until he affirms he is the Christ, the Son of Man who will be seen at God’s right hand and coming with the clouds; the council condemns him for blasphemy and he is abused. Meanwhile Peter denies Jesus three times and, recalling the prediction when the rooster crows, he weeps.",
+  "externalContext": "Passover and the Feast of Unleavened Bread commemorated Israel’s deliverance from Egypt and were major pilgrimage festivals drawing crowds to Jerusalem, heightening leaders’ concern about public unrest. The Sanhedrin (chief priests, elders, and scribes) was the principal Jewish council handling religious-legal matters under Roman occupation. Passover meals included ritual elements and psalms (Hallel, Psalms 113–118), likely the hymn they sang before going to the Mount of Olives. Gethsemane, meaning “oil press,” was an olive grove on the Mount of Olives, a customary place Jesus visited with his disciples. Nighttime arrest and proceedings, while debated historically, underscore urgency and the leaders’ desire to avoid a riot. High priestly garments were not to be torn in normal circumstances, but rending clothes functioned as a sign of outrage or blasphemy in Jewish culture.",
+  "externalReferences": "Jesus’ prediction that the shepherd will be struck and the sheep scattered quotes Zechariah 13:7, framing the disciples’ flight as fulfillment of Scripture. His claim that the Son of Man will be seated at the right hand and come with the clouds combines Psalm 110:1 and Daniel 7:13–14, asserting exaltation and eschatological authority. The words over the cup, “blood of the new covenant,” echo Exodus 24:8 and Jeremiah 31:31–34, interpreting his death as covenant-establishing. The “cup” he seeks to avoid resonates with the Old Testament image of the cup of divine judgment (Isaiah 51:17; Jeremiah 25:15), and the charge about destroying and rebuilding the temple parallels misunderstanding reflected in John 2:19–21.",
+  "seeAlso": [
+    "Zechariah 13:7",
+    "Psalm 110:1",
+    "Daniel 7:13-14",
+    "Exodus 24:8",
+    "Jeremiah 31:31-34",
+    "Isaiah 51:17",
+    "John 2:19-21",
+    "Matthew 26:6-16",
+    "Luke 22:14-23",
+    "1 Corinthians 11:23-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Plot and Anointing"
+    },
+    {
+      "range": "12-31",
+      "title": "Passover and New Covenant"
+    },
+    {
+      "range": "32-72",
+      "title": "Gethsemane, Arrest, Denial"
+    }
+  ],
+  "themes": [
+    "Betrayal",
+    "New covenant",
+    "Fulfilled Scripture",
+    "Human weakness",
+    "Faithfulness to God"
+  ],
+  "practicalQuestions": [
+    "How do I balance honoring Christ with generosity to the poor when resources are limited?",
+    "In what situations do I, like the disciples, fail to watch and pray, and how can I cultivate vigilance?",
+    "What does Jesus’ submission, “not what I will, but what you will,” require of me in a current trial?",
+    "How should participation in the Lord’s Supper shape my understanding of sacrifice, forgiveness, and community?",
+    "After personal failure like Peter’s, what steps of repentance and restoration should I take?"
+  ],
+  "uncertainAreas": "The identity of the anointing woman and the young man who fled naked are unspecified; some traditions propose candidates, but the text does not. Details of Passover chronology and whether the meal was the formal seder are debated. The exact nature of the council’s legal procedures that night is historically disputed. The “I will destroy this temple” testimony may reflect distortion of Jesus’ earlier sayings; Mark does not present Jesus as having said it verbatim.",
+  "createdAt": "2025-11-02T17:16:35.222Z",
+  "modelId": "gpt-5-2025-08-07"
+}
