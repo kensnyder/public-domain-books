@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Num.31",
+  "briefOverview": "God commands Israel to wage punitive war on the Midianites; the army executes the campaign, deals with captives and spoil, and performs prescribed purification and distribution rituals.",
+  "summary": "God tells Moses to avenge Israel on the Midianites; Moses raises 12,000 men (a thousand from each tribe) and sends them under Phinehas. The Israelite force kills the Midianite men, including five named kings and Balaam, burns their cities, and takes women, children, livestock, and goods as captives and spoil. Moses rebukes the officers for sparing women, links their role to the earlier sin at Peor, and orders killing of male children and any woman who has known a man, while keeping virgin girls alive. Prescribed impurity/cleansing practices follow (waiting seven days; purification by fire and water), and Eleazar instructs how to purify spoil. The spoil is counted and divided: half to the warriors, half to the congregation, with levies (a fifth of the warriors' half as a heave offering to the LORD, and one of fifty from the congregation's half for the Levites). The officers offer a voluntary gold offering, which is placed in the tabernacle as a memorial.",
+  "externalContext": "Midianites were a nomadic/tribal people in the northwestern Arabian/Transjordan region frequently interacting with Israel in the patriarchal and early Israelite periods. Balaam is an earlier non‑Israelite prophet hired in Numbers 22–24; later texts tie him to leading Israel to sin at Peor (see Numbers 25). The Levites were the temple/tabernacle personnel who received no land allotment and so were given portions or tithes for their service; heave offerings and ritual purification by special waters are consistent with priestly law in the Pentateuch.",
+  "externalReferences": "The episode of Balaam and his earlier prophecies appears in Numbers 22–24; his role in causing Israel to sin (the Peor incident) is narrated in Numbers 25:1–18. The ritual of the 'water of separation' and purification after contact with death is closely related to Numbers 19 (the red heifer and purification water). Deuteronomy 20:13–14 contains instructions about warfare and taking spoil that are thematically related to the treatment of conquered cities and captives.",
+  "seeAlso": [
+    "Numbers 22:2-24:25",
+    "Numbers 25:1-18",
+    "Numbers 19",
+    "Deuteronomy 20:13-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Command and Campaign"
+    },
+    {
+      "range": "13-24",
+      "title": "Judgment on Captives"
+    },
+    {
+      "range": "25-54",
+      "title": "Purification and Division"
+    }
+  ],
+  "themes": [
+    "Divine Justice",
+    "Warfare",
+    "Purity",
+    "Communal Distribution"
+  ],
+  "practicalQuestions": [
+    "How should contemporary readers grapple with ancient texts that portray divinely commanded violence?",
+    "What responsibilities do leaders have to enforce moral and communal standards during and after conflict?",
+    "How can communities today balance ritual or symbolic acts of cleansing with pastoral care for those affected by violence?",
+    "What principles for equitable distribution of communal resources can be drawn from the division and dedication of spoil?"
+  ],
+  "uncertainAreas": "Ambiguity surrounds the phrase 'women that have known man by lying with him' (whether legal, cultic, or ethnic grounds determined the order) and the precise legal precedent Moses appeals to; the text's numeric totals and some procedural terms (e.g., 'water of separation') rely on wider priestly law not fully spelled out here. Additionally, motivations and legal norms for killing certain captives versus sparing others are morally and historically contested.",
+  "createdAt": "2025-11-03T16:16:46.645Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

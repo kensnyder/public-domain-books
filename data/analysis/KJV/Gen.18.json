@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.18",
+  "briefOverview": "Genesis 18 records a theophany in which Abraham hosts three visitors, receives a renewed promise that Sarah will bear a son, and then intercedes with God over the fate of Sodom and Gomorrah.",
+  "summary": "Three visitors appear to Abraham at Mamre; Abraham shows exemplary hospitality, preparing food and serving them. One visitor (identified as the LORD) announces that Sarah will bear a son; Sarah laughs at the improbability because both are advanced in age, and the promise is affirmed despite her laughter. After the visitors depart toward Sodom, the LORD announces the outcry against Sodom and Gomorrah, and Abraham engages in a bold, measured dialogue asking whether the righteous will be destroyed with the wicked. Abraham negotiates with God, reducing the number of righteous needed to spare the city from fifty down to ten, and God agrees to spare the city if ten righteous are found. The chapter closes with the LORD departing and Abraham returning home.",
+  "externalContext": "In the ancient Near East, hospitality to travelers was a central social and ethical expectation; offering water, food, and care marked a household's righteousness and honor. The appearance of divine visitors (theophany or angelophany) and dialogue with God fits the broader patriarchal narrative where covenant promises (descendants, land, blessing) are crucial. Mamre is traditionally associated with Abraham's dwelling near Hebron, a significant locale in patriarchal tradition.",
+  "externalReferences": "The promise of a son here echoes and elaborates the covenantal promise given earlier in Genesis 17:15–21, where God names the promised son (Isaac) and institutes circumcision as a sign of the covenant. The birth of the son as fulfillment of this promise is narrated in Genesis 21:1–7. The account of Sodom and Gomorrah and their judgment continues in Genesis 19:1–29. The chapter also resonates with Genesis 12:2–3 where God’s blessing of Abraham as a vehicle for blessing the nations is first articulated.",
+  "seeAlso": [
+    "Genesis 17:15-21",
+    "Genesis 21:1-7",
+    "Genesis 19:1-29",
+    "Genesis 12:2-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Hospitality to Visitors"
+    },
+    {
+      "range": "9-15",
+      "title": "Promise of a Son"
+    },
+    {
+      "range": "16-33",
+      "title": "Abraham's Intercession"
+    }
+  ],
+  "themes": [
+    "Hospitality",
+    "Divine promise",
+    "Faith and doubt",
+    "Intercession/Justice"
+  ],
+  "practicalQuestions": [
+    "How does my household practice hospitality to strangers and travelers today?",
+    "When faced with an apparently impossible promise or hope, how should I respond—like Sarah's skepticism or Abraham's faith?",
+    "How can I responsibly advocate for mercy and justice on behalf of others in community or public life?",
+    "What does this chapter teach about asking hard questions of God while still operating within faith?"
+  ],
+  "uncertainAreas": "The identity of the three visitors (literal Lord vs. angelic messengers) is theologically ambiguous in the text; Sarah's interior laugh raises uncertainty about whether it is simple disbelief, astonished joy, or something else; the nature of Abraham's bargaining leaves open how literally to read the numbers and whether the scene is descriptive of divine negotiation or pedagogical about God’s justice.",
+  "createdAt": "2025-11-03T15:05:58.970Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

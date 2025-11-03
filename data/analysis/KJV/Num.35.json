@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Num.35",
+  "briefOverview": "God instructs Israel to allocate Levitical towns (including six cities of refuge) and establishes legal distinctions and procedures between murder and accidental killing to protect community purity and ensure just redress.",
+  "summary": "God commands that the Levites be given forty-eight cities with surrounding suburbs drawn out a specified distance from each city, proportioned from each tribe's inheritance. Six of these cities are designated as cities of refuge where someone who killed another unintentionally may flee to escape the avenger of blood until the congregation judges and until the death of the high priest. The chapter distinguishes premeditated murder (subject to death and pursued by the avenger of blood) from accidental killing (entitling the slayer to asylum). Procedural rules are given: capital cases require two or more witnesses, no ransom is allowed for a murderer, and the asylum ends if the slayer leaves the city; the land is said to become defiled by blood, and only the blood of the one who shed it can cleanse it. The laws are presented as permanent statutes for Israel to preserve holiness where God dwells among them.",
+  "externalContext": "In ancient Israel the Levites were the priestly/serving tribe and received towns rather than a contiguous tribal territory; this arrangement ensured their presence throughout the nation. Blood vengeance (family or clan avengers) was a common social practice in the ancient Near East, and cities of refuge functioned as institutionalized protections that mediated between private vengeance and communal justice. The distribution of forty-eight Levitical towns and the six refuge cities is treated elsewhere in the settlement traditions (see Joshua).",
+  "externalReferences": "The institution and allocation of cities of refuge and the listing of forty-eight Levitical towns are treated in Joshua 20:1–9 and Joshua 21:1–42, which narrate the actual assignment of those cities. Deuteronomy 19:1–13 gives a parallel legal formulation for cities of refuge, the role of witnesses, and the distinction between intentional and accidental killing.",
+  "seeAlso": [
+    "Joshua 20:1-9",
+    "Joshua 21:1-42",
+    "Deuteronomy 19:1-13",
+    "Deuteronomy 4:41-43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Levitical Cities Allocated"
+    },
+    {
+      "range": "9-15",
+      "title": "Establishing Refuge Cities"
+    },
+    {
+      "range": "16-34",
+      "title": "Murder, Manslaughter, and Purity"
+    }
+  ],
+  "themes": [
+    "Sanctuary",
+    "Justice",
+    "Holiness",
+    "Community order"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance protection for the innocent with accountability for wrongdoing, in light of these distinctions between accidental and intentional harm?",
+    "What institutions today serve a similar function to 'cities of refuge,' and how can they be improved to prevent private vengeance?",
+    "How does the concern for communal purity (avoidance of 'defiling the land') inform contemporary discussions about restorative justice and public ethics?",
+    "How can religious communities ensure that religious offices (analogous to the Levites/high priest) contribute to impartial adjudication rather than power-based protection?"
+  ],
+  "uncertainAreas": "The text assumes cultural practices (e.g., the role and authority of the 'avenger of blood' and the meaning of the asylum ending at the high priest's death) whose detailed operation in historical practice is not fully explained here. Precise geographical placement of the three cities 'on this side Jordan' depends on narrative perspective and later settlement accounts.",
+  "createdAt": "2025-11-03T16:18:40.160Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

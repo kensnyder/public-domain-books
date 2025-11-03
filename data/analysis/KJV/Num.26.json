@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Num.26",
+  "briefOverview": "A second census of Israel is taken in the plains of Moab, listing tribal and family numbers and setting principles for dividing the land; the Levites are counted separately and the fate of the previous generation is recalled.",
+  "summary": "God commands Moses and Eleazar to number all Israelite males twenty years old and upward able to go to war. The chapter enumerates each tribe and family, giving specific headcounts (including the daughters of Zelophehad named among Manasseh's line) and totals the people (verse 51). Moses is instructed that land will be allocated according to the size of each tribal population but distributed by lot. The Levites are listed separately and counted from a month old upward; they receive no tribal land inheritance. The narrative recalls the rebellion of Dathan and Abiram (linked to Korah) and restates that none of those counted in the earlier Sinai census remain alive except Caleb and Joshua because God had decreed the older generation would die in the wilderness.",
+  "externalContext": "This chapter is set at the end of Israel’s wilderness wanderings, immediately before entry into Canaan; tribal population figures function as the basis for territorial allotment under the tribal/clan social order. Counting fighting-age males was a common ancient Near Eastern practice for military and fiscal organization. The episode about Zelophehad’s daughters anticipates a legal development about inheritance rights for daughters when no sons existed (treated more fully in the following chapters).",
+  "externalReferences": "The chapter echoes and revises material from the earlier census taken at Sinai (Numbers 1:1–46) and repeats the divine judgment pronounced in Numbers 14:29–32 that the Exodus generation would die in the wilderness. The rebellion of Korah and the fate of Dathan and Abiram is narrated in Numbers 16, which this text alludes to (see Numbers 16:31–35). The death of Nadab and Abihu is recorded in Leviticus 10:1–2, which is referenced here (verse 61). The case of Zelophehad’s daughters is addressed directly in Numbers 27:1–11, where their inheritance claim is legally settled.",
+  "seeAlso": [
+    "Numbers 1:1-46",
+    "Numbers 14:29-32",
+    "Numbers 16:31-35",
+    "Numbers 27:1-11",
+    "Leviticus 10:1-2",
+    "Numbers 3:5-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Command to Number"
+    },
+    {
+      "range": "5-51",
+      "title": "Tribal Enumerations"
+    },
+    {
+      "range": "52-65",
+      "title": "Land, Levites, Reminder"
+    }
+  ],
+  "themes": [
+    "Census",
+    "Inheritance by lot",
+    "Tribal identity",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance numerical measures (e.g., population, need) with fair allocation of resources?",
+    "What lessons does the separate treatment of the Levites suggest about vocational callings versus territorial inheritance today?",
+    "How can institutions respond justly when existing rules leave some people (like daughters without brothers) vulnerable to exclusion?",
+    "What does the memory of past communal failures (the wilderness generation’s fate) teach about leadership accountability now?"
+  ],
+  "uncertainAreas": "The chapter’s numeric total phrasing (verse 51) can read awkwardly in English and has led to variant numerical totals in study traditions; genealogical names and family groupings can be difficult to map precisely to later lists. The brief references to earlier episodes (Korah, Dathan and Abiram) assume familiarity with Numbers 16, so discerning the full implications requires cross-reference.",
+  "createdAt": "2025-11-03T16:14:18.398Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

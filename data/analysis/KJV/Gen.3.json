@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Gen.3",
+  "briefOverview": "Genesis 3 narrates the entrance of disobedience into the first human relationship with God, describing the temptation, the act of eating the forbidden fruit, and the resulting judgments and loss of access to the garden.",
+  "summary": "A serpent tempts the woman by questioning God's command; she and Adam eat the fruit of the tree of the knowledge of good and evil. Their eyes are opened, they realize their nakedness, and they hide from God. God questions them, and Adam and Eve shift blame—Adam to the woman, the woman to the serpent. God pronounces consequences: a curse on the serpent, pain in childbirth and a changed relational dynamic for the woman, and cursed ground and toil for the man, culminating in death. God makes garments for them, and to prevent immortality God expels them from Eden and stations cherubim and a flaming sword to guard the tree of life. The chapter ends with a brief promise in verse 15 that contrasts ongoing hostility with a future deliverance between the serpent and the woman's seed.",
+  "externalContext": "Genesis is part of the Pentateuch and reflects ancient Near Eastern literary forms of origin and etiological stories that explain human conditions (mortality, pain, social roles). In its cultural context, trees as sources of life and wisdom are common symbolic motifs, and the serpent can evoke trickster or chthonic imagery in ANE literature. The chapter functions theologically to explain why humans experience shame, labor, suffering, and death, and it sets up themes (sin, judgment, and hope) that shape later biblical reflection.",
+  "externalReferences": "The prohibition about the tree and God's initial command appears in the preceding creation narrative (Genesis 2:16–17). Several New Testament writers treat Adam as a representative figure whose act brings death into the world and contrast him with Christ (for example, Romans 5:12–21 and 1 Corinthians 15:22,45). The tree of life and access to it reappear in Revelation (e.g., Revelation 22:2) and are used there to frame final restoration. Genesis 3:15 has often been read as an early promise of opposition between evil and a deliverer (a theme picked up in later theological traditions).",
+  "seeAlso": [
+    "Genesis 2:16-17",
+    "Genesis 4",
+    "Romans 5:12-21",
+    "1 Corinthians 15:22,45",
+    "Revelation 22:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Temptation and Fall"
+    },
+    {
+      "range": "7-13",
+      "title": "Awareness and Blame"
+    },
+    {
+      "range": "14-24",
+      "title": "Judgment and Expulsion"
+    }
+  ],
+  "themes": [
+    "Temptation",
+    "Disobedience",
+    "Judgment",
+    "Promise"
+  ],
+  "practicalQuestions": [
+    "How can we recognize subtle or persuasive temptations that reframe God's boundaries as restrictive?",
+    "When wrongdoing occurs, how do we take responsibility rather than shifting blame?",
+    "In what ways should communities respond to the consequences of actions while maintaining care for those who suffer?",
+    "How does the picture of being 'covered' (v.21) inform contemporary discussions about shame, restoration, and dignity?"
+  ],
+  "uncertainAreas": "The text leaves open interpretive questions about the serpent's exact identity (literal animal, symbolic figure, or a personified evil agent), the precise meaning of the 'seed' and the mechanics of the promised enmity in verse 15, and the force of phrases like \"and he shall rule over thee\" in verse 16 (various translations and traditions read social dynamics differently). These elements have been read in diverse ways across traditions.",
+  "createdAt": "2025-11-03T14:57:59.622Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

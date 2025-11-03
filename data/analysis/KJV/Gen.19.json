@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Gen.19",
+  "briefOverview": "The chapter recounts the destruction of Sodom and Gomorrah, the rescue of Lot, and the troubling aftermath in which Lot's daughters bear children by their father.",
+  "summary": "Two angels visit Sodom and are hosted by Lot; the city's men surround his house and demand the visitors so they can 'know' them. Lot offers his daughters to protect his guests, but the angels rescue Lot, blind the attackers, and warn him to flee with his family. Lot negotiates to escape to the nearby town of Zoar; God rains brimstone and fire on Sodom and Gomorrah, destroying the plain, and Lot's wife looks back and becomes a pillar of salt. Lot and his daughters settle in a cave; believing no men remain, the daughters intoxicate their father and conceive sons who become the ancestors of the Moabites and Ammonites.",
+  "externalContext": "Ancient Near Eastern hospitality was a powerful social obligation; protecting guests could justify extreme actions in these narratives. The cities of the plain are often located in the southern Levant near the Dead Sea, and the story functions within Genesis as part of the larger ancestral history explaining later Israelite relations with Moab and Ammon. Interpretations vary historically: some ancient and later readers focus on the sexual violence and inhospitality of Sodom, while prophetic texts (e.g., Ezekiel) emphasize social injustice as the core sin.",
+  "externalReferences": "This chapter follows Genesis 18, where Abraham intercedes with God on behalf of Sodom, and the negotiation there explains why Zoar was spared (Genesis 18:16–33). New Testament and apostolic literature refer back to this story when warning about judgment and disobedience (see Luke 17:28–32; 2 Peter 2:6–8; Jude 1:7).",
+  "seeAlso": [
+    "Genesis 18:16-33",
+    "Genesis 13:10-12",
+    "Luke 17:28-32",
+    "2 Peter 2:6-8",
+    "Jude 1:7",
+    "Ezekiel 16:49"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Arrival and Assault"
+    },
+    {
+      "range": "12-23",
+      "title": "Rescue and Escape"
+    },
+    {
+      "range": "24-38",
+      "title": "Destruction and Aftermath"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Hospitality",
+    "Sexual violence",
+    "Compromise"
+  ],
+  "practicalQuestions": [
+    "How should communities protect vulnerable people and strangers today, and what institutions best prevent mob violence?",
+    "When does concern for hospitality or protection excuse morally questionable choices, and how should we judge compromises made under pressure?",
+    "How do we remember and respond to historic wrongdoing without demonizing entire communities or ignoring structural causes?",
+    "What responsibilities do survivors and societies have toward offspring and neighboring groups that arise from traumatic or shameful events?"
+  ],
+  "uncertainAreas": "Ambiguity surrounds the moral evaluation of Lot's actions (offering his daughters) and the daughters' motive (preserving lineage); the text reports events without explicit ethical commentary. The exact nature of the destruction (purely miraculous vs. a natural disaster described religiously) and the historical/archaeological specifics of 'pillar of salt' are also uncertain.",
+  "createdAt": "2025-11-03T15:06:32.325Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

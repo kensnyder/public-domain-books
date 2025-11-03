@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.22",
+  "briefOverview": "Genesis 22 recounts God's test of Abraham by commanding him to offer Isaac and then provides a last‑minute substitution; it closes with a brief genealogy connected to Abraham's family line.",
+  "summary": "God commands Abraham to offer Isaac, described as \"thy son, thine only son,\" as a burnt offering on a mountain in Moriah. Abraham rises early, travels with Isaac, and prepares the wood and altar; Isaac questions where the lamb is, and Abraham replies that God will provide. Abraham binds Isaac and raises the knife, but an angel of the LORD stops him, affirming Abraham's fear of God because he did not withhold his son. A ram caught by its horns is offered in Isaac's place, and Abraham names the place \"Jehovah‑jireh.\" God then reaffirms covenantal promises to Abraham — numerous offspring, possession of enemies' gates, and blessing to all nations through his seed. The chapter ends with Abraham's return to Beer‑sheba and a short genealogy of Nahor, noting that Rebekah was born to Bethuel.",
+  "externalContext": "In the ancient Near East, offering firstborns and the value placed on offspring made the command especially wrenching; at the same time, many cultures practiced or knew of child sacrifice, which colors how ancient audiences might read the narrative. The Hebrew verb translated \"tempt\" or \"test\" (נָסָה, nâsâh) often denotes a trial that reveals character. \"Only son\" highlights Isaac's status as the child of promise (despite Ishmael's existence), stressing theological — not strictly biological — uniqueness. Later Jewish tradition identifies Mount Moriah with the site of Solomon's Temple (see 2 Chronicles 3:1), a connection that shapes later interpretation.",
+  "externalReferences": "The chapter resonates with earlier promises about Isaac as the child of promise (Genesis 17:19; Genesis 21:1–3) and with God's wider covenantal blessing to Abraham (Genesis 12:2–3). The name and location \"Moriah\" are later linked in biblical tradition with the Temple mount (2 Chronicles 3:1). Christians often read this episode typologically in relation to substitutionary atonement themes (e.g., parallels drawn with Isaiah 53), though such typologies are interpretive overlays rather than explicit in the Genesis text itself.",
+  "seeAlso": [
+    "Genesis 17:19",
+    "Genesis 21:1-3",
+    "Genesis 12:2-3",
+    "2 Chronicles 3:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "The Testing of Abraham"
+    },
+    {
+      "range": "15-18",
+      "title": "Promise Renewed"
+    },
+    {
+      "range": "19-24",
+      "title": "Return and Genealogy"
+    }
+  ],
+  "themes": [
+    "Faith/Obedience",
+    "Sacrifice/Substitution",
+    "Divine Provision",
+    "Covenant Promise"
+  ],
+  "practicalQuestions": [
+    "When facing difficult moral demands, how do we discern obedience to conscience versus obedience to perceived religious commands?",
+    "What does the phrase \"God will provide\" mean for how we respond to fear, loss, or scarcity today?",
+    "How should communities remember and interpret episodes where God appears to command ethically troubling acts?",
+    "In what practical ways can we show faith that risks comfort for the sake of trust in a larger promise?"
+  ],
+  "uncertainAreas": "Ambiguity surrounds the word translated \"tempt\" (test vs. tempt) and the theological meaning of \"only son\" given Ishmael's presence. The identity of the angel of the LORD (a theophany or distinct messenger) and the precise location of Moriah (textually uncertain but later tradition links it to Jerusalem) are also interpretive flashpoints.",
+  "createdAt": "2025-11-03T15:08:05.107Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

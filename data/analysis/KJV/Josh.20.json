@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Josh.20",
+  "briefOverview": "God instructs Joshua to designate six cities of refuge so those who kill unintentionally can find asylum from blood vengeance.",
+  "summary": "The chapter directs Joshua to tell Israel to set apart cities of refuge previously commanded through Moses so that someone who kills another unintentionally may flee there and be protected from the avenger of blood. The procedure requires the fleeing person to appear at the city gate and present his case to the city elders, who must admit him and provide a place to live. The avenger is forbidden to seize the person while he is under asylum. The resident must remain in the city until he stands trial before the congregation and until the death of the current high priest, after which he may return home. Six specific cities are listed: three west of the Jordan (Kedesh in Naphtali, Shechem in Ephraim, Kirjath-arba/Hebron in Judah) and three east of the Jordan (Bezer in Reuben, Ramoth in Gilead for Gad, and Golan in Bashan for Manasseh). The law applies to Israelites and to sojourners dwelling among them.",
+  "externalContext": "Cities of refuge reflect ancient concerns about blood-vengeance and the need for communal legal procedures to restrain private revenge; similar sanctuary practices appear in other ancient Near Eastern cultures. The 'avenger of blood' (go'el ha-dam) was typically a relative responsible for pursuing the killer, and the 'congregation' (qahal) functioned as Israel's assembly for judgment. The death of the high priest as the temporal limit likely ties the asylum to a central cultic/legal marker rather than a fixed term of years.",
+  "externalReferences": "The chapter echoes and implements earlier legal instructions given under Moses, especially Numbers 35:9–34 and Deuteronomy 19:1–13, which prescribe cities of refuge and rules distinguishing murder from unintentional killing. Joshua 21 also deals with city allocations (especially Levitical cities) that intersect with the locations named here.",
+  "seeAlso": [
+    "Numbers 35:9-34",
+    "Deuteronomy 19:1-13",
+    "Joshua 21",
+    "Genesis 4:14-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Rules for Asylum"
+    },
+    {
+      "range": "7-9",
+      "title": "List of Cities"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Sanctuary",
+    "Intentionality",
+    "Community protection"
+  ],
+  "practicalQuestions": [
+    "How should modern communities distinguish between intentional harm and accidents when determining protection or punishment?",
+    "What institutions today serve as 'cities of refuge' for vulnerable people, and how can they be strengthened?",
+    "How can legal systems balance the rights of victims and families with protections against private vengeance?",
+    "In what ways should hospitality extend to non-citizens ('sojourners') in matters of justice and safety?"
+  ],
+  "uncertainAreas": "Exact historical locations of some ancient sites and the precise legal implications of 'until the death of the high priest' (e.g., whether that denotes full pardon or simply release from asylum) are open to interpretation.",
+  "createdAt": "2025-11-03T16:44:50.755Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Exod.27",
+  "briefOverview": "Detailed instructions for the construction and furnishing of the altar and the outer court of the tabernacle, plus a command about the lamp oil and priestly duty.",
+  "summary": "Verses 1–8 give specifications for the altar of burnt offering: a hollow acacia (shittim)wood altar five cubits square and three cubits high, with horns on the four corners, overlaid with brass, fitted with brass utensils, a brass grate and carrying staves, to be made as shown on the mountain. Verses 9–19 describe the court around the tabernacle: measurements (100 by 50 cubits, height five cubits), hangings of fine twined linen, numbers of pillars and sockets, the embroidered gate of blue, purple and scarlet, and the metal finishes (silver fillets and hooks, brass sockets); all pins and many vessels are to be brass. Verses 20–21 command the people to bring pure beaten olive oil for the continual lamp, and require Aaron and his sons to tend the lamp from evening to morning as an enduring statute for Israel.",
+  "externalContext": "Shittim (acacia) wood and bronze (often translated brass) were common durable materials in the ancient Near East and suited a portable sanctuary. The cubit was a standard ancient unit (roughly 45–50 cm, though values vary), so the tabernacle court dimensions describe a substantial open enclosure. The tabernacle functioned as Israel’s portable cultic center during the wilderness period; precise technical instruction emphasizes order, purity, and replicability by skilled craftsmen working from a divine pattern.",
+  "externalReferences": "The command to make things “as it was shewed thee in the mount” echoes the pattern motif elsewhere (see Exodus 25:40). The instruction about the lamp and Aaron’s duty is developed later in Exodus 30:7–8 and parallels regulations for the golden lampstand and its maintenance (compare Leviticus 24:1–4). The broader tabernacle construction and furnishings are detailed across Exodus 25–31, which together form the set of Sinai cultic instructions.",
+  "seeAlso": [
+    "Exodus 25:40",
+    "Exodus 26:1-37",
+    "Exodus 30:7-8",
+    "Leviticus 24:1-4",
+    "Exodus 25:10-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Altar of Burnt Offering"
+    },
+    {
+      "range": "9-19",
+      "title": "Court and Hangings"
+    },
+    {
+      "range": "20-21",
+      "title": "Lamp and Priestly Duty"
+    }
+  ],
+  "themes": [
+    "Tabernacle construction",
+    "Priestly service",
+    "Sacred order",
+    "Cultic continuity"
+  ],
+  "practicalQuestions": [
+    "How does careful attention to measurements and materials shape a community’s sense of reverence and order in worship?",
+    "In what ways can contemporary worship communities preserve the intent of continual practices (like the lamp) while translating them into different cultural contexts?",
+    "What does the requirement that artisans follow a divine pattern teach about the relationship between human craft and religious authority?",
+    "How might leaders today ensure that routine religious duties remain meaningful rather than merely mechanical?"
+  ],
+  "uncertainAreas": "Exact material identifications (e.g., ‘brass’ may refer to bronze or another alloy) and the precise length of a cubit are variable; the phrase “hollow with boards” has been interpreted in different ways (solid versus hollow construction). The text’s brief statement that the lamp duty is “a statute for ever” leaves room for debate about how perpetual practices are to be adapted across changing historical circumstances.",
+  "createdAt": "2025-11-03T15:37:41.184Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

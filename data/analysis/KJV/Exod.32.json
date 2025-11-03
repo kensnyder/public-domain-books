@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Exod.32",
+  "briefOverview": "A crisis of idolatry at Sinai: Israel makes and worships a golden calf while Moses is absent, provoking divine wrath and Moses' urgent intercession.",
+  "summary": "When Moses delays coming down from the mountain the people pressure Aaron to make gods; he fashions a golden calf from their gold and the people celebrate with sacrifices and revelry. God tells Moses he will consume the people for their corruption and proposes to make Moses into a great nation instead. Moses intercedes, appealing to God's reputation and covenant with the patriarchs, and God relents. Moses returns, sees the worship, smashes the two stone tablets, destroys the calf, grinds it to powder, and makes the people drink it. He confronts Aaron, calls for those loyal to the LORD, and the Levites execute about three thousand men. Moses again pleads to make atonement, even offering his own name to be blotted out; God replies that the guilty will be blotted out and pronounces a plague on the people.",
+  "externalContext": "The episode fits the broader Sinai covenant setting (the giving of the law) and reflects ancient Near Eastern practices where bull or calf images (e.g., Apis, Canaanite bull imagery) served as cultic symbols. The narrative also functions etiologically in Israelite tradition to explain the Levites' special role and to underline the seriousness of idolatry for a people just delivered from Egypt.",
+  "externalReferences": "The chapter is set immediately after the covenant material in Exodus 19–20, which establishes the commandments the people violate here. Deuteronomy 9:7–21 retells and reflects on this same incident, including Moses' breaking of the tablets and his intercession. The New Testament alludes to the episode as a warning against idolatry and unfaithfulness (1 Corinthians 10:7) and Stephen recounts it in Acts 7:41–43 when summarizing Israel's repeated rebellions.",
+  "seeAlso": [
+    "Exodus 19:1-25",
+    "Deuteronomy 9:7-21",
+    "Acts 7:41-43",
+    "1 Corinthians 10:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Calf Made and Worship"
+    },
+    {
+      "range": "7-14",
+      "title": "Divine Anger and Intercession"
+    },
+    {
+      "range": "15-35",
+      "title": "Moses' Response and Punishment"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Intercession",
+    "Covenant",
+    "Leadership/accountability"
+  ],
+  "practicalQuestions": [
+    "When leaders are absent or delayed, how can communities resist pressure to abandon core commitments?",
+    "What modern practices or priorities function as 'idols' that divert communal loyalties?",
+    "How should leaders balance accountability, public justice, and mercy when dealing with corporate sin?",
+    "What does Moses' intercession teach about taking responsibility and advocating for others in the face of communal wrongdoing?",
+    "How can a community repair trust after a public breach of covenantal commitments?"
+  ],
+  "uncertainAreas": "Aaron's level of culpability is ambiguous—his explanations (v.24) can read as evasive or as describing a ritual process. The verse saying God 'repented' (v.14) uses anthropomorphic language whose theological implications are debated. The precise meaning and purpose of making the people drink the powdered calf is unclear (ritual humiliation, symbolic ingestion, or other). The 'book' Moses offers to be blotted out from is not fully explained in the text.",
+  "createdAt": "2025-11-03T15:40:14.718Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Judg.6",
+  "briefOverview": "God raises Gideon to deliver Israel from Midianite oppression, calling and confirming him through a theophany and signs while confronting local idolatry.",
+  "summary": "Israel falls into a cycle of sin and is oppressed by the Midianites, who ravage the land for seven years until the people cry to the LORD. A prophet reminds them of God's past deliverance from Egypt and their failure to obey. An angel of the LORD appears to Gideon while he hides threshing wheat, calls him to save Israel, and reassures him that God will be with him. Gideon offers a sacrifice consumed by fire, builds an altar named Jehovah-shalom, and at God's command destroys his father's altar to Baal and the nearby grove. His act provokes local outrage but his father defends him; Gideon is nicknamed Jerubbaal. The Spirit of the LORD empowers him, men from several tribes gather, and Gideon tests God twice with a fleece to confirm the promised deliverance.",
+  "externalContext": "The Book of Judges is set in the pre-monarchic period of Israel (roughly the late second to early first millennium BCE in traditional chronology) when Israel functioned as a loose tribal confederation without a central king. Midianites and other eastern nomads are depicted as periodic raiders who could devastate harvests and livestock; such raids are consistent with patterns of nomadic incursions in the ancient Near East. The household cult of Baal and associated sacred trees or groves (often linked with Asherah) competed with Yahwistic worship in many Israelite households, creating frequent local religious conflict.",
+  "externalReferences": "The narrative fits the recurring Judges pattern of sin, oppression, crying out, and deliverance described earlier in Judges 2:11–19. The angel of the LORD theophany here echoes other Old Testament divine appearances (e.g., Exodus 3:1–6; Genesis 18), where a divine messenger speaks with authority and evokes worshipful fear. The chapter's reminder of God bringing Israel out of Egypt alludes broadly to the Exodus tradition (for example, Exodus 3 and the crossing in Exodus 14) as the basis for God's claim to Israel. The military episode begun here is continued and fulfilled in the account of Gideon's campaign in Judges 7–8.",
+  "seeAlso": [
+    "Judges 2:11-19",
+    "Exodus 3:1-6",
+    "Exodus 14:1-31",
+    "Judges 7:1-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Oppression and Rebuke"
+    },
+    {
+      "range": "11-24",
+      "title": "Call of Gideon"
+    },
+    {
+      "range": "25-40",
+      "title": "Idolatry Confronted and Confirmation"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Calling",
+    "Idolatry",
+    "Faith and Doubt"
+  ],
+  "practicalQuestions": [
+    "When facing communal or personal hardship, how should we balance lament with responsibility and action?",
+    "What signs or confirmations should we seek before taking risky steps that claim divine backing?",
+    "How can a community confront idolatry or harmful cultural practices while avoiding unnecessary violence or dishonor to others?",
+    "How do we recognize and respond to calls to leadership when we feel inadequate?"
+  ],
+  "uncertainAreas": "The precise nature of the 'angel of the LORD' (divine theophany vs. prophetic messenger) is theologically debated and not resolved by the text itself. The historical details—chronology, exact identity of the Midianite coalition, and archaeological correlates—are uncertain and debated among scholars. The intent and ethical implications of Gideon's destruction of cultic objects raise interpretive questions about community authority and religious reform.",
+  "createdAt": "2025-11-03T16:49:15.068Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

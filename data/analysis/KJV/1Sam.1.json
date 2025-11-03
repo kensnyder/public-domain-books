@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "1Sam.1",
+  "briefOverview": "The chapter narrates Hannah’s struggle with barrenness, her sincere prayer and vow at Shiloh, and the birth and dedication of her son Samuel to the LORD.",
+  "summary": "Elkanah, a man of Ramathaim-zophim, has two wives: Peninnah, who bears children, and Hannah, who is barren and deeply grieved by her rival’s provocation. Each year the family goes to worship at Shiloh, where Hannah pours out her soul in silent, fervent prayer and makes a vow that if God gives her a son she will dedicate him to the LORD and that no razor shall touch his head. Eli the priest initially mistakes her for a drunk, but when he learns she is praying he blesses her and she leaves in peace. God remembers Hannah; she conceives and names her son Samuel. After weaning him she brings him to Shiloh with sacrificial gifts and formally dedicates him to the LORD, saying she has lent him to the Lord for life.",
+  "externalContext": "Shiloh was an early central sanctuary for Israelite worship before the Temple in Jerusalem was built. In ancient Israel social status and family continuity were strongly tied to bearing children, so barrenness carried social stigma and emotional pain. Vows of dedication and specialized hair practices recall normative Israelite practices (e.g., the Nazirite tradition) and reflect common ways families made religious commitments. Polygynous family structures, like Elkanah’s two wives, often produced rivalry and social strain.",
+  "externalReferences": "This narrative fits a recurring biblical pattern of God answering the prayers of previously barren women (cf. Genesis 21:1–7 for Sarah and Genesis 30:22 for Rachel). Hannah’s vow that no razor shall touch her son resembles the Nazirite rule described in Numbers 6:1–21, though Samuel’s lifelong temple service is specific to this story. Hannah’s later song of thanksgiving in 1 Samuel 2:1–10 echoes theological themes introduced here (God’s reversal of fortunes, the gift of children, and dedication to the LORD).",
+  "seeAlso": [
+    "Numbers 6:1-21",
+    "Genesis 30:22",
+    "Genesis 21:1-7",
+    "1 Samuel 2:1-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Family Rivalry and Sorrow"
+    },
+    {
+      "range": "9-18",
+      "title": "Hannah's Prayer and Eli"
+    },
+    {
+      "range": "19-28",
+      "title": "Birth and Dedication"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Barrenness",
+    "Vow/Dedication",
+    "Divine faithfulness"
+  ],
+  "practicalQuestions": [
+    "How can communities provide compassionate support to people who experience infertility or social marginalization?",
+    "When is it appropriate to make serious religious vows, and how should families honor them?",
+    "How should leaders and worshiping communities discern between genuine spiritual expression and behavior they misunderstand?",
+    "What practices help a person translate private grief into public acts of gratitude or service?"
+  ],
+  "uncertainAreas": "It is not explicit whether Hannah’s restriction that no razor touch Samuel is intended as a formal Nazirite vow (Numbers 6) or a different form of dedication. The precise nature and duties of Samuel’s service in the house of the LORD at Shiloh are not fully described here; later chapters clarify his role. The text leaves some ambiguity about the social dynamics (e.g., the legal status of polygamy and the formal process of dedicating a child) that require broader cultural-historical reconstruction.",
+  "createdAt": "2025-11-03T17:00:24.958Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

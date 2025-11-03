@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Num.13",
+  "briefOverview": "Moses sends twelve tribal leaders to scout Canaan; they return with fruit and conflicting reports that divide the community between faith and fear.",
+  "summary": "God instructs Moses to send one leader from each Israelite tribe to spy out Canaan. The spies survey the land for forty days, bring back a large cluster of grapes and other produce as evidence that the land is fertile, and report that it 'flows with milk and honey.' Caleb urges immediate conquest, but ten spies give a fearful report about fortified cities, powerful peoples (including the Anakim), and describe themselves as 'grasshoppers' by comparison. The chapter ends with the people's alarm and the negative report taking hold of the congregation.",
+  "externalContext": "Sending reconnaissance parties was a common ancient Near Eastern practice before military campaigns or settlement; here it functions as both a practical survey and a test of Israel's resolve. Hebron and the Anakim were known in Canaanite and Israelite traditions as associated with large, fortified settlements, so the spies' reference to giants reflects established local reputations. The renaming of Oshea to Jehoshua (Joshua) signals his emerging leadership role, later attested in the conquest narratives.",
+  "externalReferences": "The immediate consequences of this spying mission—Israel's refusal to enter Canaan, divine judgment, and the prominence of Caleb and Joshua as faithful—are narrated in Numbers 14 (esp. 6–10, 22–24). The presence of the Anakim and references to 'giants' appear elsewhere (Deuteronomy 9:2; Joshua 15:13–14), and Caleb's later receipt of Hebron is recounted in Joshua 14:6–15.\n\nDeuteronomy 1:19–46 retells this episode in Moses' retrospective address, offering an interpretive summary of the spies' failure and Israel's unbelief.",
+  "seeAlso": [
+    "Numbers 14:6-10",
+    "Numbers 14:22-24",
+    "Deuteronomy 1:19-46",
+    "Deuteronomy 9:2",
+    "Joshua 14:6-15",
+    "Joshua 15:13-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Commission of Spies"
+    },
+    {
+      "range": "17-25",
+      "title": "Instructions and Reconnaissance"
+    },
+    {
+      "range": "26-33",
+      "title": "Report and Reactions"
+    }
+  ],
+  "themes": [
+    "Reconnaissance",
+    "Faith versus Fear",
+    "Leadership",
+    "Promise of Land"
+  ],
+  "practicalQuestions": [
+    "When facing a risky decision, how should communities balance realistic assessment with trust in their commitments or promises?",
+    "How can leaders model courage like Caleb when the majority is fearful or pessimistic?",
+    "What responsibilities do those who give negative reports have to the wider community, and how should communities evaluate such reports?",
+    "How do symbols of provision (the grapes, figs, pomegranates) shape our hopes in moments of uncertainty?"
+  ],
+  "uncertainAreas": "Uncertainty remains about how literally to read the 'giants' and the spies' self-comparison to 'grasshoppers'—whether these are hyperbole, ethnographic description, or theological framing. The text does not report the motivations or internal deliberations of the ten negative spies beyond fear, leaving open questions about possible political or social dynamics behind their report. The parenthetical note about Hebron's age ('seven years before Zoan') is unexplained in this chapter and its precise significance is unclear here.",
+  "createdAt": "2025-11-03T16:06:38.170Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

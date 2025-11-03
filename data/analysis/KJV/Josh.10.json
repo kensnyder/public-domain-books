@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Josh.10",
+  "briefOverview": "Joshua 10 recounts a decisive military campaign in which Israel rescues the allied city of Gibeon, defeats a coalition of Amorite kings with divine help, and completes the conquest of several southern Canaanite city-states.",
+  "summary": "When Adoni‑zedek of Jerusalem learns that Gibeon has made peace with Israel, he assembles four neighboring kings to besiege Gibeon. The Gibeonites appeal to Joshua, who attacks by night after God assures him of victory; the Israelites rout the coalition, and large stones from heaven (hail) kill more men than the sword. Joshua asks the LORD to make the sun and moon stand still to complete the victory, an event described as unparalleled and linked to the noncanonical 'book of Jasher.' The five enemy kings hide in a cave, are captured, displayed with feet on their necks, executed, hung, and then returned to the cave; Joshua then systematically captures and destroys a series of cities (Makkedah, Libnah, Lachish, Eglon, Hebron, Debir) in obedience to the divine command to leave none remaining, after which he returns to Gilgal.",
+  "externalContext": "The narrative reflects the Late Bronze Age/early Iron Age milieu of Canaan, where small independent city‑states and their kings frequently formed coalitions and made treaties. The practice of herem (the ban or utter destruction) appears in other Israelite texts as a religiously sanctioned wartime practice. References to an external 'book of Jasher' indicate the existence of other ancient Israelite victory songs or records now lost. Hail as a divine weapon is a common motif in ancient Near Eastern literature and in the Hebrew Bible (e.g., Exodus 9).",
+  "externalReferences": "This chapter echoes earlier conquest narratives about Jericho and Ai (see Joshua 6 and 8) and follows the pattern of divine assistance in battle found in Exodus 14 (the LORD fighting for Israel at the sea). The theme of herem (total destruction) is legislated in Deuteronomy 7:2 and 20:16–18, which prescribe putting certain populations under the ban. The cited 'book of Jasher' is referenced elsewhere in the Hebrew Bible (see 2 Samuel 1:18) as a source of ancient songs or records.",
+  "seeAlso": [
+    "Joshua 6",
+    "Joshua 8",
+    "Exodus 14",
+    "Deuteronomy 7:2",
+    "Deuteronomy 20:16-18",
+    "2 Samuel 1:18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Gibeon's Appeal and Battle"
+    },
+    {
+      "range": "12-15",
+      "title": "Sun and Moon Stand Still"
+    },
+    {
+      "range": "16-28",
+      "title": "Capture of Five Kings"
+    }
+  ],
+  "themes": [
+    "Divine warfare",
+    "Victory",
+    "Herem (utter destruction)",
+    "Miraculous intervention"
+  ],
+  "practicalQuestions": [
+    "How should modern readers interpret and respond to biblical passages that describe total destruction (herem) carried out in the name of God?",
+    "What does Joshua’s leadership—responding quickly to an allied plea and trusting divine guidance—suggest about making moral and strategic decisions in crises today?",
+    "How do communities reconcile accounts of divine intervention with scientific understandings of natural phenomena (e.g., hail or astronomical references)?",
+    "When the text cites now‑lost sources (like the book of Jasher), how should that affect our reading of the canonical narrative and its historical claims?"
+  ],
+  "uncertainAreas": "The historicity and precise meaning of the sun‑standing‑still episode (literal astronomical event, poetic hyperbole, or theological interpretation) are debated; the 'book of Jasher' is a lost source of uncertain contents; archaeological evidence for the wholesale destruction of all these cities in a single campaign is complex and contested; the exact nuance of phrases like 'hanged them on five trees' (display after execution) rests on interpretive and linguistic questions.",
+  "createdAt": "2025-11-03T16:40:01.041Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.23",
+  "briefOverview": "Deuteronomy 23 collects laws about who may participate in Israel's assembly, how the camp must remain ceremonially clean, and several social and economic regulations governing community life.",
+  "summary": "The chapter prohibits certain persons from entering \"the congregation\" (eunuchs, mamzerim, and, unusually, Ammonites and Moabites) while permitting Edomites and Egyptians or their descendants after a generation. It explains the reason for the Ammonite/Moabite exclusion (failure to provide hospitality and hiring Balaam) and insists on perpetual refusal of their peace. Rules for camp purity follow: those ceremonially unclean by nocturnal impurity must leave the camp but may return after washing; digging and covering human waste is required because \"the LORD...walketh in the midst of thy camp.\" The text forbids returning runaway slaves, bans cultic payments from prostitution and certain sexual practices among Israelites, and regulates lending without interest to fellow Israelites while permitting interest to foreigners. Finally, it demands faithful fulfillment of vows and allows limited gleaning/eating in a neighbor's vineyard or standing grain (but not taking produce away in vessels or with a sickle).",
+  "externalContext": "Deuteronomy is framed as Moses' final speeches to Israel before entry into Canaan and reflects concerns about tribal cohesion, ritual access, and social stability in a settled, agrarian society. Issues like camp sanitation reflect practical wartime and nomadic realities; prohibitions on interest and obligations to the poor tie into broader ancient Near Eastern norms about kinship responsibility. The Balaam reference points back to an episode in the wilderness (see Numbers) that functioned as a formative tradition explaining relations with neighboring peoples.",
+  "externalReferences": "The Balaam narrative referred to here is narrated in Numbers 22–24, where Balaam is hired to curse Israel but ends up blessing them. Laws about interest and lending to kin resonate with Exodus 22:25 and Leviticus 25:35–37, which also protect the needy from exploitation. Vow-obligations have parallels in Numbers 30, which details regulations for vows and their binding force.",
+  "seeAlso": [
+    "Numbers 22-24",
+    "Exodus 22:25",
+    "Leviticus 25:35-37",
+    "Numbers 30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Exclusions from Assembly"
+    },
+    {
+      "range": "9-14",
+      "title": "Camp Purity and Sanitation"
+    },
+    {
+      "range": "15-25",
+      "title": "Social, Cultic, Economic Rules"
+    }
+  ],
+  "themes": [
+    "Ritual purity",
+    "Inclusion/Exclusion",
+    "Social justice",
+    "Vows and obligations"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities balance protecting boundaries with hospitality toward outsiders and marginalized people?",
+    "In what ways do the chapter's camp sanitation rules inform modern responsibilities for public health and communal spaces?",
+    "How can we apply the principle of interest-free support for 'brothers' to modern practices of lending, debt relief, and economic solidarity?",
+    "What ethical obligations do vows and promises place on individuals and communities today, and how should they be enforced or honored?",
+    "How should modern communities treat escaped or vulnerable individuals seeking refuge within their borders?"
+  ],
+  "uncertainAreas": "Translation and application of several terms are ambiguous: \"bastard\" (Hebrew mamzer) has a specific hereditary/lineage meaning whose social scope is debated; \"sodomite\" in verse 17 likely refers to male cultic prostitutes rather than a broad modern category, but the text is terse. The practical meaning of \"not enter into the congregation\" (ritual exclusion vs. civic exclusion) and how the multi-generational bans were implemented historically are uncertain. The duration and later modification of the Ammonite/Moabite prohibition in Israelite practice is also unclear from this chapter alone.",
+  "createdAt": "2025-11-03T16:30:27.108Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

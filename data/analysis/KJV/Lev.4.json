@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.4",
+  "briefOverview": "Leviticus 4 prescribes sin-offerings for unintentional sins, detailing different procedures depending on the offender's status (priest, whole congregation, ruler, or individual). The chapter explains ritual acts (laying on of hands, blood sprinkling, burning) that secure atonement and removal from the camp.",
+  "summary": "The chapter opens with a rule for sins committed unknowingly and then gives step-by-step procedures for sin offerings. An anointed priest who sins must present a young bull (without blemish), lay hands on it, and the priest sprinkles its blood, places some on the incense altar horns, burns the fat on the altar, and carries the carcass outside the camp to be burned. If the entire congregation sins unknowingly, they offer a similar bull with elders laying hands on it and the priest performing the atonement rites. A ruler who sins brings a male kid of the goats; a common person brings a female kid or a lamb depending on the case—each offering involves laying on of hands, slaughter, blood application on the altar horns, burning of fat, and the priest making atonement so that the sin is forgiven.",
+  "externalContext": "In ancient Israel the sacrificial system centered on the tabernacle/temple and the priesthood; the 'anointed priest' normally denotes the high priest who had unique cultic responsibilities. Ritual gestures here—laying on of hands (transfer of guilt), blood sprinkling, and burning outside the camp—reflect widespread ancient Near Eastern ideas linking blood, purity, and removal of defilement. The differentiation of offerings by social status (priest, community, leader, commoner) corresponds to the community's concern for proportional responsibility and public restoration.",
+  "externalReferences": "This chapter fits within the broader sacrificial legislation of Leviticus (see Leviticus 1–7 for other offerings and procedures) and is closely related to the Day of Atonement rites in Leviticus 16 which also use blood and ritual actions to secure atonement. Numbers 15:22–31 distinguishes unintentional from willful sin and outlines communal consequences for inadvertent violations, a concept echoed here.",
+  "seeAlso": [
+    "Leviticus 1-7",
+    "Leviticus 16",
+    "Numbers 15:22-31",
+    "Hebrews 9:6-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-12",
+      "title": "Priestly Sin Offering"
+    },
+    {
+      "range": "13-21",
+      "title": "Congregational Sin Offering"
+    },
+    {
+      "range": "22-35",
+      "title": "Ruler and Individual Offerings"
+    }
+  ],
+  "themes": [
+    "Atonement",
+    "Sacrifice",
+    "Ritual Purity",
+    "Responsibility"
+  ],
+  "practicalQuestions": [
+    "How should a modern community address harms done unintentionally—what forms of restitution or symbolic repair are appropriate?",
+    "What responsibilities do leaders bear when their actions harm the community, and how can accountability be balanced with restoration?",
+    "How do ritual practices or symbolic acts (e.g., acknowledgment, public apology) function to restore relationships today?",
+    "In what ways does distinguishing intent (intentional vs. unintentional) matter for modern moral and legal responses?"
+  ],
+  "uncertainAreas": "The text's technical cultic language leaves open how some terms were precisely understood in daily life (e.g., the exact identity of 'the anointed priest' here — whether strictly the high priest — and the full symbolic significance of sprinkling 'seven times'). The prescribed distinctions by status raise questions about proportionality and why the congregation's remedy mirrors the priest's exactly; the chapter does not explain theological rationale in detail.",
+  "createdAt": "2025-11-03T15:46:51.460Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.14",
+  "briefOverview": "Samson pursues a Philistine wife, demonstrates superhuman strength in killing a lion, and initiates violent conflict with Philistines through a wedding riddle and subsequent revenge.",
+  "summary": "Samson sees and insists on marrying a Philistine woman from Timnath, despite his parents' objections. On the way he kills a lion by the power of the Spirit of the LORD and later finds honey in the lion's carcass. At his wedding feast Samson poses a riddle based on this episode; when the Philistine guests coerce his wife to extract the answer, they solve the riddle and Samson retaliates by killing thirty men in Ashkelon and giving their garments to those who answered the riddle. The narrative ends with Samson's relationship breaking down as his wife is given to his companion, setting up further conflict with the Philistines.",
+  "externalContext": "The book of Judges is set in the period of Israel's tribal confederacy before the monarchy, a time marked in the book by decentralized leadership and repeated cycles of oppression by neighboring peoples such as the Philistines. Samson is introduced earlier as a Nazirite set apart from birth (Judges 13) and his exploits are framed as acts in the larger struggle between Israel and the Philistines. Wedding feasts and riddles are attested in ancient Near Eastern culture as part of social and ritual life; intermarriage with neighboring peoples was controversial within Israelite tradition.",
+  "externalReferences": "Samson's Nazirite status and birth announcement are recorded in Judges 13:2–25, which frames his life as divinely appointed. The motif of the Spirit of the LORD empowering deliverers appears elsewhere in Judges (e.g., Judges 3:10; 6:34) and helps explain the account's portrayal of supernatural strength. Samson's later actions against the Philistines continue in Judges 15–16, culminating in his betrayal by Delilah (Judges 16:4–31).",
+  "seeAlso": [
+    "Judges 13:2-25",
+    "Judges 3:10",
+    "Judges 6:34",
+    "Judges 15:1-20",
+    "Judges 16:4-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Desire for Philistine Wife"
+    },
+    {
+      "range": "5-9",
+      "title": "Lion and Honey"
+    },
+    {
+      "range": "10-20",
+      "title": "Riddle and Vengeance"
+    }
+  ],
+  "themes": [
+    "Divine purpose",
+    "Spirit empowerment",
+    "Intercommunal conflict",
+    "Betrayal and revenge"
+  ],
+  "practicalQuestions": [
+    "How should personal desires be weighed against communal laws and responsibilities today?",
+    "When someone is used as an instrument of justice or judgment, how ought communities to respond ethically?",
+    "What are healthy ways to respond to betrayal and humiliation without resorting to escalating violence?",
+    "How do we read stories that portray divinely ordained actions alongside morally problematic human behavior?"
+  ],
+  "uncertainAreas": "The text ambiguously balances divine agency and Samson's personal motives—it's unclear to what extent his marriage choice is divinely directed versus impulsive. The moral evaluation of Samson's violent retaliation is also uncertain: the narrative describes events without explicit ethical judgment. Details like how bees nested in a carcass and the social norms of the wedding-feast riddle rely on cultural assumptions not fully explained in the chapter.",
+  "createdAt": "2025-11-03T16:53:54.706Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

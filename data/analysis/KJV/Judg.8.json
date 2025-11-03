@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.8",
+  "briefOverview": "Gideon completes his campaign against Midian, punishes towns that refused aid, refuses kingship, fashions an ephod from the spoil, and after his death Israel lapses into idolatry.",
+  "summary": "After the victory over Midian, the tribe of Ephraim rebukes Gideon for not calling them; he defuses their anger. Gideon and his three hundred men pursue the fleeing Midianite forces, capture the kings Zebah and Zalmunna, and rout the remaining host at Karkor. He punishes the towns of Succoth and Penuel for refusing aid, executes the two Midianite kings personally, and declines the Israelites' request to rule over them, insisting that the LORD should rule. Gideon requests the gold earrings from the spoil and fashions them into an ephod that becomes an object of veneration in Ophrah. The land enjoys forty years of peace, Gideon dies leaving many sons (including Abimelech), and the people quickly return to worshipping Baal-berith, neglecting Gideon’s house.",
+  "externalContext": "The Book of Judges depicts a loosely organized period in Israel’s history (roughly late Bronze–early Iron Age) when leadership was often charismatic and regional rather than centralized. Tribal rivalries (for example, Ephraim’s sensitivity to exclusion) and the taking of plunder by desert peoples like the Midianites and Ishmaelites are historically plausible background. An ephod was normally a priestly garment detailed in Exodus, so making a gold ephod from war booty could blur lines between legitimate cult objects and local idolatrous practice.",
+  "externalReferences": "The narrative continues themes from Judges 6–7 where Gideon is called (Judges 6) and leads a reduced force to victory over Midian (Judges 7). The later account of Abimelech’s ambition and violence follows in Judges 9, arising directly from Gideon’s many sons (Judges 9:1–6). The cyclical pattern of Israel’s faithfulness and relapse also echoes the summary in Judges 2:11–19; the ephod as a priestly garment is described in Exodus 28.",
+  "seeAlso": [
+    "Judges 6:11-40",
+    "Judges 7",
+    "Judges 9:1-6",
+    "Judges 2:11-19",
+    "Exodus 28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Ephraim's Complaint"
+    },
+    {
+      "range": "4-21",
+      "title": "Pursuit and Retribution"
+    },
+    {
+      "range": "22-35",
+      "title": "Ephod, Death, Relapse"
+    }
+  ],
+  "themes": [
+    "Leadership",
+    "Retribution",
+    "Idolatry",
+    "Faithlessness"
+  ],
+  "practicalQuestions": [
+    "How should modern leaders respond when excluded or criticized by peers or other constituencies?",
+    "What safeguards can communities put in place so religious symbols do not become objects of misplaced devotion?",
+    "How do we recognize and counter communal relapse after a season of spiritual renewal?",
+    "In seeking justice or retribution, how can one avoid acts that perpetuate cycles of violence?"
+  ],
+  "uncertainAreas": "Degree to which Gideon's ephod was intended as worship versus a commemorative/priests' item is ambiguous. The literalness of punishments (tearing flesh with thorns, breaking towers) could be rhetorical or historic; motivations behind making the ephod (piety, vanity, political consolidation) are not fully spelled out in the text.",
+  "createdAt": "2025-11-03T16:50:07.585Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

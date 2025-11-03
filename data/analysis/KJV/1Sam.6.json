@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "1Sam.6",
+  "briefOverview": "The chapter narrates the Philistines' return of the captured Ark of the LORD and the immediate, dramatic consequences when the ark reaches Israelite soil.",
+  "summary": "After seven months the Philistines seek how to send the ark back and are advised to return it with a trespass offering (five golden emerods and five golden mice). They place the ark on a new cart drawn by two unyoked milch kine which go straight to Beth-shemesh; the Philistine rulers return home. The people of Beth-shemesh rejoice, offer sacrifices, and the Levites set the ark upon a great stone. However, many inhabitants of Beth-shemesh are struck down for looking into the ark, producing lamentation, and the survivors send messengers to Kirjath-jearim to fetch the ark away.",
+  "externalContext": "The Philistines were a powerful, settled Aegean-derived people in the southern coastal plain of Canaan and had earlier captured the ark in battle (see 1 Samuel 4–5). The ark functioned as the central cultic symbol of Israel’s covenantal presence, and ancient Israelite law and practice strictly regulated who could handle or approach the ark (e.g., Levites carried sacred objects). Consulting diviners and making votive metal images were common ritual responses in the ancient Near East when a deity was thought to be angry.",
+  "externalReferences": "The chapter echoes earlier narrative about the ark’s capture and the Philistines’ suffering recorded in 1 Samuel 4–5 (Dagon episode and plagues). The comparison to Egypt and Pharaoh alludes to the Exodus tradition of God displaying power and hardening Pharaoh’s heart (see Exodus 7:3–4). The lethal consequence for mishandling or improperly approaching the ark is paralleled later when Uzzah is struck while touching the ark (2 Samuel 6:6–8) and is related to priestly regulations about handling holy things (Numbers 4:15).",
+  "seeAlso": [
+    "1 Samuel 4:1-11",
+    "1 Samuel 5:1-12",
+    "2 Samuel 6:6-8",
+    "Numbers 4:15",
+    "Exodus 7:3-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Philistines Return the Ark"
+    },
+    {
+      "range": "10-16",
+      "title": "Arrival at Beth-shemesh"
+    },
+    {
+      "range": "17-21",
+      "title": "Death for Irreverence"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "Divine retribution",
+    "Ritual propriety",
+    "God’s power"
+  ],
+  "practicalQuestions": [
+    "How should communities show reverence toward symbols and practices they consider sacred?",
+    "When disaster or illness occurs, how do we discern appropriate responses that avoid superstition but acknowledge spiritual concerns?",
+    "How can joy in religious experience be balanced with reverence and obedience to established safeguards?",
+    "In what ways should neighbors and former adversaries address harm and restitution when sacred matters are involved?"
+  ],
+  "uncertainAreas": "The precise meaning of the golden \"mice\" and \"emerods,\" the exact mechanism by which the Philistines diagnosed and attempted to placate Israel’s God, and the precise number and nature of those struck at Beth-shemesh are textually and historically uncertain (ancient numeric transmission and local tradition may affect details).",
+  "createdAt": "2025-11-03T17:02:38.325Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

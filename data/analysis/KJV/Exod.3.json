@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Exod.3",
+  "briefOverview": "Moses encounters God in the burning bush, is commissioned to rescue Israel from Egypt, and receives God’s name and promises of presence and deliverance.",
+  "summary": "While tending Jethro’s flock at Horeb, Moses sees a bush aflame that is not consumed; God calls to him from the bush and instructs him to remove his sandals because the ground is holy. God identifies himself as the God of Abraham, Isaac, and Jacob, declares his awareness of Israel’s suffering in Egypt, and announces that he will deliver them to a fertile land. Moses is appointed to confront Pharaoh and lead the people out of Egypt; he objects, asking who he is to do this and what name to give the Israelites. God replies with the promise of his presence (“I will be with thee”) and gives the divine name rendered “I AM THAT I AM” (I AM), directing Moses to tell the elders and request a three-day leave to worship. God foretells that Pharaoh will resist, that God will work wonders in Egypt, that the Israelites will gain favor with Egyptians, and that they will leave Egypt carrying away wealth from their neighbors.",
+  "externalContext": "The narrative reflects an ancient Near Eastern context in which leaders often received vocational calls at sacred sites; Horeb (Sinai) is a traditional mountain of divine revelation in Israelite tradition. Moses is living as a shepherd in Midian, married into Jethro’s household, after fleeing Egypt (see Exodus 2). The promise of a land “flowing with milk and honey” invokes the covenantal ideal of territorial inheritance familiar in ancient Israelite hopes. Names and theophanies (visible manifestations of God) carried significant theological weight in this cultural setting.",
+  "externalReferences": "Exodus 4:1–9 continues this commissioning by giving Moses concrete signs (staff-to-serpent, hand-to-leprous) to authenticate his mission. Exodus 12:35–36 narrates how the Israelites did, in fact, obtain valuables from the Egyptians when they left, fulfilling the promise that they would not go away empty. The divine name statement in Exodus 3:14 echoes later theological reflection on God’s self-identification (compare Exodus 6:2–8). In the New Testament, Jesus’ use of the “I am” formula (e.g., John 8:58) engages this Old Testament tradition, though interpretations differ across traditions.",
+  "seeAlso": [
+    "Exodus 4:1-9",
+    "Exodus 6:2-8",
+    "Exodus 12:35-36",
+    "John 8:58"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Theophany at Horeb"
+    },
+    {
+      "range": "7-12",
+      "title": "God’s Commission"
+    },
+    {
+      "range": "13-22",
+      "title": "Instruction and Promise"
+    }
+  ],
+  "themes": [
+    "Divine calling",
+    "Presence",
+    "Deliverance",
+    "Divine name"
+  ],
+  "practicalQuestions": [
+    "When faced with a daunting task, how do I discern and respond to a perceived call or vocation?",
+    "How does the promise of divine presence (\"I will be with thee\") shape how we confront oppressive systems today?",
+    "What practices help maintain reverence for ‘holy ground’ in ordinary life and work?",
+    "How should communities discern and act when they hear a call to advocate for the oppressed?"
+  ],
+  "uncertainAreas": "The text leaves open the precise nature of the theophany (whether the angel of the LORD is distinct from God), the full theological meaning of the phrase translated “I AM THAT I AM,” and the historical details (dating, exact location of Horeb/Sinai) which are debated in scholarship.",
+  "createdAt": "2025-11-03T15:26:01.617Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

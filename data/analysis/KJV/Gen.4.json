@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Gen.4",
+  "briefOverview": "Genesis 4 narrates the birth of Cain and Abel, the first sacrificial offerings, the first murder, and its consequences, then traces early lineages culminating in Seth's birth.",
+  "summary": "Eve bears Cain and Abel, who take up farming and shepherding respectively. Both bring offerings to the LORD; God accepts Abel’s offering but not Cain’s, provoking Cain’s anger. God warns Cain that sin threatens him, but Cain kills Abel in the field. God confronts Cain, pronounces a curse that makes him a restless exile, and marks him to prevent others from killing him. Cain moves to the land of Nod, builds a city, and the chapter gives a genealogy from Cain to Lamech, who boasts of violent revenge. The chapter closes with the birth of Seth and his son Enos, noting that thereafter people began to call on the name of the LORD.",
+  "externalContext": "Genesis is part of the Pentateuch and is traditionally attributed to Moses in Jewish and Christian traditions, though it preserves older oral and literary traditions from the ancient Near East. The pastoral versus agricultural occupations reflect real socioeconomic distinctions in ancient societies and help characterize the brothers. Sacrificial behavior here reflects formative cultic practices before later legal codification in the Torah. Concepts like blood crying out, vengeance, and marking an offender resonate with ancient customs concerning blood guilt and protection of community order.",
+  "externalReferences": "The chapter echoes themes from Genesis 3 (the cursed ground and toil; see Genesis 3:17–19) which frame Cain’s relationship to the earth and his punishment. The New Testament refers back to this episode: Hebrews 11:4 highlights Abel’s offering as an example of faith, while 1 John 3:12 cites Cain as an example of unrighteous murder; Jesus mentions Abel when denouncing cities that rejected prophets (Matthew 23:35).",
+  "seeAlso": [
+    "Genesis 3:17-19",
+    "Hebrews 11:4",
+    "1 John 3:12",
+    "Matthew 23:35",
+    "Genesis 5:1-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Offerings and Conflict"
+    },
+    {
+      "range": "9-16",
+      "title": "Confrontation and Curse"
+    },
+    {
+      "range": "17-26",
+      "title": "Lineages and Aftermath"
+    }
+  ],
+  "themes": [
+    "Sibling rivalry",
+    "Sin and responsibility",
+    "Violence and exile",
+    "Origins and lineage"
+  ],
+  "practicalQuestions": [
+    "How do we respond constructively to feelings of rejection or envy before they lead to destructive actions?",
+    "What does the question 'Am I my brother's keeper?' imply about our responsibilities toward neighbors and vulnerable people today?",
+    "How should communities balance justice and protection when someone has committed serious harm?",
+    "In what ways do family and cultural origins shape attitudes toward work, worship, and violence in our contexts?"
+  ],
+  "uncertainAreas": "The text does not explain why God accepted Abel’s offering but rejected Cain’s, leaving room for different interpretations (quality of heart, type of offering, or ritual detail). The exact nature of the 'mark' on Cain is unspecified. The identity and origin of Cain’s wife and how populations already existed are not explained in this chapter. Lamech’s boastful speech and its implications for early social norms are open to interpretation.",
+  "createdAt": "2025-11-03T14:58:35.145Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

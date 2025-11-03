@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.22",
+  "briefOverview": "Leviticus 22 regulates priestly purity and who may eat or offer sacred sacrifices, and it sets standards for acceptable offerings to preserve the sanctity of worship.",
+  "summary": "God instructs Moses to tell Aaron and his sons to keep themselves separate from holy things when ceremonially unclean and not to profane God's name. Priests with signs of uncleanness (leprosy, bodily discharges, contact with the dead or creeping things) are forbidden to eat the sacred food until they are purified; accidental contact requires washing and waiting until evening. Only members of a priest's household (or those he has purchased) may eat priestly portions; a priest's daughter who marries outside the tribe loses that privilege unless she is widowed or divorced and returns. If someone eats a holy item unknowingly, they must add a fifth and give it to the priest. Animals offered must be unblemished for vows and offerings; some blemished animals may be used for voluntary offerings but not for vows. Rules are given about young animals (seven days under the dam) and not slaughtering mother and young on the same day, with a closing injunction not to profane God's name and a reminder that God sanctified them and brought them out of Egypt.",
+  "externalContext": "Leviticus is part of the Priestly material in ancient Israelite law, reflecting concerns of a settled sacrificial cult centered on the tabernacle/temple and a hereditary priesthood (the Aaronic line). Ritual purity laws governed participation in cultic meals and access to sacred spaces; unblemished animals for sacrifice echoed broader Ancient Near Eastern expectations that offerings to deities be whole and suitable. The recurring formula \"I am the LORD\" and references to the Exodus link cultic ethics to Israel's identity as a people delivered by God.",
+  "externalReferences": "This chapter continues themes found earlier in Leviticus 21, which likewise regulates priestly purity, marriage, and restrictions on who may perform cultic functions (see Leviticus 21:1–24). The requirement that offerings be unblemished echoes the general sacrificial standards in Leviticus 1:3 and related chapters governing acceptable offerings. The prohibition against eating animals that died of themselves parallels rules in Deuteronomy 14:21, and the closing reminder \"I am the LORD who brought you out of the land of Egypt\" recalls the Exodus motif used elsewhere (e.g., Exodus 20:2) to ground Israel's obligations.",
+  "seeAlso": [
+    "Leviticus 21:1-24",
+    "Leviticus 1:3",
+    "Deuteronomy 14:21",
+    "Exodus 20:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Priestly Purity Rules"
+    },
+    {
+      "range": "10-16",
+      "title": "Who May Eat"
+    },
+    {
+      "range": "17-31",
+      "title": "Standards for Offerings"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "Ritual purity",
+    "Sacrifice",
+    "Priesthood"
+  ],
+  "practicalQuestions": [
+    "How should leaders today maintain the integrity and trust associated with their sacred roles?",
+    "What practices preserve the 'holiness' of communal worship in contemporary religious life?",
+    "When a mistake is made in a communal or sacred setting, what forms of restitution or remedy are appropriate (cf. adding a fifth)?",
+    "How can the principle of offering one's best apply to modern ethical commitments (e.g., giving time, resources, or effort)?"
+  ],
+  "uncertainAreas": "Some phrases are terse or culturally specific (e.g., \"buy any soul with his money,\" \"a man whose seed goeth from him,\" and exact technical meaning of \"creeping thing\"). The text presumes a sacrificial system and household arrangements that may not map exactly onto later or modern institutions; interpreting the social implications for priestly daughters and purchased servants involves assumptions about household status and legal categories.",
+  "createdAt": "2025-11-03T15:57:25.915Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

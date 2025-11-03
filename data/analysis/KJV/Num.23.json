@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Num.23",
+  "briefOverview": "Balaam, summoned by King Balak to curse Israel, instead delivers divinely given oracles that bless and vindicate Israel, stressing God's immutability and the nation's security.",
+  "summary": "Balak builds seven altars and offers sacrifices at Balaam's request; Balaam goes to meet God, who puts words in his mouth. Balaam returns and proclaims that he cannot curse whom God has not cursed, viewing Israel as set apart and numerous. A second meeting and oracle repeats the theme: God commanded Balaam to bless and will not revoke his word, for he 'hath not beheld iniquity in Jacob,' and Israel's God is with them. Balaam uses vivid images—strength like a wild ox and Israel rising like a lion—and asserts that no enchantment or divination can prevail against them. Frustrated, Balak seeks other vantage points and moves Balaam to Peor, where Balaam again requests seven altars and offerings.",
+  "externalContext": "Balaam is portrayed as a non‑Israelite seer or diviner hired from Pethor in Mesopotamia, a practice attested in the ancient Near East where rulers sought prophetic aid for political ends. The ritual pattern—building altars, offering bulls and rams, and standing by burnt offerings—reflects common sacrificial customs. The KJV term 'unicorn' translates the Hebrew re'em, most likely a wild ox or aurochs in modern translations. The place Peor later becomes associated with Israelite apostasy (Baal‑Peor) in Numbers 25.",
+  "externalReferences": "This chapter follows the narrative of Numbers 22 (Balaam's summons and the talking donkey episode) and is immediately followed by Numbers 24, which records additional oracles including further praise of Israel. The location Peor connects forward to Numbers 25:1–18 where Israel sins with Moabite women. The statement 'God is not a man' has a thematic echo in 1 Samuel 15:29 on divine immutability.",
+  "seeAlso": [
+    "Numbers 22:1-41",
+    "Numbers 24:1-25",
+    "Numbers 25:1-18",
+    "1 Samuel 15:29",
+    "Genesis 49:9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "First Oracle and Sacrifices"
+    },
+    {
+      "range": "13-24",
+      "title": "Divine Immutability Declared"
+    },
+    {
+      "range": "25-30",
+      "title": "Balak's Frustration and Peor"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Prophetic oracle",
+    "Blessing over curse",
+    "Israel's security"
+  ],
+  "practicalQuestions": [
+    "When asked to speak for others, how should we balance loyalty to a patron with fidelity to conscience or truth?",
+    "What does the claim that 'God is not a man' imply for how communities understand divine promises and change?",
+    "How should communities respond to attempts to control or manipulate spiritual authority for political ends?",
+    "In what ways can imagery of strength and protection shape a group's self‑understanding without encouraging aggression?"
+  ],
+  "uncertainAreas": "The exact social identity and religious standing of Balaam (prophet, diviner, or court seer) remains open to interpretation; the Hebrew re'em translated 'unicorn' is ambiguous (likely wild ox); the precise sense of phrases like 'the shout of a king' and Balaam's wish to 'die the death of the righteous' can be read rhetorically or reflect deeper sympathy with Israel.",
+  "createdAt": "2025-11-03T16:12:31.545Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Josh.14",
+  "briefOverview": "Joshua 14 records the formal distribution of Canaan among the tribes and highlights Caleb’s claim on Hebron as the fulfilment of an earlier promise for his faithfulness.",
+  "summary": "Verses 1–5 describe the allotment procedure: Joshua, Eleazar the priest, and tribal leaders distribute the land by lot, following Moses’ instructions, with the Levites receiving cities rather than a territorial inheritance. Verses 6–15 focus on Caleb, who reminds Joshua of the promise made at Kadesh‑barnea after he and Joshua alone trusted God’s report. Caleb recounts that he was 40 when sent to spy out the land, has followed the LORD wholeheartedly, and that Moses swore the land he walked on would be his and his descendants’. At about 85 years old Caleb claims the mountain (the land of the Anakim, especially Hebron) and asserts his continued vigor for battle; Joshua grants Hebron to him. The chapter closes by noting Hebron’s former name, Kirjath‑arba, and that the land had rest from war.",
+  "externalContext": "The chapter presumes the community memory of the wilderness period and the failed spy mission recorded in Numbers 13–14, during which most spies discouraged the people and God pronounced forty years of wandering. Allocation by lot was an ancient Near Eastern practice and an institutional mechanism in Israel for claiming land while appealing to divine sovereignty (cf. Numbers 26; Joshua 18–19). The distinction that Levites received cities rather than territory reflects their cultic role and tribal organization in the Pentateuch.",
+  "externalReferences": "The chapter directly alludes to the reconnaissance and dispute at Kadesh‑barnea recorded in Numbers 13–14, especially the promise that Caleb would receive the land (see Numbers 14:24). The mention of the Anakims connects with the spies’ report that the people of Canaan included giants (Numbers 13:22, 33). Caleb’s later allotment in Joshua 15:13–14 gives a fuller narrative of his settlement at Hebron.",
+  "seeAlso": [
+    "Numbers 13:1-14:38",
+    "Numbers 14:24",
+    "Joshua 15:13-14",
+    "Joshua 18:1-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Distribution of the Land"
+    },
+    {
+      "range": "6-15",
+      "title": "Caleb’s Claim and Inheritance"
+    }
+  ],
+  "themes": [
+    "Inheritance",
+    "Faithfulness",
+    "Covenant promise",
+    "Perseverance"
+  ],
+  "practicalQuestions": [
+    "What promises or commitments have I received that call for patient perseverance before they are realized?",
+    "How does Caleb’s example challenge common assumptions about age and usefulness in leadership or service?",
+    "In what ways should communities balance institutional procedures (like allotment by lot) with personal claims based on faithfulness?",
+    "How can we recognize and honor those who have 'wholly followed' convictions in our own communities?"
+  ],
+  "uncertainAreas": "Minor chronological details (the exact reckoning of the forty‑five years) and the timing of Caleb’s receipt of Hebron relative to other allotments are not fully specified. The brief note that 'the land had rest from war' is general and does not provide a clear timeframe or scope for that rest.",
+  "createdAt": "2025-11-03T16:41:56.390Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

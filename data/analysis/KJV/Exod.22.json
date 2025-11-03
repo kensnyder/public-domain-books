@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Exod.22",
+  "briefOverview": "A collection of civil and religious laws regulating theft, damage, personal liability, sexual and religious offenses, and protections for vulnerable members of the community.",
+  "summary": "The chapter sets rules for restitution and penalties when someone steals, kills, or damages another's livestock or crops (e.g., double restitution, higher multiples for killing). It addresses liability for fires, custodianship of another's property, and procedures when property is lost, stolen, or damaged while entrusted to someone else. The laws also prescribe remedies for borrowing, seduction of an unmarried woman, and prescribe capital penalties for witchcraft, bestiality, and idolatrous sacrifice. Social injunctions protect strangers, widows, and orphans from oppression and promise divine response to their cry, and financial instructions forbid usury to the poor and require the prompt return of pledged garments. The chapter concludes with ritual obligations (firstfruits, consecration of the firstborn) and a demand for holiness expressed in dietary/cleanliness practice regarding torn animals.",
+  "externalContext": "These laws reflect an ancient agrarian, pastoral society in which livestock and produce were primary forms of wealth, so rules about restitution and custodianship governed everyday economic life. Many ancient Near Eastern law collections (for example, the Code of Hammurabi) contain parallel liability and restitution rules, indicating a shared legal concern for theft, damage, and guardian responsibilities. The treatment of strangers, widows, and orphans should be read against a cultural context where kinship networks provided social support and vulnerable people depended on community protection.",
+  "externalReferences": "Several legal themes here echo other Pentateuchal laws: Exodus 21 contains related civil and criminal regulations on injury and liability. The call to welcome and not oppress the alien parallels Leviticus 19:33–34. Deuteronomy 24:10–13 gives a similar instruction about returning a pledged cloak by evening. The prohibitions against certain sexual acts and forms of worship have close analogues in Leviticus 18 and other Holiness Code materials.",
+  "seeAlso": [
+    "Exodus 21",
+    "Leviticus 19:33-34",
+    "Deuteronomy 24:10-13",
+    "Leviticus 18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Property and Liability"
+    },
+    {
+      "range": "15-20",
+      "title": "Sexual and Religious Offenses"
+    },
+    {
+      "range": "21-31",
+      "title": "Social Justice and Ritual Duties"
+    }
+  ],
+  "themes": [
+    "Restitution",
+    "Liability",
+    "Social justice",
+    "Holiness"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance restitution and punishment when someone harms another's property?",
+    "What contemporary practices correspond to the text's protections for strangers, widows, and orphans, and how can we strengthen them?",
+    "How can principles against exploiting the poor (e.g., forbidding usury, returning pledges promptly) inform current lending and welfare policies?",
+    "In what ways might the ideas of consecration and offering first fruits translate into present-day religious or ethical commitments?"
+  ],
+  "uncertainAreas": "Some penalties (e.g., killing a nighttime burglar vs. daytime) raise interpretive questions about intent and proportionality that the text does not fully resolve. Terms like \"witch\" or \"gods\" may reflect ancient categories whose precise meanings and legal status are debated. Determining which prescriptions were cultic/ritual vs. lasting moral law can be uncertain without broader canonical or historical context.",
+  "createdAt": "2025-11-03T15:35:07.789Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

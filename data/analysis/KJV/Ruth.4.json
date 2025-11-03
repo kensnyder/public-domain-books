@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ruth.4",
+  "briefOverview": "A legal and communal resolution secures Naomi's property and family line: Boaz legally redeems the land and marries Ruth, resulting in the birth of Obed and a genealogy linking to David.",
+  "summary": "Boaz summons the nearer kinsman at the city gate and offers him the right to redeem Elimelech's land; the kinsman initially agrees but declines when told the purchase must include Ruth, the widow, because it would jeopardize his own inheritance. Boaz formally redeems the land by removing his shoe as the legal custom and publicly declares his marriage to Ruth to raise up the dead man's name. The assembled elders and townspeople bless the union, invoking the matriarchs and the line of Perez. Ruth bears a son, Obed, whom Naomi cares for; the chapter closes with a short genealogy tracing the line from Perez to David, establishing Davidic descent through Ruth.",
+  "externalContext": "In ancient Israel, city gates functioned as civic and judicial centers where legal transactions and public declarations took place. The kinsman-redeemer (goel) role and related marriage obligations reflect practices associated with preserving a deceased man's name and property within the clan. The shoe-removal ceremony is attested in later biblical legal or narrative material as a symbolic confirmation of a transaction. Bethlehem (Ephrathah) is presented as the local setting historically associated with the Israelite clan structure and ultimately with Davidic kingship.",
+  "externalReferences": "The obligation to raise up offspring for a deceased brother resembles the levirate-style duty described in Deuteronomy 25:5–10, though the narrative here adapts the principle to a broader kinsman-redeemer context. The reference to Tamar and Perez points back to Genesis 38 (especially Genesis 38:29), where Perez's birth initiates a line that is later identified with Judah's descendants. The blessing invoking Rachel and Leah alludes to the ancestral mothers in Genesis 29–30 and frames Ruth's inclusion as contributing to the house of Israel. Ruth's placement in the Davidic genealogy is also echoed later in the New Testament genealogy in Matthew 1:5.",
+  "seeAlso": [
+    "Deuteronomy 25:5-10",
+    "Genesis 38:6-30",
+    "Genesis 29:31-30:24",
+    "Matthew 1:5",
+    "Ruth 1:1-3:18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Kinsman-Redeemer Decision"
+    },
+    {
+      "range": "11-17",
+      "title": "Blessing and Birth"
+    },
+    {
+      "range": "18-22",
+      "title": "Genealogy to David"
+    }
+  ],
+  "themes": [
+    "Redemption",
+    "Family/Lineage",
+    "Community Witness",
+    "Provision"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance legal rights and compassionate obligation toward vulnerable family members (widows, immigrants)?",
+    "In what ways can accepting outsiders (like Ruth the Moabitess) enrich and restore a community's life and future?",
+    "What formal or informal ‘public witness’ actions today correspond to the gate assembly, and how do they shape accountability?",
+    "How does the concern for legacy and name in this chapter inform contemporary attitudes toward inheritance, memory, and intergenerational care?"
+  ],
+  "uncertainAreas": "The exact legal mechanics and social obligations behind the kinsman-redeemer role here blend levirate and property-redeemer concepts and are not fully specified; the precise legal meaning of the shoe-removal custom and whether the initial kinsman's refusal is based solely on economic calculation or broader legal impediments is also open to interpretation.",
+  "createdAt": "2025-11-03T16:59:58.917Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

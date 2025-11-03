@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Lev.13",
+  "briefOverview": "Detailed priestly rules for identifying and managing skin diseases (commonly called \"leprosy\"/tzara'at) in people and textiles, including criteria for quarantine, declaration of clean/unclean, and disposal or cleansing of affected garments.",
+  "summary": "The chapter gives step‑by‑step diagnostic criteria for skin conditions: the priest examines spots, hair color, depth relative to the skin, presence of raw flesh, and whether the lesion spreads. Cases that look like leprosy are declared unclean and subject to isolation and exclusion (the afflicted must live outside the camp and signal their status), while certain stationary or healing lesions are pronounced clean after observation and washing. Priests use seven‑day periods of confinement and repeated inspections to decide. Separate rules treat scalp/beard afflictions and baldness with specific signs for uncleanness or healing. The final section governs textile contamination: priests inspect garments, order washing or, if the plague persists or penetrates the weave, mandate burning; successfully washed items may be washed again and declared clean.",
+  "externalContext": "These laws reflect the ancient Israelite cultic system in which priests served as both ritual judges and practical inspectors of impurity. The Hebrew term often translated \"leprosy\" (tzara'at) likely covers a range of skin disorders and also includes ritually significant blemishes, not simply Hansen's disease. Declaring someone \"unclean\" affected their communal and cultic participation rather than offering a medical prognosis in modern terms.",
+  "externalReferences": "Leviticus 14 prescribes the complementary cleansing rituals to be performed when a person is declared clean after such inspections. In the Gospels Jesus heals persons identified as \"lepers\" and instructs them to show themselves to the priest (e.g., Matthew 8:1–4; Mark 1:40–45), indicating continued observance of the priestly inspection practice in later Jewish life. Luke 17:11–19 records the healing of ten lepers and again emphasizes the social/cultic dimension of being made clean.",
+  "seeAlso": [
+    "Leviticus 14:1-32",
+    "Matthew 8:1-4",
+    "Mark 1:40-45",
+    "Luke 17:11-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-46",
+      "title": "Skin Disease Regulations"
+    },
+    {
+      "range": "47-59",
+      "title": "Contaminated Garments"
+    }
+  ],
+  "themes": [
+    "Ritual purity",
+    "Priestly authority",
+    "Disease diagnosis",
+    "Social exclusion"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance public‑health measures and compassion toward people with contagious or stigmatized conditions?",
+    "In what ways do religious leaders today have responsibility for interpreting and applying communal health or purity concerns?",
+    "How can the language of \"clean\" and \"unclean\" be understood in ethical teaching without promoting stigma?",
+    "When teaching about ancient purity laws, how can we distinguish symbolic/ritual functions from medical descriptions?"
+  ],
+  "uncertainAreas": "The text's use of \"leprosy\" (tzara'at) is ambiguous relative to modern medical categories; many Hebrew terms translated as \"bright spot,\" \"scab,\" or \"scall\" are uncertain in precise dermatological meaning. It is also difficult to determine from the chapter alone whether the primary intent is hygienic, symbolic/ritual, or a mixture of both.",
+  "createdAt": "2025-11-03T15:51:33.288Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

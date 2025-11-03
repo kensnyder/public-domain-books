@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.2",
+  "briefOverview": "Detailed regulations for the grain (meal) offering: ingredients, preparation, priestly portions, and special rules (no leaven or honey; use of salt).",
+  "summary": "The chapter prescribes how a meat (grain) offering is to be prepared—using fine flour, oil, and frankincense—and instructs that the priest shall take a memorial portion to burn on the altar while the remainder belongs to Aaron and his sons as holy food. Various permitted forms of the offering are given (cakes from an oven, pan-cakes, or frying-pan preparations), all to be unleavened and anointed with oil. The priest is to present and burn a portion as an offering made by fire, described as a pleasing aroma to the LORD. Leaven and honey are explicitly forbidden in any offering made by fire, and every grain offering must be seasoned with salt, described as the 'salt of the covenant.' The chapter also treats the firstfruits: they are to be offered with specific preparation (dried, beaten grain with oil and frankincense) and a memorial portion is burned by the priest, though verse 12 makes a special remark about firstfruits not being wholly burnt on the altar for a sweet savour.",
+  "externalContext": "These instructions belong to the Priestly code regulating sacrificial worship in ancient Israel, where the central sanctuary and Aaronic priests mediated cultic life. Grain offerings (Hebrew minchah) were a common non-bloody gift in ancient Near Eastern temples. Ingredients named here—fine flour, oil, frankincense, and salt—carry practical and symbolic value: oil and frankincense as costly anointing and aromatic substances, and salt as a preservative and covenant signifier. The rule against leaven in offerings aligns with broader biblical associations of leaven with corruption and with festival practices (e.g., Passover's unleavened bread).",
+  "externalReferences": "Parallel regulations about the priests' portions of offerings are found later in Leviticus 6:14–23 and in Numbers 18:8–12, which describe what the priests receive from various offerings. The use of incense/frankincense and restrictions on sacred mixtures recall Exodus 30:34–38, which prescribes a holy incense formula. The treatment of firstfruits connects with Leviticus 23:10–11, which governs offerings from the early harvest.",
+  "seeAlso": [
+    "Leviticus 6:14-23",
+    "Numbers 18:8-12",
+    "Exodus 30:34-38",
+    "Leviticus 23:10-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "General Grain Offering"
+    },
+    {
+      "range": "4-10",
+      "title": "Baked Preparations"
+    },
+    {
+      "range": "11-16",
+      "title": "Prohibitions and Firstfruits"
+    }
+  ],
+  "themes": [
+    "Grain offering",
+    "Priestly share",
+    "Ritual purity",
+    "Covenant salt"
+  ],
+  "practicalQuestions": [
+    "How might the practice of sharing sacrificial food with priests (or community leaders) shape communal responsibility and care in modern contexts?",
+    "What does the requirement to exclude leaven and honey suggest about symbols of purity and corruption in contemporary spiritual life?",
+    "How can the idea of 'salt of the covenant' inform present-day reflections on fidelity, preservation, and commitment within communities?",
+    "In what ways do fixed ritual ingredients and procedures (oil, incense, salt) help a religious community maintain identity and continuity today?"
+  ],
+  "uncertainAreas": "Verse 12's statement that firstfruits 'shall not be burnt on the altar for a sweet savour' appears to nuance or limit burning compared with other offerings, yet verses 14–16 describe burning a memorial portion—this creates interpretive tension about how much of firstfruits is consumed by fire versus retained. The text does not fully explain the symbolic rationale for banning honey in offerings, nor the precise theological meaning of 'salt of the covenant,' so some symbolic interpretation is inferred rather than explicit.",
+  "createdAt": "2025-11-03T15:45:54.113Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

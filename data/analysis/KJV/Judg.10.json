@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Judg.10",
+  "briefOverview": "Judges 10 recounts the brief judgeships of Tola and Jair, then narrates Israel’s relapse into idolatry, resulting oppression by neighboring peoples, a divine rebuke, the people’s repentance, and a mobilization in Gilead.",
+  "summary": "After Abimelech, Tola and then Jair lead Israel for long but otherwise sparsely described terms (vv.1–5). The Israelites again practise widespread idolatry, serving many foreign gods, so Yahweh hands them into the power of the Philistines and the Ammonites, producing long oppression (vv.6–9). The Ammonites press west of the Jordan and harass Judah, Benjamin, and Ephraim, and Israel cries to the LORD in their distress (vv.10–11). God reminds them of past deliverances and, because they have forsaken him, initially refuses to save them and tells them to seek the gods they chose (vv.11–15). The people repent, remove foreign gods, and return to Yahweh, whose heart is moved at their misery; meanwhile the Ammonites mass in Gilead and Israel assembles at Mizpah, with Gilead leaders asking who will begin the fight (vv.16–18).",
+  "externalContext": "This chapter fits the 'judges' era (post-Conquest, pre-monarchy) characterized by a loose tribal confederation and cyclical patterns of apostasy, oppression, crying out, and deliverance reflected in the Deuteronomistic theological framework. Baal and Ashtaroth are Canaanite deities associated with fertility and storm cults; the Philistines, Ammonites, Amorites, Sidonians, Amalekites and similar groups were frequent neighbors and military rivals in the Levant. Place-names like Havoth-jair and Gilead indicate local, clan-based power structures rather than a centralized state.",
+  "externalReferences": "The pattern of Israel’s sin, punishment, and rescue echoes the summary in Judges 2:11–19, which sets up the recurring cycle throughout the book. The LORD’s reminder of past deliverances alludes to the Exodus (e.g., Exodus 14) and the later conquest/contests with Amorite and Transjordanian peoples described in Numbers 21 and the conquest narratives in Joshua.",
+  "seeAlso": [
+    "Judges 2:11-19",
+    "Exodus 14",
+    "Numbers 21:21-35",
+    "Judges 3:7-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Tola and Jair"
+    },
+    {
+      "range": "6-16",
+      "title": "Idolatry and Reproof"
+    },
+    {
+      "range": "17-18",
+      "title": "Mobilization in Gilead"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Divine judgment",
+    "Repentance",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "In what ways do communities today replicate the cycle of turning away from core commitments and then seeking relief only when crisis comes?",
+    "How should leaders discern and respond when a community’s moral or spiritual direction fosters harm?",
+    "What does authentic repentance look like in practice for a group that has adopted harmful values or practices?",
+    "How do we balance accepting responsibility for collective wrongdoing with holding external opponents accountable?"
+  ],
+  "uncertainAreas": "The text’s brief notices leave open questions about the precise historical scope of Tola’s and Jair’s rule, the identity/location of some peoples (e.g., 'Maonites'), and whether God’s statement 'I will deliver you no more' is absolute or rhetorical within the larger Deuteronomistic pattern. The anthropomorphic phrasing that 'his soul was grieved' also invites interpretive caution about how to speak of divine emotions.",
+  "createdAt": "2025-11-03T16:51:52.014Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

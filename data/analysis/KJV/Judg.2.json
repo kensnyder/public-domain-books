@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.2",
+  "briefOverview": "This chapter explains Israel’s failure to remain faithful after Joshua’s death and introduces the recurring cycle of apostasy, oppression, crying out, and deliverance by judges.",
+  "summary": "An angel rebukes Israel at Gilgal/Bochim for failing to destroy the inhabitants’ altars and making alliances, warning that those nations and their gods will be a snare. The people weep, name the place Bochim, and sacrifice to the LORD. After Joshua’s death and burial the next generation “knew not the LORD” and fell into idolatry, serving Baal and Ashtaroth. God permits foreign nations to oppress Israel as judgment; in response the LORD raises judges who deliver them. Each deliverance lasts only while the judge lives, after which the people relapse and become more corrupt, so that God leaves those nations in place to test Israel’s faithfulness.",
+  "externalContext": "The chapter is set in the transitional era after the Israelite conquest of Canaan (Late Bronze/Early Iron Age), when tribal confederation leadership replaced centralized conquest under Joshua. Ancient Near Eastern religion included Canaanite deities such as Baal and Astarte/Ashteroth, whose cultic practices were widespread and posed persistent syncretistic pressure on Israelite worship. The covenantal language (land promise, commands to destroy altars) reflects Deuteronomic theology that links obedience with possession of the land.",
+  "externalReferences": "The angel’s rebuke echoes commands found in Deuteronomy to avoid covenants with Canaanite peoples and to destroy their altars (Deuteronomy 7:1–2). The problem of incomplete conquest is addressed elsewhere in Joshua (e.g., Joshua 13:1; Joshua 23:12–13), and Joshua’s farewell and covenant themes are prominent in Joshua 24. The cyclical pattern of sin, oppression, crying out, and deliverance is developed throughout Judges (compare Judges 3:7–11 for the first instance of that cycle).",
+  "seeAlso": [
+    "Deuteronomy 7:1-2",
+    "Joshua 13:1",
+    "Joshua 23:12-13",
+    "Joshua 24",
+    "Judges 3:7-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Angel's Rebuke at Bochim"
+    },
+    {
+      "range": "6-9",
+      "title": "Joshua's Death"
+    },
+    {
+      "range": "10-23",
+      "title": "Cycle of Apostasy"
+    }
+  ],
+  "themes": [
+    "Covenant faithfulness",
+    "Idolatry",
+    "Cycle of deliverance",
+    "Divine judgment/testing"
+  ],
+  "practicalQuestions": [
+    "How can communities preserve memory of formative events so the next generation does not ‘know not’ foundational commitments?",
+    "What modern practices function like ‘altars’ or religious syncretism that can draw people away from core commitments?",
+    "When leaders die or leave, how should communities safeguard fidelity to shared values?",
+    "How should we understand setbacks or discipline: as abandonment, testing, or corrective purpose?"
+  ],
+  "uncertainAreas": "The identity of the “angel of the LORD” (a theophanic figure or messenger) and the precise mechanism of God’s decision to ‘leave’ the nations as a test are open to interpretive debate. The chapter presumes background knowledge of Joshua’s campaigns and earlier commands; exact chronological details and overlaps among judges are not specified here.",
+  "createdAt": "2025-11-03T16:47:29.218Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

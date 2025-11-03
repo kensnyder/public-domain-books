@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.10",
+  "briefOverview": "A genealogical catalogue (the “Table of Nations”) tracing the descendants of Noah’s three sons and mapping how peoples and territories spread after the Flood.",
+  "summary": "Genesis 10 lists the descendants of Japheth, Ham, and Shem and ties many names to regions, peoples, and cities. Japheth’s line (vv. 2–5) is associated with maritime peoples and islands. Ham’s line (vv. 6–20) includes Cush, Mizraim (Egypt), Phut, and Canaan, with a note about Nimrod as a powerful hunter and the founder of cities in Shinar and Assyria. Canaan’s offspring and the territorial extent of the Canaanites are specified (vv. 15–19). Shem’s line (vv. 21–31) culminates in Eber and his sons Peleg and Joktan, with Peleg associated with a division of the earth. The chapter closes by summarizing these families as the origin of the post‑Flood nations (v. 32).",
+  "externalContext": "Ancient Near Eastern genealogical lists commonly linked clans and nations to eponymous ancestors; Genesis 10 functions similarly as an etiological map explaining ethnic and geographic relationships from a biblical perspective. The chapter reflects early Israelite interest in situating neighboring peoples (Canaanites, Egyptians, Assyrians, Philistines, etc.) within a single genealogical framework following the Flood tradition.",
+  "externalReferences": "Genesis 9:18–27 provides the immediate background (Noah’s sons) from which these lines descend. Genesis 11:1–9 (the Tower of Babel) is closely related thematically — Genesis 10 explains the spread of nations 'after the flood,' while Genesis 11 narrates the dispersal and language division that follows. Several place names here (e.g., Nineveh, Babel/Shinar) reappear later in biblical narrative and prophecy, notably in Jonah and Nahum, which treat Assyria and Nineveh as major historical actors.",
+  "seeAlso": [
+    "Genesis 9:18-27",
+    "Genesis 11:1-9",
+    "Jonah 1:2",
+    "Nahum 1:1-3:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Japheth’s Descendants"
+    },
+    {
+      "range": "6-20",
+      "title": "Ham’s Line and Nimrod"
+    },
+    {
+      "range": "21-32",
+      "title": "Shem’s Line and Summary"
+    }
+  ],
+  "themes": [
+    "Origins of nations",
+    "Genealogy",
+    "Dispersion",
+    "Ethnic identity"
+  ],
+  "practicalQuestions": [
+    "How should modern readers interpret ancient genealogies that link peoples and territories—as literal history, theological explanation, or both?",
+    "In what ways can this chapter’s ordering of nations inform a respectful approach to ethnic and cultural differences today?",
+    "How might the references to city‑founders and territories shape our reading of later biblical conflicts with those peoples (e.g., Canaanites, Assyrians)?",
+    "What does the Peleg tradition ('the earth was divided') suggest about biblical understandings of language, migration, or political division, and how should that affect contemporary interpretation?"
+  ],
+  "uncertainAreas": "Identifications of many ancient names with later historical peoples and places are debated (e.g., exact referents for some Joktanite towns). The phrase about Peleg and the 'earth divided' is ambiguous — it could mean territorial division, linguistic division at Babel, or something else. Nimrod’s brief description (‘mighty hunter before the LORD’) and his role as city‑founder are terse and open to different interpretive emphases (political founder, legendary figure, or rhetorical trope).",
+  "createdAt": "2025-11-03T15:01:48.260Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

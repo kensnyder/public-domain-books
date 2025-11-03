@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Judg.12",
+  "briefOverview": "A postwar dispute between Ephraim and Jephthah escalates into a deadly internal conflict, followed by short notices of subsequent judges and their tenures.",
+  "summary": "After Jephthah's campaign against the Ammonites, the men of Ephraim confront him for not calling them to battle; Jephthah answers that he had called but they failed to come. The dispute erupts into armed conflict: Jephthah gathers the men of Gilead, defeats Ephraim, and the Gileadites control the Jordan crossings, using a pronunciation test ('Shibboleth' vs. 'Sibboleth') to identify and kill fleeing Ephraimites, with forty-two thousand reported slain. The chapter then gives brief successions: Jephthah judged Israel six years and was buried in Gilead; Ibzan judged seven years (noting his thirty sons and thirty daughters); Elon of Zebulun judged ten years and was buried at Aijalon in Zebulun; and Abdon son of Hillel judged eight years, noted for forty sons and thirty nephews who rode on seventy asses, and was buried in Pirathon.",
+  "externalContext": "The period of the Judges is marked by decentralized tribal authority and frequent inter-tribal rivalry; without a central monarchy, disputes among Israelite tribes often led to localized violence. Ephraim was one of the larger and more influential tribes in central Israel, while Gilead (east of the Jordan) had its own tribal leaders and interests, so tensions over honor, military prerogatives, and recognition could readily produce violent clashes.",
+  "externalReferences": "This chapter follows directly on Jephthah's earlier narrative (Judges 11), where he negotiates with Ammon and makes the vow that results in tragic consequences (Judges 11:29–40), providing context for why the Ephraimites might later object. The internal violence and civil strife here echo other episodes in Judges where inter-tribal conflict spirals into massacre and social breakdown, most notoriously the Benjamite civil war in Judges 19–21.",
+  "seeAlso": [
+    "Judges 11:1-11",
+    "Judges 11:29-40",
+    "Judges 19-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Ephraim's Revolt"
+    },
+    {
+      "range": "7-15",
+      "title": "Succession of Judges"
+    }
+  ],
+  "themes": [
+    "Tribal conflict",
+    "Leadership succession",
+    "Identity markers",
+    "Violence"
+  ],
+  "practicalQuestions": [
+    "How can modern communities prevent disputes over honor or recognition from escalating into destructive conflict?",
+    "In what ways might linguistic or cultural differences be misused to exclude or harm others, and how can that be resisted?",
+    "What responsibilities do leaders have to include or inform allied groups before taking communal action?",
+    "How should contemporary groups remember and reckon with episodes of internal violence in their histories?"
+  ],
+  "uncertainAreas": "The large casualty figure (42,000) may reflect exaggeration, symbolic reporting, or a reliable tally—textual and historical certainty is limited. The precise phonetic difference behind 'Shibboleth' and 'Sibboleth' reflects a dialectal marker but the text gives no linguistic explanation beyond the test itself. Motivations of the Ephraimites (pride, perceived insult, or political calculation) are not fully spelled out, leaving room for interpretation over whether their complaint was justified.",
+  "createdAt": "2025-11-03T16:52:51.958Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

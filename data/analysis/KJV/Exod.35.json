@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Exod.35",
+  "briefOverview": "Moses reiterates the Sabbath command, calls for freewill contributions to build the tabernacle, and appoints skilled craftsmen endowed by God to carry out the work.",
+  "summary": "Moses summons the congregation and reiterates the Sabbath law, including a prohibition against kindling fire on the seventh day. He calls for voluntary offerings of specified materials and lists the items and furnishings required for the tabernacle and its service. Skilled and wise-hearted people are commissioned to construct these objects, and the people respond generously with gifts of metals, fabrics, skins, and other supplies. God names and empowers Bezaleel (and Aholiab) by filling them with the spirit, wisdom, and skill to lead the craftsmanship required for the sanctuary.",
+  "externalContext": "This chapter is set during Israel's wilderness period after the Exodus, when the community is organized around a portable sanctuary (the tabernacle) that will serve as the center of cultic life. Building specialized cultic objects and priestly garments was a common feature in ancient Near Eastern religions; skilled artisans often worked under royal or priestly patronage. Some listed materials have identifiable counterparts in the region (e.g., \"shittim wood\" is commonly identified as acacia). The Sabbath instruction here ties ritual practice to communal identity and covenant obligations.",
+  "externalReferences": "The detailed plans and prescriptions for the tabernacle and its furnishings are given earlier in Exodus 25–31, and Exodus 31:1–11 contains a prior statement about Bezalel's appointment and empowerment. The Sabbath command appears earlier in the Decalogue (Exodus 20:8–11) and is expanded as a communal covenant sign in Exodus 31:12–17. The actual execution of the building project and the people's work in response continue in Exodus 36–40.",
+  "seeAlso": [
+    "Exodus 25:1-9",
+    "Exodus 20:8-11",
+    "Exodus 31:1-11",
+    "Exodus 36-40"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Sabbath Instruction"
+    },
+    {
+      "range": "4-19",
+      "title": "Call for Materials"
+    },
+    {
+      "range": "20-35",
+      "title": "Gifts and Skilled Makers"
+    }
+  ],
+  "themes": [
+    "Sabbath",
+    "Tabernacle construction",
+    "Voluntary giving",
+    "Divine empowerment"
+  ],
+  "practicalQuestions": [
+    "How should a faith community balance regular work with set times of rest and worship today?",
+    "In what ways can modern congregations encourage voluntary giving of money, materials, and skills for communal needs?",
+    "How do we identify, affirm, and equip people who have practical and artistic gifts for service?",
+    "What does this chapter suggest about the dignity and sacred value of skilled labor in religious life?",
+    "How might specific instructions about materials and craftsmanship shape our understanding of worship's material culture?"
+  ],
+  "uncertainAreas": "Some details are uncertain or debated: exact identification of certain materials (e.g., \"badgers' skins\"), the historical application and scope of the death penalty for Sabbath violation, and how narrowly to distinguish \"filled with the spirit of God\" as divine inspiration versus recognized technical expertise. Translation and textual tradition variations can affect small details (names, measurements, or specific words).",
+  "createdAt": "2025-11-03T15:41:53.889Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

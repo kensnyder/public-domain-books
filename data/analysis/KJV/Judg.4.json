@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Judg.4",
+  "briefOverview": "Deborah, a prophetess and judge, summons Barak to lead Israel against Canaanite oppression; God grants victory, and a woman (Jael) kills the enemy commander, Sisera.",
+  "summary": "Israel again falls into wrongdoing and is oppressed by King Jabin of Hazor and his commander Sisera, who fielded nine hundred iron chariots. Deborah, a prophetess who judges Israel, summons Barak and gives a divine command to muster ten thousand men at Mount Tabor; God promises to deliver Sisera into his hands. Barak insists Deborah accompany him; she agrees but prophesies that the honor of victory will go to a woman. In battle the LORD routs Sisera’s forces; Sisera flees to the tent of Jael, wife of Heber the Kenite, who receives him as a guest but secretly drives a tent peg through his temple while he sleeps. Barak finds Sisera dead; Israel defeats Jabin and enjoys peace until Jabin’s elimination is complete.",
+  "externalContext": "The narrative sits in the period of the Judges, a loose tribal confederation before Israel’s monarchy (roughly late second–early first millennium BCE). Canaanite armies with iron chariots were militarily formidable in the ancient Near East, so the image of \"nine hundred chariots of iron\" signals significant technological and tactical superiority. Judges often mixes theological interpretation (Israel’s sin and divine punishment/deliverance) with localized clan politics; the Kenites (Heber’s clan) are historically associated with metalworking and a semi-nomadic lifestyle and are linked elsewhere to Hobab, described as Moses’ relative.",
+  "externalReferences": "This episode is retold and celebrated in Judges 5 (the Song of Deborah), which expands on details, names tribes, and praises Jael’s deed. The reference to Heber the Kenite echoes Numbers 10:29, where Hobab (a Kenite) is called Moses’ father-in-law or relative. The pattern of the LORD raising deliverers in response to Israel’s cry aligns with Judges 2:16.",
+  "seeAlso": [
+    "Judges 5:1-31",
+    "Numbers 10:29",
+    "Judges 2:16",
+    "Judges 3:12-30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Israel's Oppression"
+    },
+    {
+      "range": "4-11",
+      "title": "Deborah Calls Barak"
+    },
+    {
+      "range": "12-24",
+      "title": "Battle, Jael, Victory"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Prophetic leadership",
+    "Women's agency",
+    "Military justice"
+  ],
+  "practicalQuestions": [
+    "When leaders fail and the community suffers, how should contemporary communities discern and respond to calls for deliverance or reform?",
+    "How should we evaluate acts of violence done in wartime or under the claim of saving others—what moral criteria apply?",
+    "What can Deborah’s and Jael’s roles teach about recognizing leadership and agency in people who are often marginalized?",
+    "How do we balance hospitality norms with obligations to justice and communal safety when they come into conflict?"
+  ],
+  "uncertainAreas": "Motivations and moral evaluation of Jael’s action (hospitality breached yet decisive for Israel) are open to interpretation. The text does not fully explain Barak’s insistence that Deborah accompany him or why she specifies that a woman will receive the honor; the political relations between the Kenites/Heber and the Canaanites are sketched but not fully detailed.",
+  "createdAt": "2025-11-03T16:48:24.772Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Judg.18",
+  "briefOverview": "The chapter recounts how the tribe of Dan scouts for territory, steals Micah’s cultic objects and Levite, conquers Laish, and establishes idolatrous worship in the city renamed Dan.",
+  "summary": "During a period \"when there was no king in Israel,\" the Danites send five men to scout for territory and lodge at Micah’s house, where they recognize a Levite serving as a private priest. The spies learn of Micah’s ephod, teraphim, and carved image, return to recruit six hundred armed men, and then steal those cultic objects and persuade the Levite to join them as their priest. Micah and his neighbors confront the Danite force but are too weak to resist. The Danites march to Laish, slay its inhabitants, burn the city, rebuild it, and rename it Dan. They set up Micah’s idol there and install Jonathan son of Gershom (Manasseh) and his descendants as priests, continuing this pattern \"all the time that the house of God was in Shiloh.\"",
+  "externalContext": "The narrative belongs to the Judges period, a time of tribal confederation in ancient Israel before monarchy, often characterized in the text by localized power and religious syncretism. Levites in this era did not always occupy the organized Levitical cities later prescribed, so private household shrines and non-centralized priestly activity were common. The Danites’ northward move corresponds with other biblical notes that the tribe eventually settled at Laish (renamed Dan), a migration reflected elsewhere in the corpus.",
+  "externalReferences": "This chapter is closely related to Judges 17, which tells Micah’s story and introduces the Levite and idols (see Judges 17:1–13). The recurring phrase \"in those days there was no king in Israel\" appears elsewhere in Judges (e.g., Judges 17:6; 21:25) and signals the book’s theme of decentralized authority.\n\nJoshua 19:47 records the Danite relocation and renaming of Laish to Dan, and passages about Levitical allotments (e.g., Joshua 21) provide contrast to the private, irregular priesthood described here. The reference to \"the house of God in Shiloh\" connects the setting to the pre-monarchic sanctuary at Shiloh (cf. Joshua 18:1; 1 Samuel 4 for Shiloh’s cultic role).",
+  "seeAlso": [
+    "Judges 17:1-13",
+    "Judges 17:6",
+    "Judges 21:25",
+    "Joshua 19:47",
+    "Joshua 21:1-8",
+    "Joshua 18:1",
+    "1 Samuel 4:3-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Danites Seek Land"
+    },
+    {
+      "range": "12-31",
+      "title": "Theft, Conquest, Idolatry"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Religious corruption",
+    "Tribal ambition",
+    "Lawlessness"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when religious leadership becomes privatized or compromised?",
+    "What safeguards can prevent the conflation of cultural advantage with divine approval, as the Danites claim God gave the land?",
+    "How do we evaluate actions taken in the name of communal survival that involve theft or violence?",
+    "What are the risks in decentralized authority for maintaining shared ethical and religious standards?"
+  ],
+  "uncertainAreas": "Motives of the Levite (whether opportunistic or coerced) are unclear, as is the legal/moral judgment the narrator intends beyond implicit criticism. The precise historical dating and details about the original Laish inhabitants are not provided in the text and require external evidence. The phrase \"house of God was in Shiloh\" situates the story broadly but leaves open chronological specifics.",
+  "createdAt": "2025-11-03T16:56:05.479Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Gen.35",
+  "briefOverview": "Jacob returns to Bethel to renew worship and receive God's blessing; the chapter records family events including Rachel's death, the listing of Jacob's sons, and Isaac's death.",
+  "summary": "God instructs Jacob to go to Bethel, purge his household of foreign gods, and build an altar there. Jacob and his household remove idols; Jacob hides them at Shechem, and God again appears to Jacob at Bethel, blesses him, and confirms his name as Israel with promises of offspring and land. Jacob erects a pillar and offers drink and oil; Deborah (Rebekah's nurse) dies and is buried nearby. Rachel gives birth to Benjamin but dies in childbirth and is buried at Ephrath/Bethlehem, where Jacob sets up a pillar. The narrative then notes Reuben's sexual misconduct with Bilhah, lists the twelve sons of Jacob by their mothers, and records Jacob's visit to Isaac at Hebron and Isaac's death at age 180, buried by his sons Esau and Jacob.",
+  "externalContext": "The chapter belongs to the patriarchal narratives of ancient Mesopotamian and Levantine culture where erecting altars and pillars, covenant-renewal ceremonies, and burial monuments were common means of marking divine encounters and familial claims to land. Household idols and personal amulets were not unusual in the ancient Near East, which helps explain Jacob's command to remove “strange gods” before reestablishing exclusive worship. Genealogies and burial locations functioned as legal and social proof of inheritance and tribal identity in this period.",
+  "externalReferences": "The instruction to return to Bethel echoes Jacob's earlier dream and vow at Bethel (Genesis 28:10–22), where he first set up a pillar and promised vows to God. Jacob's renaming as Israel here parallels and duplicates the earlier wrestling-renaming scene (Genesis 32:22–32), showing a reaffirmation of the name and its promises. The land-and-descendants promise reiterates the covenant language found in Abrahamic promises (e.g., Genesis 12:1–3; Genesis 17:1–8). The later rebuke of Reuben's act connects to Jacob's final blessing and criticism of Reuben in Genesis 49:3–4.",
+  "seeAlso": [
+    "Genesis 28:10-22",
+    "Genesis 32:22-32",
+    "Genesis 12:1-3",
+    "Genesis 17:1-8",
+    "Genesis 49:3-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Return and Covenant Renewal"
+    },
+    {
+      "range": "16-20",
+      "title": "Rachel's Labor and Death"
+    },
+    {
+      "range": "21-29",
+      "title": "Family List and Isaac's Death"
+    }
+  ],
+  "themes": [
+    "Covenant renewal",
+    "Worship",
+    "Lineage",
+    "Death and burial"
+  ],
+  "practicalQuestions": [
+    "What practices or symbols in my life function as 'altars' for renewing commitments to what I consider sacred?",
+    "What would it look like to 'put away strange gods' today—personal habits, priorities, or objects that compete with wholehearted devotion?",
+    "How should families and communities address wrongdoing within close relationships, as in Reuben's act with Bilhah?",
+    "How do we commemorate ancestors and pass on identity and promises to the next generation?"
+  ],
+  "uncertainAreas": "Uncertainties include why God reiterates the name-change to Israel here after the wrestling episode in Genesis 32, the precise nature of the 'strange gods' (household idols, amulets, or symbolic objects), the meaning of 'the terror of God' that deterred pursuit, and exact identification/continued significance of the burial monuments (pillars, Allon-bachuth, Rachel's tomb) in historical geography.",
+  "createdAt": "2025-11-03T15:15:31.924Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

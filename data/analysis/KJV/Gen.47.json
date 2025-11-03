@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Gen.47",
+  "briefOverview": "Joseph secures a safe place for his family in Egypt and organizes Egypt’s response to famine, while Jacob prepares for death and demands burial in Canaan.",
+  "summary": "Joseph brings his father Jacob and brothers before Pharaoh, who invites them to settle in Goshen and offers positions for able men. Joseph provides food for his family during the famine and places them in the best land (Rameses), organizing their households by families. As the famine continues, Egyptians spend their money and then their livestock for grain; when nothing remains, they sell their land and themselves to Pharaoh, while the priests retain their allotments. Joseph institutes a system whereby Pharaoh receives a fifth of the produce, leaving four-fifths to the people, a regulation said to endure. Israel prospers and multiplies in Goshen; Jacob lives seventeen more years and, near death, makes Joseph swear to bury him in Canaan rather than in Egypt.",
+  "externalContext": "In the ancient Near East, centralized rulers often controlled large grain reserves and could relocate populations or grant land to favored officials; vizier-like officials oversaw storage and distribution during famines. Goshen is traditionally identified with the eastern Nile delta, a region suitable for pastoralists. The name Rameses reflects a dynastic toponym associated with the Ramesside period and may indicate the text’s awareness of later Egyptian place-names.",
+  "externalReferences": "This chapter continues the narrative begun in Genesis 41, where Joseph interprets Pharaoh’s dreams, stores grain, and is appointed to administer Egypt (Genesis 41:33–57). Jacob’s demand to be buried in the ancestral burial site echoes prior patriarchal burial traditions (see Genesis 49:29–33; Genesis 23:19 for the Machpelah burial of Sarah). The growth of Israel in Egypt here sets the scene for the later account of their oppression and exodus in Exodus 1.",
+  "seeAlso": [
+    "Genesis 41:33-57",
+    "Genesis 46",
+    "Genesis 49:29-33",
+    "Genesis 50:24-26",
+    "Genesis 23:16-20",
+    "Exodus 1:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Arrival and Welcome"
+    },
+    {
+      "range": "12-26",
+      "title": "Famine Policy and Land"
+    },
+    {
+      "range": "27-31",
+      "title": "Settlement and Burial Request"
+    }
+  ],
+  "themes": [
+    "Provision",
+    "Power and Governance",
+    "Sojourning",
+    "Burial Promise"
+  ],
+  "practicalQuestions": [
+    "How should communities balance immediate survival measures with long-term rights when resources are scarce?",
+    "What ethical limits should govern state control of land and food during crises?",
+    "How do we honor the burial wishes and final requests of elders in families and communities?",
+    "In what ways can newcomers be integrated into a host society while preserving their identity?"
+  ],
+  "uncertainAreas": "Ambiguity exists about how voluntary the sales of land and servitude were versus coerced by famine pressures, and whether the \"fifth\" law reflects historical policy under Joseph or later institutional memory. The identification of \"Rameses\" and details about the priests' exempt status raise questions about the text’s historical layering and precise chronology.",
+  "createdAt": "2025-11-03T15:21:46.446Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

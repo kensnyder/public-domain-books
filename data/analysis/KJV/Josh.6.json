@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Josh.6",
+  "briefOverview": "An account of Jericho's fall after Israel's obedience to unusual divine instructions; the city is destroyed under a sacred ban while one household (Rahab's) is spared.",
+  "summary": "God tells Joshua that Jericho is given to Israel and prescribes a ritual siege: armed men, the ark, and seven priests with seven rams' horns circle the city once a day for six days and seven times on the seventh day. On the final circuit, after the priests blow long blasts and the people shout, the city's walls collapse and the Israelites enter and capture the city. The text commands that the city and all its inhabitants be devoted to the LORD (accursed/herem), with precious metals reserved for the sanctuary. Rahab, who previously hid Israelite spies, and her family are rescued and spared, while the city is burned. The chapter closes with Joshua pronouncing a curse on anyone who later rebuilds Jericho and notes Joshua's growing fame in the land.",
+  "externalContext": "The narrative reflects ancient Near Eastern patterns of city-states and fortified towns in the Late Bronze Age/Iron Age transition; besieged cities and ritual acts were common motifs in ancient warfare narratives. The use of rams' horns (shofar) and the central role of the ark reflect Israelite cultic symbols and practices. The practice of devoting spoil and inhabitants to the deity (herem) appears elsewhere in ancient Near Eastern and Israelite law codes and is a distinctive element of these conquest narratives. Archaeologists and historians debate the historicity and exact chronology of Jericho's walls, so the account is read both as theological narrative and as a claim about past events.",
+  "externalReferences": "This episode directly connects with Joshua 2, which recounts the reconnaissance of Jericho and Rahab's protection of the spies. The command to devote a city and destroy its inhabitants recalls legal material about warfare and the ban, e.g., Deuteronomy 20:16–18. Later biblical writers cite or reflect on these events: Hebrews 11:30 treats the fall of Jericho as an example of faith, Hebrews 11:31 and James 2:25 highlight Rahab's faith and actions, and Rahab appears in Matthew 1:5 in the genealogy tradition.",
+  "seeAlso": [
+    "Joshua 2:1-21",
+    "Deuteronomy 20:16-18",
+    "Hebrews 11:30-31",
+    "James 2:25",
+    "Matthew 1:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Instructions and Procession"
+    },
+    {
+      "range": "17-25",
+      "title": "Fall, Destruction, and Spoils"
+    },
+    {
+      "range": "26-27",
+      "title": "Curse and Reputation"
+    }
+  ],
+  "themes": [
+    "Conquest",
+    "Obedience",
+    "Consecration (Herem)",
+    "Divine intervention"
+  ],
+  "practicalQuestions": [
+    "How should communities today understand and respond to texts that depict total destruction commanded in the name of God?",
+    "What does the chapter suggest about the relationship between ritual obedience and collective outcomes in religious life?",
+    "How can Rahab's example of hospitality and faith inform contemporary attitudes toward outsiders or those who convert?",
+    "What practices or values in my community might be considered 'consecrated' and how should they be handled ethically?"
+  ],
+  "uncertainAreas": "The historicity and archaeological correlation of the wall's collapse at Jericho are debated; the exact meaning and ethical implications of the herem (accursed/ban) are ambiguous and have been interpreted in various ways; details about ritual mechanics (why seven priests/trumpets, how the walls fell) are presented theologically rather than experimentally, leaving room for multiple readings.",
+  "createdAt": "2025-11-03T16:38:05.791Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Judg.9",
+  "briefOverview": "A narrative about Abimelech's violent seizure of power, Jotham's prophetic parable and curse, and the civil war that leads to Abimelech's destruction. The chapter focuses on ambition, betrayal, and divine retribution within Israel's fragmented setting.",
+  "summary": "Abimelech, son of Jerubbaal (Gideon) by a concubine, secures support in Shechem, hires mercenaries with silver from the house of Baal-berith, and kills his seventy half-brothers, sparing only Jotham who flees. The men of Shechem make Abimelech king; Jotham responds from Mount Gerizim with the parable of the trees, condemning their choice and pronouncing a curse if they have been unjust. After three years God puts an 'evil spirit' between Abimelech and the men of Shechem, prompting treachery and open revolt led by local leaders (including Gaal and Zebul). Abimelech defeats several uprisings, sacks Shechem, burns its stronghold after luring the defenders out with branches, and attacks Thebez where a woman drops a millstone that fatally wounds him; he orders his armor-bearer to finish him so it will not be said that a woman killed him. The narrative closes by stating that God repaid Abimelech and the men of Shechem according to Jotham’s curse.",
+  "externalContext": "The book is set in the so-called Judges period (a loosely organized, tribal Israel before monarchy) when local power struggles and city loyalties were common. Shechem was an important highland city with earlier biblical associations (e.g., covenantal and family episodes in Genesis) and appears here as a regional power center with its own cult (Baal-berith). The violent settling of disputes, hired followers, and use of siege tactics reflect common ancient Near Eastern practices of city warfare and clan vendettas.",
+  "externalReferences": "The chapter builds directly on background given in Judges 8:30–35 where Gideon’s many sons (including Abimelech) and his turning away from leadership are described; Abimelech is earlier introduced as son of Gideon by a concubine. The setting at Shechem and the reference to Hamor connect back to Genesis 34 (the Shechem/Hamor episode) as part of that city's fraught history. The cycle of apostasy, foreign oppression, and deliverance in Judges 2 provides the larger theological framework in which local retribution and divine judgment are narrated.",
+  "seeAlso": [
+    "Judges 6-8",
+    "Judges 8:30-35",
+    "Genesis 34",
+    "Judges 2:11-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Abimelech's Rise"
+    },
+    {
+      "range": "7-21",
+      "title": "Jotham's Parable and Curse"
+    },
+    {
+      "range": "22-57",
+      "title": "Civil War and Retribution"
+    }
+  ],
+  "themes": [
+    "Ambition and power",
+    "Fratricide",
+    "Divine retribution",
+    "Civic betrayal"
+  ],
+  "practicalQuestions": [
+    "How should communities evaluate and resist leaders who gain power through violence or manipulation?",
+    "When does loyalty to kin or community become complicity in injustice, and how should that be addressed?",
+    "What responsibilities do bystanders have when political ambitions lead to large-scale harm?",
+    "How do we understand and respond today to claims that conflict or rebellion are 'sent' by God?"
+  ],
+  "uncertainAreas": "Degree of divine agency in the phrase 'God sent an evil spirit' (active causation versus permissive judgment) is ambiguous; the historicity and precise motivations of Shechem's leaders and the chronology of events are not fully detailed; the literal versus symbolic meaning of actions like 'sowing with salt' is uncertain.",
+  "createdAt": "2025-11-03T16:50:38.060Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

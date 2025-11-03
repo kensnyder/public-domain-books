@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Exod.30",
+  "briefOverview": "Detailed cultic instructions for the tabernacle: manufacture and use of incense, regulations for a census-tax, ritual washing, and the composition and sanctity of anointing oil and perfume.",
+  "summary": "Verses 1–10 prescribe construction and use of the altar of incense—dimensions, materials (acacia/shittim wood overlaid with gold), placement before the veil, and the requirement that Aaron burn a perpetual sweet incense morning and evening, with one annual atonement made on its horns.\nVerses 11–16 require a half-shekel ransom payment from every Israelite twenty years old and above when a census is taken; the money is to fund tabernacle service and to make atonement for their souls. Verses 17–21 command a bronze laver for priests to wash hands and feet before ministering, a perpetual statute for Aaron and his descendants. Verses 22–33 give a precise recipe for the holy anointing oil, its use to consecrate the tabernacle furnishings and priests, and a prohibition against pouring it on ordinary persons or reproducing it. Verses 34–38 prescribe a compound incense (with specified spices) to be placed before the testimony and forbid making a private copy or smelling it, on pain of being cut off from the people.",
+  "externalContext": "Exodus is part of the Pentateuch and records Israelite cultic origins associated with the wilderness tabernacle tradition. The items named (acacia wood, frankincense, myrrh, cassia, etc.) were costly aromatic resins and spices widely used in the ancient Near East for perfumes and temple rites. The half-shekel census tax resembles ancient practices of a per-person offering connected to communal membership and sacred service funding. Regulations forbidding replication or private use reflect ancient concerns to reserve certain substances and rites for official, consecrated cult activity.",
+  "externalReferences": "The census and ransom theme is echoed by the census instructions in Numbers (see Numbers 1:2–3) where numbered men are counted for military/service purposes. The consecration of priests by oil connects to Leviticus 8, which narrates the anointing of Aaron and his sons during their ordination. The requirement to make and place the incense and the descriptions of tabernacle furniture relate to earlier tabernacle instructions in Exodus 25–27 (e.g., the ark, table, and lampstand) where the cultic layout and objects are first prescribed.",
+  "seeAlso": [
+    "Numbers 1:2-3",
+    "Leviticus 8:10-12",
+    "Leviticus 16:1-34",
+    "Exodus 25:31-40"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Altar of Incense"
+    },
+    {
+      "range": "11-21",
+      "title": "Census and Laver"
+    },
+    {
+      "range": "22-38",
+      "title": "Anointing Oil and Incense"
+    }
+  ],
+  "themes": [
+    "Ritual Worship",
+    "Holiness",
+    "Atonement",
+    "Sacred Objects"
+  ],
+  "practicalQuestions": [
+    "How should a contemporary community distinguish between what is sacred and what is ordinary in its worship life?",
+    "What principles underlie equal contributions (the half-shekel) for communal religious support, and how might they inform modern communal funding?",
+    "What modern practices serve the same functions as ritual purification (the laver) for those who lead public worship today?",
+    "How should religious communities guard against commodifying or privatizing rituals and objects designated as communal or sacred?"
+  ],
+  "uncertainAreas": "Identifications of some ingredients (e.g., onycha, galbanum, exact botanical sources) are debated among scholars; the phrase 'cut off from his people' can imply different penalties (excommunication, legal death, or social exclusion) and the precise historical enforcement is uncertain. The text presumes background tabernacle fittings and rites described elsewhere, so some logistical details are dependent on cross-references.",
+  "createdAt": "2025-11-03T15:39:21.074Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

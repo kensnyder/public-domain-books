@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Exod.31",
+  "briefOverview": "God appoints and empowers skilled artisans for the tabernacle and reiterates the Sabbath as a perpetual sign between God and Israel.",
+  "summary": "God names Bezaleel (son of Uri, of Judah) and Aholiab (son of Ahisamach, of Dan) and fills them and other skilled people with the Spirit of God, granting wisdom, understanding, knowledge, and craftsmanship to build the tabernacle and its furnishings. The passage lists the items they are to make, including the ark, mercy seat, table, lampstand, altars, laver, service garments, anointing oil, and incense. God then commands Israel to keep the Sabbath as a sign of sanctification and covenantal identity, prescribing that anyone who works on the Sabbath shall be put to death. The Sabbath is tied to creation: God rested on the seventh day. Finally, God gives Moses two stone tablets written by God’s own finger at the close of the Sinai encounter.",
+  "externalContext": "Naming craftsmen and recording their tribal origins underscores the communal and tribal organization of ancient Israel; skilled artisanship for cultic objects was a recognized social role. The idea of God endowing individuals with a special skill or spirit fits broader ancient Near Eastern motifs where divine favor legitimates specialized roles, though here the spirit is explicitly ‘of God.’ The severe penalty for Sabbath violation reflects the treaty-like character of Israel’s covenant codes, where ritual observance marks national identity and holiness.",
+  "externalReferences": "The Sabbath rationale invokes the creation narrative in Genesis 2:2–3 (God rests on the seventh day), and the Ten Commandments earlier in Exodus 20:8–11 contain the initial Sabbath injunction echoed here. The appointment and filling of Bezaleel and Aholiab is repeated and applied in Exodus 35:30–35, where Moses publicly commissions them and the people bring materials. The reference to two stone tablets connects to the tablets of testimony that contain the Decalogue (see Exodus 20 and Exodus 32–34 for the broader tablet narrative).",
+  "seeAlso": [
+    "Genesis 2:2-3",
+    "Exodus 20:8-11",
+    "Exodus 35:30-35",
+    "Deuteronomy 5:12-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Artisans Commissioned"
+    },
+    {
+      "range": "12-17",
+      "title": "Sabbath Command"
+    },
+    {
+      "range": "18",
+      "title": "Stone Tablets Given"
+    }
+  ],
+  "themes": [
+    "Divine empowerment",
+    "Sacred craftsmanship",
+    "Sabbath",
+    "Covenant"
+  ],
+  "practicalQuestions": [
+    "How can contemporary communities identify and honor vocational gifts as forms of service to the common worship life?",
+    "In what practical ways can a regular rhythm of rest function as a sign of communal identity today?",
+    "What limits or protections should a faith community place on work to preserve sacred time and purpose?",
+    "How does grounding moral or ritual obligations in a shared origin story affect communal cohesion and practice?"
+  ],
+  "uncertainAreas": "The exact nature of the 'spirit of God' (creative/technical empowerment versus prophetic/charismatic) is not fully specified in the text. The historical enforcement and social application of the death penalty for Sabbath breaches in Israelite practice are unclear from this chapter alone. The text assumes readers connect the stone 'tables of testimony' to the Decalogue, but the chapter does not quote the commandments here.",
+  "createdAt": "2025-11-03T15:39:45.885Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.15",
+  "briefOverview": "Samson responds to personal affronts with escalating violence against the Philistines and is repeatedly empowered by the Spirit of the LORD to deliver Israel from immediate danger. The chapter moves from private conflict to a large public clash and ends with a brief note of divine provision and Samson's judgeship.",
+  "summary": "After Samson returns to his wife at harvest and is refused by her father, he vows vengeance and sets fire to the Philistines' crops by tying torches to the tails of three hundred foxes, destroying grain, vineyards, and olive groves. The Philistines retaliate by burning his wife and her father, prompting Samson to strike them with a great slaughter and withdraw to the rock Etam. The Philistines encamp at Lehi; Judah binds Samson and hands him over, but the Spirit of the LORD comes on him, the cords fall from his hands, and he seizes a new jawbone of an ass and kills a thousand men. Afterward he is extremely thirsty; God provides water from a hollow in the jawbone, he names the place En-hakkore, and the chapter closes noting Samson judged Israel twenty years during Philistine dominance.",
+  "externalContext": "The narrative reflects a period (the era of the Judges) when Israel lacked centralized monarchy and tribal confederation was fragile; local leaders ('judges') rose episodically to confront foreign threats, here the Philistines, a dominant coastal people often identified with the Sea Peoples. Agriculture (wheat, vineyards, olives) was the economic base, so burning crops was a severe form of warfare and retribution. Family and marriage arrangements could involve bride-price and transfers between kin, making violations of those expectations socially explosive.",
+  "externalReferences": "This episode connects back to Samson’s calling and Nazirite identity announced in Judges 13 (cf. Judges 13:2–5), and to the earlier accounts of his marriage and disputes with the Philistines in Judges 14 (e.g., the marriage, riddle, and conflict that set the pattern of personal vendetta). The motif of the Spirit of the LORD empowering a leader for victory echoes other judge narratives (see Judges 3:10 and Judges 6:34). Samson’s final sacrificial act, where he is again empowered and brings down Philistine leaders, is narrated later in Judges 16:28–30.",
+  "seeAlso": [
+    "Judges 13:2-5",
+    "Judges 14:1-20",
+    "Judges 16:28-30",
+    "Judges 3:10",
+    "Judges 6:34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Marriage Denied"
+    },
+    {
+      "range": "4-11",
+      "title": "Arson and Vengeance"
+    },
+    {
+      "range": "12-20",
+      "title": "Capture, Jawbone, Deliverance"
+    }
+  ],
+  "themes": [
+    "Vengeance",
+    "Divine empowerment",
+    "Conflict with Philistines",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "When personal hurt leads to retaliation, how should community and faith resources shape a more constructive response?",
+    "What responsibilities do communities have when one of their members acts violently against outsiders?",
+    "How do we discern between acts done in the name of divine empowerment and those driven by personal vengeance?",
+    "In situations of crisis, how can leaders seek both decisive action and accountability to prevent escalation?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous whether Samson’s actions are morally endorsed by the narrator or primarily descriptive of tribal retribution. The motives of the Timnite father-in-law and the community of Judah (binding Samson) are not fully explained. The precise nature of the water provision (a supernatural opening in the jawbone versus symbolic storytelling) and the historicity of the numerical claims (e.g., 'a thousand men') are also open to interpretation.",
+  "createdAt": "2025-11-03T16:54:33.666Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

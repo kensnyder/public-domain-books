@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Josh.4",
+  "briefOverview": "Joshua 4 narrates the setting up of a twelve-stone memorial after Israel's miraculous crossing of the Jordan and records the return of the waters when the priests left the riverbed.",
+  "summary": "After the people had crossed the Jordan, God instructs Joshua to have twelve men — one from each tribe — take twelve stones from the middle of the river where the priests had stood and carry them to their lodging as a sign. The stones are set up both in the river where the priests stood and later at Gilgal as a lasting memorial so future generations will ask and be told what they mean. The priests bearing the ark stand in the river until Joshua finishes commanding the people, and when they step out onto dry land the waters return to their place. The people then encamp at Gilgal on the tenth day of the first month, and Joshua explains the stones memorialize the drying up of the Jordan just as God dried up the Red Sea, so that the power of the LORD would be known and feared forever.",
+  "externalContext": "The episode is situated at the start of Israel's entrance into Canaan under Joshua's leadership after Moses' death; establishing public memorials and rites of remembrance was a common means in the ancient Near East to mark foundational events. Gilgal becomes an early camp and cultic locus for Israel (later associated with circumcision and festival observance in Joshua 5). The ark of the covenant functioned as the visible symbol of God's presence and authoritative guidance in Israelite worship and military action.",
+  "externalReferences": "The chapter explicitly links this event to the earlier miraculous crossing of the Red Sea (see Exodus 14:21–22) and echoes Joshua 3, which records the instructions for crossing the Jordan and the role of the ark and priests. The reference to the tribes of Reuben, Gad, and half of Manasseh passing over armed reflects earlier settlement arrangements recorded in Numbers 32. Gilgal's later role in Joshua 5 (the circumcision at Gilgal) connects this encampment with the establishment of covenantal identity in the land.",
+  "seeAlso": [
+    "Joshua 3",
+    "Exodus 14:21-22",
+    "Numbers 32",
+    "Joshua 5:2-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Twelve-Stone Memorial"
+    },
+    {
+      "range": "10-18",
+      "title": "Priests and Returning Waters"
+    },
+    {
+      "range": "19-24",
+      "title": "Gilgal and Purpose"
+    }
+  ],
+  "themes": [
+    "Remembrance",
+    "Divine power",
+    "Leadership",
+    "Covenant"
+  ],
+  "practicalQuestions": [
+    "What visible or communal memorials does my community maintain to remember formative events, and how effectively do we communicate their meaning to the next generation?",
+    "How can leaders today follow the example of Joshua in combining instruction with symbolic acts that teach communal identity?",
+    "When have we experienced events that invite both public witness and private reflection on the role of the divine or transcendent in our history?",
+    "How should a community balance miraculous claims about the past with responsibilities to educate children honestly about history and faith?"
+  ],
+  "uncertainAreas": "The text's historicity and the physical identification of the stones (the phrase 'they are there unto this day') are ambiguous — it is unclear which specific stones are meant or how long the original markers lasted. The exact meaning of 'all the people were clean passed over' (ceremonial cleanliness or simply 'all') is also open to interpretation. The narrative presumes theological causality (waters returning when priests stepped out) that modern historical reconstruction treats cautiously.",
+  "createdAt": "2025-11-03T16:37:26.671Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

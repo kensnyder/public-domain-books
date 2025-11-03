@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.16",
+  "briefOverview": "Samson is betrayed by Delilah, loses his supernatural strength and sight, and finally destroys the Philistine temple at the cost of his own life. The chapter traces his moral failure, captivity, and a final act of violent deliverance.",
+  "summary": "Samson visits Gaza and carries away the city gate’s doors and posts to a hill near Hebron. He then falls in love with Delilah in the Valley of Sorek, who is bribed by the Philistine rulers to learn the secret of his strength. After three unsuccessful attempts (green withs, new ropes, weaving his hair), Samson finally reveals that his uncut hair—sign of a Nazirite vow—holds his strength; Delilah has him shaved while he sleeps, and the LORD departs from him. The Philistines seize him, blind him, and set him to grind in prison while his hair begins to grow again. At a great festival to Dagon they bring Samson out to mock him; he prays to God, regains strength, pushes down the temple pillars, kills many Philistines and himself, and is buried by his family; he judged Israel twenty years.",
+  "externalContext": "The Philistines were a dominant Iron Age power on the southwestern coast of Canaan and frequent adversaries of Israel; Gaza and the Sorek valley are coastal/plain locations associated with Philistine presence. The Nazirite vow (described in Numbers 6) included restrictions such as not cutting hair, and hair becomes the narrative sign of Samson’s consecration. Dagon was a principal Philistine deity, and dedicatory festivals or temple entertainments could be occasions for public rejoicing and humiliation of captured enemies.",
+  "externalReferences": "The Nazirite regulations in Numbers 6:1–21 help explain why uncut hair functions as the visible sign of Samson’s vow and consecration. Samson’s birth, early vow, and previous feats (e.g., the lion, the riddle, the jawbone episode, and the burning of the Philistine fields) are narrated in Judges 13–15 and provide the narrative background for his final episodes. The Philistine cult-image Dagon appears elsewhere in the Hebrew Bible (e.g., 1 Samuel 5:1–5) as tied to Philistine religious practice, and later Jewish tradition and the New Testament list Samson among Israel’s heroes in Hebrews 11:32.",
+  "seeAlso": [
+    "Numbers 6:1-21",
+    "Judges 13:1-25",
+    "Judges 14:1-15:20",
+    "1 Samuel 5:1-5",
+    "Hebrews 11:32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Gaza Gate Feat"
+    },
+    {
+      "range": "4-22",
+      "title": "Delilah's Betrayal"
+    },
+    {
+      "range": "23-31",
+      "title": "Final Act and Burial"
+    }
+  ],
+  "themes": [
+    "Betrayal",
+    "Nazirite vow",
+    "Strength",
+    "Sacrifice"
+  ],
+  "practicalQuestions": [
+    "How do personal attachments or secret compromises weaken leadership or moral integrity in contemporary communities?",
+    "What safeguards or communal supports can help prevent repeated self-destructive choices like Samson’s?",
+    "When, if ever, is self-sacrifice to stop injustice or oppressors morally defensible in light of collateral harm?",
+    "How should communities remember leaders who have both harmed and delivered them?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous whether Samson’s final prayer is primarily a plea for vengeance, for restoration of covenant blessing, or both; the narrative also does not specify Delilah’s deeper motives beyond bribery, nor does it explain the mechanics of ‘the LORD departed’ (whether temporary suspension of divine empowerement or conditional withdrawal). Numbers given (e.g., crowd sizes and casualty comparisons) reflect theological emphasis more than independently verifiable historical detail.",
+  "createdAt": "2025-11-03T16:55:11.789Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

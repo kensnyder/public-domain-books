@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Deut.16",
+  "briefOverview": "Deuteronomy 16 prescribes Israel’s three annual pilgrimage festivals (Passover, Weeks, Tabernacles), instructions for sacrificial practice at the divinely chosen place, and rules for communal worship, judicial appointments, and prohibition of idolatry.",
+  "summary": "Verses 1–8 set rules for observing Passover in the month of Abib: sacrifice and eat the paschal lamb at the place the LORD chooses, eat unleavened bread for seven days, and observe a solemn assembly on the seventh day. Verses 9–12 instruct the counting of seven weeks to the Feast of Weeks (Shavuot), offerings as freewill tribute, and communal rejoicing that includes servants, Levites, strangers, orphans, and widows. Verses 13–15 require celebration of the Feast of Tabernacles after the harvest, again emphasizing shared rejoicing because of the LORD’s blessing. Verse 16 mandates that all Israelite males appear three times yearly at the chosen place and not come empty-handed. Verses 18–20 command appointment of judges and officers in every town who must render just, impartial judgments without accepting bribes, pursuing what is wholly right. Verses 21–22 prohibit planting a grove by the altar and setting up any image that the LORD hates, reinforcing a ban on local cultic installations and idolatry.",
+  "externalContext": "The festivals named follow the agricultural cycle—Passover in spring (barley/Abib), Weeks fifty days later (wheat/new grain), and Tabernacles after the summer harvest—linking ritual calendar to harvest rhythms that structured ancient Israelite life. The instruction to sacrifice at “the place the LORD shall choose” reflects a theological move toward centralized worship; historically this language is often associated with later Jerusalem-centered cultic reform (e.g., in the reign of Josiah), though the text itself presents it as a divine command rather than a later policy note. Social provisions that include Levites, strangers, orphans, widows, and servants reflect concern for vulnerable members within communal religious celebration and distribution of offerings.",
+  "externalReferences": "The institution and rules for Passover closely parallel Exodus 12:1–14, which narrates the original Passover and the command to eat unleavened bread. Instructions for counting seven weeks and festival offerings correspond with Leviticus 23:15–22 (Feast of Weeks/Pentecost) and Leviticus 23:33–43 (Feast of Tabernacles) for timing and liturgical character. The requirement to worship at the LORD’s chosen place echoes Deuteronomy 12:5–14, which develops the theme of centralized sacrifice and worship.",
+  "seeAlso": [
+    "Exodus 12:1-14",
+    "Leviticus 23:15-22",
+    "Leviticus 23:33-43",
+    "Deuteronomy 12:5-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Passover Regulations"
+    },
+    {
+      "range": "9-15",
+      "title": "Weeks and Tabernacles"
+    },
+    {
+      "range": "16-22",
+      "title": "Pilgrimage, Justice, Idolatry"
+    }
+  ],
+  "themes": [
+    "Festivals",
+    "Centralized worship",
+    "Justice",
+    "Social inclusion"
+  ],
+  "practicalQuestions": [
+    "How can communal religious practices today foster inclusion of vulnerable people (servants, strangers, orphans, widows) as this chapter prescribes?",
+    "What structures or safeguards can modern communities adopt to minimize partiality and bribery among leaders and judges?",
+    "In what ways should religious communities balance local expressions of faith with calls for a common, unified place or form of worship?",
+    "How does linking religious observance to seasonal/agrarian rhythms shape spiritual attentiveness and gratitude in contemporary settings?"
+  ],
+  "uncertainAreas": "The precise historical setting and date of these regulations (e.g., whether they reflect an early pan-Israelite practice or later centralizing reform) are debated; the text’s phrase “the place the LORD shall choose” is open to interpretation regarding timing and identity of that place. The exact identification of “grove” and “image” (whether specific cultic objects like Asherah poles or broader categories of sacred trees/idols) is also not fully determinate from the chapter alone.",
+  "createdAt": "2025-11-03T16:26:55.969Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

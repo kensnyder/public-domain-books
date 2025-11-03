@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Deut.29",
+  "briefOverview": "Moses publicly renews the covenant before Israel in Moab, recounting God's deeds and warning of the consequences for abandoning the covenant.",
+  "summary": "Moses gathers all Israel and recounts God's mighty acts from Egypt, through the wilderness, and in victories over Sihon and Og, emphasizing God's provision during the forty years of wandering. He calls the whole community—leaders, children, women, and resident foreigners—to enter into the covenant now being confirmed, linking it to the oath made to the patriarchs. Moses warns sharply against turning to the idols and practices of surrounding nations, describing how an individual's apostasy will bring curses that can affect name, land, and future generations. The chapter portrays the covenant as public and intergenerational and closes with the statement that secret things belong to God while the revealed commands belong to the people so they may obey them.",
+  "externalContext": "Deuteronomy is conventionally understood as part of the Deuteronomistic history and functions as a covenant-renewal speech given as Israel stands on the plains of Moab before entering Canaan. Covenant-renewal ceremonies and treaty language mirror ancient Near Eastern practices in which vassal peoples publicly affirmed obligations toward a suzerain. The reference to Horeb/Sinai and to conquest episodes reflects older traditions (e.g., Exodus and the conquest narratives) being shaped into a legal-theological summons in a later editorial setting.",
+  "externalReferences": "The chapter explicitly echoes the Sinai/Horeb covenant traditions found earlier (see Exodus 19–24) and recalls the miraculous signs and plagues of the exodus narrative (Exodus 7–14). The military encounters with Sihon and Og are narrated more fully in Numbers 21 and 26, which this chapter cites as past victories and as the basis for land assignments to Reuben, Gad, and half-tribe Manasseh. The comparison to lands ruined like Sodom and Gomorrah recalls Genesis 19:24–25 and serves as an exemplum of divine judgment; the warnings about curses connect closely with the covenant curses and blessings found in Deuteronomy 27–28.",
+  "seeAlso": [
+    "Exodus 19:1-24:11",
+    "Numbers 21:21-35",
+    "Genesis 19:24-25",
+    "Deuteronomy 27:1-28:68"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Recounting God's Acts"
+    },
+    {
+      "range": "9-15",
+      "title": "Public Covenant Renewal"
+    },
+    {
+      "range": "16-29",
+      "title": "Warnings and Consequences"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Memory",
+    "Obedience",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How does my community publicly remember and renew its core commitments, and who is included in that process?",
+    "What modern 'idols' or practices might lead individuals or communities away from stated commitments, and how should warnings be communicated?",
+    "How should responsibility be balanced with the claim that some things are 'secret' to God—what actions remain within our responsibility despite uncertainty?",
+    "In what ways can instruction about foundational beliefs be passed intentionally to children and newcomers in a way that is communal and not exclusive?"
+  ],
+  "uncertainAreas": "The precise historical setting and authorship of Deuteronomy remain debated (traditionally Moses but many scholars see later composition/editing). Verse 4's claim that God 'has not given you a heart to perceive' is ambiguous: it could be a present indictment of Israel, a rhetorical device about human incapacity, or a reference to how revelation has been mediated. The theological balance between divine secrecy ('secret things belong to the LORD') and human responsibility invites different interpretive emphases that the chapter does not fully resolve.",
+  "createdAt": "2025-11-03T16:33:18.397Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

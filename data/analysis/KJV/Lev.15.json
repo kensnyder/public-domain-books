@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Lev.15",
+  "briefOverview": "Leviticus 15 sets out laws about bodily discharges that cause ritual uncleanness and prescribes procedures for washing and ritual restoration so people may re‑enter communal/cultic life.",
+  "summary": "The chapter gives rules for males with a running discharge and for seminal emissions: persons, beds, and objects touched become ritually unclean; touching them requires washing and uncleanness lasts until evening. Earthen vessels that are touched must be broken; other vessels are rinsed. After a discharge stops, the person counts seven days, bathes in running water, and on the eighth day brings two turtledoves or pigeons to the priest, who offers a sin offering and a burnt offering to make atonement. Seminal emissions also require washing and temporary uncleanness, and intercourse with a menstruating woman renders the man unclean for seven days. A woman with normal menstrual separation follows a seven‑day separation and similar cleansing rites; prolonged bleeding extends the period of uncleanness. The chapter closes by stating these rules are intended to separate Israel from uncleanness so the community (and the tabernacle) are not defiled.",
+  "externalContext": "Leviticus belongs to the Priestly/Holiness tradition in ancient Israel (roughly late second millennium–first millennium BCE origins for these legal materials), where ritual purity regulated access to the sanctuary and the communal life. Ritual uncleanness in this system is not automatically a moral indictment but a state that affects cultic participation; washing, waiting periods, and sacrifices restore cultic status. The use of birds (turtledoves or pigeons) for offerings appears elsewhere (e.g., Leviticus 12) as a concession for those who cannot bring larger animals.",
+  "externalReferences": "Leviticus 12:6–8 prescribes a comparable pattern for postpartum purification: a period of days followed by a sacrifice of two birds on the eighth day. Leviticus 13 treats other forms of ritual impurity (skin disease and mildew) with a mix of isolation, examination, and cleansing rulings that parallel the concern to protect the camp/tabernacle from defilement. In the New Testament, Mark 5:25–34 (the woman with a chronic issue of blood) engages directly with these laws: her condition made public contact problematic, and Jesus’ healing is narrated against that background of ritual exclusion.",
+  "seeAlso": [
+    "Leviticus 12:6-8",
+    "Leviticus 13:1-59",
+    "Mark 5:25-34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Male Discharges and Emissions"
+    },
+    {
+      "range": "19-30",
+      "title": "Menstruation and Cleansing"
+    },
+    {
+      "range": "31-33",
+      "title": "Purpose: Separation from Uncleanness"
+    }
+  ],
+  "themes": [
+    "Ritual purity",
+    "Bodily discharge",
+    "Cleansing and atonement",
+    "Community holiness"
+  ],
+  "practicalQuestions": [
+    "How should modern faith communities translate ancient purity concerns into practices that protect health without stigmatizing bodily conditions?",
+    "What pastoral responses best balance respect for religious traditions about purity with compassion and inclusion for people with chronic medical issues?",
+    "In what ways can ritual practices (waiting, washing, communal rites) serve positive social functions—such as recovery and reintegration—rather than only exclusion?",
+    "How do we distinguish ritual impurity (preventing cultic participation) from moral wrongdoing when reading ancient legal texts?"
+  ],
+  "uncertainAreas": "Some terms and motives are ambiguous: the Hebrew word translated “flowers” for the woman’s condition is obscure and likely refers to menstrual discharge; the text’s concern mixes sanitary and cultic logic, making it difficult to separate health-based from purely ritual reasons; the exact legal/ritual meaning of phrases like “unclean until the even” and the theological force of the atonement here (ritual restoration vs. forgiveness of sin) require contextual interpretive choices.",
+  "createdAt": "2025-11-03T15:52:50.493Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

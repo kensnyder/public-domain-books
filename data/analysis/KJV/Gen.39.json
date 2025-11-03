@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Gen.39",
+  "briefOverview": "Joseph prospers in Potiphar's house, resists sexual temptation, is falsely accused, and is imprisoned while God remains with him.",
+  "summary": "Sold into Egypt, Joseph is purchased by Potiphar and quickly rises to become overseer of his household because 'the LORD was with him.' Potiphar's wife repeatedly propositions Joseph; he refuses, citing loyalty to his master and duty to God. When he flees, leaving his garment behind, she accuses him of attempted rape. Potiphar, enraged, has Joseph imprisoned. Even in prison, the text reports that God shows Joseph favor and causes whatever he does to prosper, so that the prison keeper places other prisoners under his authority.",
+  "externalContext": "In the ancient Near East, households of powerful officials functioned as economic units where slaves and servants could hold substantial responsibility; a household steward could manage an entire estate. Being a foreign slave (Hebrew) placed Joseph in a vulnerable social position despite his competence. The title given to Potiphar—an officer of Pharaoh and captain of the guard—indicates Joseph is in a high-ranking Egyptian household, not merely a private home.",
+  "externalReferences": "This episode follows Joseph's sale by his brothers earlier in Genesis 37 (see Genesis 37:28, 36 for being sold and brought to Egypt). The narrative continues into the prison episodes and later rise to power (compare Genesis 40:1–23 for Joseph's initial service in prison and Genesis 41:38–44 for his elevation to Pharaoh's administration). The theme of 'the LORD was with him' echoes earlier and later Genesis passages that attribute providential presence to key figures (e.g., Genesis 26:3–5 about Isaac).",
+  "seeAlso": [
+    "Genesis 37:28,36",
+    "Genesis 40:1-23",
+    "Genesis 41:38-44"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Joseph in Potiphar's House"
+    },
+    {
+      "range": "7-20",
+      "title": "Temptation and Accusation"
+    },
+    {
+      "range": "21-23",
+      "title": "Favor in Prison"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Integrity",
+    "Sexual temptation",
+    "False accusation"
+  ],
+  "practicalQuestions": [
+    "How should one maintain personal integrity under pressure at work or in a household setting?",
+    "What steps can institutions take to investigate accusations fairly while protecting the vulnerable?",
+    "How do we interpret apparent setbacks (imprisonment, exile) in light of a belief in providence?",
+    "How can communities support people who face false accusations or who are vulnerable to exploitation?"
+  ],
+  "uncertainAreas": "Uncertainty about the precise identity of the merchants who sold Joseph (Ishmeelites vs. Midianites in some traditions) and about the wife's motives (lust, preserving honor, or other pressures). The narrative's legal and social expectations (Potiphar's quick punishment without investigation) are presented without explicit explanation, leaving room for interpretation.",
+  "createdAt": "2025-11-03T15:17:36.677Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

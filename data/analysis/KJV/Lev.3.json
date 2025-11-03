@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.3",
+  "briefOverview": "Leviticus 3 prescribes the ritual procedures and portions for peace (shelamim) offerings, specifying which animal parts the priests are to burn on the altar and forbidding consumption of fat and blood.",
+  "summary": "The chapter lays out rules for peace offerings from the herd, flock, or goat: the animal must be without blemish, the offerer lays hands on its head and it is killed at the tabernacle; the priests sprinkle the blood around the altar. Specific fatty portions (fat covering the inwards, the two kidneys, the caul above the liver, and in the case of a sheep the rump) are to be removed and burned by the priests as a fire offering pleasing to the LORD. The text repeatedly states that these fats are the LORD's and are to be offered by fire. The chapter closes with a perpetual statute forbidding the eating of fat or blood by the people in all generations.",
+  "externalContext": "This text belongs to the Priestly material of ancient Israelite religion, prescribing cultic procedures for offerings made at the tabernacle (and later the temple). Peace offerings (Hebrew shelamim) often accompanied communal meals and marked fellowship or thanksgiving, differing from wholly burned offerings (olah) or grain offerings. The emphasis on fat and blood reflects broader Ancient Near Eastern practice of giving the choicest portions to the deity, while reserving other portions for priests or participants.",
+  "externalReferences": "The ritual act of laying hands on the offering also appears elsewhere in the sacrificial code (e.g., Leviticus 1:4) and is part of how guilt, identity, or intent is transferred to the animal. The prohibition against eating blood and fat connects with other laws that treat blood as life and forbidden food (see Leviticus 17:10–14) and with earlier dietary boundaries in Genesis 9:4.",
+  "seeAlso": [
+    "Leviticus 1:3-4",
+    "Leviticus 7:11-21",
+    "Leviticus 17:10-14",
+    "Genesis 9:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Herd Peace Offering"
+    },
+    {
+      "range": "6-16",
+      "title": "Flock and Goat Offerings"
+    },
+    {
+      "range": "17",
+      "title": "Perpetual Prohibition"
+    }
+  ],
+  "themes": [
+    "Peace offerings",
+    "Priestly duties",
+    "Sacred portions",
+    "Blood and food law"
+  ],
+  "practicalQuestions": [
+    "In what contemporary ways do communal meals or shared rituals express covenant or reconciliation similar to ancient peace offerings?",
+    "How should modern communities think about the distinction between what is sacred and what is ordinary in worship or shared practice?",
+    "What ethical or spiritual reasons might underlie prohibitions about blood and certain animal parts, and how do those reasons apply today?",
+    "How can ritual actions that transfer responsibility or intention (like laying on of hands) be meaningfully practiced in present-day contexts?"
+  ],
+  "uncertainAreas": "The chapter is precise about cultic actions but leaves open who consumes the non-burned portions of peace offerings (details appear elsewhere in the sacrificial code). The phrase \"sweet savour\" is ritual language whose experiential meaning (literal aroma versus theological valuation) is not fully defined here.",
+  "createdAt": "2025-11-03T15:46:24.792Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

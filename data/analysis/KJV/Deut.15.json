@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Deut.15",
+  "briefOverview": "Laws governing a seven‑year release of debts and the humane treatment of the poor and Hebrew servants, followed by rules about firstborn animals and the prohibition of consuming blood.",
+  "summary": "The chapter orders a release of debts at the end of every seven years (the shemitah), requiring creditors to free fellow Israelites from obligations while allowing collection from foreigners. It urges active generosity to the poor, warns against withholding help in anticipation of the release year, and links obedience and generous giving to divine blessing. Hebrew servants who serve six years must be released with provisions; if a servant chooses to remain, a ritual of ear‑piercing makes the service permanent. The text then commands consecration of firstborn males of herd and flock to YHWH, stipulates their use and consumption in the chosen sanctuary, disallows blemished animals for sacrifice, permits communal eating within the town (without distinction of ritually clean/unlean), and prohibits the eating of blood.",
+  "externalContext": "The seven‑year debt release (shemittah) reflects an agrarian ancient Near Eastern concern to prevent permanent indebtedness and social immobility; periodic debt cancellation or remission appears in several ancient legal traditions. Debt servitude and indentured labor were common socioeconomic realities in the ancient world, so regulations limiting term and prescribing humane treatment functioned to stabilize community life. The consecration of firstborn animals and the prohibition on blood consumption fit within the broader Israelite sacrificial and purity systems centered on a central sanctuary.",
+  "externalReferences": "The regulation for a periodic release of land and persons echoes the Jubilee legislation in Leviticus 25:10, which expands the idea to a fiftieth‑year restoration. The rules about a servant serving six years and ear‑piercing correspond closely to Exodus 21:2–6. The ban on eating blood is developed elsewhere in Leviticus 17:10–14, which explains the theological reason for avoiding blood. The consecration of firstborn animals also has parallels with Exodus 13:2 and the broader firstborn‑to‑God theme in Numbers 3.",
+  "seeAlso": [
+    "Leviticus 25:10",
+    "Exodus 21:2-6",
+    "Leviticus 17:10-14",
+    "Exodus 13:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Seventh‑Year Release and Charity"
+    },
+    {
+      "range": "12-18",
+      "title": "Hebrew Servants' Release"
+    },
+    {
+      "range": "19-23",
+      "title": "Firstlings and Blood Rule"
+    }
+  ],
+  "themes": [
+    "Debt release",
+    "Care for poor",
+    "Servant rights",
+    "Sacredness of life"
+  ],
+  "practicalQuestions": [
+    "How can modern communities create mechanisms that prevent permanent indebtedness and protect vulnerable neighbors as this law aims to do?",
+    "What policies or practices encourage generosity toward the poor rather than grudging compliance?",
+    "How should employers and societies today ensure dignity and fair exit terms for dependent workers, in light of the six‑year limit and provision requirements?",
+    "What does the prohibition on consuming blood suggest about contemporary attitudes toward respect for life and food ethics?"
+  ],
+  "uncertainAreas": "Some terms and practices are ambiguous: 'aul' (awl) and the exact nature of ear‑piercing as a legal vs. purely symbolic act; whether 'eat it before the LORD year by year' prescribes a sacrificial consumption in the sanctuary or a communal sacred meal; the phrase 'the unclean and the clean person shall eat it alike' is open to interpretation (does it relax purity distinctions for this meat or mean both may eat it in different senses); and the scope of the exception allowing creditors to exact debts from foreigners is not fully spelled out here.",
+  "createdAt": "2025-11-03T16:26:30.887Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

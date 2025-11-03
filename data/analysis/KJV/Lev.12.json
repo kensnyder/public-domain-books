@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Lev.12",
+  "briefOverview": "Laws for postpartum ritual impurity and the ritual steps for a mother and newborn, including circumcision and required offerings.",
+  "summary": "The chapter prescribes that after childbirth a woman is ritually unclean: seven days for a son (with the child's circumcision on the eighth day) and fourteen days for a daughter, followed by a longer period of blood-related purification (thirty-three days for a son, sixty-six for a daughter) during which she must avoid holy things and the sanctuary. After the purification period she must bring a year-old lamb for a burnt offering and a young pigeon or turtledove for a sin offering; if she cannot afford a lamb she may bring two birds, which the priest will offer to make atonement and cleanse her. The law distinguishes male and female births, sets a covenantal rite (circumcision) for male infants, and provides a reduced offering for the economically poor.",
+  "externalContext": "In the ancient Israelite cult purity system bodily discharges (including childbirth and menstruation) produced ritual impurity that temporarily barred access to sacred spaces and functions. Circumcision on the eighth day is an established covenantal sign dating to Genesis 17 and has ongoing communal and religious significance. The provision allowing birds instead of a lamb reflects wider ancient Near Eastern and Israelite concern to accommodate the poor within cultic obligations and emphasizes the priest's role in restoring ritual status.",
+  "externalReferences": "The chapter connects with other Israelite purity rules about bodily discharges (see Leviticus 15:19–30) and with the covenantal command for circumcision on the eighth day (Genesis 17:12). The New Testament applies this law to Mary in Luke 2:22–24, where she brings the prescribed offering of two birds because of poverty.",
+  "seeAlso": [
+    "Genesis 17:12",
+    "Leviticus 15:19-30",
+    "Luke 2:22-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Postpartum Impurity and Circumcision"
+    },
+    {
+      "range": "6-8",
+      "title": "Offerings and Atonement"
+    }
+  ],
+  "themes": [
+    "Ritual purity",
+    "Childbirth",
+    "Circumcision",
+    "Atonement"
+  ],
+  "practicalQuestions": [
+    "How can modern faith communities honor and support postpartum recovery while recognizing its ritual and social dimensions?",
+    "What does the distinction between ritual impurity and moral guilt teach us about bodily experiences and religious inclusion?",
+    "How should religious institutions provide for economically disadvantaged members required to participate in ritual practices?",
+    "In what ways does a covenant sign (like circumcision) function today in marking belonging and responsibility within a community?"
+  ],
+  "uncertainAreas": "The text does not explain why the durations differ for male and female births or the precise theological reasoning for labeling childbirth-related bleeding as 'uncleanness' rather than moral fault. The exact meaning of 'atonement' here—whether primarily cultic/ritual restoration or also ethical—is implied but not spelled out.",
+  "createdAt": "2025-11-03T15:51:01.790Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

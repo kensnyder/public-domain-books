@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Lev.23",
+  "briefOverview": "Leviticus 23 sets out Israel’s annual sacred calendar, prescribing the main festivals, their rituals, and rules for holy convocations and rest days.",
+  "summary": "God instructs Moses to tell Israel about the Lord’s appointed feasts, framing them as holy convocations in which work is forbidden and offerings are required. The chapter lists the weekly sabbath, Passover and the seven-day Feast of Unleavened Bread, and the ritual of waving the sheaf and counting seven sabbaths to the fiftyth day (the Feast of Weeks). It prescribes the Feast of Trumpets, the Day of Atonement with its fasting and affliction of soul, and the seven-day Feast of Tabernacles with an additional eighth-day assembly. Specific sacrificial requirements are given for several feasts (burnt offerings, grain and drink offerings, sin and peace offerings), and social instructions appear such as leaving gleanings for the poor and strangers. The chapter closes by noting that these statutes are to be observed throughout the generations and that Moses declared them to the people.",
+  "externalContext": "These regulations reflect an ancient Israelite cultic framework centered on a temple priesthood and an agricultural calendar: many feasts coincide with key points in the grain and fruit harvest (spring barley, early summer grain, and autumn fruits). The public, liturgical rhythm of feasts, sabbaths, and offerings served to bind community identity, mark time, and ritualize dependence on God for provision and atonement. Over time these rites were interpreted and adapted in different historical periods (e.g., Second Temple Judaism), but the basic festival cycle here is foundational for later Jewish and Christian liturgical calendars.",
+  "externalReferences": "The Passover regulation here builds on the institution of Passover in Exodus 12:1–14. The injunction to ‘afflict your souls’ and make atonement resonates with the more detailed ritual of Yom Kippur described in Leviticus 16. The command to leave gleanings for the poor and the stranger parallels related welfare laws in Leviticus 19:9–10 and Deuteronomy 24:19–22. The feasts of Weeks (Shavuot) and Tabernacles (Sukkot) are also discussed in Deuteronomy 16:9–15 and connected elsewhere with firstfruits language (e.g., Deuteronomy 26:1–11).",
+  "seeAlso": [
+    "Exodus 12:1-14",
+    "Exodus 20:8-11",
+    "Leviticus 16",
+    "Leviticus 19:9-10",
+    "Deuteronomy 16:9-15",
+    "Deuteronomy 26:1-11",
+    "Numbers 29:1-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Sabbath and Passover"
+    },
+    {
+      "range": "9-22",
+      "title": "Firstfruits and Weeks"
+    },
+    {
+      "range": "23-44",
+      "title": "Fall Festivals and Tabernacles"
+    }
+  ],
+  "themes": [
+    "Festivals",
+    "Sabbath",
+    "Sacrifice",
+    "Community Memory"
+  ],
+  "practicalQuestions": [
+    "How can modern communities keep a regular rhythm of rest and sacred time like the sabbath in contemporary work cultures?",
+    "What practices could serve today as ‘firstfruits’ or concrete ways to acknowledge dependence on provision?",
+    "In what ways can congregations or societies translate the obligation to care for the poor (gleanings) into present-day social policy or charity?",
+    "How might seasonal or annual festivals shape communal identity and remembrance in a largely urban, non-agricultural context?",
+    "What does ‘afflicting the soul’ (the Day of Atonement) mean ethically and spiritually for personal repentance and corporate reconciliation now?"
+  ],
+  "uncertainAreas": "The phrase ‘the morrow after the sabbath’ (v.11, v.15) has been interpreted differently—whether it refers to the weekly sabbath or to the first day of Unleavened Bread—affecting the dating of the fifty-day count to the Feast of Weeks. Also, some ritual details here presuppose cultic practices centered on a sanctuary and priesthood whose later historical development (Second Temple period) involved additional interpretations; those later developments are not spelled out in the chapter itself.",
+  "createdAt": "2025-11-03T15:58:00.630Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

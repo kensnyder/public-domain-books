@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.14",
+  "briefOverview": "A coalition of kings defeats Sodom and takes Lot captive; Abram rescues him, meets Melchizedek, and refuses the spoils offered by the king of Sodom.",
+  "summary": "A four-king coalition led by Chedorlaomer defeats several cities, plunders Sodom and Gomorrah, and carries off Lot. An escapee alerts Abram, who musters 318 trained men, pursues the victors, defeats them by night, and rescues Lot along with the goods and people taken. On his return Abram is met by Melchizedek, king of Salem and priest of the Most High God, who blesses Abram; Abram gives him a tithe. The king of Sodom offers Abram the people in exchange for the goods, but Abram refuses to accept any of the king's possessions so that the king could not claim responsibility for Abram's wealth, allowing only provisions and shares for his allies.",
+  "externalContext": "The episode reflects the geopolitical world of early second-millennium city-states and nomadic groups in the ancient Near East, where shifting coalitions, raiding, and tribute relationships were common. Names like Chedorlaomer and titles such as “king of nations” point to Mesopotamian and Elamite influence; the story may preserve a memory of interregional campaigns or the literary memory of such events. The figure Melchizedek—both king and priest—and the act of offering tithes connect to later Israelite concerns about priesthood and legitimate religious authority.",
+  "externalReferences": "The figure of Melchizedek is treated later in the Hebrew Bible and New Testament as a priestly archetype; Psalm 110:4 refers to a priest “after the order of Melchizedek,” and Hebrews 7 discusses Melchizedek’s priesthood at length (Hebrews 7:1–10). Abram’s refusal to accept the king of Sodom’s goods echoes later Israelite laws and debates about tithes and sanctuary rights (compare Leviticus 27:30 on tithes). The background of Lot’s residence and separation from Abram is narrated in Genesis 13:10–13, which explains why Lot was living in Sodom.",
+  "seeAlso": [
+    "Psalm 110:4",
+    "Hebrews 7:1-10",
+    "Genesis 13:10-13",
+    "Leviticus 27:30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "War and Captivity"
+    },
+    {
+      "range": "13-16",
+      "title": "Abram's Rescue"
+    },
+    {
+      "range": "17-24",
+      "title": "Melchizedek and Refusal"
+    }
+  ],
+  "themes": [
+    "War and Power",
+    "Divine Deliverance",
+    "Priesthood and Tithing",
+    "Integrity"
+  ],
+  "practicalQuestions": [
+    "When and how should communities act to rescue or protect those unjustly taken captive?",
+    "How do we discern appropriate boundaries between accepting help and avoiding obligations that compromise integrity?",
+    "What role should religious leaders and rites play in giving thanks and distributing spoils or wealth?",
+    "How does the example of refusing political patronage (Abram and the king of Sodom) inform ethical engagement with power today?"
+  ],
+  "uncertainAreas": "Uncertainties include the historicity and exact identities of the named kings and places, the precise political context of Chedorlaomer’s campaign, and the nature of Melchizedek (historical monarch, cultic figure, or literary/theological construct). The text gives limited motive for the kings’ actions and for Abram’s alliances, leaving room for interpretive differences about political versus theological emphases.",
+  "createdAt": "2025-11-03T15:04:00.955Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

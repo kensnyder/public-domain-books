@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Judg.13",
+  "briefOverview": "An angelic announcement foretells the birth of Samson, who is to be a Nazirite and Israel's deliverer from the Philistines. The chapter emphasizes divine initiative, consecration from the womb, and a theophanic sign at a sacrificial offering.",
+  "summary": "Israel again does evil and is delivered into Philistine rule for forty years. An angel of the LORD appears to Manoah’s barren wife and announces she will bear a son who must be a Nazirite from the womb and will begin to deliver Israel from the Philistines. The woman reports this to her husband; Manoah asks the angel to return and receives the same instructions while also inquiring how to raise the child. Manoah offers a sacrifice; the angel is accepted by the offering and ascends in the flame from the altar, after which Manoah realizes he has seen an angel of the LORD. Manoah fears they will die for having seen God, but his wife reasons otherwise; their son Samson is born, blessed by the LORD, and the Spirit of the LORD begins to move him in the camp of Dan.",
+  "externalContext": "The Book of Judges records a cyclical pattern in Israel’s early settlement period (apostasy, oppression, crying out, deliverance by a judge). The Philistines were a settled sea-peoples confederation on Israel’s coastal plain and were frequent military rivals in this era. The Nazirite practice—abstaining from wine, avoidance of impurity, and not cutting hair—is described in Numbers 6 and could be taken as a lifetime or temporary vow; here it is imposed by divine command from conception.",
+  "externalReferences": "The Nazirite requirements called for here correspond to the vows described in Numbers 6:1–21, especially the prohibitions on wine and hair cutting. The statement that Israel \"did evil again\" and was delivered into foreign hands echoes the pattern summarized in Judges 2:11–19. The theophanic/angelic appearance and the motif of a divinely appointed deliverer connect with other judges’ call narratives (compare Judges 6:11–24 for Gideon) and point forward to Samson’s later exploits against the Philistines (see Judges 14–16).",
+  "seeAlso": [
+    "Numbers 6:1-21",
+    "Judges 2:11-19",
+    "Judges 6:11-24",
+    "Judges 14-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Israel Oppressed"
+    },
+    {
+      "range": "2-14",
+      "title": "Annunciation to Manoah's Wife"
+    },
+    {
+      "range": "15-25",
+      "title": "Manoah's Response and Birth"
+    }
+  ],
+  "themes": [
+    "Divine announcement",
+    "Nazirite consecration",
+    "Theophany",
+    "Deliverance"
+  ],
+  "practicalQuestions": [
+    "How should communities recognize and support persons set apart for special religious service?",
+    "What practices of consecration (fasting, abstinence, vows) remain meaningful in contemporary faith life?",
+    "How do we respond when encounters with the sacred provoke fear rather than comfort?",
+    "In what ways should family and community prepare and guide children believed to have religious significance?"
+  ],
+  "uncertainAreas": "The precise identity and nature of the \"angel of the LORD\" is ambiguous (a theophany or a distinct messenger), and the text leaves unclear how often and in what ways the Spirit \"began to move him at times.\" The degree to which the Nazirite requirements here are formalized parental obligations versus a unique divine exception is also not explicit.",
+  "createdAt": "2025-11-03T16:53:18.891Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

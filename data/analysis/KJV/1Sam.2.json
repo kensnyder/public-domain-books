@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "1Sam.2",
+  "briefOverview": "The chapter juxtaposes Hannah's triumphant prayer of thanksgiving with the account of Samuel's early service and a prophetic denunciation of Eli's corrupt household, forecasting the downfall of his sons and the rise of a faithful priest.",
+  "summary": "Hannah offers a poetic song praising God's unique holiness and reversing social fortunes—exalting the humble and humbling the proud. After returning home, her son Samuel ministers to the LORD at Shiloh. The narrative then describes the moral corruption of Eli's sons, who seize sacrificial meat and abuse their priestly role, causing public revulsion. Eli rebukes them, but they do not heed him. A man of God confronts Eli with a divine indictment: because Eli's house has shown contempt for God's offerings and honored his sons, God will cut off his line, cause the death of Hophni and Phinehas, and raise up a faithful priest who will serve before God's anointed. The chapter closes by noting Samuel's growth in favor with both God and people.",
+  "externalContext": "Shiloh served as an early cultic center in Israel before the establishment of Jerusalem and the Davidic monarchy; hereditary priesthood and sacrificial rites were central to Israelite worship, with prescribed portions for priests under the Torah. Hannah's song fits a broader biblical pattern of hymns that celebrate God's care for the lowly and judgment on the proud—a thematic motif common in Psalms and later echoed in the New Testament (e.g., the Magnificat). The episode reflects tensions between inherited priestly authority and prophetic accountability in ancient Israel.",
+  "externalReferences": "Hannah's song echoes motifs found in Psalm 113 (lifting the poor) and is closely paralleled by Mary's Magnificat in Luke 1:46–55, which likewise celebrates divine reversal. The denunciation of Eli's house anticipates the account in 1 Samuel 4 where Hophni and Phinehas die and the ark is captured, and it sets the scene for the later rise of prophetic and priestly figures—Samuel anoints Israel's kings in 1 Samuel 10 and 16. The priests' improper seizure of sacrificial portions should be read against priestly regulations about offerings in Leviticus (see Leviticus 7 for rules about portions and holiness of offerings).",
+  "seeAlso": [
+    "Psalm 113",
+    "Luke 1:46-55",
+    "Leviticus 7",
+    "1 Samuel 4",
+    "1 Samuel 10:1",
+    "1 Samuel 16:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Hannah's Song"
+    },
+    {
+      "range": "11-36",
+      "title": "Samuel, Priestly Abuse, Judgment"
+    }
+  ],
+  "themes": [
+    "Divine reversal",
+    "God's sovereignty",
+    "Priestly corruption",
+    "Emergence of Samuel"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when religious leaders betray their responsibilities to the people and to God?",
+    "In what ways can we cultivate humility and trust in God's justice rather than relying on human power?",
+    "How can families and congregations support and recognize emerging faithful leadership?",
+    "What safeguards or practices can prevent exploitation of communal worship and resources today?"
+  ],
+  "uncertainAreas": "The text uses the term “anointed” and promises to raise up “a faithful priest,” but it is ambiguous whether the primary reference is to a priestly successor, a royal anointed, or a broader replacement of Eli's dynasty by divinely sanctioned leadership. The identity and official standing of the “man of God” who delivers the prophecy are not specified, and the exact legal expectations about priestly portions in this narrative are inferred by comparison with Levitical law rather than spelled out here.",
+  "createdAt": "2025-11-03T17:00:54.846Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

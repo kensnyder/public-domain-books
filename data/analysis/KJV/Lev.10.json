@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.10",
+  "briefOverview": "The chapter recounts the immediate judgment on Aaron’s sons for an improper cultic act and gives instructions about priestly behavior, mourning, and consumption of offerings.",
+  "summary": "Nadab and Abihu, sons of Aaron, offer 'strange fire' before the LORD and are consumed by divine fire and die. Moses explains this outcome as God's sanctification and glory before the people, and orders their removal from the sanctuary. Moses instructs Aaron and his remaining sons not to display customary outward signs of mourning or leave the tabernacle because the priestly anointing is on them. God (through Moses) forbids priests from drinking wine when serving in the tabernacle so they can distinguish holy from common and teach Israel the statutes. Moses also rebukes Eleazar and Ithamar for burning the sin offering instead of eating it in the holy place, and Aaron defends their failure by appeal to the shock of the day's events; Moses accepts the explanation.",
+  "externalContext": "In ancient Israelite religion the priesthood and tabernacle rituals were tightly regulated; offerings, the use of fire, and priestly conduct were matters of communal identity and divine order. Acts that deviated from prescribed cultic procedures were treated as threats to communal purity and could provoke severe divine responses in the narrative. Prohibitions on intoxication for priests reflect wider ancient Near Eastern concerns that ritual officiants must be sober and clear-headed when performing sacred duties.",
+  "externalReferences": "This episode follows directly on the consecration and inauguration of Aaron and his sons (see Leviticus 8–9), where the tabernacle services are established and divine fire appears (Leviticus 9:24). The instruction about eating the sin offering echoes earlier priestly regulations about portions and where offerings are to be consumed (see Leviticus 6:16–18). The command to distinguish holy and common and to teach Israel resonates with the broader holiness material in Leviticus (e.g., Leviticus 19).",
+  "seeAlso": [
+    "Leviticus 8",
+    "Leviticus 9:23-24",
+    "Leviticus 6:16-18",
+    "Leviticus 19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Unauthorized Offering"
+    },
+    {
+      "range": "6-11",
+      "title": "Priestly Conduct Rules"
+    },
+    {
+      "range": "12-20",
+      "title": "Priestly Portions Dispute"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "Ritual Propriety",
+    "Priestly Responsibility",
+    "Sacred/Profane"
+  ],
+  "practicalQuestions": [
+    "How should leaders balance personal grief with responsibilities to communal roles or rituals?",
+    "What boundaries do we need around sacred work today to preserve integrity and avoid carelessness?",
+    "In what ways does sobriety or mental clarity matter for those who lead or perform communal rites?",
+    "How should communities respond when ritual mistakes or failures occur—discipline, mercy, or both?"
+  ],
+  "uncertainAreas": "The text does not specify what precisely constituted the 'strange fire' or the motive of Nadab and Abihu, making their culpability somewhat ambiguous. It is also not explicit whether Aaron and his surviving sons’ restraint from mourning is a legal obligation, a ritual precaution, or a pastoral handling of communal fear; likewise the propriety of Eleazar and Ithamar's action is debated in light of the day's trauma.",
+  "createdAt": "2025-11-03T15:50:07.766Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

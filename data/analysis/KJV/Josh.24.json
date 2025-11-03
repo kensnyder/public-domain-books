@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Josh.24",
+  "briefOverview": "Joshua gathers Israel at Shechem to review God's saving acts, summons a public choice to serve the LORD, and formalizes a covenant before his death.",
+  "summary": "Joshua convenes all Israel at Shechem, recounts their history from the patriarchs through the Exodus and conquest, and emphasizes that God gave them land and cities they did not labor for. He calls the people to fear and serve the LORD, put away foreign gods, and make a deliberate choice whom they will serve; Joshua declares, \"as for me and my house, we will serve the LORD.\" The people pledge allegiance to the LORD, and Joshua sets up a covenant, writes the words in the law, and erects a stone as a witness by an oak near the sanctuary. After the covenant ceremony the people disperse to their inheritances; the chapter closes with Joshua's death and burial, the burial of Joseph's bones at Shechem, the death of Eleazar, and the note that Israel served the LORD throughout Joshua's life and the lifetime of the elders who survived him.",
+  "externalContext": "Shechem was an important ancient Canaanite and Israelite cultic and political center; covenant-renewal ceremonies and public oaths were commonly performed at such central sites. The pattern of a leader reciting past acts of a deity and then calling for a covenant or treaty renewal reflects ancient Near Eastern treaty forms (e.g., suzerain-vassal treaties) where a ruler recounts benefits before demanding loyalty. The mention of bringing up Joseph's bones reflects the longstanding family/patriarchal claims to land and burial sites in the tribal allotment period.",
+  "externalReferences": "The chapter explicitly alludes to the patriarchal migration (cf. Genesis 11:31–12:5), the Exodus and the crossing of the sea (cf. Exodus 12–14), and the wilderness wanderings attributed to Moses and Aaron (cf. Numbers and Deuteronomy). The Balaam episode referenced here corresponds to Numbers 22–24. The crossing of the Jordan and capture of Jericho recalled in verses 11–12 correspond to events narrated earlier in Joshua (Joshua 3–6).",
+  "seeAlso": [
+    "Genesis 11:31-12:5",
+    "Exodus 12-14",
+    "Numbers 22:1-24:25",
+    "Joshua 3-6",
+    "Deuteronomy 29-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Review of God's Acts"
+    },
+    {
+      "range": "14-28",
+      "title": "Covenant Renewal: Choose"
+    },
+    {
+      "range": "29-33",
+      "title": "Deaths and Burials"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Remembrance",
+    "Choice",
+    "Leadership transition"
+  ],
+  "practicalQuestions": [
+    "What past acts or shared memories shape our present commitments as a community?",
+    "What 'foreign gods' (competing priorities or values) need to be identified and set aside in my life?",
+    "How can a community make and mark a genuine, accountable commitment to shared beliefs?",
+    "How should leadership prepare for transition so that core values persist after a leader's death?"
+  ],
+  "uncertainAreas": "The text's presentation is shaped by covenant theology and later editorial shaping; it's uncertain how literal the public declarations were or how durable the people's commitment proved beyond the generation of elders mentioned. The precise historical setting and dating of this gathered ceremony (and its relationship to ancient treaty forms) are matters of scholarly debate.",
+  "createdAt": "2025-11-03T16:46:34.817Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

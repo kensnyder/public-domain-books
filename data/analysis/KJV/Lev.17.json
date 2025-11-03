@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Lev.17",
+  "briefOverview": "Leviticus 17 prescribes that all slaughtered animals for sacrifice must be brought to the tabernacle and forbids eating blood, grounding that prohibition in the claim that life is in the blood and that blood is given for atonement.",
+  "summary": "God commands that anyone of Israel who slaughters an ox, sheep, or goat must bring it to the door of the tabernacle so the offering can be presented by the priest; failure to do so makes the person liable to be 'cut off.' The priest is to sprinkle the blood on the altar and burn the fat as a pleasing aroma to the LORD. The chapter forbids offering sacrifices to 'devils' (pagan beings) and makes this a perpetual statute. It also prohibits any person—Israelite or resident foreigner—from eating blood, because 'the life of the flesh is in the blood,' which God has given for making atonement. Hunters are ordered to pour out the blood of game and cover it with dust, and anyone who eats an animal that died of itself or was torn by beasts becomes ceremonially unclean until evening, with penalties for failing to observe cleansing procedures.",
+  "externalContext": "Leviticus is generally associated with a priestly tradition that emphasizes ritual purity, centralized cultic practice, and rules governing sacrifice. The demand that slaughter for sacrifice occur at the tabernacle reflects a move toward cultic centralization found elsewhere in the Pentateuch. Prohibitions about blood also reflect broader ancient Near Eastern sensitivities about blood as life and its use in religious rites.",
+  "externalReferences": "The ban on eating blood echoes an earlier Noahide prohibition after the flood (Genesis 9:4) and is reiterated elsewhere in the priestly legislation (see Leviticus 3:17; 7:26). The insistence on bringing sacrifices to the central sanctuary parallels Deuteronomy's restrictions on decentralized worship (Deuteronomy 12:5–7,15–16). The theological link between blood and atonement in verse 11 anticipates later Jewish and Christian reflection on sacrificial blood as the means of forgiveness (cf. Hebrews 9:22), and the early church's ruling to abstain from blood echoes this tradition (Acts 15:20,29).",
+  "seeAlso": [
+    "Genesis 9:4",
+    "Deuteronomy 12:5-7",
+    "Deuteronomy 12:15-16",
+    "Leviticus 3:17",
+    "Leviticus 7:26",
+    "Hebrews 9:22",
+    "Acts 15:20,29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Centralized Sacrifices"
+    },
+    {
+      "range": "10-16",
+      "title": "Prohibition Against Blood"
+    }
+  ],
+  "themes": [
+    "Sacrifice",
+    "Blood as life",
+    "Cultic centralization",
+    "Purity"
+  ],
+  "practicalQuestions": [
+    "What does insisting on a single place of worship teach us about communal responsibility and oversight in religious practice today?",
+    "How does the claim 'the life of the flesh is in the blood' shape our ethical thinking about the treatment of animals and meat consumption?",
+    "In contemporary communities, how should laws that prescribe ritual purity and penalties be interpreted or adapted?",
+    "How can the inclusion of 'sojourners' in these rules inform modern approaches to hospitality and religious obligation toward nonmembers?"
+  ],
+  "uncertainAreas": "The Hebrew term translated 'devils' (se'irim) is ambiguous—possibly referring to goat-demons, local deities, or cultic figures—and affects interpretation of v.7. 'Cut off' is also legally and theologically polyvalent (social exclusion, divine punishment, or capital sanction) and the text does not specify procedural details. The chapter's relationship to broader chronological developments (e.g., whether it reflects a particular priestly redactional stage) is also a scholarly reconstruction rather than an internal claim of the text.",
+  "createdAt": "2025-11-03T15:54:08.571Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

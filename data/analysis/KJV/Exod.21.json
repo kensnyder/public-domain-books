@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Exod.21",
+  "briefOverview": "A legal collection setting rules for Hebrew servitude, household relations, personal injury, and liability for animals and property.",
+  "summary": "The chapter opens with regulations for Hebrew servants (six years' service and release in the seventh; special rules if a master provided a wife or if the servant chooses to remain permanently, signified by ear-piercing). It then treats the sale of a daughter into service and protections for her, plus rules to ensure a wife's maintenance if a husband takes another wife. Criminal penalties follow: intentional murder, manslaughter (with provision of a refuge), killing by guile, striking or cursing parents, and enslaving/stealing a person are capital offenses. The text sets limits on nonfatal injuries (payment for lost time and healing), prescribes that serious harm to a pregnant woman can require payment or life-for-life, and formulates the lex talionis (“eye for eye”) for retributive justice. Specific protections for servants injured (freeing a servant who loses an eye or tooth) and rules about an ox that gores or an uncovered pit conclude the chapter, assigning liability and compensation according to circumstances.",
+  "externalContext": "These laws reflect ancient Near Eastern household and legal structures in which debt-bondage and indentured servitude were common economic solutions; the six-year term resembles broader Israelite practices found elsewhere in the Torah. The principle of lex talionis and the use of cities of refuge align with legal norms found in neighboring law collections (e.g., the Code of Hammurabi) and later Mosaic legislation. Enforcement would have been communal and patriarchal, handled by local judges and elders rather than a centralized police system, and penalties range from compensatory fines to capital punishment depending on intent and prior knowledge.",
+  "externalReferences": "The limited servitude and release in the seventh year is treated again in Deuteronomy 15:12–18, which expands the economic and moral rationale for freeing servants. The lex talionis appears in Leviticus 24:19–20 and is reiterated in Deuteronomy 19:21 as a controlling principle for proportional justice. Cities of refuge for manslayers are described in Numbers 35:9–34, providing the institutional setting referenced here for those who kill unintentionally. The prohibition and severe penalty for kidnapping and selling a person is echoed in Deuteronomy 24:7.",
+  "seeAlso": [
+    "Leviticus 24:19-20",
+    "Deuteronomy 15:12-18",
+    "Numbers 35:9-34",
+    "Deuteronomy 19:21",
+    "Deuteronomy 24:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Servitude and Household"
+    },
+    {
+      "range": "12-17",
+      "title": "Capital Crimes"
+    },
+    {
+      "range": "18-36",
+      "title": "Injury and Liability"
+    }
+  ],
+  "themes": [
+    "Servitude",
+    "Retributive Justice",
+    "Liability",
+    "Household Law"
+  ],
+  "practicalQuestions": [
+    "How should modern communities translate the principle of proportionate justice (lex talionis) into contemporary legal and ethical frameworks?",
+    "What protections do vulnerable workers and domestic servants need today that resonate with the chapter’s concern for injured servants?",
+    "How ought we to weigh intent, negligence, and prior knowledge when assigning responsibility for harm in civil and criminal law?",
+    "In what ways can families and societies balance authority within the household with safeguards against abuse?"
+  ],
+  "uncertainAreas": "Verses 20–21 are difficult: verse 20 requires punishment if a servant dies from a beating, while verse 21 seems to exempt the owner if the servant survives a day or two, creating tension about acceptable corporal punishment and the meaning of 'he is his money.' The precise ritual and legal significance of 'boring the ear with an aul' (v.6) and the phrase 'God deliver him into his hand' (v.13) admit multiple interpretations (religious, legal, or literary) and the text does not fully explicate enforcement mechanisms or thresholds for some penalties.",
+  "createdAt": "2025-11-03T15:34:44.657Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

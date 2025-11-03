@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Judg.5",
+  "briefOverview": "A poetic victory song celebrating Yahweh's defeat of Canaanite forces under Sisera, praising God and highlighting Israelite tribes' responses and the roles of Deborah and Jael.",
+  "summary": "Deborah and Barak sing a victory song praising the LORD for delivering Israel when the people willingly joined the fight. The poem recalls divine action in nature (earthquakes, melting mountains) and contrasts the failing of some tribes with the courage of Zebulun, Naphtali, and others who risked their lives. It recounts the battle imagery — stars fighting and the Kishon River sweeping the enemy away — and condemns those who failed to come to Israel's aid. Jael the Kenite is exalted for killing Sisera by driving a tent peg through his head after offering him hospitality. The song ends with a blessing for those who love the LORD and reports that the land had forty years of peace.",
+  "externalContext": "Judges 5 is a victory hymn often dated earlier than the surrounding prose and preserves archaic poetic language; such poems likely circulated in Israel's tribal confederation period (late Bronze–early Iron Age). References to places like Taanach, Megiddo, and the Kishon River situate the action in northwestern Canaan where tribal militias and city-states clashed. The prominence of female figures (Deborah as prophetess/judge and Jael) reflects both literary emphasis and the social roles women could play in heroic narratives of the ancient Near East.",
+  "externalReferences": "Judges 5 closely parallels the prose narrative of Judges 4 (compare accounts of Barak, Sisera, and Jael) and functions as a poetic retelling of the same episode (see Judges 4:1–24). The song's form and its celebration of divine deliverance through nature echo earlier Israelite victory hymns such as the Song of the Sea (Exodus 15:1–18) and the tradition of covenantal songs praising God's martial acts. The closing note of 'forty years' rest' follows the typical Judges pattern where deliverance is followed by a period of peace recorded for other judges as well.",
+  "seeAlso": [
+    "Judges 4:1-24",
+    "Exodus 15:1-18",
+    "Deuteronomy 32:1-43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "6-18",
+      "title": "Tribal Muster and Rebuke"
+    },
+    {
+      "range": "19-31",
+      "title": "Battle and Jael's Deed"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Tribal responsibility",
+    "Female heroism",
+    "Divine warfare"
+  ],
+  "practicalQuestions": [
+    "How should communities today interpret and apply the song's praise of violent deliverance by God?",
+    "What responsibilities do individuals and groups have to support communal defense or aid, in light of the poem's rebukes of absent tribes?",
+    "How can we understand and learn from the prominent leadership roles of Deborah and the decisive action of Jael in contemporary discussions about gender and leadership?",
+    "In what ways does poetic imagery (nature joining the battle, stars fighting) shape our worship language about God's involvement in history?"
+  ],
+  "uncertainAreas": "Questions remain about the poem's precise date and original historical setting, the identification of some place-names (e.g., Meroz), whether 'new gods' refers to recent idolatry or political alliances, and how literally to take the cosmic imagery (stars fighting) — poetic metaphor or theological claim. Also the voice and authority of the 'angel of the LORD' cursing Meroz can be read in different ways.",
+  "createdAt": "2025-11-03T16:48:52.036Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Deut.13",
+  "briefOverview": "Commands to guard the community’s covenant faith by rejecting and punishing idolatry and those who promote it, even when they are close relations or whole cities.",
+  "summary": "The chapter warns that a true prophet’s sign may still be a test if he urges worship of other gods, and such a prophet must not be heeded and is to be executed. God is said to test Israel’s wholehearted love and fidelity. Close relatives or friends who secretly entice someone to serve other gods must not be spared; the enticer is to be killed and publicly stoned. If an entire city turns to idolatry, a careful investigation is required, and if confirmed the city and its spoil are to be destroyed and burned so it will never be rebuilt. The purpose given for these harsh measures is to remove evil from the community and to secure God’s mercy by keeping Israel obedient to covenant commands.",
+  "externalContext": "In the ancient Near East, prophets, dream-interpreters, and signs were socially and religiously significant; controlling religious practice was central to maintaining political and social cohesion. The command to destroy a city and devote its goods to annihilation (herem) appears elsewhere in Israelite conquest narratives and reflects a concern to prevent syncretism and the spread of practices (such as child sacrifice) associated with neighboring cults. The emphasis on testing and exclusive loyalty fits the covenant-treaty structure common in ancient treaties, where vassal fidelity determined the relationship with the suzerain.",
+  "externalReferences": "Deuteronomy 18:20–22 addresses distinguishing true and false prophets and gives rules about prophetic speech and signs. Exodus 20:3–5 (the Decalogue) commands exclusive worship of Yahweh and forbids worshiping other gods, which underlies the chapter’s prohibition. Joshua 6:21 and other conquest accounts describe the complete destruction of cities (herem) as a precedent for theological destruction of enemies and cultic centers.",
+  "seeAlso": [
+    "Deuteronomy 18:20-22",
+    "Exodus 20:3-5",
+    "Deuteronomy 12:29-32",
+    "Deuteronomy 17:2-7",
+    "Joshua 6:21",
+    "Leviticus 20:2-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "False Prophets Tested"
+    },
+    {
+      "range": "6-11",
+      "title": "Close Relations' Enticement"
+    },
+    {
+      "range": "12-18",
+      "title": "City Purge (Herem)"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Covenant fidelity",
+    "Communal purity",
+    "Capital punishment"
+  ],
+  "practicalQuestions": [
+    "How should modern communities respond when leaders promote beliefs or practices that undermine foundational commitments?",
+    "What nonviolent, just ways can societies use today to prevent ideological contagion without repeating ancient punitive measures?",
+    "How do we balance compassion for loved ones with maintaining communal or ethical standards when they advocate harmful practices?",
+    "In what ways should texts prescribing extreme ancient sanctions inform contemporary moral and legal decision-making?"
+  ],
+  "uncertainAreas": "Whether the chapter prescribes literal, permanent legal penalties for all later communities or addresses a specific historical covenant context; how ancient procedures (who investigates and enforces) were carried out in practice; the precise meaning and scope of phrases like “heap for ever” and “cursed thing.”",
+  "createdAt": "2025-11-03T16:25:36.704Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

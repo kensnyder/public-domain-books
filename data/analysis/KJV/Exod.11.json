@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Exod.11",
+  "briefOverview": "God announces and prepares Israel for the final, decisive plague—the death of the Egyptian firstborn—and reiterates that Israel will be spared while Pharaoh’s heart remains hardened.",
+  "summary": "God tells Moses that one last plague will compel Pharaoh to expel Israel, and instructs the people to borrow valuables from their Egyptian neighbors. The LORD declares that about midnight all Egyptian firstborn—human and animal—will die, producing an unparalleled cry throughout the land. Israel will be untouched, demonstrating that God distinguishes between Israel and Egypt. Pharaoh is predicted to eject Moses and the people in anger, and the chapter closes by repeating that God hardened Pharaoh’s heart so he would not release Israel, allowing the wonders to be multiplied in Egypt.",
+  "externalContext": "This chapter sits at the climax of the Exodus plague narrative (a core ancient Israelite origin story) where divine judgment on Egypt leads directly to Israel’s departure. The motif of the firstborn is significant in ancient Near Eastern family and household structures: the firstborn often represented inheritance and household leadership, so their loss constitutes a decisive national blow. The narrative also reflects ancient understandings of divine sovereignty and election—God both judges nations and preserves a chosen people.",
+  "externalReferences": "The actual death of the firstborn and the ensuing departure of Israel are narrated immediately after here in Exodus 12:29–30, and Exodus 12 onwards gives the Passover instructions that explain how Israel is spared. Earlier chapters in Exodus already present the pattern of God performing wonders and hardening Pharaoh’s heart (see Exodus 7:3–5 and Exodus 9:12), a theme reiterated in verse 10 of this chapter. Psalm 78:51 later recounts the slaying of Egypt’s firstborn as part of Israel’s deliverance tradition.",
+  "seeAlso": [
+    "Exodus 12:29-30",
+    "Exodus 7:3-5",
+    "Exodus 9:12",
+    "Psalm 78:51"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Final Plague Announced"
+    },
+    {
+      "range": "8-10",
+      "title": "Pharaoh's Response and Hardening"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Deliverance",
+    "Divine sovereignty",
+    "Distinction"
+  ],
+  "practicalQuestions": [
+    "How should communities interpret claims that God 'distinguishes' between groups—what ethical responsibilities follow from that belief?",
+    "What do we learn about leadership and responsibility when a ruler's hardened heart leads to communal suffering?",
+    "When a tradition asserts divine involvement in both judgment and mercy, how can individuals hold those together in theology and practice?",
+    "How might a community prepare spiritually and practically for sudden, disruptive change as Israel was told to do here?"
+  ],
+  "uncertainAreas": "Interpreting how to balance divine agency and Pharaoh’s moral responsibility is difficult—does 'the LORD hardened Pharaoh's heart' mean God overrode Pharaoh's free will, or did God judicially confirm Pharaoh in a path he had already chosen? Also, the precise mechanism by which Israel is exempted (verse 7) raises questions about the scope and basis of divine favor that the text does not fully explain.",
+  "createdAt": "2025-11-03T15:29:49.001Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

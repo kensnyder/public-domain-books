@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Gen.26",
+  "briefOverview": "God renews the covenantal promises to Isaac while Isaac's life in Gerar involves fear-driven deception, material blessing, disputes over wells, and ultimately a peace treaty with Abimelech.",
+  "summary": "A famine drives Isaac to Gerar, where God appears and repeats the promises given to Abraham, instructing Isaac to remain in the land. Out of fear for his life Isaac again claims Rebekah is his sister, which Abimelech discovers and forbids any harm to them. Isaac prospers greatly, provoking Philistine envy; he reopens wells his father had dug, faces repeated disputes over water (naming wells Esek, Sitnah, and Rehoboth), and finally settles at Beer-sheba where God reaffirms His presence. Abimelech and his officials visit, recognize God's blessing on Isaac, make a covenant of peace, and depart after a feast and oath. The chapter closes with a brief note that Esau took Hittite wives, which distressed his parents.",
+  "externalContext": "Gerar is presented as a Philistine territory; in ancient Near Eastern pastoral societies, control of wells was central to economic life and a common source of conflict. 'Abimelech' appears elsewhere and may function as a royal title rather than a unique personal name. The narrative reflects recurring motifs in Genesis—covenant renewal, promise of progeny, and the household tensions that arise from intermarriage with local populations.",
+  "externalReferences": "Isaac's sister-wife deception parallels Abraham's similar episodes (see Genesis 12:10–20 and Genesis 20:1–18). The reopening and renaming of wells and the treaty at Beer-sheba recall Abraham's earlier interactions with Abimelech and the wells episode (Genesis 21:22–34). The divine promise repeats covenant language used at earlier patriarchal covenants (compare Genesis 17:1–8).",
+  "seeAlso": [
+    "Genesis 12:10-20",
+    "Genesis 20:1-18",
+    "Genesis 21:22-34",
+    "Genesis 17:1-8",
+    "Genesis 29:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Renewal of Covenant"
+    },
+    {
+      "range": "6-22",
+      "title": "Deception and Wells"
+    },
+    {
+      "range": "23-35",
+      "title": "Covenant and Family Tension"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Deception",
+    "Prosperity",
+    "Land and wells"
+  ],
+  "practicalQuestions": [
+    "When fear tempts you to misrepresent a relationship for safety, how should you weigh honesty, trust, and prudence?",
+    "How can communities manage and share scarce resources to prevent recurring conflict?",
+    "What responsibilities come with material blessing so that prosperity does not provoke envy or harm?",
+    "How should families and faith communities respond when cultural or marital choices create internal distress?"
+  ],
+  "uncertainAreas": "Uncertainty about whether 'Abimelech' functions as a dynastic title or a personal name in this passage; the narrator's stance toward Isaac's repeated deception is implicit rather than explicit; precise historical identification of Gerar and the wells (and their archaeology) remains debated.",
+  "createdAt": "2025-11-03T15:10:27.358Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

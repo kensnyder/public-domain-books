@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Exod.6",
+  "briefOverview": "God reiterates the covenant promise to rescue Israel and identifies himself by the name YHWH; Moses is commissioned but the people do not respond and Moses objects to his speaking ability.",
+  "summary": "God tells Moses that Pharaoh will be forced to let Israel go by a strong hand and declares his name as YHWH, distinguishing it from the name by which he appeared to the patriarchs. God affirms the covenant with Abraham, Isaac, and Jacob, recalls Israel's suffering in Egypt, and promises redemption, possession of the promised land, and a renewed relationship ('I will be to you a God'). Moses reports this to the Israelites, but they do not listen because of their severe bondage. God instructs Moses to speak to Pharaoh, and Moses again protests that he has 'uncircumcised lips,' expressing incapacity for the task. The chapter also inserts a genealogy of the tribes, especially Levi, listing the family lines of Moses and Aaron and their descendants who will serve as leaders.",
+  "externalContext": "The chapter reflects ancient Near Eastern concerns with covenant, land, and dynastic descent: genealogies function to legitimize priestly and tribal roles. The use of divine names (El Shaddai vs. YHWH) aligns with Israelite theological development where different names convey aspects of God's character and covenant relationship. The narrative presumes an Egyptian setting for Israelite enslavement and a social context in which a leader's speech and lineage affect authority.",
+  "externalReferences": "This chapter echoes and develops material from Exodus 3–4, where God first commissions Moses and reveals the divine name (compare Exodus 3:14–15 and Moses' objections in Exodus 4:10–13). It also invokes the patriarchal promises recorded in Genesis (for example, Genesis 15:13–14 on future affliction and deliverance and Genesis 17 on the covenantal promises to Abraham).",
+  "seeAlso": [
+    "Exodus 3:14-4:17",
+    "Genesis 15:13-14",
+    "Genesis 17:1-8",
+    "Exodus 1:8-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Divine Promise and Name"
+    },
+    {
+      "range": "10-13",
+      "title": "Commission to Pharaoh"
+    },
+    {
+      "range": "14-27",
+      "title": "Genealogies of Levi"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Deliverance",
+    "Divine Name",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How can the assurance of past promises (covenants) shape endurance in present suffering?",
+    "What responsibilities do leaders have to accept difficult tasks despite personal doubts?",
+    "In what ways does remembering communal lineage and identity support religious or communal resilience?",
+    "How should a community interpret and respond when a leader expresses insecurity about their ability to communicate or represent them?"
+  ],
+  "uncertainAreas": "The precise meaning of 'I appeared... by the name God Almighty, but by my name JEHOVAH was I not known to them' is open to interpretation (differences in divine names and their implications). Moses' complaint of 'uncircumcised lips' is ambiguous—possible literal reference to speech defect, metaphorical humility, or ritual language—and the placement of the genealogy raises questions about editorial layering and chronology.",
+  "createdAt": "2025-11-03T15:27:18.744Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

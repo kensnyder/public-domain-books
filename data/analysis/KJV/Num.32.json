@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Num.32",
+  "briefOverview": "Tribes east of the Jordan request and receive land in return for a pledge to fight for Israel’s conquest west of the Jordan. The chapter balances private interest (livestock, families) with communal obligation and trustworthiness.",
+  "summary": "The tribes of Reuben and Gad (and the half-tribe of Manasseh) ask Moses for the fertile lands of Gilead and surrounding towns because they have large herds and the land suits cattle (vv.1–5). Moses responds with a sharp rebuke, recalling the earlier failure of the spies and warning that their refusal to join the fighting would discourage Israel and bring divine anger (vv.6–15). The tribes promise to build pens and cities east of the Jordan for their families but to cross over armed ahead of Israel until the land is subdued, and not to return home until every Israelite has received an inheritance (vv.16–32). Moses accepts their pledge and grants them the requested territory, and the chapter closes with the building and renaming of towns by Gad and Reuben and with Machir, Jair, and Nobah’s conquests and settlements in Gilead (vv.33–42).",
+  "externalContext": "In the Late Bronze–Early Iron Age context this text reflects a pastoral society where flocks and grazing land were crucial economic resources, and tribal land allotment was central to identity and inheritance. Military participation was tied to land rights and communal survival; refusing to fight could be seen as endangering the covenant community. The narrative also reflects concerns about national unity during the conquest tradition and may preserve memories of later Transjordanian settlement patterns.",
+  "externalReferences": "The chapter explicitly echoes the spy episode and God’s oath in Numbers 13–14, including the special status of Caleb and Joshua (Numbers 14:24, 30). The earlier conquests of Sihon and Og are narrated in Numbers 21:21–35 and are recapitulated in Deuteronomy 3; those kings’ territories are the ones given to these eastern tribes. Later in Joshua 22 the other tribes respond to the Transjordanian tribes’ return across the Jordan, showing continuity of the concern about east-bank settlement and covenant loyalty.",
+  "seeAlso": [
+    "Numbers 13-14",
+    "Numbers 21:21-35",
+    "Deuteronomy 3:8-11",
+    "Joshua 22:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Request for Pastureland"
+    },
+    {
+      "range": "6-31",
+      "title": "Moses' Rebuke and Promise"
+    },
+    {
+      "range": "32-42",
+      "title": "Settlement and Conquest"
+    }
+  ],
+  "themes": [
+    "Covenant responsibility",
+    "Land and inheritance",
+    "Military obligation",
+    "Communal trust"
+  ],
+  "practicalQuestions": [
+    "How should communities balance individual economic needs (family, livelihood) with obligations to the common good?",
+    "What kinds of pledges or safeguards are appropriate when allowing partial exemptions from communal responsibilities?",
+    "How can leaders respond to requests that seem reasonable yet risk undermining group cohesion?",
+    "In what ways should promises of service or support be verified or memorialized to prevent future discord?"
+  ],
+  "uncertainAreas": "The text leaves open whether the tribes’ motives were purely economic or also political; the narrative may reflect later editorial shaping to justify east-bank settlement. It's also not fully clear how early the accounts of Machir, Jair, and Nobah belong to the same historical layer as the Moses traditions.",
+  "createdAt": "2025-11-03T16:17:11.630Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

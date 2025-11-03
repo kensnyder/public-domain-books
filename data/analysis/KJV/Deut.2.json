@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Deut.2",
+  "briefOverview": "Moses recounts Israel’s route and divine instructions during the wilderness period, stressing restraint toward certain neighboring peoples and narrating the conquest of Sihon king of Heshbon.",
+  "summary": "The people are ordered to turn northward after encircling Mount Seir and to pass through the territory of Esau and Moab without attacking them; they are to buy food and water rather than seize land. The text names earlier inhabitants (Emims, Horims, Zamzummims, Avims) and notes that Israel succeeded other peoples in settled regions. Moses records crossing the brook Zered after thirty-eight years, the depletion of the original generation of fighting men, and new orders to pass through Ar toward the Jordan. Israel requests peaceful passage from Sihon king of Heshbon; Sihon refuses, God hardens his heart, and Israel defeats him at Jahaz, destroying his people and taking the cities and spoil. The chapter closes by noting the limits of Israel’s campaign—they did not attack the land of Ammon or cross the Jabbok where God had forbidden them.",
+  "externalContext": "Deuteronomy is presented as Moses’ farewell address before Israel enters Canaan; many scholars see its final form in a later editorial period (Iron Age/Late Bronze–Iron transition to exilic/ post‑exilic editing). The places named—Seir (Edom), Moab, Ammon—are historical Transjordanian neighbors east of the Dead Sea, and territorial claims and hostile encounters with polities like the Amorites and the kings of Heshbon are part of the broader ancient Near Eastern landscape of tribal territories and warfare. The practice of devoting conquered cities (herem) and the idea that God gives or withholds land for specific peoples are consistent with ancient Israelite theological motifs in conquest narratives.",
+  "externalReferences": "The chapter’s report that the generation of fighting men was 'wasted out' echoes the promise and punishment found in Numbers 14:29–35 and the earlier accounts of the wilderness wanderings. The military episode with Sihon and the request for safe passage is recounted in Numbers 21:21–31 and is summarized later in Joshua 12:2 as part of the conquest tradition. The restriction not to attack Edom, Moab, and Ammon reflects broader genealogical and territorial traditions about Esau (Edom) and the descendants of Lot (Genesis 36; Genesis 19 traditions), although specific legal and theological framing for these prohibitions is developed in Deuteronomy.",
+  "seeAlso": [
+    "Numbers 14:29-35",
+    "Numbers 21:21-31",
+    "Joshua 12:2",
+    "Genesis 36:1-43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Route and Restraint"
+    },
+    {
+      "range": "13-23",
+      "title": "Wandering and Past Peoples"
+    },
+    {
+      "range": "24-37",
+      "title": "Sihon Defeated"
+    }
+  ],
+  "themes": [
+    "Divine command",
+    "Land possession",
+    "Warfare and judgment",
+    "Restrained conduct"
+  ],
+  "practicalQuestions": [
+    "How should communities today balance the claim to territory or resources with ethical restraints toward neighbors?",
+    "What does 'obeying divine instruction' look like when commands involve both restraint and warfare?",
+    "How can we responsibly interpret violent conquest texts in contemporary ethical and theological reflection?",
+    "How do long periods of waiting or delay (the thirty‑eight years) shape communal identity and trust in leadership or providence?"
+  ],
+  "uncertainAreas": "The text attributes Sihon’s refusal to God ‘hardening’ his heart—this raises questions about human responsibility vs. divine causation. The identification and historicity of named peoples (Emim, Horim, Zamzummims, Avims, Caphtorims) are uncertain and depend on archaeological and textual correlation. Exact locations for some place names (brook Zered, certain city sites) remain debated in scholarship.",
+  "createdAt": "2025-11-03T16:20:22.137Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Exod.20",
+  "briefOverview": "God gives the core covenant laws (the Ten Commandments) at Sinai and the people respond with fear; Moses then receives further instructions about worship practices.",
+  "summary": "Verses 1–17 present the Ten Commandments: exclusive worship of Yahweh, prohibition of images, respect for God's name, Sabbath observance rooted in creation, honor for parents, and prohibitions against murder, adultery, theft, false witness, and coveting. Verses 18–21 describe the people's terror at theophany—thunder, lightning, trumpet—and their request that Moses mediate God's speech. Verses 22–26 record God’s instructions through Moses about not making gods of silver or gold and basic rules for altars (earth or unhewn stone, no steps), linking worship practices to reverence for God's presence.",
+  "externalContext": "Ancient Near Eastern societies commonly framed treaties and legal codes in the context of a sovereign who delivered people (the Exodus) and then gave law; the Sinai scene functions as a covenant-establishing event. Prohibitions against carved images respond to surrounding polytheistic cultures where cult statues were central, and Sabbath language echoes creation traditions (six days of work, one of rest). Altars of unhewn stone and the ban on steps reflect concerns about ritual propriety and avoiding cultic imitation of neighboring practices.",
+  "externalReferences": "Deuteronomy 5 retells these commandments with similar wording and emphasizes reasons for Sabbath observance (Deut 5:6–21). The prohibition of images and exclusive worship of Yahweh also appears in Exodus 34:13–17 and later in prophetic critiques of idolatry (e.g., Isaiah). In the New Testament Jesus summarizes the law as love of God and neighbor (Matthew 22:37–40), and Paul cites several of these prohibitions when summarizing the law's moral demands (Romans 13:8–10).",
+  "seeAlso": [
+    "Deuteronomy 5:6-21",
+    "Exodus 34:13-17",
+    "Leviticus 19:3-18",
+    "Matthew 22:37-40",
+    "Romans 13:8-10",
+    "Hebrews 4:4-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "The Ten Commandments"
+    },
+    {
+      "range": "18-21",
+      "title": "People's Reaction"
+    },
+    {
+      "range": "22-26",
+      "title": "Worship Instructions"
+    }
+  ],
+  "themes": [
+    "Law",
+    "Worship",
+    "Sabbath",
+    "Covenant"
+  ],
+  "practicalQuestions": [
+    "How should communities today interpret the command against images in relation to religious art and symbols?",
+    "What does Sabbath rest mean in modern life, and how can we honor it amid contemporary work rhythms?",
+    "In what ways can honoring parents be promoted in social and legal practices today?",
+    "How do these foundational prohibitions (murder, theft, false witness, coveting) shape a just society in our context?"
+  ],
+  "uncertainAreas": "Interpretive uncertainties include the scope of the ban on images (whether it forbids all figurative art or only cultic images), the meaning and ethical implications of 'a jealous God' and 'visiting the iniquity...to the third and fourth generation,' and how strictly the Sabbath prescription should be applied beyond its ancient cultic and communal setting.",
+  "createdAt": "2025-11-03T15:34:05.010Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

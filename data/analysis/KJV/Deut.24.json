@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.24",
+  "briefOverview": "Deuteronomy 24 sets rules for family life, property practices, and social justice, emphasizing protections for vulnerable people and fair treatment in economic relationships.",
+  "summary": "The chapter opens with a law permitting a husband to issue a written certificate of divorce if he finds 'uncleanness' in his wife and forbids a man from remarrying a wife he divorced after she has married another. A newly married man is exempt from military or public duties for one year to be with his wife. The text forbids taking essential household tools (upper or lower millstone) as a pledge and prescribes death for anyone who kidnaps and sells a fellow Israelite. It instructs careful attention to leprosy cases as handled by the Levites and recalls the incident of Miriam. Rules about loans require lenders to remain outside the borrower’s house, not to keep a garment overnight as pledge, and to return pledges by evening. The chapter demands timely payment of wages, individual responsibility for sin, impartial justice for strangers, orphans, and widows, and leaves portions of harvest (gleanings) for the poor, with repeated reminders to remember Israel’s bondage in Egypt as the motivation for these laws.",
+  "externalContext": "Deuteronomy presents laws given as Moses’ final address to Israel before entry into Canaan; many provisions reflect ancient Near Eastern social and economic realities where agrarian households, pledges, and debt were central. The emphasis on leaving gleanings for the poor fits a broader ANE pattern of institutionalized poor-relief tied to household agriculture. Legal documents for divorce (a certificate) and strong prohibitions against kidnapping align with concerns to regulate family stability and protect community integrity in a tribal society.",
+  "externalReferences": "The warning to follow priestly instruction about skin disease echoes the detailed priestly regulations in Leviticus 13–14 on leprosy and purification. The episode named 'what the LORD did unto Miriam' refers to Numbers 12:1–16, where Miriam is stricken with leprosy and then healed after Moses intercedes. Rules about returning a pledged garment by evening are similar to Exodus 22:26–27, and the prohibition against kidnapping or selling a fellow Israelite recalls Exodus 21:16.",
+  "seeAlso": [
+    "Numbers 12:1-16",
+    "Leviticus 13:1-14:32",
+    "Exodus 22:26-27",
+    "Exodus 21:16",
+    "Leviticus 19:9-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Marriage and Divorce"
+    },
+    {
+      "range": "6-16",
+      "title": "Pledges, Theft, and Labor"
+    },
+    {
+      "range": "17-22",
+      "title": "Justice for the Vulnerable"
+    }
+  ],
+  "themes": [
+    "Social justice",
+    "Protection of vulnerable",
+    "Family law",
+    "Economic ethics"
+  ],
+  "practicalQuestions": [
+    "How can contemporary communities create systems that ensure timely wages and protect low‑income workers as this chapter requires?",
+    "What modern analogues to gleaning (e.g., food banks, social programs) best reflect the chapter’s concern to leave resources for the poor, widow, and orphan?",
+    "How should religious and legal communities balance protections for marriage with humane treatment of those who are divorced or remarried?",
+    "In what ways does remembering past injustice (Israelite slavery in Egypt) motivate social policies today, and how can that memory be preserved in practice?"
+  ],
+  "uncertainAreas": "The text’s phrase 'found some uncleanness' is ambiguous about the specific grounds for divorce (sexual misconduct, ritual impurity, or a broader moral/behavioral category). The practical meaning of 'nether or upper millstone' as a pledge—whether symbolic of subsistence tools or a specific legal category—can be read at different levels. The severity of penalties (e.g., death for kidnapping) raises questions about proportionality and enforcement in historical context versus later interpretation.",
+  "createdAt": "2025-11-03T16:30:58.821Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

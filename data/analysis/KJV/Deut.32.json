@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Deut.32",
+  "briefOverview": "A poetic 'song of Moses' that praises God's character, recounts Israel's history and unfaithfulness, and pronounces God's judgment and vindication; it closes with Moses' final exhortation and God's command that Moses ascend Mount Nebo to die.",
+  "summary": "Moses calls heaven and earth to hear a poetic declaration that celebrates God's perfect character as the 'Rock' and recounts God's care for Israel in the wilderness. The song contrasts that divine faithfulness with Israel's prosperity-turned-pride, idolatry, and forgetfulness of the one who formed them. In response God threatens hidden withdrawal, severe punishments, and the use of foreign nations as instruments of judgment, yet also claims vindication and final vengeance reserved to him. The nations are invited to rejoice with God's people because God will avenge his servants, show mercy to his land, and punish adversaries. Moses then exhorts the people to keep the covenant words and teach them to their children as life and longevity. The chapter ends with the LORD instructing Moses to go up Mount Nebo to die because of the incident at Meribah-Kadesh; Moses is allowed to see the land but not enter it.",
+  "externalContext": "The Song of Moses is presented as a covenant-renewal poem placed on the eve of Israel's entrance into Canaan; invoking heaven and earth as witnesses follows ancient Near Eastern treaty and covenant practice. The poem uses traditional imagery (the 'Rock,' eagle nursing, wilderness care) that appears elsewhere in Israelite literature to summarize national origins and divine election. References to Sodom and Gomorrah and 'selling' or 'shutting up' enemies reflect common ancient idioms for moral and military ruin.",
+  "externalReferences": "The chapter explicitly alludes to the Meribah-Kadesh incident as the reason Moses cannot enter the land (compare Numbers 20:1–13). The Sodom and Gomorrah imagery echoes Genesis 19's account and later prophetic condemnations of those cities. The epithet 'Rock' and wilderness rescue language are paralleled by Psalms that call God 'the Rock' and recall Israel's history (e.g., Psalm 18:2; Psalm 78 recounts God's care and Israel's repeated failings).",
+  "seeAlso": [
+    "Numbers 20:1-13",
+    "Genesis 19",
+    "Psalm 18:2",
+    "Psalm 78",
+    "Deuteronomy 31",
+    "Deuteronomy 33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Invocation and Praise"
+    },
+    {
+      "range": "7-43",
+      "title": "History, Rebellion, Judgment"
+    },
+    {
+      "range": "44-52",
+      "title": "Exhortation and Farewell"
+    }
+  ],
+  "themes": [
+    "Covenant faithfulness",
+    "Divine judgment",
+    "Divine sovereignty",
+    "Obedience"
+  ],
+  "practicalQuestions": [
+    "How can communities preserve and teach founding stories so gratitude—not pride—shapes identity?",
+    "What safeguards help individuals and societies avoid letting prosperity lead to spiritual forgetfulness?",
+    "How should modern readers understand and respond to the poem's language of divine vengeance?",
+    "In what concrete ways can parents and leaders 'set their hearts' to pass ethical commitments to the next generation?"
+  ],
+  "uncertainAreas": "Authorship and precise dating of the song (traditionally Moses but likely shaped by later editorial layers) are uncertain. Some poetic lines (e.g., 'I will move them to jealousy with those which are not a people') admit multiple readings about how God uses foreign nations. The violent imagery of vengeance raises interpretive questions about literal versus rhetorical/poetic intent.",
+  "createdAt": "2025-11-03T16:34:50.730Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

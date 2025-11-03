@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Lev.6",
+  "briefOverview": "Leviticus 6 gives detailed priestly regulations for restitution and several offerings, emphasizing atonement, ritual procedure, and the perpetual fire on the altar.",
+  "summary": "Verses 1–7 require a person who has lied, deceived, or otherwise trespassed to restore the thing in full and add a fifth part, and to bring a ram as a trespass offering so the priest may make atonement. Verses 8–13 prescribe the law of the burnt offering, including the priest's duties, the removal of ashes outside the camp, and the command that the altar fire be kept continually burning. Verses 14–23 set rules for the meal (grain) offering, its presentation, the priest's share eaten in the holy place, and distinctions about which priestly offerings are wholly burnt. Verses 24–30 regulate the sin offering's place of slaughter, the conditions under which priests may eat it, requirements for handling vessels and garments, and note that certain sin offerings whose blood is brought into the sanctuary must be burned and not eaten.",
+  "externalContext": "These laws reflect the cultic system centered on the tabernacle and Aaronic priesthood in ancient Israel, where sacrifice, ritual purity, and restitution functioned together to restore right relations with God and neighbor. The requirement to add a fifth part (20%) to restitution appears elsewhere in the Pentateuch as a standard penalty for wrongs, and the perpetual altar fire signifies continuous worship and God's ongoing presence in the sanctuary. Measurements like the ephah and prescribed priestly garments reflect material and social structures of ancient Near Eastern temple service.",
+  "externalReferences": "The restitution rule and the requirement to add a fifth echo the earlier provisions in Leviticus 5:21–26. The laws for burnt, grain, and sin offerings connect closely with Leviticus 1–4, which set out the basic forms and purposes of those sacrifices. The allocation of portions to Aaron and his sons relates to priestly rights and provisions described in Numbers 18:8–11.",
+  "seeAlso": [
+    "Leviticus 5:21-26",
+    "Leviticus 1:1-17",
+    "Leviticus 2:1-16",
+    "Leviticus 4:1-35",
+    "Numbers 18:8-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Restitution and Trespass Offering"
+    },
+    {
+      "range": "8-13",
+      "title": "Burnt Offering and Perpetual Fire"
+    },
+    {
+      "range": "14-30",
+      "title": "Meal and Sin Offering Rules"
+    }
+  ],
+  "themes": [
+    "Atonement",
+    "Restitution",
+    "Priestly service",
+    "Perpetual worship"
+  ],
+  "practicalQuestions": [
+    "When someone harms another today, what forms of restitution and symbolic atonement are appropriate to repair relationships?",
+    "How might the idea of a 'perpetual fire' inform practices of continual devotion or communal responsibility in a modern faith community?",
+    "What responsibilities accompany religious leadership and provision, and how should communities support those who serve?",
+    "How do rules about sacred meals and who may partake shape our thinking about inclusion, holiness, and ritual boundaries now?"
+  ],
+  "uncertainAreas": "Some practical details are ambiguous from the chapter alone—for example, the precise circumstances that distinguish sin offerings that may be eaten from those that must be burned (verse 30) require comparison with other sacrificial laws. Also, the textual tradition and historical development (dating of these exact prescriptions within the priestly corpus) are not determinable from this chapter by itself.",
+  "createdAt": "2025-11-03T15:48:17.088Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

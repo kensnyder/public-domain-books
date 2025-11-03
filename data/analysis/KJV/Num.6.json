@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Num.6",
+  "briefOverview": "Numbers 6 prescribes the Nazirite vow — a voluntary ritual of separation to God — and records the Aaronic (priests') blessing for Israel.",
+  "summary": "Verses 1–21 give instructions for a Nazirite vow: a person who consecrates themselves must avoid wine and grape products, not cut their hair, and avoid contact with corpses; if defiled, specific cleansing sacrifices and rites are required when the vow terminates, including shaving and burning the hair under the peace-offering. Verses 22–27 provide the priestly blessing Aaron and his sons are to speak over Israel, promising God's protection, favor, and peace and stating that the priests shall place God's name on the people.",
+  "externalContext": "The Nazirite vow reflects a wider ancient Near Eastern practice of temporary or lifelong consecration to a deity by abstention and distinct appearance; in Israelite law it is formalized with sacrificial regulations and ritual purity rules. The priestly blessing (the Aaronic blessing) became an established liturgical formula in later Jewish worship and is still used in some Jewish and Christian rites.",
+  "externalReferences": "Samson is presented in Judges as an individual associated with a Nazirite-like vow (Judges 13:5; 16:17 describes his uncut hair as central to his vow). Luke 1:15 portrays John the Baptist as one who will abstain from wine, a detail often compared to Nazirite practice. The Aaronic blessing here is later echoed in Jewish liturgy and is cited or alluded to in various later texts and prayers.",
+  "seeAlso": [
+    "Judges 13:5",
+    "Judges 16:17",
+    "Luke 1:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-21",
+      "title": "Nazarite Vow"
+    },
+    {
+      "range": "22-27",
+      "title": "Priestly Blessing"
+    }
+  ],
+  "themes": [
+    "Vow/Consecration",
+    "Holiness/Separation",
+    "Ritual Purity",
+    "Divine Blessing"
+  ],
+  "practicalQuestions": [
+    "What kinds of voluntary practices of separation or dedication might be meaningful today, and why?",
+    "How should communities receive and support individuals who undertake serious personal vows?",
+    "In what ways can short-term commitments to restraint (digital fasts, abstentions) function like ancient vows?",
+    "How can the Aaronic blessing shape how we pray for protection, favor, and peace for others?"
+  ],
+  "uncertainAreas": "The chapter does not say how common Nazirite vows were in everyday Israelite life or how long typical vows lasted; the text leaves open distinctions between temporary and lifelong Nazirite status. Some ritual details (e.g., precise counting of days, the symbolic meaning of burning the hair under the peace-offering, and technical terms like 'sodden shoulder') are not fully explained here and require comparison with other sacrificial legislation and later tradition.",
+  "createdAt": "2025-11-03T16:03:17.520Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "1Sam.4",
+  "briefOverview": "A battle with the Philistines ends in catastrophic defeat for Israel when the people bring the ark from Shiloh hoping for divine help, only to have it captured; the chapter closes with the deaths of Eli's sons, Eli, and the birth of a child named Ichabod signifying the departure of glory.",
+  "summary": "Israel is routed by the Philistines, losing about four thousand men, and the elders decide to fetch the ark of the covenant from Shiloh to secure God’s presence in the camp. The arrival of the ark provokes a great shout that alarms the Philistines, who are urged to fight and subsequently defeat Israel decisively; about thirty thousand are killed and the ark is captured, while Hophni and Phinehas (Eli’s sons) are slain. A wounded runaway reports the disaster to Eli in Shiloh; upon hearing of the ark’s capture and his sons’ deaths, the aged Eli falls, breaks his neck, and dies. Phinehas’s wife, in childbirth, names her son Ichabod, declaring “The glory has departed from Israel” because the ark has been taken.",
+  "externalContext": "The ark of the covenant functioned in Israelite religion as the tangible symbol of YHWH’s presence, often kept at a central sanctuary (here, Shiloh) between the cherubim. In the ancient Near East armies commonly sought divine favor for victory, and the movement of cultic objects into battlefields was a recognized practice. The Philistines were a principal neighboring power in the coastal plain; interaction and warfare between them and Israel form a recurring element in early Israelite history.",
+  "externalReferences": "The Philistines’ reference to the plagues that struck Egypt echoes the Exodus narrative (see Exodus 7–12) when God’s power was manifested against Israel’s former oppressors. The moral and leadership failures of Eli’s sons, which provide background for the narrative’s judgmental tone, are described earlier in 1 Samuel 2:12–36. The immediate continuation of the ark-story and its consequences among the Philistines are narrated in 1 Samuel 5:1–12.",
+  "seeAlso": [
+    "Exodus 7-12",
+    "1 Samuel 2:12-36",
+    "1 Samuel 5:1-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Defeat and Decision"
+    },
+    {
+      "range": "4-11",
+      "title": "Ark Brought and Captured"
+    },
+    {
+      "range": "12-22",
+      "title": "Aftermath and Ichabod"
+    }
+  ],
+  "themes": [
+    "Divine presence",
+    "Military defeat",
+    "Leadership failure",
+    "Loss of glory"
+  ],
+  "practicalQuestions": [
+    "When faced with crisis, do we rely on religious symbols or on faithful obedience and moral reform?",
+    "How should communities hold leaders accountable when their conduct affects communal well-being?",
+    "What does it mean for a community to experience the ‘departure of glory,’ and how can recovery occur?",
+    "How ought we to care for and receive difficult news, especially when it concerns communal loss?"
+  ],
+  "uncertainAreas": "The narrative leaves ambiguous whether Israel’s bringing of the ark was pious trust or superstitious instrumentality; the text implies divine judgment but does not fully explain causal links between the priests’ behavior and the military disaster. Historical details (numbers, exact historicity of events) are uncertain and debated by scholars.",
+  "createdAt": "2025-11-03T17:01:44.794Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

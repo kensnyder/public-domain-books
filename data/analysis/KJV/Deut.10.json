@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Deut.10",
+  "briefOverview": "Moses recounts God’s replacement of the broken tablets and reiterates Israel’s covenant obligations, highlighting the Levites’ role and God’s care for vulnerable people.",
+  "summary": "Moses describes how God instructed him to carve new stone tablets, how God rewrote the ten commandments, and how he placed those tablets in an ark he made (verses 1–5). The narrative notes Aaron’s death and Eleazar succeeding him, the selection of the Levites to serve and carry the ark, and the Levites’ lack of territorial inheritance because the LORD is their portion (6–9). Moses recalls spending forty days on the mountain interceding so the LORD would not destroy the people and then leading them toward the land God swore to their ancestors (10–11). He then addresses Israel directly, summarizing what God requires: fear and love of God, wholehearted service, obedience to commandments, and a circumcision of the heart rather than merely external ritual (12–16). God is presented as sovereign over heaven and earth, choosing Israel with special love, and as a judge who cares for orphans, widows, and strangers—therefore Israel must love the stranger because they were once strangers in Egypt (14–21). The chapter closes by recalling the small number (seventy) who descended into Egypt and God’s blessing in making their descendants numerous (22).",
+  "externalContext": "Deuteronomy is presented as Moses’ farewell speeches before Israel enters Canaan; its language reflects covenantal instruction intended to shape national identity and law. The Levites’ status as a non-land-owning tribe with liturgical and custodial duties is established elsewhere in the Pentateuch and reflects ancient Near Eastern practices where a priestly group was supported by the community rather than by territorial inheritance.",
+  "externalReferences": "The command to hew new tablets parallels Exodus 34:1–4, where God instructs Moses to chisel two new stone tablets after the golden calf incident described in Exodus 32. The reference to the Ten Commandments echoes the presentation in Exodus 20:1–17. The Levites’ separation to serve and their lack of territorial inheritance is anticipated in Numbers 3:12–13 and Numbers 18:20–24. The call to love the stranger because Israel was a stranger in Egypt is reflected in Leviticus 19:34 and Exodus 22:21.",
+  "seeAlso": [
+    "Exodus 34:1-4",
+    "Exodus 20:1-17",
+    "Exodus 32",
+    "Numbers 3:12-13",
+    "Numbers 18:20-24",
+    "Leviticus 19:34",
+    "Exodus 22:21",
+    "Deuteronomy 30:6",
+    "Genesis 46:27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "New Tablets and Ark"
+    },
+    {
+      "range": "6-11",
+      "title": "Travel, Aaron, and Levites"
+    },
+    {
+      "range": "12-22",
+      "title": "Requirements and Compassion"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Obedience",
+    "Compassion",
+    "Holiness"
+  ],
+  "practicalQuestions": [
+    "What does 'circumcise your heart' look like in contemporary religious or ethical practice?",
+    "How should communities organize support for those with no inheritance (e.g., clergy, poor) today?",
+    "In what concrete ways can we welcome and protect strangers and migrants because of historical memory?",
+    "How can remembering formative acts of a community (like deliverance) shape present moral obligations?"
+  ],
+  "uncertainAreas": "Minor uncertainties include how literally to read numerical claims (the 'seventy' who went to Egypt) and nuances of terms like 'terrible' (Hebrew: awesome/fearsome). The precise ritual implications of 'circumcise the foreskin of your heart'—whether primarily ethical, spiritual, or ritual—allow multiple, textually defensible interpretations.",
+  "createdAt": "2025-11-03T16:24:14.899Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

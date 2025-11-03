@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.14",
+  "briefOverview": "Leviticus 14 lays out the ritual procedures for declaring a person healed of leprosy clean and for purifying houses afflicted with the 'plague' (tzara'at), specifying priests' actions, offerings, and symbolic materials used in the rites.",
+  "summary": "The chapter prescribes a two-part purification ritual for a person formerly afflicted with leprosy: examination by a priest outside the camp, a bird-and-water ritual (one bird slain, one released), washing, shaving, a seven-day interval, and on the eighth day multiple offerings (trespass/sin/burnt/meat offerings), anointing with oil and sprinkling of blood on the right ear, thumb, and toe, and atonement performed by the priest. Provisions are included for those too poor to afford the full sacrificial set, allowing two turtledoves or pigeons and reduced flour and oil offerings. The chapter then gives parallel procedures for a house showing a spreading discoloration—inspection, seven-day quarantine, removal and replacement of infected stones and plastering, and, if the infection returns, demolition and removal outside the city. If the house is healed, the priest performs a cleansing ritual using birds, cedar wood, hyssop, scarlet, running water, and sprinkling to make atonement. The chapter closes by listing the various kinds of tzara'at (skin, garment, house) that these laws govern and their purpose: to distinguish clean from unclean.",
+  "externalContext": "In ancient Israelite religion priests functioned as both diagnosticians and mediators of purity/impurity and controlled access to the cultic center (tabernacle). The Hebrew term translated 'leprosy' (tzara'at) covered a range of conditions of skin, clothing, and buildings and is not identical to modern Hansen's disease. Materials and motifs here—cedar (durability/status), hyssop (ritual cleansing), scarlet (dye/blood-like color), running water (symbolically 'living' water), and birds—occur elsewhere in ancient Near Eastern and biblical ritual practice as agents or symbols of purification and transfer.",
+  "externalReferences": "These rites are closely connected to the diagnostic rules in Leviticus 13, which detail how priests determine tzara'at in people, garments, and houses; Leviticus 14 functions as the complementary cleansing procedure for what Leviticus 13 diagnoses. The anointing and application of oil and blood on the ear, thumb, and toe recalls priestly consecration language found in Exodus 29:20 and the ordination material in Leviticus 8 where oil and blood are used to sanctify priests, suggesting that restored individuals are being reintegrated into cultic service and community life.",
+  "seeAlso": [
+    "Leviticus 13:1-59",
+    "Exodus 29:20",
+    "Leviticus 8:10-12",
+    "Numbers 19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-32",
+      "title": "Cleansing the Person"
+    },
+    {
+      "range": "33-53",
+      "title": "Cleansing the House"
+    },
+    {
+      "range": "54-57",
+      "title": "Scope and Purpose"
+    }
+  ],
+  "themes": [
+    "Purification",
+    "Ritual",
+    "Atonement",
+    "Community Boundaries"
+  ],
+  "practicalQuestions": [
+    "How can communities balance necessary public-health precautions with compassionate reintegration for the sick or formerly isolated?",
+    "What contemporary practices function like ritual washing, anointing, or symbolic rites to mark restoration and healing?",
+    "What responsibilities do religious or civic leaders have today in certifying recovery and restoring social standing?",
+    "How do symbols and repeated actions (washing, anointing, offering) shape a person's psychological sense of being 'made whole'?"
+  ],
+  "uncertainAreas": "The term translated 'leprosy' (tzara'at) does not map neatly onto modern medical categories, and the symbolic meanings of cedar, hyssop, scarlet, the two birds, and the specific placement of blood/oil (ear, thumb, toe) admit multiple interpretations (e.g., obedience/service, cleansing, reintegration). The text's ritual logic—how each element functions theologically versus practically—is interpretatively debated.",
+  "createdAt": "2025-11-03T15:52:09.331Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

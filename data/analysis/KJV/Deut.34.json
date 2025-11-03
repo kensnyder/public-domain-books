@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.34",
+  "briefOverview": "The chapter records Moses' final viewing of the Promised Land, his death and burial, and the transfer of leadership to Joshua, concluding with an exalted assessment of Moses' unique prophetic role.",
+  "summary": "Moses climbs Mount Nebo (Pisgah), where the LORD shows him the extent of the Promised Land but tells him he will not cross into it. Moses dies in Moab at 120 years old; he is buried in a valley opposite Beth-peor, and the exact location of his grave is said to be unknown. Israel mourns Moses for thirty days. Joshua, having received Moses' laying on of hands and filled with a spirit of wisdom, succeeds him and the people obey. The chapter closes by affirming that no prophet arose in Israel like Moses, whom the LORD knew \"face to face,\" citing his signs, wonders, and powerful leadership.",
+  "externalContext": "Deuteronomy functions as the conclusion of the Pentateuch and is shaped by later editorial traditions often called the Deuteronomistic history; the narrative reflects concerns about covenant, leadership, and the land. Mount Nebo (in modern Jordan) is a traditional vantage point east of the Jordan River overlooking the territory described. Thirty days of public mourning for a prominent leader fits near-eastern and Israelite mourning practices attested elsewhere. The statement that Moses lived 120 years is sometimes read literally and sometimes seen as a symbolic full lifespan.",
+  "externalReferences": "The promise of the land given to the patriarchs is rooted in Genesis passages such as Genesis 12:7 and Genesis 15:18 which tie the land to Abraham's descendants. The restriction that Moses would not enter Canaan and the appointment of Joshua are anticipated in Numbers (e.g., Numbers 20:12; Numbers 27:12–23), where God tells Moses he will not lead the people into the land and commands the commission of Joshua. The immediate transition to Joshua and the people's obedience is continued in Joshua 1, which narrates the new leader's charge and Israel's follow-through.",
+  "seeAlso": [
+    "Genesis 12:7",
+    "Genesis 15:18",
+    "Numbers 20:12",
+    "Numbers 27:12-23",
+    "Joshua 1:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "View of the Promised Land"
+    },
+    {
+      "range": "5-8",
+      "title": "Death and Burial of Moses"
+    },
+    {
+      "range": "9-12",
+      "title": "Succession and Praise"
+    }
+  ],
+  "themes": [
+    "Leadership transition",
+    "Divine promise",
+    "Mortality",
+    "Prophetic uniqueness"
+  ],
+  "practicalQuestions": [
+    "How can communities honor a beloved leader while also preparing for new leadership?",
+    "What does it mean to 'see' a goal without entering it, and how should we steward unfinished visions?",
+    "In what ways should the character and wisdom of a prior leader be transmitted to successors?",
+    "How do practices of public mourning and remembrance shape communal identity today?"
+  ],
+  "uncertainAreas": "Exact historical dating and authorship of Deuteronomy are debated; the identification of Pisgah and the precise burial site are traditional but not archaeologically confirmed; the phrase \"the LORD knew him face to face\" and the report that \"no man knoweth of his sepulchre unto this day\" raise interpretive questions about literal versus theological emphasis.",
+  "createdAt": "2025-11-03T16:35:48.492Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

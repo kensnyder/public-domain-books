@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Judg.17",
+  "briefOverview": "A local man named Micah sets up a private shrine with idols and hires a wandering Levite to be his household priest, illustrating decentralized and irregular worship during the period of the Judges.",
+  "summary": "Micah returns stolen silver to his mother, who dedicates part of it to make a graven image and a molten image; Micah installs those objects in his house and fashions an ephod and teraphim. He consecrates one of his sons to serve as priest. A Levite from Bethlehem of Judah arrives looking for work; Micah hires him, offering pay and provisions, and the Levite serves as his priest. The chapter closes with Micah expressing confidence that having a Levite will bring him blessing from the LORD. The narrative emphasizes private, improvised cultic practice and personal religious initiative.",
+  "externalContext": "Judges is set in the pre-monarchic period of Israel (circa late Bronze to early Iron Age), when tribal leaders governed without a centralized king. The Levites were a distinct tribe associated with religious functions and the tabernacle, but only certain Levites had official roles in the sanctuary according to the Pentateuch (e.g., Numbers 3–4). Objects named here — an ephod and teraphim — are associated elsewhere with priestly garments and household idols/divination respectively, and their presence in a private home reflects common syncretic/local cult practices in the ancient Near East that ran counter to the centralized worship prescribed in Torah law.",
+  "externalReferences": "The text contrasts with the Torah’s prohibitions against graven images (e.g., Exodus 20:4–5) and with regulations assigning specific cultic duties to Levites and priests (see Numbers 3:6–10; Deuteronomy 18:1–8). The refrain that \"there was no king in Israel\" echoes the broader Judges theme about decentralized authority (cf. Judges 21:25) and anticipates the demand for a monarchy in 1 Samuel 8. The ephod and teraphim elsewhere appear in stories of unauthorized or problematic cultic practice (e.g., 1 Samuel 15:23; 1 Samuel 19:13–16), suggesting tension between official worship and household religion.",
+  "seeAlso": [
+    "Exodus 20:4-5",
+    "Numbers 3:6-10",
+    "Deuteronomy 18:1-8",
+    "Judges 21:25",
+    "1 Samuel 8:1-22",
+    "1 Samuel 19:13-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Micah's Private Shrine"
+    },
+    {
+      "range": "6-13",
+      "title": "Levite Hired as Priest"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Religious Authority",
+    "Decentralization",
+    "Priesthood"
+  ],
+  "practicalQuestions": [
+    "How should communities balance private religious expression with communal standards and accountability?",
+    "What safeguards can prevent religious leaders or practices from becoming privatized or idolatrous?",
+    "In what ways can material possessions or religious symbols become substitutes for ethical or communal responsibility?",
+    "How do we evaluate the legitimacy of religious authority when formal institutions are weak or absent?"
+  ],
+  "uncertainAreas": "Uncertainty about the Levite's motives and status (was he a legitimate priest or simply itinerant and willing to be hired?), the legal status of the mother's dedication, and the precise function of the ephod/teraphim in this household context.",
+  "createdAt": "2025-11-03T16:55:33.203Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

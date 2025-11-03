@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Josh.9",
+  "briefOverview": "Israelite leaders make and keep a treaty with the Gibeonites who obtain it by deception; the treaty is honored, and the Gibeonites are assigned servile cultic labor.",
+  "summary": "When the Canaanite kings unite against Israel, the nearby city of Gibeon deceives Joshua and the leaders by posing as distant travelers with worn clothing and moldy provisions in order to secure a peace treaty. The Israelites accept their story without consulting the LORD, swear an oath to let them live, and conclude a league. Three days later the deception is discovered when Israel reaches the Gibeonite towns, but the leaders refuse to break the oath and protect the Gibeonites from slaughter. Instead, the Gibeonites are cursed to perpetual servitude as hewers of wood and drawers of water for the congregation and for the house of God, a status that the narrative reports continued “to this day.”",
+  "externalContext": "In the ancient Near East, formal treaties and sworn oaths were binding social and legal instruments; breaking them carried serious religious and political consequences. The text presumes earlier divine commands to dispossess or destroy certain Canaanite groups (herem), which shaped Israelite expectations and the Gibeonites’ fear. Consulting a divine oracle or priestly counsel before major decisions was a common expectation in Israelite leadership, so the failure to 'ask counsel at the mouth of the LORD' signals a significant procedural lapse.",
+  "externalReferences": "The chapter explicitly recalls Israel’s victories at Jericho and Ai (see Joshua 6–8), which provoked the Gibeonites’ fear and motivated their ruse. The divine command to drive out or destroy the Canaanite inhabitants is reflected in passages such as Deuteronomy 7:1–2 and informs the Gibeonites’ explanation for their deception. The later episode in 2 Samuel 21:1–9 involves the Gibeonites again and connects to themes of covenant obligations and communal responsibility toward treaty partners.",
+  "seeAlso": [
+    "Joshua 6:1-27",
+    "Joshua 8:1-29",
+    "Deuteronomy 7:1-2",
+    "2 Samuel 21:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Gibeonite Deception and Treaty"
+    },
+    {
+      "range": "16-27",
+      "title": "Discovery and Servitude"
+    }
+  ],
+  "themes": [
+    "Deception",
+    "Covenant/Oath",
+    "Divine command",
+    "Servitude"
+  ],
+  "practicalQuestions": [
+    "When should a community honor a promise made in error or under false pretenses?",
+    "How should leaders ensure important decisions are made with appropriate consultation and sources of moral authority?",
+    "What balance should be struck between mercy and justice when dealing with vulnerable groups?",
+    "How do past commitments constrain present ethical choices?"
+  ],
+  "uncertainAreas": "Uncertainty about the Gibeonites' motives—whether wholly survival-driven or also diplomatic—and about the legal vs. rhetorical force of Joshua’s curse (v.23). The precise nature of 'hewers of wood and drawers of water' as cultic service versus chattel slavery is interpretively ambiguous. The editorial note 'even unto this day' reflects the narrator’s later perspective, but its exact chronological reference is unclear.",
+  "createdAt": "2025-11-03T16:39:38.324Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

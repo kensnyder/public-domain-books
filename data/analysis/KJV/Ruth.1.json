@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Ruth.1",
+  "briefOverview": "Naomi, bereaved by the deaths of her husband and sons, returns from Moab to Bethlehem; her daughter-in-law Ruth refuses to leave her and pledges loyalty to Naomi and to Naomi's God.",
+  "summary": "A Bethlehemite family flees famine to Moab where Elimelech dies and his two sons marry Moabite women, Orpah and Ruth. After about ten years the sons also die, leaving Naomi a childless widow. Hearing that the LORD had provided bread in Judah, Naomi decides to return home and urges her daughters-in-law to remain in Moab; Orpah leaves but Ruth steadfastly refuses. Ruth's declaration — \"whither thou goest I will go... thy people shall be my people, and thy God my God\" — marks a personal commitment to Naomi and to Israel. The two arrive in Bethlehem at the beginning of the barley harvest, and Naomi, feeling afflicted, asks to be called \"Mara\" because the LORD has dealt bitterly with her.",
+  "externalContext": "The narrative is set \"in the days when the judges ruled,\" a loosely dated period of tribal decentralization before Israel had a king (the so-called Judges era). Moab lay east of the Dead Sea and was a neighboring kingdom with its own gods and distinct identity; certain legal texts (e.g., Deuteronomy) treat Moabites and other foreigners differently, making a Moabite widow's integration noteworthy. Widows in the ancient Near East were socially vulnerable, and the barley harvest was an important economic moment when sustenance and opportunities (like gleaning) became available.",
+  "externalReferences": "The phrase \"in the days when the judges ruled\" echoes the book of Judges' description of Israel's unsettled period (see Judges 21:25). Legal and covenantal texts such as Deuteronomy 23:3–4, which restricts Moabites' entry into the assembly, and the kinsman-redeemer instruction in Deuteronomy 25:5–10 provide background for later developments in the story about marriage, family obligation, and redemption. The motif of a foreigner joining Israel echoes earlier narratives of non-Israelites incorporated into the community (for example, Rahab in Joshua 2 and 6).",
+  "seeAlso": [
+    "Judges 21:25",
+    "Deuteronomy 23:3-4",
+    "Deuteronomy 25:5-10",
+    "Joshua 2:1",
+    "Joshua 6:25",
+    "Ruth 2:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Famine and Exile"
+    },
+    {
+      "range": "6-18",
+      "title": "Naomi's Return and Ruth's Vow"
+    },
+    {
+      "range": "19-22",
+      "title": "Arrival at Bethlehem"
+    }
+  ],
+  "themes": [
+    "Loyalty",
+    "Loss and Grief",
+    "Identity",
+    "Providence"
+  ],
+  "practicalQuestions": [
+    "How can we care for and protect widows and the socially vulnerable in our communities today?",
+    "What does Ruth's pledge teach about forming cross-cultural loyalties and religious commitments?",
+    "When facing suffering, how should individuals and communities interpret and respond to a sense that God has 'dealt bitterly' with them?",
+    "How might a community welcome and integrate those who come from different ethnic or religious backgrounds?",
+    "In what practical ways can people support one another during economic hardship (the story highlights timing with the barley harvest)?"
+  ],
+  "uncertainAreas": "It is unclear whether Naomi's statement that the \"hand of the LORD is gone out against me\" is meant as theological judgment, poetic lament, or a culturally shaped way of expressing misfortune. The narrative does not fully explain Orpah's motives for leaving or the deeper reasons for Ruth's conversion (sincere religious faith versus social loyalty), so some interpretive ambiguity remains about their inner motivations.",
+  "createdAt": "2025-11-03T16:58:19.123Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Exod.7",
+  "briefOverview": "God commissions Moses and Aaron to confront Pharaoh with signs, initiating the contest of power between Yahweh and Egypt that begins with the river turned to blood.",
+  "summary": "God appoints Moses as his representative and Aaron as his spokesperson before Pharaoh, announcing that He will harden Pharaoh's heart and perform signs in Egypt. Moses and Aaron demonstrate the rod-turned-serpent before Pharaoh, and Egyptian magicians replicate the feat, but Aaron's rod swallows theirs. God then instructs Moses and Aaron to strike the Nile, which is turned to blood; the fish die and the water becomes undrinkable, causing widespread distress. The Egyptian magicians imitate the plague, but Pharaoh remains unmoved, his heart hardened as God foretold, and the Egyptians dig for fresh water. The chapter closes noting that seven days passed after the Lord struck the river.",
+  "externalContext": "The narrative reflects a cultural setting in which royal courts employed magicians and where serpents and staffs carried symbolic religious meaning (for example, serpent imagery appears in Egyptian regalia). The story participates in an ancient Near Eastern genre of divine contest and demonstration of power over rival gods and nations. Traditionally, Exodus is ascribed to Moses and was compiled in a later ancient Israelite context with theological aims — notably to demonstrate Yahweh's supremacy and to explain Israel's liberation from Egypt.",
+  "externalReferences": "The rod-as-sign motif appears earlier in Exodus 4:2–5, where God first turns Moses' staff into a serpent as a sign to Israel. The theme of God hardening Pharaoh’s heart recurs throughout the plague narrative (e.g., Exodus 4:21; 9:12). Later Israelite poetry and historiography recall these events (for example, Psalm 78:43–44; Psalm 105:26–29) when retelling the plagues and Yahweh’s acts in Egypt.",
+  "seeAlso": [
+    "Exodus 4:2-5",
+    "Exodus 4:21",
+    "Exodus 8:18-19",
+    "Exodus 9:12",
+    "Psalm 78:43-44",
+    "Psalm 105:26-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Commission and Purpose"
+    },
+    {
+      "range": "6-13",
+      "title": "Signs Before Pharaoh"
+    },
+    {
+      "range": "14-25",
+      "title": "First Plague: Nile to Blood"
+    }
+  ],
+  "themes": [
+    "Divine authority",
+    "Power vs. magic",
+    "Hardening of heart",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How should communities interpret and respond when signs or evidence challenge established authorities?",
+    "What does the motif of a 'hardened heart' suggest about responsibility, free will, and divine action in situations of moral refusal?",
+    "How can leaders today demonstrate accountability when their decisions cause harm to the vulnerable, as Pharaoh’s refusal affected all Egyptians?",
+    "In what ways does the chapter invite reflection on the ethical limits of imitating or competing with powerful demonstrations (science, rhetoric, spectacle) rather than addressing underlying justice?"
+  ],
+  "uncertainAreas": "The text leaves open whether Pharaoh’s hardening is primarily divine causation, human stubbornness, or a combination; the historical details of the magicians’ practices and the precise historicity of the miraculous events are also uncertain.",
+  "createdAt": "2025-11-03T15:27:50.748Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

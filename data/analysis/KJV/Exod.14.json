@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Exod.14",
+  "briefOverview": "The chapter narrates Israel’s escape from Egypt through a miraculous crossing of the sea, showing God’s power in delivering Israel and defeating Pharaoh’s army.",
+  "summary": "God directs Moses to camp by the sea, deliberately placing Israel where Pharaoh will pursue them. Pharaoh pursues with a vast chariot force; the Israelites panic and accuse Moses, but he tells them to stand still and see the Lord’s salvation. God instructs Moses to stretch out his hand over the sea; a strong east wind divides the waters and creates dry ground for Israel to cross with walls of water on either side. The Egyptians follow, are disordered (their chariot wheels are impaired), and when Moses again stretches out his hand the waters return, drowning Pharaoh’s chariots and horsemen. Israel walks through safely, sees the dead Egyptians, and responds with fear, belief in the LORD, and faith in Moses.",
+  "externalContext": "Place names like Pi-hahiroth, Migdol, and Baal-zephon locate the story in the northeastern Delta/coastal region and reflect ancient Near Eastern toponyms; the Hebrew term translated “sea” (Yam Suph) is often rendered “Sea of Reeds” by some scholars, so the exact body of water is debated. Chariot warfare was a prominent feature of Late Bronze/Early Iron militaries, and the detail of 600 chariots fits the genre’s concern for military scale. This crossing became a foundational tradition for Israelite identity and worship, later celebrated liturgically (e.g., the Song of Moses) and referenced in communal memory and theology.",
+  "externalReferences": "The motif of God hardening Pharaoh’s heart appears earlier in the narrative (see Exodus 4:21) and is reiterated here as part of the pattern that leads to public demonstration of God’s power. This deliverance is retold immediately in Exodus 15:1–18 (the Song of Moses) and is recalled in later scriptural reflections such as Psalms 106:7–12 and New Testament reflection on the Exodus crossing in 1 Corinthians 10:1–2.",
+  "seeAlso": [
+    "Exodus 4:21",
+    "Exodus 15:1-18",
+    "Psalms 106:7-12",
+    "1 Corinthians 10:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Pharaoh Pursues Israel"
+    },
+    {
+      "range": "13-18",
+      "title": "Command and Promise"
+    },
+    {
+      "range": "19-31",
+      "title": "Sea Divided and Victory"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Divine sovereignty",
+    "Faith and fear",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "When facing overwhelming danger, how do we move from panic to steady trust as Moses urged the people?",
+    "How should communities remember and retell formative acts of deliverance to shape communal identity and faith?",
+    "What does the text’s portrayal of divine action and human responsibility (e.g., hardening of the heart) mean for how we understand moral agency today?",
+    "How can the theme of God acting to protect a vulnerable people inform contemporary responses to oppression?"
+  ],
+  "uncertainAreas": "The exact geographical setting (which sea or marsh is meant) is debated, as is the historicity and precise mechanics of the miraculous crossing. Theological interpretation of \"hardening Pharaoh's heart\"—how divine sovereignty and Pharaoh’s responsibility interact—remains contested.",
+  "createdAt": "2025-11-03T15:31:07.722Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

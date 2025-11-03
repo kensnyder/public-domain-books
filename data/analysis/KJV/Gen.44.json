@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.44",
+  "briefOverview": "A staged test by Joseph results in Benjamin being accused, and Judah offers himself in Benjamin’s place to protect their father and brothers.",
+  "summary": "Joseph instructs his steward to refill the brothers' sacks with food and to place his silver cup in Benjamin's sack. The steward overtakes them, accuses them of stealing the cup used for divination, and when the sacks are opened the cup is found with Benjamin. The brothers mourn and return to Joseph's house; Joseph accuses them and declares that the man in whose hand the cup is found will become his servant. Judah then pleads, recounting the brothers' family situation and their father's dependence on Benjamin, and offers himself as a substitute bondman so that Benjamin may return to his father.",
+  "externalContext": "The story is part of the larger Joseph narrative (Genesis 37–50) composed in an ancient Near Eastern milieu where household stewards exercised wide authority and forms of divination were culturally known. Customs of family honor, birth-order responsibility, and the practice of taking hostages or servants as security help explain the severity of the threat and Judah’s willingness to offer himself as substitute.",
+  "externalReferences": "The scene echoes earlier and later parts of the Joseph cycle: Judah’s earlier role in selling Joseph (Genesis 37:26–27) provides ironic contrast with his present self-sacrifice. The brothers’ conscience and fear of punishment recall their words in Genesis 42:21. Judah’s appeal for Benjamin parallels his earlier intercession in Genesis 43:8–10, and Joseph’s eventual revelation and reconciliation occur later (Genesis 45:1–15).",
+  "seeAlso": [
+    "Genesis 37:26-27",
+    "Genesis 42:21",
+    "Genesis 43:8-10",
+    "Genesis 45:1-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "The Hidden Cup Planted"
+    },
+    {
+      "range": "13-18",
+      "title": "Discovery and Accusation"
+    },
+    {
+      "range": "19-34",
+      "title": "Judah's Plea and Offer"
+    }
+  ],
+  "themes": [
+    "Testing",
+    "Intercession",
+    "Guilt/Repentance",
+    "Familial duty"
+  ],
+  "practicalQuestions": [
+    "When is it appropriate to test or challenge others to reveal character, and what safeguards should accompany such tests?",
+    "How can we act as intercessors or advocates for vulnerable family members without enabling harm?",
+    "What responsibilities do older siblings or leaders have toward younger or dependent family members today?",
+    "How should a community respond when feelings of guilt and conscience surface among its members?"
+  ],
+  "uncertainAreas": "Joseph’s motives (vengeance, justice, or deliberate testing for repentance) are not explicit and remain open to interpretation. The precise nature and cultural use of the 'divining cup' are not fully clear from the text, and details about legal or social consequences for the accused in the Egyptian setting are not specified here.",
+  "createdAt": "2025-11-03T15:20:13.118Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

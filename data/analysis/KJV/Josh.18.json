@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Josh.18",
+  "briefOverview": "Joshua convenes Israel at Shiloh to survey and allocate the remaining tribal inheritances, then records the boundary and cities assigned to the tribe of Benjamin.",
+  "summary": "The congregation gathers at Shiloh and the tabernacle is set up there while the land has been subdued. Seven tribes had not yet received their portions, so Joshua commissions survey teams (three men per tribe) to map the land and divide it into seven parts for lot-casting. He instructs that Levites receive no territorial inheritance and notes that Gad, Reuben, and half the tribe of Manasseh already received land east of the Jordan by Moses. The teams return with written descriptions, Joshua casts lots before the LORD at Shiloh, and the land is apportioned. The chapter then gives the detailed borders and a list of towns comprising the inheritance of the tribe of Benjamin.",
+  "externalContext": "Shiloh served as the primary Israelite sanctuary and cultic center before the centralization of worship in Jerusalem, so allotment and tabernacle activity there reflects an early Israelite religious geography. Casting lots was an accepted procedure in ancient Israel for making communal decisions that were understood as leaving the final determination to God. The Levites’ lack of a territorial allotment corresponds to priestly provisions elsewhere in the Pentateuch, where their inheritance is the LORD’s service and support from the other tribes.",
+  "externalReferences": "The provision that Gad, Reuben, and half the tribe of Manasseh received land east of the Jordan echoes the settlement account in Numbers 32. The statement that Levites have no inheritance corresponds to Numbers 18:20–24, which assigns them priestly duties rather than land. This chapter continues the land-distribution material found earlier in Joshua 13–17 and the conquest context including cities like Jericho (see Joshua 6). The later capture of Jebus (Jerusalem) by David is recounted in 2 Samuel 5:6–10, showing a subsequent development in the status of one city listed here as Jebusi.",
+  "seeAlso": [
+    "Numbers 32",
+    "Numbers 18:20-24",
+    "Joshua 13-17",
+    "Joshua 6",
+    "2 Samuel 5:6-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Survey and Lot-casting"
+    },
+    {
+      "range": "11-28",
+      "title": "Benjamin's Territory"
+    }
+  ],
+  "themes": [
+    "Land",
+    "Inheritance",
+    "Community order",
+    "Divine allocation"
+  ],
+  "practicalQuestions": [
+    "How should modern communities decide the fair distribution of shared resources while recognizing institutional roles (like the Levites) that forego material shares?",
+    "What can leaders learn from Joshua’s mix of urgent exhortation and organized procedure when mobilizing a community to complete unfinished responsibilities?",
+    "In what ways can trusting communal decision processes (symbolized by casting lots) be balanced with active planning and accountability?",
+    "How do we care for groups or roles within a community that receive non-material or different forms of support?"
+  ],
+  "uncertainAreas": "Some geographic names and boundary descriptions are difficult to identify precisely today (e.g., Beth-aven, Ataroth-adar, several valleys), making exact mapping uncertain. The text presupposes that casting lots represents divine decision-making; whether and how to read that as purely procedural versus theological is interpretive. The phrase ‘seven parts’ may raise questions about how the remaining tribes were grouped for allotment in relation to tribal numbers.",
+  "createdAt": "2025-11-03T16:43:57.522Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

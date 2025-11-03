@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Gen.25",
+  "briefOverview": "Genesis 25 shifts from Abraham’s final family and death to genealogies of Ishmael and the birth and early rivalry of Isaac’s twin sons, Esau and Jacob, culminating in Esau selling his birthright.",
+  "summary": "Abraham marries Keturah and fathers additional sons, but he gives his estate to Isaac while sending the other sons east with gifts. Abraham dies at 175 and is buried by Isaac and Ishmael in the cave of Machpelah. God blesses Isaac, and the chapter then lists the twelve sons of Ishmael and summarizes his life. Isaac marries Rebekah; after infertility and Isaac’s prayer, Rebekah conceives twins who struggle in her womb and receive a divine oracle that ‘the elder shall serve the younger.’ The twins, Esau (a skillful hunter) and Jacob (a quiet tent-dweller), are contrasted in parental affection, and Esau impulsively sells his birthright to Jacob for a meal of lentils.",
+  "externalContext": "In the ancient Near Eastern patriarchal context, inheritance and the birthright (including leadership of the family and a double portion) were socially and economically significant, which helps explain the gravity of Esau’s sale. Concubinage and secondary wives were commonly used to produce offspring and alliances; sons of concubines could receive gifts but often not the primary inheritance. The cave of Machpelah near Hebron was viewed as an ancestral burial site and later held ongoing religious and cultural importance. Genealogies in Genesis function both to record tribal origins and to explain later relationships among neighboring peoples.",
+  "externalReferences": "The promise that Abraham’s offspring would include many nations and princes connects back to God’s earlier promise to Abraham (Genesis 17:20) and the earlier narratives about Hagar and Ishmael (Genesis 16; 21:8–21). The motif that God chooses the younger over the elder recurs in the Jacob–Esau cycle (Genesis 27) and is later used theologically in the New Testament (Romans 9:10–13) to discuss divine election. The burial in Machpelah ties to earlier land-purchase narratives (Genesis 23).",
+  "seeAlso": [
+    "Genesis 17:20",
+    "Genesis 21:8-21",
+    "Genesis 23:1-20",
+    "Genesis 27:1-40",
+    "Genesis 28:1-5",
+    "Genesis 36:1-43",
+    "Romans 9:10-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Abraham's Later Family"
+    },
+    {
+      "range": "7-11",
+      "title": "Death and Burial"
+    },
+    {
+      "range": "12-34",
+      "title": "Ishmael and Isaac's Sons"
+    }
+  ],
+  "themes": [
+    "Inheritance",
+    "Covenant continuity",
+    "Sibling rivalry",
+    "Genealogy"
+  ],
+  "practicalQuestions": [
+    "How should families today handle favoritism and its long-term effects on siblings?",
+    "What responsibilities come with birthright or leadership, and how do we guard against impulsive decisions like Esau’s?",
+    "How can communities honor promises to descendants while adapting to changing social realities?",
+    "What does praying and seeking divine guidance look like today in situations of family crisis or infertility?"
+  ],
+  "uncertainAreas": "Uncertainties include the precise legal and social implications of Abraham’s gifts to his other sons versus Isaac’s sole inheritance, the exact nature of Rebekah’s consultation of the LORD (means of revelation), and precise geographic identifications for places like Havilah, Shur, and Lahai-roi; also, the text’s blend of genealogical summary and theological interpretation leaves historic details partially indeterminate.",
+  "createdAt": "2025-11-03T15:09:54.977Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

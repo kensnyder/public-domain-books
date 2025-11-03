@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Exod.36",
+  "briefOverview": "The chapter records skilled craftsmen carrying out God's instructions to build the tabernacle, and gives detailed specifications for its curtains, coverings, boards, and fittings.",
+  "summary": "Bezaleel, Aholiab, and all the skilled artisans whom the LORD filled with wisdom prepare to execute the work of the sanctuary. The people bring more material than is needed, so Moses proclaims that no further offerings should be made. The remainder of the chapter gives precise construction details and counts: ten inner curtains of fine linen with cherubim, eleven goat-hair outer curtains coupled with brass taches, coverings of rams' skins dyed red and 'badgers' skins,' acacia (shittim) wood boards with silver sockets, gold-overlaid bars and rings, the veil embroidered with cherubim, and pillars and sockets for the entrance hanging. Measurements (lengths, breadths, numbers of loops, taches, sockets, bars) are specified throughout to ensure the tabernacle is assembled exactly as commanded.",
+  "externalContext": "The tabernacle was the portable sanctuary used by Israel during the wilderness period; its construction marks the centralization of divine presence among the people. Bezaleel and Aholiab are earlier described (Exodus 31:1–11) as artisans endowed by God with skill. 'Shittim' wood refers to acacia, a common durable wood in the region; a 'cubit' is an ancient unit roughly a forearm's length (commonly estimated ~18 inches/45 cm). Some technical terms and animal identifications (e.g., 'taches,' 'badgers' skins') reflect ancient materials and later translation choices.",
+  "externalReferences": "This chapter closely parallels the divine instructions given in Exodus 25–31, especially the construction specifications in Exodus 26 (curtains, boards, and veil). The commissioning of Bezaleel and Aholiab and the bestowal of craftsmanship are described earlier in Exodus 31:1–11. The report of the people's voluntary offerings that exceeded needs echoes Exodus 35:4–29, where those contributions are first gathered.",
+  "seeAlso": [
+    "Exodus 31:1-11",
+    "Exodus 26",
+    "Exodus 35:4-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Artisans and Offerings"
+    },
+    {
+      "range": "8-38",
+      "title": "Tabernacle Construction Details"
+    }
+  ],
+  "themes": [
+    "Craftsmanship",
+    "Divine Provision",
+    "Worship Space",
+    "Generosity"
+  ],
+  "practicalQuestions": [
+    "How can a modern community identify and deploy gifted individuals for shared sacred or communal projects?",
+    "When should leaders accept further donations and when should they say 'enough' — what criteria help determine sufficiency?",
+    "How does attention to beauty and skilled workmanship shape communal worship and identity today?",
+    "What practices can ensure voluntary contributions are used responsibly and do not become a burden on donors?"
+  ],
+  "uncertainAreas": "Translation and identification uncertainties (e.g., 'badgers' skins' for Hebrew tahash, exact meaning of 'taches') and the precise length of the cubit introduce some ambiguity. Minor technical assembly details (order of coupling and exact construction sequence) are assumed to follow Exodus 26 but are not all explicitly restated here.",
+  "createdAt": "2025-11-03T15:42:42.383Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

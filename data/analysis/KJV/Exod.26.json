@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Exod.26",
+  "briefOverview": "Detailed, technical instructions for building the tabernacle and its furnishings, emphasizing materials, measurements, and assembly. The chapter specifies how the sacred space is to be constructed and how the holy and most holy places are separated.",
+  "summary": "God gives Moses precise specifications for the tabernacle’s structure: ten inner curtains of fine linen embroidered with cherubim, eleven outer goat-hair curtains, coverings of rams’ skins and (term translated) badgers’ skins, and a double set of wooden boards (shittim/ acacia) with silver sockets and gold overlay. The text lists exact numbers, sizes (cubits), and how curtains and taches (fastenings) are to be coupled so the tent will be one unit. It prescribes five bars, rings, and gold overlay for the boards and directs that the tabernacle be reared up according to the pattern shown on the mountain. A veil embroidered with cherubim is specified to divide the holy place from the most holy, where the ark and mercy seat will be placed; the table and candlestick are set in the outer compartment. The chapter closes with instructions for the entrance hanging and its five pillars with brass sockets.",
+  "externalContext": "The tabernacle instructions reflect a portable sanctuary appropriate to a semi-nomadic people, combining lightweight textiles and modular wooden boards so the structure could be assembled and disassembled. 'Shittim' wood is commonly identified as acacia, a durable timber available in the region; the cubit is an ancient unit (roughly 18 inches/45 cm, though it varied). The emphasis on skilled workmanship and costly materials (gold, fine linen, colored dyes) highlights the cultic importance of the space and the role of artisan-experts in Israelite worship.",
+  "externalReferences": "This chapter continues the architectural and cultic material first introduced in Exodus 25 (plans for the ark, table, lampstand) and is closely completed by Exodus 40, which narrates the actual erection of the tabernacle. The veil and the placement of the ark and mercy seat anticipate later ritual themes about the holy of holies and atonement discussed in Leviticus 16 and are reflected in New Testament reflection on the tabernacle layout in Hebrews 9:2–5. Parallels in descriptions of later temple construction (e.g., 1 Kings 6) show continuity in some design elements (overlay, inner sancta) between the tabernacle and Solomon’s temple.",
+  "seeAlso": [
+    "Exodus 25",
+    "Exodus 27",
+    "Exodus 40",
+    "Leviticus 16:2-4",
+    "Hebrews 9:2-5",
+    "1 Kings 6:15-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Curtains and Coverings"
+    },
+    {
+      "range": "15-30",
+      "title": "Boards and Frames"
+    },
+    {
+      "range": "31-37",
+      "title": "Veil and Entrance"
+    }
+  ],
+  "themes": [
+    "Sacred space",
+    "Craftsmanship",
+    "Separation",
+    "Divine presence"
+  ],
+  "practicalQuestions": [
+    "How should modern communities think about the role of physical spaces and materials in shaping worship and encounter with the divine?",
+    "What does the attention to skilled artisanship teach about honoring labor and aesthetic contribution to communal religious life?",
+    "In what ways does the veil’s division between holy and most holy inform contemporary conversations about access, mediation, and inclusion in worship?",
+    "How do constraints of portability, resources, and environment shape the forms of religious practice we create today?"
+  ],
+  "uncertainAreas": "The precise identification of 'badgers' skins' (Hebrew term tachash) is uncertain in scholarship; the exact length of a cubit varied historically; some practical details of assembly (e.g., exact placement of the 'half curtain' and certain coupling mechanics) leave room for differing reconstructions.",
+  "createdAt": "2025-11-03T15:37:06.784Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

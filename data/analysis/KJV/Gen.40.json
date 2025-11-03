@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Gen.40",
+  "briefOverview": "Joseph, while imprisoned in Egypt, interprets the dreams of Pharaoh’s chief cupbearer and baker, predicting the cupbearer’s restoration and the baker’s execution.",
+  "summary": "Joseph encounters Pharaoh’s chief butler and baker in the prison; both have troubling dreams. Joseph attributes interpretive ability to God and explains that the butler’s three-branch vine means he will be restored to his office in three days, while the baker’s three baskets mean he will be executed in three days. Joseph asks the butler to remember him and intercede with Pharaoh, explaining his unjust confinement. The dreams are fulfilled on Pharaoh’s birthday: the butler is reinstated and the baker is hanged. However, the butler forgets Joseph and does not advocate for him.",
+  "externalContext": "The story is set in ancient Egypt, where dreams were often regarded as meaningful and professional interpreters could hold influence in court. Prisoners sometimes served as attendants or laborers for guards, which explains Joseph’s contact with the officers. The account fits broader ancient Near Eastern motifs where divine messages come through dreams and where court favor could turn quickly at royal feasts or birthdays.",
+  "externalReferences": "This episode follows Joseph’s sale into slavery and imprisonment in Genesis 37 and leads directly into Genesis 41, where Joseph interprets Pharaoh’s dreams and rises to power. The theme of God giving wisdom to interpret dreams is echoed later in Daniel 2, where Daniel credits God for revealing the mystery of the king’s dream (Daniel 2:19–23).",
+  "seeAlso": [
+    "Genesis 37:12-36",
+    "Genesis 41:1-45",
+    "Daniel 2:19-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Joseph in Prison"
+    },
+    {
+      "range": "5-19",
+      "title": "Dreams and Interpretations"
+    },
+    {
+      "range": "20-23",
+      "title": "Fulfillment and Forgetting"
+    }
+  ],
+  "themes": [
+    "Dream interpretation",
+    "Divine providence",
+    "Memory and forgetting",
+    "Delayed justice"
+  ],
+  "practicalQuestions": [
+    "When someone has helped you in a crisis, how do you ensure you remember and repay that kindness?",
+    "How do we discern whether an insight or message is from God rather than our own wishful thinking?",
+    "What responsibilities do we have to advocate for people who have been wronged when we regain favor or influence?",
+    "How should communities respond when justice or vindication is delayed for the innocent?"
+  ],
+  "uncertainAreas": "The text is ambiguous about why the chief butler failed to remember Joseph—whether through negligence, fear, or changed circumstances. The symbolic significance of “three days” may be literal timing or a conventional formula; the narrative does not explain motivations behind the butler’s forgetfulness.",
+  "createdAt": "2025-11-03T15:18:01.778Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

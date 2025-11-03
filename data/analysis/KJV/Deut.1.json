@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Deut.1",
+  "briefOverview": "Moses delivers a retrospective address recounting leadership arrangements, the sending of spies, Israel’s rebellion at Kadesh-barnea, and the divine judgment that barred that generation from entering the promised land.",
+  "summary": "The chapter opens by situating Moses’ speech east of the Jordan in the fortieth year and recalls God’s command to advance and possess the land promised to the patriarchs. Moses explains his appointment of local leaders and judges to share governance and to decide disputes righteously. He then recounts the episode of the twelve spies who praised the land, Israel’s fearful refusal to enter, and the people’s rebellion and murmuring against God. Because of that lack of faith, God declared that that generation would not see the land, except Caleb, and that Moses himself would not enter; Joshua is named as the one who will lead Israel in. When Israel later attempted to go up presumptuously, God was not with them, they were defeated by the Amorites, and they remained at Kadesh many days.",
+  "externalContext": "Deuteronomy is presented as Moses’ final series of speeches before Israel’s entry into Canaan; scholars and ancient tradition regard it as a restatement of earlier laws and events for a new generation. The narrative here presupposes earlier accounts (Numbers and Exodus) that narrate the wilderness wanderings, the episode of the spies, and the cloud-and-fire theophany that guided Israel. The chapter reflects ancient Near Eastern concerns about leadership, covenant land, and communal memory.",
+  "externalReferences": "The spies episode and the community’s refusal corresponds closely with Numbers 13–14, which gives a fuller narrative of the reconnaissance and the divine judgment. The cloud by day and fire by night echo Exodus 13:21–22, the sign of divine guidance through the wilderness. The promise of the land to the patriarchs is rooted in earlier covenants such as Genesis 15:18. The institutional recommendation to appoint judges has a parallel in Exodus 18:13–26 where Jethro advises Moses to delegate judicial duties.",
+  "seeAlso": [
+    "Numbers 13:1-14:45",
+    "Exodus 13:21-22",
+    "Genesis 15:18",
+    "Exodus 18:13-26",
+    "Numbers 21:21-35",
+    "Numbers 27:18-23",
+    "Joshua 1:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Setting and Occasion"
+    },
+    {
+      "range": "6-18",
+      "title": "Delegation and Justice"
+    },
+    {
+      "range": "19-46",
+      "title": "Spies, Rebellion, Consequences"
+    }
+  ],
+  "themes": [
+    "Leadership",
+    "Rebellion",
+    "Covenant",
+    "Memory"
+  ],
+  "practicalQuestions": [
+    "How should contemporary leaders create systems of delegated authority and just adjudication like Moses did?",
+    "When communities face fear and discouragement, what practices help foster trust rather than panic?",
+    "What are constructive ways for a community to remember past failures without allowing those memories to immobilize future action?",
+    "How should groups discern when an impulsive, presumptuous action should be restrained for moral or spiritual reasons?"
+  ],
+  "uncertainAreas": "The text presumes prior narratives (e.g., Numbers) and some details—precise locations named, chronology of events, and the full reasons for Moses’ personal exclusion—are not elaborated here. Questions about the historical composition and whether all details are literal history versus theological retelling remain unresolved from this chapter alone.",
+  "createdAt": "2025-11-03T16:19:45.101Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

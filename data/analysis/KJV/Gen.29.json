@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Gen.29",
+  "briefOverview": "Jacob arrives in Haran, meets and falls in love with Rachel, works seven years for Laban, is deceived into marrying Leah, then marries Rachel and continues serving; the narrative closes with the birth of Leah's sons while Rachel remains barren.",
+  "summary": "Jacob comes to the region of Haran, helps water a flock, and meets Rachel, Laban's younger daughter, with whom he falls in love and agrees to serve seven years as her bride-price. Laban welcomes Jacob and, after the seven years, deceptively gives Jacob his elder daughter Leah in marriage; Jacob then completes Leah's bridal week and marries Rachel too, agreeing to serve another seven years. Laban supplies the handmaids Zilpah and Bilhah to Leah and Rachel as attendants. Jacob loves Rachel more than Leah, and God notices Leah's distress by opening her womb while Rachel remains barren. Leah bears four sons — Reuben, Simeon, Levi, and Judah — and then the text says she stopped bearing (literally, “and left bearing”).",
+  "externalContext": "The episode reflects ancient Near Eastern marriage practices where service to a bride’s family could function as a bride-price or bride-service; marrying within extended kin (a mother’s brother’s household) is also culturally typical in the patriarchal narratives. Wells as social gathering places and the ritual of moving a heavy stone are common motifs in nomadic or pastoral contexts of the region. The narrative also participates in broader biblical themes about divine intervention in fertility (cf. Sarah, Rebekah) and the origins of Israel’s tribes.",
+  "externalReferences": "The motif of God opening the womb echoes earlier accounts of barren matriarchs who conceive by divine action, e.g., Sarah (Genesis 21:1–2) and Rebekah (Genesis 25:21). The children born here begin the genealogical line that will be expanded in Genesis 30 and summarized among Jacob’s sons in Genesis 35:23–26; Jacob’s later blessings in Genesis 49 reflect the long-term significance of these births for the tribes of Israel.",
+  "seeAlso": [
+    "Genesis 21:1-2",
+    "Genesis 25:21",
+    "Genesis 30",
+    "Genesis 35:23-26",
+    "Genesis 49:1-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Arrival and Meeting Rachel"
+    },
+    {
+      "range": "13-30",
+      "title": "Laban's House and Deception"
+    },
+    {
+      "range": "31-35",
+      "title": "Leah's Sons and Barrenness"
+    }
+  ],
+  "themes": [
+    "Marriage",
+    "Deception",
+    "Fertility",
+    "Family lineage"
+  ],
+  "practicalQuestions": [
+    "How should we respond when family or cultural customs conflict with our sense of justice (as Jacob experiences with Laban's deception)?",
+    "What responsibilities do relatives have toward one another when hospitality becomes control or exploitation?",
+    "How can communities support those who feel 'unloved' or are experiencing infertility, given the social weight those conditions carry in the text?",
+    "What does serving for a spouse (bride-service) suggest about the role of work, sacrifice, and consent in relationships today?"
+  ],
+  "uncertainAreas": "The narrative leaves some ambiguity about Laban’s motives (malicious deception vs. adherence to local custom), the exact nature of Leah being \"hated\" (unloved vs. lightly regarded), and whether \"and left bearing\" implies a permanent end to Leah’s childbearing at that point or simply a pause.",
+  "createdAt": "2025-11-03T15:12:08.900Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

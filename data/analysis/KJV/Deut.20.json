@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.20",
+  "briefOverview": "Deuteronomy 20 gives rules for Israelite warfare: assurances of God's presence, exemptions from military service, procedures for offering terms of peace, instructions about spoils, a command to destroy certain hostile peoples, and protection for fruit trees during a siege.",
+  "summary": "The chapter opens with a priestly address assuring soldiers that God goes with them into battle and instructing them not to fear. Officers are told to excuse men who have just built a house, planted a vineyard, been betrothed, or are fainthearted so that personal or morale burdens do not harm the community. Before attacking a city, Israel is to offer terms of peace; if the city accepts, its people become tributaries, but if it resists they are to be besieged and the adult males killed while women, children, livestock and spoil are taken. A distinct, harsher injunction applies to the resident nations whose land is given as Israel's inheritance: they are to be put under herem (utterly destroyed) so they will not teach Israel their abominations. Finally, besieging forces must not cut down fruit trees, since trees provide food, though non-fruit trees may be cut for siege works.",
+  "externalContext": "The chapter reflects ancient Near Eastern patterns of inter-city warfare and the idea of sacred or devoted warfare (herem), in which enemies or their goods could be dedicated to a deity. City-state sieges and terms for surrender were common in the Late Bronze–Early Iron Age context of the biblical conquest traditions. The prohibition against cutting fruit trees (a kind of early environmental/food-security rule) also fits practical concerns about sustaining a population during prolonged campaigns.",
+  "externalReferences": "The command to destroy nations in the land echoes Deuteronomy 7:1–2 where Israel is told to dispossess and not intermarry with the Canaanite nations. The practical outworking of conquest and herem is narrated in Joshua 6 (Jericho) and Joshua 10–11 (wider Canaanite campaigns), which portray similar language of total destruction. The concern that other peoples' practices would lead Israel into sin relates to prohibitions found elsewhere (e.g., Leviticus 18) against adopting surrounding nations' religious practices.",
+  "seeAlso": [
+    "Deuteronomy 7:1-2",
+    "Joshua 6",
+    "Joshua 10:1-11:23",
+    "Leviticus 18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Assurance and Exemptions"
+    },
+    {
+      "range": "10-15",
+      "title": "Offer Peace; Spoils"
+    },
+    {
+      "range": "16-20",
+      "title": "Herem and Siege Ethics"
+    }
+  ],
+  "themes": [
+    "Warfare",
+    "Divine presence",
+    "Military exemptions",
+    "Herem",
+    "Resource stewardship"
+  ],
+  "practicalQuestions": [
+    "How should communities balance collective security with compassion for those excused from service (new homeowners, families, the fearful)?",
+    "What principles from the command to preserve fruit trees can inform ethical stewardship of resources during conflict or crisis today?",
+    "How do we read and apply passages that command extreme violence in ancient contexts when forming modern ethical and religious commitments?",
+    "What pastoral practices help address fear in communities preparing for dangerous tasks, in light of the priestly encouragement here?"
+  ],
+  "uncertainAreas": "Ambiguity exists around the precise meaning and scope of 'utterly destroy' (herem) and how it functioned legally, ritually, or historically; distinctions between 'cities very far off' and 'cities of these people' are not fully defined in the text; and the degree to which these instructions reflect historical practice versus idealized cultic-theological instruction is debated.",
+  "createdAt": "2025-11-03T16:28:49.388Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

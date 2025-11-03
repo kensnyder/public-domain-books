@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Lev.7",
+  "briefOverview": "Leviticus 7 gives detailed regulations for several offerings, specifying which parts are holy, who may eat them, and rules about eating fat and blood. It clarifies portions granted to the Aaronic priests and restrictions tied to ritual purity and timing.",
+  "summary": "Verses 1–7 prescribe the trespass offering's ritual: where it is slaughtered, which fat portions are burned on the altar, and that the remainder is 'most holy' and to be eaten by male priests. Verses 8–10 assign to the priest the hide of a burnt offering and other meat offerings prepared by the priest, while oil-mingled and dry grain offerings are shared equally among Aaron's sons. Verses 11–21 set rules for peace (fellowship) offerings: specific accompanying breads for thanksgiving, how long the meat may be eaten (same day, also the next day for vows/voluntary offerings, but never on the third day), and strict penalties for eating while ritually unclean. Verses 22–27 forbid eating any fat from clean animals and prohibit consuming blood, with the penalty of being 'cut off' for violation. Verses 29–36 describe the ritual presentation of the breast (wave offering) and right shoulder (heave offering) to the priests as a perpetual statute tied to Aaron's anointing. The chapter closes (37–38) by summarizing these laws as commands given at Sinai.",
+  "externalContext": "In ancient Israel the sacrificial system organized communal relationship to God, food distribution, and the economic support of the priesthood; priests (descendants of Aaron) received portions of certain offerings to sustain their service. Ritual purity rules and taboos about blood reflect a broader ancient Near Eastern concern for the life-force and the separation of the sacred from the profane; in Israelite law blood is frequently linked with life (see Leviticus 17). The penalties of being 'cut off' are often understood in the ancient context as exclusion from communal worship or divine judgment, though their exact legal application could vary.",
+  "externalReferences": "The prohibition against eating blood parallels and expands material in Leviticus 17:10–14, where blood is linked to life and reserved for the altar. The granting of the breast and shoulder to Aaron and his sons echoes priestly allotments described in Exodus 29:27–30 and other priestly legislation. Peace-offering practices and the burning of fat as the portion for the altar are consistent with the instructions in Leviticus 3 on peace offerings and the treatment of fat.",
+  "seeAlso": [
+    "Leviticus 17:10-14",
+    "Exodus 29:27-30",
+    "Leviticus 3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Trespass Offering"
+    },
+    {
+      "range": "8-21",
+      "title": "Priests' Portions and Rules"
+    },
+    {
+      "range": "22-36",
+      "title": "Dietary Restrictions and Priestly Share"
+    }
+  ],
+  "themes": [
+    "Sacrifice",
+    "Priesthood",
+    "Purity",
+    "Holiness"
+  ],
+  "practicalQuestions": [
+    "In what ways should contemporary faith communities provide material support for those serving in religious leadership, analogous to the priests' portions?",
+    "How do rules that distinguish sacred from common (e.g., dietary or time limits) function to shape communal identity today?",
+    "What principles underlie prohibitions (like no blood or fat) that can inform modern ethical or ritual decisions without literal application?",
+    "How should communities handle violations that risk 'being cut off'—what restorative or disciplinary practices are appropriate now?"
+  ],
+  "uncertainAreas": "The precise legal meaning and consequence of being 'cut off' (kareth) is debated—whether it always denotes divine excision, exile, or a range of communal punishments. Some ritual terms (e.g., exact contents of 'cakes mingled with oil' or technical details of waving/heaving) are culturally specific and their full practical form is not spelled out here.",
+  "createdAt": "2025-11-03T15:48:47.901Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Gen.7",
+  "briefOverview": "God brings a worldwide flood as judgment, instructing Noah to preserve life in the ark; Noah obeys and only those inside the ark survive.",
+  "summary": "God commands Noah to bring his household and specified numbers of animals into the ark because in seven days He will send rain for forty days and forty nights. Noah obeys; when the appointed time comes the fountains of the great deep burst open and the windows of heaven are opened, and rain falls while the LORD shuts Noah and those with him in the ark. The waters rise, lift the ark, and prevail so that even the highest hills are covered and every living thing on the dry land with the breath of life perishes. Only Noah, his family, and the animals in the ark remain alive. The narrative records that the waters prevailed on the earth for 150 days.",
+  "externalContext": "Flood narratives are a common motif in ancient Near Eastern literature (for example, the Atrahasis and the Epic of Gilgamesh), and Genesis 7 reflects that wider cultural milieu while framing the event within Israel’s theological perspective. The distinction between 'clean' and 'unclean' animals later becomes important in Israelite cultic law (see Leviticus), which may inform why Genesis specifies different numbers for some animals. Measurements such as 'cubits' and chronological markers (Noah’s age, month and day) reflect ancient chronographic practice rather than modern scientific dating.",
+  "externalReferences": "Genesis 6:9–22 gives the prior instructions to Noah about building the ark and describes Noah's righteousness, which sets up the command recorded here. Genesis 8:1–5 continues the story with the recession of the waters, and Genesis 9:8–17 records God’s covenant with Noah after the flood. New Testament texts refer back to Noah: Matthew 24:37–39 compares the days of Noah to end-times behavior, and 1 Peter 3:20–21 speaks of the ark as a form of deliverance prefiguring baptism.",
+  "seeAlso": [
+    "Genesis 6:9-22",
+    "Genesis 8:1-5",
+    "Genesis 9:8-17",
+    "Matthew 24:37-39",
+    "1 Peter 3:20-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Divine Command to Noah"
+    },
+    {
+      "range": "6-12",
+      "title": "Entry and Onset"
+    },
+    {
+      "range": "13-24",
+      "title": "Flood and Destruction"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Obedience",
+    "Preservation",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "What does faithful obedience look like when a community or person is warned of impending moral or communal consequences?",
+    "How should modern readers understand and respond to texts that portray divine judgment on the scale described here?",
+    "What responsibilities do we have to preserve life and care for creation in times of crisis, analogous to Noah’s preservation tasks?",
+    "How do ritual and moral distinctions (e.g., 'clean' versus 'unclean') shape communal priorities and practices today?"
+  ],
+  "uncertainAreas": "Ambiguities include the geographic scope of the flood (global vs. regional), the precise meaning of 'seven' vs. 'two' for animals, technical details such as 'fountains of the great deep' and 'fifteen cubits upward,' and how the chronological markers (Noah’s age, days counted) should be harmonized with other texts.",
+  "createdAt": "2025-11-03T15:00:14.119Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Gen.13",
+  "briefOverview": "Abram and Lot separate to avoid conflict over limited pasture, and God reaffirms the promise of land and descendants to Abram.",
+  "summary": "Abram returns from Egypt with great wealth, and Lot accompanies him; both men have large flocks and herds. The land cannot support them living together, leading to disputes between their herdsmen. Abram proposes an amicable separation and gives Lot the choice of territory. Lot chooses the well-watered plain of the Jordan and settles near Sodom, a city later described as exceedingly wicked. After Lot departs, the LORD speaks to Abram, promising all the land he can see to him and his offspring and promising that his descendants will be as numerous as the dust of the earth. Abram then moves his tent to the plain of Mamre in Hebron and builds an altar to the LORD.",
+  "externalContext": "The narrative reflects a pastoral, semi-nomadic context in which large herds and control of grazing land were central to wealth and social standing; disputes over pasturage were common and often resolved by relocation or negotiation. Canaan at this time is portrayed as a mosaic of city-states (e.g., Canaanites, Perizzites, Sodom) rather than a unified polity. Hebron/Mamre is an important early center in the patriarchal narratives and later in Israelite tradition. The promise to Abram about land and numerous descendants forms part of the broader ancestral covenant material that the text develops over Genesis.",
+  "externalReferences": "Abram’s earlier journey into Egypt and his return with wealth is narrated in Genesis 12:10–20; his earlier altar at Bethel is noted in Genesis 12:8. The expansion of God’s promise to Abram—land and innumerable descendants—is developed later in Genesis 15 (the covenant ceremony) and reiterated in passages like Genesis 22:17. The moral characterization of Sodom and its later destruction is recounted in Genesis 19.",
+  "seeAlso": [
+    "Genesis 12:1-9",
+    "Genesis 12:10-20",
+    "Genesis 15",
+    "Genesis 19",
+    "Genesis 22:17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Return and Worship"
+    },
+    {
+      "range": "6-12",
+      "title": "Conflict and Separation"
+    },
+    {
+      "range": "13-18",
+      "title": "Divine Promise and Settlement"
+    }
+  ],
+  "themes": [
+    "Covenant Promise",
+    "Land",
+    "Conflict Resolution",
+    "Choice"
+  ],
+  "practicalQuestions": [
+    "How should communities manage limited resources to prevent conflict while respecting relationships and justice?",
+    "When is it wise to yield perceived rights or advantages for the sake of peace, and what costs might that entail?",
+    "How do we weigh immediate material attraction (Lot’s choice) against long-term promises or values (Abram’s trust in God)?",
+    "What practices can help sustain trust in long-term commitments when short-term circumstances appear to favor others?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous whether Abram’s offer constituted a formal renunciation of territorial claim or simply a temporary peacekeeping move. Lot’s motives—whether purely pragmatic or short-sighted—are not fully spelled out. The brief summary description of Sodom as “wicked exceedingly” invites further interpretive questions about the nature and timing of that moral judgment.",
+  "createdAt": "2025-11-03T15:03:29.645Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

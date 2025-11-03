@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Num.9",
+  "briefOverview": "Numbers 9 prescribes keeping the Passover with an allowance for those rendered ceremonially unclean or who are traveling, and it describes the cloud over the tabernacle that directed Israel's movements.",
+  "summary": "God commands Israel to observe the Passover in the wilderness in the second year after the Exodus, and the people keep it as instructed. Some men who were defiled by contact with a corpse could not keep the feast on the appointed day; after they appeal to Moses, God permits a make-up observance on the fourteenth day of the second month with the same rules. A warning is given that anyone clean who willfully fails to keep the Passover when able shall be cut off from the people. The chapter then narrates the cloud that covered the newly erected tabernacle—by day a cloud, by night a fire—and explains that Israel camped or journeyed according to whether the cloud remained or was lifted, indicating direct divine guidance for their movements.",
+  "externalContext": "Numbers is set in the wilderness period following the Exodus and follows the institution of the tabernacle and priestly legislation; Passover ritual originates in Exodus 12. Ritual uncleanness from contact with a dead body is treated elsewhere in the Torah (notably Numbers 19) and normally disqualifies persons from participating in cultic rites until purified. The tabernacle is a portable sanctuary, and the cloud and fire function as visible signs of divine presence and direction in ancient Israelite religion.",
+  "externalReferences": "The original institution and basic rules of the Passover are given in Exodus 12:1–14, which this chapter reiterates and applies in the wilderness context. Laws and rites concerning impurity from contact with the dead and the means of purification are developed later in Numbers 19:11–22. The description of the cloud and fire over the tabernacle and their function in guiding Israel recalls Exodus 40:34–38, where God fills the tabernacle and the cloud and fire signal his presence.",
+  "seeAlso": [
+    "Exodus 12:1-14",
+    "Numbers 19:11-22",
+    "Exodus 40:34-38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Passover and Exceptions"
+    },
+    {
+      "range": "15-23",
+      "title": "Cloud and Guidance"
+    }
+  ],
+  "themes": [
+    "Ritual observance",
+    "Purity",
+    "Divine presence",
+    "Obedience"
+  ],
+  "practicalQuestions": [
+    "How should modern faith communities care for members who are unable to participate in communal rites because of illness, distance, or exclusion?",
+    "What does waiting for the cloud teach about patience and following communal leadership under perceived divine guidance?",
+    "How do we balance strict ritual requirements with pastoral accommodations for those unable to comply?",
+    "In what ways should warnings about consequences for neglecting communal duties be interpreted and applied today?"
+  ],
+  "uncertainAreas": "The exact scope of the penalty 'cut off' is ambiguous—whether it denotes ritual exclusion, community ostracism, or divine judgment is not specified here. The text's cloud-and-fire imagery may be read literally or symbolically of divine presence; the narrative assumes a theological interpretation but does not elaborate on mechanisms of guidance.",
+  "createdAt": "2025-11-03T16:04:42.897Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

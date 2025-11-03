@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.46",
+  "briefOverview": "Jacob receives divine reassurance to relocate to Egypt and leads his extended family there; the chapter records the household list and arranges their settlement in Goshen.",
+  "summary": "At Beer-sheba Jacob offers sacrifices and receives a night vision in which God (identifying himself as the God of Jacob's fathers) tells Jacob not to fear going to Egypt, promises to make a great nation of his descendants, to go down with him and to bring him back, and says Joseph will close his eyes. Jacob and his whole household (sons, daughters, grandchildren, and possessions) travel to Egypt in wagons provided by Pharaoh. The chapter gives an extended genealogy of Jacob’s sons and grandsons and counts the number of those who came to Egypt. Judah is sent ahead to Goshen; Joseph meets Jacob there in an emotionally charged reunion, and Jacob expresses that seeing Joseph alive completes him. Joseph prepares to present his family to Pharaoh and instructs his brothers to describe themselves as shepherds so they may be settled in Goshen, since shepherds are detested by the Egyptians.",
+  "externalContext": "Goshen is traditionally identified with a fertile part of the eastern Nile Delta favorable to pastoralists, which helps explain why shepherding families would seek residence there. Listing genealogies and household counts is a common ancient Near Eastern practice to establish tribal identity, inheritance rights, and legal standing. Egyptian attitudes toward nomadic shepherds are reflected in several biblical texts; however, precise historical details such as dating the migration to a specific Egyptian period are debated among scholars and not settled by the chapter itself.",
+  "externalReferences": "The promise that Jacob’s family will sojourn in a foreign land and later be brought out echoes earlier covenantal assurances, for example Genesis 15:13–14 (God telling Abraham his offspring will be strangers in a land and later come out with great possessions) and God’s earlier promise to Jacob in Genesis 28:13–15. The chapter’s population count is often compared with Exodus 1:5, which summarizes the number of Jacob’s family in Egypt as seventy. The narrative here also sets the immediate scene for the events narrated in Exodus (the growth and later oppression of Jacob's descendants).",
+  "seeAlso": [
+    "Genesis 15:13-14",
+    "Genesis 28:13-15",
+    "Exodus 1:5",
+    "Genesis 47:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Divine Assurance"
+    },
+    {
+      "range": "5-27",
+      "title": "Journey and Genealogies"
+    },
+    {
+      "range": "28-34",
+      "title": "Goshen and Introduction"
+    }
+  ],
+  "themes": [
+    "Divine promise",
+    "Migration",
+    "Family/genealogy",
+    "Settlement"
+  ],
+  "practicalQuestions": [
+    "When facing a major life relocation, how do we weigh practical concerns against a sense of divine or vocational calling?",
+    "How can families preserve communal identity and memory when moving into a different culture or society?",
+    "What strategies should migrants use to negotiate reputations and secure safe places to live in unfamiliar societies?",
+    "What role do recorded genealogies and family stories play today in shaping group cohesion and obligations?"
+  ],
+  "uncertainAreas": "The chapter’s precise headcount (verses 26–27) and whether wives were included has been read in different ways; the phrase “Joseph shall put his hand upon thine eyes” is ambiguous (commonly taken to mean Joseph will bury or close Jacob’s eyes at death). The historical identification and dating of Goshen and the claim about Egyptian attitudes toward shepherds are plausible but not definitively settled by the text alone.",
+  "createdAt": "2025-11-03T15:21:13.688Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

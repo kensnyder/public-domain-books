@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ruth.3",
+  "briefOverview": "Naomi urges Ruth to seek marriage and protection from Boaz; Ruth follows Naomi's plan, approaches Boaz at the threshing floor, and receives his protective pledge pending a legal resolution.",
+  "summary": "Naomi proposes that Ruth seek rest (security) by appealing to Boaz, a relative who is threshing barley that night. She instructs Ruth to prepare, go to the threshing floor, and wait until Boaz has finished eating and drinking; Ruth obeys. At midnight Ruth uncovers Boaz's feet and lies down; when he awakes she identifies herself as his handmaid and asks him to 'spread thy skirt' over her as a near kinsman. Boaz praises Ruth's loyalty, acknowledges a nearer kinsman with a prior right, and promises to act on her behalf if the nearer kinsman refuses; he gives her six measures of barley and tells her to wait for the morning. Ruth returns to Naomi, reports the gift and encounter, and Naomi urges patience while Boaz settles the matter.",
+  "externalContext": "In ancient Israel family and clan obligations regulated marriage, inheritance, and the redemption of land; a kinsman-redeemer (Hebrew go'el) could marry a widow or redeem property to preserve a relative's line. The threshing floor was a communal, agricultural workspace where grain was processed and men often slept beside the harvest—making it a public yet liminal place for a private appeal. Widows and foreign women like Ruth were socially vulnerable, so marriage into the clan was both a personal and economic safeguard.",
+  "externalReferences": "The obligation of a near kinsman to marry a relative to preserve a deceased man's line is related to Deuteronomy 25:5–10 (the levirate duty), while the broader idea of redeeming family land appears in Leviticus 25:25. The immediate legal resolution is narrated in Ruth 4:1–13 and the birth that secures the line in Ruth 4:13–17. Genesis 38:8–10 presents a different instance of a relative's duty to produce offspring for a deceased brother and is often compared in discussions of kinship obligations.",
+  "seeAlso": [
+    "Deuteronomy 25:5-10",
+    "Leviticus 25:25",
+    "Ruth 4:1-17",
+    "Genesis 38:8-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Naomi's Plan"
+    },
+    {
+      "range": "6-15",
+      "title": "Threshing-Floor Appeal"
+    },
+    {
+      "range": "16-18",
+      "title": "Aftermath and Waiting"
+    }
+  ],
+  "themes": [
+    "Kinsman-redeemer",
+    "Loyalty",
+    "Protection",
+    "Providence"
+  ],
+  "practicalQuestions": [
+    "How can families and communities today act as 'kinsman-redeemers' to protect vulnerable people (widows, immigrants, the poor)?",
+    "When is it appropriate to use direct or bold steps to secure justice or security, and how do we weigh prudence and vulnerability in such actions?",
+    "What responsibilities do we have to preserve another's rights and future (inheritance, reputation, lineage) in contemporary forms?",
+    "How should readers interpret and respond to culturally specific actions (like Ruth's approach) when applying the story to modern ethics and relationships?"
+  ],
+  "uncertainAreas": "The exact social and legal meaning of Ruth's gesture of 'uncovering his feet' and Boaz's command to 'spread thy skirt' is debated: it may signal a formal request for protection/marriage rather than an explicitly sexual advance. The procedural steps and timelines for the nearer kinsman's option are not detailed here and are resolved only in chapter 4, so the legal mechanics remain somewhat implicit in this chapter.",
+  "createdAt": "2025-11-03T16:59:34.858Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

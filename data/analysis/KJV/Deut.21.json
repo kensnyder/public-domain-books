@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Deut.21",
+  "briefOverview": "A collection of civil and ritual laws dealing with unsolved homicide, treatment of female captives, inheritance rights, parental authority, and the handling of executed bodies.",
+  "summary": "Verses 1–9 prescribe a ritual (the heifer ceremony) performed by the elders and priests when an unsolved homicide is discovered near a town, which publicly disclaims the town’s responsibility and seeks God’s mercy. Verses 10–14 set rules for an Israelite soldier who desires a female captive, prescribing a period of mourning and a ban on selling her if he later rejects her. Verses 15–17 protect the inheritance rights of a firstborn son born to a hated wife, requiring the father to give the true firstborn a double portion. Verses 18–21 prescribe capital punishment by stoning for a persistently rebellious son brought before the elders. Verses 22–23 require that an executed body not remain on display overnight but be buried the same day because one hanged on a tree is “accursed of God.”",
+  "externalContext": "These laws reflect ancient Near Eastern concerns about communal responsibility, social order, and ritual purity. City elders and priests functioned as local judicial and cultic authorities; Levitical priests had distinct roles in adjudication and blessing. The rules about captives and inheritance fit a patriarchal household economy in which marriage, lineage, and property were central. The command to bury an executed person promptly reflects purity laws and the symbolic shame associated with public display of a corpse.",
+  "externalReferences": "The law about unresolved killing is thematically related to other Israelite homicide and city-of-refuge regulations (see Numbers 35:9–34 on manslaughter and refuge cities). The protection of the firstborn’s rights connects with earlier biblical material on birthright and primogeniture (e.g., Genesis 25:31–34; Genesis 48:22 illustrates later allocation of a double portion). The statement that one hung on a tree is accursed is later cited in the New Testament (notably Galatians 3:13) in theological reflection on curse and redemption.",
+  "seeAlso": [
+    "Numbers 35:9-34",
+    "Deuteronomy 20:10-14",
+    "Genesis 25:31-34",
+    "Galatians 3:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Unsolved Homicide Ritual"
+    },
+    {
+      "range": "10-14",
+      "title": "Rules for Female Captives"
+    },
+    {
+      "range": "15-23",
+      "title": "Family Rights and Punishment"
+    }
+  ],
+  "themes": [
+    "Communal responsibility",
+    "Warfare and captives",
+    "Primogeniture",
+    "Justice and purity"
+  ],
+  "practicalQuestions": [
+    "How should modern communities take responsibility for crimes that reveal broader social failure?",
+    "In what ways can the humane treatment of prisoners or captives be ensured in contemporary conflict?",
+    "How can societies protect the inheritance and legal rights of vulnerable family members today?",
+    "What principles from ancient concerns about dignity in death apply to modern practices around execution, burial, and public display?"
+  ],
+  "uncertainAreas": "The precise legal and symbolic function of the heifer ritual is debated (whether it assigns collective guilt, marks a boundary, or functions primarily as a supplication). It is unclear how often the harsh penalty for a 'stubborn and rebellious son' was actually enforced historically or whether it functions as a legal ideal to deter extreme conduct. The captive-woman regulation's intent (protective mitigation versus social control of women) is ambiguous and depends on broader legal and historical reading.",
+  "createdAt": "2025-11-03T16:29:22.737Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

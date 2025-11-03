@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.49",
+  "briefOverview": "Jacob gathers his twelve sons to pronounce a series of blessings and curses that summarize each son's character and predict the future fortunes of their tribes, then gives burial instructions and dies.",
+  "summary": "Jacob summons his sons to deliver final words about what will happen to them in 'the last days.' He pronounces judgment on Reuben for instability and on Simeon and Levi for violence, praises Judah with imagery of lion-like leadership and a lasting sceptre until 'Shiloh' comes, and gives short prophetic images for the other tribes (Dan, Gad, Asher, Naphtali, Issachar, Zebulun, Benjamin). Joseph receives an extended blessing as a fruitful, divinely sustained branch who will be abundantly blessed. The chapter closes with Jacob's charge to be buried in the cave of Machpelah (the family burial site), and then Jacob dies and is gathered to his people.",
+  "externalContext": "Fatherly blessings or oracle-utterances over descendants are a known feature of ancient Near Eastern family and succession practices; such pronouncements could function both as character assessment and as etiological explanations for later tribal fortunes. The chapter reflects traditions about the origins and future territories of the twelve Israelite tribes, material that likely shaped Israelite identity in later periods. The cave of Machpelah (field of Ephron) is an established ancestral burial site mentioned earlier in Genesis 23 where Abraham purchased the field.",
+  "externalReferences": "Simeon and Levi's violence and the reason for Jacob's rebuke echo the account of the massacre at Shechem (Genesis 34:25–30). The depiction of Joseph as hated by his brothers corresponds to the narrative of sibling hostility and Joseph's sale found in Genesis 37. The charge to bury Jacob in the cave of Machpelah connects back to Abraham's purchase of that field in Genesis 23:1–20 and to later burial traditions recorded in Genesis 50:12–13.",
+  "seeAlso": [
+    "Genesis 34:25-30",
+    "Genesis 37:3-11",
+    "Genesis 23:1-20",
+    "Genesis 50:12-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Introduction & Purpose"
+    },
+    {
+      "range": "3-28",
+      "title": "Tribal Blessings and Curses"
+    },
+    {
+      "range": "29-33",
+      "title": "Burial Charge and Death"
+    }
+  ],
+  "themes": [
+    "Blessings and curses",
+    "Tribal destiny",
+    "Kingship",
+    "Death and burial"
+  ],
+  "practicalQuestions": [
+    "How should families balance honest moral critique with care when speaking about younger generations' futures?",
+    "In what ways do communal identities today reflect the kinds of origin-stories and prophetic descriptions seen here?",
+    "What responsibilities accompany leadership modeled by Judah's blessing (authority, protection, humility)?",
+    "How can communities honor the dead and ancestral memory as part of ethical and social continuity?"
+  ],
+  "uncertainAreas": "The precise meaning of the phrase 'until Shiloh come' and whether it refers to a person, place, or era is debated; several tribal images (e.g., Dan as a serpent) are symbolic and their historical-ethnographic references are not explicit in the text. There is also uncertainty about how much of the chapter reflects early tradition versus later editorial shaping.",
+  "createdAt": "2025-11-03T15:22:50.607Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

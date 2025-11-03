@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Exod.25",
+  "briefOverview": "God gives Moses detailed instructions for materials and construction of the tabernacle and its principal furnishings so that God may dwell among Israel.",
+  "summary": "The chapter opens with a call for voluntary offerings of specific materials (gold, metals, colored yarns, fine linen, skins, wood, oil, spices, and precious stones) to build a sanctuary. God commands that the tabernacle be made according to the pattern shown to Moses on the mountain. Detailed specifications are given for the ark of the testimony (dimensions, gold overlay, rings and staves) and its mercy seat with two cherubim, where God will meet and speak with Moses. Instructions follow for the table of showbread (dimensions, gold overlay, utensils, and the continual placement of bread) and a richly worked seven‑branched golden lampstand with its bowls, knops, and flowers. The chapter closes by reiterating that all work must follow the divine pattern shown on the mount.",
+  "externalContext": "The tabernacle instructions reflect an ancient Near Eastern context in which fixed ritual spaces and cultic furniture signified divine presence; portable elements fit a nomadic or semi‑nomadic setting. 'Shittim' wood is commonly identified as acacia, valued for durability; colors like blue, purple, and scarlet and the use of gold signaled royal or sacred status in the ancient world. The emphasis on voluntary communal contributions and precise craftsmanship aligns with broader Israelite cultic norms that later appear in descriptions of Solomon's temple.",
+  "externalReferences": "The ark and mercy seat later appear in the temple narrative where the ark is placed in Solomon’s temple (1 Kings 8:6–7). The mercy seat as the locus of divine meeting and atonement connects with the Day of Atonement language in Leviticus (Leviticus 16:2) and New Testament reflection on the tabernacle’s furniture as symbolic in Hebrews (Hebrews 9:5; Hebrews 8:5). The table of showbread and lampstand reappear in temple inventories and descriptions (Leviticus 24:5–9; 1 Kings 7:49).",
+  "seeAlso": [
+    "Leviticus 16:2",
+    "Leviticus 24:5-9",
+    "Hebrews 8:5",
+    "Hebrews 9:5",
+    "1 Kings 7:49",
+    "1 Kings 8:6-7",
+    "Exodus 26:1-37",
+    "Exodus 27:1-21",
+    "Exodus 28:1-43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Call for Offerings"
+    },
+    {
+      "range": "9-22",
+      "title": "Ark and Mercy Seat"
+    },
+    {
+      "range": "23-40",
+      "title": "Table, Lampstand, Pattern"
+    }
+  ],
+  "themes": [
+    "Divine presence",
+    "Tabernacle",
+    "Sacred craftsmanship",
+    "Communal worship"
+  ],
+  "practicalQuestions": [
+    "What does 'God dwelling among us' mean for how communities arrange their worship spaces today?",
+    "How should modern faith communities balance attention to material symbols and to inward devotion?",
+    "In what ways can voluntary giving and skilled service shape communal religious life now?",
+    "How do precise rituals and objects contribute to a sense of holiness and identity in contemporary contexts?"
+  ],
+  "uncertainAreas": "Exact visual details (e.g., the appearance of the cherubim, specific decorative motifs) are not fully specified and remain open to interpretation; the phrase 'pattern shown thee in the mount' could imply a heavenly prototype but the text does not explicitly define its nature; identification of 'shittim' wood as acacia is probable but not stated in the chapter itself.",
+  "createdAt": "2025-11-03T15:36:39.607Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

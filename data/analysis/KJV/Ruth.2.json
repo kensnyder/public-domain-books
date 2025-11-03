@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Ruth.2",
+  "briefOverview": "Ruth gleans in the field of Boaz, who notices her, protects her, and shows her kindness. The scene highlights loyal devotion, social provision, and the emergence of a near kinsman who will figure in later redemption.",
+  "summary": "A wealthy kinsman of Elimelech named Boaz is introduced. Ruth asks Naomi's permission to glean in the fields and by chance works in Boaz's field. Boaz greets his harvesters, learns who Ruth is, and instructs his workers to let her glean safely, gives her food, and orders extra grain left for her. He praises her loyalty to Naomi and invokes the LORD's blessing, noting that she has come to trust under God's wings. Ruth gathers about an ephah of barley and returns to Naomi, who recognizes Boaz as a near kinsman; Ruth remains with Boaz's maidens through the barley and wheat harvests.",
+  "externalContext": "Gleaning—leaving the edges of the field and refusing to pick up everything—was an established Israelite social provision for the poor and foreigner (see laws in the Torah). A kinsman-redeemer (go'el) was a relative with responsibilities to protect family property and women in certain circumstances (a concept developed in Israelite law). The chapter takes place at harvest time in Bethlehem, a small agrarian town, and Ruth is a Moabite, which makes her acceptance into Israelite social life more notable given intergroup tensions in some laws.",
+  "externalReferences": "The practice of leaving gleanings for the needy is codified in Leviticus 19:9–10 and Deuteronomy 24:19–21, which provides background for Ruth's gleaning in another's field. The phrase about coming to trust 'under whose wings' echoes Psalm 91:4 and uses established imagery of divine protection. The idea of a kinsman-redeemer is legislated in Leviticus 25:25 and becomes narratively important later in Ruth 4, where Boaz's redeeming role is explicitly played out. Ruth 1 provides the immediate narrative lead-in, explaining Ruth's presence with Naomi and her vow of loyalty.",
+  "seeAlso": [
+    "Leviticus 19:9-10",
+    "Deuteronomy 24:19-21",
+    "Psalm 91:4",
+    "Leviticus 25:25",
+    "Deuteronomy 23:3",
+    "Ruth 1:1-22",
+    "Ruth 4:1-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Ruth Goes Gleaning"
+    },
+    {
+      "range": "8-16",
+      "title": "Boaz's Kindness"
+    },
+    {
+      "range": "17-23",
+      "title": "Provision and Recognition"
+    }
+  ],
+  "themes": [
+    "Loyalty",
+    "Provision",
+    "Hospitality",
+    "Redemption"
+  ],
+  "practicalQuestions": [
+    "How can communities today create systems that protect and provide for vulnerable people, as gleaning laws did for widows and foreigners?",
+    "In what ways can small acts of hospitality and protection open the way for long-term restoration in people's lives?",
+    "How should we balance legal or institutional duties with personal kindness when helping those in need?",
+    "How does Ruth's loyalty to Naomi challenge contemporary views about family obligation and intercultural relationships?"
+  ],
+  "uncertainAreas": "The chapter does not make explicit whether Boaz's actions are primarily motivated by legal obligation as a kinsman, personal goodwill, or early romantic interest; the precise legal reach of 'near of kin' here is implied but not defined until chapter 4. The metaphor 'under whose wings' may refer primarily to the LORD but also functions in a social sense; the text leaves room for both readings.",
+  "createdAt": "2025-11-03T16:58:51.451Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

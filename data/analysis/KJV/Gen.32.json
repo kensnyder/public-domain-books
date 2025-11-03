@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Gen.32",
+  "briefOverview": "Jacob prepares to meet his hostile brother Esau, prays for deliverance, and experiences a nocturnal struggle with a divine being that results in a new name and a lasting physical mark.",
+  "summary": "Jacob encounters angels and names the place Mahanaim. He sends messengers to Esau, learns Esau is coming with 400 men, and divides his people and possessions into two groups out of fear. Jacob prays, reminding God of the covenant promises, and prepares an extensive gift to placate Esau. That night Jacob crosses the ford of the Jabbok, sends his family and possessions across, and remains alone, where he wrestles with a man until daybreak. The wrestler dislocates Jacob's thigh; Jacob refuses to release him until he receives a blessing. The man renames Jacob Israel, Jacob names the place Peniel claiming he has seen God face to face, and he departs limping; the episode is given as the origin of Israelite avoidance of the sciatic nerve.",
+  "externalContext": "In a Near Eastern pastoral society, negotiated gifts and displays of wealth were common diplomatic practices to placate rivals and secure safe passage. Family honor and the primogeniture/blessing traditions (illustrated earlier in Jacob and Esau's story) make Jacob's fear of Esau plausible. Names carried theological and social weight in the ancient world; divine renaming signaled a change in role or status. Encounters with heavenly beings or theophanies are recurrent in Genesis (e.g., Bethel in Genesis 28), and physical marks often serve as narrative signs of covenantal encounters.",
+  "externalReferences": "This chapter follows earlier tensions between Jacob and Esau (see Genesis 25:29–34; Genesis 27) and immediately follows Jacob's long service with Laban (Genesis 29–31), both of which explain his concern and the mention that he has sojourned with Laban. The promise God made to Jacob's ancestors appears invoked here (cf. Genesis 12:2–3; Genesis 28:13–15), and God renames Jacob again in Genesis 35:9–15. Jacob's claim to have \"seen God face to face\" echoes other biblical distinctions about seeing God (compare Exodus 33:20), and Genesis 32:32 functions as an etiological note for the Israelite custom of not eating the sciatic nerve (the gid hanasheh).",
+  "seeAlso": [
+    "Genesis 25:29-34",
+    "Genesis 27",
+    "Genesis 28:10-15",
+    "Genesis 29-31",
+    "Genesis 35:9-15",
+    "Exodus 33:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Angels and Mahanaim"
+    },
+    {
+      "range": "3-21",
+      "title": "Fear and Preparations"
+    },
+    {
+      "range": "22-32",
+      "title": "Wrestling and Renaming"
+    }
+  ],
+  "themes": [
+    "Divine encounter",
+    "Fear and deliverance",
+    "Identity/renaming",
+    "Covenant promise"
+  ],
+  "practicalQuestions": [
+    "When faced with feared confrontation, do I rely more on strategic planning or on prayer—how does this chapter model balancing both?",
+    "What would it mean for personal identity or vocation if one experienced a decisive encounter that required a new name or role?",
+    "How should communities remember physical or ritual signs (like Jacob's limp) that mark religious experiences in ways that shape practice?",
+    "In seeking reconciliation, how do gestures of gift-giving and humility complement honest reckoning with past wrongs?"
+  ],
+  "uncertainAreas": "The precise identity of Jacob's opponent (angel, divine being, or human) is ambiguous in the text; the narrator alternates language. The theological implications of \"seeing God face to face\" versus biblical warnings about seeing God are somewhat unresolved. The origin and later legal status of the prohibition on the sciatic nerve are referenced etiologically but not elaborated here.",
+  "createdAt": "2025-11-03T15:13:54.301Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

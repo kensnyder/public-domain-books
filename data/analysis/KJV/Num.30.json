@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Num.30",
+  "briefOverview": "Legislation governing vows, emphasizing that vows are binding and that fathers or husbands may confirm or nullify vows made by women under certain conditions.",
+  "summary": "Moses relays the LORD’s rules: when a man makes a vow to God he must keep it (v.2). A young woman living in her father's house who makes a vow is bound unless her father expressly disallows it on the day he hears it (vv.3–5). A married woman’s vows are similarly subject to her husband's approval or annulment if he objects on the day he hears them, whereas the vows of a widow or divorced woman remain binding (vv.6–12). If a husband or father remains silent when he hears the vow, the vow stands; if he later nullifies it after hearing, he bears the guilt (vv.13–15). The chapter concludes by identifying these instructions as statutes given by the LORD concerning domestic relations (v.16).",
+  "externalContext": "In the ancient Near East, vows to deities were solemn commitments with social and religious weight; household heads (fathers or husbands) normally exercised legal and social authority over family members. The family was the primary legal unit in Israelite society, so rules governing personal vows also protected household order and communal obligations. The emphasis on the day of hearing reflects legal practices that privileged timely objection for validity.",
+  "externalReferences": "Deuteronomy 23:21–23 contains general laws about fulfilling vows and not delaying their fulfillment, which complements the concern here that vows be taken seriously. Leviticus 5:4–6 and related priestly regulations treat inadvertent sins and oaths, providing broader cultic and legal context for vows. Later New Testament passages address oaths and speech (e.g., Matthew 5:33–37; James 5:12), with Jesus and James urging plain, truthful speech rather than elaborate vow-making.",
+  "seeAlso": [
+    "Deuteronomy 23:21-23",
+    "Leviticus 5:4-6",
+    "Matthew 5:33-37",
+    "James 5:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "General Rule on Vows"
+    },
+    {
+      "range": "3-16",
+      "title": "Women’s Vows and Authority"
+    }
+  ],
+  "themes": [
+    "Vows",
+    "Patriarchal authority",
+    "Household responsibility",
+    "Obligation"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance individual commitments with family or communal responsibilities?",
+    "What safeguards can ensure that those with less social power (e.g., young women) are not coerced or disadvantaged by family authorities?",
+    "When, if ever, is it appropriate for others to override a personal promise made to a religious or moral authority?",
+    "How does the emphasis on truthful speech in this chapter inform how we make and honor commitments today?"
+  ],
+  "uncertainAreas": "Ambiguity exists about the precise social status meant by \"in her father's house in her youth\" (age/maturity threshold) and about whether the father/husband's power to nullify is strictly limited to the day he hears the vow. The theological meaning of \"the LORD shall forgive her\"—whether legal annulment implies divine forgiveness or a separate cultic process—is also open to interpretation.",
+  "createdAt": "2025-11-03T16:16:21.939Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

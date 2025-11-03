@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.26",
+  "briefOverview": "Leviticus 26 lays out the covenantal framework of blessings for Israel's obedience and escalating punishments for disobedience, closing with the possibility of repentance and restoration.",
+  "summary": "The chapter begins with promises: if Israel keeps God's commandments (including avoidance of idolatry and observance of sabbaths), God will grant agricultural prosperity, peace, victory over enemies, fruitfulness, and his presence among them (vv. 1–13). Verses 14–39 describe escalating punishments for breach of the covenant, including disease, famine, military defeat, devastation of the land, exile, and extreme calamities; these judgments are repeatedly intensified in sevenfold increments. Verses 34–35 specify that the land will observe its sabbath during Israel's exile because the people failed to keep it. Verses 40–45 offer a way back: if the people confess their iniquity, humble themselves, and accept punishment, God will remember the patriarchal covenant with Jacob, Isaac, and Abraham and not utterly reject them. The chapter ends with a formal statement that these are the statutes given at Sinai (v. 46).",
+  "externalContext": "The form and language of Leviticus 26 reflect ancient Near Eastern treaty and covenant traditions in which a suzerain sets out blessings for obedience and curses for breach. Attention to land, agricultural fertility, and ritual observance fits an agrarian, temple-centered society where the deity's presence is understood as tied to proper cultic behavior. The chapter also presupposes earlier narratives and laws (e.g., the Exodus, the Sinai covenant) that define Israel's identity and obligations.",
+  "externalReferences": "The chapter echoes other covenantal passages that pair blessing and curse, most notably Deuteronomy 28:1–68, which lists comparable promises and warnings. Its instruction about sabbath observance and the land connects directly with Leviticus 25 (the sabbatical year) and the Decalogue's sabbath command in Exodus 20:8–11. The appeal to the covenants with Abraham, Isaac, and Jacob recalls Genesis passages that frame God's enduring promises to the patriarchs (e.g., Genesis 12:1–3).",
+  "seeAlso": [
+    "Deuteronomy 28:1-68",
+    "Leviticus 25:2-7",
+    "Exodus 20:8-11",
+    "Genesis 12:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Promises for Obedience"
+    },
+    {
+      "range": "14-39",
+      "title": "Escalating Penalties"
+    },
+    {
+      "range": "40-45",
+      "title": "Confession and Restoration"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Obedience",
+    "Blessings and Curses",
+    "Exile and Restoration"
+  ],
+  "practicalQuestions": [
+    "How should communities today interpret the connection between ethical/ritual faithfulness and social or ecological wellbeing described here?",
+    "What practices might be analogous to 'keeping the sabbath' for sustaining land and community in our context?",
+    "How can the chapter's model of confession and humility inform contemporary approaches to communal wrongdoing and reconciliation?",
+    "In reading passages of divine punishment, how do we balance the text's justice language with its promises of mercy and covenantal faithfulness?"
+  ],
+  "uncertainAreas": "Interpretive uncertainties include whether some of the vivid punishments (e.g., cannibalism in v. 29) are intended as literal predictions, hyperbolic images, or ritualized curse formulas. The meaning of the repeated phrase 'seven times' is ambiguous—whether it denotes a literal multiplier, an idiom for completeness, or staged intensification. The precise historical setting and the extent to which the laws reflect a single period versus later priestly editing are also matters of scholarly debate.",
+  "createdAt": "2025-11-03T15:59:23.197Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

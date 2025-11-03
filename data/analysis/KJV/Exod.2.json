@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Exod.2",
+  "briefOverview": "The chapter narrates Moses’ birth, adoption into Pharaoh’s household, his early act of defending an Israelite and flight to Midian, and closes with Israel’s oppression prompting God’s attention to their plight.",
+  "summary": "A Levite couple bear a son whom the mother hides three months and then places in a bulrush ark by the Nile; Pharaoh’s daughter finds him, adopts him, and he is nursed by his biological mother until grown, receiving the name Moses. As an adult he witnesses an Egyptian beating a Hebrew, kills the Egyptian, and when the act becomes known he flees to Midian. In Midian Moses helps Reuel’s daughters at a well, is invited home, marries Zipporah, and fathers a son named Gershom. The chapter closes by noting the death of the king of Egypt, the intensification of Israelite suffering, their cry to God, and God’s hearing their groaning and remembering the covenant with the patriarchs.",
+  "externalContext": "The narrative fits an ancient Near Eastern setting where river exposure and adoption are known literary motifs; wet-nursing and household adoption were social practices in antiquity. The Midianite figure and well-scene reflect common pastoral life and marriage customs. Historically, the precise dating and identity of the pharaoh are debated among scholars, and the account preserves theological aims (God’s providence and covenant faithfulness) alongside its narrative detail.",
+  "externalReferences": "The chapter explicitly connects God’s response to Israel’s cry with the covenant made to Abraham, Isaac, and Jacob (see Genesis 12; 15). Later New Testament and Hebrew writings retell or reflect on elements of this story—Hebrews 11:23 refers to Moses’ parents hiding him, and Stephen’s speech in Acts 7:20–29 retells the adoption, upbringing, and flight episodes. The theme of God ‘hearing’ the afflicted and then acting anticipates Exodus 3:7–10, where God calls Moses to deliver Israel.",
+  "seeAlso": [
+    "Genesis 12:1-3",
+    "Genesis 15:18",
+    "Hebrews 11:23",
+    "Acts 7:20-29",
+    "Exodus 3:7-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Birth and Adoption"
+    },
+    {
+      "range": "11-22",
+      "title": "Violence and Exile"
+    },
+    {
+      "range": "23-25",
+      "title": "Israel’s Cry; God Remembers"
+    }
+  ],
+  "themes": [
+    "Providence",
+    "Identity and adoption",
+    "Oppression",
+    "Covenant remembrance"
+  ],
+  "practicalQuestions": [
+    "When we see injustice or violence, what concrete steps should we take to protect the vulnerable, and what risks must we weigh?",
+    "How does being ‘adopted’ into new communities shape personal and communal identity today?",
+    "In what ways should religious communities remember past commitments when responding to contemporary suffering and oppression?",
+    "How can families and institutions better care for children in precarious situations, following the example of the mother, sister, and Pharaoh’s daughter?"
+  ],
+  "uncertainAreas": "Uncertainties include the historical dating and identity of the Egyptian king; the text does not name Moses’ parents here (later traditions name them), and the ‘sister’ who watches is not named in this chapter. The motives of Pharaoh’s daughter and exact legal/social mechanics of the adoption are open to interpretation, and sequence details (timing between the killing and news reaching Pharaoh) are compressed in the narrative.",
+  "createdAt": "2025-11-03T15:25:28.410Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

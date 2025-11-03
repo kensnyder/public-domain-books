@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Exod.10",
+  "briefOverview": "God directs Moses to confront Pharaoh with successive plagues (locusts and darkness) that demonstrate divine judgment and sovereignty while Pharaoh repeatedly resists and negotiates.",
+  "summary": "God commissions Moses to bring further signs and warns that Pharaoh's hardened heart will display God's power and be remembered by future generations. Moses threatens locusts; an east wind brings unprecedented swarms that consume everything left after the hail. Pharaoh briefly admits sin and asks for relief; Moses intercedes and God sends a strong west wind that destroys the locusts. God then sends a palpable three days of darkness over Egypt while the Israelites have light in their homes. Pharaoh offers only a partial release (without livestock), but Moses insists that animals must go for sacrifices; the LORD hardens Pharaoh and Pharaoh drives Moses away, vowing that Moses will never see his face again.",
+  "externalContext": "The Exodus plagues narrative reflects a Near Eastern setting where divine power is demonstrated through spectacular signs directed against a ruling monarch; contest motifs between a national god (YHWH) and Egyptian deities are implied. The emphasis on telling 'son and son's son' fits ancient practices of transmitting communal identity and memory. The literary theme of a ruler's 'hard heart' recurs in ancient royal ideology as a theological explanation for a king's stubbornness and for the unfolding of a larger redemptive plan.",
+  "externalReferences": "The locust plague follows earlier judgments such as the hail described in Exodus 9:13–35 and is one of the consecutive signs culminating in the Passover and exodus narrative (see Exodus 12). The motif of God hardening Pharaoh's heart appears earlier and later in the book (e.g., Exodus 7:3–5; Exodus 14:4) and is echoed in later retellings of the plagues (Psalm 78:44–51) that interpret these events as demonstrations of divine power over Egypt.",
+  "seeAlso": [
+    "Exodus 7:3-5",
+    "Exodus 9:13-35",
+    "Exodus 12:24-27",
+    "Exodus 14:4-17",
+    "Psalm 78:44-51"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Warning and Demand"
+    },
+    {
+      "range": "12-19",
+      "title": "Locusts Devastate Egypt"
+    },
+    {
+      "range": "20-23",
+      "title": "Three Days Darkness"
+    },
+    {
+      "range": "24-29",
+      "title": "Negotiation and Refusal"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Judgment",
+    "Memory",
+    "Hardening of heart"
+  ],
+  "practicalQuestions": [
+    "How should communities teach later generations about painful or traumatic events in a way that shapes identity and responsibility?",
+    "When a leader resists what appears to be morally right, how do we interpret responsibility versus external causes that 'harden' a person's choices?",
+    "What limits, if any, should be placed on negotiating moral or religious obligations when authorities offer partial concessions?",
+    "How can people today discern and respond to signs that claim to indicate divine action or judgment?"
+  ],
+  "uncertainAreas": "Interpretive tension about 'the LORD hardened Pharaoh's heart' — whether this denotes divine compulsion, judicial hardening after prior resistance, or a theological reading of stubbornness. Historical details (exact nature of locusts, meteorological mechanism for three days of darkness) are uncertain and debated; the text presents them as miraculous signs without scientific explanation.",
+  "createdAt": "2025-11-03T15:29:22.457Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

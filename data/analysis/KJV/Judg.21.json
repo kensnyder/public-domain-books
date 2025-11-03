@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.21",
+  "briefOverview": "The chapter resolves the crisis after the civil war with Benjamin by finding wives for the surviving Benjamite men through violent and morally troubling measures, and closes with a summary statement about the social disorder of the age.",
+  "summary": "After the men of Israel had sworn at Mizpeh not to give their daughters to Benjamin, the people mourn and repent when they realize an entire tribe has been nearly wiped out. They discover Jabesh-gilead failed to attend the assembly, send 12,000 men to destroy the city, and seize 400 virgins to give to the Benjamites. Still short of wives, the elders arrange a plan at the yearly feast in Shiloh: the Benjamites hide in vineyards and seize the dancing women as wives, offering a formula to excuse this to the girls' families. The Benjamites return to their territory, rebuild their towns, and the book concludes with the recurring judgment that there was no king in Israel and everyone did what was right in his own eyes.",
+  "externalContext": "This narrative reflects the period of the Israelite tribal confederacy (post-conquest, pre-monarchy) when local elders and assemblies could call large-scale oaths and expeditions. Oaths sworn before the Lord had binding social force and could produce unintended consequences when taken rigidly. Shiloh was an early cultic center (see Joshua 18:1), and marriage was central to tribal continuity and alliances; the absence of a central authority made communal responses ad hoc and often violent.",
+  "externalReferences": "The events here are the immediate aftermath of the atrocity and civil war recounted in Judges 19–20 (the rape of a Levite's concubine and the subsequent war against Benjamin). The repeated closing line, \"In those days there was no king in Israel: every man did that which was right in his own eyes,\" appears elsewhere in Judges (e.g., Judges 17:6) and functions as a theological comment on the social disorder that leads toward the later demand for a monarchy (see 1 Samuel 8:4–7).\n\nShiloh's role as the assembly and religious center connects to earlier material where Shiloh is the meeting place of the tribes (Joshua 18:1).",
+  "seeAlso": [
+    "Judges 19:1-30",
+    "Judges 20:1-48",
+    "Judges 17:6",
+    "Joshua 18:1",
+    "1 Samuel 8:4-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Oath and Lament"
+    },
+    {
+      "range": "8-16",
+      "title": "Jabesh-gilead Destroyed"
+    },
+    {
+      "range": "17-25",
+      "title": "Shiloh Plan and Conclusion"
+    }
+  ],
+  "themes": [
+    "Oaths",
+    "Violence",
+    "Tribal survival",
+    "Social disorder"
+  ],
+  "practicalQuestions": [
+    "What are the consequences when communities make absolute vows without anticipating future harms?",
+    "How should groups repair injustice done to a minority without committing new injustices?",
+    "When does preserving a community justify actions that violate individual rights and dignity?",
+    "How does the absence of accountable leadership affect moral decision-making in a community?"
+  ],
+  "uncertainAreas": "The text raises ethical and historical uncertainties: the moral evaluation of the Israelites' responses is ambiguous (repentance is coupled with further violence), the historicity and precise sequence of events are debated, and the text gives little information about the perspectives or consent of the women taken—making interpretation of motive and culpability difficult.",
+  "createdAt": "2025-11-03T16:57:41.061Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

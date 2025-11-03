@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.11",
+  "briefOverview": "Leviticus 11 gives detailed dietary and purity laws defining which animals are clean (permissible to eat) and which are unclean (forbidden), and it prescribes how contact with dead animals causes temporary ritual impurity. The chapter grounds these rules in the call to holiness and the identity of Israel as God's people.",
+  "summary": "God instructs Moses and Aaron to tell Israel which land animals are lawful to eat (those that both chew the cud and have cloven hooves) and lists several exceptions (camel, coney, hare, swine) as unclean. It sets criteria for aquatic creatures (only those with fins and scales) and provides a list of birds and flying creatures that are abominable. Certain insects (specified locusts and grasshoppers) are allowed, while other creeping creatures are forbidden. The chapter prescribes that touching carcasses of unclean animals makes a person unclean until evening and requires washing clothes; it also details how vessels, ovens, and other objects become unclean if contaminated and how some things may be cleansed or broken. Broader prohibitions declare all creeping things abominable and prohibit making oneself unclean with them. The rationale given is theological: Israel must be holy because Yahweh is holy and because he brought them out of Egypt; the laws serve to distinguish between clean and unclean.",
+  "externalContext": "Ancient Near Eastern societies commonly practiced ritual purity laws tied to cultic life and community identity; dietary restrictions helped mark social boundaries and maintain separations linked to holiness. Israel was a pastoral and agrarian people for whom distinctions among animals had practical as well as religious significance. Later Jewish tradition preserved and elaborated these laws in purity manuals and in the interpretive work of the rabbis.",
+  "externalReferences": "Deuteronomy 14:3–21 contains a closely parallel set of dietary regulations, repeating many of the same criteria and lists. In the New Testament, Mark 7:18–19 (cf. Matthew 15) records Jesus teaching that what goes into a person does not defile them in the same way, and Acts 10:9–16 describes Peter's vision in which animals are declared clean, a text later read as lifting ethnic/ritual food barriers for Gentile inclusion. These later passages show theological development and debate over how Levitical purity laws apply in the post-Exodus, early Christian context.",
+  "seeAlso": [
+    "Deuteronomy 14:3-21",
+    "Mark 7:18-19",
+    "Matthew 15:10-20",
+    "Acts 10:9-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-8",
+      "title": "Land Animals: Clean/Unclean"
+    },
+    {
+      "range": "9-22",
+      "title": "Fish, Birds, Insects"
+    },
+    {
+      "range": "23-47",
+      "title": "Carcasses and Purity"
+    }
+  ],
+  "themes": [
+    "Dietary law",
+    "Ritual purity",
+    "Holiness",
+    "Community distinction"
+  ],
+  "practicalQuestions": [
+    "How do dietary or bodily-regulation practices function today to shape religious or cultural identity?",
+    "Which modern practices serve the same purpose of 'making a difference' between communities, and how should they be evaluated?",
+    "How should contemporary readers reconcile texts that demand separation (e.g., clean/unclean) with later scriptures that reinterpret those separations?",
+    "When ritual requirements conflict with modern health or ethical concerns, what principles determine how communities adapt or retain them?"
+  ],
+  "uncertainAreas": "Identification of several animals (e.g., 'coney', 'ossifrage', 'ospray') depends on ancient Hebrew terms and is uncertain; the text does not state explicit practical reasons (e.g., health versus symbolic holiness) for each prohibition, leaving interpretation open between symbolic, hygienic, and social explanations.",
+  "createdAt": "2025-11-03T15:50:38.778Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Josh.5",
+  "briefOverview": "Israel completes a ritual and covenantal transition on entering Canaan and encounters a divine commander at Jericho, marking the shift from wilderness to conquest.",
+  "summary": "News of the Jordan crossing demoralizes the Canaanite kings. God commands Joshua to circumcise the new generation who were born during the forty years in the wilderness; the people are healed and the place is named Gilgal as God declares the 'reproach of Egypt' rolled away. Israel keeps the Passover at Gilgal and begins to eat the produce of the land; the manna ceases. Near Jericho Joshua meets a figure identified as the 'captain of the LORD's host,' to whom he bows in worship and who declares the ground holy, instructing Joshua to remove his shoe.",
+  "externalContext": "Circumcision (Genesis 17) was the primary physical sign of the covenant between God and Abraham's descendants; renewing or completing it here signals full covenant membership for the generation about to possess Canaan. Passover (see Exodus 12) is the foundational festival recalling deliverance from Egypt and functions here to inaugurate Israel's life in the promised land. The phrase 'captain of the LORD's host' fits the ancient Near Eastern motif of a divine warrior leading Israel in battle and can be read as a theophany or an angelic representative.",
+  "externalReferences": "Genesis 17 establishes circumcision as the covenant sign that Joshua now enforces for the wilderness-born generation. Exodus 12 describes the Passover ritual that Israel observes at Gilgal. Exodus 3:5 parallels the command to remove sandals on holy ground (Moses at the burning bush). Numbers 14:29–30 explains why the adult generation who left Egypt did not enter the land.",
+  "seeAlso": [
+    "Genesis 17:9-14",
+    "Exodus 12:1-14",
+    "Exodus 3:5",
+    "Numbers 14:29-30",
+    "Joshua 4",
+    "Joshua 6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Circumcision and Gilgal"
+    },
+    {
+      "range": "10-12",
+      "title": "Passover and Provision"
+    },
+    {
+      "range": "13-15",
+      "title": "The LORD's Commander"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Transition",
+    "Divine Presence",
+    "Holy Ground"
+  ],
+  "practicalQuestions": [
+    "How should communities mark and renew covenantal or formative practices across generations?",
+    "What does it mean today to move from dependence (manna) to self-sustaining life in a new context?",
+    "How might one recognize and respond to a sense of sacred presence in ordinary places?",
+    "In what ways do ritual and worship prepare a community for ethical and political action?"
+  ],
+  "uncertainAreas": "The precise identity of the 'captain of the LORD's host' (angelic messenger, theophany of YHWH, or symbolic military leader) is ambiguous. The phrase 'rolled away the reproach of Egypt' is theological and symbolic; whether it refers primarily to physical dishonor (uncircumcision) or broader national shame is open to interpretation.",
+  "createdAt": "2025-11-03T16:37:43.556Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

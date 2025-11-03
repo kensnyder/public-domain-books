@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Exod.12",
+  "briefOverview": "Exodus 12 prescribes the first Passover and the festival of Unleavened Bread, giving ritual instructions and linking them to Israel’s deliverance; it then narrates the death of the Egyptian firstborn and the hurried Israelite departure from Egypt.",
+  "summary": "God institutes the month (the first month) and the Passover ritual: each household is to select an unblemished year-old lamb, keep it until the fourteenth day, slaughter it at evening, apply its blood to the doorposts, and eat the roasted meat with unleavened bread and bitter herbs. The blood on the doors will mark Israel so that the LORD will 'pass over' their houses when he strikes down the firstborn of Egypt. The chapter prescribes a seven-day festival of Unleavened Bread, holy convocations on the first and seventh days, and rules about leaven and who may eat the Passover (including requirements for servants and foreigners). Moses and the people obey; at midnight the LORD strikes the firstborn throughout Egypt, Pharaoh summons Israel to depart, and the people leave hastily, taking unleavened dough and borrowing valuables from the Egyptians. The chapter records the number 430 years for the sojourn in Egypt and emphasizes that this night shall be observed as an ordinance for generations.",
+  "externalContext": "Passover (Hebrew: Pesach) became the central annual festival in Israelite religion commemorating liberation from Egypt; ancient calendars count the month named Nisan (first month) for this occasion. The ritual elements—lamb, blood on doorposts, unleavened bread, bitter herbs—fit ancient Near Eastern sacrificial and household-protective symbolism (blood as a protective sign, hyssop as a plant used for sprinkling). Scholars debate the historical details (e.g., the numerical dating of 430 years and the historicity of the Exodus account), but the chapter functions liturgically and theologically as foundation for communal memory and identity.",
+  "externalReferences": "This chapter is closely tied to the provisions that follow in Exodus 13 (consecration of firstborn and instructions about the festival) and to later legal summaries of the festival in Leviticus 23:5–8 and Deuteronomy 16:1–8. Numbers 9:6–14 deals with how those unclean or absent could observe Passover, and the New Testament interprets the Passover lamb typologically (e.g., John 1:29; 1 Corinthians 5:7 uses the lamb image for Christ).",
+  "seeAlso": [
+    "Exodus 13:3-10",
+    "Leviticus 23:5-8",
+    "Deuteronomy 16:1-8",
+    "Numbers 9:6-14",
+    "John 1:29",
+    "1 Corinthians 5:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Institution of the Passover"
+    },
+    {
+      "range": "15-20",
+      "title": "Unleavened Bread Festival"
+    },
+    {
+      "range": "21-51",
+      "title": "Plague, Exodus, Regulations"
+    }
+  ],
+  "themes": [
+    "Passover",
+    "Deliverance",
+    "Ritual observance",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "How can communal memory-shaping rituals (like Passover) help contemporary communities remember formative events in ways that shape identity and ethics?",
+    "What does the connection between sacrificial signs (blood on the doorposts) and protection suggest about the role of visible symbols in faith life today?",
+    "How should communities balance inclusive hospitality with ritual or covenantal requirements that, in the text, limit participation (e.g., circumcision prerequisite)?",
+    "In what ways does the urgency of the Israelite departure (hastily leaving with unleavened bread) speak to responding promptly to moral or spiritual calls in our lives?"
+  ],
+  "uncertainAreas": "Uncertainties include the historical dating (the meaning of the 430 years), the composition and social identity of the 'mixed multitude,' the precise ritual meaning of some elements (hyssop, 'gods of Egypt'), and how strictly ancient ritual prerequisites (e.g., circumcision for participation) should be applied or reinterpreted in later religious communities.",
+  "createdAt": "2025-11-03T15:30:13.157Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

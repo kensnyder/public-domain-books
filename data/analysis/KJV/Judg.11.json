@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.11",
+  "briefOverview": "The chapter recounts Jephthah, an outcast who becomes Gilead's military leader, secures victory over the Ammonites, and then fulfills a tragic vow concerning his daughter.",
+  "summary": "Jephthah, the son of a concubine, is driven away by his half-brothers, becomes a leader of raiders, and is later summoned by the elders of Gilead to lead them against the Ammonites. He negotiates with the Ammonite king over the disputed territory, presents Israel's prior conquest of the Amorites as the basis for Israel's possession, and when negotiations fail the Spirit of the LORD comes upon him. Jephthah makes a vow that whatever comes out of his house to meet him on his return shall be the LORD's and offered as a burnt offering. After military victory, his only child, his daughter, greets him; he laments but carries out his vow. The daughter asks for two months to mourn her virginity with her companions; afterward he does as vowed. The chapter ends noting an annual four-day lamentation by Israelite women for the daughter of Jephthah.",
+  "externalContext": "The Book of Judges is set in the early Iron Age (after the settlement of Canaan), a time of decentralized tribal leadership in Israel when charismatic judges arose to meet crises. Vows and dedicatory practices were culturally significant in the ancient Near East, and neighboring peoples sometimes practiced child sacrifice; however, Israelite law contains prohibitions against offering children to foreign deities (see Levitical and Deuteronomic laws). The episode reflects the fragile mixture of local custom, personal oath-taking, and the theological motif of the Spirit of the LORD empowering military leaders in Judges.",
+  "externalReferences": "The narrative's note that 'the Spirit of the LORD came upon Jephthah' parallels other judges like Othniel and Gideon (see Judges 3:10; 6:34) where divine empowering accompanies deliverance. The vow and its tragic consequences touch on legal and ethical material about vows (see Numbers 30:2 on the seriousness of vows) and intersect with laws forbidding human sacrifice found elsewhere in the Torah (e.g., Leviticus 18:21; 20:2–5).",
+  "seeAlso": [
+    "Judges 3:10",
+    "Judges 6:34",
+    "Numbers 30:2",
+    "Leviticus 18:21",
+    "Leviticus 20:2-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Origins and Exile"
+    },
+    {
+      "range": "4-28",
+      "title": "Call, Negotiation, and Campaign"
+    },
+    {
+      "range": "29-40",
+      "title": "Vow and Its Consequence"
+    }
+  ],
+  "themes": [
+    "Leadership",
+    "Vows",
+    "Deliverance",
+    "Tragedy"
+  ],
+  "practicalQuestions": [
+    "How should individuals and communities treat promises made to God — especially when fulfilling them causes harm?",
+    "What responsibilities do leaders have to weigh the consequences of public vows or pledges?",
+    "How can communities respond pastorally to those who suffer as a result of religious commitments?",
+    "What practices of memory and lament are appropriate when honoring victims of tragic decisions?"
+  ],
+  "uncertainAreas": "The text is ambiguous about whether Jephthah's daughter was literally sacrificed or instead dedicated to lifelong service/virginity: phrases like 'shall surely be the LORD's' and 'I will offer it up for a burnt offering' point toward sacrifice, while 'and she knew no man' and the institution of an annual lament leave room for interpretation. It is also unclear how this vow fit legally and theologically with Israelite prohibitions against child sacrifice; the chapter records the events without explicit divine approval or condemnation, leaving the moral evaluation open.",
+  "createdAt": "2025-11-03T16:52:25.451Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Josh.2",
+  "briefOverview": "Two Israelite spies reconnoiter Jericho, are sheltered by Rahab, and make a binding agreement that spares her household at the time of the city's conquest.",
+  "summary": "Joshua sends two men to scout Jericho; they lodge in Rahab's house, which is on the city wall, and she hides them from the king's men. Rahab acknowledges the LORD's acts on Israel's behalf (the Red Sea crossing and victories over Sihon and Og), expresses fear for her people, and asks the spies to swear protection for her family. The spies agree, instructing Rahab to bind a scarlet cord in her window as a sign and warning that anyone leaving her house will forfeit that promise. Rahab helps the spies escape by lowering them by a cord through the window; they hide three days on a nearby mountain and then return to Joshua with the report that the land is already terrifying its inhabitants.",
+  "externalContext": "Military reconnaissance by small teams was a common practice in the ancient Near East, where city-states were defended by walls and gates that served as public centers. Houses could be built on city walls, providing access to the outside; this detail explains how Rahab let the spies down by a cord. Oaths and household markers (like a colored cord or sign) were culturally significant as public pledges that bound parties and indicated protected persons or property. The term used for Rahab in many ancient translations is commonly rendered \"harlot\" or \"prostitute,\" which helps explain her marginal social status and the risk she took in aiding Israelite agents.",
+  "externalReferences": "The spies' report alludes to Israel's crossing of the sea (Exodus 14) and the defeat of the Amorite kings Sihon and Og (Numbers 21:21–35; Deuteronomy 2:26–3:11), events used here to explain Canaanite fear. The scarlet cord and Rahab's deliverance are picked up later in the narrative of Jericho's fall (Joshua 6). Rahab is also invoked in later scriptural discussions of faith and works (Hebrews 11:31; James 2:25).",
+  "seeAlso": [
+    "Exodus 14",
+    "Numbers 21:21-35",
+    "Deuteronomy 2:26-3:11",
+    "Joshua 6",
+    "Hebrews 11:31",
+    "James 2:25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Spies Seek Jericho"
+    },
+    {
+      "range": "8-21",
+      "title": "Rahab's Confession and Pact"
+    },
+    {
+      "range": "22-24",
+      "title": "Spies Return to Joshua"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Covenant",
+    "Protection",
+    "Divine deliverance"
+  ],
+  "practicalQuestions": [
+    "How should communities treat and protect people who risk themselves to help others, even when they come from marginalized backgrounds?",
+    "What responsibilities do promises and oaths create in contemporary relationships and public life?",
+    "In what ways can recognition of a larger moral or divine action (as Rahab recognized) change personal loyalties or choices?",
+    "How do we discern between self-preservation and genuine faith when evaluating someone's motives for helpful actions?"
+  ],
+  "uncertainAreas": "The text's portrayal of Rahab's social status (\"harlot\") and its precise implications are ambiguous; ancient meanings of that term and her motives (faith vs. pragmatic self-preservation) are debated. The exact cultural significance of the scarlet cord is unclear beyond its function as a sign agreed by the parties. Historical details (e.g., the spies' activities and the city's reaction) cannot be independently verified from this chapter alone.",
+  "createdAt": "2025-11-03T16:36:44.638Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

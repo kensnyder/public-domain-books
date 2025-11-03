@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Exod.29",
+  "briefOverview": "Detailed instructions for consecrating Aaron and his sons as priests and for sanctifying the altar and tabernacle, using specific sacrificial rites, anointing, and vesting rituals.",
+  "summary": "God gives Moses step-by-step rites to ordain Aaron and his sons: washing, vesting in specified garments, anointing with oil, and a sequence of sacrifices (a bullock and two rams) with particular treatments of blood, fat, flesh, and portions to be waved or heaved. The text prescribes that the priests lay hands on the animals, the application and sprinkling of blood on the altar and on the priests themselves, and the eating of certain consecrated portions by Aaron and his sons for seven days. It establishes hereditary priestly rights (garments passing to sons) and strict rules about what may be eaten and what must be burned. The chapter then prescribes the ongoing daily burnt offerings (morning and evening lambs with grain and drink offerings) and closes with the promise that God will sanctify the tabernacle and dwell among Israel, meeting them there and confirming his presence.",
+  "externalContext": "In the ancient Near East, special inauguration rites, anointing, and sacrificial acts commonly marked the investiture of religious and political officials; here those cultural patterns are shaped by Israel’s concern for ritual purity and covenantal service. The Aaronic priesthood is presented as a hereditary, cultic office responsible for mediating sacrifices and maintaining the tabernacle cult. Blood and anointing are symbolic of life, purification, and setting apart (sanctification) in Israelite ritual language, and the seven-day period echoes other ancient practices of consecration and inauguration.",
+  "externalReferences": "The ordination material here closely parallels the priestly inauguration narrative in Leviticus 8–9, which gives a fuller narrative account of the same rites. The instruction about the anointing oil relates to the specialized oil recipe and its sacred use in Exodus 30:22–33. The promise that God's glory will sanctify the tabernacle and dwell with Israel recalls Exodus 40:34–38, where the cloud of glory fills the sanctuary. The recurring theme of continual offerings connects with sacrificial regulations found throughout Leviticus (e.g., Leviticus 1–7).",
+  "seeAlso": [
+    "Leviticus 8:1-36",
+    "Leviticus 1-7",
+    "Exodus 30:22-33",
+    "Exodus 40:34-38",
+    "Leviticus 16:1-34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Vesting and Washing"
+    },
+    {
+      "range": "11-28",
+      "title": "Consecration Sacrifices"
+    },
+    {
+      "range": "29-37",
+      "title": "Priestly Rights and Altar"
+    },
+    {
+      "range": "38-46",
+      "title": "Continual Offerings and Presence"
+    }
+  ],
+  "themes": [
+    "Consecration",
+    "Sacrifice",
+    "Holiness",
+    "Divine Presence"
+  ],
+  "practicalQuestions": [
+    "How should religious communities today mark the setting apart of leaders in ways that balance symbolic ritual with accountability?",
+    "What meaning can modern worshippers draw from the physical symbols (washing, anointing, laying on of hands) used to denote service and holiness?",
+    "How do communal meals or shared sacred meals function to reinforce identity and responsibility among religious leaders and congregations?",
+    "In what ways can the idea of 'God dwelling among the people' shape contemporary practices of sacred space and communal presence?"
+  ],
+  "uncertainAreas": "Precise ritual nuances—such as the full symbolic range of 'wave' and 'heave' offerings, the exact liturgical order in lived practice, and how later temple practice modified these instructions—are not fully explicit in the chapter and require comparison with Leviticus and later priestly texts.",
+  "createdAt": "2025-11-03T15:38:43.801Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.31",
+  "briefOverview": "Moses prepares Israel for his death and Joshua’s succession while commanding public instruction and warning the people about future unfaithfulness.",
+  "summary": "Moses announces his advanced age and inability to cross the Jordan, reassures Israel that the LORD will go before them, and formally commissions Joshua as leader. He records and entrusts the law to the Levitical priests and commands a public reading of the law every seven years at the Feast of Tabernacles so all—men, women, children, and resident foreigners—may hear and learn. God tells Moses that Israel will forsake the covenant after entering the land, prompting Moses to write a song to serve as a future witness against their disobedience. Moses places the book of the law beside the ark of the covenant and summons the leaders to hear his final warnings, calling heaven and earth to witness their responsibility. The chapter ends with Moses reciting the song to the congregation.",
+  "externalContext": "Deuteronomy is framed as a farewell speech traditionally attributed to Moses and reflects ancient Near Eastern treaty and succession practices (public commissioning of a successor, covenant curses and witnesses). The seven-year reading at the sabbatical year echoes Israelite laws about periodic renewal and public instruction (cf. the sabbatical year and pilgrimage festivals such as Sukkot/Tabernacles). The idea of putting a document by a sacred object as a legal witness is consistent with ancient treaty and cultic practices.",
+  "externalReferences": "The defeat of Sihon and Og is narrated earlier in Numbers (Numbers 21:21–35) and is used here as precedent for divine victory. The commission and promises to Joshua parallel Joshua 1:1–9, which repeats the encouragements to be strong and courageous. The \"song\" Moses is told to write is commonly identified with Deuteronomy 32, which functions as a poetic covenant witness. The instruction to read the law every seven years connects with laws about the sabbatical year and communal worship found in Leviticus 25 and Deuteronomy 31:10–13 finds a thematic counterpart in passages about a centralized cultic place (e.g., Deuteronomy 12:5–7).",
+  "seeAlso": [
+    "Numbers 21:21-35",
+    "Joshua 1:1-9",
+    "Deuteronomy 32:1-43",
+    "Leviticus 25",
+    "Deuteronomy 12:5-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Moses' Farewell and Promise"
+    },
+    {
+      "range": "9-13",
+      "title": "Public Reading Command"
+    },
+    {
+      "range": "14-30",
+      "title": "Warning and Legal Witness"
+    }
+  ],
+  "themes": [
+    "Leadership transition",
+    "Covenant faithfulness",
+    "Public instruction",
+    "Liturgical witness"
+  ],
+  "practicalQuestions": [
+    "How should contemporary leaders prepare and authorize successors to preserve a community's core commitments?",
+    "What communal practices (public readings, rituals) help transmit ethical and religious teachings across generations?",
+    "In what ways can prosperity lead to complacency or moral drift, and how can institutions guard against that?",
+    "How might a community use memorials or ‘witness’ texts to hold itself accountable to its founding commitments?"
+  ],
+  "uncertainAreas": "Uncertainty about compositional and editorial history (how Deuteronomy and the song were finalized) and the precise historical meaning of phrases like “the place which he shall choose” in pre-monarchic Israel. Also some ambiguity whether every detail (e.g., placement of the book in the ark) describes an actual historical act at that moment or a later legal/ritual prescription.",
+  "createdAt": "2025-11-03T16:34:23.355Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

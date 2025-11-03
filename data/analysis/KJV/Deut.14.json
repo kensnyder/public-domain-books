@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.14",
+  "briefOverview": "Deuteronomy 14 gives laws that mark Israel's distinctiveness: rules about mourning and detailed dietary regulations, followed by instructions for tithing and provision for Levites and the needy.",
+  "summary": "The chapter begins by affirming Israel’s special status and forbidding ritual self-mutilation for the dead (vv. 1–2). It then sets out detailed food laws: permitted land animals (those that chew the cud and have cloven hooves), prohibited animals (examples of ruminants without cloven hooves, the pig), permitted water creatures (those with fins and scales), prohibited birds and flying creeping things, and a ban on eating animals that die of themselves (vv. 3–21). The prohibition “you shall not seethe a kid in its mother’s milk” is reiterated (v. 21). The chapter closes with rules about tithing: yearly tithes of produce are to be eaten before the Lord at the place God chooses, with a provision for converting the tithe to money if the journey is too long; the Levite must be included and supported (vv. 22–27). Finally, at the end of every three years a tithe is stored locally so that Levites, strangers, fatherless, and widows in the town may eat and be satisfied (vv. 28–29).",
+  "externalContext": "Deuteronomy is part of the Deuteronomistic corpus (traditionally associated with Moses’ farewell speeches) and reflects concerns about covenant faithfulness, holiness, and centralized worship. The dietary laws here largely parallel Levitical purity legislation and reflect ancient Near Eastern concerns about group identity, ritual purity, and commensality. The emphasis on bringing tithes to a single chosen place anticipates the later centralization of worship in Jerusalem (especially in texts associated with religious reform movements).",
+  "externalReferences": "The dietary rules here closely parallel Leviticus 11, which lists clean and unclean animals in greater detail. The prohibition against boiling a young goat in its mother’s milk also appears in Exodus 23:19 and Exodus 34:26, indicating an established ritual/legal tradition. The requirement to bring offerings and tithes to “the place which the LORD will choose” echoes Deuteronomy 12:5–7 and relates to later biblical narratives about centralizing worship (e.g., reforms in 2 Kings 22–23). The provision that Levites have no land inheritance parallels Numbers 18:20–24, which explains Levite support by offerings and tithes.",
+  "seeAlso": [
+    "Leviticus 11",
+    "Exodus 23:19",
+    "Exodus 34:26",
+    "Deuteronomy 12:5-7",
+    "Numbers 18:20-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Identity and Mourning"
+    },
+    {
+      "range": "3-21",
+      "title": "Dietary Laws"
+    },
+    {
+      "range": "22-29",
+      "title": "Tithes and Provision"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "Purity",
+    "Community support",
+    "Worship centralization"
+  ],
+  "practicalQuestions": [
+    "How do contemporary communities mark boundaries of identity and belonging without fostering exclusion?",
+    "What practices today serve the same social and spiritual functions as dietary laws in cultivating holiness or group identity?",
+    "How can religious communities ensure material support for those who serve them (like the Levites) and for vulnerable people among them?",
+    "In what ways should central practices (shared meals, pilgrimages) shape communal religious formation now?"
+  ],
+  "uncertainAreas": "Some animal names (pygarg, chamois, ossifrage) reflect ancient or Septuagint-era translations and are uncertain in precise identification. The meaning and original rationale of “you shall not seethe a kid in its mother’s milk” is debated (ritual, ethical, or symbolic reasons). The phrase “the place which the LORD shall choose” is historically ambiguous in earlier/later dating—whether it originally meant a single sanctuary like Jerusalem or a different cultic arrangement depends on broader compositional questions.",
+  "createdAt": "2025-11-03T16:26:01.779Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

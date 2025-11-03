@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.31",
+  "briefOverview": "Jacob decides to flee Laban's household after recognizing growing hostility; God directs him to return to his family and a covenant is made between Jacob and Laban at their parting.",
+  "summary": "Jacob hears Laban's sons accuse him of taking their father's wealth, and he notices Laban's changed attitude. The LORD instructs Jacob to return to his father's land; Jacob tells Rachel and Leah, who consent because they feel mistreated and claim a share in the gains. Jacob secretly departs with his wives, children, and flocks; Rachel takes her father’s household gods. Laban pursues Jacob, but God warns Laban in a dream not to speak harshly. Laban confronts Jacob about the secret flight and the stolen gods; Jacob defends his conduct by recounting twenty years of service and injustices. They make a covenant with a heap of stones and a pillar as witnesses (called Galeed/Mizpah), share a meal, and then part ways peacefully the next morning.",
+  "externalContext": "In the ancient Near East, wealth was often measured in livestock and household goods; bride-service (long periods of labor for a bride) and polygynous households were common. Household gods (teraphim) could function as family property and symbols of inheritance or legal standing, so taking them could have social and legal implications. Oaths and erected stones or pillars were conventional ways to formalize agreements and guarantees between kin groups.",
+  "externalReferences": "This episode echoes and depends on earlier material: Jacob’s service for Laban and the marriages to Leah and Rachel are narrated in Genesis 29:15–30, and the details about the breeding of speckled and ringstraked flocks appear in Genesis 30:25–43, which explain Jacob’s increasing wealth. Jacob’s prior vow at Bethel (Genesis 28:10–22) is alluded to when God identifies himself as the God of Bethel and repeats the call to return. The names Galeed/Jegar-sahadutha and Mizpah recall the common ancient practice of naming covenant sites (compare Genesis 35:1–15 for later visits to Bethel).",
+  "seeAlso": [
+    "Genesis 28:10-22",
+    "Genesis 29:15-30",
+    "Genesis 30:25-43",
+    "Genesis 35:1-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-21",
+      "title": "Decision and Departure"
+    },
+    {
+      "range": "22-42",
+      "title": "Pursuit and Confrontation"
+    },
+    {
+      "range": "43-55",
+      "title": "Covenant and Parting"
+    }
+  ],
+  "themes": [
+    "Divine guidance",
+    "Family conflict",
+    "Covenant",
+    "Property and justice"
+  ],
+  "practicalQuestions": [
+    "How should we discern and act on a sense of divine guidance when family and social pressures conflict with it?",
+    "What steps can be taken today to resolve family disputes over resources without escalating hostility?",
+    "When is secrecy justified to protect family members, and what are the moral costs of such secrecy?",
+    "How can symbolic acts (oaths, witnesses, public agreements) be used constructively in repairing broken relationships?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous the precise legal and symbolic status of the 'gods' Rachel took (teraphim) and whether her motive was personal piety, legal maneuvering, or something else; Jacob’s unawareness of the theft creates narrative tension. The exact legal force of the covenant (how it constrained future behavior) and the meaning of Laban swearing by 'the fear of his father Isaac' are also somewhat opaque.",
+  "createdAt": "2025-11-03T15:13:16.539Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

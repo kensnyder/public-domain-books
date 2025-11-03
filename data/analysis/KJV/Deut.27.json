@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.27",
+  "briefOverview": "A covenant-renewal ceremony is prescribed for Israel as they enter the land: stones are to be set up and the law written, an altar built on Mount Ebal, and the Levites pronounce a series of curses to be answered by the people.",
+  "summary": "Moses commands that when Israel crosses the Jordan they set up large plastered stones and write all the words of the law upon them, and build an altar of unhewn stones on Mount Ebal where offerings will be made (vv. 1–8). He declares that Israel has become God's people and must obey the commandments (vv. 9–10). Moses assigns six tribes to stand on Mount Gerizim to bless the people and six to stand on Mount Ebal to pronounce curses (vv. 11–13). The Levites loudly recite a list of specific curses for offenses including idolatry, dishonoring parents, moving boundary stones, perverting justice, sexual violations, murder, and failing to observe the law; the assembly responds “Amen” to each curse (vv. 14–26).",
+  "externalContext": "The ritual fits into the ancient Near Eastern practice of covenant treaties and public covenant renewal ceremonies—often involving public inscriptions, standing stones, and blessings/curses distributed across geographic markers. Mount Gerizim and Mount Ebal were natural loci for such a ceremony on the threshold of Canaan; later Israelite and Samaritan traditions preserved differing emphases on Gerizim’s sanctity. Levites function here as ritual teachers and covenant-readers, reflecting their cultic and legal role in Israelite society.",
+  "externalReferences": "The actual performance of this ceremony is narrated in Joshua 8:30–35, where Joshua sets up the stones on Mount Ebal and reads the law aloud. The pattern of blessings and curses as covenant sanctions is echoed in Leviticus 26 (blessings and curses for obedience/disobedience) and in Deuteronomy 28. Many specific prohibitions cited here (e.g., sexual prohibitions) have close parallels in Leviticus 18. Verse 26’s formula—cursed is the one who does not confirm all the words of the law—is later echoed in Galatians 3:10 in the New Testament.",
+  "seeAlso": [
+    "Joshua 8:30-35",
+    "Leviticus 26",
+    "Leviticus 18:6-18",
+    "Deuteronomy 28",
+    "Galatians 3:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Stones and Altar"
+    },
+    {
+      "range": "9-13",
+      "title": "Proclamation and Stations"
+    },
+    {
+      "range": "14-26",
+      "title": "Levites' Curses"
+    }
+  ],
+  "themes": [
+    "Covenant Renewal",
+    "Law",
+    "Blessing and Curse",
+    "Communal Responsibility"
+  ],
+  "practicalQuestions": [
+    "How can modern communities mark and remember the commitments that define their shared life?",
+    "What practices correspond today to publicly reading and teaching foundational laws or values?",
+    "In what ways should societies protect vulnerable people (widows, orphans, foreigners) as emphasized here?",
+    "How should groups handle public accountability for serious moral failures outlined in the curses?"
+  ],
+  "uncertainAreas": "Some translations and traditions differ on details (e.g., the precise meaning of \"plaister,\" the significance of forbidding iron on the altar, and the later religious status of Gerizim versus Ebal). The ritual force of the curses—whether primarily symbolic/ceremonial or intended as concrete immediate sanctions—also allows multiple reasonable readings.",
+  "createdAt": "2025-11-03T16:32:30.635Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

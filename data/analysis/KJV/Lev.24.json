@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.24",
+  "briefOverview": "Leviticus 24 gives ritual instructions for the tabernacle (lamp and showbread) and then recounts a blasphemy case that leads into laws about capital punishment and lex talionis (eye for an eye).",
+  "summary": "Verses 1–9 instruct that Aaron is to keep the lampstand burning continually with beaten olive oil and to prepare twelve loaves of showbread, set before the LORD every Sabbath as a perpetual covenant for the priests. Verses 10–16 narrate an incident in which the son of an Israelite woman and an Egyptian father blasphemes the name of the LORD; he is held in custody while the LORD instructs that he be taken outside the camp and stoned by the congregation. Verses 17–22 lay out a set of punitive rules: a person who kills is to be put to death, an animal killing must be compensated, and injuries are to be punished according to the principle of reciprocity (breach for breach, eye for eye). The chapter concludes by emphasizing equal application of the law to foreigners and natives, and records that the people carried out the sentence.",
+  "externalContext": "The chapter reflects ancient Israelite cultic practice in the tabernacle/temple where priests maintained continual light and regular offerings (showbread) as central acts of worship. Capital punishment and the lex talionis were common features of ancient Near Eastern law codes (e.g., the Code of Hammurabi) and functioned to limit retaliation by prescribing proportional retribution. The tabernacle setting and priestly concerns reflect a priestly legal-theological tradition that emphasizes holiness, order, and the communal enforcement of covenant obligations.",
+  "externalReferences": "The instructions about a golden lampstand and a table for showbread echo earlier tabernacle furnishings described in Exodus 25:31–40 (lampstand) and Exodus 25:23–30 (table and bread). The principle of proportional retribution (\"eye for eye\") is also reflected in Deuteronomy 19:21, which prescribes equal retaliation for certain offenses. In the New Testament, Jesus addresses the \"eye for an eye\" principle and calls for a different ethic in Matthew 5:38–39, contrasting retributive justice with non-retaliation.",
+  "seeAlso": [
+    "Exodus 25:31-40",
+    "Exodus 25:23-30",
+    "Deuteronomy 19:21",
+    "Matthew 5:38-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Tabernacle Rituals"
+    },
+    {
+      "range": "10-16",
+      "title": "Blasphemy Case"
+    },
+    {
+      "range": "17-22",
+      "title": "Laws of Retribution"
+    }
+  ],
+  "themes": [
+    "Worship",
+    "Holiness and Sanctity",
+    "Justice",
+    "Equality before Law"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance respect for sacred names and free speech when speech offends religious sensibilities?",
+    "What lessons can contemporary legal systems draw from the principle of proportionality (\"eye for an eye\") in shaping fair punishments?",
+    "How does the insistence on equal application of law to strangers and natives inform present-day debates about immigrant rights and legal protections?",
+    "In what ways can religious communities maintain ritual continuity (like the continual lamp or weekly bread) while adapting to new contexts?"
+  ],
+  "uncertainAreas": "The text does not record the exact words of the blasphemy or the motives of the accused, so questions remain about intent and context for the offense. It is also unclear how the communal stoning procedure worked in practice and how these penalties were implemented historically; the chapter reflects legal-theological prescriptions rather than courtroom procedure details.",
+  "createdAt": "2025-11-03T15:58:28.798Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

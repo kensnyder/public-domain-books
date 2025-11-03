@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Num.5",
+  "briefOverview": "Numbers 5 sets rules for communal purity and restitution and prescribes a priestly ritual for a husband’s unexplained jealousy about his wife’s fidelity.",
+  "summary": "Verses 1–4 command that anyone with a skin disease, a bodily discharge, or who is defiled by contact with the dead be sent outside the camp to avoid defiling the community where God dwells. Verses 6–10 require confession and monetary restitution for sins against another, including payment of the principal plus one-fifth, or, if there is no kinsman to receive it, repayment to the LORD via the priest together with a ram for atonement; the text also states that offerings given to the priest become his property. Verses 12–31 prescribe the “law of jealousies”: when a husband suspects his wife of adultery without witnesses, he brings her to the priest who prepares a “jealousy” offering and bitter water made with dust from the tabernacle; after an oath the woman drinks, and the ritual’s effects (swelling/decay) will reveal guilt, while an innocent woman will be declared free and able to conceive. The chapter closes by declaring the husband guiltless if he follows this procedure and the woman bearing the consequences if found guilty.",
+  "externalContext": "Ancient Israelite law is strongly shaped by concerns for ritual purity, communal holiness, lineage, and property—matters handled in synoptic fashion by priests as mediators between the sacred and the social. Exclusion of those with skin disease or contact with the dead reflects broader Near Eastern purity practices and public-health concerns in a nomadic/early-settlement camp context. The priestly role in adjudication and ritual (here and elsewhere) indicates that religious specialists controlled certain legal and sacrificial procedures, and the marriage jealousy ritual reflects an ancient legal solution where testimony or clear evidence was absent.",
+  "externalReferences": "The instruction to remove the ritually impure (skin disease) parallels the detailed skin-disease regulations in Leviticus 13. The requirement to repay a wrong with the principal plus one-fifth is comparable to restitution rules elsewhere in the Torah (cf. Exodus 22:1 on repayment for theft). The idea of priestly atonement for offenses resonates with other priestly atonement material, for example Leviticus 16’s concern with sacrificial rites for communal purity.",
+  "seeAlso": [
+    "Leviticus 13",
+    "Exodus 22:1",
+    "Leviticus 16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Exclusion for Impurity"
+    },
+    {
+      "range": "6-10",
+      "title": "Confession and Restitution"
+    },
+    {
+      "range": "12-31",
+      "title": "Ritual for Jealousy"
+    }
+  ],
+  "themes": [
+    "Purity",
+    "Restitution",
+    "Priestly mediation",
+    "Marital fidelity"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance protecting public health or communal well-being with compassion for those excluded or marginalized?",
+    "What contemporary practices correspond to confession and material restitution when we harm others, and how should religious communities encourage them?",
+    "When evidence is lacking in interpersonal disputes (especially in marriages), what processes of inquiry and fairness should communities use instead of shaming or unilateral action?",
+    "What responsibilities do spiritual or community leaders have when adjudicating private matters, and how can those responsibilities avoid abuses of power?"
+  ],
+  "uncertainAreas": "The text’s presentation of the jealousy ritual leaves open how literally the described physical effects were expected to occur versus functioning as a symbolic or juridical test; the mechanism of the water’s effect is ambiguous. It is also unclear from the chapter alone how frequently the priest’s ownership of offerings was practiced in daily life or how communities later interpreted and regulated the ritual—rabbinic developments and historical practice are not specified in this text.",
+  "createdAt": "2025-11-03T16:02:49.587Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

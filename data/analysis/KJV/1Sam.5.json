@@ -1,0 +1,36 @@
+{
+  "chapterOsisID": "1Sam.5",
+  "briefOverview": "The chapter narrates the Philistines' capture of Israel's ark, its placement in Dagon's temple, and the subsequent divine afflictions on Philistine cities.",
+  "summary": "After the Philistines take the ark from Ebenezer, they place it in the temple of their god Dagon in Ashdod. The next morning Dagon is found prostrate before the ark, and on a second day his head and hands are broken off; the Philistines avoid the temple threshold thereafter. A severe plague described as \"emerods\" (tumors/hemorrhoids) and deaths afflict Ashdod and its territory, prompting the Philistines to move the ark to Gath and then to Ekron. Each city experiences destruction or cries of fear, and the leaders repeatedly conclude the ark cannot remain among them because of the deadly effect of God's presence.",
+  "externalContext": "This episode follows Israel's defeat and the capture of the ark in 1 Samuel 4; the narrative reflects the broader Israel–Philistine conflicts in the early Iron Age (roughly 11th century BCE) and the Philistines' city-state structure (Ashdod, Gath, Ekron). In the ancient Near East, cult images and temples were seen as the locus of a deity's power, so placing the ark beside Dagon functions as a test of divine superiority. The term translated \"emerods\" likely refers to painful swellings or hemorrhoidal tumors; later in 1 Samuel 6 the Philistines send golden images of tumors and mice back with the ark, showing continuity in the narrative's disease imagery.",
+  "externalReferences": "The capture of the ark and the battle at Ebenezer are narrated in 1 Samuel 4:1–11, which sets the scene for this chapter. The ark's eventual return to Israel, accompanied by the Philistines' offering of golden tumors and mice, is recounted in 1 Samuel 6:1–21 and ties directly to the afflictions described here.",
+  "seeAlso": [
+    "1 Samuel 4:1-11",
+    "1 Samuel 6:1-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Ark in Dagon's Temple"
+    },
+    {
+      "range": "6-12",
+      "title": "Plague on Philistine Cities"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Sacred presence",
+    "Judgment",
+    "Idolatry"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities interpret suffering that is described as divine judgment in ancient texts?",
+    "What responsibilities do religious communities have in treating sacred objects and symbols with respect today?",
+    "When religious claims clash with civic power, how can leaders discern prudent responses that honor conscience and public wellbeing?",
+    "How can modern readers balance literal and theological readings of miraculous signs recorded in scripture?"
+  ],
+  "uncertainAreas": "The exact nature of the \"emerods\" (whether hemorrhoids, tumors, or another affliction) is uncertain, as is the historical historicity versus theological shaping of Dagon's fall. The text leaves ambiguous the timeline and scale of the deaths and whether other factors (e.g., epidemic vectors) are being described theologically rather than medically.",
+  "createdAt": "2025-11-03T17:02:06.100Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

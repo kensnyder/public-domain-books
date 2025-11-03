@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Num.29",
+  "briefOverview": "Commands for the seventh-month festivals, giving precise sacrificial prescriptions for the day of blowing trumpets, the Day of Atonement, the seven-day Feast of Tabernacles and its concluding assembly.",
+  "summary": "The chapter lists sacrificial regulations for the seventh month: on the first day (a holy convocation and trumpet blowing) specific burnt and meat offerings are commanded (vv.1–6). On the tenth day (a solemn fast of affliction) additional burnt and sin offerings are prescribed (vv.7–11). Beginning on the fifteenth day the seven-day Feast of Tabernacles requires detailed daily offerings — a descending number of bullocks each day with fixed rams, lambs, meat and drink offerings, and a goat for a sin offering — followed by an eighth-day solemn assembly with its own offerings (vv.12–38). The chapter closes by noting these regulations are to be added to other vows and offerings and that Moses conveyed them to Israel (vv.39–40).",
+  "externalContext": "The seventh month corresponds to Tishri in the Hebrew calendar; its major observances are later known as Rosh Hashanah (the festival of trumpet-blowing), Yom Kippur (Day of Atonement), Sukkot (Feast of Tabernacles), and Shemini Atzeret (the eighth-day assembly). These instructions reflect the sacrificial, priestly cult centered on the Tabernacle (and later the Temple), where detailed offerings structured Israel’s liturgical year and communal identity.",
+  "externalReferences": "These festival regulations correspond closely to the festival outline in Leviticus 23:23–44 (trumpets, Day of Atonement, Feast of Tabernacles). The continual burnt offering and daily priestly provisions are treated elsewhere (see Numbers 28:1–8 and Exodus 29:38–42), showing this chapter supplements the broader sacrificial system.",
+  "seeAlso": [
+    "Leviticus 23:23-25",
+    "Leviticus 23:26-32",
+    "Leviticus 23:33-44",
+    "Numbers 28:1-8",
+    "Exodus 29:38-42"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Feast of Trumpets"
+    },
+    {
+      "range": "7-11",
+      "title": "Day of Atonement"
+    },
+    {
+      "range": "12-40",
+      "title": "Tabernacles and Conclusion"
+    }
+  ],
+  "themes": [
+    "Festival worship",
+    "Sacrificial rites",
+    "Communal atonement",
+    "Liturgical calendar"
+  ],
+  "practicalQuestions": [
+    "How can modern faith communities preserve a yearly rhythm of sacred time without temple sacrifices?",
+    "What does the communal and repetitive nature of these offerings teach about shared responsibility for holiness and atonement?",
+    "In what ways might the command to 'afflict your souls' inform contemporary practices of repentance and self-examination?",
+    "How should attention to precise ritual details shape our understanding of worship’s form and meaning today?"
+  ],
+  "uncertainAreas": "While the chapter clearly lists offerings, it is uncertain how much symbolic meaning (if any) the specific numbers had for the original audience beyond practical liturgical scheduling. There is also interpretive variation over how literal or transferable these cultic prescriptions are for post-Temple or non-sacrificial religious practice.",
+  "createdAt": "2025-11-03T16:15:53.075Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

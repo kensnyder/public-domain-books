@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Gen.27",
+  "briefOverview": "Rebekah and Jacob conspire to secure Isaac's paternal blessing intended for Esau, producing bitter family conflict and forcing Jacob to flee.",
+  "summary": "Isaac, now old and blind, requests venison from Esau so he can bless him before he dies. Rebekah, having overheard, instructs Jacob to impersonate Esau by wearing Esau's clothes and goatskins so Isaac will bless him instead. Jacob is reluctant but follows her plan; Isaac, misled by touch and smell, pronounces the blessing of primacy and prosperity over Jacob. Esau returns, discovers the deception, and laments that his blessing has been taken; Isaac offers a lesser blessing to Esau. Esau vows revenge, prompting Rebekah to send Jacob to her brother Laban in Haran to escape, and she insists he avoid marriage to local Hittite women.",
+  "externalContext": "In the ancient Near East a father's blessing could carry legal and social weight, functioning as a transfer of leadership, land rights, and family status rather than merely a pious wish. Primogeniture norms privileged the firstborn, but divine promises and family dynamics sometimes disrupted that order. Marriages were typically arranged within kin-groups, so Rebekah's concern about Hittite wives reflects anxieties about preserving family identity and covenantal lineage.",
+  "externalReferences": "This episode assumes earlier material: Genesis 25:29–34 recounts Esau selling his birthright to Jacob, which helps explain Jacob's claim to the blessing. Genesis 25:23 records the prenatal oracle to Rebekah that 'the elder shall serve the younger,' framing the episode as the fulfillment of that word. Genesis 26:34–35 notes Esau's marriages to Hittite women, which Rebekah later cites as a motive for sending Jacob to her brother Laban (cf. Genesis 28:1–5 for Isaac's motive in sending Jacob away as well).",
+  "seeAlso": [
+    "Genesis 25:23",
+    "Genesis 25:29-34",
+    "Genesis 26:34-35",
+    "Genesis 28:10-22",
+    "Genesis 33:1-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-29",
+      "title": "Deception for the Blessing"
+    },
+    {
+      "range": "30-46",
+      "title": "Aftermath and Flight"
+    }
+  ],
+  "themes": [
+    "Deception",
+    "Blessing",
+    "Sibling rivalry",
+    "Divine election"
+  ],
+  "practicalQuestions": [
+    "When, if ever, can dishonesty be justified by belief in a larger purpose? How should communities evaluate such claims?",
+    "How should families address favoritism and the harm it causes to siblings and parental relationships?",
+    "What practices can help repair relationships after betrayals over inheritance or status?",
+    "How do we balance respect for parental authority with justice toward other family members?"
+  ],
+  "uncertainAreas": "The text leaves open whether Isaac was simply deceived or whether there is a theological sense in which the outcome fulfills an earlier divine election; motivations of Rebekah (maternal favoritism vs obedience to the oracle) are ambiguous. It is also unclear to what extent the blessing was legally irrevocable in the narrative world; the text portrays it as decisive but shows Isaac offering consolation to Esau.",
+  "createdAt": "2025-11-03T15:11:05.190Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

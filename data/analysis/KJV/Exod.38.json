@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Exod.38",
+  "briefOverview": "A detailed account of the finished tabernacle furnishings and court: construction specifications for the altar, laver, court hangings and gate, followed by a material inventory and the craftsmen responsible.",
+  "summary": "Verses 1–8 describe the construction of the bronze (brass) altar of burnt offering — its dimensions, horns, utensils, grate, staves and the laver made from the bronze mirrors of the women who assembled at the tabernacle. Verses 9–20 record the construction of the outer court: the fine linen hangings on each side, the number of pillars and brass sockets, the embroidered gate of blue, purple and scarlet, and details about hooks, fillets and pins. Verses 21–31 provide a brief administrative summary: the tabernacle was counted and served by the Levites under Ithamar; Bezaleel and Aholiab are named as the principal craftsmen; and precise sums of gold, silver and bronze used are listed along with the census contribution of a half-shekel per man.",
+  "externalContext": "The tabernacle functioned as Israel’s portable sanctuary during the wilderness period and its detailed construction reflects ancient Near Eastern temple/ritual architecture and a strong interest in materials, proportions and ritual purity. 'Shittim' wood is commonly identified with acacia, prized for durability; metal weights such as talents and shekels were standard units of value in the ancient Near East. Naming craftsmen (Bezaleel, Aholiab) emphasizes skilled artisanship and divinely sanctioned labor roles within the community.",
+  "externalReferences": "The chapter follows the detailed instructions for the tabernacle and its furnishings given earlier in Exodus (see especially Exodus 25–27) and corresponds to the construction narrative continued in Exodus 35–37, which records the actual making of many of these items. The half-shekel census contribution here echoes the covenantal levy commanded in Exodus 30:11–16, and the appointment of craftsmen recalls Exodus 31:1–11 where Bezaleel and Aholiab are filled with skill to perform the work.",
+  "seeAlso": [
+    "Exodus 25:1-40",
+    "Exodus 30:11-16",
+    "Exodus 31:1-11",
+    "Exodus 35:30-35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Altar and Laver"
+    },
+    {
+      "range": "9-20",
+      "title": "Court and Gate"
+    },
+    {
+      "range": "21-31",
+      "title": "Summary and Inventory"
+    }
+  ],
+  "themes": [
+    "Construction",
+    "Ritual Space",
+    "Materials",
+    "Craftsmanship"
+  ],
+  "practicalQuestions": [
+    "How might attention to craftsmanship and material detail shape modern worship spaces or community projects?",
+    "In what ways can communities recognize and deploy specialized skills for shared sacred or civic tasks?",
+    "What responsibilities do contributors and leaders have for transparent accounting and stewardship of communal resources?",
+    "How can symbolic colors and materials (e.g., blue, purple, scarlet, metals) be used thoughtfully today to communicate meaning?"
+  ],
+  "uncertainAreas": "The census figure given (600,000 + 3,000 + 550) is unusual compared with other census totals and may reflect textual transmission or a specific counting method; the term translated 'brass' is frequently rendered 'bronze' in other translations, and exact ancient weights/values (talents, shekels) are approximate when converted to modern measures.",
+  "createdAt": "2025-11-03T15:43:39.242Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

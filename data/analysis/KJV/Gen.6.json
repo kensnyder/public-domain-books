@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Gen.6",
+  "briefOverview": "Genesis 6 presents humanity's deepening corruption, God's decision to judge the earth by flood, and God's selection of Noah as the righteous remnant with instructions to build an ark.",
+  "summary": "As human populations increase, a troubling union between “the sons of God” and “the daughters of men” is reported, and great beings (often translated “giants” or Nephilim) are described. God observes pervasive wickedness and decides to destroy life on earth, expressing grief over what he made. Noah is introduced as a just man who finds favor with God; God announces a covenantal rescue for Noah and his family. God gives precise instructions for building an ark (materials, dimensions, levels, a window, and a door) and commands Noah to bring pairs of living creatures and provisions aboard. The chapter closes by emphasizing Noah’s obedience to all God commanded.",
+  "externalContext": "The flood account appears in a cultural milieu where Mesopotamian flood stories (for example, elements preserved in the Epic of Gilgamesh) were known in the ancient Near East; scholars note similarities and differences without assuming direct dependence in every detail. The phrase “sons of God” occurs elsewhere in the Hebrew Bible (e.g., Job 1:6; 2:1) and has a range of traditional interpretations — divine beings, dynastic rulers, or human descendants of a particular line (such as Seth). Terms like “gopher wood” and the exact meaning of “Nephilim” are uncertain in current scholarship and reflect ancient vocabulary or traditions not fully preserved elsewhere.",
+  "externalReferences": "This chapter leads directly into the flood narrative carried forward in Genesis 7–9, where the flood occurs and God’s covenant with Noah is renewed and signified by the rainbow (Genesis 9:8–17). New Testament writers later reference Noah’s saving through water and his example of faith and judgment (e.g., Hebrews 11:7; 1 Peter 3:20–21) and Jesus uses the flood as an analogue for sudden divine judgment in Matthew 24:37–39. The language of “sons of God” and heavenly beings resonates with Job 1:6–2:1 and with later Jewish interpretations found in intertestamental literature.",
+  "seeAlso": [
+    "Genesis 5:28-32",
+    "Genesis 7:1-24",
+    "Genesis 9:8-17",
+    "Job 1:6-2:1",
+    "Hebrews 11:7",
+    "1 Peter 3:20-21",
+    "2 Peter 2:4-5",
+    "Matthew 24:37-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Corruption and Nephilim"
+    },
+    {
+      "range": "5-13",
+      "title": "God's Judgment Declared"
+    },
+    {
+      "range": "14-22",
+      "title": "Ark Instructions and Obedience"
+    }
+  ],
+  "themes": [
+    "Wickedness",
+    "Judgment",
+    "Deliverance",
+    "Obedience"
+  ],
+  "practicalQuestions": [
+    "When a community seems morally degraded, how should individuals and groups respond in ways that reflect justice and compassion?",
+    "What does it mean today to “walk with God” as Noah did, and how is that consistency measured in conduct and decision-making?",
+    "How do we balance belief in divine justice with convictions about mercy and care for the world?",
+    "What responsibilities do we have to preserve life and creation in the face of systemic violence or destruction?"
+  ],
+  "uncertainAreas": "The identity of the “sons of God” and the nature of the “Nephilim/giants” are ambiguous; the meaning of “My spirit shall not always strive… 120 years” is debated (delay of judgment vs. statement about lifespan); the material called “gopher wood” is unknown.",
+  "createdAt": "2025-11-03T14:59:47.635Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

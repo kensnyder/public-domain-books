@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Deut.26",
+  "briefOverview": "Instructions for bringing the firstfruits and a prescribed confession of Israel’s history, followed by rules for a poverty-focused tithe and a final covenantal charge to obey and be holy.",
+  "summary": "The chapter prescribes bringing the first fruits of the land in a basket to the place the LORD will choose, presenting them to the priest, and reciting a set confession that recalls Israel’s humble origins, affliction in Egypt, cry to God, divine deliverance, and receipt of the land. The offerer declares the gift before God and rejoices with household members, the Levite, and the resident foreigner. It then instructs that in the third-year tithe the produce is to be given to Levites, foreigners, orphans, and widows so they may eat and be satisfied, accompanied by a verbal declaration that the giver has obeyed the commandments and not misused the holy things. The chapter closes with a prayer for God’s blessing on the land and people and a renewed charge to keep God’s statutes, emphasizing Israel’s being chosen to be a holy people set above the nations.",
+  "externalContext": "Deuteronomy reflects an agrarian society where harvest offerings and tithes structured communal religion and social welfare. The requirement to bring offerings to the place the LORD chooses reflects the Deuteronomic emphasis on centralized sanctuary worship (traditionally associated with Jerusalem in later history). Levites, who had no land inheritance, are repeatedly given portions and the care of the sacred, which explains their recurring entitlement to support from communal tithes and offerings.",
+  "externalReferences": "The confession of affliction in Egypt and divine deliverance echoes the Exodus narrative (see Exodus 1–14 for slavery, cry, and deliverance). Laws assigning portions to Levites and linking priestly support to offerings appear in Numbers 18:12–24. The social concern for the poor and the third-year tithe is treated elsewhere in Deuteronomy (compare Deuteronomy 14:28–29). The theme of being a holy, set-apart people parallels Leviticus 19:2 and 20:26.",
+  "seeAlso": [
+    "Exodus 1:1-14",
+    "Exodus 12:31-42",
+    "Numbers 18:12-24",
+    "Deuteronomy 14:28-29",
+    "Leviticus 19:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Firstfruits Confession"
+    },
+    {
+      "range": "12-15",
+      "title": "Tithe for the Vulnerable"
+    },
+    {
+      "range": "16-19",
+      "title": "Covenant Charge"
+    }
+  ],
+  "themes": [
+    "Thanksgiving",
+    "Covenant",
+    "Welfare of Poor",
+    "Holiness"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities institutionalize thanksgiving so it also benefits vulnerable members?",
+    "When and how should personal or communal offerings be accompanied by remembrance of formative history?",
+    "What practices help ensure that religious observance is matched by tangible care for widows, orphans, and strangers today?",
+    "How do we test whether claims of religious identity are accompanied by obedience and ethical responsibility?"
+  ],
+  "uncertainAreas": "Translation nuance in verse 5 (“A Syrian” vs. “An Aramean”) and whether the formula was recited word-for-word in ancient practice. The historical timing and single location implied by “the place the LORD shall choose” (its practical realization in earlier vs. later Israelite religion) are also matters of scholarly debate.",
+  "createdAt": "2025-11-03T16:32:00.997Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Num.36",
+  "briefOverview": "A legal resolution preserves tribal land allotments by restricting whom female heirs may marry so inherited land remains in the father's tribe.",
+  "summary": "Leaders from the clan of Gilead raise a concern that the land inherited by Zelophehad's daughters could pass out of their father's tribe if the daughters married men from other tribes. Moses conveys God's ruling that the daughters may marry whom they wish, provided they marry within their father's tribal family, so tribal inheritances do not shift from tribe to tribe. The law is given as a means to keep each tribe's allotted land intact, and the daughters comply by marrying their cousins in the family of Manasseh. The chapter closes by noting these were the commands the LORD gave through Moses in the plains of Moab by the Jordan near Jericho.",
+  "externalContext": "In ancient Israelite society land allotments were central to tribal identity, economic viability, and the continuity of kin groups; land was usually inherited patrilineally and tied to the clan and tribe. The jubilee system (every fiftieth year) and norms about ancestral land (see Leviticus 25) reflect a cultural concern to prevent permanent loss of ancestral holdings and to maintain the tribal distribution of territory. Similar concerns about maintaining corporate family holdings appear in other ancient Near Eastern legal traditions.",
+  "externalReferences": "This chapter directly follows and finalizes the case brought by Zelophehad's daughters recorded earlier (see Numbers 27:1–11), where they petition for an inheritance. The concern about restitution at the jubilee connects to the law of the jubilee in Leviticus 25:8–13, which governs restoration of land holdings. The resolution also affects the allotment of Manasseh and Joseph's tribes as treated elsewhere in Joshua's account of tribal inheritances (e.g., Joshua 17).",
+  "seeAlso": [
+    "Numbers 27:1-11",
+    "Leviticus 25:8-13",
+    "Joshua 17:1-6",
+    "Numbers 36:1-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Complaint About Heiresses"
+    },
+    {
+      "range": "5-9",
+      "title": "Divine Ruling On Marriage"
+    },
+    {
+      "range": "10-13",
+      "title": "Compliance And Conclusion"
+    }
+  ],
+  "themes": [
+    "Inheritance",
+    "Tribal identity",
+    "Marriage law"
+  ],
+  "practicalQuestions": [
+    "How should communities balance individual inheritance rights with the preservation of communal or family resources today?",
+    "What measures are appropriate to prevent the loss of collective assets across generations?",
+    "How do cultural or legal expectations about marriage influence economic and social belonging?",
+    "When is it appropriate to restrict personal choices to protect broader social structures?"
+  ],
+  "uncertainAreas": "The text is clear about the command but leaves some ambiguity about scope: whether the restriction applies only to women who inherit (heiresses) or more broadly, and how narrowly to read \"the family of the tribe of their father\" (immediate clan versus the whole tribe). The practical operation of the jubilee in relation to transferred inheritances is described in concern but not explained in detail here.",
+  "createdAt": "2025-11-03T16:19:05.837Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

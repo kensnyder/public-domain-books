@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Judg.20",
+  "briefOverview": "A national assembly of Israel mobilizes against the tribe of Benjamin in retaliation for a heinous crime, resulting in three days of pitched battle and the near-destruction of Benjamin.",
+  "summary": "Leaders and a large confederation of Israelite forces gather at Mizpeh after a Levite reports that men of Gibeah (in Benjamin) committed a brutal rape and murder, sending dismembered remains through the land as proof. The tribes demand that Benjamin surrender the offenders; Benjamin refuses and prepares for war. In the first two days Benjamin inflicts severe losses on Israel (Israel suffers heavy casualties both days), but Israel repeatedly consults God at the house of God and receives direction to continue the campaign. On the third day Israel uses an ambush and a prearranged signal—a great flame and pillar of smoke from the city—to draw Benjamin out and rout them. Israel slaughters most of the Benjamites, burns towns and livestock, and only six hundred men of Benjamin escape to the rock Rimmon, where they hide for four months.",
+  "externalContext": "The narrative fits the period of the Israelite tribal confederacy (the Judges era), a decentralized society without a central monarchy where tribes must call one another together to respond to threats or crimes. Sacred objects like the ark of the covenant are presented as the locus for seeking divine counsel, and priests such as Phinehas function as intermediaries in national appeals to God. Intertribal warfare, blood-feud dynamics, and collective military levies were characteristic of early Iron Age Israelite society.",
+  "externalReferences": "The violent crime that sparks the campaign is narrated in the preceding chapter (Judges 19:22–30), where the Levite’s concubine is abused and killed in Gibeah. The aftermath and moral/legal consequences for Israel, including how the surviving Benjamites are later provided wives to preserve the tribe, are taken up in Judges 21 (especially Judges 21:1–14).",
+  "seeAlso": [
+    "Judges 19:22-30",
+    "Judges 21:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Assembly and Call to Arms"
+    },
+    {
+      "range": "12-28",
+      "title": "Defeats and Seeking Counsel"
+    },
+    {
+      "range": "29-48",
+      "title": "Ambush, Defeat, Aftermath"
+    }
+  ],
+  "themes": [
+    "Civil war",
+    "Retribution",
+    "Divine guidance",
+    "Atrocity and consequence"
+  ],
+  "practicalQuestions": [
+    "How should communities respond to horrific crimes without escalating to collective punishment?",
+    "What safeguards can prevent a legitimate demand for justice from becoming ethnic or tribal annihilation?",
+    "When leaders consult religious or moral authority in conflict, how should those decisions be evaluated ethically?",
+    "How can modern communities care for victims while avoiding cycles of vengeance?"
+  ],
+  "uncertainAreas": "The text raises questions about proportionality and the narrator’s stance—whether the severe collective punishment is described as justified or critically portrayed. Numbers and some geographical identifications (Mizpeh, exact Gibeah) may be exaggerated or symbolic, and the historicity of the precise events and casualty figures is uncertain.",
+  "createdAt": "2025-11-03T16:57:05.421Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

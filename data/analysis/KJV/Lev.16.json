@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Lev.16",
+  "briefOverview": "Instructions for the high priest’s once‑a‑year rites to atone for priests, the sanctuary, and the people (the Day of Atonement). The chapter prescribes garments, sacrifices, the two‑goat ritual, and the yearly observance.",
+  "summary": "After the death of Aaron’s two sons the LORD restricts access to the most holy place and gives Aaron detailed procedures for making atonement. The high priest is to wear special linen garments, offer a sin offering for himself and his household, and present two goats: one offered to the LORD and the other sent alive into the wilderness as the scapegoat. The priest brings coals and incense so the incense cloud covers the mercy seat, sprinkles the blood of the bull and goat seven times on and before the mercy seat, and applies blood to the altar to cleanse and hallow the holy place. The priest confesses Israel’s sins over the live goat, which carries those sins away into an uninhabited land, and the animals whose blood was taken into the holy place are burned outside the camp. The chapter closes by prescribing that this rite be observed on the tenth day of the seventh month forever, that the people fast and rest, and that the anointed priest alone perform these functions.",
+  "externalContext": "These instructions form the core of the Jewish observance later called Yom Kippur (Day of Atonement), central to the temple/tabernacle cult and the Levitical priesthood. In the ancient Near Eastern context, ritual purity, expiation, and the regulated access to a deity’s inner sanctuary were normative; the high priest functions as an intermediary who secures corporate purity for the people and the sacred space. Some ritual features (use of lots, wilderness‑sending of a goat) reflect symbolic practices about transfer of impurity and removal to liminal spaces.",
+  "externalReferences": "The chapter alludes back to the death of Aaron’s sons in Leviticus 10:1–2, which explains the later restriction on entering the holy place. The procedures for sin offerings and their language build on earlier sacrificial rules in Leviticus 4. The Day of Atonement as an annual observance is summed elsewhere in Leviticus 23:27–32 and paralleled in Numbers 29:7–11. In later interpretation the ritual of a single annual entrance and blood sprinkled on the mercy seat is discussed in Hebrews 9:7,12 in connection with the idea of a once‑for‑all atonement.",
+  "seeAlso": [
+    "Leviticus 10:1-2",
+    "Leviticus 4:3-7",
+    "Leviticus 23:27-32",
+    "Numbers 29:7-11",
+    "Hebrews 9:7-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Warning and Vesting"
+    },
+    {
+      "range": "5-22",
+      "title": "Sacrifices and Atonement Ritual"
+    },
+    {
+      "range": "23-34",
+      "title": "Cleansing, Disposal, Statute"
+    }
+  ],
+  "themes": [
+    "Atonement",
+    "Ritual Purity",
+    "Priestly Mediation",
+    "Substitution"
+  ],
+  "practicalQuestions": [
+    "How does the idea of a communal atonement rite shape our understanding of individual vs. corporate responsibility for wrongdoing?",
+    "What contemporary practices (confession, reconciliation, symbolic rituals) correspond to the transfer of guilt represented by the scapegoat?",
+    "In what ways should sacred time and rest (the annual sabbath/fast here) be preserved or adapted in modern communal life?",
+    "How do we interpret the role of intermediaries (priests in the text) for access to the sacred in communities without a formal priesthood?"
+  ],
+  "uncertainAreas": "The Hebrew term often translated 'scapegoat' (Heb. azazel) is debated — whether it names a place, a demon, or simply means 'sent away' — and the text does not specify the exact character of the wilderness destination. The identity and status of the 'fit man' who leads the goat are not detailed. The theological mechanics (how the transfer of sin operates) are presented ritually rather than philosophically, leaving room for interpretive uncertainty.",
+  "createdAt": "2025-11-03T15:53:30.116Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

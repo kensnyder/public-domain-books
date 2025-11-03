@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Deut.6",
+  "briefOverview": "Moses exhorts Israel to covenantal faithfulness: wholehearted love and fear of the one LORD, taught to the next generation and expressed in daily life so the people may thrive in the promised land.",
+  "summary": "Moses presents the commandments and their purpose: that Israel might fear the LORD, keep his statutes, and enjoy long life and prosperity in the land. He gives the central confession (Shema): 'Hear, O Israel: The LORD our God is one LORD,' and commands wholehearted love for God. These words are to be kept in the heart, taught diligently to children, spoken of continually, and marked on the body and house as visible reminders. He warns against forgetting God when settled and prosperous, forbids idolatry and testing God (recalling Massah), and insists that diligent obedience will bring well-being and success. When children ask, the people are to retell the Exodus—that God brought them out of Egypt—to explain why they keep the statutes. Observance of these commandments is presented as the community's righteousness before God.",
+  "externalContext": "Deuteronomy is framed as Moses' farewell speeches to Israel before entry into Canaan and reflects covenant treaty language common in the ancient Near East (suzerain–vassal treaties), where loyalty and remembrance of the suzerain-secure land relationship are emphasized. The Shema (Deut 6:4–5) became the central Jewish daily confession and shaped later liturgical and pious practices (e.g., tefillin and mezuzah traditions developed from verses 8–9). 'Massah' refers to an episode of testing in the wilderness (Exodus 17).",
+  "externalReferences": "The call to remember the Exodus and the prohibition of other gods echoes Exodus 20:2–3, where God identifies himself as the one who brought Israel out of Egypt and forbids other gods. The admonition not to 'tempt the LORD' recalls the testing at Massah (Exodus 17:1–7). The themes of teaching children and binding words as signs are closely paralleled in Deuteronomy 11:13–21, where the Shema and household instruction are repeated and tied to blessings and curses.",
+  "seeAlso": [
+    "Exodus 20:2-3",
+    "Exodus 17:1-7",
+    "Deuteronomy 11:13-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Purpose of Commandments"
+    },
+    {
+      "range": "4-9",
+      "title": "Shema and Family Instruction"
+    },
+    {
+      "range": "10-25",
+      "title": "Warning, Remembrance, Rationale"
+    }
+  ],
+  "themes": [
+    "Covenant obedience",
+    "Love of God",
+    "Intergenerational instruction",
+    "Remembrance"
+  ],
+  "practicalQuestions": [
+    "How can families intentionally teach core religious commitments daily in ways comparable to the 'when you sit...when you rise' catechesis?",
+    "What contemporary practices can serve the function of the 'signs' and 'post upon thy house' to keep convictions present amid prosperity?",
+    "How do communities avoid 'forgetting the LORD' when material security increases?",
+    "When children ask 'what mean these statutes?', how can one narrate foundational communal memory (e.g., liberation stories) to give moral and theological reasons for practices?"
+  ],
+  "uncertainAreas": "Some verses admit multiple readings: whether the commands to bind words on hand/eyes and write on posts are primarily literal ritual prescriptions (precursors to tefillin/mezuzah) or symbolic pedagogical devices is debated. The phrase 'it shall be our righteousness' (v25) can be read as corporate covenantal standing by obedience or as ethical right conduct; the text does not fully resolve the theological nuance. Dating and redactional history of Deuteronomy as a final compilation are not determined by this chapter alone.",
+  "createdAt": "2025-11-03T16:22:36.759Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

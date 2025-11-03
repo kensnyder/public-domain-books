@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Num.22",
+  "briefOverview": "Balak, king of Moab, summons the non‑Israelite seer Balaam to curse Israel; God controls Balaam's words and intervenes dramatically on the journey, including a speaking donkey and an angelic appearance.",
+  "summary": "Israel camps in the plains of Moab and Balak, fearing their numbers and past victories over Amorite neighbors, sends for Balaam to curse them (vv.1–7). Balaam initially consults God, who forbids him to curse Israel because they are blessed (vv.8–13). After further entreaties and promises of honor from Balak, God permits Balaam to go but instructs him to speak only what God tells him (vv.14–21). On the road an angel of the LORD blocks Balaam's path; Balaam's donkey sees the angel and refuses to proceed, and God enables the donkey to speak to rebuke Balaam (vv.22–30). Balaam's eyes are opened, he confesses his sin, and the angel allows him to continue under the restriction to speak only God's message (vv.31–35). Balaam meets Balak, insists he can say only what God puts in his mouth, and Balak prepares sacrifices and brings Balaam to view Israel from high places (vv.36–41).",
+  "externalContext": "The scene is set in Transjordan (Moab), a border region where Israel camped during the wilderness wanderings; neighboring kings frequently sought diviners or seers to influence outcomes in warfare. Balaam is presented as a professional seer (a non‑Israelite prophetly figure), and the phrase \"rewards of divination\" reflects the Near Eastern practice of hiring oracle specialists. The narrative reflects ancient beliefs about the power of spoken curses and blessings and about direct divine intervention in human affairs.",
+  "externalReferences": "The immediate continuation of this story is in Numbers 23–24, where Balaam instead pronounces blessings over Israel in a series of oracles. The motif that blessing or curse pronounced upon a people has real effect echoes promises to the patriarchs (see Genesis 12:3 — \"I will bless those who bless you, and the one who curses you I will curse\"). The chapter's mention that Israel had defeated Amorite neighbors recalls earlier conquest narratives in Numbers 21:21–35 and the Deuteronomic retellings of conflicts with Sihon and Og (Deuteronomy 2–3).",
+  "seeAlso": [
+    "Numbers 23:1-24:25",
+    "Numbers 21:21-35",
+    "Genesis 12:3",
+    "Deuteronomy 2:24-3:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Moab's Fear and Request"
+    },
+    {
+      "range": "8-21",
+      "title": "Balaam Consults God"
+    },
+    {
+      "range": "22-41",
+      "title": "Angel, Donkey, Arrival"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Prophecy",
+    "Obedience",
+    "Divine intervention"
+  ],
+  "practicalQuestions": [
+    "How should we respond when offered rewards for doing something that conflicts with conscience or perceived divine guidance?",
+    "What criteria can help discern when to refuse a powerful or popular request because it contradicts a higher obligation?",
+    "How do we remain attentive to unexpected or indirect means God might use to correct or redirect us?",
+    "What responsibilities come with speaking on behalf of God, and how do we guard against using that role for personal gain?"
+  ],
+  "uncertainAreas": "The text leaves Balaam's personal motives ambiguous (he both resists and goes when urged), and the reason God first forbids then permits the journey is not fully explained. The precise identity of the \"angel of the LORD\" (theophany or messenger) is theologically debated, and historical details such as the exact location of Pethor and the social role summarized by \"rewards of divination\" are uncertain from the text alone.",
+  "createdAt": "2025-11-03T16:11:54.297Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

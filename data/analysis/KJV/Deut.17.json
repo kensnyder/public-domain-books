@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Deut.17",
+  "briefOverview": "Rules for communal purity, judicial procedure, and limits on royal power; emphasis on obedience to centralized law and authority.",
+  "summary": "The chapter prohibits offering blemished animals to God and prescribes capital punishment for Israelites who secretly adopt idolatrous worship after careful investigation. It requires two or three witnesses for capital cases and describes the communal role in carrying out punishment. For difficult legal disputes, the community is to consult the Levitical priests and the appointed judge at the place the LORD will choose and to follow their rulings strictly. A presumptuous refusal to obey those priests or judges is itself punishable by death as a means of removing evil from the community. When the people appoint a king, he must be an Israelite chosen by God, must not amass horses (or return the people to Egypt), must limit wives and wealth, and must keep a personal written copy of the law to read so he stays humble and obedient.",
+  "externalContext": "Deuteronomy reflects a tradition concerned with covenantal fidelity, centralized worship, and legal uniformity that likely took final shape during or after Israel's monarchy and may reflect reforms emphasizing the temple and priestly authority. Centralization of worship (\"the place the LORD shall choose\") contrasts with earlier, more local sacrificial practices and later becomes associated with Jerusalem/temple worship in the historical books. Limits on royal accumulation of horses, wives, and wealth respond to common ancient Near Eastern royal practices that linked military power and diplomatic marriage to state autonomy and foreign entanglement.",
+  "externalReferences": "The requirement of multiple witnesses echoes the legal standard found elsewhere in Deuteronomy (cf. Deuteronomy 19:15). The chapters on idolatry and punishment are closely related to Deuteronomy 12 and 13, which emphasize destroying foreign cults and centralized worship (Deuteronomy 12:5; 13:6–11). The concerns about kingship and its abuses resonate with the warnings and demand for a king in 1 Samuel 8:10–18 and with later royal reforms (e.g., the Deuteronomistic critique of monarchy).",
+  "seeAlso": [
+    "Deuteronomy 12:5",
+    "Deuteronomy 13:6-11",
+    "Deuteronomy 19:15",
+    "1 Samuel 8:10-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Sacrifices and Purity"
+    },
+    {
+      "range": "2-13",
+      "title": "Idolatry and Judgment"
+    },
+    {
+      "range": "14-20",
+      "title": "Regulations for Kings"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "Justice",
+    "Kingship",
+    "Centralization"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance strong sanctions for harmful behavior with safeguards for fair investigation and witnesses?",
+    "What institutional practices help prevent leaders from becoming proud or corrupt, analogous to the king's required copy and daily reading of the law?",
+    "In what ways can a community identify and remove systemic 'evil' without devolving into vigilantism?",
+    "How do we translate the principle of centralized, communal standards of worship and ethics into pluralistic societies?"
+  ],
+  "uncertainAreas": "The precise identification of \"the place the LORD shall choose\" is not specified here and later tradition links it to Jerusalem; it's uncertain whether the capital-punishment prescriptions were uniformly practiced or later idealizations. The scope of the \"copy of this law\" the king must write—whether the full Torah or a selective summary—is also open to interpretation.",
+  "createdAt": "2025-11-03T16:27:23.507Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Exod.16",
+  "briefOverview": "God responds to Israel’s complaints about food by providing quail and daily bread (manna) and instituting rules for its gathering, including a Sabbath provision.",
+  "summary": "The people of Israel complain to Moses and Aaron about hunger after leaving Egypt. God promises to provide meat in the evening and bread in the morning, and quail come up in the evening while a small, round substance (manna) appears with the morning dew. Moses instructs the people to gather an omer per person daily; when measured this yields neither excess nor shortage. Some disobey by keeping it overnight and it spoils, but on the sixth day people gather twice as much for the seventh-day rest. God rebukes attempts to gather on the Sabbath, and the Israelites observe the rest. Moses preserves an omer of manna before the Testimony as a sign for future generations; the text notes they ate manna for forty years until reaching Canaan.",
+  "externalContext": "Exodus is set in the ancient Near Eastern context of a migrating pastoral-agrarian people; sustained food supply in a Sinai wilderness would have been a primary practical concern. The episode functions within the larger Mosaic narrative as one of several tests of Israel’s obedience and dependence on YHWH during the wilderness period. In later Jewish and Christian traditions manna becomes a theological symbol of divine provision and, in Christian readings, a typological precursor to Christ as 'bread from heaven.'",
+  "externalReferences": "The theme of dependence on God’s provision is echoed in Deuteronomy 8:3, which states that man lives by every word of God and recalls manna as discipline and testing. Numbers 11:31–34 records a related incident of quail sent in response to complaining but followed by a deadly plague. Psalm 78:23–25 recounts God giving manna and describes its taste as like the bread of angels. In the New Testament Jesus cites manna when teaching about himself as the true bread from heaven (John 6:31–35).",
+  "seeAlso": [
+    "Deuteronomy 8:3",
+    "Numbers 11:31-34",
+    "Psalm 78:23-25",
+    "John 6:31-35",
+    "Exodus 20:8-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Complaint in Wilderness"
+    },
+    {
+      "range": "4-13",
+      "title": "Promise and Provision"
+    },
+    {
+      "range": "14-36",
+      "title": "Manna Rules and Sabbath"
+    }
+  ],
+  "themes": [
+    "Divine provision",
+    "Obedience",
+    "Testing",
+    "Sabbath/rest"
+  ],
+  "practicalQuestions": [
+    "When faced with scarcity or discomfort, how do we express needs without slipping into complaint that undermines trust?",
+    "What practices help individuals or communities rely on daily provision rather than hoarding for security?",
+    "How can the principle of a regular day of rest (Sabbath) shape current work-rest rhythms and communal life?",
+    "In what ways might preserving a tangible reminder of past providence (like the omer before the Testimony) serve contemporary faith formation?"
+  ],
+  "uncertainAreas": "The text leaves open the precise nature of manna (literal food, miraculous substance, or symbolic element) and how later accounts (e.g., Numbers 11) relate causally to the quail here. It is also not explicit about whether Sabbath instruction here is the original prescription or an early form of the later Sinai law.",
+  "createdAt": "2025-11-03T15:32:19.439Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

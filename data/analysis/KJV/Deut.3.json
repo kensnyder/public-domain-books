@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Deut.3",
+  "briefOverview": "Moses recounts Israel’s defeat of Og king of Bashan, the allocation of conquered land east of the Jordan, and his final commission of Joshua after being denied entrance into Canaan.",
+  "summary": "Israel fights and utterly defeats Og king of Bashan at Edrei; his cities (sixty) and territory in Argob/Bashan are taken and the people are destroyed while the spoil and livestock are taken. The chapter emphasizes the completeness of the victory (mentioning Og’s large iron bed) and records that the lands east of the Jordan were assigned to the Reubenites, Gadites, and the half-tribe of Manasseh. Specific local leaders (Jair, Machir) and place-names are noted, and Moses instructs the eastern tribes to assist their brethren in crossing the Jordan until the rest of the land is possessed. Moses also recounts his personal plea to be allowed to enter the land, God’s refusal, and God’s command that Moses view the land from Pisgah but not cross, and that he charge and strengthen Joshua as leader.",
+  "externalContext": "Deuteronomy is presented as Moses’ farewell speeches near the end of the wilderness period; these verses recall earlier conquest traditions preserved in the Pentateuch. The references to a very large bed/bedstead and the “land of giants” reflect ancient Israelite traditions about pre-Israelite populations (often called Rephaim or giants) and use of hyperbolic measurement language. Assigning territory east of the Jordan to Reuben, Gad and half-Manasseh is part of the larger settlement pattern that appears elsewhere in the Torah and in Joshua.",
+  "externalReferences": "The conquest of Og and earlier conquest of Sihon are recounted elsewhere in the Pentateuch (see Numbers 21:21–35 for Sihon and Numbers 21:33–35 for Og). The allotment of land to Reuben, Gad, and half the tribe of Manasseh is treated more fully in Numbers 32 and is later summarized among territorial lists in Joshua 13:29–31. Moses’ request to enter the land and God’s refusal parallels Numbers 27:12–14 and Numbers 20:12, which also narrate God’s judgment on Moses’ access to Canaan.",
+  "seeAlso": [
+    "Numbers 21:21-35",
+    "Numbers 21:33-35",
+    "Numbers 32:1-42",
+    "Numbers 27:12-14",
+    "Joshua 13:29-31",
+    "Joshua 1:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Conquest of Og"
+    },
+    {
+      "range": "12-17",
+      "title": "Land Allotments East"
+    },
+    {
+      "range": "18-29",
+      "title": "Commands and Farewell"
+    }
+  ],
+  "themes": [
+    "Conquest",
+    "Land allotment",
+    "Leadership transition",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "How should communities remember and interpret foundational acts of war and dispossession described in their sacred histories?",
+    "In what ways can individuals balance responsibilities to family/property with obligations to the wider community, as the eastern tribes were instructed to do?",
+    "How can leaders today be encouraged and strengthened during transitions in ways similar to Moses’ charge to Joshua?",
+    "What does the claim that ‘the Lord will fight for you’ mean for contemporary understandings of divine action and human agency?"
+  ],
+  "uncertainAreas": "Uncertainty about literal versus hyperbolic meaning of 'giants' and Og’s bed dimensions; the historicity and chronology of the conquest narratives; exact modern identifications of many place-names; interpretive questions about the ethical implications of statements that cities were 'utterly destroyed.'",
+  "createdAt": "2025-11-03T16:20:57.163Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

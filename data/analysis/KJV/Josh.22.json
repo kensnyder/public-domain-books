@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Josh.22",
+  "briefOverview": "Joshua 22 narrates the departure of the eastern tribes after the conquest and a near-conflict caused by their construction of an altar at the Jordan, which is resolved through dialogue and a clarifying explanation.",
+  "summary": "Joshua blesses and sends the tribes of Reuben, Gad, and the half-tribe of Manasseh back to their allotted lands east of the Jordan after confirming their obedience during the conquest. When those tribes build a large altar by the Jordan as they return, the rest of Israel fear it signals apostasy and prepare for war. A delegation led by the priest Phinehas confronts them, accusing them of rebelling against the LORD and recalling past communal punishments. The eastern tribes explain that the altar is not for sacrifices but a witness (Ed) to preserve shared worship identity across the Jordan and to prevent future divisions between children of the two regions. Phinehas and the leaders accept this explanation, peace is restored, and the congregation blesses God.",
+  "externalContext": "The episode occurs after the Israelite conquest and allotment of land (late Bronze/Iron Age context), when tribal identity and land boundaries were politically important; the eastern tribes were wealthy in cattle and more closely connected to Transjordanian territory. Centralized worship—tied to the tabernacle and priesthood—was a strong concern in Israelite religion, and unauthorized altars could be read as challenges to covenantal worship. The name 'Ed' in Hebrew means 'witness,' which fits the stated purpose of the altar as a memorial or testimony between the two regions.",
+  "externalReferences": "The narrative explicitly evokes Achan and the communal punishment for covenant-breaking (see Joshua 7), using that memory to explain Israel's alarm. It also alludes to the Peor incident and Phinehas's role in Numbers 25, which are invoked to heighten the seriousness of unauthorized worship. The concern about altars outside the central sanctuary resonates with instructions in Deuteronomy 12:5–14 about centralized worship and the dangers of local altars. The agreement of the eastern tribes to settle beyond Jordan echoes the arrangement recorded in Numbers 32.",
+  "seeAlso": [
+    "Joshua 7",
+    "Numbers 25",
+    "Numbers 32",
+    "Deuteronomy 12:5-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Commission and Departure"
+    },
+    {
+      "range": "10-20",
+      "title": "Altar Causes Alarm"
+    },
+    {
+      "range": "21-34",
+      "title": "Explanation and Peace"
+    }
+  ],
+  "themes": [
+    "Covenant fidelity",
+    "Worship centralization",
+    "Conflict resolution",
+    "Identity/witness"
+  ],
+  "practicalQuestions": [
+    "How can communities investigate alarming actions without immediately assuming worst-case motives?",
+    "What practices or symbols can serve as legitimate 'witnesses' to shared identity across geographical or cultural divisions?",
+    "How should religious groups balance central norms with local expressions of faith?",
+    "When memory of past failures (like Achan or Peor) shapes current responses, how do we prevent overreaction while maintaining accountability?"
+  ],
+  "uncertainAreas": "The text leaves open whether the altar had any covert sacrificial use or whether its building had political as well as religious motivations; the precise location and archaeological identification of the altar are not specified; the later Deuteronomic prescription for centralized worship may reflect later editorial concerns rather than the immediate historical setting.",
+  "createdAt": "2025-11-03T16:45:50.510Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

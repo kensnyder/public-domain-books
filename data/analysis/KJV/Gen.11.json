@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Gen.11",
+  "briefOverview": "Genesis 11 recounts the episode of the Tower of Babel, explaining the origin of different languages, and then gives the genealogical line from Shem to Terah and his sons, including Abram.",
+  "summary": "A unified human population speaking one language settles in the plain of Shinar and begins to build a city with a tower “whose top may reach unto heaven” to make a name for themselves and avoid being scattered. God observes their unity and their project, confounds their language so they cannot understand one another, and scatters them across the earth, giving the city the name Babel.\n\nThe chapter then lists the generations from Shem through Arphaxad, Salah, Eber, Peleg, down to Terah, recording ages at the birth of heirs and total lifespans. It closes by naming Terah’s family (Abram, Nahor, Haran), recounting their move from Ur of the Chaldees to Haran, noting Sarai’s barrenness, and reporting Terah’s death in Haran.",
+  "externalContext": "Shinar is generally understood as a name for southern Mesopotamia (Sumer/Babylonia), where large stepped temple-towers (ziggurats) and walled cities were prominent; the tower motif fits known Mesopotamian urban architecture and civic religious projects. \"Ur of the Chaldees\" likely refers to a major southern Mesopotamian city; the phrase \"of the Chaldees\" reflects later editorial terminology. Long lifespans and father-son age notations are typical of ancient Near Eastern genealogical/chronological lists and often served to link primeval history to later lineages.",
+  "externalReferences": "This chapter follows the Table of Nations in Genesis 10, which also explains post‑flood population spread and provides a related genealogy (see Genesis 10:1–32). Genesis 9:1 contains the prior divine charge to \"be fruitful and multiply, and fill the earth,\" which Genesis 11 frames as not yet accomplished and motivates God’s scattering. Many later interpreters contrast Babel with the events of Acts 2:1–13 (Pentecost), where diverse languages are miraculously understood, viewing Acts as a partial reversal of Babel.",
+  "seeAlso": [
+    "Genesis 10:1-32",
+    "Genesis 9:1",
+    "Acts 2:1-13",
+    "Genesis 12:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Tower of Babel"
+    },
+    {
+      "range": "10-26",
+      "title": "Shem's Genealogy"
+    },
+    {
+      "range": "27-32",
+      "title": "Terah's Family and Move"
+    }
+  ],
+  "themes": [
+    "Human ambition",
+    "Divine sovereignty",
+    "Origins",
+    "Lineage"
+  ],
+  "practicalQuestions": [
+    "When communities pursue large projects for reputation or security, how should we evaluate their motives in light of this narrative?",
+    "How does the text shape our view of cultural and linguistic diversity — as punishment, providence, or both?",
+    "What practices help families and communities pass on identity and purpose across generations?",
+    "How should leaders balance unity and diversity when planning communal aims?"
+  ],
+  "uncertainAreas": "Exact identification of \"Shinar\" and \"Ur of the Chaldees\" and archaeological correlates of the tower are debated; the text's phrasing (e.g., God \"came down\") is anthropomorphic and open to theological interpretation; the meaning of building \"to heaven\"—religious, political, or symbolic—cannot be determined solely from the chapter. The long genealogical ages raise questions about literal versus symbolic readings.",
+  "createdAt": "2025-11-03T15:02:21.005Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

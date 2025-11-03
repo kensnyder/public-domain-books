@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Exod.9",
+  "briefOverview": "Exodus 9 recounts three successive plagues sent by God on Egypt—death of Egyptian livestock, painful boils, and destructive hail—while emphasizing Israel's protection and Pharaoh's continued hardening.",
+  "summary": "God warns Pharaoh through Moses that if he refuses to let Israel go, Egypt's livestock will suffer a deadly murrain; the next day all Egyptian cattle die while Israel's animals are spared. Moses and Aaron then throw furnace ashes toward heaven, producing painful boils that afflict Egyptians, including the magicians. God announces a severe hailstorm with thunder and fire; Moses warns Egyptians to bring in their livestock and servants, and Goshen is miraculously spared. Pharaoh briefly admits sin and asks Moses to intercede, and Moses prays so the storm ceases, but Pharaoh hardens his heart again and refuses to release the Israelites. Throughout the chapter the narrative underlines God’s sovereignty in both judging Egypt and distinguishing Israel for protection.",
+  "externalContext": "The plagues narrative reflects an ancient Near Eastern setting where Egypt's economy depended heavily on livestock and agriculture, so murrain and hail would be catastrophic. Court magicians or officials are depicted as attempting to replicate or interpret divine signs (a common motif in ancient royal courts), and storm imagery (hail, thunder, fire) often carries theological weight as an expression of a deity’s power over nature. The language of God 'hardening' a ruler's heart is also consistent with ancient conceptions of divine control over kingship and fate.",
+  "externalReferences": "This chapter is part of the larger cycle of the ten plagues described across Exodus 7–12, which together aim to compel Pharaoh to release Israel. The theme of God hardening Pharaoh's heart appears earlier and later in Exodus (cf. Exodus 4:21; Exodus 14:4) and raises questions about divine sovereignty and human responsibility. The pattern of Israel being spared from disasters prefigures later motifs of divine distinction and protection (cf. the Passover sparing in Exodus 12:12–13).",
+  "seeAlso": [
+    "Exodus 4:21",
+    "Exodus 7:14-24",
+    "Exodus 8:1-15",
+    "Exodus 8:16-19",
+    "Exodus 8:20-32",
+    "Exodus 12:12-13",
+    "Exodus 14:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Plague on Livestock"
+    },
+    {
+      "range": "8-12",
+      "title": "Boils from Ashes"
+    },
+    {
+      "range": "13-35",
+      "title": "Hail, Repentance, Return"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Divine protection",
+    "Hardening of heart",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "How should communities interpret disasters that appear to target some groups while sparing others?",
+    "What responsibilities do leaders have when confronted with evidence of wrongdoing, and how can stubbornness be addressed ethically?",
+    "When a crisis prompts repentance, what steps should follow to prevent relapse into former attitudes?",
+    "How do we balance beliefs about divine sovereignty with human moral responsibility in daily decision-making?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous how to reconcile divine hardening with Pharaoh's moral culpability and the precise natural mechanisms (if any) behind the plagues; the identity and limits of the magicians' power are also not fully explained.",
+  "createdAt": "2025-11-03T15:28:46.628Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Judg.7",
+  "briefOverview": "God commissions Gideon to defeat the Midianites using a drastically reduced force, emphasizing divine intervention over human strength.",
+  "summary": "Gideon encamps against the Midianite host, and God instructs him to reduce his army so Israel will not credit its own strength. A first dismissal sends home 22,000 fearful men; a second test at the water narrows the force to 300 lappers. That night Gideon overhears and interprets a Midianite dream as confirmation of impending victory. He divides the 300 into three companies, equips them with trumpets, pitchers, and hidden lamps, and at his signal they break the pitchers, sound the trumpets, and cry, \"The sword of the LORD, and of Gideon.\" The resulting panic causes the enemy to turn on one another and flee; Israel pursues, and Gideon’s men capture and execute Midianite commanders Oreb and Zeeb.",
+  "externalContext": "The events are set in the period of the Judges (roughly Iron Age I, c. 1200–1000 BCE) when Israel was a loose confederation of tribes without centralized monarchy; military leadership was episodic and often attributed to charismatic \"judges\" raised up by God. Instruments like trumpets and lamps were common in ancient Near Eastern warfare and ritual and could serve both practical and symbolic functions in surprise attacks.",
+  "externalReferences": "This chapter continues the storyline of Gideon’s call and tests recorded earlier in Judges 6 (e.g., Judges 6:11–16 introduces Gideon’s vocation; Judges 6:36–40 records the fleece signs). The motif of God causing confusion among an enemy as Israel praises or acts in faith has parallels elsewhere in the Hebrew Bible (see 2 Chronicles 20:22 where God sets ambushes while the people praise). The use of a small, divinely aided force to defeat a larger enemy also recalls narratives such as Jonathan’s daring attack in 1 Samuel 14:6–15.",
+  "seeAlso": [
+    "Judges 6:11-16",
+    "Judges 6:36-40",
+    "2 Chronicles 20:22",
+    "1 Samuel 14:6-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Testing and Reduction"
+    },
+    {
+      "range": "9-15",
+      "title": "Dream and Confirmation"
+    },
+    {
+      "range": "16-25",
+      "title": "Surprise Attack and Pursuit"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Faith under testing",
+    "Unexpected victory",
+    "Leadership and strategy"
+  ],
+  "practicalQuestions": [
+    "When facing a challenge, how do we balance prudent planning with reliance on a power beyond our resources?",
+    "What practices help a community avoid taking credit for successes that may have multiple causes?",
+    "How should leaders discern and use unconventional or symbolic tactics that could have spiritual significance?",
+    "How do we interpret personal or communal signs (dreams, omens) today while avoiding superstition?"
+  ],
+  "uncertainAreas": "The precise symbolic meaning of the water test (lapping versus kneeling) and of the pitchers/lamps is debated; it's unclear whether these elements are primarily practical, ritual, or narrative devices. Also ambiguous is the mechanism of the panic—whether described as miraculous divine action, psychological warfare, or both.",
+  "createdAt": "2025-11-03T16:49:36.078Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Exod.17",
+  "briefOverview": "The chapter recounts two episodes in Israel's wilderness journey: God providing water from a rock after the people's complaint, and the military defeat of Amalek won while Moses intercedes from a hilltop.",
+  "summary": "At Rephidim the Israelites lack water, quarrel with Moses, and accuse him of endangering them. God instructs Moses to strike a rock at Horeb; water flows and the place is named Massah and Meribah because the people tested the LORD. Soon after, Amalek attacks Israel; Moses appoints Joshua to lead the fighting while he goes to a hilltop with Aaron and Hur. As long as Moses holds up his hand Israel prevails; when his hands grow heavy Aaron and Hur support him until sunset and Joshua routs Amalek. God commands Moses to record the event and promises to blot out Amalek; Moses builds an altar called Jehovah-nissi in acknowledgement of divine help.",
+  "externalContext": "In the ancient Near East access to water determined survival and shaped movement of peoples; an encampment at a place without water would provoke urgent complaint. Amalek is portrayed elsewhere as a hostile, mobile group who attacked the vulnerable (older and stragglers) in the rear of a migrating community. Naming altars or places to commemorate divine acts was a common Israelite practice that linked memory, worship, and identity.",
+  "externalReferences": "The rock/water episode is later recounted with differences in Numbers 20:1–13, where Moses strikes the rock and is rebuked, a passage often compared with Exodus 17. The command to remember and remove Amalek appears elsewhere in Deuteronomy 25:17–19, framing Amalek as a recurring enemy to be 'blotted out.' Psalm 95:8–9 refers to Massah and Meribah as moments of testing and warns against hardening one's heart, echoing the Exodus episode.",
+  "seeAlso": [
+    "Numbers 20:1-13",
+    "Deuteronomy 25:17-19",
+    "Psalm 95:8-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Testing at Massah"
+    },
+    {
+      "range": "8-16",
+      "title": "War with Amalek"
+    }
+  ],
+  "themes": [
+    "Divine provision",
+    "Testing",
+    "Leadership",
+    "Remembrance"
+  ],
+  "practicalQuestions": [
+    "When a community faces scarcity or crisis, how should leaders balance empathy for complaints with accountability for trust in God or shared commitments?",
+    "In what ways can contemporary leaders be supported so they do not 'grow weary' under the burden of responsibility?",
+    "How do we remember and commemorate moments of provision or deliverance in ways that shape communal identity?",
+    "How should communities respond to recurring threats or injustices while avoiding dehumanizing the perceived enemy?"
+  ],
+  "uncertainAreas": "The chapter is straightforward but raises interpretive questions: later accounts (Numbers 20) describe a different procedure and consequence for Moses, creating uncertainty about the composition or transmission of the tradition. The precise location of Rephidim/Horeb and historical identity of Amalek are debated among scholars. The text attributes the water explicitly to God, though Moses' role is central; how to understand the interplay of divine action and human agency can be read in different ways.",
+  "createdAt": "2025-11-03T15:32:47.578Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

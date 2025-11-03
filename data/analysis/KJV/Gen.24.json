@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Gen.24",
+  "briefOverview": "Abraham commissions his chief servant to find a wife for Isaac from his own kin; the servant prays for divine guidance and God leads him to Rebekah, who consents and becomes Isaac's wife.",
+  "summary": "Abraham, advanced in age, charges his senior servant to swear that he will not take a wife for Isaac from the Canaanites but from Abraham's country and kindred. The servant travels to Mesopotamia (the city of Nahor), prays at a well for success, and sets a sign: the woman who offers him and his camels water will be the chosen bride. Rebekah fulfills the sign, the servant gives her jewelry, and her family (Laban and Bethuel) acknowledge the matter as from the LORD and consent. Rebekah agrees to go, departs with the servant, and on arrival she meets Isaac; they marry and Isaac is comforted after Sarah's death.",
+  "externalContext": "In the ancient Near East marriages were commonly arranged within extended kin groups to preserve property, lineage, and alliances; a well or spring was a frequent social meeting place for women. Camels were a principal measure of wealth and travel capability in long-distance missions. The oath-taking gesture of placing the hand under the thigh was an ancient Near Eastern idiom for binding, solemn oaths tied to family continuity. The story reflects concerns about endogamy and the transmission of covenant promises through a chosen lineage.",
+  "externalReferences": "The chapter assumes and develops earlier promises to Abraham about land and seed (see Genesis 12:1–3; Genesis 15:18–21) and connects to Abraham's family background in Haran (Genesis 11:27–32). Isaac's status as the child of promise who comforts Abraham after Sarah's death recalls Isaac's birth narrative (Genesis 21:1–7) and the burial of Sarah (Genesis 23). The chapter also leads into Rebekah's later role as mother of Jacob and Esau (Genesis 25:19–26).",
+  "seeAlso": [
+    "Genesis 11:27-32",
+    "Genesis 12:1-3",
+    "Genesis 15:18-21",
+    "Genesis 21:1-7",
+    "Genesis 23:1-20",
+    "Genesis 25:19-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Commission and Oath"
+    },
+    {
+      "range": "10-33",
+      "title": "Encounter at the Well"
+    },
+    {
+      "range": "34-67",
+      "title": "Family Consent and Marriage"
+    }
+  ],
+  "themes": [
+    "Divine guidance",
+    "Covenant promise",
+    "Marriage & kinship",
+    "Obedience"
+  ],
+  "practicalQuestions": [
+    "How do we discern and test perceived guidance today in decisions that affect family and future generations?",
+    "In what ways should family traditions and obligations shape choices about marriage and alliances in contemporary contexts?",
+    "How can hospitality, generosity, and simple actions (like offering water) function as meaningful indicators of character in relationships?",
+    "What responsibilities come with being entrusted to act on someone else's behalf, and how should authority and consent be balanced?"
+  ],
+  "uncertainAreas": "The servant is unnamed in this chapter (traditionally identified later as Eliezer) and the precise legal/cultural meaning of swearing by the thigh is not explicit here. Laban and Bethuel's brief response—'The thing proceedeth from the LORD'—leaves open questions about their motives and the degree of genuine assent. The text gives limited detail about Rebekah's prior knowledge and internal deliberation, so the nature of her consent is somewhat ambiguous.",
+  "createdAt": "2025-11-03T15:09:18.010Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

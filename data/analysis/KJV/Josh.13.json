@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Josh.13",
+  "briefOverview": "Joshua is told he is old and that significant territory remains to be taken; the chapter lists lands still to be possessed and records the allotments east of the Jordan and the Levites' lack of territorial inheritance.",
+  "summary": "God tells Joshua that, though he is old, much land yet remains to be possessed, and the chapter catalogs regions still to be taken (Philistine areas, Geshur, Sidon, Lebanon, and others). God instructs Joshua to divide the land by lot for the people; the narrative then focuses on the territories already assigned east of the Jordan. Moses' prior distributions to Reuben, Gad, and the half-tribe of Manasseh are spelled out with specific towns and borders, including the lands of Sihon and Og that Moses had conquered. The text notes that some groups (the Geshurites and Maachathites) were not expelled and lived among Israel. It repeats that the Levites received no contiguous territory because their inheritance is the priestly service and the offerings of the LORD.",
+  "externalContext": "The chapter presumes the broader Israelite settlement period after the conquest of Canaan; allotting land by tribal family was a central organizing principle in ancient Israelite society. The eastern allotments here correspond to earlier negotiations and settlements described in Numbers 32, when Reuben, Gad, and half-Manasseh requested and received land beyond the Jordan. The Levites' absence of a territorial inheritance follows legal material in Numbers and Deuteronomy that assigns them towns and priestly sustenance rather than a full tribal territory.",
+  "externalReferences": "The statement that Reuben, Gad, and the half-tribe of Manasseh received land beyond Jordan echoes Numbers 32:1–42, where those tribes request and obtain those territories. The accounts of Israel's victories over Sihon and Og and the transfer of their lands to Israel correspond to Numbers 21:21–35 and Deuteronomy 3:1–11. The mention that Balaam was slain among those defeated echoes Numbers 31:8. The rule that the Levites receive no territorial inheritance but are supported by priestly dues and cities is reflected in Numbers 18:20–24.",
+  "seeAlso": [
+    "Numbers 32:1-42",
+    "Numbers 21:21-35",
+    "Deuteronomy 3:1-11",
+    "Numbers 31:8",
+    "Numbers 18:20-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Remaining Land to Possess"
+    },
+    {
+      "range": "7-33",
+      "title": "Allotments East of Jordan"
+    },
+    {
+      "range": "14,33",
+      "title": "Levitical Inheritance Note"
+    }
+  ],
+  "themes": [
+    "Land allotment",
+    "Tribal inheritance",
+    "Levitical provision"
+  ],
+  "practicalQuestions": [
+    "How should modern communities fairly distribute shared resources in ways that recognize both collective needs and particular family/community claims, as tribal allotments did?",
+    "What does it mean today for religious leaders or servants to have 'no land' but to be supported by the community—how should communities sustain those who serve?",
+    "How do we think about living alongside neighbors or groups we have not fully displaced or integrated, given the text's note that some peoples continued to dwell among Israel?",
+    "In what ways should present-day claims to territory or heritage be balanced with commitments to justice and inclusion reflected in communal law?"
+  ],
+  "uncertainAreas": "Exact identification and geographic extent of many place names (e.g., Sihor, Giblites, some towns listed) are uncertain; the chapter presumes earlier events and settlements whose precise historic sequence and archaeological correlates remain debated; the narrative's account of which peoples were or were not expelled leaves ambiguity about the timing and degree of Israelite control.",
+  "createdAt": "2025-11-03T16:41:28.247Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lev.25",
+  "briefOverview": "Leviticus 25 lays out the sabbath-year and jubilee regulations that govern land use, property redemption, and the treatment of the poor and servants, framing them as measures of social and religious justice.",
+  "summary": "God commands a seven-year agricultural sabbath and a fiftieth-year jubilee in which land lies fallow, a trumpet is sounded on the Day of Atonement, and people return to their ancestral property and families. The chapter prescribes pricing and redemption rules for land sold, special rules for houses in walled cities and Levitical property, and mechanisms for kin or the owner to redeem sold land. It forbids oppression and usury among Israelites, requires relief for the poor and emphasizes that the land ultimately belongs to God. Israelites sold into servitude must be treated as hired workers and are to be released in the jubilee (with provisions for redemption based on years remaining), while captives bought from surrounding nations may be held as perpetual servants. The chapter explains that if Israelites fear scarcity during sabbath years, God will bless the sixth year to supply food for the following years.",
+  "externalContext": "These instructions reflect an agrarian, clan-based society in which land and family inheritance determined social and economic identity. The jubilee and sabbath-year laws function as institutionalized resets to prevent permanent dispossession and extreme inequality. Many scholars view these laws as part of the Priestly tradition within the Pentateuch and debate how, when, or whether jubilees were historically observed in ancient Israel.",
+  "externalReferences": "The sabbath-year law echoes Exodus 23:10–11, which also prescribes leaving the land fallow every seventh year. The jubilee trumpet's linkage to the Day of Atonement connects to Leviticus 16, the central Day of Atonement ritual. Deuteronomy 15:12–18 contains related rules about releasing Hebrew servants every seven years and treating them generously, providing a close comparative text on servitude and release.",
+  "seeAlso": [
+    "Exodus 23:10-11",
+    "Leviticus 16",
+    "Deuteronomy 15:12-18",
+    "Isaiah 61:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Sabbath and Jubilee"
+    },
+    {
+      "range": "14-34",
+      "title": "Land Redemption Rules"
+    },
+    {
+      "range": "35-55",
+      "title": "Care for Poor and Servants"
+    }
+  ],
+  "themes": [
+    "Jubilee",
+    "Land Ownership",
+    "Economic Justice",
+    "Sabbath/Rest"
+  ],
+  "practicalQuestions": [
+    "How might modern communities create institutional 'resets' that prevent entrenched poverty and restore economic dignity?",
+    "In what ways can religious or civic practices incorporate regular rhythms of rest for people and the environment?",
+    "How should contemporary readers reconcile the chapter's protections for kin with its allowance of permanent servitude for foreigners?",
+    "What policies would reflect the text's emphasis that land and resources are stewarded for the common good rather than absolute private ownership?"
+  ],
+  "uncertainAreas": "Uncertainty exists about the historical observance and practical implementation of the jubilee in ancient Israel, the exact valuation method for redeeming land, and how the text's allowance of perpetual servitude for non-Israelites was practiced or moderated in later periods.",
+  "createdAt": "2025-11-03T15:58:56.135Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

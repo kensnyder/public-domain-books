@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Num.18",
+  "briefOverview": "God instructs Aaron, his sons, and the Levites about their distinct responsibilities, sacred access, and the material provisions (offerings, firstfruits, tithes) that will support them.",
+  "summary": "God charges Aaron and his sons with bearing the priestly responsibility for the sanctuary and assigns the rest of the Levites to assist them, while restricting who may approach the holy vessels and altar. Aaron and his household are given the most holy portions of certain offerings (meat, sin, trespass offerings), firstfruits, best oil and wine, and the flesh of certain consecrated animals to eat in the sanctuary. Priests are told they will have no territorial inheritance in the land because the Lord himself is their portion, while the Levites are given the tithe of Israel as their inheritance for service. The Levites, in turn, must present a heave offering of a tenth of their tithe to Aaron and the priests. Repeated warnings stress that coming near or polluting the sanctuary improperly brings death, and the distribution rules are framed as statutes for future generations.",
+  "externalContext": "In the ancient Israelite tribal system the Levites were a specialized tribe set aside for cultic service; they had no tribal territory but lived among the other tribes and were supported by sacrificial portions and tithes. The tabernacle (portable sanctuary) required ritual purity and strict access rules common to Near Eastern temple practice. Tithes and dedication of firstborns were standard mechanisms for supporting temple personnel and expressing communal consecration to a deity.",
+  "externalReferences": "The assignment of the Levites in place of the firstborn echoes Numbers 3:11–13 and the earlier command to consecrate the firstborn (Exodus 13:2). Rules about tithes and holy portions relate to Leviticus 27:30 and Deuteronomy 14:22–29, which regulate holy gifts and provision for Levites and the needy. The phrase “covenant of salt” also appears elsewhere (Leviticus 2:13; 2 Chronicles 13:5) as an idiom for a lasting covenant or offering.",
+  "seeAlso": [
+    "Numbers 3:11-13",
+    "Exodus 13:2",
+    "Leviticus 27:30",
+    "Deuteronomy 14:22-29",
+    "Leviticus 2:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Priests and Levites Assigned"
+    },
+    {
+      "range": "8-19",
+      "title": "Priests' Portions"
+    },
+    {
+      "range": "20-32",
+      "title": "Levitical Inheritance and Tithes"
+    }
+  ],
+  "themes": [
+    "Priesthood",
+    "Levites",
+    "Tithes",
+    "Holiness"
+  ],
+  "practicalQuestions": [
+    "How should religious communities today structure material support for those who serve full-time ministry?",
+    "What contemporary practices correspond to maintaining appropriate boundaries between sacred roles/places and the wider community?",
+    "How do we balance communal responsibility for worship institutions with accountability in the distribution of resources?",
+    "In what ways can 'firstfruits' or dedicated offerings be meaningfully practiced in modern contexts?",
+    "How should the principle that religious leaders have no earthly inheritance (relying on community support) inform present-day clergy compensation and care?"
+  ],
+  "uncertainAreas": "Certain technical terms and practices are interpretively difficult: the precise ritual meaning of 'heave offering' and 'covenant of salt,' the legal and social detail behind redemption values for firstborns, and the scope of who is meant by 'thy daughters with thee' allowed to eat priestly portions. The chapter presumes cultic institutions whose exact operation and local variations in the ancient world are not fully specified here.",
+  "createdAt": "2025-11-03T16:09:37.802Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

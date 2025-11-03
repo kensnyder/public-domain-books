@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Num.28",
+  "briefOverview": "A detailed set of cultic instructions prescribing the regular burnt offerings and the special sacrifices for Sabbath, new moon, Passover/Unleavened Bread, and the day of firstfruits.",
+  "summary": "God instructs Moses to tell Israel the precise offerings to be observed on a regular and festival basis. The chapter prescribes the continual daily burnt offering (two spotless yearling lambs with a grain and drink offering), additional sacrifices for the sabbath, and prescribed offerings for the beginnings of months (new moons). It then specifies the sacrificial schedule for Passover and the seven-day Feast of Unleavened Bread, including holy convocations and an added sin offering, and finally gives offerings for the day of firstfruits (noting \"after your weeks be out\"). All sacrifices are to be without blemish and offered beside the continual burnt offering; measures for flour, oil, and wine are given for each animal.",
+  "externalContext": "These instructions fit within the broader Israelite cult established during the Sinai period, where the priesthood (Aaronic line) administered sacrifices as central acts of covenant maintenance and communal worship. The calendar terms (sabbath, new moon, months, feast days) reflect an agrarian-lunar calendar that structured social and religious life. Units like the ephah and hin are measures of grain and liquid used in temple offerings; such precise quantities emphasize order and consistency in worship.",
+  "externalReferences": "The daily burnt offering parallels Exodus 29:38–42, which prescribes the morning and evening sacrifices. The festival prescriptions correspond with the feast regulations in Leviticus 23 (Passover and Feast of Unleavened Bread: Leviticus 23:5–8) and are part of the larger sacrificial legislation collected in Leviticus 1–7. Numbers 29 continues and expands sacrificial rules for other festivals and shows how Numbers 28–29 function together as the calendarized cult code.",
+  "seeAlso": [
+    "Exodus 29:38-42",
+    "Leviticus 1:1-7:38",
+    "Leviticus 23:5-8",
+    "Numbers 29:1-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Daily Burnt Offering"
+    },
+    {
+      "range": "9-15",
+      "title": "Sabbath and New Moon"
+    },
+    {
+      "range": "16-31",
+      "title": "Passover, Festival, Firstfruits"
+    }
+  ],
+  "themes": [
+    "Sacrifice",
+    "Ritual Calendar",
+    "Priestly Duty",
+    "Communal Worship"
+  ],
+  "practicalQuestions": [
+    "How can regular rhythms of worship (daily, weekly, monthly) shape contemporary spiritual life and communal identity?",
+    "What does the requirement that offerings be ‘without blemish’ imply about standards for giving in religious communities today?",
+    "How should modern communities interpret and adapt detailed ritual prescriptions that were tied to a specific cultic system?",
+    "In what ways do fixed holy days and convocations contribute to communal memory and moral formation in our context?"
+  ],
+  "uncertainAreas": "Some practical details (exact modern equivalents of ephah, hin, and other measures) and the full liturgical performance by the priests are not spelled out here and depend on broader cultic manuals. Also, while verse phrasing makes the festival identifications clear, precise links between 'the day of firstfruits' here and later festival traditions (e.g., Shavuot) can involve interpretive nuances found elsewhere.",
+  "createdAt": "2025-11-03T16:15:17.629Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

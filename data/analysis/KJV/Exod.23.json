@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Exod.23",
+  "briefOverview": "A set of social, ritual, and military instructions for Israel emphasizing just conduct, sabbath rhythms, worship practices, and divine guidance for entering the land.",
+  "summary": "The chapter instructs against false testimony, partiality, bribery, and oppressing strangers, and commands practical acts of neighborliness (verses 1–9). It prescribes agricultural and weekly rest—sabbatical year and weekly Sabbath—and links rest to social welfare (10–12). Worship regulations are given: exclusive devotion to Yahweh, three annual pilgrim feasts, rules about offerings, and firstfruits (13–19). God promises to send an angel to guide and protect Israel into the land, to fight their enemies and drive out Canaanite peoples gradually, and warns against making covenants with them or adopting their religious practices (20–33).",
+  "externalContext": "These instructions are part of the covenant law given to a newly formed community preparing to enter the land of Canaan; many reflect ancient Near Eastern concerns about judicial integrity, communal welfare, and boundaries between peoples. The sabbatical year and festival calendar reflect an agrarian society structured by seasonal labour and ritual gatherings at the central sanctuary. The injunctions about strangers recall Israel's recent experience as resident foreigners in Egypt and function as a moral rationale for hospitality and justice.",
+  "externalReferences": "The commands about caring for strangers and remembering Israel’s sojourn in Egypt parallel Leviticus 19:33–34 and Deuteronomy 10:19. Sabbath and sabbatical regulations correspond to later, fuller treatments in Leviticus 25 (sabbatical year) and Deuteronomy 5:12–15 (weekly Sabbath tied to redemption from Egypt). The prohibition not to boil a kid in its mother’s milk appears again in Exodus 34:26 and Deuteronomy 14:21 and is later much discussed in Jewish dietary law.",
+  "seeAlso": [
+    "Leviticus 19:33-34",
+    "Leviticus 23",
+    "Leviticus 25",
+    "Deuteronomy 5:12-15",
+    "Deuteronomy 14:21",
+    "Exodus 34:26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Justice and Neighborliness"
+    },
+    {
+      "range": "10-12",
+      "title": "Sabbath and Sabbatical"
+    },
+    {
+      "range": "13-33",
+      "title": "Worship, Feasts, and Conquest"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Sabbath/Rest",
+    "Worship",
+    "Divine guidance"
+  ],
+  "practicalQuestions": [
+    "How can modern communities apply the chapter’s standards for impartial justice and resistance to bribery in our legal and civic systems?",
+    "In what concrete ways should a community structure rest (weekly and longer rhythms) so that workers, animals, and vulnerable people are refreshed?",
+    "How does remembering past marginalization (’you were strangers in Egypt’) shape current policies toward migrants and refugees?",
+    "What discernment practices help a community avoid adopting harmful values from surrounding cultures while still engaging neighbors constructively?"
+  ],
+  "uncertainAreas": "The precise identity and theological status of the 'Angel' in verses 20–23 is ambiguous (divine messenger, manifestation of God, or a created angelic being). The brief law forbidding seething a kid in its mother's milk is terse and its original rationale is unclear from the text alone, leading to divergent later interpretations (ritual, ethical, or symbolic). The scope of 'make no covenant with them' can be read narrowly as religious covenanting or more broadly as political and social alliances; the text does not fully specify limits.",
+  "createdAt": "2025-11-03T15:35:32.044Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

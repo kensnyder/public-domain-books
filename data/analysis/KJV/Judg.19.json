@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Judg.19",
+  "briefOverview": "A Levite’s trip home ends in a brutal gang rape in the Benjamite town of Gibeah, followed by the Levite’s shocking dismemberment of the victim to provoke a national response.",
+  "summary": "During a time described as 'when there was no king in Israel,' a Levite from Ephraim takes a concubine from Bethlehem; she leaves him but he reconciles with her and stays several days at her father’s house. Journeying home, they fail to secure lodging in Gibeah (territory of Benjamin) until an elderly host takes them in. Men of the city surround the house demanding the visitor be handed over; the host offers his own daughter and the concubine instead, and the men rape the concubine throughout the night. She collapses at the house door at dawn and later dies. The Levite dismembers her body into twelve pieces and sends them to the tribes of Israel, prompting countrywide horror and a summons to 'consider of it' and give counsel.",
+  "externalContext": "The book of Judges portrays a decentralized tribal period (roughly the early Iron Age) when Israel lacked centralized monarchy or consistent leadership; the recurring refrain 'there was no king in Israel' highlights social disorder. Hospitality to travelers was a strong cultural expectation in the ancient Near East, so the refusal of private homes to shelter the Levite and the violent breach of hospitality in Gibeah would have been especially scandalous. The concubine’s legal and social status is lower than a primary wife, which affects how the text describes her but does not lessen the moral outrage at the violence.",
+  "externalReferences": "The narrative echoes Genesis 19:1–11 (the Sodom account) where men of a city demand sexual access to male guests and the host offers his daughters, creating an explicit literary parallel. The immediate consequence — a nationwide dispute and war against Benjamin — is recounted in the following chapters, Judges 20–21. The repeated refrain about the absence of a king also appears in Judges 17:6 and 21:25, framing these episodes as symptomatic of national anarchy.",
+  "seeAlso": [
+    "Genesis 19:1-11",
+    "Judges 20:1-48",
+    "Judges 21:1-25",
+    "Judges 17:6",
+    "Judges 21:25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Visit and Delay"
+    },
+    {
+      "range": "11-21",
+      "title": "Rejection and Refuge"
+    },
+    {
+      "range": "22-30",
+      "title": "Assault and Dismemberment"
+    }
+  ],
+  "themes": [
+    "Hospitality",
+    "Sexual Violence",
+    "Lawlessness",
+    "Communal Outrage"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities respond when institutions fail to protect vulnerable people from sexual violence?",
+    "What obligations of hospitality and care do we owe to strangers or those on the margins today?",
+    "How can public shock at a horrific act be guided into just, measured responses rather than cycles of collective retribution?",
+    "What structures of leadership and law help prevent the social breakdown depicted in this chapter?"
+  ],
+  "uncertainAreas": "The text is ambiguous about why the concubine 'played the whore' and left (v.2)—the motive and degree of agency are unclear. The host’s offer of his daughter and the concubine may reflect narrative parallelism with Genesis 19 rather than a straightforward historical report of custom. The Levite’s grisly dismemberment is narratively provocative; its intended rhetorical effect (to mobilize outrage) is clear, but his moral culpability and legal alternatives are not spelled out.",
+  "createdAt": "2025-11-03T16:56:31.691Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

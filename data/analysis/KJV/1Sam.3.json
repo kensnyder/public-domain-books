@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "1Sam.3",
+  "briefOverview": "Samuel receives his first prophetic call and announces divine judgment on Eli’s house. The chapter establishes Samuel’s prophetic office and God's renewed revelation at Shiloh.",
+  "summary": "The boy Samuel, serving in the tabernacle under Eli, is repeatedly awakened by a voice calling his name; after Eli instructs him how to respond, Samuel answers, 'Speak; for thy servant heareth.' God reveals to Samuel that He will carry out judgment on Eli’s family because Eli failed to restrain his corrupt sons, and that the guilt of Eli's house will not be removed by sacrifice or offering. Samuel tells Eli the message fully; Eli accepts the judgment. The chapter closes by noting that Samuel grew and that the LORD was with him so that none of his words failed, and that all Israel recognized him as a prophet and that the LORD continued to appear to Samuel at Shiloh.",
+  "externalContext": "The narrative is set in the transitional period from the era of the judges to the establishment of monarchy in Israel; religious leadership at Shiloh centered on the tabernacle and the ark of the covenant. Prophetic authority was emerging as a recognized office that communicated divine revelation, and priestly corruption (here, Eli’s sons) is a recurring social-religious problem in the Hebrew Bible. The setting also presumes an oral culture where visions and vocal call experiences were primary means of declaring God's will.",
+  "externalReferences": "The theme of divine judgment on Eli’s household is foreshadowed by the earlier rebuke in 1 Samuel 2:27–36, where a 'man of God' prophesies judgment because Eli's sons 'made themselves vile.' The prediction is narrated later as fulfilled in the calamities recorded in 1 Samuel 4:11–18, when the ark is captured and Eli and his sons die. This call narrative has formal parallels with other prophetic call scenes such as Isaiah 6:1–8, where a visionary encounter leads to a prophet’s commissioning.",
+  "seeAlso": [
+    "1 Samuel 2:27-36",
+    "1 Samuel 4:11-18",
+    "Isaiah 6:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Samuel's Call"
+    },
+    {
+      "range": "10-18",
+      "title": "God's Message to Samuel"
+    },
+    {
+      "range": "19-21",
+      "title": "Samuel Established"
+    }
+  ],
+  "themes": [
+    "Prophetic Calling",
+    "Divine Judgment",
+    "Obedience",
+    "Revelation"
+  ],
+  "practicalQuestions": [
+    "How do we recognize and respond to a call or conviction we believe is from God?",
+    "What responsibilities do leaders have to restrain wrongdoing among those under their authority?",
+    "How should communities treat trustworthy reports that bring uncomfortable consequences?",
+    "How can institutions cultivate spaces where honest revelation or criticism can be heard?"
+  ],
+  "uncertainAreas": "The phrase 'the word of the LORD was precious' is ambiguous—whether it means 'rare' or 'valuable' is uncertain. The text leaves some details implicit: the exact nature of Samuel’s prior knowledge of God, the form of theophany he experienced (auditory only or visionary), and the scope of Eli’s awareness before the call. Interpretation of 'the lamp of God went out' could be literal or symbolic.",
+  "createdAt": "2025-11-03T17:01:17.323Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

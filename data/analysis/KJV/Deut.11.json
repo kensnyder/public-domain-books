@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Deut.11",
+  "briefOverview": "Moses urges Israel to love and obey Yahweh, remembering God's mighty deeds, and presents conditional promises of land, rain, and victory alongside warnings of curse for disobedience.",
+  "summary": "Moses reminds the people of the LORD’s past mighty acts — the signs in Egypt, the Red Sea victory, wilderness provision, and the judgment on Dathan and Abiram — as grounds for loving and keeping God’s commandments. He links obedience to national strength, long life in the promised land, and successful possession of the territory. The land of Canaan is described as rain-dependent and under God’s watch, so faithful obedience will bring seasonal rain, abundant crops, and pasture for livestock. Israel is warned against idolatry, which will provoke God’s wrath and result in drought and loss of the land. Practical religious duties are given: internalizing God’s words, teaching children, binding signs on hands and between the eyes, and writing on doorposts and gates. The chapter closes by setting before Israel a blessing and a curse and reiterating the call to observe the statutes as they enter and possess the land, including a broad territorial promise.",
+  "externalContext": "This chapter is part of Moses’ farewell speeches delivered on the plains of Moab just before Israel’s entry into Canaan (Deuteronomic covenant renewal context). Ancient Near Eastern agrarian societies depended on seasonal rains (often described as \"first\" and \"latter\" rains), so promises about rain are both theologically and economically central. The structure of blessing-for-obedience and curse-for-disobedience reflects covenant treaty patterns known in the ancient Near East.",
+  "externalReferences": "The Red Sea deliverance here echoes the account in Exodus 14:21–31, where the sea overwhelms Pharaoh’s army. The punishment of Dathan and Abiram corresponds to the rebellion narrative in Numbers 16 (and related passages) where the earth swallows the insurgents.\nThe practices of binding words and writing them on doorposts parallel the instructions in Deuteronomy 6:4–9 (the Shema and its household instruction). The ritual setting of blessings and curses on Mount Gerizim and Mount Ebal and the larger list of blessings/curses are developed in Deuteronomy 27–28 and are later enacted in Joshua 8:30–35.",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Numbers 16:1-35",
+    "Deuteronomy 6:4-9",
+    "Deuteronomy 27:11-26",
+    "Deuteronomy 28:1-14",
+    "Joshua 8:30-35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Remember God's Acts"
+    },
+    {
+      "range": "8-21",
+      "title": "Obedience and Provision"
+    },
+    {
+      "range": "22-32",
+      "title": "Blessing, Curse, Possession"
+    }
+  ],
+  "themes": [
+    "Love and obedience",
+    "Covenant blessings/curses",
+    "Land and provision",
+    "Remembrance and teaching"
+  ],
+  "practicalQuestions": [
+    "How can a community today intentionally remember formative events so they shape present obedience and identity?",
+    "In what ways does responsibility for the land (care, stewardship) connect to communal faithfulness in our context?",
+    "How should parents and faith communities teach foundational convictions to children in everyday life?",
+    "How ought modern readers interpret covenant promises of blessing and curse when facing natural and social consequences?"
+  ],
+  "uncertainAreas": "Degree of literalness: whether promises (rain, territorial borders) are intended as strictly literal, symbolic, or conditional at national vs. individual levels. Identification of ritual terms (\"frontlets,\" binding words) with later Jewish practices (tefillin/mezuzah) is plausible but not fully explicit in this chapter.",
+  "createdAt": "2025-11-03T16:24:46.526Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Deut.22",
+  "briefOverview": "A collection of civil, ritual, and moral laws governing neighborly duties, sexual and family conduct, and certain purity and safety regulations.",
+  "summary": "The chapter issues varied laws: return lost animals and help injured beasts (1–4); prohibit cross-dressing (5); rules for taking birds' young while releasing the mother (6–7); require safety measures for new roofs (8); forbid mixed planting, yoked plowing with different animals, and mixing wool and linen (9–11); command fringes on garments (12). It then gives detailed procedures and penalties for marriage-related disputes and sexual offenses (13–30), including evidentiary rules about a bride's virginity, penalties for adultery and premarital sex, different outcomes for rape in the city versus the field, compensation and marriage for a man who seduces an unbetrothed virgin, and a prohibition on marrying a father's wife (30).",
+  "externalContext": "These laws reflect an ancient agrarian, patriarchal society in which family honor, community reputation, and agricultural practice shaped legal priorities. Many provisions aim to preserve social order, protect property and lineage, and regulate purity and ritual distinctions that marked Israelite identity. Some rules (e.g., roof safety, returning lost animals) presuppose tight-knit village life and shared responsibility for neighbors.",
+  "externalReferences": "Several provisions have parallels elsewhere in the Torah and ancient Near Eastern law codes: the obligation to return a lost animal resembles Exodus 23:4–5. The command to make fringes on garments echoes Numbers 15:38–41, and the ban on mixed fabrics and mixed sowing is similar to Leviticus 19:19. The prohibition against adultery resonates with the tenth commandment in Exodus 20:14, though Deuteronomy gives more specific procedural and capital-penalty language.",
+  "seeAlso": [
+    "Exodus 23:4-5",
+    "Numbers 15:38-41",
+    "Leviticus 19:19",
+    "Exodus 20:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Neighborly Responsibility"
+    },
+    {
+      "range": "5-12",
+      "title": "Purity, Safety, and Dress"
+    },
+    {
+      "range": "13-30",
+      "title": "Sexual and Family Laws"
+    }
+  ],
+  "themes": [
+    "Neighborliness",
+    "Sexual morality",
+    "Ritual purity",
+    "Community justice"
+  ],
+  "practicalQuestions": [
+    "How should modern communities translate the duty to return lost property and aid fallen animals into contemporary civic or legal practice?",
+    "What safeguards can ensure fair treatment of both accusers and accused in cases of sexual misconduct, given the severe communal penalties described here?",
+    "How do ritual distinctions about clothing and mixed species inform present conversations about religious identity and symbolic practice?",
+    "In what ways can ancient concerns for household safety (roof battlements) inform modern building standards and communal responsibility?"
+  ],
+  "uncertainAreas": "Uncertainties include what counted as the \"tokens of virginity\" in practice and how consistently these evidentiary rules were applied; the rationale and social meaning behind the city/field distinction for rape cases; the cultural reasoning behind the cross-dressing prohibition; and the historical frequency or enforcement of capital penalties prescribed here.",
+  "createdAt": "2025-11-03T16:29:52.212Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

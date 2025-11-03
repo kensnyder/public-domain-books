@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Lev.27",
+  "briefOverview": "Leviticus 27 sets rules for vows and consecrations, giving detailed monetary valuations and regulations for redeeming persons, animals, houses, and fields, and it closes with rules about devoted things and tithes.",
+  "summary": "The chapter gives a schedule for valuing a person who is vowed to the Lord based on age and sex, with provisions for a priest to assess those unable to pay (verses 1–8). It treats animals and other offerings as sacred (9–13), allowing redemption of certain items by adding a fifth (20%) to the valuation. Houses and portions of fields may be consecrated and redeemed, but valuations for fields must be adjusted to the Jubilee year if sanctified after that year (14–25). The firstborn animals remain the LORD's and cannot be sanctified in the same way, devoted things that are wholly dedicated (herem) may not be redeemed and devoted persons are to be put to death (26–29). The chapter ends by declaring the tithe holy, forbidding substitution for the tithe, and prescribing a fifth be added if one redeems tithes (30–34).",
+  "externalContext": "Leviticus is part of the Priestly material emphasizing ritual, purity, and the distinct status of things consecrated to God; valuation by sanctuary shekel and the role of priests reflect centralized cultic control in ancient Israel. The Jubilee (every fiftieth year) is a background institution regulating land tenure and redemption (Leviticus 25). The practice of adding a fifth when redeeming consecrated property is an economic mechanism also attested elsewhere in priestly legislation.",
+  "externalReferences": "The Jubilee regulations closely relate to Leviticus 25 (see especially the rules for redemption and the return of land in the Jubilee year). Laws about vows are paralleled by Numbers 30:1–16, which treats the binding character of vows and their possible annulment. The special status and redemption of firstborn animals echoes Exodus 13:2 and Numbers 18:15–16, which require consecration or redemption of firstborn persons and animals.",
+  "seeAlso": [
+    "Numbers 30:1-16",
+    "Leviticus 25:8-13",
+    "Exodus 13:1-2",
+    "Numbers 18:15-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Valuation of Persons"
+    },
+    {
+      "range": "9-19",
+      "title": "Animals and Redemption"
+    },
+    {
+      "range": "20-25",
+      "title": "Fields, Houses, Jubilee"
+    },
+    {
+      "range": "26-34",
+      "title": "Devotion and Tithes"
+    }
+  ],
+  "themes": [
+    "Vows",
+    "Valuation",
+    "Sanctity",
+    "Redemption"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities honor voluntary commitments and the ethical importance of keeping vows?",
+    "When is it appropriate to assign monetary value to religious commitments, and what safeguards should exist for the poor?",
+    "How do we balance exclusive devotion to sacred causes with protections for human life and dignity (in light of devoted persons)?",
+    "What principles from Jubilee and redemption might inform modern conversations about property, debt relief, and economic justice?"
+  ],
+  "uncertainAreas": "The precise social meaning and legal mechanism of 'devoted' (herem) persons—whether literal capital punishment or an alternate ritual fate—is debated; details about which animals are 'unclean' for offerings and the practical calculation tied to the sanctuary shekel/gerah also depend on ancient metrology and cultic practice that the text assumes but does not fully explain.",
+  "createdAt": "2025-11-03T15:59:52.610Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

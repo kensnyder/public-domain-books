@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Num.14",
+  "briefOverview": "The chapter recounts Israel’s fearful rebellion after the spies’ report, Moses’ intercession, and God’s punitive decree that an unfaithful generation will not enter Canaan.",
+  "summary": "After the spies’ negative report the people weep, murmur against Moses and Aaron, and propose returning to Egypt or appointing a captain. Joshua and Caleb plead for trust in God and are nearly stoned by the assembly. God’s glory appears; He threatens to destroy the people and start a new nation through Moses, but Moses intercedes, appealing to God’s reputation and merciful character. God relents from complete destruction but pronounces that all those twenty years old and upward who rebelled will die in the wilderness (except Joshua and Caleb), while their children will enter the land; Israel will wander forty years, one year for each day the spies scouted. The spies who brought the bad report die, and the people attempt to advance against Canaan contrary to God’s word; they are routed by the Amalekites and Canaanites at Hormah.",
+  "externalContext": "Numbers is part of the Pentateuchal narrative about the wilderness generation after the Exodus, set in a tribal- and covenant-centered ancient Near Eastern milieu where land, tribal identity, and divine presence are central. The episode reflects longstanding Israelite concerns about obedience to covenant promises, the consequences of communal trust or distrust in a deity who acts on behalf of the people, and leadership responsibilities in mediating God’s will. The forty-year term echoes other symbolic uses of forty (e.g., trial or probation) and here links directly to the forty days the spies scouted the land.",
+  "externalReferences": "The text explicitly refers back to God’s acts in Egypt and the wilderness (cf. Exodus narratives) and echoes the divine self-description in Exodus 34:6–7 (“The LORD merciful and gracious…”) when Moses appeals to God’s longsuffering and mercy. The spies’ mission and report are recounted immediately earlier in Numbers 13, and Deuteronomy 1:19–46 retells and interprets the same crisis from Moses’ later vantage point. The theme of unbelief in the wilderness and its consequences is also reflected in Psalm 95:8–11, which warns against hardening one’s heart as Israel did then.",
+  "seeAlso": [
+    "Exodus 34:6-7",
+    "Exodus 3:8",
+    "Numbers 13:1-33",
+    "Deuteronomy 1:19-46",
+    "Psalm 95:8-11",
+    "Joshua 14:6-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Crisis and Counsel"
+    },
+    {
+      "range": "11-25",
+      "title": "Judgment and Intercession"
+    },
+    {
+      "range": "26-45",
+      "title": "Decree and Failed Assault"
+    }
+  ],
+  "themes": [
+    "Rebellion",
+    "Divine judgment",
+    "Intercession",
+    "Covenant promise"
+  ],
+  "practicalQuestions": [
+    "When a community faces fear-driven calls to retreat, how should leaders balance caution with trust in commitments or mission?",
+    "How can contemporary communities practice intercession—advocating for mercy—when consequences for collective failures are at stake?",
+    "What responsibility do present generations have for the long-term effects of communal decisions, and how should we seek restorative outcomes for future generations?",
+    "How do we discern and respond when a group’s popular impulse contradicts ethical or covenantal guidance?"
+  ],
+  "uncertainAreas": "Historic details (dating, precise historicity of events) cannot be confirmed from the text alone. The nature of God’s ‘glory’ appearing and the mechanics of generational punishment/mercy are theologically and interpretively contested; the text states the decree plainly but leaves room for questions about individual culpability and later theological developments.",
+  "createdAt": "2025-11-03T16:07:07.726Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

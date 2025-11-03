@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Num.16",
+  "briefOverview": "Korah, Dathan, Abiram, and others challenge Moses' and Aaron's leadership and priestly authority, provoking a dramatic divine judgment. The chapter contrasts unauthorized claims to ministry with God's chosen order and shows communal consequences and priestly intercession.",
+  "summary": "Leaders from the Levites (Korah) and from Reuben’s family (Dathan and Abiram) gather 250 prominent men to accuse Moses and Aaron of exalting themselves above the congregation and to demand broader access to sacred ministry. Moses proposes a test: each challenger bring a censer with incense before the LORD; the next day the glory of the LORD appears. The earth opens and swallows Korah, Dathan, Abiram and their households, and fire consumes the 250 men who offered incense. Their censers are subsequently made into a metal covering for the altar as a memorial and a warning about unauthorized ministry. The people murmur again the next day, a plague breaks out, and Aaron intercedes by offering incense between the living and the dead; the plague is stopped, but 14,700 die in the judgment.",
+  "externalContext": "This episode is set during Israel’s wilderness wanderings after the Exodus, when the priesthood and tabernacle system were being established and questions about who may approach God in ritual were central. The Aaronic priesthood was being defined as distinct within the Levites (the Kohathite clan among them), and incense/censers were recognized cultic instruments for approaching God's presence. Tribal rivalries and concerns about leadership, status, and inheritance were common tensions in an emerging tribal confederation.",
+  "externalReferences": "Numbers 17 follows this chapter and provides a complementary sign (Aaron’s staff budding) that confirms Aaron’s exclusive priestly status.\n\nLeviticus 10:1–2 (Nadab and Abihu) and Exodus 32 (the golden calf episode, including the Levites’ violent response in Exodus 32:25–29) reflect similar themes: unauthorized or improper cultic action resulting in divine punishment and the importance of regulated access to sacred rites.",
+  "seeAlso": [
+    "Numbers 12",
+    "Numbers 17",
+    "Leviticus 10:1-2",
+    "Exodus 32:25-29",
+    "Deuteronomy 17:8-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Challenge to Leadership"
+    },
+    {
+      "range": "16-35",
+      "title": "Test and Divine Judgment"
+    },
+    {
+      "range": "41-50",
+      "title": "Plague and Atonement"
+    }
+  ],
+  "themes": [
+    "Rebellion",
+    "Authority",
+    "Holiness",
+    "Intercession"
+  ],
+  "practicalQuestions": [
+    "When members of a community question leaders, how should leaders make their authority and decisions accountable and transparent without resorting to violence or dismissal?",
+    "How can a community distinguish healthy critique from self-serving rebellion?",
+    "What safeguards or procedures should exist today to prevent unauthorized access to or misuse of sacred roles and responsibilities?",
+    "How should we respond when disciplinary actions appear severe—what balance between justice, mercy, and communal protection is appropriate?",
+    "What does Aaron’s intercession suggest about the role of leaders in mediating danger and restoring communal life?"
+  ],
+  "uncertainAreas": "Motivations of the rebels are ambiguous (principled egalitarian claim versus personal ambition). The narrative’s theological shaping makes it hard to separate historical detail from etiological interpretation (e.g., the exact nature and scale of the deaths). The reported numbers and some ritual particulars may reflect theological emphasis rather than precise historical reporting.",
+  "createdAt": "2025-11-03T16:08:36.863Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Gen.17",
+  "briefOverview": "God establishes an enduring covenant with Abram, renames him Abraham, institutes circumcision as the covenant sign, and promises a son (Isaac) through Sarah while also promising blessing to Ishmael.",
+  "summary": "The LORD appears to Abram (age 99), identifies himself as God Almighty, and commands Abram to walk before him and be blameless; God promises to multiply Abram and make him the father of many nations. God changes Abram's name to Abraham and reiterates the gift of the land of Canaan and an everlasting covenant with his seed. Circumcision is instituted as the sign of that covenant, to be performed on every male at eight days old, including those born in the household or bought slaves; failure to be circumcised incurs exclusion. God likewise renames Sarai as Sarah and promises that she will bear a son, Isaac, through whom the covenant will be established, while also promising blessings and posterity for Ishmael. The chapter closes with Abraham's immediate obedience: he circumcises himself (age 99), Ishmael (13), and every male in his house on the same day.",
+  "externalContext": "Covenant language and ritual signs are common in ancient Near Eastern social and legal practice to mark formal relationships; here a bodily rite (circumcision) marks belonging to God's people. Name changes in ancient narratives often indicate a new identity and mission (e.g., Abram → Abraham). The inclusion of household members and those bought with money reflects the patriarchal household as a social unit in which a head's commitments extend to dependents and slaves.",
+  "externalReferences": "This chapter builds on earlier promises to Abram about land and descendants (see Genesis 12:1–3; Genesis 15:18–21) and is narratively fulfilled in the birth of Isaac (Genesis 21:1–7). The specific prescription of circumcision on the eighth day is later codified in Israelite law (e.g., Leviticus 12:3), and the New Testament reflects on Abraham's circumcision as a sign of the covenant (Romans 4:11).",
+  "seeAlso": [
+    "Genesis 12:1-3",
+    "Genesis 15:18-21",
+    "Genesis 21:1-7",
+    "Genesis 26:3-5",
+    "Leviticus 12:3",
+    "Romans 4:11",
+    "Galatians 3:16-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Covenant and Renaming"
+    },
+    {
+      "range": "9-14",
+      "title": "Sign: Circumcision"
+    },
+    {
+      "range": "15-27",
+      "title": "Sarah, Isaac, Implementation"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Circumcision",
+    "Promise of descendants",
+    "Name/identity"
+  ],
+  "practicalQuestions": [
+    "What practices or signs today function like circumscription of belonging, and how should we treat them?",
+    "How do renamings or changes in identity (career, family, faith) shape responsibilities and self-understanding?",
+    "When a leader makes a binding commitment, how should that commitment be extended to their household or community?",
+    "How do we hold together promises of blessing to some while choosing a particular line or instrument for a covenantal purpose?"
+  ],
+  "uncertainAreas": "The exact force of phrases like \"walk before me, and be thou perfect\" and the theological scope of \"everlasting covenant\" (how it applies across generations) allow interpretive variation. The moral and legal status of \"bought\" persons and the precise communal consequences of being \"cut off\" are culturally rooted and can be read in different ways. The narrative gloss \"God went up from Abraham\" is stylistically ambiguous about theophanic departure.",
+  "createdAt": "2025-11-03T15:05:33.160Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
