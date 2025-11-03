@@ -12,8 +12,8 @@
     "build": "bun run build:clean && bun run build:dts && bun run build:esm && bun run build:cjs && bun run build:gzip-size",
     "build:clean": "rm -Rf dist/ && mkdir dist && touch dist/.gitkeep",
     "build:dts": "yes | bunx dts-bundle-generator --project tsconfig.bundle-generator.json -o dist/index.d.ts ./index.ts",
-    "build:esm": "bun build ./index.ts --bundle --platform=node --format=esm --packages=external --outfile=dist/index.mjs",
-    "build:cjs": "bun build ./index.ts --bundle --platform=node --format=cjs --packages=external --outfile=dist/index.cjs",
+    "build:esm": "bun build ./index.ts --bundle --platform=node --format=esm --outfile=dist/index.mjs",
+    "build:cjs": "bun build ./index.ts --bundle --platform=node --format=cjs --outfile=dist/index.cjs",
     "build:gzip-size": "echo 'gzipped savings and size:' && gzip -cv dist/index.mjs | wc -c"
   },
   "tags": ["Bible", "Apocrypha", "Scripture", "Open Source Books", "Public Domain Books"],

@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Rom.4",
+  "briefOverview": "Paul argues that Abraham was justified by faith, not by works, establishing that God’s promise and righteousness come by grace to both Jews and Gentiles. He applies Abraham’s example to believers in Jesus, whose death and resurrection ground their justification.",
+  "summary": "Paul asks whether Abraham was justified by works and answers by citing Scripture: Abraham’s faith was credited as righteousness, showing justification is a gracious gift rather than a wage. David’s words about forgiveness support the blessedness of righteousness imputed apart from works. Paul then argues that Abraham’s faith was counted as righteousness before he was circumcised, making him the father of all who believe, circumcised and uncircumcised. The inheritance was promised through the righteousness of faith, not through the law, since the law brings wrath and only faith ensures the promise to all Abraham’s offspring. Abraham trusted God’s promise despite human impossibility, and thus his faith was credited as righteousness; this was written also for those who believe in God who raised Jesus, delivered for our offenses and raised for our justification.",
+  "externalContext": "In the first-century Mediterranean world, debates among early Christians often centered on whether Gentile converts must adopt Jewish identity markers like circumcision and Torah observance. Abraham was revered in Jewish tradition as the covenant ancestor, and his faith in Genesis 15 preceded the giving of the Mosaic law by centuries and came before his circumcision in Genesis 17. Paul’s emphasis on faith over works engages common Jewish discussions about the order of events in Abraham’s life and the function of the law. The language of “reckoning/imputing” reflects legal and accounting metaphors familiar in Greco-Roman and Jewish contexts. Rome’s mixed congregation of Jewish and Gentile believers would have felt the relevance of the chapter’s argument for the unity of God’s people.",
+  "externalReferences": "Paul directly quotes Genesis 15:6 (“Abraham believed the Lord, and he counted it to him as righteousness”) and Psalm 32:1–2 regarding the blessedness of forgiven sin. He also cites Genesis 17:5 (“I have made you a father of many nations”) and alludes to the giving of circumcision as a sign and seal (Genesis 17:10–11), as well as to the promise of innumerable offspring (Genesis 15:5). The chapter’s closing affirmation about Jesus being “delivered for our offenses and raised for our justification” resonates with early Christian kerygma summarized in 1 Corinthians 15:3–4 and aligns with Paul’s earlier argument about God’s righteousness revealed apart from the law (Romans 3:21–26).",
+  "seeAlso": [
+    "Genesis 15:5-6",
+    "Genesis 17:5",
+    "Genesis 17:10-11",
+    "Psalm 32:1-2",
+    "Romans 3:21-26",
+    "1 Corinthians 15:3-4",
+    "Galatians 3:6-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Righteousness Credited by Faith"
+    },
+    {
+      "range": "9-12",
+      "title": "Circumcision as Sign and Seal"
+    },
+    {
+      "range": "13-25",
+      "title": "Promise by Faith; Christ’s Gift"
+    }
+  ],
+  "themes": [
+    "Justification by faith",
+    "Grace versus works",
+    "Imputed righteousness",
+    "Universal promise",
+    "Resurrection hope"
+  ],
+  "practicalQuestions": [
+    "Am I relying on my moral performance or on trusting God’s promise in Christ for right standing with God?",
+    "How does Abraham’s trust in the face of impossibility shape my response to daunting circumstances?",
+    "Do I view religious signs and practices as proofs of status, or as seals that point back to faith and God’s grace?",
+    "How does the resurrection of Jesus function practically in my assurance and daily hope?",
+    "In what ways can I extend the inclusive scope of God’s promise to people unlike me without adding extra conditions?"
+  ],
+  "uncertainAreas": "“Where no law is, there is no transgression” (v.15) can be read in multiple ways (e.g., about defined covenantal boundaries versus moral culpability). The scope of “heir of the world” (v.13) may imply cosmic inheritance or worldwide family, which is debated. The precise nuance of “raised for our justification” (v.25)—whether causative, evidentiary, or both—admits differing theological interpretations.",
+  "createdAt": "2025-11-03T00:32:20.289Z",
+  "modelId": "gpt-5-2025-08-07"
+}

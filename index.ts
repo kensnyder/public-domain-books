@@ -12,3 +12,6 @@ export type {
   ChapterShape,
   VerseDataFileShape,
 } from 'src/types/data-shapes.ts';
+export {
+  works, worksLookup, books, booksLookup, groupsLookup
+} from 'src/data/allData.ts';

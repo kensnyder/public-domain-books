@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Rom.14",
+  "briefOverview": "Paul instructs believers to welcome those with scruples about food and days, prioritizing love, peace, and mutual edification over disputable matters.",
+  "summary": "Paul exhorts the community to receive those who are “weak in faith” without quarrelling over opinions, noting differences about eating meat versus vegetables and the observance of certain days. Both those who observe and those who do not should do so “to the Lord,” for all live and die belonging to the Lord who is Lord of both the dead and the living. Therefore, believers should stop judging one another, remembering all will give an account before God’s judgment seat. Paul, persuaded in the Lord Jesus, affirms that nothing is unclean in itself, yet if someone regards it as unclean, for that person it is unclean. Love must govern liberty: do not distress or cause a brother or sister to stumble over food, because the kingdom of God is about righteousness, peace, and joy in the Holy Spirit. Thus, pursue what makes for peace and edification; it is better to abstain from meat or wine if it causes another to stumble, and whatever is not from faith is sin.",
+  "externalContext": "Romans was written to a mixed Jewish–Gentile church in mid-first-century Rome, where differing practices around kosher food laws, purity, fasting, and sacred days could generate tensions in house-church settings. Some Jewish believers maintained dietary and calendrical observances from the Mosaic Law, while many Gentile believers did not, creating friction over communal meals. In the Greco-Roman world, meat was often associated with temple sacrifices, which raised conscience issues for some Christians about idolatry-related contamination. The Roman congregations likely included recent returnees after Emperor Claudius’s expulsion of Jews (49 CE), a background that may have sharpened disputes over identity markers and communal norms.",
+  "externalReferences": "Verse 11 cites Isaiah 45:23 (“every knee shall bow … every tongue shall confess”), grounding the call to accountability before God. Paul’s guidance on food and conscience closely parallels 1 Corinthians 8–10, where he warns against wounding weaker consciences while affirming liberty in Christ. His admonition not to let anyone judge believers regarding food, drink, or festival days echoes Colossians 2:16–17. The claim that nothing is unclean in itself resonates with Jesus’ teaching about foods in Mark 7:18–19.",
+  "seeAlso": [
+    "Isaiah 45:23",
+    "1 Corinthians 8:7-13",
+    "1 Corinthians 10:23-33",
+    "Colossians 2:16-17",
+    "Mark 7:18-19",
+    "2 Corinthians 5:10",
+    "Romans 15:1-3",
+    "Galatians 5:13-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Welcome Without Judging"
+    },
+    {
+      "range": "13-23",
+      "title": "Do Not Cause Stumbling"
+    }
+  ],
+  "themes": [
+    "Unity",
+    "Conscience",
+    "Love over liberty",
+    "Edification",
+    "Divine accountability"
+  ],
+  "practicalQuestions": [
+    "Where might I be despising or judging others over disputable practices rather than welcoming them?",
+    "What freedoms should I temporarily set aside to avoid causing another believer to stumble?",
+    "How can gratitude to God reshape how I handle personal convictions about food, drink, or special days?",
+    "Do my choices promote righteousness, peace, and joy in my community?",
+    "How can I act from faith rather than pressure, doubt, or mere conformity?"
+  ],
+  "uncertainAreas": "The specific “days” in view (Sabbath, fast days, or other festivals) are not identified; the exact sources of concern about meat and wine (kosher issues, idol-food associations, or both) are not specified; and whether “the judgment seat of Christ” versus “of God” reflects a textual variant may affect nuance but not the overall argument.",
+  "createdAt": "2025-11-03T00:39:09.143Z",
+  "modelId": "gpt-5-2025-08-07"
+}

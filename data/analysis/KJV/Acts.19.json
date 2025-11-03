@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Acts.19",
+  "briefOverview": "Paul’s extended ministry in Ephesus brings the Holy Spirit to John’s disciples, displays notable miracles, and triggers a civic riot over the worship of Artemis (Diana). The chapter contrasts genuine apostolic authority with magical practices and shows the gospel’s social and economic impact.",
+  "summary": "Paul meets disciples in Ephesus who know only John’s baptism; he teaches them about Jesus, baptizes them in Jesus’ name, and lays hands on them so they receive the Holy Spirit, speak in tongues, and prophesy. He spends three months in the synagogue and then two years teaching daily in the hall of Tyrannus, spreading the message throughout Asia. God works unusual miracles through Paul, leading to healings even by contact with items he touched; Jewish exorcists attempt to invoke Jesus’ name but are overpowered, prompting public fear and the honoring of Jesus’ name. Many believers confess their practices and burn costly magic books, and the word of God grows. Paul plans to travel through Macedonia and Achaia, go to Jerusalem, and eventually to Rome, sending Timothy and Erastus ahead. A silversmith, Demetrius, incites a riot fearing loss of income from Artemis shrines and the diminishment of her cult; the city clerk quiets the assembly, notes the lack of legal charges, and dismisses them to avoid Roman repercussions.",
+  "externalContext": "Ephesus was the leading city of Roman Asia, famous for the massive Temple of Artemis (Latin: Diana), a major economic and religious center that drew pilgrims and supported artisans. Roman civic order emphasized lawful assemblies and proper legal channels; unauthorized gatherings could invite imperial scrutiny, which helps explain the city clerk’s concern to avoid charges of riot. Jewish exorcists were known in the ancient Mediterranean, and magical papyri attest to syncretistic use of divine names in incantations. Paul’s time in Ephesus is commonly dated to the mid-50s CE during his so-called third missionary journey, and early Christian tradition situates significant evangelistic activity there. The “school of Tyrannus” likely refers to a lecture hall or rented venue used for public instruction.",
+  "externalReferences": "John’s baptism and message about the one to come are echoed in Mark 1:4–8 and Acts 13:24–25. The reception of the Holy Spirit with tongues parallels Pentecost (Acts 2:1–4) and the Gentile outpouring in Caesarea (Acts 10:44–48). Healings by indirect contact recall the woman healed by touching Jesus’ garment (Luke 8:43–48) and earlier apostolic signs such as people seeking Peter’s shadow (Acts 5:15). Paul’s stated intention eventually to go to Rome aligns with his expressed desire in Romans 1:11–15 and is later affirmed by a divine promise in Acts 23:11.",
+  "seeAlso": [
+    "Mark 1:4-8",
+    "Acts 13:24-25",
+    "Acts 2:1-4",
+    "Acts 10:44-48",
+    "Luke 8:43-48",
+    "Acts 5:15",
+    "Romans 1:11-15",
+    "Acts 23:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "John’s Disciples Receive Spirit"
+    },
+    {
+      "range": "8-20",
+      "title": "Public Ministry and Power Encounters"
+    },
+    {
+      "range": "21-41",
+      "title": "Riot over Artemis and Resolution"
+    }
+  ],
+  "themes": [
+    "Holy Spirit reception",
+    "Authority of Jesus’ name",
+    "Repentance and renunciation",
+    "Conflict with idolatry"
+  ],
+  "practicalQuestions": [
+    "Do I distinguish between prior repentance and fuller faith in Christ that welcomes the Holy Spirit’s work today?",
+    "Where might I be relying on formulas or associations rather than a living relationship with Jesus’ authority?",
+    "What practices, habits, or materials should I publicly renounce because they conflict with following Christ?",
+    "How can faith communities act wisely to avoid needless public disorder while remaining faithful to their message?",
+    "In what ways might the gospel challenge local economies or identities, and how should believers respond with integrity?"
+  ],
+  "uncertainAreas": "Whether the initial “disciples” were Christians lacking instruction or solely disciples of John is not explicit. The exact identity and role of Tyrannus and the schedule of Paul’s teaching are unspecified. The phrase about the image “which fell from Jupiter” may refer to a meteorite, but the text does not clarify. The value and currency behind “fifty thousand pieces of silver” are not defined, leaving the precise modern equivalent uncertain.",
+  "createdAt": "2025-11-03T00:23:26.409Z",
+  "modelId": "gpt-5-2025-08-07"
+}

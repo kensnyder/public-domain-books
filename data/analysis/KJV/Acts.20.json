@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.20",
+  "briefOverview": "Paul travels from Greece toward Jerusalem, revives Eutychus at Troas, and delivers a farewell charge to the Ephesian elders at Miletus.",
+  "summary": "After the disturbance in Ephesus, Paul encourages believers in Macedonia and spends three months in Greece before altering plans due to a plot against him. Reuniting with a team of coworkers, he meets disciples in Troas on the first day of the week; during a lengthy sermon, a young man named Eutychus falls from a window and is restored to life through Paul. Paul then continues by sea, bypassing Ephesus to save time, aiming to reach Jerusalem by Pentecost. From Miletus he summons the Ephesian elders and reviews his humble, tearful ministry marked by trials, public and house-to-house teaching, and a message of repentance toward God and faith in Jesus. He declares he is compelled to go to Jerusalem despite Spirit-given warnings of imprisonment, seeks only to finish his course, and states they will not see him again. He charges the elders to shepherd God’s church, warns of future predators and internal distortions, commends them to God and the word of grace, cites his example of self-support and generosity, and recalls Jesus’ saying, “It is more blessed to give than to receive,” before a tearful farewell.",
+  "externalContext": "The chapter follows the riot in Ephesus stirred by Demetrius the silversmith (a major center for Artemis worship), which prompted Paul’s departure (Acts 19). The “Days of Unleavened Bread” and “Pentecost” anchor the narrative in the Jewish festival calendar, explaining Paul’s travel timing. Early Christian gatherings typically met in homes, and Sunday (“the first day of the week”) became a common meeting time for breaking bread. The Ephesian elders are called both elders (presbyteroi) and overseers (episkopoi), reflecting early church leadership roles. Paul’s journey to Jerusalem likely included delivering the Gentile churches’ collection for the poor among the saints in Jerusalem, a major project reflected in his letters (e.g., 1 Corinthians 16; 2 Corinthians 8–9; Romans 15).",
+  "externalReferences": "The Eutychus episode echoes earlier biblical resuscitations: Elijah and Elisha’s actions with deceased children (1 Kings 17:21–22; 2 Kings 4:34–35), and Peter raising Tabitha (Acts 9:36–41). The warning about “wolves” corresponds to Jesus’ teaching about false prophets as wolves (Matthew 7:15) and Paul’s own use of watchman-like responsibility resonates with Ezekiel’s language about being free from another’s blood when faithful to warn (Ezekiel 33:6; cf. Acts 18:6). The first-day gathering and breaking bread align with early Christian practice (1 Corinthians 16:2; Acts 2:42). Paul’s self-support and exhortation to help the weak dovetail with his instructions on working and generosity (2 Thessalonians 3:7–12; Ephesians 4:28), and the Spirit’s forewarning of bonds is shortly confirmed by Agabus (Acts 21:11).",
+  "seeAlso": [
+    "Acts 19:23-41",
+    "Acts 21:11",
+    "Acts 9:36-41",
+    "1 Kings 17:21-22",
+    "2 Kings 4:34-35",
+    "Matthew 7:15",
+    "Ezekiel 33:6",
+    "1 Corinthians 16:2",
+    "2 Thessalonians 3:7-12",
+    "Ephesians 4:28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Journey and Troas Miracle"
+    },
+    {
+      "range": "17-27",
+      "title": "Paul’s Ministry and Resolve"
+    },
+    {
+      "range": "28-38",
+      "title": "Charge to Elders and Farewell"
+    }
+  ],
+  "themes": [
+    "Pastoral oversight",
+    "Perseverance in suffering",
+    "Generosity",
+    "False teaching vigilance",
+    "Gospel proclamation"
+  ],
+  "practicalQuestions": [
+    "How can leaders today imitate Paul’s humility, transparency, and diligence in teaching both publicly and privately?",
+    "What concrete practices help a community watch for and guard against distortions of the gospel?",
+    "Where might I need to prioritize finishing my God-given course over personal safety or comfort?",
+    "In what ways can I work and give to support the weak in my church or city?",
+    "How can our gatherings balance extended teaching, communal meals, and pastoral care as seen in Troas?"
+  ],
+  "uncertainAreas": "Degree of finality in Paul’s statement that they would see his face no more, given later travel traditions; whether Eutychus was truly dead or apparently dead (the text says “taken up dead,” while Paul says “his life is in him”); textual nuance of “the church of God, which he purchased with his own blood” (a well-known textual variant); whether “bound in the spirit” refers to the Holy Spirit specifically or Paul’s human spirit.",
+  "createdAt": "2025-11-03T00:24:21.881Z",
+  "modelId": "gpt-5-2025-08-07"
+}

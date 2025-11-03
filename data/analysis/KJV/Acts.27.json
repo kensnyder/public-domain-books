@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Acts.27",
+  "briefOverview": "Paul’s transfer to Italy is interrupted by a violent storm and shipwreck, during which he provides calm, divinely guided leadership that ensures everyone’s survival.",
+  "summary": "Paul, under the custody of the centurion Julius, boards an Alexandrian ship bound for Italy with companions including Luke and Aristarchus. Despite Paul’s warning that the voyage would be dangerous (after “the Fast,” when sailing was perilous), the crew departs Fair Havens seeking a better winter harbor; a sudden northeaster (“Euroclydon”) drives them into a prolonged storm. After days without sun or stars and loss of hope, Paul reports an angelic assurance that all lives will be spared though the ship will be lost, because he must stand before Caesar. Paul prevents the sailors’ escape, urges everyone to eat, gives thanks to God, and restores morale among the 276 aboard. Soundings show land nearby; anchors are cast through the night. At daylight they attempt to beach the ship, which runs aground and breaks apart; the centurion, wishing to save Paul, stops the soldiers from killing the prisoners, and all reach shore safely on planks or by swimming.",
+  "externalContext": "Alexandrian ships regularly carried Egyptian grain to Italy, crucial for Rome’s food supply, making such vessels large and well-known on Mediterranean routes. “The Fast” likely refers to the Day of Atonement (Yom Kippur) in early autumn; ancient mariners typically avoided open-sea travel from late autumn to spring due to storms and poor visibility. Practices such as undergirding (frapping) a hull with cables, jettisoning cargo, and heaving anchors from the stern were standard emergency measures in ancient seamanship. Roman guards were held strictly responsible for prisoners, which could lead to severe penalties if escape occurred. Ancient “Adria” referred to a broader central Mediterranean region than the modern Adriatic; the island reached is traditionally identified as Malta (clarified in the next chapter).",
+  "externalReferences": "Paul’s assurance that he “must” stand before Caesar echoes earlier promises of divine purpose for his testimony in Rome (Acts 23:11) and his legal appeal to Caesar (Acts 25:11–12). The idiom “not a hair” will perish recalls Jesus’ assurance in Luke 21:18, underscoring God’s protection. The narrative of seafarers delivered from a storm resonates with Psalm 107:23–30 and the Jonah account (Jonah 1:4–16), where divine sovereignty and human response intersect. The guards’ impulse to kill prisoners to prevent escape reflects the severe liability of custodians seen elsewhere (Acts 12:19; 16:27–28).",
+  "seeAlso": [
+    "Acts 23:11",
+    "Acts 25:11-12",
+    "Luke 21:18",
+    "Psalm 107:23-30",
+    "Jonah 1:4-16",
+    "Acts 12:19",
+    "Acts 16:27-28",
+    "2 Corinthians 11:25",
+    "Acts 28:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Voyage to Crete and warning"
+    },
+    {
+      "range": "13-26",
+      "title": "Storm and divine assurance"
+    },
+    {
+      "range": "27-44",
+      "title": "Shipwreck and safe landing"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Leadership in crisis",
+    "Obedience and trust",
+    "Human agency",
+    "Deliverance"
+  ],
+  "practicalQuestions": [
+    "When expert advice and a faith-informed conviction diverge, how should we weigh each in decision-making?",
+    "How can we offer both practical care and spiritual encouragement to steady others in crisis?",
+    "What commitments keep communities together when fear tempts some to abandon ship (literally or figuratively)?",
+    "How do we maintain moral courage to protect vulnerable people when institutional pressures suggest harsher choices?",
+    "What disciplines help us remember God’s purposes when losses (like ship and cargo) are unavoidable?"
+  ],
+  "uncertainAreas": "Whether Paul’s public breaking of bread is a general meal of thanks or intentionally Eucharistic; the exact meteorological identification of “Euroclydon” (often taken as a northeaster); the precise location of the “place where two seas met” and the technical sense of “Adria” in this narrative; and minor textual/interpretive details about the harbor names and the number of persons aboard in manuscript traditions.",
+  "createdAt": "2025-11-03T00:28:54.668Z",
+  "modelId": "gpt-5-2025-08-07"
+}

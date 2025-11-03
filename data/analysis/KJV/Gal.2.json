@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Gal.2",
+  "briefOverview": "Paul defends the Gentile-inclusive gospel and recounts confronting Peter when behavior contradicted that gospel.",
+  "summary": "Paul reports going to Jerusalem after fourteen years with Barnabas and Titus to present his Gentile mission, where leaders added nothing to his message and did not require Titus, a Greek, to be circumcised. He describes resisting pressure from \"false brothers\" who wanted to curtail Christian freedom. James, Cephas, and John recognized his commission to the Gentiles and extended fellowship, urging only remembrance of the poor. Later, in Antioch, Paul publicly opposed Peter for withdrawing from table fellowship with Gentiles out of fear of the circumcision party, leading others, even Barnabas, into hypocrisy. Paul argues that Jews and Gentiles alike are justified not by works of the law but through faith in Jesus Christ, and that rebuilding law-based righteousness would make him a transgressor. He concludes that he has been crucified with Christ and now lives by faith in the Son of God; if righteousness were through law, Christ’s death would be pointless.",
+  "externalContext": "A major first-century controversy concerned whether Gentile believers had to adopt Jewish identity markers—especially circumcision, food laws, and purity regulations—to belong fully to God’s people. Antioch in Syria was a leading mixed Jewish-Gentile church and a base for Paul and Barnabas. Social separation at meals between Jews and Gentiles was a live issue tied to halakhic purity and communal identity. A council in Jerusalem (often dated around AD 49) addressed Gentile inclusion; many scholars see Galatians 2:1–10 as connected to that period, though whether Paul here describes that council or an earlier visit is debated. Early churches also organized relief for impoverished believers in Judea during times of famine.",
+  "externalReferences": "Paul’s account intersects with Acts’ narrative of Gentile inclusion and the Jerusalem Council (Acts 15:1–11) and with Peter’s earlier table fellowship with Gentiles after his vision (Acts 10:9–16; 10:28; 11:2–3). His teaching that “by works of the law no flesh will be justified” parallels Romans 3:20, 28. The language of being crucified with Christ and living a new life aligns with Romans 6:6–11, and the call to remember the poor connects with the collection for the Jerusalem saints (1 Corinthians 16:1–3; 2 Corinthians 8–9; Romans 15:25–27). Paul’s emphasis on freedom from ritual boundary-markers coheres with Ephesians 2:14–16 and Colossians 2:11–17.",
+  "seeAlso": [
+    "Acts 15:1-11",
+    "Acts 10:28",
+    "Acts 11:2-3",
+    "Romans 3:20-28",
+    "Romans 6:6-11",
+    "1 Corinthians 16:1-3",
+    "2 Corinthians 8-9",
+    "Romans 15:25-27",
+    "Ephesians 2:14-16",
+    "Colossians 2:11-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Jerusalem visit and agreement"
+    },
+    {
+      "range": "11-14",
+      "title": "Paul confronts Peter"
+    },
+    {
+      "range": "15-21",
+      "title": "Justification and life in Christ"
+    }
+  ],
+  "themes": [
+    "Justification by faith",
+    "Gentile inclusion",
+    "Apostolic unity and rebuke",
+    "Freedom in Christ"
+  ],
+  "practicalQuestions": [
+    "Where might fear of others’ opinions lead me to act against convictions about the gospel’s inclusivity?",
+    "How should I confront hypocrisy that harms community, and when must such correction be public?",
+    "In what concrete ways can I “remember the poor” as an expression of gospel fellowship?",
+    "Am I subtly rebuilding a performance-based righteousness instead of living by faith in Christ?",
+    "How does my daily life reflect the reality of being “crucified with Christ” and Christ living in me?"
+  ],
+  "uncertainAreas": "Whether the Jerusalem visit in 2:1–10 corresponds to the Acts 15 council or an earlier famine visit remains debated. The identity and exact teachings of the “false brothers” are not specified. The phrase “certain came from James” is ambiguous about James’s intent or authorization. The genitive in “faith of Jesus Christ” (2:16) may be read as faith in Jesus (objective) or the faithfulness of Jesus (subjective), with theological nuances either way. The exact scope of “works of the law” (boundary markers vs. all Mosaic works) is also debated.",
+  "createdAt": "2025-11-03T02:46:23.734Z",
+  "modelId": "gpt-5-2025-08-07"
+}

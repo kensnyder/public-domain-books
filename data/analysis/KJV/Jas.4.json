@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Jas.4",
+  "briefOverview": "James confronts selfish desires, worldly friendship, and presumptuous planning, calling believers to humility, repentance, and dependence on God.",
+  "summary": "James traces community conflicts to uncontrolled desires that corrupt prayer and behavior, warning that friendship with the world makes one God’s enemy. He calls his audience to receive God’s greater grace through humility: submit to God, resist the devil, draw near, cleanse hands and hearts, and mourn over sin so that God may lift them up. He forbids slanderous judgment, insisting that there is one Lawgiver and Judge, and that speaking against a brother amounts to setting oneself over the law. He rebukes arrogant planning by merchants who boast about tomorrow, reminding them that life is a vanishing vapor and that plans should be made with “If the Lord wills.” Finally, he defines the sin of omission: knowing the good and failing to do it is sin.",
+  "externalContext": "This letter is traditionally attributed to James, the brother of Jesus and a leader of the Jerusalem church, and is addressed to dispersed Jewish Christians in the mid–first century. Diaspora communities often included traders and artisans who traveled for commerce, making the scenario of planning year-long business ventures realistic in the Greco-Roman world. Jewish prophetic tradition commonly used the metaphor of adultery for covenant infidelity toward God, providing a backdrop for James’s charge of “adulterers.” Honor and shame dynamics, along with communal tensions, made slander and status-seeking particularly corrosive to early congregations. Common Jewish and early Christian piety included acknowledging God’s will in daily plans, reflected in phrases akin to “If the Lord wills.”",
+  "externalReferences": "James 4:6 cites Proverbs 3:34 (“God resists the proud, but gives grace to the humble”), a line also echoed in 1 Peter 5:5. The warning against boasting about tomorrow parallels Proverbs 27:1 (“Do not boast about tomorrow, for you do not know what a day may bring”), and the brevity of life as a “vapor” resonates with Psalm 39:5–6 and Ecclesiastes 1:2. “Cleanse your hands…purify your hearts” recalls Psalm 24:3–4’s requirement of “clean hands and a pure heart” for approaching God. The assertion that there is one Lawgiver who can save and destroy aligns with Isaiah 33:22 and Deuteronomy 32:39 regarding God’s unique judicial and sovereign authority.",
+  "seeAlso": [
+    "Proverbs 3:34",
+    "1 Peter 5:5-9",
+    "Proverbs 27:1",
+    "Psalm 39:5-6",
+    "Ecclesiastes 1:2",
+    "Psalm 24:3-4",
+    "Isaiah 33:22",
+    "Deuteronomy 32:39",
+    "1 John 2:15-17",
+    "Matthew 6:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Call to Humble Repentance"
+    },
+    {
+      "range": "11-12",
+      "title": "Warning Against Judging"
+    },
+    {
+      "range": "13-17",
+      "title": "Presumption and God’s Will"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Repentance",
+    "Worldliness vs. God",
+    "Speech and judgment",
+    "Dependence on God’s will"
+  ],
+  "practicalQuestions": [
+    "Where are my motives in prayer shaped by self-indulgence rather than God’s purposes?",
+    "In what concrete ways can I submit to God and resist temptation this week?",
+    "How can I replace slander or harsh criticism with obedience to the law of love in my speech?",
+    "Do my plans acknowledge God’s sovereignty, and how can I practice saying and meaning “If the Lord wills”?",
+    "What good do I know to do right now that I have been postponing—and how will I act on it?"
+  ],
+  "uncertainAreas": "Verse 5 (“The spirit that dwelleth in us lusteth to envy?”) is difficult: it’s unclear whether it refers to the human spirit’s envy, God’s Spirit’s jealousy, or a general scriptural principle; translations vary widely. The charge “ye kill” (v.2) could be literal or hyperbolic for murderous hatred; the text does not specify. The scope of “friendship with the world” (v.4) may refer to values and systems opposed to God rather than ordinary social engagement, but the boundaries are not explicitly defined here.",
+  "createdAt": "2025-11-03T03:32:02.105Z",
+  "modelId": "gpt-5-2025-08-07"
+}

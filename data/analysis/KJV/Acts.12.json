@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Acts.12",
+  "briefOverview": "Herod Agrippa I intensifies persecution of the Jerusalem church, executing James and imprisoning Peter, whom God miraculously delivers; Herod later dies under divine judgment as the message continues to spread.",
+  "summary": "Herod kills James the brother of John and arrests Peter during the days of Unleavened Bread, planning to present him publicly afterward. Peter is guarded by four squads of soldiers, while the church prays earnestly for him. An angel frees Peter at night, leading him past guards and an iron gate that opens by itself; Peter then goes to the house of Mary, mother of John Mark, where believers are praying, and after recounting his deliverance, he departs to another place. The guards are executed for the escape, and Herod moves to Caesarea. When the people of Tyre and Sidon seek peace, Herod delivers a public address in royal apparel, receives acclaim as a god, and is struck by an angel for not giving glory to God; he dies. Meanwhile, the word of God grows, and Barnabas and Saul complete their Jerusalem service and return with John Mark.",
+  "externalContext": "“Herod the king” here is Herod Agrippa I (ruled Judea 41–44 CE), grandson of Herod the Great, who sought favor with Jewish leaders by upholding their concerns. The “days of Unleavened Bread” immediately follow Passover; the KJV’s “Easter” in verse 4 translates the Greek Pascha, meaning Passover. Roman custody for high-profile prisoners often used multiple guards; failure to keep a prisoner could incur capital punishment for soldiers, which explains the execution of the keepers. Caesarea Maritima was the Roman administrative capital of Judea, where provincial rulers frequently resided and held public events. Tyre and Sidon depended on Judea’s grain and other supplies, giving Agrippa leverage over them. The Jewish historian Josephus also records Agrippa’s spectacular death at Caesarea after a public appearance in resplendent attire, aligning broadly with Luke’s account (Antiquities 19.8.2).",
+  "externalReferences": "Peter’s angelic release recalls an earlier deliverance of the apostles from prison (Acts 5:18–19). James’s execution echoes Jesus’ prediction that James and John would share his cup of suffering (Mark 10:39). The time marker “days of Unleavened Bread” links to the festival instituted in Exodus (Exodus 12:17–20). Herod’s death for not giving glory to God parallels the biblical theme of divine judgment on prideful rulers, exemplified in Nebuchadnezzar’s humbling (Daniel 4:30–37).",
+  "seeAlso": [
+    "Acts 5:18-19",
+    "Mark 10:39",
+    "Exodus 12:17-20",
+    "Daniel 4:30-37",
+    "Acts 4:3-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Persecution and Arrest of Peter"
+    },
+    {
+      "range": "6-17",
+      "title": "Angelic Deliverance and Report"
+    },
+    {
+      "range": "18-25",
+      "title": "Judgment on Herod; Word Advances"
+    }
+  ],
+  "themes": [
+    "Persecution",
+    "Divine deliverance",
+    "Prayer",
+    "Judgment",
+    "Gospel growth"
+  ],
+  "practicalQuestions": [
+    "How does persistent, communal prayer shape our response to crisis and opposition?",
+    "How do we hold together faith in God’s deliverance with acceptance when some, like James, are not spared?",
+    "Are we attentive enough to recognize and celebrate answered prayer when it comes?",
+    "In positions of influence, how do we resist flattery and give glory to God rather than ourselves?",
+    "What prudent steps can communities take to protect vulnerable members while trusting God’s sovereignty?"
+  ],
+  "uncertainAreas": "The meaning of “It is his angel” (v.15) is unclear—whether a guardian angel, Peter’s spirit, or an idiom for a messenger. The location of the “other place” Peter went (v.17) is unspecified. The sincerity versus political expediency of the crowd’s acclamation of Herod is not stated. The exact medical nature of Herod’s death (“eaten by worms”) cannot be determined from the text alone. The precise timing and scope of Barnabas and Saul’s completed “ministry” in Jerusalem (v.25) are not detailed here.",
+  "createdAt": "2025-11-03T00:17:51.898Z",
+  "modelId": "gpt-5-2025-08-07"
+}

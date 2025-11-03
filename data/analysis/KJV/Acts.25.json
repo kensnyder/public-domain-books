@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Acts.25",
+  "briefOverview": "Paul is tried before Festus, appeals to Caesar, and is presented before King Agrippa as Festus seeks charges to send with him.",
+  "summary": "After arriving in the province, Festus goes to Jerusalem where Jewish leaders press charges against Paul and request his transfer, planning an ambush. Festus keeps the trial in Caesarea; the accusers present unprovable charges, and Paul asserts his innocence against the law, the temple, and Caesar. Seeking to oblige the Jews, Festus asks Paul to be tried in Jerusalem, but Paul invokes his right as a Roman citizen and appeals to Caesar. Days later, King Agrippa and Bernice visit; Festus explains the case, noting it concerns disputes over Jewish religion and Paul’s claim that Jesus, who was dead, is alive. Agrippa agrees to hear Paul, and with great pomp a hearing is convened; Festus admits he has no clear charges to write to the emperor and hopes Agrippa’s examination will clarify matters.",
+  "externalContext": "Porcius Festus succeeded Antonius Felix as Roman governor of Judea around the early 60s CE, with Caesarea as the provincial headquarters. Roman citizens had the right of appeal (provocatio) to the emperor when facing capital charges, which could move a case to Rome. The “judgment seat” (bēma) was the governor’s official tribunal. King Agrippa here is Herod Agrippa II, a client king with expertise in Jewish matters, and Bernice was his sister. At this time the reigning emperor (referred to as “Augustus” in title) was Nero.",
+  "externalReferences": "The chapter assumes earlier events in Acts: Paul’s arrest and hearings under Felix (Acts 21–24), including Felix leaving Paul in custody (Acts 24:27). The renewed ambush request recalls the earlier plot against Paul (Acts 23:12–15). Paul’s appeal to Caesar builds on his Roman citizenship and rights demonstrated previously (Acts 22:25–29). The core dispute—Paul’s claim that Jesus is alive—echoes the resurrection theme central to Paul’s defense (Acts 23:6; Acts 24:21) and his broader preaching (Acts 17:31).",
+  "seeAlso": [
+    "Acts 21:27-40",
+    "Acts 22:25-29",
+    "Acts 23:6",
+    "Acts 23:12-15",
+    "Acts 24:21",
+    "Acts 24:27",
+    "Acts 26:1-8",
+    "Acts 28:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Festus’ first hearing"
+    },
+    {
+      "range": "9-12",
+      "title": "Paul appeals to Caesar"
+    },
+    {
+      "range": "13-27",
+      "title": "Agrippa consults; public hearing"
+    }
+  ],
+  "themes": [
+    "Roman justice",
+    "Political pressure",
+    "Resurrection claim",
+    "Appeal to Caesar",
+    "Innocence"
+  ],
+  "practicalQuestions": [
+    "When is it appropriate to assert legal rights to ensure a fair hearing?",
+    "How can one maintain integrity when facing unprovable accusations?",
+    "What safeguards against bias and political pressure should just decision-makers uphold?",
+    "How do core convictions about Jesus’ resurrection shape public testimony amid scrutiny?",
+    "How can communities seek justice without resorting to manipulation or violence?"
+  ],
+  "uncertainAreas": "Exact dating within Festus’ tenure and the identity of the emperor as Nero are inferred from broader history, not stated in the chapter. The motives behind Festus’ offer to move the trial (political expediency vs. legal prudence) and the full nature of the charges remain partly ambiguous. The description of Agrippa and Bernice’s role and status is drawn from external history rather than explicit in the text.",
+  "createdAt": "2025-11-03T00:27:29.670Z",
+  "modelId": "gpt-5-2025-08-07"
+}

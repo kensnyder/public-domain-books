@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "1Cor.5",
+  "briefOverview": "Paul confronts the Corinthian church for tolerating a scandalous sexual sin and instructs decisive communal discipline to preserve the church’s purity.",
+  "summary": "Paul rebukes the Corinthians for being proud while tolerating a case of incest—a man having his father’s wife—which even Gentiles would condemn. Though absent, he renders judgment and directs the assembled church, in the name and power of Jesus, to deliver the offender to Satan for the destruction of the flesh so that his spirit may be saved on the day of the Lord. He warns that a little leaven leavens the whole lump and urges them to purge the old leaven, since Christ, their Passover, has been sacrificed, calling them to keep the feast with sincerity and truth. Paul clarifies that his earlier instruction not to associate with the sexually immoral did not refer to unbelievers in the world, otherwise believers would have to leave the world entirely. Rather, they must not associate or even eat with anyone who claims to be a brother yet persists in sexual immorality, greed, idolatry, reviling, drunkenness, or extortion. He distinguishes judging those inside the church from those outside—God judges outsiders—and concludes: remove the wicked person from among you.",
+  "externalContext": "Corinth was a prosperous, cosmopolitan Roman city known in antiquity for lax sexual morals, yet Roman law and social norms still stigmatized incestuous unions such as a man taking his father’s wife. In Roman jurisprudence, marriage to a stepmother was prohibited and considered impious, reinforcing Paul’s claim that even Gentiles would not tolerate such behavior. Early Christian communities met in homes and shared meals (including the Lord’s Supper), so the command “not even to eat” signaled serious social and liturgical separation meant to protect the community’s integrity. The imagery of leaven and the “Passover” draws on Jewish festival practice where leaven was removed during Unleavened Bread, symbolizing separation from impurity, now applied to the church’s identity in Christ.",
+  "externalReferences": "Paul’s leaven and Passover imagery echoes Exodus 12:3–20, where Israel removes leaven and sacrifices the lamb; he applies this to Christ as the Passover (1 Corinthians 5:7) and the moral “unleavened” life. The concluding phrase “put away the wicked person” mirrors the Deuteronomic refrain to purge evil from the community (e.g., Deuteronomy 17:7; 19:19; 22:24). Jesus’ instruction on church discipline provides a parallel process of communal responsibility and separation when a member refuses to listen (Matthew 18:15–17), as does Paul’s later guidance to avoid those who disobey apostolic teaching while still hoping for their restoration (2 Thessalonians 3:14–15). The phrase “deliver to Satan” has a close parallel in 1 Timothy 1:20, where discipline aims at corrective instruction rather than destruction.",
+  "seeAlso": [
+    "Exodus 12:3-20",
+    "Deuteronomy 17:7",
+    "Deuteronomy 19:19",
+    "Deuteronomy 22:24",
+    "Matthew 18:15-17",
+    "2 Thessalonians 3:14-15",
+    "1 Timothy 1:20",
+    "Galatians 5:9",
+    "2 Corinthians 2:5-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Discipline the offender"
+    },
+    {
+      "range": "6-8",
+      "title": "Purge the old leaven"
+    },
+    {
+      "range": "9-13",
+      "title": "Judge insiders, not outsiders"
+    }
+  ],
+  "themes": [
+    "Church discipline",
+    "Community purity",
+    "Sin’s contagion",
+    "Judging insiders"
+  ],
+  "practicalQuestions": [
+    "How should a faith community respond when a member persists in serious, public wrongdoing?",
+    "What steps distinguish compassionate restoration from enabling harmful behavior?",
+    "In what ways can “a little leaven” subtly influence a whole community’s standards and practices?",
+    "How should believers relate to nonbelievers engaged in behaviors they reject, while maintaining integrity?",
+    "What does “not even to eat” with an unrepentant member mean in practice in contemporary settings?"
+  ],
+  "uncertainAreas": "The precise meaning of “deliver to Satan” (excommunication alone vs. some form of physical affliction) is debated; the identity and situation of the offender’s “father’s wife” (likely a stepmother) are not fully detailed; the content and timing of Paul’s earlier letter referenced in verse 9 are unknown; and how “present in spirit” operates is not specified.",
+  "createdAt": "2025-11-03T01:13:29.467Z",
+  "modelId": "gpt-5-2025-08-07"
+}

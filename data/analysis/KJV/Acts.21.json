@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Acts.21",
+  "briefOverview": "Paul journeys to Jerusalem despite prophetic warnings, undertakes a temple purification to quell rumors, and is seized by a mob before being rescued and permitted to address the crowd.",
+  "summary": "Sailing from Asia Minor to Syria, Paul visits believers in Tyre and Caesarea, where disciples—prompted by the Spirit—and the prophet Agabus warn that he will be bound in Jerusalem. Paul refuses to be deterred, expressing readiness to suffer or die for Jesus. In Jerusalem he reports to James and the elders what God has done among the Gentiles, and, to counter rumors that he teaches Jews to abandon Moses, he agrees to sponsor four men under a vow and purify himself in the temple. Near the end of the purification period, Jews from Asia accuse Paul of teaching against the people, the law, and the temple, and of bringing a Gentile into the temple—an assumption based on seeing him earlier with Trophimus. A riot erupts; Roman troops intervene, bind Paul, and carry him toward the barracks as the crowd cries, \"Away with him.\" After clarifying he is a Jew from Tarsus and not an Egyptian rebel, Paul receives permission to address the people in the Hebrew language.",
+  "externalContext": "By this time, James (the brother of Jesus) was a leading figure in the Jerusalem church, which included many Jewish believers who remained devoted to the law and temple worship. The temple complex had strict segregation between Jews and Gentiles, with inscriptions warning death to any Gentile who entered restricted areas. Roman soldiers stationed at the Antonia Fortress monitored the temple area and intervened quickly to prevent unrest. Vows that included shaving the head and offerings correspond to practices described in Jewish law and were carried out at the temple. The \"Hebrew tongue\" likely refers to Aramaic, the common spoken language among Judeans in the first century. The \"Egyptian\" rebel mentioned by the commander aligns with a known insurgent noted by contemporary historians, reflecting the volatile political climate.",
+  "externalReferences": "The counsel to Gentile believers to abstain from idol food, blood, things strangled, and sexual immorality reiterates the Jerusalem Council’s decision (Acts 15:28–29). The vow and shaving of heads correspond to regulations for a Nazirite or similar vow in the Torah (Numbers 6:1–21). Agabus previously prophesied a famine (Acts 11:28), lending credibility to his warning about Paul’s impending arrest. The themes of being handed over to Gentiles and the crowd’s cry \"Away with him\" echo scenes from Jesus’ passion (Luke 18:32; John 19:15).",
+  "seeAlso": [
+    "Acts 15:28-29",
+    "Acts 11:28",
+    "Numbers 6:1-21",
+    "Luke 18:32",
+    "John 19:15",
+    "Ephesians 2:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Warnings on the way"
+    },
+    {
+      "range": "15-26",
+      "title": "Report and temple purification"
+    },
+    {
+      "range": "27-40",
+      "title": "Riot, arrest, and permission to speak"
+    }
+  ],
+  "themes": [
+    "Prophetic warning",
+    "Courage amid suffering",
+    "Law observance",
+    "Persecution"
+  ],
+  "practicalQuestions": [
+    "How should we weigh prophetic warnings against a strong sense of calling when the path includes suffering?",
+    "When is it wise to adopt cultural or religious practices to avoid needlessly offending others while keeping core convictions intact?",
+    "What steps can communities take to address rumors and prevent misunderstanding from spiraling into conflict?",
+    "How do we respond when zeal for God’s honor is used to justify unjust treatment of others?",
+    "In what ways might we use our background, language, or citizenship to advance a mission peacefully in tense contexts?"
+  ],
+  "uncertainAreas": "It is ambiguous whether the Spirit’s warnings were prohibitions or predictions meant to prepare Paul; the text records both Spirit-led warnings and Paul’s Spirit-driven resolve. The precise nature of the vow/purification is not specified (often associated with Numbers 6), and the “Hebrew tongue” likely means Aramaic.",
+  "createdAt": "2025-11-03T00:25:02.879Z",
+  "modelId": "gpt-5-2025-08-07"
+}

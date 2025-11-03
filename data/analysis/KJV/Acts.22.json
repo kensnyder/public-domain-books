@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.22",
+  "briefOverview": "Paul defends himself before a Jerusalem crowd by recounting his conversion and divine commission, culminating in his sending to the Gentiles.",
+  "summary": "Addressing the crowd in Hebrew, Paul establishes his Jewish credentials, education under Gamaliel, and former zeal in persecuting Christians. He narrates his Damascus road encounter with Jesus of Nazareth, his temporary blindness, and healing through Ananias, who announced Paul’s calling to witness to all people and urged him to be baptized. Paul describes a later vision in the Jerusalem temple, where the Lord told him to leave because his testimony would not be received, and commissioned him to the Gentiles. At the mention of Gentiles, the crowd erupts, demanding his death. The Roman commander orders Paul examined by scourging, but Paul invokes his Roman citizenship, halting the proceedings. Alarmed, the authorities withdraw from illegal action and the commander arranges a hearing before the Jewish council the next day.",
+  "externalContext": "This episode occurs in Roman-ruled Jerusalem, where the Antonia Fortress overlooked the temple complex and housed the garrison that intervened in disturbances. Speaking “in the Hebrew tongue” likely means Aramaic, the common language among Jews in Judea. Roman citizens held legal protections, including exemption from scourging without trial (a serious violation with penalties for officials). Gamaliel was a prominent Pharisaic teacher, signaling Paul’s rigorous training and credibility within mainstream Judaism.",
+  "externalReferences": "Paul’s conversion story parallels earlier accounts (Acts 9:1–19) and later retellings (Acts 26:12–18), with variations in detail suited to each audience. Paul’s reference to Stephen’s martyrdom and his own complicity recalls Acts 7:58–60 and Acts 8:1. The title “the Just One” (the Righteous One) for Jesus echoes apostolic usage (Acts 3:14; Acts 7:52). The call to “invoke the name of the Lord” in connection with baptism resonates with Joel 2:32, as cited in Acts 2:21 and later in Romans 10:13, and Paul’s assertion of citizenship echoes his earlier defense in Philippi (Acts 16:37–39).",
+  "seeAlso": [
+    "Acts 9:1-19",
+    "Acts 26:12-18",
+    "Acts 7:58-60",
+    "Acts 8:1",
+    "Acts 3:14",
+    "Acts 7:52",
+    "Acts 9:15",
+    "Acts 16:37-39",
+    "Joel 2:32",
+    "Acts 2:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-21",
+      "title": "Paul’s Hebrew defense and call"
+    },
+    {
+      "range": "22-24",
+      "title": "Crowd’s outrage at Gentiles"
+    },
+    {
+      "range": "25-30",
+      "title": "Citizenship asserted; council convened"
+    }
+  ],
+  "themes": [
+    "Conversion",
+    "Witness",
+    "Divine calling",
+    "Gentile inclusion",
+    "Legal protection"
+  ],
+  "practicalQuestions": [
+    "How can I share my story in language and terms my audience understands, as Paul did?",
+    "Do I acknowledge past wrongs honestly to give weight to my testimony?",
+    "Where might obedience require me to go when my message is rejected in familiar places?",
+    "How should I steward legal or civic rights ethically to protect justice and further the mission?",
+    "What does “calling on the name of the Lord” alongside baptism suggest for my response to God’s call?"
+  ],
+  "uncertainAreas": "The relation between Acts 22:9 and Acts 9:7 about companions hearing/not understanding the voice is interpretively debated. The precise nuance of “Hebrew tongue” (Hebrew vs. Aramaic) is not explicit. The theological relationship between baptism, forgiveness, and “calling on the name of the Lord” in v.16 invites diverse interpretations.",
+  "createdAt": "2025-11-03T00:25:41.041Z",
+  "modelId": "gpt-5-2025-08-07"
+}

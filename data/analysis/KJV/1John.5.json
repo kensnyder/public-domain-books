@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "1John.5",
+  "briefOverview": "John ties belief in Jesus as God’s Son to love, obedience, and victorious faith, grounding assurance in God’s own testimony. He concludes with confidence in prayer, sober guidance about sin, and a final warning against idolatry.",
+  "summary": "John teaches that everyone who believes Jesus is the Christ is born of God, and true love for God shows itself in loving His children and keeping His commands, which are not burdensome. Those born of God overcome the world through faith in Jesus, the Son of God. Jesus is affirmed by “water and blood,” with the Spirit bearing witness; God’s testimony about His Son grants believers the assurance of eternal life in Him. Because of this assurance, believers may pray confidently according to God’s will, including intercession for a brother committing sin “not unto death,” though there is a “sin unto death” for which John does not urge prayer. He adds that the one born of God does not continue in sin, that the evil one does not touch such a person, that believers belong to God while the world lies in wickedness, and that the Son of God has given understanding to know the true God and eternal life; the letter closes with “keep yourselves from idols.”",
+  "externalContext": "1 John likely addresses late first-century Christians in or around Asia Minor facing internal division and false teaching, including claims denying Jesus’ full incarnation (often associated with early docetic or proto-Gnostic ideas). The emphasis on Jesus coming “by water and blood” counters tendencies to accept Jesus’ ministry (e.g., baptism) while rejecting the salvific significance of his death. The KJV wording in 1 John 5:7 (“three that bear record in heaven…”) reflects a later addition known as the Comma Johanneum; it is absent from the earliest Greek manuscripts and most modern translations. Early Christians in the Greco-Roman world also navigated pervasive idolatry in civic, domestic, and commercial life, making the closing warning against idols pastorally urgent.",
+  "externalReferences": "John’s Gospel supplies close parallels: blood and water at Jesus’ crucifixion (John 19:34) illuminate “water and blood,” and promises about prayer in Jesus’ name clarify confidence in asking according to God’s will (John 14:13–14; John 15:7). The Johannine theme that life is in the Son and that knowing the true God is eternal life echoes John 17:3. The witness of the Spirit to believers resonates with Romans 8:16, where the Spirit bears witness with our spirit that we are God’s children. Becoming God’s children by faith aligns with John 1:12–13.",
+  "seeAlso": [
+    "John 19:34",
+    "John 14:13-14",
+    "John 15:7",
+    "John 17:3",
+    "Romans 8:16",
+    "John 1:12-13",
+    "1 Corinthians 10:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Faith that Overcomes"
+    },
+    {
+      "range": "6-12",
+      "title": "Witness about the Son"
+    },
+    {
+      "range": "13-21",
+      "title": "Assurance, Sin, and Final Warning"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Obedience",
+    "Divine testimony",
+    "Eternal life",
+    "Assurance in prayer"
+  ],
+  "practicalQuestions": [
+    "How does my love for God show itself in concrete obedience to His commands and love for fellow believers?",
+    "In what ways can I align my prayers with God’s will to pray with the confidence John describes?",
+    "How should I intercede for a fellow believer caught in sin, and when should I seek additional wisdom from the community’s leaders?",
+    "What forms of idolatry (loyalties or desires that rival God) might be present in my habits, work, or culture?",
+    "How does trusting God’s testimony about His Son shape my assurance of eternal life and my daily resilience against the world’s pull?"
+  ],
+  "uncertainAreas": "The meaning of “came by water and blood” (v.6) is debated: possibilities include Jesus’ baptism and crucifixion, the sacraments (baptism and Eucharist), or a general affirmation of his real, incarnate life and death. The identity of the “sin unto death” (vv.16–17) is unclear; interpretations range from persistent, unrepentant apostasy to specific grave offenses. The statement that the one born of God “sinneth not” (v.18) can mean either not continuing in willful sin or being guarded from sin’s dominion; the phrase “he that is begotten of God keepeth himself” is also textually and interpretively disputed (believer’s self-guarding vs. the Son protecting the believer). Additionally, the Trinitarian formula in v.7 (Comma Johanneum) is widely considered a later scribal addition in most critical editions.",
+  "createdAt": "2025-11-03T03:40:35.579Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Rom.5",
+  "briefOverview": "Paul explains the present benefits of justification by faith and contrasts Adam’s trespass with Christ’s righteous act.",
+  "summary": "Being justified by faith brings peace with God through Jesus, access into grace, and joyful hope of God’s glory. Believers can even rejoice in tribulations, since suffering produces perseverance, proven character, and hope, confirmed by God’s love poured into their hearts through the Holy Spirit. God’s love is demonstrated in that Christ died for the ungodly while they were still sinners and enemies, bringing reconciliation; therefore the reconciled will be saved from wrath and saved by his life. Paul then traces the entry of sin and death into the world through one man, Adam, so that death reigned even before the Mosaic law. In contrast, God’s grace and the gift of righteousness overflow through one man, Jesus Christ, leading to life and justification for many. The law later entered so that trespass might increase, yet where sin increased, grace abounded even more, so that grace might reign through righteousness to eternal life through Jesus Christ.",
+  "externalContext": "Romans was likely written by Paul from Corinth in the mid-50s CE to a mixed Jewish–Gentile congregation in Rome. First-century believers often faced social pressure and occasional localized suffering, which lends concreteness to rejoicing in tribulations. Paul’s discussion of Adam reflects Jewish readings of Genesis as foundational for understanding sin and mortality. References to the Spirit being given resonate with early Christian conviction about the outpouring of the Spirit after Pentecost and its experiential assurance for believers.",
+  "externalReferences": "Paul’s Adam–Christ contrast echoes Genesis 3 (the Fall) and is closely paralleled in 1 Corinthians 15:21–22, 45–49, where Adam and Christ are presented as two representative heads of humanity. The portrayal of Christ’s death for sinners aligns with Isaiah 53:3–5’s suffering servant who bears iniquities, and with Paul’s reconciliation language in 2 Corinthians 5:18–21. Paul’s claim that the law increases trespass is developed further in Romans 7:7–13 and aligns with Galatians 3:19–24 on the law’s provisional role. The chain from tribulation to hope finds a New Testament parallel in James 1:2–4, and deliverance from wrath echoes 1 Thessalonians 1:10.",
+  "seeAlso": [
+    "Genesis 3:1-24",
+    "1 Corinthians 15:21-22",
+    "1 Corinthians 15:45-49",
+    "Isaiah 53:3-5",
+    "Galatians 3:19-24",
+    "Romans 7:7-13",
+    "James 1:2-4",
+    "1 Thessalonians 1:10",
+    "2 Corinthians 5:18-21",
+    "Romans 3:24-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Peace, Hope, and Suffering"
+    },
+    {
+      "range": "12-14",
+      "title": "Adam to Moses: Death"
+    },
+    {
+      "range": "15-21",
+      "title": "Adam and Christ Contrasted"
+    }
+  ],
+  "themes": [
+    "Justification by faith",
+    "Reconciliation",
+    "Suffering to hope",
+    "Adam and Christ",
+    "Grace over sin"
+  ],
+  "practicalQuestions": [
+    "How does the reality of peace with God shape my response to current anxieties or conflicts?",
+    "Where have recent hardships produced perseverance and character rather than bitterness in me?",
+    "What practices help me attend to the Spirit’s witness of God’s love in my heart?",
+    "In what ways do I still rely on “law-keeping” for worth, instead of receiving the gift of righteousness?",
+    "How can I actively rejoice in God, not merely in his benefits, amid trials?"
+  ],
+  "uncertainAreas": "The scope of “all” in verses 18–19 (universal provision vs. universal application) is debated. The meaning of “sin is not imputed when there is no law” (v.13) and how death reigned “even over those who had not sinned in the likeness of Adam” (v.14) raise questions about culpability, infants, and pre-Mosaic peoples. The phrase “saved by his life” (v.10) could mean salvation through Christ’s resurrected life, his ongoing intercession, or the believer’s participation in his life; the text suggests assurance but leaves specifics open.",
+  "createdAt": "2025-11-03T00:32:55.018Z",
+  "modelId": "gpt-5-2025-08-07"
+}

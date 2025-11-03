@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.13",
+  "briefOverview": "The Spirit commissions Barnabas and Saul, initiating a mission that moves from synagogues to Gentiles as Paul proclaims Jesus’ resurrection and justification by faith.",
+  "summary": "In Antioch (Syria), prophets and teachers fast and pray, and the Holy Spirit sets apart Barnabas and Saul, who are sent off with laying on of hands. They travel to Cyprus, where Paul confronts the sorcerer Elymas, who is struck blind; the proconsul Sergius Paulus believes. Moving to Pamphylia, John (Mark) departs, and Paul and Barnabas proceed to Pisidian Antioch, where Paul delivers a synagogue sermon tracing Israel’s history to Jesus, asserting his resurrection as fulfillment of Scripture and offering forgiveness and justification by faith beyond the law of Moses. Some Jews and many God-fearing Gentiles respond positively, but opposition arises from others, leading Paul and Barnabas to declare a turn to the Gentiles. Many Gentiles rejoice and believe, the message spreads, and despite persecution and expulsion, the disciples remain joyful and filled with the Holy Spirit.",
+  "externalContext": "Antioch in Syria was a major hub of early Christian mission and included leaders identified as prophets and teachers. Synagogue services typically featured readings from the Law and the Prophets followed by invited exhortations, providing a platform for visiting teachers like Paul. Cyprus, Barnabas’s home island, was a Roman senatorial province administered by a proconsul (rendered “deputy” in KJV), matching the title given to Sergius Paulus. God-fearers and proselytes were Gentiles associated with synagogues to varying degrees, explaining the mixed audience and strong Gentile response. Herod the tetrarch refers to Herod Antipas, indicating the chapter’s network of figures recognizable in the broader first-century Judean and Roman context.",
+  "externalReferences": "Paul’s sermon quotes Psalm 2:7 (“Thou art my Son; this day have I begotten thee”), applies Isaiah 55:3 (“the sure mercies of David”), and cites Psalm 16:10 (“Thou shalt not suffer thine Holy One to see corruption”) to argue the resurrection fulfills Scripture. His warning echoes Habakkuk 1:5 (in line with the Septuagint wording), cautioning hearers against unbelief. The turn to Gentiles is justified by Isaiah 49:6 (“a light to the Gentiles… unto the ends of the earth”). References to John the Baptist align with his testimony and humility in passages like Luke 3:16 and John 1:20, 27.",
+  "seeAlso": [
+    "Psalm 2:7",
+    "Isaiah 55:3",
+    "Psalm 16:10",
+    "Habakkuk 1:5",
+    "Isaiah 49:6",
+    "Deuteronomy 7:1",
+    "Luke 3:16",
+    "John 1:20-27",
+    "Acts 1:8",
+    "Acts 4:36"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Commissioning at Antioch"
+    },
+    {
+      "range": "4-12",
+      "title": "Cyprus: Elymas Opposed"
+    },
+    {
+      "range": "13-52",
+      "title": "Pisidian Antioch: Sermon and Response"
+    }
+  ],
+  "themes": [
+    "Resurrection",
+    "Prophetic fulfillment",
+    "Justification by faith",
+    "Mission to Gentiles",
+    "Holy Spirit guidance"
+  ],
+  "practicalQuestions": [
+    "How can a community discern and commission people for specific work through prayer, fasting, and shared spiritual insight?",
+    "When facing opposition or misrepresentation, what does bold yet measured confrontation look like?",
+    "How should Scripture shape the way we present the gospel to different audiences?",
+    "What does it mean practically to prioritize grace and faith over reliance on religious law or performance?",
+    "How do we respond when some reject the message—persist, pivot to receptive groups, or both?"
+  ],
+  "uncertainAreas": "The precise sense of “as many as were ordained to eternal life believed” (v.48) is debated and not resolved within the chapter. The chronological reference to “about four hundred and fifty years” (v.20) has interpretive complexities regarding its starting and ending points. The scope of “the Jews” in opposition (v.45, 50) may indicate certain leaders or groups rather than all Jewish people. Identifying “John” unequivocally as John Mark is likely but not explicitly stated here.",
+  "createdAt": "2025-11-03T00:18:33.638Z",
+  "modelId": "gpt-5-2025-08-07"
+}

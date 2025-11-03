@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Titus.2",
+  "briefOverview": "Paul directs Titus to teach conduct that aligns with sound doctrine, showing how God’s grace shapes virtuous lives across social groups.",
+  "summary": "Titus is told to teach what accords with sound doctrine and to guide different groups in the community: older men to be sober and steadfast; older women to live reverently and train younger women in love, chastity, and household stewardship; young men to be self-controlled; and slaves to be obedient, honest, and faithful so that the teaching about God is adorned by their lives.\nTitus himself must model good works, integrity in teaching, and sound speech so critics have no valid accusation.\nThe theological basis is that God’s grace has appeared, bringing salvation and instructing believers to renounce ungodliness and live sober, righteous, godly lives while awaiting the blessed hope and the appearing of the glory of the great God and our Savior Jesus Christ.\nChrist gave himself to redeem from lawlessness and to purify a people as his own possession, zealous for good works.\nTitus is to speak, exhort, and rebuke with full authority, not allowing anyone to disregard him.",
+  "externalContext": "This letter belongs to the Pastoral Epistles, addressed to ministry coworkers (here, Titus) who oversaw churches, likely on Crete, a Mediterranean island with a reputation in antiquity for moral laxity and social instability. Early Christian leaders often employed and adapted Roman “household codes” to present the church as socially responsible and to protect the community from slander. Slavery was a widespread institution in the Roman Empire; exhortations to enslaved persons addressed how believers could live faithfully within existing structures without endorsing the system itself. The language of “appearing” (epiphaneia) resonated in the Greco-Roman world, where divine or imperial epiphanies were proclaimed; the letter reframes this for God’s grace and Christ’s future glory.",
+  "externalReferences": "Parallel household instructions appear in Ephesians 5:22–6:9 and Colossians 3:18–4:1, and the concern that God’s word not be blasphemed echoes 1 Timothy 6:1–2. The call for good works that “adorn” teaching resonates with Matthew 5:16, where visible deeds glorify the Father. The phrase “a people for his own possession” parallels Deuteronomy 7:6 and is echoed in 1 Peter 2:9, while redemption “from all iniquity” recalls Psalm 130:8.",
+  "seeAlso": [
+    "Ephesians 5:22-6:9",
+    "Colossians 3:18-4:1",
+    "1 Timothy 6:1-2",
+    "1 Peter 2:9",
+    "1 Peter 2:18",
+    "Matthew 5:16",
+    "Deuteronomy 7:6",
+    "Psalm 130:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Conduct for Every Group"
+    },
+    {
+      "range": "11-14",
+      "title": "Grace, Redemption, and Hope"
+    },
+    {
+      "range": "15",
+      "title": "Charge to Teach with Authority"
+    }
+  ],
+  "themes": [
+    "Sound doctrine",
+    "Self-control",
+    "Good works",
+    "Redemption",
+    "Hope"
+  ],
+  "practicalQuestions": [
+    "How can my daily conduct make the gospel more credible to skeptics around me?",
+    "Where do I need to practice greater self-control in light of God’s grace?",
+    "How can older and younger believers in my community intentionally learn from one another?",
+    "In my workplace, what does integrity look like when I am under authority?",
+    "How does hope in Christ’s appearing shape my choices and priorities today?"
+  ],
+  "uncertainAreas": "The grammar of 2:13 (“the great God and our Saviour Jesus Christ”) is debated regarding whether it explicitly identifies Jesus as “our great God,” and how the household and slavery instructions translate into modern social structures requires careful, context-aware application.",
+  "createdAt": "2025-11-03T03:17:46.715Z",
+  "modelId": "gpt-5-2025-08-07"
+}

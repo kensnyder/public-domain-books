@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "1Cor.15",
+  "briefOverview": "Paul defends the reality and centrality of the resurrection, grounding it in eyewitness testimony and explaining its implications for believers and the end of death.",
+  "summary": "Paul reminds the Corinthians of the gospel he preached: Christ died for sins, was buried, rose on the third day, and appeared to many witnesses, including Peter, the Twelve, over five hundred, James, and Paul himself. He argues that if there is no resurrection, then Christ is not raised, faith is futile, sins remain, and the dead in Christ are lost; but Christ has indeed been raised as the firstfruits, guaranteeing the resurrection of those who belong to him. He contrasts Adam and Christ: death came through Adam, resurrection through Christ, each in proper order, culminating in Christ subduing every power and handing the kingdom to the Father, with death as the last enemy destroyed. Paul notes perplexing practices like being baptized for the dead and points to his own dangers as pointless if there is no resurrection, urging moral sobriety. He addresses how the dead are raised using the seed analogy: the sown natural, perishable body is raised a spiritual, imperishable, glorious, powerful body, bearing the image of the heavenly. He unveils a mystery: at the last trumpet the dead will be raised imperishable and the living transformed, so that death is swallowed up in victory; sin’s sting and the law’s power are overcome through Christ. He concludes by exhorting steadfast, abounding labor in the Lord, knowing it is not in vain.",
+  "externalContext": "Corinth was a cosmopolitan Greco-Roman city where many were influenced by philosophies that often rejected a bodily resurrection, favoring immortality of the soul or skepticism about an afterlife. Within Second Temple Judaism, the Pharisees affirmed bodily resurrection while the Sadducees denied it, making the topic contested in the wider Jewish milieu. Verses 3–5 likely preserve an early Christian creed transmitted orally within a few years of Jesus’ death, emphasizing death, burial, resurrection, and appearances. The language of “firstfruits” draws on Jewish agricultural and festival concepts, signaling that Christ’s resurrection inaugurates a larger harvest of resurrection.",
+  "externalReferences": "Paul explicitly cites Scripture about death’s defeat (Isaiah 25:8) and taunts death with language from Hosea (Hosea 13:14). The subjection of all things under Christ echoes Psalm 8:6, and the Adam typology recalls Genesis 2:7. His line “let us eat and drink, for tomorrow we die” quotes Isaiah 22:13 to illustrate the implication of denying resurrection. The “firstfruits” imagery resonates with Leviticus 23:10–11, and Paul’s own seeing of the risen Christ corresponds to the Damascus Road account (Acts 9:3–6).",
+  "seeAlso": [
+    "Isaiah 25:8",
+    "Hosea 13:14",
+    "Psalm 8:6",
+    "Genesis 2:7",
+    "Isaiah 22:13",
+    "Leviticus 23:10-11",
+    "Romans 5:12-21",
+    "Philippians 3:20-21",
+    "1 Thessalonians 4:13-18",
+    "Acts 9:3-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Gospel and Eyewitnesses"
+    },
+    {
+      "range": "12-34",
+      "title": "Necessity of Resurrection"
+    },
+    {
+      "range": "35-58",
+      "title": "Nature and Final Victory"
+    }
+  ],
+  "themes": [
+    "Resurrection",
+    "Witness",
+    "Victory over death",
+    "Transformation",
+    "Christ’s reign"
+  ],
+  "practicalQuestions": [
+    "How does belief in bodily resurrection reshape my priorities, risks, and perseverance in service?",
+    "What practices can help me remain steadfast and “unmoveable” when I face doubt or cultural pressure?",
+    "Whose voices most shape my morals—do I need to distance from influences that corrupt good conduct?",
+    "How can I ground my faith in the gospel’s core—Christ’s death, burial, and resurrection—and its eyewitness testimony?",
+    "In what ways can I live now as one who will “bear the image of the heavenly”?",
+    "How does the promise that labor in the Lord is not in vain motivate my daily work and ministry?"
+  ],
+  "uncertainAreas": "The meaning of “baptized for the dead” (v. 29) is unclear and debated; whether “fought with beasts at Ephesus” (v. 32) is literal or metaphorical; the scope of “all” in v. 22; and the precise manner of the Son’s subjection to the Father in vv. 24–28.",
+  "createdAt": "2025-11-03T01:19:23.560Z",
+  "modelId": "gpt-5-2025-08-07"
+}

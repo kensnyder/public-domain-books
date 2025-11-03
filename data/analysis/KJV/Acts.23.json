@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Acts.23",
+  "briefOverview": "Paul’s examination before the Sanhedrin erupts over the issue of resurrection, leading to Roman intervention. A divine assurance of future testimony in Rome coincides with an uncovered assassination plot and Paul’s transfer to Caesarea under guard.",
+  "summary": "Paul addresses the council claiming a clear conscience; the high priest Ananias orders him struck, prompting Paul’s rebuke and then his acknowledgment of Scripture’s command not to malign a ruler. Perceiving the council’s split, Paul declares he is on trial for the hope of the resurrection, which ignites a dispute between Sadducees and Pharisees that forces the Roman tribune to remove him for safety. That night, the Lord tells Paul he will also bear witness in Rome. More than forty conspirators vow to kill Paul, but his nephew warns the tribune, who arranges a large nocturnal escort to move Paul to Caesarea. The tribune’s letter to Governor Felix frames the case as a matter of Jewish law without capital charges; Felix agrees to hear the case when the accusers arrive and keeps Paul in Herod’s praetorium.",
+  "externalContext": "The Sanhedrin was the highest Jewish council in Jerusalem, composed of priests (often associated with the Sadducees), elders, and scribes, with Pharisees also represented. Sadducees generally denied the resurrection and the existence of angels/spirits, while Pharisees affirmed them; this doctrinal divide is reflected in the chapter. Ananias son of Nedebaeus served as high priest in the mid-first century and was criticized in later sources for harshness and corruption. Claudius Lysias was a Roman tribune (chiliarch), responsible for order in the Antonia fortress, and Roman officials were obligated to protect citizens and move serious cases to the proper jurisdiction. Caesarea Maritima was the Roman administrative capital of Judea, and Antipatris lay along the main road between Jerusalem and Caesarea. Antonius Felix governed Judea under the emperor Claudius and later Nero; hearings before him reflect standard Roman provincial procedure.",
+  "externalReferences": "Paul cites Exodus 22:28 (“You shall not speak evil of a ruler of your people”) when he realizes he addressed the high priest harshly. His appeal to the resurrection resonates with Jewish scriptural and intertestamental hope (e.g., Daniel 12:2; see also 2 Maccabees 7), and the Pharisees’ remark about a “spirit or an angel” connects to Paul’s claimed heavenly encounter (Acts 22:6–11). The promise that Paul will testify in Rome echoes the programmatic spread of witness in Acts (Acts 1:8) and aligns with Paul’s earlier resolve to go to Rome (Acts 19:21).",
+  "seeAlso": [
+    "Exodus 22:28",
+    "Daniel 12:2",
+    "Acts 22:6-11",
+    "Acts 22:25-29",
+    "Acts 9:23-25",
+    "Acts 19:21",
+    "Acts 1:8",
+    "Acts 24:1-27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Sanhedrin Conflict Erupts"
+    },
+    {
+      "range": "11-22",
+      "title": "Divine Assurance and Plot"
+    },
+    {
+      "range": "23-35",
+      "title": "Transfer to Felix in Caesarea"
+    }
+  ],
+  "themes": [
+    "Resurrection hope",
+    "Conscience and law",
+    "Divine providence",
+    "Prudent strategy",
+    "Witness to Rome"
+  ],
+  "practicalQuestions": [
+    "How should I respond when authorities act unjustly, while still honoring legitimate authority?",
+    "When is it wise to clarify common ground and differences to defuse or reframe a conflict?",
+    "How can I maintain a clear conscience under accusation or misunderstanding?",
+    "What lawful protections or rights should I appropriately use to safeguard my mission and integrity?",
+    "How might God’s promises sustain courage when facing plots, opposition, or legal jeopardy?"
+  ],
+  "uncertainAreas": "Paul’s statement that he did not know the speaker was the high priest (v. 5) could be literal (he truly did not recognize him or the session was irregular) or rhetorical; the text does not clarify. The tribune’s letter slightly reshapes the sequence of learning Paul’s citizenship compared to the previous chapter, possibly for official presentation—how exact this is remains uncertain. “The Lord” who stood by Paul (v. 11) is taken by many as the risen Jesus, but the chapter itself simply says “the Lord.” The fate of the forty conspirators’ vow is not reported.",
+  "createdAt": "2025-11-03T00:26:14.330Z",
+  "modelId": "gpt-5-2025-08-07"
+}

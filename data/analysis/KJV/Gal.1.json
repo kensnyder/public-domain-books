@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Gal.1",
+  "briefOverview": "Paul rebukes the Galatians for turning to a distorted message and defends the divine origin and independence of his gospel and apostleship.",
+  "summary": "Paul greets the churches, affirming that Christ gave himself for sins to deliver believers from the present evil age. He expresses astonishment that they are quickly deserting the grace of Christ for a different “gospel,” declaring a curse on anyone—even an apostle or an angel—who preaches a contrary message. He insists he is not seeking to please people but to serve Christ. Paul states that his gospel is received by revelation from Jesus Christ, not from human teaching. He recalls his former zeal in persecuting the church and advancing in Jewish traditions, but says God called him by grace to preach to the Gentiles. Without consulting the Jerusalem apostles initially, he went to Arabia and back to Damascus; only after three years did he visit Peter for fifteen days and see James, and the Judean churches, though not knowing him by face, glorified God because the one who persecuted them now preached the faith he once tried to destroy.",
+  "externalContext": "Galatia refers to a region in central Anatolia (modern Turkey) with several cities where Paul founded churches during his missionary work in the mid-first century. A major early-Christian controversy concerned whether Gentile converts must adopt Jewish practices (such as circumcision and dietary laws) to be fully included in God’s people; agitators urging such requirements often troubled Paul’s Gentile congregations. Paul’s appeal to a curse reflects the Jewish scriptural tradition of covenantal blessings and curses and the seriousness of false prophecy or teaching. “Arabia” in this period commonly referred to Nabataean territory south and east of Damascus. Letters like Galatians are among the earliest Christian documents and were written to guide and correct emerging congregations.",
+  "externalReferences": "Paul’s account of persecution and calling parallels Acts 9:1–30 and his reflections in 1 Corinthians 15:8–10 and Philippians 3:4–6. His language of being set apart from the womb echoes prophetic call narratives (Jeremiah 1:5; Isaiah 49:1). His warning against a different gospel resonates with 2 Corinthians 11:4 and invokes the Deuteronomy 13:1–5 principle against messages that lead people astray. The founding of churches in the Galatian region is narrated in Acts 13–14, providing background for the communities addressed here.",
+  "seeAlso": [
+    "Acts 9:1-30",
+    "Acts 13:13-52",
+    "Acts 14:1-28",
+    "1 Corinthians 15:8-10",
+    "Philippians 3:4-6",
+    "Jeremiah 1:5",
+    "Isaiah 49:1",
+    "2 Corinthians 11:4",
+    "Deuteronomy 13:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Greeting and Gospel Core"
+    },
+    {
+      "range": "6-10",
+      "title": "Rebuke of Another Gospel"
+    },
+    {
+      "range": "11-24",
+      "title": "Paul’s Call and Independence"
+    }
+  ],
+  "themes": [
+    "Apostolic authority",
+    "One gospel",
+    "Divine calling",
+    "Grace",
+    "Conversion"
+  ],
+  "practicalQuestions": [
+    "How can we discern when a teaching subtly distorts the core gospel we first received?",
+    "In what ways might the desire to please people compromise faithfulness to Christ’s message?",
+    "How does Paul’s transformation from persecutor to preacher challenge our assumptions about who can be called by grace?",
+    "What safeguards can a community use to evaluate claims of authority or revelation?",
+    "Where might we need to recover the primacy of grace over human traditions or credentials?"
+  ],
+  "uncertainAreas": "The exact geographic scope of “Arabia,” the timeline details of Paul’s early movements, and whether the letter targets northern or southern Galatia remain debated among scholars.",
+  "createdAt": "2025-11-03T02:45:57.287Z",
+  "modelId": "gpt-5-2025-08-07"
+}

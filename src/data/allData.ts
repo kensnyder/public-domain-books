@@ -70,7 +70,43 @@ export const works = [
     ]
   }
 ];
-
+const w = works;
+export const worksLookup : Record<string, (typeof w)[number]> = {
+  "THE HOLY BIBLE": w[0],
+  KJV: w[0],
+  BIBLE: w[0],
+  "HOLY BIBLE": w[0],
+  "THE HOLY BIBLE APOCRYPHA": w[1],
+  KJVA: w[1],
+  "KING JAMES APOCRYPHA": w[1],
+  "TESTAMENTS OF THE TWELVE PATRIARCHS": w[2],
+  T12PATR: w[2],
+  "THE TESTAMENTS OF THE TWELVE PATRIARCHS": w[2],
+  "TESTAMENT OF THE TWELVE PATRIARCHS": w[2],
+  "TESTAMENT OF THE 12 PATRIARCHS": w[2],
+  "TESTAMENTS OF THE 12 PATRIARCHS": w[2],
+  "12 PATRIARCHS": w[2],
+  "THE 12 PATRIARCHS": w[2],
+  "THE TWELVE PATRIARCHS": w[2],
+  "T 12 PATRIARCHS": w[2],
+  "12 PATR": w[2],
+  DIDACHE: w[3],
+  "THE DIDACHE": w[3],
+  "THE BOOK OF MORMON": w[4],
+  BOFM: w[4],
+  BOM: w[4],
+  "BOOK OF MORMON": w[4],
+  "PEARL OF GREAT PRICE": w[5],
+  PGP: w[5],
+  "THE PEARL OF GREAT PRICE": w[5],
+  PGOP: w[5],
+  "DOCTRINE AND COVENANTS": w[6],
+  "D&C": w[6],
+  "D AND C": w[6],
+  "THE DOCTRINE & COVENANTS": w[6],
+  "DOCTRINE & COVENANTS": w[6],
+  "THE DOCTRINE AND COVENANTS": w[6],
+};
 export const books = [
   {
     "workOsisID": "KJV",
@@ -211,8 +247,7 @@ export const books = [
       "Bible"
     ],
     "aliases": [
-      "Josh",
-      "Jsh"
+      "Josh"
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
@@ -406,10 +441,7 @@ export const books = [
       "Bible",
       "Persian Period"
     ],
-    "aliases": [
-      "Ezra",
-      "EZR"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -578,10 +610,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Isa",
-      "ISA"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -601,10 +630,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Jer",
-      "JER"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -624,10 +650,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Lam",
-      "LAM"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -645,10 +668,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Ezek",
-      "EZK"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -668,10 +688,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Dan",
-      "DAN"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -691,10 +708,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Hos",
-      "HOS"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -712,10 +726,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Joel",
-      "JOL"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -733,10 +744,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Amos",
-      "AMO"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -754,10 +762,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Obad",
-      "OBA"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -775,10 +780,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Jonah",
-      "JON"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -796,10 +798,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Mic",
-      "MIC"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -817,10 +816,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Nah",
-      "NAM"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -838,10 +834,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Hab",
-      "HAB"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -859,10 +852,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Zeph",
-      "ZEP"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -880,10 +870,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Hag",
-      "HAG"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -901,10 +888,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Zech",
-      "ZEC"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -922,10 +906,7 @@ export const books = [
       "Old Testament",
       "Bible"
     ],
-    "aliases": [
-      "Mal",
-      "MAL"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -1055,10 +1036,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "Acts",
-      "ACT"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -1077,10 +1055,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "Rom",
-      "ROM"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1101,10 +1076,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "1Cor",
-      "1CO"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1125,10 +1097,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "2Cor",
-      "2CO"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1149,10 +1118,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "Gal",
-      "GAL"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1173,10 +1139,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "Eph",
-      "EPH"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1197,10 +1160,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "Phil",
-      "PHP"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1221,10 +1181,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "Col",
-      "COL"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1245,10 +1202,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "1Thess",
-      "1TH"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1269,10 +1223,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "2Thess",
-      "2TH"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1293,10 +1244,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "1Tim",
-      "1TI"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1317,10 +1265,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "2Tim",
-      "2TI"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1341,10 +1286,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "Titus",
-      "TIT"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1365,10 +1307,7 @@ export const books = [
       "Bible",
       "Pauline Epistles"
     ],
-    "aliases": [
-      "Phlm",
-      "PHM"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1388,10 +1327,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "Heb",
-      "HEB"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1411,10 +1347,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "Jas",
-      "JAS"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1434,10 +1367,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "1Pet",
-      "1PE"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1457,10 +1387,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "2Pet",
-      "2PE"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1480,10 +1407,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "1John",
-      "1JN"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1503,10 +1427,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "2John",
-      "2JN"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1526,10 +1447,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "3John",
-      "3JN"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1549,10 +1467,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "Jude",
-      "JUD"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1572,10 +1487,7 @@ export const books = [
       "New Testament",
       "Bible"
     ],
-    "aliases": [
-      "Rev",
-      "REV"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1595,10 +1507,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "Tob",
-      "TOB"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1618,10 +1527,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "Jdt",
-      "JDT"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1630,29 +1536,6 @@ export const books = [
     "dateEarliest": "",
     "dateLatest": "",
     "hasData": true
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Greek Esther",
-    "bookSubtitle": "",
-    "bookOsisID": "EsthGr",
-    "paratext": "ESG",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "EsthGr",
-      "ESG"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Esther"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1664,10 +1547,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "AddEsth",
-      "ADE"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -1686,9 +1566,7 @@ export const books = [
       "Apocrypha"
     ],
     "aliases": [
-      "Wisdom of Solomon",
-      "Wis",
-      "WIS"
+      "Wisdom of Solomon"
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
@@ -1710,7 +1588,6 @@ export const books = [
       "Apocrypha"
     ],
     "aliases": [
-      "SirP",
       "Ecclesiasticus Prologue"
     ],
     "chapterLabel": "Chapter",
@@ -1733,9 +1610,7 @@ export const books = [
       "Apocrypha"
     ],
     "aliases": [
-      "Ecclesiasticus",
-      "Sir",
-      "SIR"
+      "Ecclesiasticus"
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
@@ -1745,97 +1620,6 @@ export const books = [
     "dateEarliest": "",
     "dateLatest": "",
     "hasData": true
-  },
-  {
-    "workOsisID": "KJVA",
-    "bookName": "Baruch",
-    "bookSubtitle": "Baruch the Prophet",
-    "bookOsisID": "Bar",
-    "paratext": "BAR",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Bar",
-      "BAR"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Baruch"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "KJVA",
-    "bookName": "Epistle of Jeremiah",
-    "bookSubtitle": "The Epistle of Jeremiah",
-    "bookOsisID": "EpJer",
-    "paratext": "LJE",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "EpJer",
-      "The Letter of Jeremiah",
-      "Letter of Jeremiah",
-      "LJE"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Jeremiah"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Greek Daniel",
-    "bookSubtitle": "",
-    "bookOsisID": "DanGr",
-    "paratext": "DAG",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "DanGr",
-      "DAG"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Daniel"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Additions to Daniel",
-    "bookSubtitle": "",
-    "bookOsisID": "AddDan",
-    "paratext": null,
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "AddDan"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -1872,10 +1656,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "Sus",
-      "SUS"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -1887,27 +1668,6 @@ export const books = [
   },
   {
     "workOsisID": "KJVA",
-    "bookName": "Bel and the Dragon",
-    "bookSubtitle": "",
-    "bookOsisID": "Bel",
-    "paratext": "BEL",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Bel",
-      "BEL"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "KJVA",
     "bookName": "1 Maccabees",
     "bookSubtitle": "The First Book of the Maccabees",
     "bookOsisID": "1Macc",
@@ -1916,10 +1676,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "1Macc",
-      "1MA"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
@@ -1937,58 +1694,13 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "2Macc",
-      "2MA"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [],
     "dateEarliest": "",
     "dateLatest": "",
     "hasData": true
-  },
-  {
-    "workOsisID": "",
-    "bookName": "3 Maccabees",
-    "bookSubtitle": "The Third Book of the Maccabees",
-    "bookOsisID": "3Macc",
-    "paratext": "3MA",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "3Macc",
-      "3MA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "4 Maccabees",
-    "bookSubtitle": "The Fourth Book of the Maccabees",
-    "bookOsisID": "4Macc",
-    "paratext": "4MA",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "4Macc",
-      "4MA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -2000,10 +1712,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "PrMan",
-      "MAN"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -2023,10 +1732,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "1Esd",
-      "1ES"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -2046,10 +1752,7 @@ export const books = [
       "Deuterocannon",
       "Apocrypha"
     ],
-    "aliases": [
-      "2Esd",
-      "2ES"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -2058,205 +1761,6 @@ export const books = [
     "dateEarliest": "",
     "dateLatest": "",
     "hasData": true
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Psalm 151",
-    "bookSubtitle": "",
-    "bookOsisID": "AddPs",
-    "paratext": "PS2",
-    "groups": [
-      "Deuterocannon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "AddPs",
-      "PS2"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Odes",
-    "bookSubtitle": "",
-    "bookOsisID": "Odes",
-    "paratext": "ODA",
-    "groups": [
-      "Rahlfs' LXX",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Odes",
-      "ODA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Psalms of Solomon",
-    "bookSubtitle": "",
-    "bookOsisID": "PssSol",
-    "paratext": "PSS",
-    "groups": [
-      "Rahlfs' LXX",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "PssSol",
-      "PSS"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Solomon"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Joshua A",
-    "bookSubtitle": "",
-    "bookOsisID": "JoshA",
-    "paratext": "JSA",
-    "groups": [
-      "Rahlfs' variant books",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "JoshA",
-      "JSA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Joshua"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Judges B",
-    "bookSubtitle": "",
-    "bookOsisID": "JudgB",
-    "paratext": "JDB",
-    "groups": [
-      "Rahlfs' variant books",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "JudgB",
-      "JDB"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Tobit S",
-    "bookSubtitle": "",
-    "bookOsisID": "TobS",
-    "paratext": "TBS",
-    "groups": [
-      "Rahlfs' variant books",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TobS",
-      "TBS"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Tobit"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Susanna θ",
-    "bookSubtitle": "",
-    "bookOsisID": "SusTh",
-    "paratext": "SST",
-    "groups": [
-      "Rahlfs' variant books",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "SusTh",
-      "SST"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Susanna"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Daniel θ",
-    "bookSubtitle": "",
-    "bookOsisID": "DanTh",
-    "paratext": "DNT",
-    "groups": [
-      "Rahlfs' variant books",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "DanTh",
-      "DNT"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Daniel"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Bel and the Dragon θ",
-    "bookSubtitle": "",
-    "bookOsisID": "BelTh",
-    "paratext": "BLT",
-    "groups": [
-      "Rahlfs' variant books",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "BelTh",
-      "BLT"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
   },
   {
     "workOsisID": "KJVA",
@@ -2281,1064 +1785,6 @@ export const books = [
     "hasData": true
   },
   {
-    "workOsisID": "",
-    "bookName": "5 Ezra",
-    "bookSubtitle": "",
-    "bookOsisID": "5Ezra",
-    "paratext": "5EZ",
-    "groups": [
-      "Vulgate",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "5Ezra",
-      "5EZ"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ezra"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "4 Ezra",
-    "bookSubtitle": "",
-    "bookOsisID": "4Ezra",
-    "paratext": "EZA",
-    "groups": [
-      "Vulgate",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Ezra Apocalypse",
-      "4Ezra",
-      "EZA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ezra"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "6 Ezra",
-    "bookSubtitle": "",
-    "bookOsisID": "6Ezra",
-    "paratext": "6EZ",
-    "groups": [
-      "Vulgate",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "6Ezra",
-      "6EZ"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ezra"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Prayer of Solomon",
-    "bookSubtitle": "",
-    "bookOsisID": "PrSol",
-    "paratext": "PSO",
-    "groups": [
-      "Vulgate",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "PrSol",
-      "PSO"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Solomon"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Prayer of Jeremiah",
-    "bookSubtitle": "",
-    "bookOsisID": "PrJer",
-    "paratext": "PJE",
-    "groups": [
-      "Vulgate",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "PrJer",
-      "PJE"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Jeremiah"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "1 Enoch",
-    "bookSubtitle": "",
-    "bookOsisID": "1En",
-    "paratext": "ENO",
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Ethiopic Apocalypse of Enoch",
-      "Ethiopic Enoch",
-      "1En",
-      "ENO"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Enoch"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Jubilees",
-    "bookSubtitle": "",
-    "bookOsisID": "Jub",
-    "paratext": "JUB",
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Jub",
-      "JUB"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "4 Baruch",
-    "bookSubtitle": "",
-    "bookOsisID": "4Bar",
-    "paratext": "4BA",
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Paraleipomena Jeremiou",
-      "4Bar",
-      "4BA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Baruch"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "1 Meqabyan",
-    "bookSubtitle": "",
-    "bookOsisID": "1Meq",
-    "paratext": "1MQ",
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "1Meq",
-      "1MQ"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "2 Meqabyan",
-    "bookSubtitle": "",
-    "bookOsisID": "2Meq",
-    "paratext": "2MQ",
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "2Meq",
-      "2MQ"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "3 Meqabyan",
-    "bookSubtitle": "",
-    "bookOsisID": "3Meq",
-    "paratext": "3MQ",
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "3Meq",
-      "3MQ"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Reproof",
-    "bookSubtitle": "",
-    "bookOsisID": "Rep",
-    "paratext": "REP",
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Tegsas",
-      "Tegsats",
-      "Taagsas",
-      "Rep",
-      "REP"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Additions to Jeremiah",
-    "bookSubtitle": "",
-    "bookOsisID": "AddJer",
-    "paratext": null,
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Rest of Jeremiah",
-      "AddJer"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Pseudo-Josephus",
-    "bookSubtitle": "",
-    "bookOsisID": "PsJos",
-    "paratext": null,
-    "groups": [
-      "Ethiopian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Jossipon",
-      "Joseph ben Gorion's Medieval History of the Jews",
-      "PsJos"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Epistle of the Corinthians to Paul",
-    "bookSubtitle": "",
-    "bookOsisID": "EpCorPaul",
-    "paratext": "COP",
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "EpCorPaul",
-      "COP"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "3 Corinthians",
-    "bookSubtitle": "",
-    "bookOsisID": "3Cor",
-    "paratext": "3CO",
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "3Cor",
-      "3CO"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Words of Sirach",
-    "bookSubtitle": "",
-    "bookOsisID": "WSir",
-    "paratext": "WSI",
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "WSir",
-      "WSI"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Prayer of Euthalius",
-    "bookSubtitle": "",
-    "bookOsisID": "PrEuth",
-    "paratext": "EUT",
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "PrEuth",
-      "EUT"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Euthalius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Dormition of John",
-    "bookSubtitle": "",
-    "bookOsisID": "DormJohn",
-    "paratext": "DOJ",
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "DormJohn",
-      "DOJ"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "John"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Joseph and Asenath",
-    "bookSubtitle": "",
-    "bookOsisID": "JosAsen",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "JosAsen"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testaments of the Twelve Patriarchs (composed of:)",
-    "bookSubtitle": "",
-    "bookOsisID": "T12Patr",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "T12Patr"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Asher",
-    "bookSubtitle": "",
-    "bookOsisID": "TAsh",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TAsh"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Asher"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Benjamin",
-    "bookSubtitle": "",
-    "bookOsisID": "TBenj",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TBenj"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Benjamin"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Dan",
-    "bookSubtitle": "",
-    "bookOsisID": "TDan",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TDan"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Dan"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Gad",
-    "bookSubtitle": "",
-    "bookOsisID": "TGad",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TGad"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Gad"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Issachar",
-    "bookSubtitle": "",
-    "bookOsisID": "TIss",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TIss"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Issachar"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Joseph",
-    "bookSubtitle": "",
-    "bookOsisID": "TJos",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TJos"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Joseph"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Judah",
-    "bookSubtitle": "",
-    "bookOsisID": "TJud",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TJud"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Judah"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Levi",
-    "bookSubtitle": "",
-    "bookOsisID": "TLevi",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TLevi"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Levi"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Naphtali",
-    "bookSubtitle": "",
-    "bookOsisID": "TNaph",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TNaph"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Naphtali"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Reuben",
-    "bookSubtitle": "",
-    "bookOsisID": "TReu",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TReu"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Reuben"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Simeon",
-    "bookSubtitle": "",
-    "bookOsisID": "TSim",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TSim"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Simeon"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "T12Patr",
-    "bookName": "Testament of Zebulun",
-    "bookSubtitle": "",
-    "bookOsisID": "TZeb",
-    "paratext": null,
-    "groups": [
-      "Armenian Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "TZeb"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Zebulun"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "2 Baruch",
-    "bookSubtitle": "",
-    "bookOsisID": "2Bar",
-    "paratext": "2BA",
-    "groups": [
-      "Syriac Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "(Syriac) Apocalypse of Baruch"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Baruch"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "KJVA",
-    "bookName": "Letter of Baruch",
-    "bookSubtitle": "",
-    "bookOsisID": "EpBar",
-    "paratext": "LBA",
-    "groups": [
-      "Syriac Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "EpBar",
-      "LBA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Baruch"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Additional Syriac Psalms",
-    "bookSubtitle": "",
-    "bookOsisID": "5ApocSyrPss",
-    "paratext": "PS3",
-    "groups": [
-      "Syriac Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "5 Apocryphal Syriac Psalms"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Josephus' Jewish War VI",
-    "bookSubtitle": "",
-    "bookOsisID": "JosephusJWvi",
-    "paratext": null,
-    "groups": [
-      "Syriac Orthodox Canon",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "JosephusJWvi"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Josephus"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "1 Clement",
-    "bookSubtitle": "The First Epistle of Clement: To the Church of God at Corinth",
-    "bookOsisID": "1Clem",
-    "paratext": "1CL",
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "1Clem",
-      "1CL"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Clement"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "2 Clement",
-    "bookSubtitle": "The Second Epistle of Clement",
-    "bookOsisID": "2Clem",
-    "paratext": "2CL",
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "2Clem",
-      "2CL"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Clement"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Ignatius to the Ephesians",
-    "bookSubtitle": "The Epistle of Ignatius to the Ephesians",
-    "bookOsisID": "IgnEph",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "IgnEph"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ignatius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Ignatius to the Magnesians",
-    "bookSubtitle": "The Epistle of Ignatius to the Magnesians",
-    "bookOsisID": "IgnMagn",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "IgnMagn"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ignatius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Ignatius to the Trallians",
-    "bookSubtitle": "The Epistle of Ignatius to the Trallians",
-    "bookOsisID": "IgnTrall",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "IgnTrall"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ignatius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Ignatius to the Romans",
-    "bookSubtitle": "The Epistle of Ignatius to the Romans",
-    "bookOsisID": "IgnRom",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "IgnRom"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ignatius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Ignatius to the Philadelphians",
-    "bookSubtitle": "The Epistle of Ignatius to the Philadelphians",
-    "bookOsisID": "IgnPhld",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "IgnPhld"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ignatius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Ignatius to the Smyrnaeans",
-    "bookSubtitle": "The Epistle of Ignatius to the Smyrnaeans",
-    "bookOsisID": "IgnSmyrn",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "IgnSmyrn"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ignatius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Ignatius to Polycarp",
-    "bookSubtitle": "The Epistle of Ignatius to Polycarp",
-    "bookOsisID": "IgnPol",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "IgnPol"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Ignatius"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Polycarp to the Philippians",
-    "bookSubtitle": "The Epistle of Polycarp to the Philippians",
-    "bookOsisID": "PolPhil",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "PolPhil"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Polycarp"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Martyrdom of Polycarp",
-    "bookSubtitle": "The Martyrdom of St. Polycarp",
-    "bookOsisID": "MartPol",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "MartPol"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
     "workOsisID": "Didache",
     "bookName": "Didache",
     "bookSubtitle": "The Lord's Teaching Through the Twelve Apostles to the Nations",
@@ -3348,10 +1794,7 @@ export const books = [
       "Apostolic Fathers",
       "Apocrypha"
     ],
-    "aliases": [
-      "Did",
-      "DID"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3360,256 +1803,6 @@ export const books = [
     "dateEarliest": "",
     "dateLatest": "",
     "hasData": true
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Barnabas",
-    "bookSubtitle": "The Epistle of Barnabas",
-    "bookOsisID": "Barn",
-    "paratext": "LBA",
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Barn",
-      "LBA"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Barnabas"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Shepherd of Hermas",
-    "bookSubtitle": "The Shepherd of Hermas",
-    "bookOsisID": "Herm",
-    "paratext": "SHE",
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Herm",
-      "SHE"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Shepherd of Hermas, Mandates",
-    "bookSubtitle": "The Shepherd of Hermas - 12 Commandments",
-    "bookOsisID": "Herm.Mand",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Herm.Mand"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Shepherd of Hermas, Similitudes",
-    "bookSubtitle": "The Shepherd of Hermas - 10 Parables",
-    "bookOsisID": "Herm.Sim",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Herm.Sim"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Shepherd of Hermas, Visions",
-    "bookSubtitle": "The Shepherd of Hermas - 5 visions",
-    "bookOsisID": "Herm.Vis",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Herm.Vis"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Diognetus",
-    "bookSubtitle": "The Epistle to Diognetus",
-    "bookOsisID": "Diogn",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Diogn"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Apostles' Creed",
-    "bookSubtitle": "",
-    "bookOsisID": "AposCreed",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "AposCreed"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Fragments of Papias",
-    "bookSubtitle": "Fragments of the Writings of Papias of Hierapolis",
-    "bookOsisID": "PapFrag",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "PapFrag"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Papias"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Reliques of the Elders",
-    "bookSubtitle": "",
-    "bookOsisID": "RelElders",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "RelElders"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Fragment of Quadratus",
-    "bookSubtitle": "Fragment of the Apology of Quadratus of Athens",
-    "bookOsisID": "QuadFrag",
-    "paratext": null,
-    "groups": [
-      "Apostolic Fathers",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "QuadFrag"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [
-      "Quadratus"
-    ],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Diatessaron",
-    "bookSubtitle": "",
-    "bookOsisID": "TatDiat",
-    "paratext": null,
-    "groups": [
-      "Apocrypha",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "Tatian's Diatessaron",
-      "Tatian"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
-  },
-  {
-    "workOsisID": "",
-    "bookName": "Metrical Psalms",
-    "bookSubtitle": "",
-    "bookOsisID": "PsMet",
-    "paratext": "PSB",
-    "groups": [
-      "Apocrypha",
-      "Apocrypha"
-    ],
-    "aliases": [
-      "PsMet",
-      "PSB"
-    ],
-    "chapterLabel": "Chapter",
-    "verseLabel": "Verse",
-    "authors": [],
-    "dateEarliest": "",
-    "dateLatest": "",
-    "hasData": false
   },
   {
     "workOsisID": "BofM",
@@ -3623,7 +1816,6 @@ export const books = [
       "LDS"
     ],
     "aliases": [
-      "1Ne",
       "1 Ne",
       "1st Nephi",
       "First Nephi",
@@ -3651,7 +1843,6 @@ export const books = [
       "LDS"
     ],
     "aliases": [
-      "2Ne",
       "2 Ne",
       "2nd Nephi",
       "Second Nephi",
@@ -3678,9 +1869,7 @@ export const books = [
       "Small Plates of Nephi",
       "LDS"
     ],
-    "aliases": [
-      "Jac"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3701,9 +1890,7 @@ export const books = [
       "Small Plates of Nephi",
       "LDS"
     ],
-    "aliases": [
-      "Eno"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3724,9 +1911,7 @@ export const books = [
       "Small Plates of Nephi",
       "LDS"
     ],
-    "aliases": [
-      "Jar"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3747,9 +1932,7 @@ export const books = [
       "Small Plates of Nephi",
       "LDS"
     ],
-    "aliases": [
-      "Omn"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3773,9 +1956,7 @@ export const books = [
       "LDS",
       "Mormon"
     ],
-    "aliases": [
-      "WoM"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3798,9 +1979,7 @@ export const books = [
       "Large Plates of Nephi",
       "Abridgement"
     ],
-    "aliases": [
-      "Mosi"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3823,9 +2002,7 @@ export const books = [
       "Large Plates of Nephi",
       "Abridgement"
     ],
-    "aliases": [
-      "Alm"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3932,8 +2109,7 @@ export const books = [
       "Abridgement"
     ],
     "aliases": [
-      "Mmn",
-      "Morm"
+      "Mmn"
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
@@ -3957,9 +2133,7 @@ export const books = [
       "Large Plates of Nephi",
       "Abridgement"
     ],
-    "aliases": [
-      "Eth"
-    ],
+    "aliases": [],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
     "authors": [
@@ -3983,8 +2157,7 @@ export const books = [
       "Abridgement"
     ],
     "aliases": [
-      "Mni",
-      "Moro"
+      "Mni"
     ],
     "chapterLabel": "Chapter",
     "verseLabel": "Verse",
@@ -4010,7 +2183,6 @@ export const books = [
       "LDS"
     ],
     "aliases": [
-      "Mos",
       "The Book of Moses"
     ],
     "chapterLabel": "Chapter",
@@ -4037,7 +2209,6 @@ export const books = [
       "LDS"
     ],
     "aliases": [
-      "Abr",
       "The Book of Abraham"
     ],
     "chapterLabel": "Chapter",
@@ -4088,6 +2259,7 @@ export const books = [
     ],
     "aliases": [
       "JSH",
+      "JS-H",
       "Joseph Smith History",
       "Joseph Smith--History"
     ],
@@ -4116,6 +2288,7 @@ export const books = [
     ],
     "aliases": [
       "JSM",
+      "JS-M",
       "Joseph Smith Matthew",
       "Joseph Smith--Matthew"
     ],
@@ -4154,3 +2327,671 @@ export const books = [
     "hasData": true
   }
 ];
+const b = books;
+export const booksLookup : Record<string, (typeof b)[number]> = {
+  GENESIS: b[0],
+  GEN: b[0],
+  GE: b[0],
+  GN: b[0],
+  "THE FIRST BOOK OF MOSES CALLED GENESIS": b[0],
+  EXODUS: b[1],
+  EXOD: b[1],
+  EXO: b[1],
+  EX: b[1],
+  "THE SECOND BOOK OF MOSES CALLED EXODUS": b[1],
+  LEVITICUS: b[2],
+  LEV: b[2],
+  LE: b[2],
+  "THE THIRD BOOK OF MOSES CALLED LEVITICUS": b[2],
+  NUMBERS: b[3],
+  NUM: b[3],
+  NU: b[3],
+  NM: b[3],
+  NB: b[3],
+  "THE FOURTH BOOK OF MOSES CALLED NUMBERS": b[3],
+  DEUTERONOMY: b[4],
+  DEUT: b[4],
+  DEU: b[4],
+  DT: b[4],
+  DU: b[4],
+  "THE FIFTH BOOK OF MOSES CALLED DEUTERONOMY": b[4],
+  JOSHUA: b[5],
+  JOSH: b[5],
+  JOS: b[5],
+  JUDGES: b[6],
+  JUDG: b[6],
+  JDG: b[6],
+  JDGS: b[6],
+  JG: b[6],
+  RUTH: b[7],
+  RUT: b[7],
+  RTH: b[7],
+  RU: b[7],
+  "1 SAMUEL": b[8],
+  "1SAM": b[8],
+  "1SA": b[8],
+  "1 SAM": b[8],
+  "2 SAMUEL": b[9],
+  "2SAM": b[9],
+  "2SA": b[9],
+  "2 SAM": b[9],
+  "1 KINGS": b[10],
+  "1KGS": b[10],
+  "1KI": b[10],
+  "2 KINGS": b[11],
+  "2KGS": b[11],
+  "2KI": b[11],
+  "1 CHRONICLES": b[12],
+  "1CHR": b[12],
+  "1CH": b[12],
+  "2 CHRONICLES": b[13],
+  "2CHR": b[13],
+  "2CH": b[13],
+  EZRA: b[14],
+  EZR: b[14],
+  NEHEMIAH: b[15],
+  NEH: b[15],
+  ESTHER: b[16],
+  ESTH: b[16],
+  EST: b[16],
+  JOB: b[17],
+  PSALMS: b[18],
+  PS: b[18],
+  PSA: b[18],
+  PROVERBS: b[19],
+  PROV: b[19],
+  PRO: b[19],
+  ECCLESIASTES: b[20],
+  ECCL: b[20],
+  ECC: b[20],
+  QOHELET: b[20],
+  "SONG OF SOLOMON": b[21],
+  SONG: b[21],
+  SNG: b[21],
+  "CANTICLE OF CANTICLES": b[21],
+  "SOLOMON'S SONG": b[21],
+  ISAIAH: b[22],
+  ISA: b[22],
+  JEREMIAH: b[23],
+  JER: b[23],
+  LAMENTATIONS: b[24],
+  LAM: b[24],
+  EZEKIEL: b[25],
+  EZEK: b[25],
+  EZK: b[25],
+  DANIEL: b[26],
+  DAN: b[26],
+  HOSEA: b[27],
+  HOS: b[27],
+  JOEL: b[28],
+  JOL: b[28],
+  AMOS: b[29],
+  AMO: b[29],
+  OBADIAH: b[30],
+  OBAD: b[30],
+  OBA: b[30],
+  JONAH: b[31],
+  JON: b[31],
+  MICAH: b[32],
+  MIC: b[32],
+  NAHUM: b[33],
+  NAH: b[33],
+  NAM: b[33],
+  HABAKKUK: b[34],
+  HAB: b[34],
+  ZEPHANIAH: b[35],
+  ZEPH: b[35],
+  ZEP: b[35],
+  HAGGAI: b[36],
+  HAG: b[36],
+  ZECHARIAH: b[37],
+  ZECH: b[37],
+  ZEC: b[37],
+  MALACHI: b[38],
+  MAL: b[38],
+  MATTHEW: b[39],
+  MATT: b[39],
+  MAT: b[39],
+  "ST MATTHEW": b[39],
+  "ST. MATTHEW": b[39],
+  "SAINT MATTHEW": b[39],
+  "THE GOSPEL ACCORDING TO ST MATTHEW": b[39],
+  "THE GOSPEL ACCORDING TO ST. MATTHEW": b[39],
+  "THE GOSPEL ACCORDING TO SAINT MATTHEW": b[39],
+  MARK: b[40],
+  MRK: b[40],
+  "ST MARK": b[40],
+  "ST. MARK": b[40],
+  "SAINT MARK": b[40],
+  "THE GOSPEL ACCORDING TO ST MARK": b[40],
+  "THE GOSPEL ACCORDING TO ST. MARK": b[40],
+  "THE GOSPEL ACCORDING TO SAINT MARK": b[40],
+  LUKE: b[41],
+  LUK: b[41],
+  "ST LUKE": b[41],
+  "ST. LUKE": b[41],
+  "SAINT LUKE": b[41],
+  "THE GOSPEL ACCORDING TO ST LUKE": b[41],
+  "THE GOSPEL ACCORDING TO ST. LUKE": b[41],
+  "THE GOSPEL ACCORDING TO SAINT LUKE": b[41],
+  JOHN: b[42],
+  JHN: b[42],
+  "ST JOHN": b[42],
+  "ST. JOHN": b[42],
+  "SAINT JOHN": b[42],
+  "THE GOSPEL ACCORDING TO ST JOHN": b[42],
+  "THE GOSPEL ACCORDING TO ST. JOHN": b[42],
+  "THE GOSPEL ACCORDING TO SAINT JOHN": b[42],
+  ACTS: b[43],
+  ACT: b[43],
+  ROMANS: b[44],
+  ROM: b[44],
+  "1 CORINTHIANS": b[45],
+  "1COR": b[45],
+  "1CO": b[45],
+  "2 CORINTHIANS": b[46],
+  "2COR": b[46],
+  "2CO": b[46],
+  GALATIANS: b[47],
+  GAL: b[47],
+  EPHESIANS: b[48],
+  EPH: b[48],
+  PHILIPPIANS: b[49],
+  PHIL: b[49],
+  PHP: b[49],
+  COLOSSIANS: b[50],
+  COL: b[50],
+  "1 THESSALONIANS": b[51],
+  "1THESS": b[51],
+  "1TH": b[51],
+  "2 THESSALONIANS": b[52],
+  "2THESS": b[52],
+  "2TH": b[52],
+  "1 TIMOTHY": b[53],
+  "1TIM": b[53],
+  "1TI": b[53],
+  "2 TIMOTHY": b[54],
+  "2TIM": b[54],
+  "2TI": b[54],
+  TITUS: b[55],
+  TIT: b[55],
+  PHILEMON: b[56],
+  PHLM: b[56],
+  PHM: b[56],
+  HEBREWS: b[57],
+  HEB: b[57],
+  JAMES: b[58],
+  JAS: b[58],
+  "1 PETER": b[59],
+  "1PET": b[59],
+  "1PE": b[59],
+  "2 PETER": b[60],
+  "2PET": b[60],
+  "2PE": b[60],
+  "1 JOHN": b[61],
+  "1JOHN": b[61],
+  "1JN": b[61],
+  "2 JOHN": b[62],
+  "2JOHN": b[62],
+  "2JN": b[62],
+  "3 JOHN": b[63],
+  "3JOHN": b[63],
+  "3JN": b[63],
+  JUDE: b[64],
+  JUD: b[64],
+  REVELATION: b[65],
+  REV: b[65],
+  TOBIT: b[66],
+  TOB: b[66],
+  JUDITH: b[67],
+  JDT: b[67],
+  "ADDITIONS TO ESTHER": b[68],
+  ADDESTH: b[68],
+  ADE: b[68],
+  WISDOM: b[69],
+  WIS: b[69],
+  "WISDOM OF SOLOMON": b[69],
+  "SIRACH PROLOGUE": b[70],
+  SIRP: b[70],
+  "ECCLESIASTICUS PROLOGUE": b[70],
+  SIRACH: b[71],
+  SIR: b[71],
+  ECCLESIASTICUS: b[71],
+  "PRAYER OF AZARIAH": b[72],
+  PRAZAR: b[72],
+  S3Y: b[72],
+  "SONG OF THE THREE CHILDREN": b[72],
+  "SONG OF THE THREE HOLY CHILDREN": b[72],
+  SUSANNA: b[73],
+  SUS: b[73],
+  "1 MACCABEES": b[74],
+  "1MACC": b[74],
+  "1MA": b[74],
+  "2 MACCABEES": b[75],
+  "2MACC": b[75],
+  "2MA": b[75],
+  "PRAYER OF MANASSEH": b[76],
+  PRMAN: b[76],
+  MAN: b[76],
+  "1 ESDRAS": b[77],
+  "1ESD": b[77],
+  "1ES": b[77],
+  "2 ESDRAS": b[78],
+  "2ESD": b[78],
+  "2ES": b[78],
+  "EPISTLE TO THE LAODICEANS": b[79],
+  EPLAO: b[79],
+  LAO: b[79],
+  LAODICEANS: b[79],
+  DIDACHE: b[80],
+  DID: b[80],
+  "1 NEPHI": b[81],
+  "1NE": b[81],
+  "1 NE": b[81],
+  "1ST NEPHI": b[81],
+  "FIRST NEPHI": b[81],
+  "THE FIRST BOOK OF NEPHI": b[81],
+  "I NEPHI": b[81],
+  "2 NEPHI": b[82],
+  "2NE": b[82],
+  "2 NE": b[82],
+  "2ND NEPHI": b[82],
+  "SECOND NEPHI": b[82],
+  "THE SECOND BOOK OF NEPHI": b[82],
+  "II NEPHI": b[82],
+  JACOB: b[83],
+  JAC: b[83],
+  ENOS: b[84],
+  JAROM: b[85],
+  JAR: b[85],
+  OMNI: b[86],
+  "WORDS OF MORMON": b[87],
+  WOM: b[87],
+  MOSIAH: b[88],
+  MOSI: b[88],
+  ALMA: b[89],
+  HELAMAN: b[90],
+  HEL: b[90],
+  HE: b[90],
+  HLM: b[90],
+  HELM: b[90],
+  "3 NEPHI": b[91],
+  "3NE": b[91],
+  "3 NE": b[91],
+  "3RD NEPHI": b[91],
+  "THIRD NEPHI": b[91],
+  "III NEPHI": b[91],
+  "4 NEPHI": b[92],
+  "4NE": b[92],
+  "4 NE": b[92],
+  "4TH NEPHI": b[92],
+  "FOURTH NEPHI": b[92],
+  "IV NEPHI": b[92],
+  MORMON: b[93],
+  MORM: b[93],
+  MMN: b[93],
+  ETHER: b[94],
+  ETH: b[94],
+  MORONI: b[95],
+  MORO: b[95],
+  MNI: b[95],
+  MOSES: b[96],
+  MOS: b[96],
+  "THE BOOK OF MOSES": b[96],
+  ABRAHAM: b[97],
+  ABR: b[97],
+  "THE BOOK OF ABRAHAM": b[97],
+  "ARTICLES OF FAITH": b[98],
+  AOFF: b[98],
+  "JOSEPH SMITH—HISTORY": b[99],
+  JSH: b[99],
+  "JS-H": b[99],
+  "JOSEPH SMITH HISTORY": b[99],
+  "JOSEPH SMITH--HISTORY": b[99],
+  "JOSEPH SMITH—MATTHEW": b[100],
+  JSM: b[100],
+  "JS-M": b[100],
+  "JOSEPH SMITH MATTHEW": b[100],
+  "JOSEPH SMITH--MATTHEW": b[100],
+  "DOCTRINE AND COVENANTS": b[101],
+  "D&C": b[101],
+  "D AND C": b[101],
+  "THE DOCTRINE & COVENANTS": b[101],
+  "DOCTRINE & COVENANTS": b[101],
+  "THE DOCTRINE AND COVENANTS": b[101],
+};
+export const groupsLookup : Record<string, typeof b> = {f
+  "OLD TESTAMENT": [
+    b[0],
+    b[1],
+    b[2],
+    b[3],
+    b[4],
+    b[5],
+    b[6],
+    b[7],
+    b[8],
+    b[9],
+    b[10],
+    b[11],
+    b[12],
+    b[13],
+    b[14],
+    b[15],
+    b[16],
+    b[17],
+    b[18],
+    b[19],
+    b[20],
+    b[21],
+    b[22],
+    b[23],
+    b[24],
+    b[25],
+    b[26],
+    b[27],
+    b[28],
+    b[29],
+    b[30],
+    b[31],
+    b[32],
+    b[33],
+    b[34],
+    b[35],
+    b[36],
+    b[37],
+    b[38],
+  ],
+  BIBLE: [
+    b[0],
+    b[1],
+    b[2],
+    b[3],
+    b[4],
+    b[5],
+    b[6],
+    b[7],
+    b[8],
+    b[9],
+    b[10],
+    b[11],
+    b[12],
+    b[13],
+    b[14],
+    b[15],
+    b[16],
+    b[17],
+    b[18],
+    b[19],
+    b[20],
+    b[21],
+    b[22],
+    b[23],
+    b[24],
+    b[25],
+    b[26],
+    b[27],
+    b[28],
+    b[29],
+    b[30],
+    b[31],
+    b[32],
+    b[33],
+    b[34],
+    b[35],
+    b[36],
+    b[37],
+    b[38],
+    b[39],
+    b[40],
+    b[41],
+    b[42],
+    b[43],
+    b[44],
+    b[45],
+    b[46],
+    b[47],
+    b[48],
+    b[49],
+    b[50],
+    b[51],
+    b[52],
+    b[53],
+    b[54],
+    b[55],
+    b[56],
+    b[57],
+    b[58],
+    b[59],
+    b[60],
+    b[61],
+    b[62],
+    b[63],
+    b[64],
+    b[65],
+  ],
+  PENTATUECH: [
+    b[0],
+    b[1],
+    b[2],
+    b[3],
+  ],
+  TORAH: [
+    b[0],
+    b[1],
+    b[2],
+    b[3],
+  ],
+  KINGS: [
+    b[10],
+    b[11],
+  ],
+  "PERSIAN PERIOD": [
+    b[12],
+    b[13],
+    b[14],
+    b[15],
+  ],
+  "NEW TESTAMENT": [
+    b[39],
+    b[40],
+    b[41],
+    b[42],
+    b[43],
+    b[44],
+    b[45],
+    b[46],
+    b[47],
+    b[48],
+    b[49],
+    b[50],
+    b[51],
+    b[52],
+    b[53],
+    b[54],
+    b[55],
+    b[56],
+    b[57],
+    b[58],
+    b[59],
+    b[60],
+    b[61],
+    b[62],
+    b[63],
+    b[64],
+    b[65],
+  ],
+  GOSPELS: [
+    b[39],
+    b[40],
+    b[41],
+    b[42],
+  ],
+  "PAULINE EPISTLES": [
+    b[44],
+    b[45],
+    b[46],
+    b[47],
+    b[48],
+    b[49],
+    b[50],
+    b[51],
+    b[52],
+    b[53],
+    b[54],
+    b[55],
+    b[56],
+  ],
+  DEUTEROCANNON: [
+    b[66],
+    b[67],
+    b[68],
+    b[69],
+    b[70],
+    b[71],
+    b[72],
+    b[73],
+    b[74],
+    b[75],
+    b[76],
+    b[77],
+    b[78],
+  ],
+  APOCRYPHA: [
+    b[66],
+    b[67],
+    b[68],
+    b[69],
+    b[70],
+    b[71],
+    b[72],
+    b[73],
+    b[74],
+    b[75],
+    b[76],
+    b[77],
+    b[78],
+    b[79],
+    b[80],
+  ],
+  VULGATE: [
+    b[79],
+  ],
+  "APOSTOLIC FATHERS": [
+    b[80],
+  ],
+  "BOOK OF MORMON": [
+    b[81],
+    b[82],
+    b[83],
+    b[84],
+    b[85],
+    b[86],
+    b[87],
+    b[88],
+    b[89],
+    b[90],
+    b[91],
+    b[92],
+    b[93],
+    b[94],
+    b[95],
+  ],
+  "SMALL PLATES OF NEPHI": [
+    b[81],
+    b[82],
+    b[83],
+    b[84],
+    b[85],
+    b[86],
+  ],
+  LDS: [
+    b[81],
+    b[82],
+    b[83],
+    b[84],
+    b[85],
+    b[86],
+    b[87],
+    b[88],
+    b[89],
+    b[90],
+    b[91],
+    b[92],
+    b[93],
+    b[94],
+    b[95],
+    b[96],
+    b[97],
+    b[98],
+    b[99],
+    b[100],
+    b[101],
+  ],
+  MORMON: [
+    b[87],
+    b[88],
+    b[89],
+    b[90],
+    b[91],
+    b[92],
+    b[93],
+    b[94],
+    b[95],
+  ],
+  "LARGE PLATES OF NEPHI": [
+    b[88],
+    b[89],
+    b[90],
+    b[91],
+    b[92],
+    b[93],
+    b[94],
+    b[95],
+  ],
+  ABRIDGEMENT: [
+    b[88],
+    b[89],
+    b[90],
+    b[91],
+    b[92],
+    b[93],
+    b[94],
+    b[95],
+  ],
+  "PEARL OF GREAT PRICE": [
+    b[96],
+    b[97],
+    b[98],
+    b[99],
+    b[100],
+  ],
+  "INSPIRED TRANSLATION": [
+    b[96],
+    b[97],
+    b[99],
+    b[100],
+  ],
+  "JOSEPH SMITH TRANSLATION": [
+    b[96],
+    b[97],
+    b[99],
+    b[100],
+  ],
+  JST: [
+    b[96],
+    b[97],
+    b[99],
+    b[100],
+  ],
+  "JOSEPH SMITH": [
+    b[96],
+    b[97],
+    b[98],
+    b[99],
+    b[100],
+  ],
+  "DOCTRINE AND COVENANTS": [
+    b[101],
+  ],
+};

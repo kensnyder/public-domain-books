@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Heb.11",
+  "briefOverview": "Hebrews 11 defines faith and illustrates it through Israel’s forebears, urging trust in God’s unseen promises and steadfast perseverance.",
+  "summary": "Faith is described as confident assurance of what is hoped for and conviction regarding unseen realities, by which the ancients were commended, and by which believers understand creation itself. The author surveys figures from Abel, Enoch, and Noah to Abraham and Sarah, emphasizing obedience to God’s promises amid uncertainty and exile. The patriarchs lived as pilgrims seeking a better, heavenly country, dying in faith before receiving the ultimate fulfillment. Abraham’s offering of Isaac is highlighted as trust in God’s power to raise the dead, and the patriarchal blessings and Joseph’s instructions about his bones are framed as forward-looking faith. Moses’ parents, Moses’ renunciation of Egyptian status, the Passover, the Red Sea crossing, Jericho’s fall, and Rahab’s sheltering of the spies are all credited to faith. The catalogue widens to judges, kings, and prophets who achieved victories and endured severe sufferings, including torture and martyrdom, aiming at a “better resurrection.” All these received commendation but not the final promise, so that apart from later believers they would not be made perfect.",
+  "externalContext": "Hebrews is a sermon-like epistle likely addressed to a community of Jewish Christians familiar with Israel’s Scriptures and facing social pressure or persecution to abandon their confession. The chapter’s catalogue of exemplars follows a Jewish tradition of praising the ancestors to encourage fidelity (cf. the style seen in Second Temple literature). The rhetoric stresses perseverance amid hardship and the superiority of God’s future reward. The language often reflects the Greek Old Testament (Septuagint), which shaped early Christian biblical interpretation.",
+  "externalReferences": "The chapter alludes extensively to the Old Testament: creation by God’s word (Genesis 1:1–3), Abel’s acceptable offering (Genesis 4:3–10), and Abraham’s offering of Isaac (Genesis 22:1–19). It recalls the Exodus narrative—the Passover (Exodus 12:1–13) and the Red Sea crossing (Exodus 14:21–31)—as well as Rahab’s protection of the spies (Joshua 2:1–21). The unnamed heroes who “quenched the violence of fire” and “stopped the mouths of lions” evoke the deliverances in Daniel 3:16–27 and Daniel 6:16–23. “Women received their dead raised to life again” corresponds to the resurrections in 1 Kings 17:17–24 and 2 Kings 4:18–37; the reference to some being “sawn asunder” is often associated in Jewish tradition with the martyrdom of Isaiah, though this is not narrated in the canonical Old Testament.",
+  "seeAlso": [
+    "Genesis 1:1-3",
+    "Genesis 4:3-10",
+    "Genesis 22:1-19",
+    "Exodus 12:1-13",
+    "Exodus 14:21-31",
+    "Joshua 2:1-21",
+    "Daniel 3:16-27",
+    "Daniel 6:16-23",
+    "1 Kings 17:17-24",
+    "2 Kings 4:18-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Faith Defined and Beginnings"
+    },
+    {
+      "range": "8-22",
+      "title": "Patriarchal Pilgrimage of Faith"
+    },
+    {
+      "range": "23-40",
+      "title": "Exodus to Prophets: Triumphs and Trials"
+    }
+  ],
+  "themes": [
+    "Faith",
+    "Perseverance",
+    "Pilgrimage",
+    "Promise",
+    "Suffering"
+  ],
+  "practicalQuestions": [
+    "Where am I being asked to act on what I cannot yet see rather than on immediate outcomes?",
+    "What comforts or status might I need to relinquish to be faithful, as Moses did?",
+    "How can I cultivate a pilgrim mindset that seeks a “better country” rather than settling for what is temporary?",
+    "Which example in this chapter most directly challenges my fears or passivity, and why?",
+    "How does the hope of a “better resurrection” reshape my response to hardship or loss?"
+  ],
+  "uncertainAreas": "The precise meaning of “received him in a figure” (v.19) regarding Isaac is debated (typology, parable-like recovery, or anticipatory resurrection). “Esteeming the reproach of Christ” (v.26) applied to Moses raises questions about how the author understands Christ’s presence in the Old Testament. “Sawn asunder” (v.37) likely references traditional accounts (often Isaiah) not found in the canonical OT. The statement that they “did not receive the promise” and “be made perfect” with “us” (vv.39–40) invites discussion on the timing and nature of eschatological fulfillment.",
+  "createdAt": "2025-11-03T03:27:26.697Z",
+  "modelId": "gpt-5-2025-08-07"
+}

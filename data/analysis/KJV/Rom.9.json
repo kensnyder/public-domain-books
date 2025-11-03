@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Rom.9",
+  "briefOverview": "Paul laments Israel’s unbelief and argues that God’s sovereign purpose—expressed through mercy and election—explains the inclusion of Gentiles and the salvation of a faithful remnant of Israel.",
+  "summary": "Paul begins with deep sorrow for his fellow Israelites, listing their privileges and noting that the Messiah came from them according to the flesh. He clarifies that God’s word has not failed: true Israel is defined by promise, not merely physical descent, illustrated by Isaac over Ishmael and Jacob over Esau. He defends God’s freedom to show mercy and to harden, citing God’s words to Moses and the example of Pharaoh, and rebukes objections by invoking the potter’s authority over the clay. God endures vessels of wrath and makes known riches of glory to vessels of mercy, which include both Jews and Gentiles. He supports Gentile inclusion and a Jewish remnant with Hosea and Isaiah, showing that those once ‘not my people’ are now called God’s people while only a remnant of Israel is saved. He concludes that Gentiles attained righteousness by faith, whereas Israel, seeking it as if by works of law, stumbled over the divinely placed stone, yet those who believe in him will not be put to shame.",
+  "externalContext": "Romans was likely written by Paul around the mid-50s CE, probably from Corinth, to a mixed audience of Jewish and Gentile believers in Rome. The Roman church had navigated tensions after Claudius’s expulsion of Jews from Rome (c. 49 CE) and their later return under Nero, which shaped debates about the law, identity, and inclusion. Romans 9–11 forms a coherent unit addressing Israel’s status in God’s saving plan, answering how God’s promises relate to widespread Jewish unbelief and Gentile inclusion. Paul frequently quotes the Septuagint (Greek Old Testament), which sometimes differs in wording from the Hebrew text familiar to modern readers.",
+  "externalReferences": "Paul cites Genesis 21:12 (“In Isaac shall thy seed be called”) and Genesis 18:10 (promise to Sarah) to distinguish promise-children from mere physical descendants, and Genesis 25:23 with Malachi 1:2–3 to contrast Jacob and Esau in God’s elective purpose. He quotes Exodus 33:19 about God’s freedom in mercy and Exodus 9:16 regarding Pharaoh’s role in displaying God’s power. He applies Hosea 2:23 and 1:10 to show that those once “not my people” would be called God’s people, and Isaiah 10:22–23 and 1:9 to affirm that only a remnant of Israel would be saved. His final quotation merges Isaiah 28:16 and Isaiah 8:14, portraying Christ as both a cornerstone for believers and a stumbling stone for those who pursue righteousness by works; the potter/clay imagery echoes Isaiah 29:16 and Jeremiah 18:6.",
+  "seeAlso": [
+    "Genesis 21:12",
+    "Genesis 18:10",
+    "Genesis 25:23",
+    "Malachi 1:2-3",
+    "Exodus 33:19",
+    "Exodus 9:16",
+    "Hosea 2:23",
+    "Hosea 1:10",
+    "Isaiah 10:22-23",
+    "Isaiah 28:16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Paul’s sorrow and Israel’s privileges"
+    },
+    {
+      "range": "6-18",
+      "title": "Election, mercy, and hardening"
+    },
+    {
+      "range": "19-33",
+      "title": "Potter’s rights, remnant, and stumbling stone"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Election",
+    "Mercy and hardening",
+    "Faith versus works",
+    "Remnant"
+  ],
+  "practicalQuestions": [
+    "How does Paul’s grief for his people challenge my own concern and prayer for those who do not believe?",
+    "Where might I be relying on heritage, effort, or religious observance rather than on faith in Christ?",
+    "How can I hold together God’s sovereignty and human responsibility without dismissing either?",
+    "In what ways does the inclusion of those once considered “outsiders” reshape my view of the people God may be calling into his family?",
+    "How can I avoid stumbling over Christ by insisting on my performance instead of trusting his righteousness?"
+  ],
+  "uncertainAreas": "Ambiguities include whether “Jacob I loved, Esau I hated” targets individuals or primarily corporate/representative roles; how to parse the interplay between divine hardening and human culpability; whether “vessels of wrath fitted to destruction” implies self-preparation or divine agency; and the precise punctuation of Romans 9:5 regarding whether it explicitly calls Christ “God,” which is debated in scholarship. The potter/clay language likely alludes to Isaiah 29:16 and Jeremiah 18:6, but Paul does not name the source explicitly.",
+  "createdAt": "2025-11-03T00:35:37.602Z",
+  "modelId": "gpt-5-2025-08-07"
+}

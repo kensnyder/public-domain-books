@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Rom.13",
+  "briefOverview": "Paul instructs believers to submit to governing authorities, practice love as the fulfillment of the law, and live vigilantly in light of salvation’s nearness.",
+  "summary": "Paul asserts that all governing authorities are instituted by God, so resisting them is resisting God’s ordinance; rulers are meant to punish evil and reward good, and believers should submit for both wrath’s sake and conscience’s sake, including by paying taxes and giving respect and honor where due. He urges believers to owe no one anything except love, since love fulfills the law and summarizes the commandments against adultery, murder, theft, false witness, and coveting in the command to love one’s neighbor as oneself. Love does no harm to a neighbor; therefore it fulfills the law. Knowing the urgent time, believers should awaken, since salvation is nearer than when they first believed. They are to cast off works of darkness, put on the armor of light, and walk decently, avoiding drunkenness, sexual immorality, strife, and envy. Instead, they are to put on the Lord Jesus Christ and not make provision for the flesh.",
+  "externalContext": "Romans was likely written in the mid-50s CE to a mixed Jewish-Gentile Christian community in Rome under the early reign of Nero. Roman authorities prized social order, and magistrates and soldiers possessed real coercive power, including the right to punish lawbreakers. Taxation in the empire included direct levies (tribute) and indirect customs duties collected at toll stations. After the expulsion of Jews from Rome under Claudius (c. 49 CE), some Jewish Christians had returned, and maintaining a peaceable public reputation would have been pastorally important. Paul’s counsel encourages civic responsibility to avoid unnecessary conflict and to commend the faith through good conduct.",
+  "externalReferences": "Paul’s summary command to “love your neighbor as yourself” directly cites Leviticus 19:18, and his list of prohibitions echoes the Decalogue (Exodus 20:13–17; Deuteronomy 5:17–21). His instruction to render dues, including taxes, resonates with Jesus’ teaching to “render to Caesar” (Matthew 22:17–21). Parallel exhortations to be subject to rulers appear in Titus 3:1 and 1 Peter 2:13–17. The imagery of light and armor and the call to sober living align with 1 Thessalonians 5:5–8 and the armor-of-God motif in Ephesians 6:11–17, while “put on Christ” echoes Galatians 3:27.",
+  "seeAlso": [
+    "Leviticus 19:18",
+    "Exodus 20:13-17",
+    "Deuteronomy 5:17-21",
+    "Matthew 22:17-21",
+    "1 Peter 2:13-17",
+    "Titus 3:1",
+    "1 Thessalonians 5:5-8",
+    "Ephesians 6:11-17",
+    "Galatians 3:27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Submission to Authorities"
+    },
+    {
+      "range": "8-10",
+      "title": "Love Fulfills the Law"
+    },
+    {
+      "range": "11-14",
+      "title": "Wakefulness and Holy Living"
+    }
+  ],
+  "themes": [
+    "Civil obedience",
+    "Love fulfills law",
+    "Moral vigilance",
+    "Eschatological urgency"
+  ],
+  "practicalQuestions": [
+    "How should I honor governing authorities while remaining faithful when their actions seem unjust or immoral?",
+    "What does it look like to render taxes, respect, and honor with a clear conscience today?",
+    "In practice, how can I ensure I “owe no one anything” while actively pursuing love for neighbors?",
+    "Where might subtle habits of “darkness” (e.g., envy, strife, indulgence) be present in my life, and what concrete steps help me cast them off?",
+    "What daily practices help me “put on the Lord Jesus Christ” rather than making provision for the flesh?"
+  ],
+  "uncertainAreas": "The scope and limits of submission to authorities are not specified; readers debate how this applies under unjust regimes. “Owe no one anything” may mean avoiding debt entirely or simply paying obligations promptly. “He bears not the sword in vain” could refer to general coercive authority or specifically to capital punishment. “Salvation nearer” and the night/day imagery may indicate final consummation or a nearer historical deliverance; the text does not define the timing.",
+  "createdAt": "2025-11-03T00:38:32.370Z",
+  "modelId": "gpt-5-2025-08-07"
+}

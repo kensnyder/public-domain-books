@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Jas.2",
+  "briefOverview": "James prohibits favoritism in the community and insists that genuine faith is authenticated by merciful, obedient action.",
+  "summary": "James condemns showing partiality to the rich over the poor in the assembly, arguing that such discrimination makes people judges with evil motives and contradicts God’s choice of the poor to be rich in faith. He appeals to the “royal law”—to love one’s neighbor—and warns that partiality is sin, noting that to violate one part of the law is to be guilty of the whole. Believers should speak and act as those judged by the “law of liberty,” for merciless judgment awaits those who show no mercy, while mercy triumphs over judgment. James then argues that faith without works is useless: empty words do not clothe or feed the needy, and even demons have orthodox belief yet tremble. He illustrates with Abraham, whose offering of Isaac showed his faith working with his deeds and fulfilled the Scripture that counted his faith as righteousness; and with Rahab, whose sheltering of the messengers demonstrated her faith. He concludes that just as the body without the spirit is dead, so faith without works is dead.",
+  "externalContext": "Early Christian gatherings met in homes and adopted patterns familiar to Jewish synagogues, where seating and honor could reflect social status. In the Greco-Roman world, wealthy patrons often wielded disproportionate influence and could bring poorer persons to civil courts; such dynamics made favoritism a persistent temptation in communities seeking to bridge class divides. Honor-shame values intensified distinctions between “well-dressed” and “poor,” so James’s concrete scenario would have been immediately recognizable. The language of “assembly” (synagoge) reflects a Jewish milieu, and the “royal law” likely refers to the Torah’s love command as interpreted and emphasized in the Jesus tradition.",
+  "externalReferences": "James cites the “royal law” from Leviticus 19:18, grounding his ethic in the command to love one’s neighbor as oneself. His mention of commandments against adultery and murder echoes the Decalogue (Exodus 20:13–14; Deuteronomy 5:17–18). The statement that “there is one God” recalls the Shema (Deuteronomy 6:4). Abraham’s faith credited as righteousness comes from Genesis 15:6, and his offering of Isaac from Genesis 22:1–19; Rahab’s reception of the spies refers to Joshua 2:1–21.",
+  "seeAlso": [
+    "Leviticus 19:18",
+    "Exodus 20:13-14",
+    "Deuteronomy 5:17-18",
+    "Deuteronomy 6:4",
+    "Genesis 15:6",
+    "Genesis 22:1-19",
+    "Joshua 2:1-21",
+    "James 1:25",
+    "Matthew 5:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Warning against favoritism"
+    },
+    {
+      "range": "8-13",
+      "title": "Royal law and mercy"
+    },
+    {
+      "range": "14-26",
+      "title": "Faith proven by works"
+    }
+  ],
+  "themes": [
+    "Impartiality",
+    "Mercy",
+    "Faith and works",
+    "Love of neighbor"
+  ],
+  "practicalQuestions": [
+    "Where might I be showing subtle favoritism based on wealth, status, or appearance, and how can I correct it?",
+    "How can my community ensure that the poor are honored and practically supported rather than sidelined?",
+    "What specific actions this week would demonstrate my professed beliefs, especially toward someone in need?",
+    "When tempted to judge harshly, how can I let mercy shape my words and decisions?",
+    "How do I evaluate whether my faith is alive—what evidence of obedience and love accompanies my beliefs?"
+  ],
+  "uncertainAreas": "“Law of liberty” may denote the fulfilled moral law in Christ or the gospel’s liberating standard; the text does not define it explicitly. The identity of the “rich” who oppress and blaspheme is not specified (hostile outsiders or wealthy insiders). James’s statement that a person is “justified by works and not by faith only” raises interpretive questions about the sense of “justify” and its relation to other New Testament writings; James focuses on demonstrable, completing works as evidence of genuine faith.",
+  "createdAt": "2025-11-03T03:30:12.654Z",
+  "modelId": "gpt-5-2025-08-07"
+}

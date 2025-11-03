@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.17",
+  "briefOverview": "Paul preaches in Thessalonica and Berea with mixed reception, then addresses Athenian philosophers at the Areopagus, proclaiming the creator God, universal repentance, and the resurrection.",
+  "summary": "In Thessalonica, Paul reasons from the Scriptures for three Sabbaths that the Messiah had to suffer and rise, declaring Jesus as the Christ; some Jews, many devout Greeks, and prominent women believe, but jealous opponents incite a riot, drag Jason before city authorities, and charge the Christians with proclaiming another king. The believers send Paul and Silas to Berea, where the Jews examine the Scriptures daily and many believe, until agitators from Thessalonica arrive and stir up trouble; Paul is sent on to Athens, while Silas and Timothy remain behind. Distressed by widespread idolatry in Athens, Paul debates in the synagogue and marketplace and is brought to the Areopagus to explain his message. He points to the altar “To the Unknown God,” proclaims the one creator God who needs nothing, made all nations, and calls all people to repent, because God has appointed a day of righteous judgment through the man he raised from the dead. Responses vary: some mock the resurrection, others want to hear more, and a few, including Dionysius the Areopagite and a woman named Damaris, believe.",
+  "externalContext": "Thessalonica was a major port and the administrative center of Roman Macedonia; as a “free city,” it had local magistrates (often called politarchs) responsible for public order, which explains the legal concern about sedition. Berea was a smaller Macedonian city off the main Roman road (Via Egnatia), perhaps allowing a calmer reception. Athens, though past its political prime, remained a renowned center of philosophy and learning; the Areopagus was both a physical hill and a council known for assessing new teachings and public morals. Epicureans generally denied divine providence and an afterlife, seeking tranquility through moderated pleasure, while Stoics affirmed a providential order and emphasized virtue and living in harmony with reason. Altars to “unknown gods” are attested in ancient sources, reflecting Athenian attempts to honor deities they might have overlooked.",
+  "externalReferences": "Paul’s claim that the Messiah must suffer and rise likely draws on texts such as Isaiah 53:3–5 and Psalm 16:10, which early Christians read as pointing to Jesus’ death and resurrection. His assertion that God does not dwell in temples echoes Isaiah 66:1–2 and Solomon’s prayer in 1 Kings 8:27. The ideas that God made all nations from one and set their times and boundaries resonate with Genesis 1–11 and Deuteronomy 32:8, while judgment “in righteousness” echoes Psalm 9:8. In quoting “for we are also his offspring,” Paul cites a Greek poet (commonly identified as Aratus, Phaenomena 5; similar to Cleanthes’ Hymn to Zeus), and “in him we live and move and have our being” is often linked to Greek poetic tradition (e.g., Epimenides), showing his engagement with Athenian culture; Paul’s letters later recall the Thessalonian opposition (1 Thessalonians 1:6; 2:1–16).",
+  "seeAlso": [
+    "Isaiah 53:3-5",
+    "Psalm 16:10",
+    "Isaiah 66:1-2",
+    "1 Kings 8:27",
+    "Deuteronomy 32:8",
+    "Psalm 9:8",
+    "1 Thessalonians 1:6",
+    "1 Thessalonians 2:1-16",
+    "Acts 14:15",
+    "1 Corinthians 15:12-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Thessalonica: Gospel and Uproar"
+    },
+    {
+      "range": "10-15",
+      "title": "Berea: Examining the Scriptures"
+    },
+    {
+      "range": "16-34",
+      "title": "Athens and the Areopagus"
+    }
+  ],
+  "themes": [
+    "Proclamation of Jesus",
+    "Scripture examination",
+    "Idolatry confronted",
+    "Repentance and judgment",
+    "Resurrection"
+  ],
+  "practicalQuestions": [
+    "Do I examine claims about faith with Berean-like diligence, testing them against Scripture?",
+    "How can I speak about God in terms that people from different worldviews can grasp without diluting the message?",
+    "What modern “idols” compete for my ultimate allegiance, and how should I respond?",
+    "How does belief in a coming judgment and the resurrection shape my daily priorities and ethics?",
+    "When facing opposition or misunderstanding, how can I combine bold truth-telling with wise conduct?"
+  ],
+  "uncertainAreas": "Exactly which Scriptures Paul used in Thessalonica are not specified. The precise source of “in him we live and move and have our being” is debated among Greek poetic sources. Whether Paul’s Areopagus appearance was a formal judicial hearing or an informal inquiry is not explicit. The nature of the “security” taken from Jason (financial bond? guarantee of order?) is not detailed.",
+  "createdAt": "2025-11-03T00:22:18.207Z",
+  "modelId": "gpt-5-2025-08-07"
+}

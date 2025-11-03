@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Rom.15",
+  "briefOverview": "Paul urges the strong to build up the weak so the church may be united in praise, and he anchors Jew–Gentile unity in Scripture. He then outlines his Gentile-focused mission, plans to deliver aid to Jerusalem, hopes to visit Rome en route to Spain, and asks for prayer.",
+  "summary": "The strong are to bear with the weak, seeking their neighbor’s good for edification, following Christ’s self-giving example. Paul prays for unity so believers may glorify God with one voice and commands mutual welcome as Christ welcomed them. He asserts that Christ served the Jews to confirm the patriarchal promises, and that the Gentiles glorify God for mercy, supporting this with multiple scriptural citations. Paul describes his priestlike ministry to the Gentiles, claiming only what Christ accomplished through him—by word, deed, and signs—spreading the gospel from Jerusalem to Illyricum, aiming to preach where Christ is not known. He explains that he has been hindered from visiting Rome but plans to come on his way to Spain after delivering a collection from Macedonia and Achaia to the poor in Jerusalem, grounding Gentile giving in their debt to Jewish spiritual blessings. He requests prayers for deliverance in Judea, acceptance of his service in Jerusalem, and a joyful, refreshing visit to Rome, closing with a benediction.",
+  "externalContext": "Romans is commonly dated to the mid–50s CE, likely written from Corinth as Paul concluded his third missionary journey. The Roman church likely included both Jewish and Gentile believers, with tensions shaped by Claudius’s earlier expulsion of Jews from Rome (c. 49 CE) and their gradual return. Paul had organized a relief collection among Gentile churches for poor believers in Jerusalem, a project encouraged by Jerusalem leaders and detailed in his other letters. Illyricum refers to a Roman province along the eastern Adriatic (roughly modern western Balkans), marking the western extent of Paul’s ministry to that point. Spain was viewed as the far western edge of the Roman world and symbolized an ambitious new frontier for mission.",
+  "externalReferences": "Paul cites Psalm 69:9 to portray Christ bearing reproach, grounding the call to selfless endurance in Scripture. He supports Gentile praise and inclusion with Deuteronomy 32:43, Psalm 18:49 (paralleled in 2 Samuel 22:50), Psalm 117:1, and Isaiah 11:10, and frames his frontier mission with Isaiah 52:15. His collection for Jerusalem connects with Galatians 2:10 and his directives in 1 Corinthians 16:1–4 and 2 Corinthians 8–9. His travel span “from Jerusalem … to Illyricum” resonates with the trajectory of Acts (e.g., Acts 19–21), and his request for prayer for deliverance in Judea anticipates the opposition he would face in Jerusalem (Acts 21).",
+  "seeAlso": [
+    "Psalm 69:9",
+    "Deuteronomy 32:43",
+    "Psalm 18:49",
+    "Psalm 117:1",
+    "Isaiah 11:10",
+    "Isaiah 52:15",
+    "Galatians 2:10",
+    "1 Corinthians 16:1-4",
+    "2 Corinthians 8:1-9",
+    "Acts 21:17-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Bear with the weak"
+    },
+    {
+      "range": "8-21",
+      "title": "Gentiles included; Paul’s mission"
+    },
+    {
+      "range": "22-33",
+      "title": "Plans, collection, and prayers"
+    }
+  ],
+  "themes": [
+    "Unity",
+    "Mutual edification",
+    "Gentile inclusion",
+    "Mission to unreached",
+    "Hope"
+  ],
+  "practicalQuestions": [
+    "Where am I called to forgo my preferences to build up the faith of those who are weaker in conscience?",
+    "How can my community cultivate one voice in worship across cultural or ethnic differences?",
+    "What concrete steps can I take to welcome believers who practice disputable matters differently than I do?",
+    "In what ways can I materially support ministries or believers from whom I have received spiritual benefit?",
+    "How can I pray specifically for gospel workers facing opposition and for their work to be well received by the church?"
+  ],
+  "uncertainAreas": "Whether Paul ultimately reached Spain is not stated here; historical evidence is debated. The exact route and extent of ministry “unto Illyricum” are not specified. The nature and number of the “signs and wonders” are not detailed in this chapter, nor is the specific outcome of Jerusalem’s reception of the collection beyond Paul’s prayer for acceptance.",
+  "createdAt": "2025-11-03T01:09:03.088Z",
+  "modelId": "gpt-5-2025-08-07"
+}

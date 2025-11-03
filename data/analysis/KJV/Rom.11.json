@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Rom.11",
+  "briefOverview": "Paul insists God has not rejected Israel; a grace-chosen remnant remains, Gentile inclusion serves a redemptive purpose, and God’s plan culminates in mercy for all and praise of his wisdom.",
+  "summary": "Paul denies that God has cast off Israel, citing his own Jewish identity and Elijah’s time to show that a remnant exists by grace, not works. He explains that many in Israel were hardened while the elect obtained what they sought, with scriptural warnings about spiritual stupor. Israel’s stumbling enabled salvation to reach the Gentiles, intended also to provoke Israel to desire what the Gentiles have. Using the olive tree metaphor, he cautions Gentile believers against arrogance: they stand by faith, depend on Israel’s holy root, and can be cut off if they do not continue in God’s kindness, while natural branches can be grafted back in through faith. A “mystery” is revealed: partial hardening has come upon Israel until the full number of Gentiles enters, and in this way “all Israel” will be saved in fulfillment of God’s covenant to remove sins. God’s gifts and calling are irrevocable; he has bound all in disobedience so that he might have mercy on all, leading Paul to a doxology praising God’s unsearchable wisdom.",
+  "externalContext": "Romans was likely written by Paul in the mid-50s CE to a mixed community of Jewish and Gentile believers in Rome. The recent return of Jewish Christians after Claudius’s expulsion (c. 49 CE) may have heightened tensions around status, law, and identity within the church. Paul writes as the apostle to the Gentiles but with deep concern for Israel’s calling and future. His olive tree image draws on common Mediterranean horticulture; grafting wild branches into a cultivated tree was atypical, which Paul notes as “contrary to nature,” highlighting the surprising character of Gentile inclusion. The term “mystery” signals a once-hidden but now-revealed divine plan regarding Israel and the nations.",
+  "externalReferences": "Paul recalls Elijah’s complaint and God’s reply about a preserved remnant (1 Kings 19:10, 14, 18). The description of a God-given “spirit of stupor” blends Deuteronomy 29:4 and Isaiah 29:10 (LXX), and the table becoming a snare cites Psalm 69:22–23. The promise that a Deliverer will come from Zion and remove sins reflects Isaiah 59:20–21, with echoes of Isaiah 27:9 and Jeremiah 31:33–34 concerning the new covenant and forgiveness. The closing doxology references Isaiah 40:13 (“Who has known the mind of the Lord?”) and Job 41:11 (“Who has first given to him…?”).",
+  "seeAlso": [
+    "1 Kings 19:10-18",
+    "Deuteronomy 29:4",
+    "Isaiah 29:10",
+    "Psalm 69:22-23",
+    "Isaiah 59:20-21",
+    "Isaiah 27:9",
+    "Jeremiah 31:33-34",
+    "Isaiah 40:13",
+    "Job 41:11",
+    "Ephesians 2:11-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Remnant by Grace, Hardening"
+    },
+    {
+      "range": "11-24",
+      "title": "Olive Tree and Humility"
+    },
+    {
+      "range": "25-36",
+      "title": "Mystery, Mercy, Doxology"
+    }
+  ],
+  "themes": [
+    "Grace not works",
+    "Remnant",
+    "Gentile inclusion",
+    "Humility",
+    "Severity and kindness"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted to boast over others because of my spiritual status, background, or insights, and how can I cultivate humility?",
+    "How can Gentile Christians tangibly honor the Jewish roots of the faith and pray for/seek Israel’s good without presumption?",
+    "What practices help me “continue in his kindness” (v.22) and avoid complacency in faith?",
+    "How does the reality of God’s severity and kindness shape the way I speak about judgment, mercy, and repentance?",
+    "In what ways can my community embody mercy so that others are drawn to the gospel rather than repelled by arrogance?"
+  ],
+  "uncertainAreas": "The precise referent of “all Israel” (corporate ethnic Israel across time, a future large-scale turning of Jews to Christ, or Israel redefined in Christ) and the timing/extent of “the fullness of the Gentiles” are debated. The identity of the “root” in the olive tree (Abrahamic promises, the patriarchs, or Christ) is not explicit. The interplay between individual and corporate election/hardening is also open to multiple readings.",
+  "createdAt": "2025-11-03T00:37:14.897Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -28,13 +28,13 @@ export function getBookByName(name: string): {
 	dateEarliest: string;
 	dateLatest: string;
 	hasData: boolean;
-} | undefined;
+};
 export function getWorkByName(name: string): {
 	workOsisID: string;
 	workTitle: string;
 	workSubtitle: string;
 	aliases: string[];
-} | undefined;
+};
 export function parseCitation(citation: string): string[];
 export function parseVerseRange(givenVerseOsisIDs: string[]): {
 	bookOsisID: string;
@@ -108,5 +108,78 @@ export type VerseDataFileShape = {
 	books: BookShape[];
 	verses: VerseShape[];
 };
+export declare const works: {
+	workOsisID: string;
+	workTitle: string;
+	workSubtitle: string;
+	aliases: string[];
+}[];
+declare const w: {
+	workOsisID: string;
+	workTitle: string;
+	workSubtitle: string;
+	aliases: string[];
+}[];
+export declare const worksLookup: Record<string, (typeof w)[number]>;
+export declare const books: ({
+	workOsisID: string;
+	bookName: string;
+	bookSubtitle: string;
+	bookOsisID: string;
+	paratext: string;
+	groups: string[];
+	aliases: string[];
+	chapterLabel: string;
+	verseLabel: string;
+	authors: string[];
+	dateEarliest: string;
+	dateLatest: string;
+	hasData: boolean;
+} | {
+	workOsisID: string;
+	bookName: string;
+	bookSubtitle: string;
+	bookOsisID: string;
+	paratext: null;
+	groups: string[];
+	aliases: string[];
+	chapterLabel: string;
+	verseLabel: string;
+	authors: string[];
+	dateEarliest: string;
+	dateLatest: string;
+	hasData: boolean;
+})[];
+declare const b: ({
+	workOsisID: string;
+	bookName: string;
+	bookSubtitle: string;
+	bookOsisID: string;
+	paratext: string;
+	groups: string[];
+	aliases: string[];
+	chapterLabel: string;
+	verseLabel: string;
+	authors: string[];
+	dateEarliest: string;
+	dateLatest: string;
+	hasData: boolean;
+} | {
+	workOsisID: string;
+	bookName: string;
+	bookSubtitle: string;
+	bookOsisID: string;
+	paratext: null;
+	groups: string[];
+	aliases: string[];
+	chapterLabel: string;
+	verseLabel: string;
+	authors: string[];
+	dateEarliest: string;
+	dateLatest: string;
+	hasData: boolean;
+})[];
+export declare const booksLookup: Record<string, (typeof b)[number]>;
+export declare const groupsLookup: Record<string, typeof b>;
 
 export {};

@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "3John.1",
+  "briefOverview": "A brief personal letter commending Gaius for faithful hospitality to itinerant workers, warning about Diotrephes’s obstructive leadership, and endorsing Demetrius.",
+  "summary": "The elder greets the beloved Gaius, rejoicing that he walks in the truth and wishing him well in health and prosperity. He commends Gaius for showing faithful hospitality to traveling brothers, urging continued support so that believers may be fellow workers for the truth. He explains that these workers accept no support from outsiders and should be received by the church. The elder rebukes Diotrephes, who refuses to recognize apostolic authority, slanders, withholds hospitality, and expels those who would help. He urges imitation of good, affirms Demetrius’s good reputation, and concludes with plans for a face-to-face visit and personal greetings.",
+  "externalContext": "In the late first-century Mediterranean world, Christian communities met in homes and depended on networks of itinerant teachers and missionaries who relied on local hospitality. Patronage and travel logistics made host support crucial, while also raising concerns about false teachers and community reputation. The title “elder” could denote an authoritative church leader, possibly the same figure who authored 2 John. Avoiding financial support from nonbelievers (“Gentiles”) would have helped preserve integrity and avoid misunderstandings about motives in a culture wary of religious entrepreneurs.",
+  "externalReferences": "The joy that “children walk in truth” echoes the language of 2 John 4, and the preference for an in-person meeting parallels 2 John 12. The call to receive and support faithful messengers accords with Jesus’ teaching on welcoming his representatives (Matthew 10:40–42) and with broader exhortations to hospitality (Hebrews 13:2). The linkage of doing good with being “of God” reflects Johannine moral tests of authentic faith (1 John 2:29).",
+  "seeAlso": [
+    "2 John 4",
+    "2 John 12",
+    "Matthew 10:40-42",
+    "Hebrews 13:2",
+    "1 John 2:29",
+    "Romans 12:13",
+    "1 Peter 4:9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Commendation and hospitality appeal"
+    },
+    {
+      "range": "9-12",
+      "title": "Diotrephes rebuked; Demetrius endorsed"
+    },
+    {
+      "range": "13-14",
+      "title": "Plans for visit and greetings"
+    }
+  ],
+  "themes": [
+    "Truth",
+    "Hospitality",
+    "Church authority",
+    "Good and evil"
+  ],
+  "practicalQuestions": [
+    "How can I materially and practically support trustworthy gospel workers in ways that honor God and the church’s witness?",
+    "What steps can a congregation take when a leader hinders hospitality or rejects outside accountability?",
+    "How do I discern whom to welcome and assist, balancing generosity with faithfulness to the truth?",
+    "In conflicts, what does it look like to imitate good rather than retaliate or withdraw?",
+    "How can personal, face-to-face conversation help resolve church tensions more constructively than written exchanges?"
+  ],
+  "uncertainAreas": "The specific identities of Gaius, Diotrephes, and Demetrius are unclear; whether “Gentiles” means non-Jews generally or unbelievers specifically is ambiguous; the content and destination of the earlier letter mentioned in verse 9 are unknown; and whether Diotrephes’s actions indicate formal excommunication or social exclusion is not explicit.",
+  "createdAt": "2025-11-03T03:41:46.667Z",
+  "modelId": "gpt-5-2025-08-07"
+}

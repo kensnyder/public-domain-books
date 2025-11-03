@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "1Cor.1",
+  "briefOverview": "Paul opens with thanksgiving and urges the Corinthian church to unity centered on Christ, contrasting the wisdom and power of the cross with human eloquence and status.",
+  "summary": "Paul greets the Corinthian church, thanking God for the grace and gifts they have received and assuring them that God will sustain them blameless until Christ’s return. He appeals for unity, rejecting factional loyalties to leaders like Paul, Apollos, and Cephas, insisting that Christ is not divided and that the gospel should not be reduced to human party lines. Paul stresses that his commission is primarily to preach the gospel without relying on rhetorical polish that might empty the cross of its power. He sets the paradox of the cross against worldly expectations: Jews demand signs and Greeks seek wisdom, yet the crucified Christ is God’s power and wisdom to the called. God deliberately chooses what is weak and despised so that no one may boast, and believers find in Christ their wisdom, righteousness, sanctification, and redemption. Therefore, boasting must be in the Lord alone.\n",
+  "externalContext": "Corinth was a prosperous, cosmopolitan port city in Roman Achaia, known for its status-conscious culture and appreciation for skilled rhetoric and philosophical debate. Early Christian assemblies often met in homes and could reflect the social hierarchies and patronage dynamics of the city. Apollos, an educated Alexandrian Jew noted for eloquence, ministered in Corinth after Paul, which may have contributed to personality-driven factions. “Cephas” is the Aramaic name for Peter, suggesting some Corinthians identified with the Jerusalem apostolic authority. Sosthenes may be the same synagogue leader mentioned in Acts 18:17, though this is uncertain.\n",
+  "externalReferences": "Paul’s citation, “I will destroy the wisdom of the wise,” comes from Isaiah 29:14, underscoring God’s overturning of human pretensions. His concluding exhortation to boast only in the Lord echoes Jeremiah 9:23–24. Named individuals and groups link to other texts: Crispus’s conversion appears in Acts 18:8; Stephanas is called the “firstfruits of Achaia” in 1 Corinthians 16:15; Apollos’s ministry is described in Acts 18:24–28. The note that Jews demand signs resonates with Gospel episodes (e.g., Matthew 12:38–39; John 2:18) where religious leaders ask Jesus for a sign.\n",
+  "seeAlso": [
+    "Isaiah 29:14",
+    "Jeremiah 9:23-24",
+    "Acts 18:1-17",
+    "Acts 18:8",
+    "Acts 18:24-28",
+    "1 Corinthians 16:15",
+    "Romans 1:16",
+    "Matthew 12:38-39",
+    "John 2:18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Thanksgiving and Assurance"
+    },
+    {
+      "range": "10-17",
+      "title": "Appeal for Unity"
+    },
+    {
+      "range": "18-31",
+      "title": "Wisdom of the Cross"
+    }
+  ],
+  "themes": [
+    "Unity",
+    "Cross and wisdom",
+    "Divine calling",
+    "Boasting in the Lord",
+    "Spiritual gifts"
+  ],
+  "practicalQuestions": [
+    "Where might loyalties to particular teachers, traditions, or styles be eclipsing loyalty to Christ in my community?",
+    "How can I speak about the gospel in a way that relies on Christ’s cross rather than on rhetorical flair or status?",
+    "In what ways do I subtly boast in human achievements instead of in the Lord?",
+    "How does remembering God’s choice of the weak and despised reshape my view of people and ministry?",
+    "What practices would strengthen our shared mind and judgment so divisions do not grow?",
+    "How does hope in Christ’s coming encourage perseverance and unity now?"
+  ],
+  "uncertainAreas": "Whether Sosthenes here is the same figure as in Acts 18:17 is unclear; the precise nature of the “I am of Christ” faction is debated; and Paul’s remark about not being sent to baptize can be read in several ways (priority of preaching vs. role of baptism). The extent of social status implied by “not many wise/mighty/noble” is also interpretively debated.",
+  "createdAt": "2025-11-03T01:10:31.347Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "1Cor.8",
+  "briefOverview": "Paul addresses whether Christians may eat food offered to idols, arguing that love must govern the use of knowledge and personal freedom.",
+  "summary": "Paul begins by contrasting knowledge, which can inflate ego, with love, which builds others up. He affirms monotheism—idols are nothing and there is one God the Father and one Lord Jesus Christ—yet notes that not all believers internalize this truth in the same way. Because some still associate such food with idols, their consciences can be defiled if they eat. Food itself does not commend anyone to God; eating or abstaining makes no one spiritually superior. However, the knowledgeable must avoid letting their liberty cause a weaker believer to stumble, even by being seen dining in an idol temple. To harm a fellow believer’s conscience is to sin against Christ, so Paul resolves that he would forgo meat entirely rather than cause a brother to fall.",
+  "externalContext": "In Greco-Roman cities like Corinth, animal sacrifices were common at pagan temples, with meat subsequently eaten in temple dining rooms or sold in markets. Social and civic life often included banquets connected to guilds, patrons, or festivals held in these temple precincts, creating tensions for converts from idolatry. The distribution of sacrificial meat made it difficult to avoid entirely, and participation in such meals could signal social belonging. The concept of conscience (syneidēsis) was a familiar moral category in Greco-Roman discourse, referring to an inner awareness that could be shaped by prior beliefs and experiences. Early Christian communities wrestled with how to distinguish themselves from pagan worship while remaining engaged in civic society.",
+  "externalReferences": "Paul’s affirmation of one God and one Lord echoes Israel’s Shema (Deuteronomy 6:4) and resonates with prophetic critiques of idols as powerless (e.g., Isaiah 44:9–20; Psalm 115:4–8). His teaching closely parallels Romans 14:13–21, which urges the strong not to cause the weak to stumble over food and emphasizes that love governs liberty. The Jerusalem decree asked Gentile believers to abstain from food sacrificed to idols (Acts 15:28–29); Paul’s pastoral handling here highlights consideration for conscience and community, and he develops further cautions about idolatry and participation in temple feasts in 1 Corinthians 10:14–33.",
+  "seeAlso": [
+    "Deuteronomy 6:4",
+    "Isaiah 44:9-20",
+    "Psalm 115:4-8",
+    "Romans 14:13-21",
+    "Acts 15:28-29",
+    "1 Corinthians 10:14-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Knowledge and Love"
+    },
+    {
+      "range": "4-6",
+      "title": "One God, One Lord"
+    },
+    {
+      "range": "7-13",
+      "title": "Liberty and Conscience"
+    }
+  ],
+  "themes": [
+    "Love over knowledge",
+    "Monotheism",
+    "Conscience",
+    "Freedom and responsibility"
+  ],
+  "practicalQuestions": [
+    "Where might my exercise of freedom pressure others to act against their conscience?",
+    "How can I ensure that my knowledge leads to humility and service rather than pride?",
+    "Are there contexts where my participation could be perceived as endorsing idolatry or compromising faith?",
+    "What practices can I adopt to discern and protect the consciences of newer or vulnerable believers?",
+    "Am I willing to limit personal liberties to avoid causing others to stumble?"
+  ],
+  "uncertainAreas": "The extent to which Paul envisions anyone actually dining in idol temples here (v.10) versus offering a hypothetical scenario is debated, especially in light of his stricter warnings in 1 Corinthians 10. The meaning of “perish” for the weak brother (v.11) is also debated—whether it implies ultimate ruin or severe spiritual harm.",
+  "createdAt": "2025-11-03T01:15:06.300Z",
+  "modelId": "gpt-5-2025-08-07"
+}

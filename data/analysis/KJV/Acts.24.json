@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Acts.24",
+  "briefOverview": "Paul faces formal charges before Governor Felix and offers a defense centered on his worship of Israel’s God and belief in the resurrection. Felix delays judgment, keeps Paul in custody, and frequently summons him while hoping for a bribe.",
+  "summary": "Ananias the high priest and elders arrive with the advocate Tertullus to accuse Paul before Felix, alleging sedition, sect leadership among the Nazarenes, and attempted temple profanation. Paul replies that he came to Jerusalem to worship, was not causing public disorder, and that the accusations lack proof; he openly confesses he follows “the Way,” worships the God of his fathers, believes the Law and the Prophets, and hopes in the resurrection of the just and the unjust. He emphasizes his effort to maintain a clear conscience and notes he was found purified in the temple without a crowd, and that his original Asian accusers are absent. Paul states the real point of contention is his declaration about the resurrection. Felix, acquainted with “the Way,” postpones a decision until Lysias arrives, keeps Paul under guard with some liberties, and later, with his Jewish wife Drusilla, hears Paul on faith in Christ. As Paul speaks about righteousness, self-control, and the coming judgment, Felix becomes afraid and dismisses him, yet continues calling for him often, hoping for money. After two years, Felix is succeeded by Festus and, wishing to favor the Jews, leaves Paul imprisoned.",
+  "externalContext": "Antonius Felix served as the Roman governor (procurator) of Judea in the 50s CE and had a reputation for corruption and harshness, operating within a patronage system where bribery was common. His wife Drusilla was a Jewish princess, daughter of Herod Agrippa I, which likely gave Felix additional familiarity with Jewish affairs. Roman provincial trials typically involved accusers presenting charges with advocates, followed by the defendant’s reply, and governors could delay verdicts pending more information. Jewish parties at the time were divided over the resurrection; the Sadducees denied it while many Pharisees affirmed it, a divide that previously surfaced in Paul’s hearings. Porcius Festus succeeded Felix around 59–60 CE, partly amid discontent with Felix’s governance.",
+  "externalReferences": "The immediate backdrop is Paul’s arrest in the Jerusalem temple and subsequent hearings (Acts 21:27–36; 23:1–10), where his appeal to the resurrection divided the council (Acts 23:6–8). Paul’s claim of bringing alms and offerings to Jerusalem aligns with his collection for believers in Judea (Romans 15:25–27; 1 Corinthians 16:1–4; 2 Corinthians 8–9). His statement about the resurrection of both the just and the unjust echoes Daniel 12:2 and aligns with Jesus’ teaching (John 5:28–29). The designation “the Way” for the Christian movement appears earlier (Acts 9:2; 19:9, 23).",
+  "seeAlso": [
+    "Acts 21:27-36",
+    "Acts 23:1-10",
+    "Acts 23:6-8",
+    "Daniel 12:2",
+    "John 5:28-29",
+    "Romans 15:25-27",
+    "1 Corinthians 16:1-4",
+    "2 Corinthians 8-9",
+    "Acts 9:2",
+    "Acts 19:9",
+    "Acts 19:23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Tertullus Presents Charges"
+    },
+    {
+      "range": "10-21",
+      "title": "Paul’s Defense and Confession"
+    },
+    {
+      "range": "22-27",
+      "title": "Felix Delays and Holds Paul"
+    }
+  ],
+  "themes": [
+    "Legal accusation",
+    "Resurrection hope",
+    "Clear conscience",
+    "Political expediency",
+    "Corruption"
+  ],
+  "practicalQuestions": [
+    "How can I maintain a clear conscience when misunderstood or falsely accused?",
+    "When should I emphasize shared beliefs to build credibility with skeptics or authorities?",
+    "What does faithful witness look like within unjust or corrupt systems?",
+    "How can discussions about righteousness, self-control, and judgment be conducted with both courage and sensitivity?",
+    "Where might the desire for convenience or advantage be delaying a just decision I need to make?"
+  ],
+  "uncertainAreas": "The nature of Paul’s “offerings” is not specified; whether Felix’s “more perfect knowledge of the Way” came from Drusilla or other sources is unclear; the text does not confirm if Lysias ever appeared; the exact terms of Paul’s semi-liberty in custody are not detailed; the chronology of the two-year delay is approximate.",
+  "createdAt": "2025-11-03T00:27:00.243Z",
+  "modelId": "gpt-5-2025-08-07"
+}

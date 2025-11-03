@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.26",
+  "briefOverview": "Paul defends himself before King Agrippa by recounting his Pharisaic background, conversion to Christ, and commission to preach repentance and resurrection to Jews and Gentiles.",
+  "summary": "Paul addresses King Agrippa, emphasizing Agrippa’s expertise in Jewish matters, and explains his upbringing as a strict Pharisee and his current trial for the hope of God’s promise—the resurrection. He admits to formerly persecuting Christians but recounts his Damascus road encounter with the risen Jesus, who commissioned him to open eyes, turn people from darkness to light, and announce forgiveness and an inheritance by faith. Paul says he obeyed the vision by preaching repentance and works fitting repentance, starting in Damascus and Jerusalem, then to Judea and the Gentiles, which led to Jewish opposition. He insists his message fulfills Moses and the prophets: the Messiah must suffer, rise first from the dead, and bring light to both Jews and Gentiles. Festus interrupts, calling Paul mad, but Paul appeals to Agrippa’s knowledge of public events, asking if he believes the prophets; Agrippa responds that Paul nearly persuades him to be a Christian. The hearing ends with the dignitaries agreeing Paul has done nothing worthy of death or imprisonment, noting he could have been released had he not appealed to Caesar.",
+  "externalContext": "This hearing occurs in Caesarea under the Roman governor Porcius Festus after Paul had been held in custody for two years (following Felix’s tenure). King Agrippa II (Herod Agrippa II), a client king with jurisdiction over the temple and familiarity with Jewish law, visits with his sister Bernice; Festus seeks his input on Paul’s case before sending it to Caesar because Paul has exercised his right as a Roman citizen to appeal. Pharisees like Paul affirmed the resurrection, unlike many Sadducees, making resurrection a central point of intra-Jewish debate. The phrase “in the Hebrew tongue” likely refers to Aramaic, and “to kick against the pricks/goads” was a common proverbial image for futile resistance.",
+  "externalReferences": "Paul’s Damascus road encounter is narrated earlier in Acts 9:1–19 and recounted by Paul in Acts 22:3–21, aligning with his testimony here. His claim that the Messiah would suffer and rise resonates with passages like Isaiah 53:10–12 and Psalm 16:10, and the broader Jewish hope of resurrection is seen in Daniel 12:2. His mission to bring “light” to the people and the Gentiles echoes Isaiah’s Servant texts (Isaiah 49:6; 42:6).",
+  "seeAlso": [
+    "Acts 9:1-19",
+    "Acts 22:3-21",
+    "Isaiah 53:10-12",
+    "Psalm 16:10",
+    "Isaiah 49:6",
+    "Isaiah 42:6",
+    "Daniel 12:2",
+    "Luke 24:46-47",
+    "1 Corinthians 15:3-8",
+    "Acts 24:14-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Paul’s Jewish Background"
+    },
+    {
+      "range": "12-23",
+      "title": "Vision and Commission"
+    },
+    {
+      "range": "24-32",
+      "title": "Reactions and Verdict"
+    }
+  ],
+  "themes": [
+    "Resurrection hope",
+    "Repentance and deeds",
+    "Witness to Gentiles",
+    "Conversion and calling",
+    "Innocence under law"
+  ],
+  "practicalQuestions": [
+    "How does the hope of resurrection shape courage and integrity when facing misunderstanding or opposition?",
+    "What would “works befitting repentance” look like in my relationships and public life?",
+    "How can I share a personal faith story respectfully with skeptical listeners?",
+    "Where can I appeal to shared assumptions or known facts to build common ground in spiritual discussions?",
+    "How do I maintain humility and clarity when my convictions are labeled as irrational?"
+  ],
+  "uncertainAreas": "Agrippa’s statement (“Almost thou persuadest me to be a Christian”) may be ironic, tentative, or sincere; the text doesn’t make his tone explicit. The phrase “first to rise from the dead” can mean first in rank and permanence rather than the first ever to be raised. “Hebrew tongue” likely refers to Aramaic, but the exact language is not specified. The extent and nature of Paul “compelling them to blaspheme” is not detailed.",
+  "createdAt": "2025-11-03T00:27:56.798Z",
+  "modelId": "gpt-5-2025-08-07"
+}

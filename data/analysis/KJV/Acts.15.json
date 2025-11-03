@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Acts.15",
+  "briefOverview": "The Jerusalem council decides whether Gentile believers must be circumcised and keep the Mosaic law. The chapter records the ruling, its communication to Antioch, and the subsequent split between Paul and Barnabas.",
+  "summary": "Teachers from Judea insist that Gentile converts must be circumcised, prompting Paul and Barnabas to consult the apostles and elders in Jerusalem. After debate, Peter recalls God’s acceptance of Gentiles by giving them the Holy Spirit without distinction, and James cites the prophets to affirm Gentile inclusion. The council rules not to impose the law of Moses on Gentiles but asks them to abstain from idolatrous pollution, sexual immorality, meat from strangled animals, and blood. A letter conveying this decision—framed as guided by the Holy Spirit—is sent with Judas (Barsabbas) and Silas, who encourage the Antioch church. Later, Paul and Barnabas disagree sharply over taking John Mark, resulting in two teams: Barnabas with Mark to Cyprus and Paul with Silas through Syria and Cilicia to strengthen churches.",
+  "externalContext": "In first-century Judaism, circumcision (Genesis 17) and dietary rules marked covenant identity, and table-fellowship between Jews and Gentiles was socially and religiously sensitive. Antioch in Syria was a major, ethnically mixed hub of the early Jesus movement. Jerusalem functioned as a respected center for leadership, with apostles and elders deliberating communal questions. The four prohibitions align with practices that enabled shared meals and avoided scandal in mixed Jewish-Gentile communities. Public reading of Moses in synagogues every Sabbath (v. 21) reflects the widespread Jewish diaspora and the ongoing visibility of Torah in cities across the Roman world.",
+  "externalReferences": "Peter’s defense of Gentile inclusion recalls Cornelius’s conversion, where the Holy Spirit fell on Gentiles apart from circumcision (Acts 10:34–48; 11:15–18). James cites Amos 9:11–12 (in a form close to the Septuagint) to support God’s plan to include the nations under the restored “tent of David.” The four restrictions resonate with Leviticus 17–18 regarding blood and sexual immorality and anticipate later pastoral guidance on food offered to idols and conscience (1 Corinthians 8:1–13; 10:19–33; Romans 14:1–23). Paul’s account of a Jerusalem meeting about Gentile inclusion parallels this chapter (Galatians 2:1–10).",
+  "seeAlso": [
+    "Acts 10:34-48",
+    "Acts 11:15-18",
+    "Galatians 2:1-10",
+    "Amos 9:11-12",
+    "Leviticus 17:10-14",
+    "Leviticus 18:6-23",
+    "1 Corinthians 8:1-13",
+    "1 Corinthians 10:19-33",
+    "Romans 14:1-23",
+    "Acts 21:25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-21",
+      "title": "Council Debate and Decision"
+    },
+    {
+      "range": "22-35",
+      "title": "Letter Delivered to Antioch"
+    },
+    {
+      "range": "36-41",
+      "title": "Paul and Barnabas Divide"
+    }
+  ],
+  "themes": [
+    "Gentile inclusion",
+    "Grace over law",
+    "Church unity",
+    "Spirit-guided discernment",
+    "Mission amid conflict"
+  ],
+  "practicalQuestions": [
+    "How should communities handle sharp doctrinal disputes while preserving unity and mission?",
+    "What core practices today help diverse believers share fellowship without causing needless offense?",
+    "When is it wise to set aside personal freedoms for the sake of others’ consciences?",
+    "How do we discern the Spirit’s guidance alongside Scripture and communal deliberation?",
+    "What can we learn from Paul and Barnabas about handling irreconcilable ministry disagreements?"
+  ],
+  "uncertainAreas": "The precise rationale and ongoing applicability of the four prohibitions (whether primarily for table-fellowship, moral essentials, or both) is debated. The identification of the James who speaks (commonly understood as James the brother of Jesus) is not stated explicitly here. The relationship between this council and Paul’s account in Galatians 2 is contested among scholars. Verse 34 about Silas remaining in Antioch has manuscript variation in some traditions.",
+  "createdAt": "2025-11-03T00:20:11.455Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "Jas.5",
+  "briefOverview": "James denounces unjust wealthy oppressors and calls believers to patient endurance, truthful speech, prayerful care for the sick, and active restoration of those who stray.",
+  "summary": "James warns rich oppressors that their hoarded wealth will testify against them, highlighting fraudulent wages and luxurious self-indulgence that has harmed the righteous. He urges believers to be patient until the Lord’s coming, taking farmers, the prophets, and Job as models of endurance, and to avoid grumbling because the Judge is near. Above all, they must avoid oaths and let simple truthfulness govern their speech. The community is to respond to suffering with prayer and to joy with psalms; the sick should call the elders to pray and anoint with oil, with the prayer of faith bringing healing and forgiveness. Mutual confession and intercession are urged, as the earnest prayer of a righteous person is powerful, exemplified by Elijah’s prayers regarding drought and rain. Finally, James calls believers to turn back those who wander from the truth, noting that such restoration saves a soul from death and covers a multitude of sins.",
+  "externalContext": "James is traditionally attributed to James the brother of Jesus and leader of the Jerusalem church, likely addressing Jewish Christians dispersed among the nations. In first-century Palestine and the wider Roman world, day laborers were economically vulnerable, and withholding wages was a pervasive injustice. The title “Lord of Sabaoth” (Lord of Hosts) evokes God’s warrior-king sovereignty over angelic armies, underscoring divine judgment against oppression. The “early and latter rains” reflect the agricultural rhythm of the Levant, with autumn and spring rains essential to harvests. Anointing with oil was known both for its medicinal use and as a symbolic act of consecration in Jewish practice.",
+  "externalReferences": "James’s ban on oaths closely parallels Jesus’ teaching to let one’s yes be yes and no be no (Matthew 5:34–37). The denunciation of wealthy exploiters echoes laws against withholding wages (Deuteronomy 24:14–15) and prophetic critiques of economic injustice (Amos 8:4–6; Malachi 3:5). Elijah’s three-and-a-half-year drought is narrated in 1 Kings 17–18, with the duration specified in Luke 4:25. The appeal to Job’s endurance invokes the narrative of Job’s trials and God’s merciful outcome (Job 1–2; Job 42), and the phrase about covering a multitude of sins resonates with 1 Peter 4:8, though James frames it in terms of restoring the erring.",
+  "seeAlso": [
+    "Deuteronomy 24:14-15",
+    "Amos 8:4-6",
+    "Malachi 3:5",
+    "Matthew 5:34-37",
+    "1 Kings 17:1",
+    "1 Kings 18:1",
+    "Luke 4:25",
+    "Job 1-2",
+    "Job 42:10-12",
+    "1 Peter 4:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Woe to Rich Oppressors"
+    },
+    {
+      "range": "7-12",
+      "title": "Patient Endurance and Integrity"
+    },
+    {
+      "range": "13-20",
+      "title": "Prayer, Healing, and Restoration"
+    }
+  ],
+  "themes": [
+    "Justice and judgment",
+    "Patience",
+    "Truthful speech",
+    "Prayer",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "Where might I be complicit in economic injustice, and how can I make restitution promptly (e.g., paying fair wages on time)?",
+    "What practices can help me cultivate patience and steadiness as I await God’s timing?",
+    "How can my speech become more consistently truthful without resorting to oaths or exaggeration?",
+    "Who in my community is suffering or sick, and how can we respond with prayer, care, and practical support?",
+    "What would mutual confession and intercessory prayer look like in my setting, and how can it be done wisely and safely?",
+    "Is there someone straying from the truth whom I can gently pursue and help restore?"
+  ],
+  "uncertainAreas": "The identity of “the just” whom the rich have condemned and killed is not specified. The scope of healing in verses 14–15 (physical, spiritual, or both) and how anointing with oil functions (medicinal, symbolic, or sacramental) is debated. “Save a soul from death” in verse 20 could refer to physical death or final judgment. The harmonization of the three years and six months with 1 Kings’ timeline is handled by Luke 4:25, but details remain debated.",
+  "createdAt": "2025-11-03T03:32:30.643Z",
+  "modelId": "gpt-5-2025-08-07"
+}

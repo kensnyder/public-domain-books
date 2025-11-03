@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Cor.6",
+  "briefOverview": "Paul urges the Corinthians to respond to God’s grace with urgency, commending the integrity of his ministry through hardship and calling them to holiness as God’s temple.",
+  "summary": "Paul appeals that the Corinthians not receive God’s grace in vain, insisting that now is the favorable time of salvation. He defends the credibility of his ministry by listing endurance through sufferings and by exhibiting purity, the Spirit’s power, and paradoxical strength in weakness. He speaks candidly of his open heart toward them and asks for reciprocal affection. Paul then commands them not to be unequally yoked with unbelievers, posing rhetorical contrasts between righteousness and lawlessness, light and darkness, Christ and Belial, believer and unbeliever. He identifies the community as the temple of the living God and strings together scriptural promises to call for separation from impurity. God’s promise is to dwell among them, receive them, and be a Father to them, making them His sons and daughters.",
+  "externalContext": "Corinth was a major Greco-Roman port with numerous temples and civic cults; participation in guilds and public life often entailed involvement with idolatrous rituals and meals. Paul’s relationship with the Corinthian church had been strained by rival teachers and questions about his apostolic legitimacy, prompting his defense of his ministry’s integrity and motives throughout 2 Corinthians. In the mid-first century, itinerant apostles regularly faced social suspicion, economic precarity, and legal vulnerability—hence Paul’s catalog of hardships. The language of being God’s temple builds on Jewish notions of holiness and presence, reinterpreted for a Gentile-majority church in a pagan environment. The term “Belial” (or Beliar) was a Jewish way of personifying wickedness and opposition to God by Paul’s time. The call to separation would have resonated amid pressures to conform to civic-religious expectations in Corinth.",
+  "externalReferences": "Verse 2 quotes Isaiah 49:8 (“at a favorable time I listened to you”) to stress the urgency of responding to God’s grace now. The promises in verses 16–18 weave together Leviticus 26:11–12 and Ezekiel 37:27 (“I will dwell among them … they shall be my people”), Isaiah 52:11 (“come out … touch no unclean thing”), and 2 Samuel 7:14 (God’s fatherly promise), applying them to the church as God’s dwelling. The “unequally yoked” image likely echoes Deuteronomy 22:10 (not yoking different animals), here used metaphorically for incompatible partnerships with unbelief and idolatry. Paul’s hardship list anticipates his fuller catalog in 2 Corinthians 11:23–29 and parallels earlier paradoxes in 2 Corinthians 4:8–10; the temple imagery also aligns with 1 Corinthians 3:16–17 and 6:19.",
+  "seeAlso": [
+    "Isaiah 49:8",
+    "Leviticus 26:11-12",
+    "Ezekiel 37:27",
+    "Isaiah 52:11",
+    "2 Samuel 7:14",
+    "Deuteronomy 22:10",
+    "2 Corinthians 11:23-29",
+    "2 Corinthians 4:8-10",
+    "1 Corinthians 3:16-17",
+    "1 Corinthians 6:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Ministry Commended Through Suffering"
+    },
+    {
+      "range": "11-13",
+      "title": "Openhearted Appeal for Reciprocity"
+    },
+    {
+      "range": "14-18",
+      "title": "Separation as God’s Temple"
+    }
+  ],
+  "themes": [
+    "Ministry integrity",
+    "Suffering and paradox",
+    "Holiness and separation",
+    "Divine presence",
+    "Urgency of salvation"
+  ],
+  "practicalQuestions": [
+    "Where might I be receiving God’s grace “in vain,” and what concrete steps would show a timely response?",
+    "How can I embody integrity in service so that the ministry is not discredited, especially amid hardship or misunderstanding?",
+    "What relationships or partnerships in my life function as an “unequal yoke,” and how should I discern appropriate boundaries?",
+    "In what ways do my choices reflect that I belong to God’s temple rather than to cultural idols?",
+    "How can I cultivate openhearted relationships in the community, balancing affection with clear convictions about holiness?"
+  ],
+  "uncertainAreas": "The precise scope of “unequally yoked” (marriage, business, civic-religious associations) is unstated; the list of hardships may mix specific events with general patterns; “Belial” could be a personification of wickedness or a demonic figure; the exact sources and boundaries of the composite citations in vv.16–18 are blended.",
+  "createdAt": "2025-11-03T01:24:21.631Z",
+  "modelId": "gpt-5-2025-08-07"
+}

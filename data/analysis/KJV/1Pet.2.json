@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "1Pet.2",
+  "briefOverview": "Peter urges believers to grow in holiness, embrace their identity as God’s priestly people, and live honorably and submissively in society, following Christ’s example in suffering.",
+  "summary": "Believers are to put away malice, deceit, hypocrisy, envy, and slander, and crave the pure nourishment of God’s word. Coming to Christ, the living stone rejected by people but chosen by God, they themselves are built into a spiritual house and holy priesthood to offer acceptable spiritual sacrifices. They are named a chosen race, royal priesthood, and holy nation—once not a people but now God’s people—so that they proclaim the One who brought them from darkness into light. As sojourners, they must abstain from fleshly lusts and conduct themselves honorably among outsiders, submitting to human authorities and silencing critics by doing good, using their freedom to serve God. Servants are exhorted to endure unjust suffering, for Christ suffered innocently, did not retaliate, bore sins on the cross, and thus believers, once straying sheep, have returned to the Shepherd and Overseer of their souls.",
+  "externalContext": "The letter addresses Christians in Roman Asia Minor, where believers were a small minority often maligned as evildoers. Roman civic order emphasized loyalty to the emperor (the “king”) and to provincial governors who maintained public order. Slavery was a pervasive institution, and household codes (instructions for various social roles) were common in Greco-Roman moral discourse; early Christians adapted such codes to express their witness within existing structures. Public accusations against Christians sometimes centered on perceived disloyalty or social subversion, making exhortations to honorable conduct and submission salient.",
+  "externalReferences": "Peter quotes multiple Old Testament texts to describe Christ as the cornerstone: Isaiah 28:16 (the chosen cornerstone that prevents shame), Psalm 118:22 (the rejected stone becoming the head of the corner), and Isaiah 8:14 (a stone of stumbling). The identity of believers as once “not a people” but now God’s people echoes Hosea 1:9–10 and 2:23. The depiction of Christ’s innocent suffering and atoning death draws from Isaiah 53:4–6, 9, including “by his stripes you were healed” and the image of straying sheep. The temple imagery of believers as a spiritual house and priesthood resonates with broader biblical themes of God dwelling with his people (cf. later developed in Ephesians 2:19–22).",
+  "seeAlso": [
+    "Isaiah 28:16",
+    "Psalm 118:22",
+    "Isaiah 8:14",
+    "Hosea 2:23",
+    "Hosea 1:9-10",
+    "Isaiah 53:4-6",
+    "Isaiah 53:9",
+    "Matthew 5:10-16",
+    "Romans 13:1-7",
+    "Ephesians 2:19-22",
+    "John 10:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Crave pure spiritual milk"
+    },
+    {
+      "range": "4-10",
+      "title": "Living stone and royal priesthood"
+    },
+    {
+      "range": "11-25",
+      "title": "Honorable conduct and Christ’s example"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "New identity",
+    "Submission and witness",
+    "Suffering unjustly",
+    "Christ’s example"
+  ],
+  "practicalQuestions": [
+    "Which attitudes or speech habits do I need to lay aside to grow spiritually (v.1)?",
+    "How can I actively live as part of a ‘spiritual house’ and offer ‘spiritual sacrifices’ in daily life (v.5)?",
+    "What practices help my conduct remain honorable among skeptics so that good works silence accusations (vv.12, 15)?",
+    "How should I balance honoring all people and the governing authorities while fearing God above all (v.17)?",
+    "When treated unfairly, how can I follow Christ’s pattern of non-retaliation and entrusting myself to God who judges justly (vv.21–23)?"
+  ],
+  "uncertainAreas": "The phrase “whereunto also they were appointed” (v.8) raises questions about the nature of divine appointment and human disobedience. “Day of visitation” (v.12) is ambiguous—whether a time of judgment, salvation, or God’s gracious intervention. How submission to rulers (vv.13–17) applies under unjust regimes can be debated. The guidance to servants under harsh masters (vv.18–20) requires careful translation to contemporary contexts without endorsing abusive structures.",
+  "createdAt": "2025-11-03T03:33:50.833Z",
+  "modelId": "gpt-5-2025-08-07"
+}

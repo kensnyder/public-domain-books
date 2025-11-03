@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Rom.1",
+  "briefOverview": "Paul introduces his gospel-centered mission and presents the letter’s thesis: God’s righteousness is revealed by faith while God’s wrath is revealed against human idolatry and unrighteousness.",
+  "summary": "Paul identifies himself as a servant and apostle set apart for the gospel promised in the Scriptures, centered on Jesus, David’s descendant, declared Son of God in power by the resurrection. He greets the believers in Rome, thanks God for their widely known faith, and expresses his desire to visit them for mutual strengthening and fruitful ministry among Gentiles. He states he is unashamed of the gospel, God’s power for salvation to Jew first and also Greek, because in it the righteousness of God is revealed from faith to faith, as Scripture says, “The just shall live by faith.” He then argues that God’s wrath is revealed against those who suppress truth, for knowledge of God is evident in creation, yet they failed to honor or thank God and exchanged His glory for images. As God “gave them over,” idolatry led to dishonorable passions and a breadth of vices, and though people know God’s righteous judgment, they not only practice such things but approve those who do.",
+  "externalContext": "Romans was likely written in the mid-first century (often dated around AD 56–58), probably from Corinth, to a network of house churches in Rome composed of both Jewish and Gentile believers. The Roman church likely experienced tensions after Jews were expelled from Rome under Claudius (Acts 18:2) and later returned, reshaping community dynamics. In the wider Greco-Roman world, polytheism, temple cults, and philosophical claims to wisdom were common, providing a backdrop for Paul’s critique of idolatry and “wisdom.” Public displays of imperial and traditional cults in Rome made loyalty to the Creator God and refusal of idols socially conspicuous. Paul frames his mission as trans-ethnic, addressing the imperial capital with a gospel intended for all nations.",
+  "externalReferences": "Paul’s statement “The just shall live by faith” quotes Habakkuk 2:4, anchoring his thesis in prophetic Scripture. The claim that Jesus is of “the seed of David” reflects the royal promise to David (2 Samuel 7:12–16) and resonates with royal sonship language (Psalm 2:7). His appeal to God’s self-disclosure in creation echoes Psalm 19:1–4. The critique of exchanging God’s glory for images parallels Deuteronomy 4:15–19 and Isaiah 44:9–20, and the Jew-first/then-Greek pattern appears in Acts 13:46.",
+  "seeAlso": [
+    "Habakkuk 2:4",
+    "2 Samuel 7:12-16",
+    "Psalm 2:7",
+    "Psalm 19:1-4",
+    "Deuteronomy 4:15-19",
+    "Isaiah 44:9-20",
+    "Acts 13:46",
+    "1 Thessalonians 1:9-10",
+    "Acts 14:15",
+    "Romans 3:9-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Greeting and Gospel Summary"
+    },
+    {
+      "range": "8-15",
+      "title": "Paul’s Desire to Visit"
+    },
+    {
+      "range": "16-32",
+      "title": "Thesis and Human Unrighteousness"
+    }
+  ],
+  "themes": [
+    "Gospel power",
+    "Righteousness by faith",
+    "Divine wrath",
+    "Idolatry’s corruption",
+    "Jew–Gentile scope"
+  ],
+  "practicalQuestions": [
+    "Where might I be exchanging the Creator for created things in my loyalties, habits, or desires?",
+    "What would it look like for me to be unashamed of the gospel in my setting?",
+    "How can my faith contribute to mutual encouragement and stability in my community?",
+    "Do I respond to the witness of creation with gratitude and worship, or with indifference?",
+    "How does trusting Christ shape my obedience and ethics, rather than relying on self-justification?"
+  ],
+  "uncertainAreas": "The phrase “from faith to faith” (v.17) is debated—whether it means from God’s faithfulness to human faith, from first to last by faith, or faith spreading between people. “Declared Son of God with power … by the resurrection” (v.4) raises questions about how resurrection relates to Jesus’ eternal sonship. The present tense of “wrath is revealed” (v.18) may indicate a present judicial handing over, anticipation of final judgment, or both. The meaning of “natural” and “against nature” (vv.26–27) and how it maps onto creation/creational norms is interpreted differently among scholars. The extent of “worthy of death” (v.32) concerns divine judgment rather than specific civil penalties, but the scope remains debated.",
+  "createdAt": "2025-11-03T00:30:14.512Z",
+  "modelId": "gpt-5-2025-08-07"
+}

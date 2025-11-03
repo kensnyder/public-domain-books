@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "1Thess.2",
+  "briefOverview": "Paul defends the sincerity and integrity of his ministry among the Thessalonians, commends their reception of God’s word amid persecution, and expresses an intense desire to see them again. He frames them as his joy and crown at Christ’s coming.",
+  "summary": "Paul recalls entering Thessalonica with boldness after suffering in Philippi, insisting their exhortation was free from deceit, impurity, and people-pleasing, aiming instead to please God who tests hearts. He denies using flattery or greed and notes they could have claimed apostolic rights but chose gentleness and self-support, laboring night and day so as not to burden anyone. They behaved in a holy, just, and blameless manner, exhorting each believer as a father does his children to walk worthy of God who calls them into His kingdom and glory. Paul thanks God that they received the message as God’s word, which is at work in believers, and he notes they have imitated the Judean churches by enduring persecution from their own countrymen. He describes opponents who hinder the proclamation to Gentiles and asserts that wrath has come upon such opposition. Though separated physically, Paul affirms deep affection, explains repeated attempts to visit that were hindered by Satan, and declares the Thessalonians to be his hope, joy, and crown before the Lord at His coming.",
+  "externalContext": "Thessalonica was a major port and political center in Roman Macedonia, where diverse religious and philosophical movements operated and itinerant teachers often sought patronage. Paul’s team likely supported themselves through manual labor (e.g., tentmaking/leatherwork), avoiding accusations that they preached for financial gain. The letter is commonly dated to around AD 50–51, likely from Corinth, shortly after Paul’s forced departure from Thessalonica due to unrest. Suspicion toward traveling rhetoricians and the norms of honor/shame and patronage form the social backdrop for Paul’s emphasis on integrity, gentleness, and refusing to be a burden. The mother and father metaphors draw on Greco-Roman familial ideals of nurturing and moral formation.",
+  "externalReferences": "Paul’s prior suffering in Philippi (beating and imprisonment) and the tumult in Thessalonica are narrated in Acts 16:19–40 and Acts 17:1–9, clarifying the “much contention” he mentions. His refusal to take financial support and his right to such support are discussed in 1 Corinthians 9:3–15 and echoed in 2 Thessalonians 3:7–9. The claim that their opponents “killed the Lord Jesus” and persecuted God’s messengers resonates with Jesus’ indictment of those who kill the prophets (Matthew 23:29–37) and the persecution of the Judean church (Acts 8:1–3; 12:1–3). Paul’s eschatological hope in the Thessalonians as a “crown” at the Lord’s coming anticipates his later teaching on the Parousia in 1 Thessalonians 4:15–17.",
+  "seeAlso": [
+    "Acts 16:19-40",
+    "Acts 17:1-9",
+    "1 Corinthians 9:3-15",
+    "2 Thessalonians 3:7-9",
+    "Matthew 23:29-37",
+    "Acts 8:1-3",
+    "Acts 12:1-3",
+    "1 Thessalonians 4:15-17",
+    "2 Corinthians 2:17",
+    "2 Corinthians 4:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Integrity of Paul’s Ministry"
+    },
+    {
+      "range": "13-16",
+      "title": "Reception and Shared Suffering"
+    },
+    {
+      "range": "17-20",
+      "title": "Hindered Visit and Future Joy"
+    }
+  ],
+  "themes": [
+    "Integrity in ministry",
+    "Persecution",
+    "Divine approval",
+    "Pastoral affection",
+    "Eschatological hope"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted to seek human approval or use flattery, and how can I aim to please God instead?",
+    "What practices would help me serve others without being financially or emotionally burdensome?",
+    "How can I combine gentleness and firm exhortation when guiding those in my care?",
+    "In what ways can I prepare to endure opposition for doing what is right and true?",
+    "What does “walking worthy of God” look like in my daily decisions and relationships?",
+    "How should I discern and respond when obstacles to good work feel like spiritual hindrance?"
+  ],
+  "uncertainAreas": "The precise referent and timing of “the wrath has come upon them to the uttermost” (v.16) is unclear (present calamity vs. proleptic divine judgment). The mechanism of “Satan hindered us” (v.18) is unspecified. The nuance of “we might have been burdensome, as the apostles of Christ” (v.6) may refer to financial rights or authoritative claims; the scope of “apostles” here could be narrower or broader than the Twelve.",
+  "createdAt": "2025-11-03T03:00:33.040Z",
+  "modelId": "gpt-5-2025-08-07"
+}

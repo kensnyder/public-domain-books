@@ -21,8 +21,8 @@ export default function parseCitation(citation: string) {
       verseOsisIDs.push(last.replace(/\.\d+$/, `.${group}`));
       continue;
     }
-    const numRange = group.match(/^(.+?)\s*[–-]\s*(\d+)$/);
-    if (numRange) {
+    const numRange = group.match(/^([^–-]+?)\s*[–-]\s*(\d+)$/);
+    if (numRange && group.includes(':')) {
       // e.g. a range such as "John 3:16-17"
       const { bookOsisID, chapter, verse } = parseVerse(numRange[1]);
       if (!bookOsisID || !chapter || !verse) {
@@ -37,6 +37,17 @@ export default function parseCitation(citation: string) {
       const end = `${bookOsisID}.${chapter}.${numRange[2]}`;
       const range = parseVerseRange([start, end]);
       verseOsisIDs.push(...range.verseOsisIDs);
+      continue;
+    } else if (numRange) {
+      // chapter range such as "2 Kings 3-4"
+      const bookChapter = numRange[1].match(/^(.+?)\s(\d+)$/);
+      if (!bookChapter) {
+        continue;
+      }
+      const bookName = bookChapter[1];
+      const book = getBookByName(bookName);
+      const bookOsisID = book?.bookOsisID || bookName;
+      verseOsisIDs.push(`${bookOsisID}.${bookChapter[2]}.1`);
       continue;
     }
     // we have a single verse

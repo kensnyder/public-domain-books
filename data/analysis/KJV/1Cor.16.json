@@ -1,0 +1,51 @@
+{
+  "chapterOsisID": "1Cor.16",
+  "briefOverview": "Paul concludes with directions for a relief collection, travel plans, commendations of coworkers, and final exhortations and greetings.",
+  "summary": "Paul instructs the Corinthians to set aside funds weekly on the first day so the collection for the saints in Jerusalem can be sent by approved delegates, possibly with him. He outlines plans to pass through Macedonia and potentially winter with them, but to remain in Ephesus until Pentecost because a powerful opportunity has opened amid opposition. He asks them to receive Timothy without fear and not to despise him, notes that Apollos is not coming now, and calls the church to watchfulness, steadfast faith, courage, strength, and love. He urges submission to devoted servants like the household of Stephanas and acknowledges Stephanas, Fortunatus, and Achaicus for refreshing him. Churches in Asia send greetings, including Aquila and Priscilla and the church in their house; he bids them greet one another with a holy kiss and signs the letter personally. He ends with a solemn warning about not loving the Lord, followed by a benediction of grace and an affirmation of his love for them in Christ Jesus.",
+  "externalContext": "Paul coordinated a multi-church collection for impoverished believers in Judea, likely due to economic hardship exacerbated by famine and social pressures on the Jerusalem church. Early Christians commonly gathered on the first day of the week, reflecting both the resurrection’s day and a developing rhythm of worship and giving. Ephesus was a major urban center where Paul ministered for an extended period and faced significant opposition. House churches were a standard form of Christian assembly in the first century, often hosted by patrons like Aquila and Priscilla. The “holy kiss” was a customary greeting that signified familial unity within the community.",
+  "externalReferences": "Paul’s Jerusalem collection is further detailed in 2 Corinthians 8–9 and mentioned in Romans 15:25–28 and Acts 24:17. The background of Apollos and factionalism appears in 1 Corinthians 1:12–13, Timothy’s role is noted in 1 Corinthians 4:17, and Paul earlier mentioned baptizing the household of Stephanas in 1 Corinthians 1:16. Aquila and Priscilla are introduced in Acts 18:2–3 and host a house church in Romans 16:3–5; the “holy kiss” appears in Romans 16:16; and the longing “Come, Lord Jesus” of Revelation 22:20 echoes the sense of “Maran-atha.”",
+  "seeAlso": [
+    "2 Corinthians 8-9",
+    "Romans 15:25-28",
+    "Acts 24:17",
+    "1 Corinthians 1:12-13",
+    "1 Corinthians 4:17",
+    "1 Corinthians 1:16",
+    "Acts 18:2-3",
+    "Romans 16:3-5",
+    "Romans 16:16",
+    "Revelation 22:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Instructions for the Collection"
+    },
+    {
+      "range": "5-12",
+      "title": "Travel Plans and Coworkers"
+    },
+    {
+      "range": "13-24",
+      "title": "Final Exhortations and Greetings"
+    }
+  ],
+  "themes": [
+    "Generosity",
+    "Steadfastness",
+    "Cooperation in ministry",
+    "Love",
+    "Recognition of leaders"
+  ],
+  "practicalQuestions": [
+    "How can I plan regular, proportionate giving so generosity is intentional rather than last-minute?",
+    "Do I welcome and support younger or less established ministers without prejudice or fear?",
+    "How can I pair firmness in faith with doing all things in love in my daily relationships?",
+    "Who are the devoted servants in my community, and how can I honor and support their work?",
+    "What practices can help my church maintain unity and warm fellowship across different groups or locations?",
+    "How should I respond when ministry partners’ plans differ from mine, while preserving trust and cooperation?"
+  ],
+  "uncertainAreas": "The precise reason(s) for the Jerusalem collection (famine, persecution, or broader poverty) are not specified here; “lay by him in store” may refer to setting aside funds privately or in gathered worship; the meaning and nuance of “Anathema Maran-atha” (curse formula and whether it means “Our Lord, come” or “The Lord has come”) is debated; and Apollos’s reasons for delaying his visit are not given.",
+  "createdAt": "2025-11-03T01:20:37.534Z",
+  "modelId": "gpt-5-2025-08-07"
+}

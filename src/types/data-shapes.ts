@@ -1,4 +1,20 @@
+export type RawBookShape = {
+  workOsisID: string;
+  bookOsisID: string;
+  bookName: string;
+  bookSubtitle: string;
+  paratext: string;
+  aliases: string[];
+  groups: string[];
+  authors: string[];
+  dateEarliest: string;
+  dateLatest: string;
+  chapterLabel: string;
+  verseLabel: string;
+  hasData: boolean;
+};
 export type BookShape = {
+  workOsisID: string;
   bookOsisID: string;
   bookName: string;
   bookSubtitle: string;
@@ -11,13 +27,20 @@ export type BookShape = {
   chapterLabel: string;
   verseLabel: string;
   chapterCount: number;
-  // verseCounts: Record<number, number>;
+  verseCounts: number[];
+};
+export type RawWorkShape = {
+  workOsisID: string;
+  workTitle: string;
+  workSubtitle: string;
+  aliases: string[];
 };
 export type WorkShape = {
   workOsisID: string;
   workTitle: string;
   workSubtitle: string;
   aliases: string[];
+  chapterCount: number;
 };
 export type VerseShape = {
   workOsisID: string;

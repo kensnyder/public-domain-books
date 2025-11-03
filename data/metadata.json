@@ -139,8 +139,7 @@
         "Bible"
       ],
       "aliases": [
-        "Josh",
-        "Jsh"
+        "Josh"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -334,10 +333,7 @@
         "Bible",
         "Persian Period"
       ],
-      "aliases": [
-        "Ezra",
-        "EZR"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -506,10 +502,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Isa",
-        "ISA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -529,10 +522,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Jer",
-        "JER"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -552,10 +542,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Lam",
-        "LAM"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -573,10 +560,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Ezek",
-        "EZK"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -596,10 +580,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Dan",
-        "DAN"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -619,10 +600,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Hos",
-        "HOS"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -640,10 +618,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Joel",
-        "JOL"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -661,10 +636,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Amos",
-        "AMO"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -682,10 +654,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Obad",
-        "OBA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -703,10 +672,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Jonah",
-        "JON"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -724,10 +690,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Mic",
-        "MIC"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -745,10 +708,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Nah",
-        "NAM"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -766,10 +726,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Hab",
-        "HAB"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -787,10 +744,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Zeph",
-        "ZEP"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -808,10 +762,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Hag",
-        "HAG"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -829,10 +780,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Zech",
-        "ZEC"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -850,10 +798,7 @@
         "Old Testament",
         "Bible"
       ],
-      "aliases": [
-        "Mal",
-        "MAL"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -983,10 +928,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "Acts",
-        "ACT"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1005,10 +947,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "Rom",
-        "ROM"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1029,10 +968,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "1Cor",
-        "1CO"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1053,10 +989,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "2Cor",
-        "2CO"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1077,10 +1010,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "Gal",
-        "GAL"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1101,10 +1031,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "Eph",
-        "EPH"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1125,10 +1052,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "Phil",
-        "PHP"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1149,10 +1073,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "Col",
-        "COL"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1173,10 +1094,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "1Thess",
-        "1TH"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1197,10 +1115,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "2Thess",
-        "2TH"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1221,10 +1136,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "1Tim",
-        "1TI"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1245,10 +1157,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "2Tim",
-        "2TI"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1269,10 +1178,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "Titus",
-        "TIT"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1293,10 +1199,7 @@
         "Bible",
         "Pauline Epistles"
       ],
-      "aliases": [
-        "Phlm",
-        "PHM"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1316,10 +1219,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "Heb",
-        "HEB"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1339,10 +1239,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "Jas",
-        "JAS"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1362,10 +1259,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "1Pet",
-        "1PE"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1385,10 +1279,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "2Pet",
-        "2PE"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1408,10 +1299,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "1John",
-        "1JN"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1431,10 +1319,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "2John",
-        "2JN"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1454,10 +1339,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "3John",
-        "3JN"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1477,10 +1359,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "Jude",
-        "JUD"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1500,10 +1379,7 @@
         "New Testament",
         "Bible"
       ],
-      "aliases": [
-        "Rev",
-        "REV"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1523,10 +1399,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "Tob",
-        "TOB"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1546,10 +1419,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "Jdt",
-        "JDT"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1592,10 +1462,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "AddEsth",
-        "ADE"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1614,9 +1481,7 @@
         "Apocrypha"
       ],
       "aliases": [
-        "Wisdom of Solomon",
-        "Wis",
-        "WIS"
+        "Wisdom of Solomon"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1638,7 +1503,6 @@
         "Apocrypha"
       ],
       "aliases": [
-        "SirP",
         "Ecclesiasticus Prologue"
       ],
       "chapterLabel": "Chapter",
@@ -1661,9 +1525,7 @@
         "Apocrypha"
       ],
       "aliases": [
-        "Ecclesiasticus",
-        "Sir",
-        "SIR"
+        "Ecclesiasticus"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1684,10 +1546,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "Bar",
-        "BAR"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1708,10 +1567,8 @@
         "Apocrypha"
       ],
       "aliases": [
-        "EpJer",
         "The Letter of Jeremiah",
-        "Letter of Jeremiah",
-        "LJE"
+        "Letter of Jeremiah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1732,10 +1589,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "DanGr",
-        "DAG"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1755,9 +1609,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "AddDan"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1800,10 +1652,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "Sus",
-        "SUS"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1823,10 +1672,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "Bel",
-        "BEL"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1844,10 +1690,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "1Macc",
-        "1MA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1865,10 +1708,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "2Macc",
-        "2MA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1886,10 +1726,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "3Macc",
-        "3MA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1907,10 +1744,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "4Macc",
-        "4MA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -1928,10 +1762,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "PrMan",
-        "MAN"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1951,10 +1782,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "1Esd",
-        "1ES"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1974,10 +1802,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "2Esd",
-        "2ES"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -1997,10 +1822,7 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [
-        "AddPs",
-        "PS2"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2018,10 +1840,7 @@
         "Rahlfs' LXX",
         "Apocrypha"
       ],
-      "aliases": [
-        "Odes",
-        "ODA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2039,10 +1858,7 @@
         "Rahlfs' LXX",
         "Apocrypha"
       ],
-      "aliases": [
-        "PssSol",
-        "PSS"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2062,10 +1878,7 @@
         "Rahlfs' variant books",
         "Apocrypha"
       ],
-      "aliases": [
-        "JoshA",
-        "JSA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2085,10 +1898,7 @@
         "Rahlfs' variant books",
         "Apocrypha"
       ],
-      "aliases": [
-        "JudgB",
-        "JDB"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2106,10 +1916,7 @@
         "Rahlfs' variant books",
         "Apocrypha"
       ],
-      "aliases": [
-        "TobS",
-        "TBS"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2129,10 +1936,7 @@
         "Rahlfs' variant books",
         "Apocrypha"
       ],
-      "aliases": [
-        "SusTh",
-        "SST"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2152,10 +1956,7 @@
         "Rahlfs' variant books",
         "Apocrypha"
       ],
-      "aliases": [
-        "DanTh",
-        "DNT"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2175,10 +1976,7 @@
         "Rahlfs' variant books",
         "Apocrypha"
       ],
-      "aliases": [
-        "BelTh",
-        "BLT"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2218,10 +2016,7 @@
         "Vulgate",
         "Apocrypha"
       ],
-      "aliases": [
-        "5Ezra",
-        "5EZ"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2242,9 +2037,7 @@
         "Apocrypha"
       ],
       "aliases": [
-        "Ezra Apocalypse",
-        "4Ezra",
-        "EZA"
+        "Ezra Apocalypse"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2265,10 +2058,7 @@
         "Vulgate",
         "Apocrypha"
       ],
-      "aliases": [
-        "6Ezra",
-        "6EZ"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2288,10 +2078,7 @@
         "Vulgate",
         "Apocrypha"
       ],
-      "aliases": [
-        "PrSol",
-        "PSO"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2311,10 +2098,7 @@
         "Vulgate",
         "Apocrypha"
       ],
-      "aliases": [
-        "PrJer",
-        "PJE"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2336,9 +2120,7 @@
       ],
       "aliases": [
         "Ethiopic Apocalypse of Enoch",
-        "Ethiopic Enoch",
-        "1En",
-        "ENO"
+        "Ethiopic Enoch"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2359,10 +2141,7 @@
         "Ethiopian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "Jub",
-        "JUB"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2381,9 +2160,7 @@
         "Apocrypha"
       ],
       "aliases": [
-        "Paraleipomena Jeremiou",
-        "4Bar",
-        "4BA"
+        "Paraleipomena Jeremiou"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2404,10 +2181,7 @@
         "Ethiopian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "1Meq",
-        "1MQ"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2425,10 +2199,7 @@
         "Ethiopian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "2Meq",
-        "2MQ"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2446,10 +2217,7 @@
         "Ethiopian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "3Meq",
-        "3MQ"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2470,9 +2238,7 @@
       "aliases": [
         "Tegsas",
         "Tegsats",
-        "Taagsas",
-        "Rep",
-        "REP"
+        "Taagsas"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2492,8 +2258,7 @@
         "Apocrypha"
       ],
       "aliases": [
-        "Rest of Jeremiah",
-        "AddJer"
+        "Rest of Jeremiah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2514,8 +2279,7 @@
       ],
       "aliases": [
         "Jossipon",
-        "Joseph ben Gorion's Medieval History of the Jews",
-        "PsJos"
+        "Joseph ben Gorion's Medieval History of the Jews"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2534,10 +2298,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "EpCorPaul",
-        "COP"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2555,10 +2316,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "3Cor",
-        "3CO"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2576,10 +2334,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "WSir",
-        "WSI"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2597,10 +2352,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "PrEuth",
-        "EUT"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2620,10 +2372,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "DormJohn",
-        "DOJ"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2643,9 +2392,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "JosAsen"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2663,9 +2410,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "T12Patr"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -2683,9 +2428,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TAsh"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2705,9 +2448,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TBenj"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2727,9 +2468,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TDan"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2749,9 +2488,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TGad"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2771,9 +2508,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TIss"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2793,9 +2528,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TJos"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2815,9 +2548,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TJud"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2837,9 +2568,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TLevi"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2859,9 +2588,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TNaph"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2881,9 +2608,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TReu"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2903,9 +2628,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TSim"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2925,9 +2648,7 @@
         "Armenian Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "TZeb"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2969,10 +2690,7 @@
         "Syriac Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "EpBar",
-        "LBA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3012,9 +2730,7 @@
         "Syriac Orthodox Canon",
         "Apocrypha"
       ],
-      "aliases": [
-        "JosephusJWvi"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3034,10 +2750,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "1Clem",
-        "1CL"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3057,10 +2770,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "2Clem",
-        "2CL"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3080,9 +2790,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "IgnEph"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3102,9 +2810,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "IgnMagn"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3124,9 +2830,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "IgnTrall"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3146,9 +2850,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "IgnRom"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3168,9 +2870,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "IgnPhld"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3190,9 +2890,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "IgnSmyrn"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3212,9 +2910,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "IgnPol"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3234,9 +2930,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "PolPhil"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3256,9 +2950,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "MartPol"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3276,10 +2968,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "Did",
-        "DID"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3294,15 +2983,12 @@
       "bookName": "Barnabas",
       "bookSubtitle": "The Epistle of Barnabas",
       "bookOsisID": "Barn",
-      "paratext": "LBA",
+      "paratext": null,
       "groups": [
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "Barn",
-        "LBA"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3322,10 +3008,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "Herm",
-        "SHE"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3343,9 +3026,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "Herm.Mand"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3363,9 +3044,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "Herm.Sim"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3383,9 +3062,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "Herm.Vis"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3403,9 +3080,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "Diogn"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3423,9 +3098,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "AposCreed"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3443,9 +3116,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "PapFrag"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3465,9 +3136,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "RelElders"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3485,9 +3154,7 @@
         "Apostolic Fathers",
         "Apocrypha"
       ],
-      "aliases": [
-        "QuadFrag"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3528,10 +3195,7 @@
         "Apocrypha",
         "Apocrypha"
       ],
-      "aliases": [
-        "PsMet",
-        "PSB"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
@@ -3551,7 +3215,6 @@
         "LDS"
       ],
       "aliases": [
-        "1Ne",
         "1 Ne",
         "1st Nephi",
         "First Nephi",
@@ -3579,7 +3242,6 @@
         "LDS"
       ],
       "aliases": [
-        "2Ne",
         "2 Ne",
         "2nd Nephi",
         "Second Nephi",
@@ -3606,9 +3268,7 @@
         "Small Plates of Nephi",
         "LDS"
       ],
-      "aliases": [
-        "Jac"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3629,9 +3289,7 @@
         "Small Plates of Nephi",
         "LDS"
       ],
-      "aliases": [
-        "Eno"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3652,9 +3310,7 @@
         "Small Plates of Nephi",
         "LDS"
       ],
-      "aliases": [
-        "Jar"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3675,9 +3331,7 @@
         "Small Plates of Nephi",
         "LDS"
       ],
-      "aliases": [
-        "Omn"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3701,9 +3355,7 @@
         "LDS",
         "Mormon"
       ],
-      "aliases": [
-        "WoM"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3726,9 +3378,7 @@
         "Large Plates of Nephi",
         "Abridgement"
       ],
-      "aliases": [
-        "Mosi"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3751,9 +3401,7 @@
         "Large Plates of Nephi",
         "Abridgement"
       ],
-      "aliases": [
-        "Alm"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3860,8 +3508,7 @@
         "Abridgement"
       ],
       "aliases": [
-        "Mmn",
-        "Morm"
+        "Mmn"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -3885,9 +3532,7 @@
         "Large Plates of Nephi",
         "Abridgement"
       ],
-      "aliases": [
-        "Eth"
-      ],
+      "aliases": [],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -3911,8 +3556,7 @@
         "Abridgement"
       ],
       "aliases": [
-        "Mni",
-        "Moro"
+        "Mni"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -3938,7 +3582,6 @@
         "LDS"
       ],
       "aliases": [
-        "Mos",
         "The Book of Moses"
       ],
       "chapterLabel": "Chapter",
@@ -3965,7 +3608,6 @@
         "LDS"
       ],
       "aliases": [
-        "Abr",
         "The Book of Abraham"
       ],
       "chapterLabel": "Chapter",
@@ -4016,6 +3658,7 @@
       ],
       "aliases": [
         "JSH",
+        "JS-H",
         "Joseph Smith History",
         "Joseph Smith--History"
       ],
@@ -4044,6 +3687,7 @@
       ],
       "aliases": [
         "JSM",
+        "JS-M",
         "Joseph Smith Matthew",
         "Joseph Smith--Matthew"
       ],

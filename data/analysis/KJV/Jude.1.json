@@ -1,0 +1,53 @@
+{
+  "chapterOsisID": "Jude.1",
+  "briefOverview": "Jude warns believers about ungodly infiltrators and urges them to contend for the faith while relying on God’s keeping power.",
+  "summary": "Jude greets his readers as those called and kept by God, blessing them with mercy, peace, and love. He shifts from intending to write about “the common salvation” to exhorting them to contend for the once-delivered faith because certain ungodly people have slipped in, twisting grace and denying the Lord. He recalls divine judgments—the unbelieving Israelites after the Exodus, rebellious angels, and Sodom and Gomorrah—as warnings. He condemns the intruders’ arrogant slander and self-indulgence, contrasts them with Michael’s restrained rebuke of the devil, and likens them to Cain, Balaam, and Korah. Jude piles up vivid images (waterless clouds, fruitless trees, wandering stars) and cites Enoch’s prophecy about the Lord’s coming judgment. He reminds readers that the apostles predicted scoffers, then urges them to build themselves up in faith, pray in the Spirit, keep in God’s love, wait for mercy, and deal with the erring with discernment—showing mercy, rescuing some, and hating the defiling influence of sin. He closes with a doxology to the God who keeps believers from falling and presents them blameless with joy.",
+  "externalContext": "Jude identifies himself as the brother of James, which early Christian tradition often associates with James the brother of Jesus; thus many understand Jude to be a relative of Jesus writing in the late first century. Early churches faced internal threats from teachers who distorted moral conduct and doctrine, a recurring pastoral concern in apostolic writings. References to “feasts of charity” likely point to communal Christian meals (agape feasts) associated with fellowship and, in some contexts, the Lord’s Supper. Jude’s allusions to Enoch and the dispute over Moses’ body reflect familiarity with Jewish apocalyptic and parascriptural traditions that were widely read in some Jewish circles of the period. The letter’s tone and content align with Jewish Second Temple rhetoric that marshals scriptural exempla and eschatological judgment to warn against apostasy.",
+  "externalReferences": "Jude recalls canonical episodes: the wilderness generation’s destruction for unbelief (Numbers 14; cf. 1 Corinthians 10:5–11), Sodom and Gomorrah’s judgment (Genesis 19), Cain’s murder (Genesis 4), Balaam’s mercenary deceit (Numbers 22–24; 31:16), and Korah’s rebellion (Numbers 16). His note that Michael says, “The Lord rebuke thee,” echoes the angel of the Lord’s rebuke of Satan in Zechariah 3:2; the specific dispute over Moses’ body is widely connected to the Assumption (Testament) of Moses, a Jewish work known in antiquity. Jude 14–15 appears to quote 1 Enoch 1:9 about the Lord coming with thousands of holy ones to execute judgment. Jude’s mention that the apostles predicted mockers parallels 2 Peter 3:3 and similar warnings in Acts 20:29–30 and 1 Timothy 4:1–2.",
+  "seeAlso": [
+    "Numbers 14:26-35",
+    "Genesis 19:1-29",
+    "Genesis 4:3-8",
+    "Numbers 16:1-35",
+    "Numbers 22:1-24:25",
+    "Numbers 31:16",
+    "Zechariah 3:1-2",
+    "1 Enoch 1:9",
+    "2 Peter 2:1-22",
+    "2 Peter 3:3-7",
+    "1 Corinthians 10:5-11",
+    "Acts 20:29-30",
+    "1 Timothy 4:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Greeting and urgent appeal"
+    },
+    {
+      "range": "5-16",
+      "title": "Warnings and exempla of judgment"
+    },
+    {
+      "range": "17-25",
+      "title": "Persevere, show mercy, and doxology"
+    }
+  ],
+  "themes": [
+    "Contending for faith",
+    "False teachers",
+    "Judgment",
+    "Perseverance",
+    "Mercy"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted to misuse grace as permission for self-indulgence, and how can I realign with obedience to Christ?",
+    "How can our community discern and guard against teaching or behaviors that deny Jesus by doctrine or lifestyle?",
+    "What practices help me “build up” my faith and keep in the love of God (e.g., prayer in the Spirit, hopeful watchfulness)?",
+    "With whom do I need to show mercy and patient correction, and when is a more urgent, protective intervention necessary?",
+    "How can we keep our gatherings and acts of charity free from self-serving motives or corrupting influences?"
+  ],
+  "uncertainAreas": "Identity and specific teachings of the infiltrators are unstated; the referent of the “angels” (Genesis 6 or another tradition) is debated; the source details of Michael’s dispute over Moses’ body are extra-biblical; verses 22–23 have textual variants affecting how many groups are in view and whether the emphasis is on mercy or fear.",
+  "createdAt": "2025-11-03T03:42:34.026Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Rom.3",
+  "briefOverview": "Paul argues that all people—Jews and Gentiles—are under sin and that God’s righteousness is revealed apart from the law, justifying believers through faith in Jesus Christ.",
+  "summary": "Paul addresses the advantage of the Jew, noting that they received God’s oracles, yet human unbelief does not nullify God’s faithfulness. He rejects the claim that human unrighteousness excuses sin or implies that people should do evil so that good may result. Drawing on Scripture, he concludes that all are under sin and that the law exposes guilt rather than justifies. He then proclaims that God’s righteousness is now revealed apart from the law, testified by the Law and the Prophets, and is given through faith in Jesus Christ to all who believe. All have sinned, but they are justified freely by God’s grace through the redemption in Christ, whom God presented as a propitiation through faith in his blood, demonstrating God’s justice. Boasting is excluded, justification is by faith apart from works of the law, and God is the God of both Jews and Gentiles; far from nullifying the law, faith establishes it.",
+  "externalContext": "Romans was written to a mixed congregation of Jewish and Gentile believers in the mid-first century, likely in the context of tensions following Claudius’s earlier expulsion of Jews from Rome and their later return. “Circumcision” functions here as shorthand for Jewish covenant identity and obedience to Torah. Paul’s argumentative style reflects Greco-Roman diatribe, posing objections and answering them to clarify his thesis. The language of “propitiation” evokes the sacrificial system and the mercy seat of the tabernacle/temple, familiar to Jewish hearers in the Second Temple period.",
+  "externalReferences": "Paul’s chain of citations about universal sin draws heavily from the Psalms and Isaiah: Psalm 14:1–3 (cf. Psalm 53:1–3) underlies “none righteous”; Psalm 5:9 and Psalm 140:3 inform the images of deceitful speech; Isaiah 59:7–8 describes violent paths without peace; and Psalm 36:1 declares “no fear of God.” His statement “that you may be justified in your words” echoes Psalm 51:4. The presentation of Christ as a “propitiation” (hilastērion) connects conceptually to the mercy seat and Day of Atonement rituals (Exodus 25:17–22; Leviticus 16), where atoning blood signifies God’s provision for sin. Paul’s conclusion that justification is by faith apart from works parallels Galatians 2:16 and aligns with Ephesians 2:8–9’s emphasis on grace.",
+  "seeAlso": [
+    "Psalm 51:4",
+    "Psalm 14:1-3",
+    "Psalm 5:9",
+    "Psalm 140:3",
+    "Isaiah 59:7-8",
+    "Psalm 36:1",
+    "Exodus 25:17-22",
+    "Leviticus 16:15-16",
+    "Galatians 2:16",
+    "Ephesians 2:8-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Jewish advantage and objections"
+    },
+    {
+      "range": "9-20",
+      "title": "Universal sin and role of Law"
+    },
+    {
+      "range": "21-31",
+      "title": "Righteousness by faith revealed"
+    }
+  ],
+  "themes": [
+    "Universal sin",
+    "God’s righteousness",
+    "Justification by faith",
+    "Law and gospel",
+    "Jew–Gentile unity"
+  ],
+  "practicalQuestions": [
+    "If all have sinned, how does that shape the way I view my need for grace and my posture toward others?",
+    "Where do I tend to “boast,” and how would relying on faith rather than works change that?",
+    "How can I honor God’s moral law while trusting Christ alone for justification?",
+    "Do I treat people from different backgrounds as equally included under one God who justifies by faith?",
+    "What does it mean, in practice, to place faith in Jesus’s atoning work rather than my performance?"
+  ],
+  "uncertainAreas": "Nuances include whether “faith of Jesus Christ” (vv. 22, 26) means believers’ faith in Christ or Christ’s own faithfulness; whether “propitiation” (v. 25) emphasizes atonement/appeasement or the mercy-seat imagery; what “sins that are past” (v. 25) specifically denotes; and in what precise sense faith “establishes the law” (v. 31).",
+  "createdAt": "2025-11-03T00:31:40.649Z",
+  "modelId": "gpt-5-2025-08-07"
+}

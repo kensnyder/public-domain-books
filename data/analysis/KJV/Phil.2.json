@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Phil.2",
+  "briefOverview": "Paul urges communal unity and humble service, grounding these in Christ’s self-emptying obedience and exaltation, and then outlines practical exhortations and travel plans involving Timothy and Epaphroditus.",
+  "summary": "Paul appeals to the Philippians to be of one mind and love, acting without rivalry but in humility and concern for others. He calls them to adopt the mindset of Christ, who, though in God’s form, took the form of a servant, became human, obeyed to the point of crucifixion, and was therefore highly exalted so that every knee will bow and every tongue confess him as Lord. On this basis, they are to work out their salvation with reverent seriousness, knowing God energizes both their willing and doing, and to avoid grumbling so they may shine as lights in a corrupt world while holding forth the word of life. Paul rejoices even if his life is being poured out for their faith and invites them to rejoice with him. He plans to send Timothy, who genuinely cares for their welfare, and expresses hope to visit soon. He is sending Epaphroditus back to them—though he nearly died in service—urging them to receive him with honor and joy.",
+  "externalContext": "Philippi was a Roman colony in Macedonia, populated by many veterans and organized with Roman civic life and honors in view, which heightens Paul’s countercultural call to humility and mutual service. Paul writes this letter from imprisonment (commonly dated to Rome around 60–62 CE, though some argue for Caesarea or Ephesus), which explains his travel uncertainty and the emphasis on co-laborers. Epaphroditus likely carried the Philippians’ financial gift to Paul (cf. Philippians 4:18) and fell gravely ill in the process, illustrating the risks of ancient travel and ministry. The honor-shame dynamics of the time make Paul’s instruction to “esteem others” and to honor a near-death messenger particularly striking.",
+  "externalReferences": "The universal bowing and confessing of Jesus’ lordship (2:10–11) echoes Isaiah 45:23, a text Paul also cites in Romans 14:11, applying Yahweh’s universal sovereignty to Christ. The description of a “crooked and perverse generation” (2:15) recalls Deuteronomy 32:5, contrasting the faithful community with wayward Israel. Paul’s imagery of being “poured out” (2:17) aligns with the libation offering (Numbers 28:7) and parallels his later self-description in 2 Timothy 4:6. The pattern of humble service commended here coheres with Jesus’ teaching that greatness is servanthood (Matthew 20:26–28) and his enacted example in washing the disciples’ feet (John 13:14–15); Paul elsewhere summarizes Christ’s self-giving in 2 Corinthians 8:9.",
+  "seeAlso": [
+    "Isaiah 45:23",
+    "Romans 14:11",
+    "Deuteronomy 32:5",
+    "Numbers 28:7",
+    "2 Timothy 4:6",
+    "Matthew 20:26-28",
+    "John 13:14-15",
+    "2 Corinthians 8:9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Unity by Christ’s example"
+    },
+    {
+      "range": "12-18",
+      "title": "Shine without grumbling"
+    },
+    {
+      "range": "19-30",
+      "title": "Timothy and Epaphroditus"
+    }
+  ],
+  "themes": [
+    "Unity",
+    "Humility",
+    "Christ’s exaltation",
+    "Obedience",
+    "Joyful service"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to act from rivalry or vanity, and how can I deliberately practice esteeming others?",
+    "What would it look like in my relationships to adopt Christ’s mindset of self-giving service?",
+    "How can I pursue my spiritual growth with seriousness while trusting that God is actively at work in my willing and doing?",
+    "In what situations do I tend to murmur or dispute, and how might I instead shine as a light through gratitude and peaceable speech?",
+    "Who in my community has served sacrificially, and how can I honor and support them as Paul urges with Epaphroditus?"
+  ],
+  "uncertainAreas": "The precise meaning of “in the form of God” and “emptied himself” (2:6–7) involves debated Christological nuances; Paul’s exact location of imprisonment is not stated; “work out your own salvation” (2:12) can be read in various ways regarding individual vs. communal emphasis; and the scope of “things under the earth” (2:10) is not fully specified.",
+  "createdAt": "2025-11-03T02:54:31.921Z",
+  "modelId": "gpt-5-2025-08-07"
+}

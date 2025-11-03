@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Rom.6",
+  "briefOverview": "Paul argues that grace does not license sin; union with Christ’s death and resurrection entails a new way of life. Believers are to present themselves to God as servants of righteousness, leading to holiness and life.",
+  "summary": "Paul rejects the idea that grace encourages sin, reasoning that those baptized into Christ were united with his death and thus should walk in newness of life. He teaches that the “old man” was crucified with Christ so that the “body of sin” might be rendered powerless, and believers should reckon themselves dead to sin and alive to God. Consequently, they must not let sin reign in their bodies but present their members as instruments of righteousness, since they are under grace, not under the law. He uses slavery imagery to show that obedience determines one’s master: sin leads to death, while obedience leads to righteousness and holiness. Formerly enslaved to sin, the readers now serve God and bear fruit for holiness, with the end being eternal life. Paul concludes that sin pays wages—death—whereas God freely gives eternal life through Jesus Christ.",
+  "externalContext": "Romans was written to a mixed community of Jewish and Gentile believers in the capital of the Roman Empire, likely in the mid- to late-50s CE. Paul often employs a diatribe style, posing rhetorical objections from an imaginary interlocutor to clarify his teaching on grace and the law. Baptism functioned as the initiatory rite into the Christian community and, in the first century, was commonly practiced by immersion, powerfully symbolizing death and resurrection. The slavery metaphor would have been vivid to Roman readers, as slavery was a pervasive social institution with legal and economic realities shaping everyday life. Paul’s contrast of being “under law” versus “under grace” interacts with Jewish covenantal identity and Mosaic law observance as markers of belonging and righteousness.",
+  "externalReferences": "Paul elsewhere ties baptism to participation in Christ’s death and resurrection (Colossians 2:12) and speaks of being crucified with Christ, now living to God (Galatians 2:19–20). Jesus’ teaching that “everyone who commits sin is a slave to sin” (John 8:34) illuminates Paul’s slavery-to-sin versus slavery-to-righteousness argument. Paul’s insistence that death no longer rules because of Christ’s resurrection resonates with his fuller treatment of death’s defeat in 1 Corinthians 15:20, 55–57.",
+  "seeAlso": [
+    "Romans 5:20-21",
+    "Colossians 2:12",
+    "Galatians 2:19-20",
+    "John 8:34",
+    "1 Corinthians 15:20",
+    "1 Corinthians 15:55-57",
+    "2 Corinthians 5:17",
+    "1 Peter 3:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Dead to sin, alive to God"
+    },
+    {
+      "range": "15-19",
+      "title": "Slaves of righteousness"
+    },
+    {
+      "range": "20-23",
+      "title": "Two ends: death or life"
+    }
+  ],
+  "themes": [
+    "Union with Christ",
+    "Sanctification",
+    "Freedom and slavery",
+    "Eternal life"
+  ],
+  "practicalQuestions": [
+    "How does my baptismal identity shape my daily choices to resist specific sins?",
+    "In what concrete ways am I yielding my body (time, speech, habits) either to sin or to righteousness?",
+    "What practices help me “reckon” myself dead to sin and alive to God when I feel tempted?",
+    "Where do I see the fruit of holiness growing, and where is there fruit I’m ashamed of that needs repentance?",
+    "How does being under grace, not under law, change my motivation for obedience?"
+  ],
+  "uncertainAreas": "The precise meaning of “under the law” (whether primarily Mosaic covenantal jurisdiction, law as a power, or law as a method of seeking righteousness) is debated. The extent to which “the body of sin” is destroyed (annihilated vs. rendered powerless) is not fully specified. The timing implied by “we shall be also in the likeness of his resurrection” may include both present moral transformation and future bodily resurrection. The role of baptism here (symbolic sign vs. sacramental means) is not explicitly defined in the passage.",
+  "createdAt": "2025-11-03T00:33:29.021Z",
+  "modelId": "gpt-5-2025-08-07"
+}

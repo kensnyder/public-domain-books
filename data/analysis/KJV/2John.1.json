@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "2John.1",
+  "briefOverview": "A brief letter urging a community to walk in truth and love while refusing support to teachers who deny Christ’s incarnation.",
+  "summary": "The elder greets the “elect lady and her children,” rejoicing that some of them are walking in the truth and blessing them with grace, mercy, and peace. He reminds them of the command from the beginning: to love one another, defining love as obedience to God’s commandments. He warns that many deceivers do not confess Jesus Christ as having come in the flesh and labels such deceivers as antichrist. The readers are exhorted to watch themselves, abide in the doctrine of Christ, and withhold hospitality and greeting from those who do not bring this teaching, lest they share in their evil deeds. The elder hopes to visit soon to speak face to face and conveys greetings from the children of the elect sister.",
+  "externalContext": "Late first-century Christian communities often met in homes, and hospitality to itinerant teachers was a key means of spreading teaching and support. Such hospitality, however, risked enabling false teachers, prompting guidance on discernment and boundaries. Some opponents denied the full humanity of Jesus (often associated with early docetic or proto-Gnostic tendencies), which threatened core christological convictions. The title “elder” likely reflects a recognized leadership role; many early readers associated this figure with the Johannine circle. Letters were commonly delivered by trusted messengers, and in-person visits were prized for pastoral authority and communal joy.",
+  "externalReferences": "The command to “love one another” echoes Jesus’ teaching in John 13:34 and is reiterated in 1 John 2:7 and 3:11. The test of confessing Jesus Christ has come in the flesh parallels 1 John 4:2–3, which opposes the spirit of the antichrist. The language about antichrist and abiding in the doctrine resonates with 1 John 2:18–23, which warns against those who deny the Son and thus the Father. The instruction to limit hospitality to sound teachers stands in deliberate tension with 3 John 5–8, which commends support for faithful itinerant workers, underscoring the need to combine love with doctrinal discernment.",
+  "seeAlso": [
+    "John 13:34",
+    "1 John 2:7",
+    "1 John 3:11",
+    "1 John 4:2-3",
+    "1 John 2:18-23",
+    "3 John 5-8",
+    "Matthew 7:15",
+    "2 Corinthians 11:13-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Greeting in truth"
+    },
+    {
+      "range": "5-6",
+      "title": "Command to love"
+    },
+    {
+      "range": "7-13",
+      "title": "Warning and farewell"
+    }
+  ],
+  "themes": [
+    "Truth",
+    "Love as obedience",
+    "Incarnation",
+    "Discernment",
+    "Hospitality boundaries"
+  ],
+  "practicalQuestions": [
+    "How can I practice hospitality that is warm yet discerning about the message I enable?",
+    "What concrete habits help me “walk in truth” and express love through obedience?",
+    "How should I evaluate a teacher’s doctrine about Jesus’ person and work before partnering with them?",
+    "When might withholding endorsement be an act of love for the community and the truth?",
+    "In what ways could my greetings, platforms, or resources unintentionally legitimize harmful teaching?"
+  ],
+  "uncertainAreas": "“Elect lady” could be an individual woman or a metaphor for a local congregation; the text does not specify. “Receive him not into your house” may refer to private hospitality, a house-church gathering, or both. The exact scope of “doctrine of Christ” (v.9) is not fully defined, though it clearly includes confessing the incarnation. The nature of the “full reward” (v.8) could be eschatological recompense or the preservation of communal labor’s fruit.",
+  "createdAt": "2025-11-03T03:41:07.242Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Tim.3",
+  "briefOverview": "Paul warns Timothy about deceptive, morally corrupt people in the last days and urges him to stand firm, drawing on Scripture and Paul’s example.",
+  "summary": "Paul predicts perilous times marked by self-centeredness, hypocrisy, and resistance to truth, including people who appear godly yet deny its power, and he commands Timothy to avoid them. He compares such opponents to Jannes and Jambres who opposed Moses, asserting their folly will become evident. Paul reminds Timothy of his teaching, conduct, and persecutions in Antioch, Iconium, and Lystra, noting the Lord’s deliverance and the reality that all who live godly in Christ will suffer persecution. He warns that evil people and impostors will grow worse, deceiving and being deceived. Timothy is exhorted to continue in what he has learned from trusted sources and the holy Scriptures, which lead to salvation through faith in Christ and thoroughly equip God’s servant for every good work.",
+  "externalContext": "Second Timothy is commonly understood as written near the end of Paul’s life during a Roman imprisonment in the mid-60s CE, addressed to Timothy, a younger co-worker stationed in the Ephesian sphere. Timothy’s upbringing in the Jewish Scriptures under his mother Eunice and grandmother Lois (2 Timothy 1:5) fits the appeal to what he learned from childhood. Paul’s references to Antioch, Iconium, and Lystra recall his first missionary journey in southern Galatia, where he faced opposition and violence. Early Christian communities met in homes, and the warning about certain teachers “creeping into houses” reflects the house-church context and the vulnerability of private spaces to itinerant influencers. Naming Jannes and Jambres draws on Jewish interpretive traditions that identified Pharaoh’s magicians opposing Moses, though the names are not given in the canonical Exodus narrative.",
+  "externalReferences": "Paul’s persecutions at Antioch, Iconium, and Lystra are narrated in Acts 13:50; 14:5–6, 19–22. The comparison to Jannes and Jambres evokes the Egyptian magicians who opposed Moses in Exodus (see Exodus 7:8–13; 8:18–19; 9:11), names preserved in Jewish tradition. Predictions of end-time moral decline and deceptive teachers echo 1 Timothy 4:1–3 and Jesus’ warnings about increasing lawlessness and falsehood (Matthew 24:10–13). The affirmation of Scripture’s divine origin and usefulness aligns with themes in Romans 15:4 and 2 Peter 1:20–21 (and cf. 1 Thessalonians 2:13 on receiving God’s word).",
+  "seeAlso": [
+    "Acts 13:50",
+    "Acts 14:5-6",
+    "Acts 14:19-22",
+    "Exodus 7:8-13",
+    "Exodus 8:18-19",
+    "Exodus 9:11",
+    "1 Timothy 4:1-3",
+    "Matthew 24:10-13",
+    "Romans 15:4",
+    "2 Peter 1:20-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Perilous times and impostors"
+    },
+    {
+      "range": "10-13",
+      "title": "Paul’s example and persecution"
+    },
+    {
+      "range": "14-17",
+      "title": "Scripture’s inspiration and use"
+    }
+  ],
+  "themes": [
+    "Moral decline",
+    "False teachers",
+    "Persecution",
+    "Perseverance",
+    "Authority of Scripture"
+  ],
+  "practicalQuestions": [
+    "Where might I tolerate a mere form of godliness while denying its transforming power?",
+    "How can I discern and avoid teachers who are persuasive yet resist the truth?",
+    "What practices will help me persevere faithfully when facing misunderstanding or persecution?",
+    "How can I more intentionally use Scripture for teaching, reproof, correction, and training in righteousness?",
+    "From whom have I learned the faith, and how can I continue in what I have been assured of?"
+  ],
+  "uncertainAreas": "“Last days” may refer to the broad messianic age or to a final period; the text does not define its scope. The identification of Jannes and Jambres relies on Jewish tradition rather than explicit Old Testament naming. “All Scripture” likely refers primarily to the Hebrew Scriptures Timothy learned, though whether it implicitly includes emerging Christian writings is debated. The instruction to avoid certain people and the description of “silly women” raise interpretive questions about scope and cultural specificity versus timeless application.",
+  "createdAt": "2025-11-03T03:10:52.377Z",
+  "modelId": "gpt-5-2025-08-07"
+}

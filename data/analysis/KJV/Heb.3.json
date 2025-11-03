@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Heb.3",
+  "briefOverview": "The chapter exalts Christ above Moses and warns believers against hardening their hearts, using Israel’s wilderness failure as a cautionary example. It urges steadfast confidence and mutual encouragement “today.”",
+  "summary": "The writer calls the audience to consider Jesus as both Apostle and High Priest, noting his faithfulness and asserting his superiority to Moses: Moses was a faithful servant in God’s house, but Christ is the Son over the house, and believers are that house if they hold fast their hope. He then cites the Holy Spirit’s words in Psalm 95, warning against hardening the heart as Israel did in the wilderness. The community is exhorted to encourage one another daily so that no one is hardened by sin’s deceitfulness. The example of the wilderness generation, whose bodies fell and who did not enter God’s rest, is traced to unbelief. The conclusion is that failure to persevere in faith bars entry into God’s rest.",
+  "externalContext": "Hebrews is an anonymous early Christian sermon-letter, likely from the late first century, addressed to a community steeped in Israel’s Scriptures and institutions. In Second Temple Judaism, Moses held unparalleled authority as lawgiver and mediator, and the high priest was central to temple worship and atonement. The term “house” commonly denoted a household or community under a head, not merely a building. Psalm 95 was used in Jewish worship to recall Israel’s wilderness failures and to exhort renewed obedience “today.”",
+  "externalReferences": "The contrast between Moses as servant and Christ as Son echoes Numbers 12:7 (“Moses… faithful in all my house”), which Hebrews cites to frame Christ’s superiority. The warning quotation is from Psalm 95:7–11, recalling Israel’s provocation at Massah and Meribah (Exodus 17:1–7) and the rebellion at Kadesh (Numbers 14), where the unbelieving generation was barred from entering the promised land. Paul similarly uses Israel’s wilderness failures as a warning in 1 Corinthians 10:1–12. Hebrews 4:1–11 continues the argument about “rest,” extending the Psalm 95 exhortation into a theological appeal to enter God’s ongoing rest.",
+  "seeAlso": [
+    "Numbers 12:7",
+    "Psalm 95:7-11",
+    "Exodus 17:1-7",
+    "Numbers 14:22-23",
+    "1 Corinthians 10:1-12",
+    "Hebrews 4:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Christ Greater Than Moses"
+    },
+    {
+      "range": "7-19",
+      "title": "Warning from Psalm 95"
+    }
+  ],
+  "themes": [
+    "Christ’s supremacy",
+    "Faithfulness",
+    "Unbelief warning",
+    "Perseverance"
+  ],
+  "practicalQuestions": [
+    "What practices help me “consider Jesus” daily so my confidence remains firm to the end?",
+    "Where might subtle habits or narratives be hardening my heart through the deceitfulness of sin?",
+    "How can I participate in mutual daily exhortation that strengthens others’ faith?",
+    "What concrete step can I take today in response to God’s voice rather than delaying obedience?",
+    "How does viewing the church as God’s house shape my responsibility to the community?"
+  ],
+  "uncertainAreas": "The precise nuance of “house” (v. 6) could mean the collective people of God or, more broadly, God’s household across covenants. The “if” clauses (vv. 6, 14) raise interpretive questions about assurance versus perseverance as evidence of genuine participation in Christ. The referent of “rest” is introduced here but not defined until chapter 4, where it includes both present and eschatological dimensions. Verse 16’s wording is textually and translationally challenging (whether “who provoked” implies ‘some’ or ‘all’ who came out of Egypt).",
+  "createdAt": "2025-11-03T03:20:42.155Z",
+  "modelId": "gpt-5-2025-08-07"
+}

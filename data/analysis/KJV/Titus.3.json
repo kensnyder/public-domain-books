@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Titus.3",
+  "briefOverview": "Paul urges Titus to shape the community’s public conduct by the gospel of God’s mercy, to avoid divisive controversies, and to attend to practical ministry support.",
+  "summary": "Titus is to remind believers to submit to rulers, be ready for every good work, avoid slander and quarrels, and show gentleness to all. They are to remember that God saved them not by their works but by his mercy, through the washing of regeneration and renewal by the Holy Spirit poured out through Jesus, so that being justified by grace they become heirs of eternal life. On this basis, Titus must affirm constantly that believers should devote themselves to good works, which are beneficial. He must avoid foolish disputes, genealogies, and arguments about the law as unprofitable. A divisive person is to be warned twice and then rejected, recognizing such a person is self-condemned. Paul adds travel plans (sending Artemas or Tychicus; asking Titus to meet him at Nicopolis), asks support for Zenas the lawyer and Apollos, urges learning good works for necessary needs, and closes with greetings and grace.",
+  "externalContext": "This letter belongs to the Pastoral Epistles, where Paul instructs trusted coworkers (here, Titus) on organizing and teaching church communities, likely in the mid–first century Roman world. Crete, where Titus ministered (Titus 1:5), had a reputation in antiquity for moral laxity, making civic peaceability and public virtue important for Christian witness. Submission to “magistrates” reflects life under Roman imperial administration, where public order and loyalty to authorities were highly valued. Wintering in a city like Nicopolis (likely in Epirus, on the western coast of Greece) was practical due to seasonal travel constraints. Tychicus and Apollos are known coworkers from other New Testament writings; Zenas, called a “lawyer,” may have been trained in Jewish or Roman law, though the text does not specify which.",
+  "externalReferences": "The call to be subject to rulers parallels Paul’s teaching in Romans 13:1–7 and Peter’s in 1 Peter 2:13–17. Salvation by grace apart from works aligns with Ephesians 2:8–10; the “washing of regeneration” and “renewing by the Holy Spirit” resonate with new-birth and cleansing imagery in John 3:5 and Ephesians 5:26. Warnings against “foolish questions, genealogies, and strivings about the law” echo 1 Timothy 1:3–4 and 2 Timothy 2:23. The instruction to warn a divisive person and then reject him parallels the discipline pattern in Matthew 18:15–17 and the caution against divisive people in Romans 16:17; Apollos and Tychicus appear in Acts 18:24–28 and Acts 20:4, respectively.",
+  "seeAlso": [
+    "Romans 13:1-7",
+    "1 Peter 2:13-17",
+    "Ephesians 2:8-10",
+    "John 3:5",
+    "Ephesians 5:26",
+    "1 Timothy 1:3-4",
+    "2 Timothy 2:23",
+    "Matthew 18:15-17",
+    "Romans 16:17",
+    "Acts 18:24-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Saved by mercy, devoted to good"
+    },
+    {
+      "range": "9-11",
+      "title": "Avoid disputes; address divisiveness"
+    },
+    {
+      "range": "12-15",
+      "title": "Travel plans and final greetings"
+    }
+  ],
+  "themes": [
+    "Good works",
+    "Grace and mercy",
+    "Civil obedience",
+    "Avoiding controversy",
+    "Church discipline"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to engage in unprofitable debates instead of works that genuinely benefit others?",
+    "How can I show gentleness and refrain from slander in speech, especially toward opponents or authorities?",
+    "What concrete “necessary uses” in my community could I support to avoid being unfruitful?",
+    "How do I hold together salvation by grace and the call to maintain good works without confusing the two?",
+    "When, after patient admonition, is it appropriate to disengage from a persistently divisive person?"
+  ],
+  "uncertainAreas": "The precise meaning of “washing of regeneration” (baptismal reference, metaphor, or both) is debated; the exact identity of Artemas and Zenas is unknown; which Nicopolis is intended is not explicit; and the nature of the “genealogies” and what precisely qualified someone as a “heretick” (divisive person) is not detailed in the text.",
+  "createdAt": "2025-11-03T03:18:33.860Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "1Cor.10",
+  "briefOverview": "Paul warns the Corinthians, using Israel’s wilderness failures, to avoid idolatry and presumption, and he instructs them to exercise Christian freedom with regard for conscience and the unity of the Lord’s table.",
+  "summary": "Paul recalls how all Israel shared in God’s saving acts—passing through the sea and receiving spiritual food and drink—yet most fell in the wilderness as warnings against lust, idolatry, immorality, testing Christ, and grumbling. He cautions the confident to beware lest they fall, assuring that God provides a way of escape in every temptation. He commands them to flee idolatry and argues that participation in the Lord’s cup and bread signifies communion with Christ and unity as one body. Therefore, they cannot share the Lord’s table and the table of demons without provoking the Lord’s jealousy. While “all things are lawful,” not all edify, so believers should seek others’ good. They may eat market meat or food at an unbeliever’s home without inquiry, but if someone identifies it as idol-offered, they should abstain for the other’s conscience. In all things—eating, drinking, or anything else—they must act for God’s glory, avoiding offense to Jews, Greeks, or the church, and seeking others’ benefit so that many might be saved.",
+  "externalContext": "Corinth was a major Greco-Roman port city filled with temples and frequent sacrificial banquets; meat sold in the marketplace (“shambles”) commonly came from such sacrifices. Dining in temple precincts was a social and economic norm, making idolatry a practical, not merely theoretical, issue for Christians. The phrase “cup of blessing” reflects Jewish meal blessings, notably associated with Passover, and early Christian practice vested the communal cup and bread with covenantal significance. In a pluralistic setting where Jews, Greeks, and Christians interacted, offense and conscience issues were acute, prompting Paul’s concern for witness and communal unity.",
+  "externalReferences": "Paul evokes Israel’s exodus and wilderness episodes: the cloud and sea (Exodus 13:21–22; 14:21–31), manna (Exodus 16:4–15), water from the rock (Exodus 17:6), the golden calf (Exodus 32:6), the serpent judgment (Numbers 21:5–6), and the Baal Peor immorality (Numbers 25:1–9). He cites Psalm 24:1 to ground freedom in God’s ownership of creation and echoes Deuteronomy 32:17 (and Psalm 106:37) that pagan sacrifices are offered to demons. The warning about provoking the Lord to jealousy recalls Deuteronomy 32:21. His guidance on freedom and conscience connects with earlier and later teaching in this letter (1 Corinthians 6:12; 8:4–13; 11:23–29).",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Exodus 16:4-15",
+    "Exodus 17:6",
+    "Exodus 32:6",
+    "Numbers 21:5-6",
+    "Numbers 25:1-9",
+    "Psalm 24:1",
+    "Deuteronomy 32:17",
+    "1 Corinthians 8:4-13",
+    "1 Corinthians 11:23-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Israel’s warnings against presumption"
+    },
+    {
+      "range": "14-22",
+      "title": "Communion and idolatry incompatible"
+    },
+    {
+      "range": "23-33",
+      "title": "Freedom, conscience, and God’s glory"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Temptation and escape",
+    "Unity in Christ",
+    "Conscience and love",
+    "Edification over liberty"
+  ],
+  "practicalQuestions": [
+    "Where might modern forms of idolatry (loyalties, desires, or practices) compete with my allegiance to Christ, and how can I flee them?",
+    "When should I limit my legitimate freedoms for the sake of another person’s conscience and spiritual good?",
+    "How does participation in the Lord’s Supper shape the kinds of social or religious associations I should refuse?",
+    "What concrete steps can I take to recognize and take the “way of escape” when I face temptation?",
+    "How can I ensure my everyday choices—especially around food, drink, and hospitality—are done to God’s glory and without needless offense?"
+  ],
+  "uncertainAreas": "The identity of the “destroyer” (v.10) is not specified; the exact episode(s) alluded to are debated. Paul’s number of “twenty-three thousand” (v.8) differs from Numbers 25:9’s twenty-four thousand, generating interpretive questions. The phrase “tempt Christ” (v.9) has textual variants (“the Lord”), affecting how the wilderness testing is framed. The notion of “the spiritual Rock that followed them” (v.4) may reflect a Jewish tradition about a miraculously accompanying rock, though Paul’s precise meaning is debated.",
+  "createdAt": "2025-11-03T01:16:08.962Z",
+  "modelId": "gpt-5-2025-08-07"
+}

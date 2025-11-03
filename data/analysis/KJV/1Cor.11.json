@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "1Cor.11",
+  "briefOverview": "Paul gives instructions for orderly worship, addressing head coverings and the conduct of the Lord’s Supper. He ties practices to creation, communal unity, and discerning Christ’s body.",
+  "summary": "Paul urges the Corinthians to imitate him as he imitates Christ and commends them for keeping his traditions. He teaches a hierarchy of headship (God–Christ–man–woman) and instructs men to pray/prophesy with heads uncovered and women with heads covered, appealing to creation, angels, propriety, and the symbolism of hair. He stresses mutual interdependence of men and women in the Lord and warns against contentiousness over customs. Turning to the Lord’s Supper, he rebukes their divisive gatherings where some go hungry while others get drunk, shaming the poor. He recounts Jesus’ institution of the meal—bread and cup in remembrance—stating that participants proclaim the Lord’s death until he returns. He warns against eating and drinking “unworthily,” calls for self-examination and discerning the body, and explains that divine discipline (weakness, illness, even death) has occurred; therefore, they must wait for one another and eat at home if hungry.",
+  "externalContext": "First-century Corinth was a prosperous Roman colony marked by sharp social stratification. Christian assemblies met in homes where Greco-Roman dining customs often separated elites (in a small triclinium) from others (in a larger atrium), fostering inequity at communal meals. In Mediterranean settings, women’s head coverings commonly signaled modesty and marital status; male head-covering in Roman cult was also known (capite velato), though practices varied across cultures and occasions. Early Christian “love feasts” and Eucharistic observances overlapped with shared meals, making issues of status and timing particularly acute. Paul likely wrote 1 Corinthians in the mid-50s CE, probably from Ephesus (cf. 1 Corinthians 16:8), addressing reports and questions from the Corinthian church.",
+  "externalReferences": "Paul’s appeal to creation order and image language echoes Genesis 1:26–27 and Genesis 2:18–23. His words instituting the Lord’s Supper parallel the accounts in Luke 22:19–20 (also Matthew 26:26–29; Mark 14:22–25). The phrase “till he come” reflects Paul’s eschatological expectation of Christ’s return (cf. 1 Thessalonians 4:15–17). His emphasis on discerning the body resonates with earlier teaching about the one bread and one body in the Eucharistic fellowship (1 Corinthians 10:16–17).",
+  "seeAlso": [
+    "Genesis 1:26-27",
+    "Genesis 2:18-23",
+    "Luke 22:19-20",
+    "Matthew 26:26-29",
+    "Mark 14:22-25",
+    "1 Corinthians 10:16-17",
+    "1 Thessalonians 4:15-17",
+    "1 Corinthians 12:12-27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Head Coverings in Worship"
+    },
+    {
+      "range": "17-34",
+      "title": "Correcting the Lord’s Supper"
+    }
+  ],
+  "themes": [
+    "Worship order",
+    "Gender and creation",
+    "Communal unity",
+    "Remembrance of Christ",
+    "Self-examination and judgment"
+  ],
+  "practicalQuestions": [
+    "How should cultural symbols of honor and modesty be applied today to reflect reverence in worship without fostering contention?",
+    "In what ways can our observance of the Lord’s Supper ensure the inclusion and dignity of those with fewer resources?",
+    "What does self-examination before communion look like in practice, and how can communities cultivate it without fear or legalism?",
+    "How can we “wait for one another” in our gatherings so that the whole body is built up rather than divided by status or speed?",
+    "What practices help us discern both Christ’s body in the elements and the church as his body in our relationships?"
+  ],
+  "uncertainAreas": "The meaning of “because of the angels” (v.10) is disputed; possibilities include angelic observers of worship or order in the heavenly realm. Whether Paul refers to a fabric covering versus hair as the covering is debated, especially in vv. 5–6 and 15. The phrase “we have no such custom” (v.16) is ambiguous—whether it negates the practice in question or rebukes contentiousness about it. The scope of “unworthily” (vv.27–29) and “not discerning the Lord’s body” (v.29) is interpreted variously (ethical divisions in the community, lack of reverence, or failure to recognize Christ’s presence), and “sleep” (v.30) likely means death but the precise nature of the discipline is not specified.",
+  "createdAt": "2025-11-03T01:16:50.894Z",
+  "modelId": "gpt-5-2025-08-07"
+}

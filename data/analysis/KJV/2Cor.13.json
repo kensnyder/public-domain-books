@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "2Cor.13",
+  "briefOverview": "Paul prepares for a third visit to Corinth, warning of disciplinary action while urging the church to self-examination, unity, and peace. He concludes with a pastoral blessing invoking Father, Son, and Holy Spirit.",
+  "summary": "Paul announces his imminent third visit and invokes the principle that testimony is established by two or three witnesses, warning persistent sinners that he will not spare them if he comes. He responds to those seeking proof of Christ in him by pointing to Christ’s pattern of weakness and power, and applies that pattern to his own ministry. He exhorts the Corinthians to examine themselves to see whether they are in the faith, asserting that Christ is in them unless they fail the test. His prayer is that they do no evil and pursue what is right, emphasizing that his authority is for building up, not tearing down. He rejoices when he appears weak and they are strong, desiring their restoration and maturity. He closes with calls to be restored, comforted, united, and peaceful, to greet one another with a holy kiss, and he pronounces a triadic benediction of grace, love, and fellowship.",
+  "externalContext": "Corinth was a diverse and influential port city in Roman Achaia, marked by social stratification and moral challenges that affected the church’s unity and discipline. Paul had a long, complex relationship with the Corinthian community, including prior visits and severe correspondence addressing internal conflicts and rival teachers. Early Christian assemblies adapted the culturally common kiss of greeting as a sign of fellowship and reconciliation within the community. Apostolic authority in the first-century church functioned pastorally and disciplinarily to preserve sound teaching and communal integrity.",
+  "externalReferences": "Verse 1 echoes the legal principle of establishing a matter by two or three witnesses (Deuteronomy 19:15), a standard Jesus also cites in church discipline (Matthew 18:16). The charge to greet one another with a holy kiss parallels other Pauline conclusions (Romans 16:16; 1 Corinthians 16:20; 1 Thessalonians 5:26). The call to self-examination and the assertion of “Christ in you” resonates with Paul’s teaching elsewhere (Romans 8:10; Galatians 2:20; Colossians 1:27). The final benediction reflects an early triadic pattern of Christian blessing, comparable to the baptismal formula (Matthew 28:19).",
+  "seeAlso": [
+    "Deuteronomy 19:15",
+    "Matthew 18:16",
+    "Romans 16:16",
+    "1 Corinthians 16:20",
+    "1 Thessalonians 5:26",
+    "Romans 8:10",
+    "Galatians 2:20",
+    "Colossians 1:27",
+    "Matthew 28:19",
+    "2 Corinthians 12:9-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Warning and Coming Visit"
+    },
+    {
+      "range": "5-10",
+      "title": "Self-Examination and Edification"
+    },
+    {
+      "range": "11-14",
+      "title": "Final Exhortations and Blessing"
+    }
+  ],
+  "themes": [
+    "Apostolic authority",
+    "Self-examination",
+    "Truth",
+    "Restoration and unity",
+    "Power in weakness"
+  ],
+  "practicalQuestions": [
+    "What practices help me meaningfully examine whether I am living “in the faith” and aware of Christ’s presence in me?",
+    "How can church leaders exercise authority for edification rather than severity, and how can congregations make this easier?",
+    "Where might a commitment to truth require me to act even if it makes me appear weak or unapproved?",
+    "What concrete steps can my community take this week to pursue unity and peace?",
+    "How can we restore those who have sinned in a way that upholds integrity and compassion?"
+  ],
+  "uncertainAreas": "Whether “two or three witnesses” in verse 1 refers strictly to legal testimony about specific offenders, to multiple visits serving as “witnesses,” or both. The precise nuance of “be perfect” (v. 11) likely means restoration or maturity, but the translation can vary. The term “reprobates” (vv. 5–7) may mean failing the test or disqualified; the exact sense depends on how Paul envisions the test of faith in that context.",
+  "createdAt": "2025-11-03T01:29:02.068Z",
+  "modelId": "gpt-5-2025-08-07"
+}

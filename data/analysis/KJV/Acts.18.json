@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Acts.18",
+  "briefOverview": "Paul establishes a long-term ministry in Corinth under divine encouragement and Roman legal protection, then travels through Ephesus to conclude and renew his mission circuit. The chapter also introduces Apollos, whose teaching is refined by Priscilla and Aquila and who becomes a powerful advocate for Jesus as the Messiah.",
+  "summary": "Arriving in Corinth, Paul partners with Aquila and Priscilla as a tentmaker and reasons weekly in the synagogue. After opposition grows, he announces a turn to the Gentiles, yet the synagogue ruler Crispus believes, and many Corinthians are baptized; the Lord reassures Paul in a vision to keep speaking without fear. Paul remains for eighteen months, and when Jews bring charges before Gallio, the proconsul dismisses the case as an internal religious dispute, after which Sosthenes is beaten before the tribunal. Paul then departs with Priscilla and Aquila, cuts his hair in Cenchrea due to a vow, briefly reasons in the synagogue at Ephesus, and sails to Caesarea, goes up to greet the church, and returns to Antioch. He later travels through Galatia and Phrygia strengthening disciples. Meanwhile in Ephesus, Apollos—eloquent and versed in Scripture but knowing only John’s baptism—is taught more accurately by Priscilla and Aquila and then sent to Achaia, where he powerfully demonstrates from the Scriptures that Jesus is the Christ.",
+  "externalContext": "The expulsion of Jews from Rome under Emperor Claudius is commonly dated around AD 49 (Suetonius, Claudius 25), explaining why Aquila and Priscilla had left Italy. Corinth, the capital of Roman Achaia, was a major commercial hub with a prominent tribunal (bema) where cases like Paul’s would be heard. Gallio’s proconsulship of Achaia is corroborated by the Delphi inscription (c. AD 51–52), providing a chronological anchor for Paul’s Corinthian ministry. Ephesus was a leading city of Asia Minor with a significant Jewish community and vibrant intellectual life, while Alexandria—Apollos’s birthplace—was renowned for education and a large Jewish population. Paul’s trade as a tentmaker likely involved leatherworking, a common artisan occupation that supported itinerant missionaries.",
+  "externalReferences": "Paul’s declaration of turning to the Gentiles echoes his earlier stance in Acts 13:46 and aligns with the principle later stated in Romans 1:16. Crispus’s conversion connects with Paul’s note that he baptized Crispus in 1 Corinthians 1:14, and Apollos later features in Corinthian church life (1 Corinthians 3:5–6). Apollos’s prior knowledge being limited to John’s baptism anticipates clarification of this issue in Acts 19:1–7. Paul’s vow in Cenchrea may evoke Nazirite practices (Numbers 6:1–21), though the precise nature of his vow is not specified here.",
+  "seeAlso": [
+    "Acts 13:46",
+    "Acts 19:1-7",
+    "Acts 23:11",
+    "Numbers 6:1-21",
+    "Romans 1:16",
+    "Romans 16:3-5",
+    "1 Corinthians 1:12-14",
+    "1 Corinthians 3:5-6",
+    "2 Timothy 4:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-17",
+      "title": "Corinth: ministry and Gallio’s ruling"
+    },
+    {
+      "range": "18-23",
+      "title": "Departure, vow, and return circuit"
+    },
+    {
+      "range": "24-28",
+      "title": "Apollos instructed and sent"
+    }
+  ],
+  "themes": [
+    "Mission to Gentiles",
+    "Divine guidance",
+    "Opposition and protection",
+    "Discipleship",
+    "Partnership in ministry"
+  ],
+  "practicalQuestions": [
+    "When should we persist in a setting that resists our message, and when is it wise to redirect our efforts to a more receptive audience?",
+    "How might we integrate everyday work with faithful witness, as Paul did with tentmaking?",
+    "In what ways can seasoned believers gently and privately equip gifted teachers for greater accuracy, like Priscilla and Aquila with Apollos?",
+    "How do God’s promises of presence and protection shape our courage to speak openly?",
+    "What safeguards can churches adopt to value diverse leaders (e.g., Paul and Apollos) without fostering rivalry?"
+  ],
+  "uncertainAreas": "The specific nature of Paul’s vow at Cenchrea (v. 18) is not stated; while it resembles aspects of a Nazirite vow, the text does not confirm this. The identity of Sosthenes in v. 17 and whether he is the same person named in 1 Corinthians 1:1 is uncertain. The phrase about keeping a feast in Jerusalem (v. 21) is present in the provided text but is absent in some early manuscripts, making its originality debated among scholars.",
+  "createdAt": "2025-11-03T00:22:55.378Z",
+  "modelId": "gpt-5-2025-08-07"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Rom.2",
+  "briefOverview": "Paul confronts hypocritical judgment and asserts God’s impartial justice, culminating in a call for inward, Spirit-wrought righteousness rather than mere external markers.",
+  "summary": "Paul warns anyone who judges others while practicing the same sins that they condemn themselves, for God’s judgment is according to truth and aims to lead people to repentance through his kindness. He declares that God will render to each according to deeds: eternal life for those who persist in doing good while seeking glory, honor, and immortality, and wrath for the self-seeking who disobey the truth—applied without favoritism to Jew and Gentile alike. Those without the law will perish without it, and those under the law will be judged by it, for it is the doers—not mere hearers—who are justified; Gentiles show the law’s work written on their hearts as their consciences bear witness. God will judge the secrets of all through Jesus Christ. Turning to the Jew who relies on the law and boasts in God, Paul exposes the contradiction of teaching others yet breaking the law, which causes God’s name to be blasphemed among the Gentiles. He concludes that circumcision benefits only if one keeps the law, and that true Jewishness and true circumcision are inward—of the heart, by the Spirit, not merely in the letter—seeking praise from God rather than from people.",
+  "externalContext": "Romans was written by Paul in the mid-first century to a mixed community of Jewish and Gentile believers in Rome, where tensions over the role of the Mosaic law, circumcision, and ethnic identity were live issues. In Second Temple Judaism, circumcision was a central covenant sign (Genesis 17), and Jews often saw themselves as guides to the nations because of the Torah. The Greco-Roman world also valued the ideal of impartial justice, and “conscience” was a recognized moral category in philosophical discourse. Jewish apocalyptic expectation included a final day of divine judgment, which Paul here ties to Jesus as judge.",
+  "externalReferences": "Paul’s statement that God’s name is blasphemed among the Gentiles “as it is written” most closely echoes Isaiah 52:5 and resonates with Ezekiel 36:20–23, where Israel’s conduct causes God’s name to be profaned among the nations. The principles that God renders to each according to deeds and shows no partiality reflect Psalm 62:12; Proverbs 24:12; and Deuteronomy 10:17. His language about circumcision of the heart and the law written on hearts recalls Deuteronomy 10:16; 30:6; Jeremiah 4:4; and Jeremiah 31:33, while the assertion that God will judge through Jesus is consistent with Acts 17:31 and 2 Corinthians 5:10.",
+  "seeAlso": [
+    "Isaiah 52:5",
+    "Ezekiel 36:20-23",
+    "Deuteronomy 10:17",
+    "Psalm 62:12",
+    "Proverbs 24:12",
+    "Deuteronomy 10:16",
+    "Deuteronomy 30:6",
+    "Jeremiah 4:4",
+    "Jeremiah 31:33",
+    "Acts 17:31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Impartial divine judgment"
+    },
+    {
+      "range": "12-16",
+      "title": "Gentiles, conscience, judgment"
+    },
+    {
+      "range": "17-29",
+      "title": "True inward circumcision"
+    }
+  ],
+  "themes": [
+    "Impartial judgment",
+    "Hypocrisy",
+    "Repentance",
+    "Law and conscience",
+    "Inward circumcision"
+  ],
+  "practicalQuestions": [
+    "Where am I prone to judge others for sins I secretly tolerate in myself, and how will I repent?",
+    "How can I let God’s kindness lead me to genuine change rather than presuming upon it?",
+    "Am I relying on religious identity or external markers instead of an obedient, Spirit-shaped heart?",
+    "What practices help me form and heed a well-informed conscience before God?",
+    "How might my inconsistency cause outsiders to speak ill of God, and what would integrity look like instead?"
+  ],
+  "uncertainAreas": "How to interpret “the doers of the law shall be justified” (v.13) within Paul’s broader teaching on justification by faith; whether Gentiles who “by nature” do the law (vv.14–15) refers to common moral insight or Spirit-enabled obedience; and how precisely Paul intends the link between “law written on their hearts” (v.15) and the new covenant promise (Jeremiah 31:33).",
+  "createdAt": "2025-11-03T00:31:02.613Z",
+  "modelId": "gpt-5-2025-08-07"
+}
