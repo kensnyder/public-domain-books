@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Zech.7",
+  "briefOverview": "A delegation asks whether longstanding mourning fasts should continue; God, through Zechariah, rebukes empty ritual and calls for justice and mercy as the true worship He desires.",
+  "summary": "Delegates sent to the temple ask Zechariah whether they should continue to observe a fast in the fifth month as they have for many years (verses 1–3). God replies through Zechariah by challenging the sincerity of those fasts: for seventy years they have fasted and mourned, but did they fast for God or for themselves? (4–8). God insists that true religion is ethical: execute justice, show mercy and compassion, and do not oppress widows, orphans, strangers, or the poor, nor harbor evil against neighbors (9–10). The people had hardened their hearts and refused to heed the prophetic word, so God’s anger came and He scattered them among the nations, leaving the land desolate (11–14).",
+  "externalContext": "This episode occurs after the return from Babylonian exile during the Persian period (the fourth year of King Darius), when Jewish communities at Jerusalem were reestablishing temple worship and communal practices. Fasting and mourning commemorations had developed during and after the exile; questions about whether to continue them reflect anxieties about identity and religious observance in the restored community. The prophet confronts a common prophetic theme in the Hebrew Bible: ritual observance without social justice is unacceptable to God.",
+  "externalReferences": "The chapter’s pairing of ethical demands with a critique of ritual echoes Isaiah 58:3–7, which criticizes fasting unaccompanied by justice and care for the oppressed. Amos 5:21–24 likewise rejects mere religious observance while calling for justice to 'roll on like a river.' Micah 6:8 summarizes similar priorities: to do justice, love mercy, and walk humbly with God. The immediate historical backdrop connects to the prophetic movement urging temple rebuilding and reform found in Haggai and earlier chapters of Zechariah.",
+  "seeAlso": [
+    "Isaiah 58:3-7",
+    "Amos 5:21-24",
+    "Micah 6:8",
+    "Haggai 1:2-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Inquiry about Fasts"
+    },
+    {
+      "range": "4-8",
+      "title": "Questioning Empty Ritual"
+    },
+    {
+      "range": "9-14",
+      "title": "Call to Justice and Judgment"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Ritual vs Ethics",
+    "Compassion",
+    "Divine Judgment"
+  ],
+  "practicalQuestions": [
+    "Do our religious practices promote justice and care for vulnerable people, or have they become self-focused rituals?",
+    "How can a faith community translate commemorations and fasts into concrete acts of mercy toward widows, orphans, strangers, and the poor?",
+    "What signs of a 'hardened heart' (indifference to prophetic challenge) might appear in contemporary communities, and how should they be addressed?",
+    "When institutional or cultural traditions conflict with ethical demands, how should individuals and leaders respond?"
+  ],
+  "uncertainAreas": "Uncertainty about precise historical details: identification of the delegates (Sherezer and Regem-melech), the exact events commemorated by the fifth- and seventh-month fasts, whether 'seventy years' is strictly chronological or rhetorical, and which specific 'former prophets' are being referenced in every instance.",
+  "createdAt": "2025-11-04T14:20:28.319Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Hab.1",
+  "briefOverview": "Habakkuk opens with a prophetic lament about unchecked injustice and a theological struggle over why God would use a violent foreign power as an instrument of judgment. The prophet records God's reply that he will raise up the Chaldeans to execute judgment, provoking further questions about divine justice.",
+  "summary": "The prophet begins by lamenting that God seems silent while violence and injustice prevail (1–4). God answers that he will act by raising up the Chaldeans (Babylonians), a fierce and swift nation that will sweep through the land and subdue peoples and strongholds (5–11). Habakkuk then responds with anguished questions: though God is eternal and has appointed the Chaldeans for judgment, how can the holy God tolerate their treachery and allow the righteous to be devoured by the wicked (12–13)? The prophet uses images of fishing nets and sacrifices to describe how nations are captured and then glorify the instruments of their capture—an expression of horror that those instruments seem to be worshiped and used without restraint (14–17).",
+  "externalContext": "Most scholars date Habakkuk to the late 7th or early 6th century BCE, a period of Assyrian decline and Neo-Babylonian (Chaldean) ascendancy under leaders such as Nabopolassar and Nebuchadnezzar. The term \"Chaldeans\" in prophetic literature commonly refers to the Neo-Babylonian empire, known for rapid cavalry and military campaigns. The book fits the prophetic lament genre, where a prophet brings complaint and questioning before God and receives a challenging response.",
+  "externalReferences": "The theme of God using a foreign power as an instrument of judgment appears elsewhere, for example Isaiah 10:5–7, where Assyria is called the rod of God’s anger. Jeremiah repeatedly identifies Babylon as the tool of Yahweh’s wrath (e.g., Jeremiah 25:9), which parallels Habakkuk’s announcement. Psalm 73 contains a similar moral struggle with the prosperity of the wicked and the apparent silence of God, reflecting the type of theodicy question Habakkuk raises.",
+  "seeAlso": [
+    "Isaiah 10:5-7",
+    "Jeremiah 25:9",
+    "Psalm 73:3-12",
+    "Habakkuk 2:1-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Prophetic Lament"
+    },
+    {
+      "range": "5-11",
+      "title": "God's Answer: Chaldeans"
+    },
+    {
+      "range": "12-17",
+      "title": "Questioning Justice"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Judgment",
+    "Divine sovereignty",
+    "Prophetic lament"
+  ],
+  "practicalQuestions": [
+    "When we see injustice or God’s apparent silence, how should we bring our complaints before God in prayer?",
+    "How can communities discern whether political or military upheavals are to be understood as instruments of judgment?",
+    "In what ways might we guard against honoring the very powers or systems that cause harm, as the text criticizes worship of the means of oppression?",
+    "How do we hold together belief in God’s holiness with the reality of evil and the suffering of the righteous?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous whether the prophet’s primary complaint is against God’s apparent passivity or the moral character of the instrument (the Chaldeans). The precise meaning of images like sacrificing to the net (v.16) can be read metaphorically (idolatry of instruments) or as a literal depiction of pagan practice; both readings are plausible. Dating and the full historical identification of \"Chaldeans\" as the Neo-Babylonian empire is widely accepted but not spelled out within the chapter itself.",
+  "createdAt": "2025-11-04T14:12:45.997Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

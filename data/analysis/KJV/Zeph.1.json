@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Zeph.1",
+  "briefOverview": "Zephaniah announces imminent divine judgment on Judah and Jerusalem for idolatry, complacency, and social violence. The chapter culminates in a vivid proclamation of the 'day of the LORD' as a time of cosmic and civic destruction.",
+  "summary": "The prophet opens with his genealogy and situates his oracle in the reign of King Josiah (v.1). God declares total consumption of creation and humanity as punishment for wickedness (vv.2–3). Specific accusations follow: removal of Baalist elements and corrupt priests, worship of the heavenly host and Malcham, and those who have turned from seeking the LORD (vv.4–6). A warning to be silent before God is given because the day of the LORD is near—likened to a sacrificial feast to which God has summoned guests (v.7). Punishment is pronounced on leaders, the elite, violent household men, and merchants; Jerusalem will be searched and punished for complacency (vv.8–13). The chapter closes with an extended depiction of the day of the LORD as a near, devastating day of wrath, darkness, alarm, and consuming fire in which wealth cannot save (vv.14–18).",
+  "externalContext": "Zephaniah is traditionally placed in the late 7th century BCE during the reign of Josiah of Judah (c. 640–609 BCE). This was a period of political upheaval in the Near East—Assyrian power was waning while Babylon and Egypt competed for influence—and of religious controversy within Judah, including the persistence of popular and elite forms of idolatry that reformers like Josiah later targeted (see 2 Kings 22–23). The prophetic theme of the \"day of the LORD\" appears across the prophetic corpus as both an immediate judgment on nations and an eschatological motif.",
+  "externalReferences": "The theme and language of the \"day of the LORD\" here parallels other prophets who portray it as a time of cosmic upheaval and judgment (see Joel 2:1–11; Amos 5:18–20; Isaiah 13:6–10). The charge against syncretistic worship (host of heaven, Malcham/Molech) and corrupt priests echoes Jeremiah’s critiques of empty ritual and idolatry (Jeremiah 7:21–26) and is set against the background of Josiah’s later reforms described in 2 Kings 22–23.",
+  "seeAlso": [
+    "Joel 2:1-11",
+    "Amos 5:18-20",
+    "Isaiah 13:6-10",
+    "2 Kings 22:8-23:25",
+    "Jeremiah 7:21-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Introduction and Setting"
+    },
+    {
+      "range": "2-13",
+      "title": "Judgment for Idolatry and Complacency"
+    },
+    {
+      "range": "14-18",
+      "title": "The Day of the LORD"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Idolatry",
+    "Day of the LORD",
+    "Social injustice"
+  ],
+  "practicalQuestions": [
+    "In what ways might complacency or religious routine blind communities to injustice, and how should communities respond?",
+    "How can modern readers identify and resist forms of 'idolatry' that displace ethical obligations in personal and public life?",
+    "What resources do communities have to heed prophetic warnings without descending into despair?",
+    "How should the idea that wealth cannot save in the face of divine judgment inform contemporary priorities and action?"
+  ],
+  "uncertainAreas": "Some specific terms and locations are uncertain: \"Chemarims\" (Heb. kemarim) and \"Malcham\" (likely Molech) refer to foreign cultic practices but their precise social roles are debated. The phrase \"them that leap on the threshold\" is obscure—possibly dancers, superstitious cultists, or violent retainers. The geographic name \"Maktesh\" and the exact relation of this oracle to Josiah’s reforms (whether before, during, or in support of them) are also matters of scholarly discussion. Finally, whether the \"day of the LORD\" here primarily designates a near historical catastrophe or a broader eschatological event is open to interpretation.",
+  "createdAt": "2025-11-04T14:14:27.844Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Zech.1",
+  "briefOverview": "Zechariah calls the returned exiles to repentance and presents visions that assure God's renewed favor toward Jerusalem and the removal of hostile powers.",
+  "summary": "The prophet opens with a dated oracle (the second year of Darius) urging the people to return to the LORD, warning against repeating their ancestors' failure to heed earlier prophets. Zechariah reports a night vision of a man on a red horse among myrtle trees and other horses that have been patrolling the earth; the angel intercedes, asking how long God's displeasure will last over Jerusalem and Judah. God replies with comforting words, declaring his jealousy for Zion, displeasure with nations at ease, and a promise to return to Jerusalem with mercy, rebuild the temple, and prosper the cities. The chapter closes with a second vision: four horns that scattered Judah and Israel, followed by four craftsmen (or carpenters) sent to terrify and cast out those horns, signaling reversal of the powers that oppressed Judah.",
+  "externalContext": "The book is set in the early Persian period after the Babylonian exile; the dating to 'the second year of Darius' is commonly understood as around 520 BCE under Darius I. The immediate historical situation involved a fragile, recently returned community in Judah attempting to rebuild the temple and reestablish religious and civic life amid political uncertainties and opposition.",
+  "externalReferences": "The reference to 'threescore and ten years' echoes Jeremiah's prophecies about a seventy-year exile (e.g., Jeremiah 25:11–12; 29:10), situating Zechariah's message in the theological frame of fulfilled/ending exile. Zechariah's contemporaneity with Haggai is significant: both prophets encourage reconstruction of the temple (compare Haggai 1). The image of horns as symbols of nations or powers is a recurrent prophetic motif (cf. Daniel 7), so the chapter participates in a wider prophetic vocabulary of foreign domination and divine overthrow.",
+  "seeAlso": [
+    "Jeremiah 25:11-12",
+    "Jeremiah 29:10",
+    "Haggai 1:1-15",
+    "Daniel 7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Call to Repentance"
+    },
+    {
+      "range": "7-17",
+      "title": "Vision: Horses and Promise"
+    },
+    {
+      "range": "18-21",
+      "title": "Horns and Craftsmen"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Restoration",
+    "Divine Jealousy",
+    "Judgment/Deliverance"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when prophetic calls to repentance confront inherited patterns of disobedience?",
+    "In what concrete ways can a community 'return' to prior commitments when rebuilding social and religious life after trauma?",
+    "What does the language of divine jealousy and comfort suggest about balancing justice and mercy in leadership today?",
+    "How do symbolic visions (horns, craftsmen, horses) shape hope for political or social reversal in periods of oppression?"
+  ],
+  "uncertainAreas": "The text does not identify the specific nations represented by the 'four horns,' nor does it define precisely who the 'four carpenters' are; the symbolic roles are open to interpretation. The exact regnal identification of 'Darius' is generally taken as Darius I but is not spelled out in the chapter itself.",
+  "createdAt": "2025-11-04T14:17:24.162Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

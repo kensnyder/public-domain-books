@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Hag.2",
+  "briefOverview": "Haggai 2 encourages the people rebuilding the second temple, promising God's presence and future glory while addressing ritual purity and affirming Zerubbabel's chosen leadership.",
+  "summary": "Haggai relays God's message encouraging Zerubbabel, Joshua, and the people to be strong and continue the temple work, assuring them that God is with them and that the new temple's glory will surpass the former. God recalls his covenantal presence (cf. the Exodus) and promises a future shaking of heavens, earth, and nations that will bring glory and fill the house. A priestly consultation about holiness and uncleanness is used to diagnose national unproductivity as connected to impurity and divine discipline, with a turning point declared from the day the foundation was laid. The book closes with a prophetic promise that God will overthrow foreign powers and set Zerubbabel as his chosen 'signet,' signaling divine endorsement and authority for the restoration project.",
+  "externalContext": "Haggai prophesied in the early Persian period (around 520 BCE) during the reign of Darius I, when returning exiles under leaders like Zerubbabel (governor) and Joshua (high priest) were rebuilding the Jerusalem temple after the Babylonian exile. The 'former house' refers to Solomon's temple, destroyed by Babylon in 586 BCE; the community's struggle with limited resources and discouragement forms the backdrop for the prophetic encouragement.",
+  "externalReferences": "The chapter explicitly connects God's continued presence with the covenant made at the Exodus (cf. Exodus 25:8 regarding God's dwelling among Israel) and contrasts the new temple with the former temple described at dedication (cf. 1 Kings 8:10–11). Its promises to Zerubbabel echo and complement contemporary prophetic encouragement found in Zechariah (compare Zechariah 4:6–10, which also addresses Zerubbabel's role in rebuilding and emphasizes divine, not human, power). The 'shaking' language and the 'desire of all nations' have been read in both political (overturning imperial powers) and eschatological/Messianic ways in later interpretive traditions.",
+  "seeAlso": [
+    "Exodus 25:8",
+    "1 Kings 8:10-11",
+    "Zechariah 4:6-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Encouragement and Promise"
+    },
+    {
+      "range": "10-19",
+      "title": "Purity and Provision"
+    },
+    {
+      "range": "20-23",
+      "title": "Zerubbabel's Destiny"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Divine presence",
+    "Purity",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How do we respond when present accomplishments seem inferior to past glories—what does faithful perseverance look like today?",
+    "In what ways might communal ethics or spiritual condition affect material and social wellbeing in our communities?",
+    "How should leaders discern and accept responsibility when a community is rebuilding after loss or trauma?",
+    "What practices help a community cultivate confidence in God's presence amid discouragement?"
+  ],
+  "uncertainAreas": "The phrase 'the desire of all nations' is ambiguous—scholars read it as either the wealth/treasures of the nations coming to the temple or as a Messianic/person-centered expectation; likewise, the 'shaking' imagery can be read as immediate political upheaval or as broader eschatological language. The precise interpretive weight of the priestly Q&A (ritual law applied to national prosperity) is also open to debate: whether it functions primarily as legal teaching, symbolic diagnosis, or rhetorical device.",
+  "createdAt": "2025-11-04T14:16:50.842Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Zech.4",
+  "briefOverview": "Zechariah records a vision of a golden lampstand fed by two olive trees and receives a message assuring Zerubbabel that the temple project will succeed by God's Spirit, not by human strength.",
+  "summary": "An angel wakes Zechariah and shows him a golden candlestick with seven lamps and seven pipes, flanked by two olive trees. Zechariah asks the angel for interpretation, and the angel delivers a message directed to Zerubbabel: the work of rebuilding the house will succeed not by human might or power but by the Lord's Spirit. The vision includes the image of a great mountain becoming a plain and Zerubbabel bringing forth the capstone with shouts of 'Grace.' The prophet is told that Zerubbabel, who laid the foundation, will also finish the work, and that people should not despise 'the day of small things.' The 'seven' are linked to the eyes of the LORD that survey the earth, and the two olive trees are identified as 'the two anointed ones' who stand by the Lord of the whole earth.",
+  "externalContext": "This oracle comes from the post-exilic period (Persian era) when Jewish leaders, notably Zerubbabel (a Davidic governor) and Joshua (the high priest), were involved in rebuilding the Jerusalem temple after the Babylonian exile. The lampstand image draws on established cultic imagery—the golden menorah described in Exodus 25—which would have signaled the temple's cultic and theological continuity. Prophets like Haggai and Zechariah addressed the same rebuilding project and encouraged the community amid political and economic uncertainty under Persian rule.",
+  "externalReferences": "The lampstand imagery echoes the golden menorah instructions in Exodus 25:31–40. Zechariah 3 presents Joshua the high priest in a vision closely associated with Zerubbabel, which supports reading the 'two anointed ones' as priestly and civil leaders (Joshua and Zerubbabel). Haggai 2:20–23 similarly lifts up Zerubbabel's role in the restoration and calls him the LORD's signet, resonating with the promise that his hands will finish the temple.",
+  "seeAlso": [
+    "Exodus 25:31-40",
+    "Zechariah 3:1-10",
+    "Haggai 2:20-23",
+    "Zechariah 6:9-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Vision: Golden Lampstand"
+    },
+    {
+      "range": "4-10",
+      "title": "Promise to Zerubbabel"
+    },
+    {
+      "range": "11-14",
+      "title": "Identification: Two Anointed"
+    }
+  ],
+  "themes": [
+    "Divine empowerment",
+    "Temple restoration",
+    "Anointed leaders",
+    "Symbolic vision"
+  ],
+  "practicalQuestions": [
+    "In what situations do we rely on human strength rather than seeking guidance and empowerment from the Spirit?",
+    "How might we value and encourage 'small beginnings' in communal or spiritual projects today?",
+    "Which leaders in our community correspond to the roles of priest and governor, and how should we support them?",
+    "How can symbolic images from scripture (like the lampstand and olive trees) shape our worship and communal imagination?"
+  ],
+  "uncertainAreas": "The exact identification of the 'two anointed ones' (whether specifically Zerubbabel and Joshua or a more symbolic pair) is open to interpretation, as are the precise meanings of the 'seven' and the 'plummet.' The image of the mountain becoming a plain may be political, architectural, or metaphorical, and the text does not fully resolve these options.",
+  "createdAt": "2025-11-04T14:18:59.732Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

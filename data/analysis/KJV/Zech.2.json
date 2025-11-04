@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Zech.2",
+  "briefOverview": "A prophetic vision promising Jerusalem's restoration and divine protection, followed by a summons for the exiles to return and a promise that God will dwell among his people.",
+  "summary": "The prophet sees a man measuring Jerusalem, and an angel explains that the city will be inhabited and spread out like unwalled towns because the LORD himself will be a protective \"wall of fire\" and the glory within it. Exiles are summoned to flee from the land of the north and the daughter of Babylon, with God asserting his special care—\"he that toucheth you toucheth the apple of his eye.\" God promises to punish the nations that harmed Israel, to dwell in Jerusalem, to gather many nations to himself so they will become his people, and to re-inherit Judah. The chapter closes with an exhortation for all creation to be silent before the LORD who has arisen from his holy habitation.",
+  "externalContext": "Zechariah is a post-exilic prophetic book dated to the late sixth century BCE, addressed to people involved in rebuilding Jerusalem and the temple after the Babylonian exile. Imagery of measuring a city, calls for return from the north (commonly associated with Babylonia), and promises of divine presence reflect the concerns of a community seeking security, identity, and encouragement during reconstruction. The language of God \"dwelling\" among his people draws on longstanding tabernacle/temple motifs in Israelite religion.",
+  "externalReferences": "The promise that God will \"dwell in the midst\" of his people echoes Exodus 25:8 (\"make me a sanctuary that I may dwell among them\") and Leviticus 26:11–12 (\"I will set my tabernacle among you...I will walk among you\"). The phrase \"apple of his eye\" and the imagery of special divine care recall Deuteronomy 32:10 and Psalm 17:8, where God protects the vulnerable remnant. The theme of expansion and safety in an enlarged community resonates with Isaiah 54:2–3, which speaks of enlarging dwellings and increased population after disaster.",
+  "seeAlso": [
+    "Exodus 25:8",
+    "Leviticus 26:11-12",
+    "Ezekiel 37:27",
+    "Deuteronomy 32:10",
+    "Isaiah 54:2-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Vision and Promise"
+    },
+    {
+      "range": "6-13",
+      "title": "Call and Restoration"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Divine Protection",
+    "God's Presence",
+    "Gathering"
+  ],
+  "practicalQuestions": [
+    "How should communities balance practical rebuilding efforts with trust in divine protection when facing vulnerability?",
+    "What does it mean today to be summoned to \"flee\" or leave harmful settings—how can individuals discern and act on such calls?",
+    "In what ways can religious communities embody the promise of dwelling with God so that outsiders are welcomed and \"many nations\" are drawn in?",
+    "How might the exhortation to be \"silent before the LORD\" shape contemporary worship, humility, and ethical response to God's action?"
+  ],
+  "uncertainAreas": "The measuring action is ambiguous—whether it primarily signals planned expansion, assessment for judgment, or symbolic assurance of restoration. \"Land of the north\" and \"daughter of Babylon\" likely point to the Babylonian exile but are not explicitly defined in the chapter. The scope and timing of \"many nations shall be joined\" (immediate postexilic inclusion vs. eschatological fulfillment) is also open to interpretation.",
+  "createdAt": "2025-11-04T14:17:51.583Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

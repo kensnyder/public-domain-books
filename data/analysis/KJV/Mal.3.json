@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Mal.3",
+  "briefOverview": "God announces the coming of a messenger and a time of refining and judgment, calls the people to repentance, rebukes their failure to bring tithes, and promises blessing for the faithful.",
+  "summary": "The chapter opens with a divine promise to send a messenger who will prepare the way and whose coming will be like a refiner's fire, purifying the Levites so that offerings will be acceptable (1–4). God warns that he will come to judge social and religious sins—sorcery, adultery, false oaths, and exploitation of laborers, widows, orphans, and foreigners (5). Declaring his immutability (6), God calls the people to return because they have abandoned his ordinances, and the people ask how to return (7). God charges them with robbing him by withholding tithes and offerings and commands them to bring all the tithes to the storehouse, promising abundant blessing and protection for their fields if they do (8–12). The people protest that serving God is futile and note that the wicked prosper (13–15). In response, God records the faithful in a ‘book of remembrance,’ promises to spare and claim them as his jewels, and looks forward to a day of clear distinction between the righteous and the wicked (16–18).",
+  "externalContext": "Malachi is commonly dated to the post-exilic period (often 5th century BCE) when the Jerusalem temple had been rebuilt but religious life and priestly practice were lax. Complaints about corrupt or careless priests, neglected temple obligations, and social injustice reflect problems faced by a restored but fragile community. The “storehouse” refers to the temple provision for priests and for the needy (the cultic system’s means of support).",
+  "externalReferences": "Malachi 3:1 is cited in the New Testament as fulfilled in the figure preparing the way for Jesus—see Matthew 11:10 and Mark 1:2, which apply the messenger language to John the Baptist. The image of God as a refiner and the theme of purification are similar to Zechariah 13:9’s refining imagery. The call to ‘test’ God with tithes (3:10) has been influential in later Jewish and Christian discussions about stewardship and temple/altar support.",
+  "seeAlso": [
+    "Matthew 11:10",
+    "Mark 1:2",
+    "Zechariah 13:9",
+    "Joel 2:12-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Messenger and Refinement"
+    },
+    {
+      "range": "5-12",
+      "title": "Judgment, Immutability, Tithes"
+    },
+    {
+      "range": "13-18",
+      "title": "Complaint, Remembrance, Distinction"
+    }
+  ],
+  "themes": [
+    "Messenger",
+    "Judgment/Refinement",
+    "Tithing",
+    "Remembrance"
+  ],
+  "practicalQuestions": [
+    "How should a faith community respond when its leaders or institutions fall short of religious responsibilities?",
+    "In what ways can individuals and congregations practice faithful stewardship of resources today?",
+    "How does the image of God as a refiner shape our understanding of hardship and moral correction?",
+    "What concrete steps can communities take to protect and restore the rights of vulnerable people mentioned in the text (workers, widows, orphans, foreigners)?"
+  ],
+  "uncertainAreas": "The precise identity of the ‘messenger’ within the book itself is ambiguous (later interpreted in the New Testament as John the Baptist). The extent to which the tithing instruction is a binding legal requirement versus a call to covenantal faithfulness in this particular post‑exilic context is debated. Phrases like ‘book of remembrance’ and ‘make up my jewels’ are metaphorical and admit multiple theological interpretations.",
+  "createdAt": "2025-11-04T14:25:49.750Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

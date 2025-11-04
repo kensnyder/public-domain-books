@@ -1,0 +1,36 @@
+{
+  "chapterOsisID": "Zech.5",
+  "briefOverview": "Zechariah 5 contains two linked visions portraying divine judgment on social sins and the removal of wickedness from the land.",
+  "summary": "The prophet sees a large flying scroll (20 by 10 cubits) declared to be a curse that will go throughout the land, executing judgment specifically on thieves and those who swear falsely by God's name (verses 1–4). An angel then shows an ephah (a large measure) with a woman inside, identified as 'wickedness'; a heavy lead lid is placed over the ephah to seal her in (verses 6–8). Two winged women lift the ephah between earth and heaven and carry it to the land of Shinar (Babylon), where they are to build a house and set her on her own base (verses 9–11).",
+  "externalContext": "Zechariah is a post-exilic prophet active during the Persian period (late 6th century BCE) when the community in Judah was rebuilding the temple and addressing social and religious reform. Symbolic visions were a common prophetic vehicle in this period, using striking imagery to confront communal sins and reassure that God judges injustice. The land of Shinar is an ancient name for the southern Mesopotamian plain (Babylon), a frequent symbol in Hebrew literature for exile or a place of foreign power (see Genesis 11:2).",
+  "externalReferences": "The sins singled out—stealing and false swearing—echo the Torah's prohibitions (compare Exodus 20:15–16 on theft and false witness). The destination 'Shinar' evokes earlier biblical traditions about Babylon (Genesis 11:2, the setting for the Tower of Babel) and later prophetic denunciations of Babylon (compare Isaiah 47:1–3 on the humiliation of Babylon).",
+  "seeAlso": [
+    "Exodus 20:15-16",
+    "Genesis 11:2",
+    "Isaiah 47:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Flying Scroll: Curse"
+    },
+    {
+      "range": "6-11",
+      "title": "Ephah: Wickedness Carried"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Social justice",
+    "Personified sin",
+    "Exile/Babylon"
+  ],
+  "practicalQuestions": [
+    "How should communities today respond to systemic injustice like theft and perjury in ways that reflect both accountability and restoration?",
+    "What does it mean to 'personify' wrongdoing (as 'wickedness') for how we name and resist social evils in our context?",
+    "When a text speaks of removing wickedness to another place, how might that inform modern approaches to punishment versus rehabilitation?"
+  ],
+  "uncertainAreas": "The text is symbolic and leaves open whether the 'woman' is an abstract personification of sin, a cultic figure, or a specific ideological force (for example, representing Babylonian influence). The precise significance of the ephah and the lead weight (trade/market measure, containment, or ritual symbolism) and whether 'Shinar' denotes mere exile, humiliation, or final removal are interpretive points with multiple plausible readings.",
+  "createdAt": "2025-11-04T14:19:25.447Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

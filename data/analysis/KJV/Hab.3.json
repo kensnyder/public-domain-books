@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Hab.3",
+  "briefOverview": "A liturgical prayer that recalls a dramatic theophany of God as a divine warrior and ends with a bold statement of trust despite economic and agricultural collapse.",
+  "summary": "Habakkuk 3 opens with a musical/ritual heading and then petitions God to renew his saving work (vv.1–2). Verses 3–15 present a vivid theophany: God comes from Teman and Paran in glorious, martial imagery—horses, chariots, pestilence, and cosmic disturbances—as he measures the earth and judges the nations. The prophet reacts with fear and physical trembling (v.16), picturing an impending invasion and devastation. Despite an image of total loss—failed crops, no flocks, no harvests—Habakkuk declares personal rejoicing in the LORD and affirms that God is his strength who enables him to ascend to safety (vv.17–19). The poem combines remembered or visionary acts of God with an ethic of faith and praise amid crisis.",
+  "externalContext": "Habakkuk is generally dated to the late 7th or early 6th century BCE, a period when Assyria was waning and Babylon was rising; prophetic books from this era often confront national crisis and foreign invasion. The terms 'Shigionoth' and 'Selah' are liturgical/musical markings used in Hebrew poetry and worship. The 'divine warrior' motif and the catalogue of cosmic signs (earthquakes, darkened sun and moon, rivers behaving oddly) are common in Ancient Near Eastern and Israelite theophanic traditions.",
+  "externalReferences": "The poem's images echo Israelite traditions of God acting at the sea and in battle (e.g., Exodus 14:21–31—God splitting the sea—and other theophanies in the Torah). The cosmic halting of sun and moon recalls Joshua 10:12–14 (military miracle language), while the stormy, martial portrait of God resembles passages like Psalm 18:6–16 and Isaiah 63:1–6, which also depict God as a warrior bringing judgment and salvation. These parallels suggest the author is drawing on established scriptural theophanic vocabulary to frame God’s power and historic saving acts.",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Joshua 10:12-14",
+    "Psalm 18:6-16",
+    "Isaiah 63:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Liturgical Heading"
+    },
+    {
+      "range": "2-15",
+      "title": "Theophany and Judgment"
+    },
+    {
+      "range": "16-19",
+      "title": "Prophet's Trust"
+    }
+  ],
+  "themes": [
+    "Divine Theophany",
+    "Judgment",
+    "Trust",
+    "Praise"
+  ],
+  "practicalQuestions": [
+    "When material security fails (job, harvest, health), how can I cultivate the kind of trust Habakkuk models?",
+    "How might remembering past acts of deliverance shape present responses to crisis in my community?",
+    "In what ways should the conviction that God can judge nations affect our ethical and political choices today?",
+    "How can liturgical practices (prayer, songs) help express both fear and hope in times of upheaval?"
+  ],
+  "uncertainAreas": "The text alternates between remembered historical acts and visionary language, making it unclear whether Habakkuk describes a specific past deliverance, a prophetic vision of judgment, or a liturgical summary of Israel's God-acts. The identity of 'thine anointed' and some symbolic phrases (e.g., 'horns coming out of his hand,' 'Shigionoth') are also open to multiple interpretations.",
+  "createdAt": "2025-11-04T14:13:58.177Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

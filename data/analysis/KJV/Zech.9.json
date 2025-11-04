@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Zech.9",
+  "briefOverview": "A prophetic oracle pronouncing judgment on surrounding nations and promising the coming of a humble, saving king who brings peace and restoration to Israel.",
+  "summary": "The chapter opens with oracles against neighboring city-states (Hadrach, Damascus, Tyre, Sidon, and Philistine cities), announcing divine judgment on their wealth, power, and pride. God then promises protection for Jerusalem and a coming king who is characterized as just, saving, and humble—riding on an ass and a colt—followed by a removal of instruments of war and a reign of peace reaching 'from sea even to sea.' The text continues with images of deliverance for captives ('prisoners of hope'), divine empowerment of Judah against foreign enemies (the 'sons of Greece'), and vivid imagery of the LORD’s direct intervention in battle. The closing verses celebrate God's saving presence, the people's vindication and prosperity, and renewed joy and abundance for the community.",
+  "externalContext": "Zechariah is generally associated with the post-exilic period when Judeans were rebuilding Jerusalem and its temple (late 6th to 5th century BCE). Some lines in this chapter (for example the reference to 'sons of Greece') have led many scholars to suggest that parts reflect later Hellenistic-era concerns or that the book contains layered traditions from different periods. The oracles against coastal city-states and Philistine towns reflect longstanding geopolitical tensions between Judah and its Mediterranean neighbors.",
+  "externalReferences": "Verse 9 (the king riding on an ass) is explicitly quoted in the New Testament as fulfilled in Jesus’ entry into Jerusalem (see Matthew 21:5; also cited in John 12:15 and reflected in Mark 11). The broad, peaceful dominion language ('from sea even to sea') echoes earlier royal and wisdom traditions such as Psalm 72:8, which imagines a ruler whose rule extends to the ends of the earth. The antagonism with 'Greece' or Hellenistic powers resonates with themes in Daniel 8 and 11, where Greek rule and conflict are prominent, while Zechariah’s image of the LORD appearing over the people anticipates motifs developed later in Zechariah 14.",
+  "seeAlso": [
+    "Matthew 21:5",
+    "John 12:15",
+    "Mark 11:7-10",
+    "Psalm 72:8",
+    "Daniel 8",
+    "Daniel 11",
+    "Zechariah 14:4-9",
+    "Micah 5:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Judgment on Neighbors"
+    },
+    {
+      "range": "9-10",
+      "title": "Coming Humble King"
+    },
+    {
+      "range": "11-17",
+      "title": "Deliverance and Restoration"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Messianic kingship",
+    "Restoration",
+    "Peace"
+  ],
+  "practicalQuestions": [
+    "How does the image of a humble, riding king reshape modern expectations of leadership and power?",
+    "In what ways can communities today understand and embody the promised restoration and protection described here?",
+    "How should we read promises of divine justice toward nations in light of contemporary ethics and international relationships?",
+    "What does the designation 'prisoners of hope' suggest about sustaining hope under oppression, and how can that apply now?"
+  ],
+  "uncertainAreas": "The chapter appears to be composite in parts; the precise historical referents for some lines (especially 'sons of Greece') are debated, so it's uncertain whether certain verses refer to immediate post-exilic enemies, later Hellenistic events, or eschatological expectations. Small phrases (e.g., 'a bastard shall dwell in Ashdod' or the identification of some cities' future statuses) are terse and allow multiple interpretive possibilities.",
+  "createdAt": "2025-11-04T14:21:40.637Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
