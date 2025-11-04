@@ -10,7 +10,7 @@ type ManifestFormat = {
   verses: Array<{
     dataPath: string;
     workOsisID: string;
-    importDate: string;
+    compiledAt: string;
   }>;
   crossReferences: Array<{
     dataPath: string;
@@ -23,7 +23,7 @@ type ManifestFormat = {
     workOsisID: string;
     bookOsisID: string;
     chapterOsisID: string | null;
-    importDate: string;
+    compiledAt: string;
   }>;
   maps: Array<{
     dataPath: string;
@@ -31,7 +31,7 @@ type ManifestFormat = {
     bookOsisID: string;
     chapterOsisID: string | null;
     verseOsisID: string | null;
-    importDate: string;
+    compiledAt: string;
   }>;
   artwork: Array<{
     dataPath: string;
@@ -39,7 +39,7 @@ type ManifestFormat = {
     bookOsisID: string;
     chapterOsisID: string | null;
     verseOsisID: string | null;
-    importDate: string;
+    compiledAt: string;
   }>;
   analysis: Array<{
     dataPath: string;
@@ -55,10 +55,10 @@ main().catch(console.error);
 async function main() {
   const manifest: ManifestFormat = {
     works: {
-      dataPath: 'data/works/works.json',
+      dataPath: 'data/compiled/works.json',
     },
     books: {
-      dataPath: 'data/books/books.json',
+      dataPath: 'data/compiled/books.json',
     },
     verses: await getVerses(),
     analysis: await getAnalysisFiles(),
@@ -67,10 +67,10 @@ async function main() {
     maps: [],
     artwork: [],
   };
-  const file = Bun.file(`${import.meta.dir}/../../data-manifest.json`);
+  const file = Bun.file(`${import.meta.dir}/../../data/compiled/manifest.json`);
   await file.write(JSON.stringify(manifest, null, 2));
   console.log(
-    `Wrote ${file.size.toLocaleString()} bytes to data-manifest.json`,
+    `Wrote ${file.size.toLocaleString()} bytes to data/compiled/manifest.json`,
   );
 }
 
@@ -85,7 +85,7 @@ async function getCrossReferences() {
     const date = data.date;
     const license = data.licence;
     xrs.push({
-      dataPath,
+      dataPath: `data/crossReferences/${dataPath}`,
       workOsisID,
       date,
       license,
@@ -102,11 +102,10 @@ async function getVerses() {
     const workOsisID = dataPath.replace('.json', '');
     const file = Bun.file(`${baseDir}/${dataPath}`);
     const data = await file.json();
-    const importDate = data[0].importData;
     verses.push({
       dataPath: `data/verses/${dataPath}`,
       workOsisID,
-      importDate,
+      compiledAt: data.compiledAt,
     });
   }
   return verses;

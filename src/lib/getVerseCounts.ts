@@ -4,18 +4,22 @@ type MinimumVerseShape = {
   verseNumber: number;
 };
 
-const byChapters = new Array(1000).fill(0);
 export default function getVerseCounts(
   bookOsisID: string,
   verses: MinimumVerseShape[],
 ) {
+  const counts = new Array(1000).fill(0);
   for (const v of verses) {
     if (v.bookOsisID !== bookOsisID) {
-      return;
+      continue;
     }
-    byChapters[v.chapterNumber]++;
+    counts[v.chapterNumber]++;
   }
-  const counts = byChapters.filter(Boolean);
-  counts.unshift(0);
-  return counts;
+  // consider chapter 0 as the prologue, if any
+  const shouldPrepend0 = counts[0] === 0;
+  const final = counts.filter(Boolean);
+  if (shouldPrepend0) {
+    final.unshift(0);
+  }
+  return final;
 }

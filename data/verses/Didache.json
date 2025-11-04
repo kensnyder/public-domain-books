@@ -27,8 +27,8 @@
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
-      "dateEarliest": "",
-      "dateLatest": "",
+      "dateEarliest": "0080-01-01",
+      "dateLatest": "0100-12-31",
       "hasData": true,
       "traditions": [
         "academic"

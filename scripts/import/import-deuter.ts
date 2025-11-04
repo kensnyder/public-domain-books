@@ -1,12 +1,8 @@
-import process from 'node:process';
+import getChapterCount from '../../src/lib/getChapterCount.ts';
 import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
-import getBookByName from '../../src/tools/getBookByName.ts';
-import getWorkByName from '../../src/tools/getWorkByName.ts';
-import type {
-  BookShape,
-  RawBookShape,
-  VerseShape,
-} from '../../src/types/data-shapes.ts';
+import getJsonWorkByName from '../../src/lib/getJsonWorkByName.ts';
+import getVerseCounts from '../../src/lib/getVerseCounts.ts';
+import type { RawBookShape, VerseShape } from '../../src/types/data-shapes.ts';
 
 const baseUrl =
   'https://raw.githubusercontent.com/rodolfoapps/Deuter-Apocrypha/4e4ecb3da87fb736e2a18a10463664b487bcb5d9';
@@ -25,6 +21,7 @@ const flatFinder = (root: any) => root;
 
 // biome-ignore format: be compact
 const bookHandlers = [
+  { url: `${baseUrl}/sirach-flat.json`, name : 'Sirach', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/1-esdras-flat.json`, name: '1 Esdras', handler: refTextHandler, finder: refTextFinder },
   { url: `${baseUrl}/2-esdras-flat.json`, name: '2 Esdras', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/1-maccabees-flat.json`, name: '1 Maccabees', handler: flatHandler, finder: flatFinder },
@@ -35,7 +32,6 @@ const bookHandlers = [
   { url: `${baseUrl}/letter-of-jeremiah-flat.json`, name: 'Letter of Jeremiah', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/prayer-of-azariah-and-song-of-the-three-flat.json`, name: 'Prayer of Azariah', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/prayer-of-manasseh-flat.json`, name: 'Prayer of Manasseh', handler: flatHandler, finder: flatFinder },
-  { url: `${baseUrl}/sirach-flat.json`, name : 'Sirach', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/susanna-flat.json`, name: 'Susanna', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/tobit-flat.json`, name: 'Tobit', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/wisdom-of-solomon-flat.json`, name: 'Wisdom', handler: refTextHandler, finder: refTextFinder  },
@@ -67,22 +63,21 @@ async function main() {
     let verseSequence = 1;
     for (const verse of verses) {
       const { ref, text } = bookHandler.handler(verse);
-      const parts = ref.split(/[ :]/);
-      if (parts[1] === 'Prologue') {
-        parts[0] = 'Sirach Prologue';
-        parts[1] = '1';
+      const match = ref.match(/^(.+?) (Prologue|\d+):(\d+)/);
+      if (match[2] === 'Prologue') {
+        match[2] = '0'; // We say Prologue is chapter 0
       }
-      const verseNumber = parseInt(parts.pop(), 10);
-      const chapterNumber = parseInt(parts.pop(), 10);
-      const givenName = parts.join(' ');
+      const chapterNumber = parseInt(match[2], 10);
+      const verseNumber = parseInt(match[3], 10);
       const bookOsisID = book.bookOsisID;
       const bookGroups = book.groups;
-      const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
-      const verseOsisID = `${bookOsisID}.${chapterNumber}.${verseNumber}`;
+      const chapterOsisID =
+        chapterNumber === 0
+          ? `${bookOsisID}P.1`
+          : `${bookOsisID}.${chapterNumber}`;
+      const verseOsisID = `${chapterOsisID}.${verseNumber}`;
       const chapterTitle =
-        parts[0] === 'Sirach Prologue'
-          ? 'Prologue'
-          : `Chapter ${chapterNumber}`;
+        chapterNumber === 0 ? 'Prologue' : `Chapter ${chapterNumber}`;
       const verseText = text;
       const verseLanguage = 'en';
       ourData.push({
@@ -97,6 +92,8 @@ async function main() {
         verseText,
         verseLanguage,
         verseSequence,
+        authors: book.authors,
+        traditions: book.traditions,
       });
 
       verseSequence++;
@@ -110,12 +107,27 @@ async function main() {
     const ymd = new Date().toISOString().slice(0, 10);
 
     const writeTo = `${import.meta.dir}/../../data/verses/KJVA.json`;
-    const work = getWorkByName(workOsisID);
+    const work = getJsonWorkByName(workOsisID);
+    if (!work) {
+      throw new Error(`Unable to find work "${workOsisID}" in our work list`);
+    }
     const data = {
       work,
       compiledAt: ymd,
       sources: bookHandlers.map((w) => w.url),
-      books: Array.from(bookHandlers),
+      books: Array.from(bookHandlers).map((handler) => {
+        const book = getJsonBookByName(handler.name);
+        if (!book) {
+          throw new Error(
+            `Unable to find book "${handler.name}" in our book list`,
+          );
+        }
+        return {
+          ...book,
+          chapterCount: getChapterCount(book.bookOsisID, verses),
+          verseCounts: getVerseCounts(book.bookOsisID, verses),
+        };
+      }),
       verses,
     };
     await Bun.file(writeTo).write(JSON.stringify(data, null, 2));

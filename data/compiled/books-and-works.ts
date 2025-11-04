@@ -2997,9 +2997,13 @@ export const groupsLookup : Record<string, typeof b> = {
 };
 for (const book of books) {
   const work = worksLookup[book.bookOsisID];
+  // @ts-expect-error Can't add above because these values are cyclical
   if (!work.books) {
+  // @ts-expect-error Can't add above because these values are cyclical
     work.books = [];
   }
+  // @ts-expect-error Can't add above because these values are cyclical
   work.books.push(book);
+  // @ts-expect-error Can't add above because these values are cyclical
   books.work = work;
 }
