@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Ps.145",
+  "briefOverview": "A hymn of exaltation celebrating God's greatness, goodness, and providential care, offered as a personal and communal vow of perpetual praise.",
+  "summary": "The speaker commits to praise God continually and to pass that praise from one generation to the next, celebrating God's unsearchable greatness and mighty deeds. The psalm then catalogs divine attributes: the LORD is gracious, compassionate, slow to anger, and abounding in mercy; he is good to all and sustains his works. It affirms God's eternal kingdom and dominion, his care for the lowly and provision for every living thing, and his nearness to those who call in truth. The psalm concludes by promising that God preserves those who love him, will hear and save the righteous, and calls all flesh to bless his holy name forever.",
+  "externalContext": "In Jewish tradition this psalm is attributed to David and is notable in Hebrew as an alphabetical (acrostic) hymn, a form shared with other psalms (e.g., Psalms 111–112). It has a strong liturgical role: many Jewish communities include it (or much of it) in the regular prayer known as Ashrei, and it is frequently used in Christian worship as a psalm of praise. The language of kingship and eternal dominion reflects ancient Near Eastern and Israelite conceptions of sovereign rule applied to God rather than a human monarch.",
+  "externalReferences": "Verses about God's mercy and slowness to anger echo Exodus 34:6–7, where similar divine attributes are proclaimed. The affirmation that 'thy kingdom is an everlasting kingdom' parallels language in Daniel 4:3 about God's eternal dominion. The emphasis on God's goodness and compassion resonates with Psalm 103:8 and other psalms that pair divine mercy with covenantal care.",
+  "seeAlso": [
+    "Exodus 34:6-7",
+    "Daniel 4:3",
+    "Psalm 103:8",
+    "Psalm 104:24",
+    "Psalm 111:1-10",
+    "Psalm 112:1-10",
+    "Psalm 150:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Vow and Praise"
+    },
+    {
+      "range": "8-13",
+      "title": "Divine Attributes"
+    },
+    {
+      "range": "14-21",
+      "title": "Providence and Promise"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Divine Goodness",
+    "Providence",
+    "Eternal Kingdom"
+  ],
+  "practicalQuestions": [
+    "How can I incorporate regular, communal praise into daily life as the psalmist vows?",
+    "In what ways can I hand on stories of God's acts to younger generations in my community?",
+    "How does the psalm's assurance of God's provision affect how I address anxiety about material needs?",
+    "How should I understand and respond to the tension between God's compassion and the psalm's statement that the wicked will be destroyed?"
+  ],
+  "uncertainAreas": "The supplied text lacks the superscription that in many manuscripts attributes the psalm to David, so authorship is taken from tradition rather than the printed chapter here. The acrostic alphabetical structure is apparent in Hebrew but not visible in this English rendering; nuances of poetic parallelism and original wordplay may be lost in translation. The brief statement about the destruction of the wicked raises interpretive questions about judgment and mercy that the psalm does not fully resolve within itself.",
+  "createdAt": "2025-11-03T22:30:49.715Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

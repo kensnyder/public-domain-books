@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Ps.118",
+  "briefOverview": "A communal song of thanksgiving celebrating God's steadfast mercy, deliverance from danger, and vindication of the faithful.",
+  "summary": "The psalm opens with repeated calls for Israel, Aaron's house, and those who fear the LORD to praise God's enduring mercy. The speaker testifies to being delivered from distress and encircled by enemies but rescued by the LORD, affirming trust in God rather than in people or princes. Imagery of battle and protection (enemies like bees, the right hand of the LORD) underscores divine intervention and life preserved after chastening. The psalm shifts to liturgical language asking for the gates of righteousness to be opened and celebrates a communal entrance into God's presence. Verses include the well-known image of the rejected stone becoming the cornerstone and the acclamation \"Blessed is he that cometh in the name of the LORD,\" concluding with renewed praise for God's everlasting mercy.",
+  "externalContext": "Psalm 118 belongs to the Hallel (Psalms 113–118), a group of psalms used in Jewish festal and pilgrimage worship; these psalms were sung in temple and festival settings, especially at Passover and other pilgrimages. References to the house of Aaron and tabernacles (or tents) reflect priestly and cultic language tied to worship in temple precincts. The psalm's celebratory and communal tone fits liturgical procession and thanksgiving practices in ancient Israel.",
+  "externalReferences": "Several New Testament texts cite or echo lines from this psalm: the crowd's acclamation at Jesus' entry into Jerusalem, \"Blessed is he that cometh in the name of the Lord,\" appears in Matthew 21:9 and parallels in Mark 11:9 and Luke 19:38. The image of \"the stone which the builders refused\" is applied to Jesus in Matthew 21:42 and is quoted or alluded to in Acts 4:11 and 1 Peter 2:7. The psalm's place in the Hallel explains its use in Jewish liturgy and its presence at events later described in the Gospels.",
+  "seeAlso": [
+    "Psalms 113:1-9",
+    "Psalms 114:1-8",
+    "Psalms 115:1-18",
+    "Matthew 21:9",
+    "Matthew 21:42",
+    "Mark 11:9",
+    "Acts 4:11",
+    "1 Peter 2:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Call to Thanksgiving"
+    },
+    {
+      "range": "5-18",
+      "title": "Testimony of Deliverance"
+    },
+    {
+      "range": "19-29",
+      "title": "Liturgical Acclamation & Praise"
+    }
+  ],
+  "themes": [
+    "Thanksgiving",
+    "Trust",
+    "Deliverance",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "When have you experienced a time of distress and later saw cause to give public thanks — how might you express that testimony today?",
+    "In what areas are you tempted to rely on human power rather than trusting God, and what practical steps would shift that reliance?",
+    "How can communal worship and liturgical phrases (like \"This is the day\" or \"Blessed is he who comes\") shape your response to ordinary days and significant events?",
+    "How do you interpret and apply the imagery of the rejected stone becoming the cornerstone in your context — as individual, communal, or future hope?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting of the psalm are uncertain; the extent to which the \"stone\" verse is originally a messianic prophecy versus a more general image of reversal is open to interpretation. The reference to \"tabernacles of the righteous\" and some ritual phrases may reflect later liturgical editing, but the text does not specify details.",
+  "createdAt": "2025-11-03T22:19:16.926Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

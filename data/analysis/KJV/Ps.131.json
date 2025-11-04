@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.131",
+  "briefOverview": "A short psalm celebrating humble, quiet trust in God, pictured by the calm of a weaned child, and concluding with an exhortation for Israel to hope in the LORD forever.",
+  "summary": "The speaker rejects pride and ambitious striving, saying his heart and eyes are not haughty and he does not occupy himself with matters beyond him. He describes a settled inner calm—'having behaved and quieted myself'—likening his soul to a weaned child content and no longer clinging to its mother. The psalm closes with a communal summons: let Israel place its hope in the LORD now and forever.",
+  "externalContext": "Psalm 131 is one of the fifteen 'Songs of Ascents' (Psalms 120–134), a collection traditionally associated with pilgrims traveling to Jerusalem or with temple worship. Many Hebrew manuscripts and later traditions ascribe Psalm headings to David, though the short text itself offers no internal narrative. The weaned-child metaphor draws on everyday family life in the ancient Near East, where weaning marked a transition from infant dependence and urgent need to calmer security and measured dependence.",
+  "externalReferences": "The themes of inner calm and trust echo other biblical passages that commend stillness and trust in God (compare Psalm 46:10 'Be still, and know that I am God') and shepherd-like care and contentment (cf. Psalm 23:1–3). The childlike trust and humility in Psalm 131 resonates with Jesus' teaching that one must become like children to enter the kingdom (Matthew 18:3), linking humility with receptivity to God.",
+  "seeAlso": [
+    "Psalms 120-134",
+    "Psalm 23:1-3",
+    "Psalm 46:10",
+    "Matthew 18:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Humility and Quiet Trust"
+    },
+    {
+      "range": "3",
+      "title": "Call to Hope"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Childlike trust",
+    "Quietness",
+    "Hope in God"
+  ],
+  "practicalQuestions": [
+    "Where in my life am I driven by pride or anxiety, and how could I cultivate a calmer, more dependent trust?",
+    "What practices (prayer, silence, simplicity) help me 'quiet' my soul like the psalm's weaned child?",
+    "How can communities encourage mutual humility and sustained hope in God amid uncertainty?",
+    "When is ambition appropriate, and when does it become the 'great matters' the psalm warns against?"
+  ],
+  "uncertainAreas": "Authorship (traditionally David) and the original liturgical setting are not explicit in the text. The precise nuance of the Hebrew phrase rendered 'weaned of his mother'—whether emphasizing independence, contentment, or lack of clinging—carries interpretive range.",
+  "createdAt": "2025-11-03T22:24:37.019Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

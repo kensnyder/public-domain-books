@@ -1,0 +1,36 @@
+{
+  "chapterOsisID": "Ps.124",
+  "briefOverview": "A short communal thanksgiving song that credits Israel's escape from mortal danger to the LORD's protection and declares trust in God, creator of heaven and earth.",
+  "summary": "The psalm opens with a communal refrain: if the LORD had not been with Israel, they would have been overwhelmed when enemies rose against them. Vivid images of being swallowed, overwhelmed by waters, and caught in snares describe the near‑catastrophe from which the community was rescued. The poem shifts to praise: God did not allow them to become prey, their snare was broken, and they escaped like a bird. It closes with a confident affirmation that help comes in the name of the LORD, the creator of heaven and earth.",
+  "externalContext": "Psalm 124 is one of the fifteen Songs of Ascents (Psalms 120–134), traditionally associated with pilgrims traveling to Jerusalem and with communal liturgical use. The imagery of deliverance from water and snares fits longstanding Israelite motifs for national rescue (for example, the Exodus) and for personal vindication. The psalm is brief and liturgical in tone, typical of hymns meant for group recitation.",
+  "externalReferences": "The theme of God delivering Israel from overwhelming waters echoes the Exodus crossing of the Red Sea (Exodus 14:21–31). The closing line, 'Our help is in the name of the LORD, who made heaven and earth,' closely parallels Psalm 121:1–2, which explicitly affirms help comes from the LORD, maker of heaven and earth. Both connections highlight continuity in Israelite language for divine aid and cosmic lordship.",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Psalm 121:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Threat and Rescue Imagery"
+    },
+    {
+      "range": "6-8",
+      "title": "Praise and Confident Trust"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Divine protection",
+    "Thanksgiving",
+    "Trust"
+  ],
+  "practicalQuestions": [
+    "When have you experienced a situation that felt overwhelming, and how does attributing deliverance to God shape your response?",
+    "In what communal rhythms (worship, liturgy, story) can modern communities cultivate gratitude similar to this psalm?",
+    "How does the confession that 'our help is in the name of the LORD' affect how we approach anxiety or danger today?",
+    "What practical actions flow from seeing God as the creator who aids his people?"
+  ],
+  "uncertainAreas": "Authorship and the specific historical occasion for this psalm are not stated and remain uncertain; the identity of 'men' who rose up (foreign enemies, internal adversaries, or general peril) is ambiguous.",
+  "createdAt": "2025-11-03T22:21:46.214Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

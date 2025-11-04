@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Job.7",
+  "briefOverview": "Job voices a raw lament about the brevity and misery of human life and challenges God's continuous scrutiny and treatment of him.",
+  "summary": "Job begins with a rhetorical question about the appointed span of human life, comparing man to a hired laborer who waits for relief. He describes sleepless, restless nights, bodily decay, and the swift, hope-less passage of days. Job speaks of preferring death to continued suffering, expressing disgust with life and asking to be left alone. He accuses God of watching him as an enemy, frightening him with dreams, and testing him constantly. Although he utters “I have sinned,” he also asks why God has set him up as a target and will not pardon his transgression before he dies.",
+  "externalContext": "The Book of Job belongs to Israel’s wisdom literature and uses the complaint-literature genre common in the ancient Near East, where an individual addresses the gods about suffering and injustice. Imagery such as the hired worker, the weaver’s shuttle, and burial in dust reflect agricultural and artisanal metaphors familiar in that milieu. Scholars generally place the composition of Job within the first millennium BCE, though its exact date is debated.",
+  "externalReferences": "The themes of cursing or lamenting life and pleading with God for an answer appear elsewhere in Job (compare Job 3's curse of the day of birth and Job 10's direct questioning of God’s motives). Job 14 treats human mortality in language similar to 7:6–10. Psalm 39:4–6 and Psalm 102 manifest similar reflections on the transience and frailty of life, while Ecclesiastes repeatedly uses the language of vanity and fleeting days.",
+  "seeAlso": [
+    "Job 3:1-26",
+    "Job 10:1-22",
+    "Job 14:1-12",
+    "Psalm 39:4-6",
+    "Psalm 102:3-4",
+    "Ecclesiastes 1:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Human Mortality and Suffering"
+    },
+    {
+      "range": "11-21",
+      "title": "Complaint and Appeal to God"
+    }
+  ],
+  "themes": [
+    "Mortality",
+    "Suffering",
+    "Lament",
+    "Divine Questioning"
+  ],
+  "practicalQuestions": [
+    "How can we honestly express anger or despair to God while remaining within a life of faith?",
+    "What practices or communal responses help someone endure prolonged physical or emotional suffering?",
+    "How should claims of personal sin be weighed when spoken amid intense suffering—confession, protest, or both?",
+    "What theological resources help reconcile the sense of divine absence or relentless testing with belief in a caring deity?"
+  ],
+  "uncertainAreas": "The tone of verse 20–21 is ambiguous: Job says “I have sinned” but also portrays himself as a target—it's unclear whether this is genuine confession, rhetorical bargaining, or ironic protest. The metaphor in verse 12 (sea/whale as a watch) and some imagery (worms and clods) admit multiple literal/figurative readings. The text’s precise historical setting and date remain debated among scholars.",
+  "createdAt": "2025-11-03T19:54:17.838Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

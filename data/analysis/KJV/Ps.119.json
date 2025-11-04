@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.119",
+  "briefOverview": "A long poetic meditation celebrating and pleading for faithfulness to God's law (torah). The speaker repeatedly praises the word, asks for instruction and protection, and endures persecution while trusting God's promises.",
+  "summary": "The psalmist repeatedly affirms the blessing of those who keep the LORD’s law and expresses delight in God’s commandments, meditating on them day and night. The speaker prays for instruction, understanding, and inner devotion so that he may walk blamelessly and not be ashamed. Many verses frame the law as life-giving, a lamp for the path, and the source of wisdom superior to riches or human teachers. The psalm alternates personal petitions for deliverance, strength, and comfort with confessions of love for the statutes and testimony to God before others. Persistent themes are suffering and persecution by the proud or wicked, yet the speaker refuses to abandon God’s testimonies and repeatedly asks God to quicken, teach, and uphold him. The chapter closes with an image of the speaker as a lost sheep who has gone astray and asks God to seek and restore him.",
+  "externalContext": "Psalm 119 is the longest psalm and in the Hebrew tradition is an alphabetic acrostic (22 stanzas corresponding to the Hebrew letters), a feature largely lost in English translations. Its concentrated focus on 'law,' 'statutes,' and 'testimonies' reflects the theological and devotional centrality of Torah-language in Israelite religion and is often associated with scribal or post-exilic circles who emphasized study and observance. In ancient Israelite worship and later synagogue practice, such psalms functioned both as personal prayer and as communal instruction and meditation on scripture.",
+  "externalReferences": "The psalm’s emphasis on delighting in and meditating on God’s law echoes Psalm 1:1–3, which portrays the righteous person as one who meditates on the law day and night. Its characterization of instruction as light or a lamp has a close parallel in Proverbs 6:23 (\"the commandment is a lamp, and the law is light\").\n\nSeveral New Testament and prophetic passages later reflect similar concerns about inward obedience and written instruction (cf. Deuteronomy 6:6–7 on holding God's words in the heart and teaching them to the next generation), though the psalm itself remains rooted in the language of the Hebrew Scriptures.",
+  "seeAlso": [
+    "Psalm 1:1-3",
+    "Psalm 19:7-11",
+    "Proverbs 6:23",
+    "Deuteronomy 6:6-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-40",
+      "title": "Blessings and Devotion"
+    },
+    {
+      "range": "41-88",
+      "title": "Affliction and Trust"
+    },
+    {
+      "range": "89-176",
+      "title": "Enduring Love for the Word"
+    }
+  ],
+  "themes": [
+    "Law/Torah",
+    "Devotion",
+    "Persecution",
+    "Instruction"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate regular meditation on sacred texts so they shape daily decisions, as the psalmist describes?",
+    "When facing criticism or persecution for moral convictions, how can one maintain humility and trust like the speaker?",
+    "What practices in modern communities help teach and pass on the commitments to scripture that the psalmist requests?",
+    "How should we balance high regard for authoritative teaching with compassion for those who 'forget' or struggle with it?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are uncertain (traditional attributions vary). The English text conceals the Hebrew acrostic structure and stanza divisions, so how the original arranged themes across the alphabetic sections is not evident here. The exact referent of 'law' (narrow legal code vs. broader instruction/wisdom) can be read either narrowly or more broadly depending on theological perspective.",
+  "createdAt": "2025-11-03T22:19:45.508Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

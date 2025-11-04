@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Chr.24",
+  "briefOverview": "King Joash restores the temple under priestly oversight, but after the priest Jehoiada dies the king turns to idolatry; a prophet is murdered and divine judgment follows.",
+  "summary": "Joash becomes king at seven and, under the guidance of Jehoiada the priest, initiates a public collection to repair and re-equip the house of the LORD; the work is completed and regular worship is reestablished. Jehoiada dies at an advanced age and is honored with burial among the kings. After his death Joash yields to the influence of the princes, abandons the temple worship, and the people resume idol worship despite prophetic warnings. Zechariah son of Jehoiada confronts the leaders under the Spirit of God and is stoned to death at the king’s command. Syria defeats Judah as punishment for abandoning the LORD, and on returning Joash is mortally wounded in an internal conspiracy tied to the earlier murder; he is buried but not with the kings. The chapter closes by pointing readers to the fuller royal annals and names his successor, Amaziah.",
+  "externalContext": "The Chronicler (author of 1–2 Chronicles) writes with a post-exilic perspective that emphasizes temple worship, Levitical duties, and the role of righteous priests; episodes are often shaped to highlight fidelity to the cult as tied to national fortune. The practice of a public chest or offering for temple repairs reflects ancient Israelite cultic funding and Levites’ responsibility for sanctuary service. Jehoiada’s role as regent for the young king fits the Near Eastern pattern of priestly or noble influence during royal minorities.",
+  "externalReferences": "The call to gather contributions for the tabernacle/temple echoes Mosaic regulations and Levites’ cultic responsibilities (see Numbers 18:21–24 and Exodus 35:4–9 regarding voluntary gifts for the sanctuary). Jehoiada’s earlier political role in establishing the Davidic line is narrated in 2 Chronicles 23, which provides background for why his death is pivotal here. In the New Testament Jesus (or the evangelist) refers to the murder of a Zechariah in Matthew 23:35; many interpreters see an allusion to this Old Testament account though the wording differs (son of Berechiah), and the identification is debated.",
+  "seeAlso": [
+    "Numbers 18:21-24",
+    "Exodus 35:4-9",
+    "2 Chronicles 23:1-21",
+    "Matthew 23:35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Temple Restoration"
+    },
+    {
+      "range": "16-22",
+      "title": "Death of Jehoiada and Apostasy"
+    },
+    {
+      "range": "23-27",
+      "title": "Prophetic Murder and Retribution"
+    }
+  ],
+  "themes": [
+    "Temple restoration",
+    "Leadership and memory",
+    "Prophetic witness",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "How should religious communities fund and maintain their places of worship with transparency and accountability?",
+    "In what ways can a community honor and preserve the legacy of trustworthy mentors and leaders so their influence endures?",
+    "How ought contemporary communities to respond when prophetic or moral warnings are dismissed by leaders?",
+    "What safeguards can prevent the corruption of religious authority and the misuse of offerings?"
+  ],
+  "uncertainAreas": "The Chronicler’s theological framing affects what details are emphasized; Jehoiada’s reported age (130) and some chronological specifics are likely stylized. The exact identification of the Zechariah later alluded to in Matthew is debated among scholars. The text leaves some motives (the princes’ influence, the king’s personal responsibility) only partially explained.",
+  "createdAt": "2025-11-03T19:29:09.578Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

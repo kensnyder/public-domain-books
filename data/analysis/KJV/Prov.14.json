@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.14",
+  "briefOverview": "A collection of short, antithetical proverbs contrasting the wise and righteous with the foolish and wicked, giving practical moral guidance for individual and communal life.",
+  "summary": "The chapter presents numerous two-line sayings that contrast wisdom and folly, righteousness and wickedness, and their social consequences: wise people build and preserve their households while fools destroy them; the upright fear the LORD and find refuge, whereas the perverse despise God. It emphasizes the value of truthful speech and faithful witness versus deceit, warns that self-deception and hasty anger lead to ruin, and affirms that prudence brings knowledge and honor. Social concerns recur (treatment of the poor, a ruler’s honor, the king’s favor), and several verses highlight 'the fear of the LORD' as the source of confidence and life. The collection closes by linking individual conduct to national flourishing and the favor or shame a servant receives from a king.",
+  "externalContext": "Proverbs is part of the Hebrew wisdom literature, traditionally associated with Solomon but collected over time from royal and popular instruction. Its genre favors short, memorable contrasts (antithetical parallelism) meant for household and court instruction in ancient Near Eastern Israel, addressing themes of social order, speech, leadership, and piety grounded in reverence for YHWH.",
+  "externalReferences": "The theme 'the fear of the LORD' echoes core wisdom teaching elsewhere in Proverbs (e.g., Proverbs 1:7; Proverbs 9:10) where it is linked to the start of knowledge and wisdom. The saying 'There is a way which seemeth right unto a man, but the end thereof are the ways of death' is repeated elsewhere in the collection (compare Proverbs 16:25), showing that some maxims are circulated and reiterated within the book to stress their importance.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 9:10",
+    "Proverbs 3:5-6",
+    "Proverbs 16:25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Wisdom and Folly"
+    },
+    {
+      "range": "10-24",
+      "title": "Speech and Social Conduct"
+    },
+    {
+      "range": "25-35",
+      "title": "Fear, Justice, Leadership"
+    }
+  ],
+  "themes": [
+    "Wisdom and Folly",
+    "Fear of the LORD",
+    "Righteousness",
+    "Social Justice"
+  ],
+  "practicalQuestions": [
+    "In what daily choices can I practice the prudence and truthfulness commended here?",
+    "How should a community respond to and care for the poor in light of Proverbs 14:31?",
+    "What steps help me to detect a path that only 'seemeth right' and avoid its harmful outcome?",
+    "How can leaders cultivate the qualities here that gain a ruler’s favor and promote national flourishing?"
+  ],
+  "uncertainAreas": "Some proverbs are broad generalizations and may not be promises in every case; the precise historical setting and date of individual sayings within the chapter are uncertain because Proverbs compiles material from different periods and traditions.",
+  "createdAt": "2025-11-03T22:40:15.646Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

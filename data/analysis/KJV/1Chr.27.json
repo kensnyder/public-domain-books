@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "1Chr.27",
+  "briefOverview": "A systematic listing of David's military divisions, tribal leaders, and royal administrators, showing the organization of Israel's forces and household.",
+  "summary": "Verses 1–15 list twelve monthly military divisions, each commanded by a named captain and each numbered at 24,000 men. Verses 16–22 name the principal leaders (princes) of the tribes. Verses 23–31 note that David did not number those under twenty, recount Joab's incomplete census and the resulting divine displeasure, and then list the officials in charge of the king's treasuries, storehouses, agriculture, and livestock. Verses 32–34 close by naming David's counselors and key court figures—Jonathan, Jehiel, Ahithophel, Hushai, Jehoiada, Abiathar—and affirm Joab as commander of the army.",
+  "externalContext": "The chronicler compiles administrative lists that reflect a concern for orderly governance and legitimate Davidic institutions; such lists were important for postexilic communities reconstructing national and cultic life. Rotational military service by month or by cohort was a common ancient Near Eastern practice for maintaining readiness without permanently mobilizing the entire population. Census-taking could be politically and theologically fraught in the ancient Near East because it implicated royal control over people and resources and sometimes invoked divine prohibition or judgment.",
+  "externalReferences": "The passage about numbering and divine wrath echoes the account of David's census and its punishment in 2 Samuel 24:1–25 and the parallel in 1 Chronicles 21:1–17. Many of the named individuals also appear elsewhere: Benaiah is listed among David's chief warriors in 2 Samuel 23:20–23, Joab is repeatedly identified as David's military commander (e.g., 2 Samuel 8:16), and Ahithophel and Hushai play prominent roles in the narrative of Absalom's rebellion (see 2 Samuel 15–17).",
+  "seeAlso": [
+    "2 Samuel 24:1-25",
+    "1 Chronicles 21:1-17",
+    "2 Samuel 15:12-17:23",
+    "2 Samuel 23:20-23",
+    "2 Samuel 8:16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Monthly Military Divisions"
+    },
+    {
+      "range": "16-22",
+      "title": "Tribal Princes"
+    },
+    {
+      "range": "23-34",
+      "title": "Royal Officials and Counselors"
+    }
+  ],
+  "themes": [
+    "Organization",
+    "Leadership",
+    "Administration",
+    "Military"
+  ],
+  "practicalQuestions": [
+    "How can modern organizations balance rotational service or duties so responsibilities are shared fairly without sacrificing readiness?",
+    "What structures of delegated stewardship (financial, agricultural, logistical) does this chapter suggest that contemporary leaders could adapt?",
+    "How should communities handle the ethical and spiritual implications of counting or categorizing people (e.g., censuses, membership rolls)?",
+    "What can we learn from the naming of counselors and officers about the value of diverse advisory roles around a leader?"
+  ],
+  "uncertainAreas": "Uncertainty exists about the historicity and literal accuracy of the numeric totals (24,000 per course) and whether they represent idealized or administrative figures. The brief treatment of the census 'wrath' in verses 23–24 raises questions about its relationship to the fuller census narrative in 1 Chronicles 21 / 2 Samuel 24 (chronological and theological framing by the chronicler). Some titles and functions (e.g., Benaiah called a 'chief priest' in v.5) are difficult to reconcile with other texts and may reflect variant traditions or copyist/terminological issues.",
+  "createdAt": "2025-11-03T19:15:11.779Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

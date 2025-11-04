@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Esth.7",
+  "briefOverview": "Esther publicly exposes Haman's plot against her people at a banquet, and Haman is instantly condemned and executed on the very gallows he had prepared for Mordecai.",
+  "summary": "At the second banquet Esther invites the king and Haman and, when given the opportunity, reveals that she and her people face destruction, appealing for their lives. The king asks who is responsible, and Esther names Haman as the adversary. Haman panics and begs for mercy, but the king, enraged, exits to the palace garden and then returns to find Haman fallen on Esther's couch—an action the king interprets as an assault. The court covers Haman's face, and Harbonah reminds the king of the fifty-cubit gallows Haman had prepared for Mordecai. The king orders Haman hung on those same gallows, and with Haman's execution the king's anger is pacified.",
+  "externalContext": "The story is set at the Achaemenid Persian court, where royal banquets, court officials (e.g., chamberlains), and dramatic public punishments formed part of elite political life. Many scholars identify King Ahasuerus with Xerxes I, though the identification is debated and not explicitly stated in the text. A fifty-cubit gallows (about 75 feet if a cubit is ~18 inches) would have been an unusually large, publicly visible instrument of execution, underlining the intended humiliation and spectacle.",
+  "externalReferences": "The chapter ties directly to earlier episodes: Haman's malicious plot and the royal decree against the Jews are set out in Esther 3:1–15, and Haman's building of the gallows is anticipated in Esther 5:9–14. The honor unexpectedly shown to Mordecai the night before (leading to the narration of Haman's humiliation) occurs in Esther 6:1–11, which frames the sudden reversal that culminates in Haman's execution here.",
+  "seeAlso": [
+    "Esther 3:1-15",
+    "Esther 5:9-14",
+    "Esther 6:1-11",
+    "Esther 8:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Esther's Bold Plea"
+    },
+    {
+      "range": "5-10",
+      "title": "Haman's Sudden Fall"
+    }
+  ],
+  "themes": [
+    "Reversal of fortune",
+    "Courage",
+    "Justice",
+    "Court intrigue"
+  ],
+  "practicalQuestions": [
+    "When is it appropriate to risk personal safety to speak on behalf of others, as Esther did?",
+    "How should leaders evaluate sudden accusations and order proportionate responses?",
+    "What lessons about the misuse of power and planned violence can be drawn from Haman's plot?",
+    "How do public spectacles of punishment shape community memory and notions of justice?"
+  ],
+  "uncertainAreas": "The precise identity of Ahasuerus and historical details of Persian court procedure are debated; the text leaves ambiguous whether Haman was actually attempting an assault or merely stumbled, and the narrative frames events to show dramatic reversal rather than provide legal formalities.",
+  "createdAt": "2025-11-03T19:49:27.221Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ps.12",
+  "briefOverview": "A lament over widespread deceit and the failure of the faithful, paired with confidence in God's pure words and his intervention for the oppressed.",
+  "summary": "The psalmist cries to the LORD because the godly and faithful are disappearing while people speak vanity and flatter with double hearts (vv.1–2). He petitions God to silence flattering, proud tongues and to act on behalf of the poor and needy, promising divine deliverance (vv.3–5).\n\nThe psalmist affirms the purity and tested reliability of the LORD's words—compared to silver purified seven times—and asks God to preserve those words; he ends by observing that the wicked walk freely when the vilest are exalted (vv.6–8).",
+  "externalContext": "Psalms belong to the ancient Israelite cultic and devotional tradition and frequently articulate personal or communal laments where societal corruption prompts appeal to Yahweh. The concern with deceptive speech and the protection of the vulnerable reflects recurrent legal and wisdom themes in the ancient Near East about social order, truthfulness, and the king or deity as protector of the poor.",
+  "externalReferences": "The denunciation of flattering, deceitful speech is thematically close to Psalm 52:1–4 and to wisdom sayings like Proverbs 12:22, which condemn lying lips. The characterization of divine revelation as pure and trustworthy echoes Psalm 19:7’s affirmation of the perfection of the LORD’s law, while the promise that God will act for the needy resonates with Psalm 10:14 (KJV), which speaks of God seeing and taking up the cause of the afflicted.",
+  "seeAlso": [
+    "Psalm 19:7",
+    "Psalm 10:14",
+    "Psalm 52:1-4",
+    "Proverbs 12:22",
+    "Psalm 101:5-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Cry for Help"
+    },
+    {
+      "range": "6-8",
+      "title": "Trust in God's Word"
+    }
+  ],
+  "themes": [
+    "Deceit",
+    "Divine justice",
+    "Protection of the oppressed",
+    "Purity of God's word"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when honest, faithful people are scarce and deception is common?",
+    "In what practical ways can we protect and advocate for the poor and vulnerable today, as the psalm asks God to do?",
+    "How does the image of God's words as 'pure' challenge our use and valuation of truth in public life?",
+    "What steps can I take to examine and purify my own speech so it does not become 'flattering lips' or a 'double heart'?"
+  ],
+  "uncertainAreas": "Authorship and specific historical setting of the psalm are not specified; it is also somewhat ambiguous whether the petition to 'preserve them' (v.7) refers primarily to God's words, the faithful remnant, or both.",
+  "createdAt": "2025-11-03T21:31:51.787Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

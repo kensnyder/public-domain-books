@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.147",
+  "briefOverview": "A song of praise celebrating God's care for Israel, his sovereign control over nature, and his compassionate healing of the vulnerable.",
+  "summary": "The psalm opens with calls to praise God for his goodness and suitability as the object of song, and affirms that the LORD restores Jerusalem and gathers Israel's outcasts. It highlights God's compassion—he heals the brokenhearted and lifts up the meek while opposing the wicked—and praises his infinite power and knowledge. The poem celebrates God's provision for creation (rain, grass, food for animals) and notes that God does not delight in human strength but in those who fear him. The second half addresses Jerusalem directly, crediting God with strengthening its defenses, blessing its children, bringing peace and abundance, and issuing commands that affect weather and seasons. It concludes by emphasizing that God has revealed his statutes and judgments to Israel in a way he has not to other nations, and ends with a final call to praise the LORD.",
+  "externalContext": "Psalm 147 belongs to the collection of Psalms used in Israelite/early Jewish worship and is part of the closing 'Hallelujah' hymns (Psalms 146–150), often associated with post-exilic liturgical settings that celebrate restoration and God's renewed blessing on Jerusalem. The poem reflects common ancient Near Eastern motifs of divine kingship who controls weather and cares for the city and people, while also expressing distinct Israelite theological claims about revelation and election.",
+  "externalReferences": "The motif of God binding up the brokenhearted parallels Isaiah 61:1, which uses similar language of comforting and restoration. The mention that God 'telleth the number of the stars' and calls them by name echoes imagery in Psalm 8:3 and Isaiah 40:26, both of which emphasize divine sovereignty over the heavens. Descriptions of God controlling snow, frost, and ice recall passages in Job 38:22–30 and other wisdom texts that locate weather phenomena under God's command. The psalm’s emphasis on revelation to Israel and unique dealings with the nation resonates with Deuteronomic themes of covenantal election (e.g., Deuteronomy 7) and the prophetic claim of special disclosure to Israel.",
+  "seeAlso": [
+    "Isaiah 61:1",
+    "Isaiah 40:26",
+    "Psalm 8:3",
+    "Job 38:22-30",
+    "Psalms 146:1-10",
+    "Psalms 148:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Praise and Restoration"
+    },
+    {
+      "range": "7-11",
+      "title": "Provision and Favor"
+    },
+    {
+      "range": "12-20",
+      "title": "Jerusalem and Revelation"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Divine Providence",
+    "Compassion",
+    "Chosen People"
+  ],
+  "practicalQuestions": [
+    "How can communal praise shape our response to suffering and loss, as the psalm links song and healing?",
+    "In what ways might we live out the psalm’s valuation of humility (the meek) over worldly strength?",
+    "How does confidence in God’s providence for creation influence our care for the environment and the poor?",
+    "What does it mean today to receive and transmit God’s teachings as a community, in light of the psalm’s emphasis on revelation to Israel?"
+  ],
+  "uncertainAreas": "Dating and precise liturgical use are uncertain (post-exilic or later editorial placement is probable but not explicit in the text). The psalm’s claim that God 'hath not dealt so with any nation' is open to interpretation—whether it asserts exclusive revelation or a particular historical experience of Israel. Minor ambiguities exist about whether some verses address God’s action for all creation, for Israel alone, or for Jerusalem specifically.",
+  "createdAt": "2025-11-03T22:31:49.400Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

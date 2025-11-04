@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.20",
+  "briefOverview": "A collection of short wisdom sayings addressing moral behavior, practical living, and social justice. The chapter contrasts wise conduct (honesty, restraint, counsel) with folly (drunkenness, laziness, deceit).",
+  "summary": "The chapter gives a series of proverbs warning against intoxication, laziness, deceit, and injustice while commending integrity, timely counsel, and wise leadership. It teaches respect for rulers, the value of honest measures in commerce, and the importance of restraint in speech and action. Several verses emphasize the family and social consequences of personal conduct (children, inheritance, reputation). The text also highlights divine oversight—God equips senses and searches the heart—and presents tensions between human planning and divine direction. Practical instructions include seeking counsel before action, avoiding talebearers, honoring parents, and trusting God rather than personal vengeance.",
+  "externalContext": "Proverbs is part of the Ancient Near Eastern wisdom literature, compiled and transmitted in Israel from the early monarchic period through later centuries. Much material is traditionally attributed to Solomon and to court circles where short, memorable sayings guided behavior in family, marketplace, and royal administration. The sayings reflect concerns of a settled agrarian and urban society (harvest, plowing, pledges, weights and measures) and presuppose legal and cultic norms found elsewhere in the Torah.",
+  "externalReferences": "The injunctions against false weights and measures echo legal commands in Deuteronomy 25:13–16 and Leviticus 19:35–36, which require honest commerce. Warnings against drunkenness and the imagery of wine as a mocker find fuller treatment elsewhere in Proverbs (for example Proverbs 23:29–35). The admonition not to avenge but to wait on the Lord is later echoed in the New Testament (Romans 12:19), reflecting a continuing concern in biblical teaching about personal vengeance versus divine justice.",
+  "seeAlso": [
+    "Deuteronomy 25:13-16",
+    "Leviticus 19:35-36",
+    "Proverbs 23:29-35",
+    "Romans 12:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Warnings and Character"
+    },
+    {
+      "range": "8-18",
+      "title": "Justice and Counsel"
+    },
+    {
+      "range": "19-30",
+      "title": "Social Order and Discipline"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Integrity",
+    "Justice",
+    "Self-control"
+  ],
+  "practicalQuestions": [
+    "Where in my life am I tempted to use deceptive measures or take unfair advantage, and how can I ensure honest practices?",
+    "How do I respond to insults or injustice—do I seek vengeance or trust a larger moral order?",
+    "Whom do I consult before making important decisions, and how can I cultivate reliable counsel?",
+    "Am I practicing self-control in speech, drink, and work habits so that my actions bless those around me?"
+  ],
+  "uncertainAreas": "Some images are ambiguous: verse 26's 'bringeth the wheel over them' and verse 30's 'blueness of a wound' have contested meanings (military/defeat imagery vs. therapeutic/disciplinary readings). The tension between verses affirming human planning and verses asserting the LORD's guidance (v. 24) raises interpretive questions about divine sovereignty and human responsibility. Contextual nuances for pledges and garments (v. 16) also depend on legal and cultural practices not fully explained in the chapter.",
+  "createdAt": "2025-11-03T22:43:17.121Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

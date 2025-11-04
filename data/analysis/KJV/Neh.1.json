@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Neh.1",
+  "briefOverview": "Nehemiah receives a troubling report about Jerusalem and responds with mourning, fasting, and a prayer of corporate confession and petition. He appeals to God's covenant promises and asks for favor as he prepares to approach the king.",
+  "summary": "Nehemiah, serving in Susa (Shushan) in the twentieth year, hears from his brother Hanani and others that the remnant in Judah are suffering and that Jerusalem's walls and gates are ruined. Distressed, he mourns, fasts, and prays to the God of heaven, confessing both his own family's and Israel’s corporate sins. He explicitly invokes God's character as covenant-keeper and recalls the Mosaic warning of scattering for disobedience and the promise of gathering if the people repent. Nehemiah petitions God to hear his prayer day and night, to remember the people God redeemed, and to grant him success and mercy before the king, noting his role as the king's cupbearer.",
+  "externalContext": "Nehemiah is commonly dated to the Persian period; the \"twentieth year\" is traditionally taken as the 20th year of Artaxerxes I (mid-5th century BCE), and Shushan (Susa) was a Persian royal residence. The position of cupbearer was an intimate and influential office at the Persian court, giving Nehemiah unusual access to the king and making his later request plausible. The situation described follows the Babylonian exile and earlier returns under leaders like Zerubbabel and Ezra; the damaged walls indicate that while the temple had been reestablished, the city’s physical and political restoration remained incomplete.",
+  "externalReferences": "Nehemiah directly appeals to Mosaic covenant language about exile and restoration; passages that reflect this promise and warning include Deuteronomy 30:1–5 (gathering after repentance) and Leviticus 26:33,40–45 (scattering for sin and God’s eventual remembrance of the covenant). The broader narrative of return and partial rebuilding after the exile is treated in Ezra 1–6, which describes earlier returnees and the rebuilding of the temple, a background to Nehemiah’s concern for the city’s walls.",
+  "seeAlso": [
+    "Deuteronomy 30:1-5",
+    "Leviticus 26:33,40-45",
+    "Ezra 1:1-6",
+    "Nehemiah 2:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Report of Ruin"
+    },
+    {
+      "range": "4-11",
+      "title": "Prayer of Confession"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Intercession",
+    "Covenant",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "When you hear of communal suffering today, how should you balance emotional response (grief) with practical action (advocacy, planning)?",
+    "How can personal and corporate confession shape efforts to seek restoration and justice in your community?",
+    "In what ways can people in positions of influence use their access to authorities to advocate for vulnerable groups?",
+    "How does recalling foundational promises or values (like covenant language) strengthen prayer and public petitions?"
+  ],
+  "uncertainAreas": "The exact identity of the king (commonly Artaxerxes I) and the precise calendrical dating are traditional but not explicit in the chapter. The specific Mosaic passages Nehemiah had in mind are not quoted verbatim; Deuteronomy and Leviticus passages fit the themes but the text does not name chapter and verse. \"This man\" (the person before whom he seeks favor) plausibly refers to the king, though the brief phrasing is slightly ambiguous.",
+  "createdAt": "2025-11-03T19:40:18.179Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

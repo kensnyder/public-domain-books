@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "2Chr.19",
+  "briefOverview": "Jehoshaphat is rebuked for aligning with the ungodly but praised for religious reform; he then institutes judicial and priestly order across Judah.",
+  "summary": "After Jehoshaphat returns to Jerusalem safely, the seer Jehu son of Hanani rebukes him for supporting the ungodly while also commending his removal of cultic groves and his heart to seek God. Jehoshaphat tours the land from Beer-sheba to Mount Ephraim to bring the people back to the LORD. He appoints judges throughout the fortified cities of Judah and charges them to judge in the fear of the LORD, warning them against partiality and bribery. In Jerusalem he sets Levites and priests to handle legal controversies, instructing them to warn people not to transgress against the LORD. He designates Amariah as chief priest for divine matters and Zebadiah as the ruler over the king's affairs, urging courage and promising God's presence for the righteous.",
+  "externalContext": "Jehoshaphat was a ninth-century BCE king of Judah whose reign is portrayed in the Deuteronomistic historical tradition as a time of religious reform mixed with political alliances. 'Groves' (Asherah poles) were elements of Canaanite/Israelite popular worship that reforming kings often removed. The emphasis on appointing judges and avoiding bribery reflects Deuteronomic legal expectations for decentralized justice in Israelite society (e.g., appointing just officials in towns and cities).",
+  "externalReferences": "The charge to appoint honest judges and to 'not pervert judgment' echoes Deuteronomy 16:18–20, which prescribes appointing judges and checking corruption. The account continues themes from the preceding chapter (2 Chronicles 17:7–9), where Jehoshaphat sends Levites and priests to teach the people, and it leads into the narrative of his political alliances and battles in 2 Chronicles 18–20. The tension between religious reform and political alliances is a recurring motif in the Deuteronomistic history (compare several royal assessments in 1–2 Kings and Chronicles).",
+  "seeAlso": [
+    "Deuteronomy 16:18-20",
+    "2 Chronicles 17:7-9",
+    "2 Chronicles 18:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Rebuke and Reform"
+    },
+    {
+      "range": "5-11",
+      "title": "Judicial Appointments"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Religious reform",
+    "Leadership",
+    "Accountability"
+  ],
+  "practicalQuestions": [
+    "How should contemporary leaders weigh political alliances against ethical or religious commitments?",
+    "What institutional safeguards can prevent partiality and bribery in judicial systems today?",
+    "How can religious communities 'bring people back to the LORD' without coercion?",
+    "Who are the appropriate officials or bodies to adjudicate moral and legal disputes in our context?"
+  ],
+  "uncertainAreas": "The text's reference to 'the ungodly' likely alludes to Jehoshaphat's alliance(s) (cf. surrounding chapters), but the exact episode intended here is not specified within the chapter. The identification of some named officials (e.g., Amariah, Zebadiah) may overlap with other biblical figures of the same names, making precise historical identification uncertain.",
+  "createdAt": "2025-11-03T19:26:11.384Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

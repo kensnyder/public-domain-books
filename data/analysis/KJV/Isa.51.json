@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Isa.51",
+  "briefOverview": "A prophetic summons to remember Israel’s origins and God’s past acts, paired with promises of comfort, deliverance, and reversal of judgment.",
+  "summary": "The prophet calls those who seek righteousness to remember their roots in Abraham and Sarah and promises that the LORD will comfort Zion, restoring waste places and bringing joy. God announces a lasting righteousness and salvation that outlives the heavens, urging the people not to fear human reproach. The text invokes God’s past acts—striking Rahab and drying the sea—as precedent for a renewed deliverance, and promises the return of the redeemed with everlasting joy. Jerusalem is called to awake despite having drunk the cup of God’s fury; the chapter depicts desolation and suffering among her children but concludes with God removing the cup of trembling from the afflicted and giving it to their oppressors.",
+  "externalContext": "Scholars commonly place this chapter within the broader corpus addressing Israel’s exile or its aftermath; the language of comfort to Zion and the expectation of return reflect themes prominent in exilic and early postexilic prophetic literature (6th century BCE). References to Abraham as progenitor and to cosmic imagery (heavens, sea, Rahab) draw on longstanding Israelite traditions about origins and God’s control over chaos. The “cup of trembling” idiom appears elsewhere in prophetic literature as a symbol of divine judgment.",
+  "externalReferences": "The call to look to Abraham echoes the narrative of God’s call and promise to Abraham (Genesis 12:1–3). The image of God making a way through the sea parallels the Exodus tradition where the sea is parted for the redeemed (Exodus 14:21–22). The exhortation to “comfort Zion” resonates with other prophetic assurances of consolation (see Isaiah 40:1).",
+  "seeAlso": [
+    "Genesis 12:1-3",
+    "Exodus 14:21-22",
+    "Isaiah 40:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Call to Remember"
+    },
+    {
+      "range": "9-16",
+      "title": "God's Mighty Acts"
+    },
+    {
+      "range": "17-23",
+      "title": "Suffering and Reversal"
+    }
+  ],
+  "themes": [
+    "Comfort",
+    "Righteousness",
+    "Deliverance",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "In times of loss or exile, how can remembering foundational promises (like those to Abraham) sustain communal hope?",
+    "What practices help communities trust enduring divine justice rather than human approval or fear?",
+    "How should believers respond when they experience 'the cup of trembling'—oppression or communal suffering?",
+    "How can memories of past deliverance shape present action toward those who are afflicted?"
+  ],
+  "uncertainAreas": "The immediate historical setting (precise exilic vs. postexilic situation) can be debated; symbolic terms like 'Rahab' and 'dragon' may refer either to specific mythic sea-monsters or more abstract images of chaos and nations. The identity of 'them that afflict thee' is not specified in the text and could denote a range of historical enemies or symbolic forces.",
+  "createdAt": "2025-11-04T01:27:40.163Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

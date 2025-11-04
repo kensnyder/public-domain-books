@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.65",
+  "briefOverview": "A communal hymn of praise celebrating God as the hearer of prayer, forgiver of sin, ruler over nature, and provider of agricultural blessing.",
+  "summary": "The psalm opens with worship in Zion, acknowledging that vows and prayers are offered to God who hears them (verses 1–2). The speaker confesses sin and affirms that God pardons transgressions, and blesses those who are brought near to dwell in the temple courts (3–4). God is praised as mighty over creation—establishing mountains and calming the seas—and as sovereign over distant peoples (5–8). The focus shifts to God’s care for the land: watering, enriching, and preparing grain, blessing the year, and causing pastures and hills to rejoice, so that fields and flocks produce abundance and the people sing for joy (9–13).",
+  "externalContext": "Psalms like this were used in Israelite worship, especially in the Temple at Jerusalem and possibly in festival or pilgrimage contexts; references to Zion and dwelling in God’s courts point to cultic worship practices. The agricultural imagery (water, grain, pastures) reflects an agrarian society dependent on seasonal rains and irrigation, so blessing the year and ‘crowning’ it with goodness would connote fertility and divine favor for the food supply. The genre is thanksgiving and communal hymn, common in the Ancient Near East but shaped by Israel’s covenant language about God as protector and provider.",
+  "externalReferences": "The theme that God hears prayer appears elsewhere in the Psalter (e.g., Psalm 66:19). The detailed imagery of God watering the earth and providing springs and rivers parallels Psalm 104:10–13, which also celebrates God’s care for creation. The motifs of God calming the seas and establishing the mountains have resonances with other psalms that celebrate divine control over chaotic forces (see Psalm 93 and Psalm 107:23–32).",
+  "seeAlso": [
+    "Psalm 66:19",
+    "Psalm 104:10-13",
+    "Psalm 93:4",
+    "Psalm 107:23-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Invocation and Forgiveness"
+    },
+    {
+      "range": "5-8",
+      "title": "God’s Power in Nature"
+    },
+    {
+      "range": "9-13",
+      "title": "Divine Provision for the Land"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Divine Providence",
+    "Nature",
+    "Harvest"
+  ],
+  "practicalQuestions": [
+    "How can my community incorporate thanksgiving for material provision into worship?",
+    "In what ways does acknowledging God as 'hearer of prayer' change how I pray for personal and communal needs?",
+    "How should awareness of divine care for creation shape our stewardship of land and resources?",
+    "What practices help a person move from confession of sin to participation in the 'goodness of thy house' (worship and reconciliation)?"
+  ],
+  "uncertainAreas": "The psalm’s specific historical setting (which festival, author, or occasion) is not stated and remains uncertain. Phrases like 'by terrible things in righteousness' and 'river of God' admit multiple interpretations (literal river, irrigation, or metaphor for divine blessing). The voice alternates between singular and plural references (‘me’ and ‘we’), so whether the speaker represents an individual, a community, or both is ambiguous.",
+  "createdAt": "2025-11-03T21:53:35.839Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

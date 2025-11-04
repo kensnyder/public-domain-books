@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.149",
+  "briefOverview": "A liturgical summons to joyful, communal praise that links worship with divine vindication and warrior imagery.",
+  "summary": "Verses 1–3 call the community to sing a new song to the LORD, rejoicing in God as creator and king with dance and musical instruments. Verse 4 affirms that God delights in his people and will grant salvation to the humble. Verses 5–6 depict the saints rejoicing in glory, with high praise on their lips and a two-edged sword in their hand. Verses 7–9 apply that sword imagery to executing vengeance on nations, binding rulers, and carrying out written judgment, concluding with a final call to praise the LORD.",
+  "externalContext": "Psalm 149 is part of the final collection of psalms (Book V, Psalms 107–150) and likely functioned in communal or temple worship, where singing, dancing, and instruments were standard cultic expressions. The combination of jubilant liturgy and martial language reflects a common ancient Near Eastern and Israelite pattern of a deity as both enthroned ruler and divine warrior vindicating the community. The exact historical setting (e.g., pre- or post-exilic) and specific liturgical occasion are not explicit in the text.",
+  "externalReferences": "The call to sing a \"new song\" and to praise with instruments echoes other Psalms of praise, especially Psalm 150 (e.g., 150:3–5) and Psalms 96 and 98 that use similar language (96:1; 98:1–3). The depiction of God’s vindictive judgment and the image of a weapon in the LORD’s hand find parallels in prophetic texts such as Isaiah 63:4 and are echoed in later apocalyptic imagery like Revelation 19:11–15.",
+  "seeAlso": [
+    "Psalm 150",
+    "Psalm 96:1-13",
+    "Psalm 98:1-9",
+    "Isaiah 63:4",
+    "Revelation 19:11-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "4-6",
+      "title": "God's Delight and Empowerment"
+    },
+    {
+      "range": "7-9",
+      "title": "Vindication and Judgment"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Communal worship",
+    "Divine judgment",
+    "Warrior imagery"
+  ],
+  "practicalQuestions": [
+    "How should modern worship communities balance joyful praise (dance, music) with the Psalm's harsh language about judgment?",
+    "In what ways can the image of God 'pleasing' in the meek (v.4) inform communal care and humility today?",
+    "Does the 'two-edged sword' function as literal instruction, symbolic language, or metaphor for divine justice in contemporary application?",
+    "How can congregations responsibly interpret texts that call for vengeance toward 'the nations' in pluralistic and ethical contexts?"
+  ],
+  "uncertainAreas": "Uncertainty concerns the psalm's Sitz im Leben (specific liturgical or historical setting), whether the martial language is to be read literally or metaphorically, and the precise referent of \"the heathen\" in its original context.",
+  "createdAt": "2025-11-03T22:32:43.033Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

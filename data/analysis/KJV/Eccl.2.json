@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Eccl.2",
+  "briefOverview": "The speaker (Qoheleth) tests pleasure, wealth, and wisdom, finding them ultimately vain, and concludes that simple enjoyment of life is a gift from God.",
+  "summary": "The narrator recounts a deliberate experiment in pleasure: laughter, wine, large building projects, wealth, entertainments, and every desire were pursued to discover their worth (vv.1–11). After surveying these achievements he declares them \"vanity\" and without lasting profit under the sun (v.11). He then compares wisdom and folly, affirming wisdom's superiority but noting that death makes both end the same, which leads him to view much as futile (vv.12–17). Distressed at the prospect of leaving his work to someone who may be foolish, he laments the injustice and pointlessness of much labor (vv.18–21). He questions what a person ultimately gains from toil and sorrow (vv.22–23). Finally he offers a corrective: enjoying food, drink, and the fruits of labor is the best thing, and such enjoyment is from God's hand; he adds that God grants wisdom, knowledge, and joy to those who are pleasing to him, while sinners experience burdensome toil (vv.24–26).",
+  "externalContext": "Ecclesiastes is part of biblical wisdom literature and is traditionally ascribed to Solomon, though many scholars date its composition later (post-monarchic or Persian period). The book uses the figure of Qoheleth (\"the assembler\" or \"preacher\") to explore existential questions common in ancient Near Eastern wisdom traditions, including the fragility of life and the limits of human control. The Hebrew word translated \"vanity\" (hebel) often connotes transience or breath/emptiness, a key concept throughout the book.",
+  "externalReferences": "The theme of life's brevity and the futility of human striving echoes Psalm 39:5 and Psalm 90:3–6, which reflect on the shortness of life. Proverbs often celebrates the practical benefits of wisdom (e.g., Proverbs 3:13–18), a contrast to Qoheleth's view that wisdom, while better than folly, does not exempt one from death (cf. Ecclesiastes 1:18). The positive note about enjoying the fruits of labor anticipates similar counsel in Ecclesiastes later chapters (3:12–13; 5:18–20).",
+  "seeAlso": [
+    "Psalm 39:5",
+    "Psalm 90:3-6",
+    "Proverbs 3:13-18",
+    "Ecclesiastes 3:12-13",
+    "Ecclesiastes 5:18-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Experimenting with Pleasure"
+    },
+    {
+      "range": "12-17",
+      "title": "Wisdom and Mortality"
+    },
+    {
+      "range": "18-26",
+      "title": "Toil, Enjoyment, and God's Gift"
+    }
+  ],
+  "themes": [
+    "Vanity",
+    "Wisdom vs. Folly",
+    "Mortality",
+    "Enjoyment as Gift"
+  ],
+  "practicalQuestions": [
+    "Given life's transience, how should I measure the value of my ambitions and achievements?",
+    "How can I cultivate contentment and enjoy everyday work without denying the desire for lasting meaning?",
+    "What does it mean to seek wisdom when death makes wise and foolish outcomes converge?",
+    "How should communities steward wealth and inheritances knowing labor can be left to unknown successors?"
+  ],
+  "uncertainAreas": "The identity of the speaker (Solomon or a literary persona) and the precise dating of the book are debated. The Hebrew term rendered \"vanity\" (hebel) is ambiguous (vapor, transience, or meaninglessness). Verse 26's claim that God gives toil to sinners so they accumulate for the righteous is difficult to interpret definitively—possible readings include an observation of providence, a moral paradox, or ironic/social critique.",
+  "createdAt": "2025-11-03T22:49:43.089Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

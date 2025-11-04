@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Neh.11",
+  "briefOverview": "A civic and religious roster showing how Jerusalem was repopulated and how temple personnel and civic leaders were organized.",
+  "summary": "Nehemiah 11 reports that the people cast lots so one of every ten households would reside in Jerusalem while the rest remained in surrounding towns. The chapter lists the chief families, the numbers and leaders of Judah and Benjamin residents, detailed rolls of priests, Levites, gatekeepers, singers, and Nethinims who lived in the city, and the overseers responsible for temple service. It records specific numbers for many groups (e.g., 468 men of Perez, 284 Levites, 172 gatekeepers) and notes an official provision that singers received daily portions by the king's command. The remainder of the people, including priests and Levites, are said to live in their inherited towns throughout Judah and Benjamin, and a long list of those towns follows.",
+  "externalContext": "This chapter reflects the early Persian period policy allowing exiles to return and rebuild (late 6th–5th century BCE). Nehemiah served as governor under Persian authority, so references to 'the king' likely point to the Persian administration that sanctioned and financially supported some temple functions. The organization into priests, Levites, gatekeepers, Nethinims, and singers fits longstanding Israelite cultic practice attested elsewhere (e.g., Chronicles) and shows an attempt to reestablish both urban population and temple worship after the Babylonian exile.",
+  "externalReferences": "The chapter parallels returnee and household lists in Ezra 2 and Nehemiah 7, which contain overlapping names and numbers about those who resettled Judah and Jerusalem. The allocation of singers and their daily portions resembles material in 1 Chronicles 9:33–34 and 25 (lists of musicians and their support). The pattern of priests, Levites, gatekeepers, and Nethinims echoes the temple-service divisions throughout 1 Chronicles (e.g., 1 Chronicles 23–26).",
+  "seeAlso": [
+    "Ezra 2:1-70",
+    "Nehemiah 7:1-73",
+    "1 Chronicles 9:33-34",
+    "1 Chronicles 23:1-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Resettlement by Lot"
+    },
+    {
+      "range": "4-19",
+      "title": "City Inhabitants and Temple Staff"
+    },
+    {
+      "range": "20-36",
+      "title": "Villages and Levite Distribution"
+    }
+  ],
+  "themes": [
+    "Community organization",
+    "Temple worship",
+    "Resettlement",
+    "Genealogical record"
+  ],
+  "practicalQuestions": [
+    "How should a community decide who lives in a city center versus surrounding areas today, and what criteria would serve both civic life and social justice?",
+    "What responsibilities do religious specialists (or other institutional servants) have to remain present in a central community, and how should they be supported?",
+    "How can voluntary service (those who 'willingly offered themselves') be encouraged without masking coercive pressures or unfair burdens?",
+    "What can modern congregations learn from the way resources were allocated for regular worship (e.g., sustaining musicians and caretakers)?"
+  ],
+  "uncertainAreas": "The identity of 'the king' (likely Persian) is not explicit in the chapter; exact meanings of the lottery/'one of ten' procedure (voluntary rotation, enforced quota, or symbolic) are not spelled out; some numeric totals and name correspondences vary among parallel lists in Ezra/Nehemiah and Chronicles, creating uncertainty about precise counts and family identifications.",
+  "createdAt": "2025-11-03T19:45:17.522Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

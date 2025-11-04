@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.17",
+  "briefOverview": "A personal lament-prayer asking God to hear and vindicate the speaker, appealing to his tested integrity and requesting divine protection from hostile enemies.",
+  "summary": "The speaker begins by asking God to hear a sincere petition and to judge rightly, asserting that God has tested his heart and found him blameless. He claims to have avoided the ways of the violent and asks God to sustain his steps and listen to his plea. The psalmist appeals for God's steadfast lovingkindness and protection—using images like the 'apple of the eye' and 'shadow of thy wings'—to be kept safe from surrounding, predatory enemies. He describes those enemies as proud, self-satisfied, and greedy, likening them to a lurking lion and noting their worldly prosperity. The prayer calls God to rise and defeat these adversaries, and it closes with a confident hope: the psalmist will behold God's face in righteousness and be satisfied with God's likeness upon awakening.",
+  "externalContext": "This psalm fits the genre of an individual lament or plea for vindication common in the Israelite Psalter and is traditionally ascribed to David in many manuscript traditions. Its imagery (e.g., 'shadow of thy wings,' 'apple of the eye') reflects ancient Near Eastern metaphors for protection and care that recur elsewhere in Hebrew scripture. The complaint about the wicked prospering 'in this life' echoes a broader biblical concern with the apparent success of the ungodly in the present world.",
+  "externalReferences": "The request for protection 'under the shadow of thy wings' echoes Psalm 91:4 and other psalms that use wing-imagery for divine shelter (e.g., Psalm 57:1; 61:4). The plea for God to vindicate the speaker against violent adversaries resembles Psalm 7, another imprecatory/vindicatory prayer. The observation that the wicked are 'full of children' and prosper in this life resonates with Psalm 73:12–14's reflection on the prosperity of the wicked. The phrase 'keep me as the apple of the eye' has a parallel in Deuteronomy 32:10, where God is described as guarding his people.",
+  "seeAlso": [
+    "Psalm 7",
+    "Psalm 91:4",
+    "Psalm 73:12-14",
+    "Deuteronomy 32:10",
+    "Psalm 57:1",
+    "Psalm 61:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Appeal and Integrity"
+    },
+    {
+      "range": "4-9",
+      "title": "Plea for Protection"
+    },
+    {
+      "range": "10-15",
+      "title": "Enemies Described and Hope"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Vindication",
+    "Divine protection",
+    "Righteous integrity"
+  ],
+  "practicalQuestions": [
+    "How can I honestly present my life and struggles before God while claiming integrity, as the psalmist does?",
+    "When I see others prosper who act wickedly, how should that shape my trust in God's justice?",
+    "What practices help me to 'seek the shadow of God's wings'—i.e., find refuge in divine care amid danger?",
+    "How do I balance asking God for deliverance with humility and concern for the well-being of others, including enemies?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are not specified in the text and are traditionally ascribed to David but not certain. Some phrases are theologically or poetically ambiguous—e.g., the meaning of 'visited me in the night' (testing or comforting), the exact referent and nuance of 'which are thy sword... which are thy hand,' and whether the final vision of 'beholding thy face' is literal/eschatological or metaphorical. Translation variations affect nuance in a few verses.",
+  "createdAt": "2025-11-03T21:34:05.252Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "2Chr.13",
+  "briefOverview": "A short account of King Abijah of Judah confronting Jeroboam of Israel, contrasting legitimate Davidic/temple worship with Jeroboam's idolatry and recounting Judah's victory attributed to divine aid.",
+  "summary": "Abijah began to reign over Judah and, facing war with Jeroboam, marshaled 400,000 chosen men while Jeroboam had 800,000. Standing on Mount Zemaraim Abijah addresses Jeroboam and Israel, appeals to the Davidic covenant and accuses Jeroboam of setting up golden calves and illegitimate priests, while claiming that Judah has kept Aaronic and Levitical worship. An ambush surrounds Judah, but after Judah cries to the LORD and the priests blow trumpets, Judah gives a shout and God strikes Israel, resulting in a great slaughter with 500,000 of Israel slain. Judah pursues, captures several cities (including Bethel), Jeroboam never recovers and dies, and Abijah grows powerful and has many offspring; further acts are said to be recorded by the prophet Iddo.",
+  "externalContext": "This chapter is part of the Chronicler's retelling of the divided monarchy period (10th–9th century BCE context) and reflects concerns of the post-exilic temple community that favored Davidic kingship and proper Levitical cult. Jeroboam's establishment of alternate cult sites (golden calves at Bethel and Dan) is attested elsewhere in the Deuteronomistic history and is presented here as the theological explanation for political division and divine disfavor. The emphasis on Aaronic priests and temple practice aligns with Chronicles' broader interest in legitimate worship centered on Jerusalem.",
+  "externalReferences": "The charge that Jeroboam set up golden calves and new priesthoods corresponds to the narrative in 1 Kings 12:25–33, which describes the setting up of cult sites at Bethel and Dan. Abijah's appeal to a perpetual Davidic grant echoes the covenant language found in 2 Samuel 7:12–16 (Davidic covenant). The later summary that Jeroboam did not recover and died accords with the account of Jeroboam's reign and death in 1 Kings 14:17–20. The Chronistic focus on Aaronic priests and Levitical service recalls laws and prescriptions in Exodus–Leviticus concerning priesthood and sacrificial practice.",
+  "seeAlso": [
+    "1 Kings 12:25-33",
+    "2 Samuel 7:12-16",
+    "1 Kings 14:17-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Abijah's Accession and Armies"
+    },
+    {
+      "range": "4-12",
+      "title": "Appeal to Covenant and Worship"
+    },
+    {
+      "range": "13-19",
+      "title": "Battle and Victory"
+    }
+  ],
+  "themes": [
+    "Davidic covenant",
+    "Idolatry",
+    "Divine warfare",
+    "Levitical worship"
+  ],
+  "practicalQuestions": [
+    "How should religious leaders balance appeals to tradition and covenantal identity when addressing political conflicts today?",
+    "What criteria should communities use to evaluate claims that God endorses a particular military or political action?",
+    "How can institutions guard against informal or popular religious innovations that displace established practices?",
+    "In what ways can ritual leaders (priests, clergy) serve as sources of public courage and reassurance in crises?"
+  ],
+  "uncertainAreas": "The military numbers (e.g., 500,000 slain) and some place identifications may reflect rhetorical or exaggerative convention rather than precise figures. The text's strong pro-Davidic, pro-temple perspective (Chronicles) shapes its presentation and may differ in emphasis from the parallel account in Kings, creating interpretive uncertainty about chronology and details.",
+  "createdAt": "2025-11-03T19:23:07.257Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

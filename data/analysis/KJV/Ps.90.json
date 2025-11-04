@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.90",
+  "briefOverview": "A meditation on God's eternality contrasted with human mortality that moves from lament over brief life and divine anger to a petition for wisdom, mercy, and lasting blessing.",
+  "summary": "The psalm opens by affirming God as eternal refuge (vv. 1–2). The speaker contrasts God's timelessness with human transience, describing life as fragile and quickly passing like grass or sleep (vv. 3–6, 10). Because of human sin and divine displeasure the psalmist portrays life as marked by wrath and trouble and laments the brevity of years (vv. 7–11). Turning toward petition, the psalm asks God to teach the people to 'number their days' so they may gain wisdom, and pleads for God to return, show mercy, and make the people glad despite affliction (vv. 12–16). The closing verse requests that God's beauty and the fruit of human labor be established and blessed (v. 17).",
+  "externalContext": "Jewish and Christian tradition often ascribes this psalm to Moses and situates it in a context of communal reflection on mortality and dependence on God; the superscription in many Hebrew manuscripts names Moses (though that heading is not part of the Hebrew poetic text itself). The language reflects ancient Near Eastern concerns about life-span, communal suffering, and seeking divine favor, and it uses standard Hebrew poetic imagery (grass, watch, flood) to describe human frailty.",
+  "externalReferences": "Psalm 39:4–5 and Psalm 102:11 use similar imagery of days as a breath or life as grass and shadow, echoing the theme of human brevity. Job 14:5 and passages in the wisdom tradition (e.g., Ecclesiastes 3:1–2) likewise reflect the idea that human days are limited and set by God, providing a wider biblical backdrop for the petition 'teach us to number our days.'",
+  "seeAlso": [
+    "Psalm 39:4-5",
+    "Psalm 102:11",
+    "Job 14:5",
+    "Ecclesiastes 3:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "God's Eternity"
+    },
+    {
+      "range": "3-11",
+      "title": "Human Frailty and Wrath"
+    },
+    {
+      "range": "12-17",
+      "title": "Petition for Wisdom and Blessing"
+    }
+  ],
+  "themes": [
+    "Divine eternity",
+    "Human mortality",
+    "Wrath and mercy",
+    "Wisdom/Prayer"
+  ],
+  "practicalQuestions": [
+    "How would regularly reflecting on the brevity of life ('numbering our days') change my daily priorities and decisions?",
+    "In what ways should awareness of human finitude lead to seeking wisdom rather than despair?",
+    "How can communities balance honest lament about suffering with petitions for God's mercy and blessing?",
+    "What practices help individuals trust in God's mercy while acknowledging human responsibility for sin?"
+  ],
+  "uncertainAreas": "Authorship: the traditional attribution to Moses appears in manuscript headings but is not explicit within the Hebrew poem, so authorship is uncertain. Tone: it's unclear in some verses how much of the language of 'wrath' should be read strictly as judicial divine anger versus poetic depiction of the human condition. The phrase about 'a thousand years' in v. 4 is clearly metaphorical, but its precise semantic range (literal chronology vs. poetic hyperbole) can be read variously.",
+  "createdAt": "2025-11-03T22:06:05.896Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

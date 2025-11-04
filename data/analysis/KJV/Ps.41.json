@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.41",
+  "briefOverview": "A psalm that links compassion for the poor with God’s protection, moves into a personal lament over illness and betrayal, and concludes with confident vindication and praise.",
+  "summary": "The psalm opens by blessing those who care for the poor and promises God's preservation, healing, and protection in trouble (vv. 1–3). The speaker then confesses sin and pleads for mercy and healing, describing enemies who gossip, wish him dead, and falsely report his permanent downfall (vv. 4–8). He laments the betrayal of a close companion who shared his bread but has turned against him (v. 9), asks God to vindicate him so he may repay his foes, and takes the Lord’s continued favor and presence as proof of divine support (vv. 10–12). The poem closes with a doxological blessing of the Lord of Israel (v. 13).",
+  "externalContext": "Psalms were used in Israelite worship and private devotion; many reflect situations of illness, persecution, or social exclusion. Social care for the poor was a salient virtue in ancient Israelite ethics, and covenantal belief often linked practical righteousness with divine protection. The language of betrayal by a close companion and of enemies gossiping fits the courtly and communal settings where poets addressed real danger from political rivals or fractured social ties.",
+  "externalReferences": "The betrayal by a trusted companion echoes Psalm 55:12–14, where an intimate friend is counted among the attackers. The plea for mercy in illness parallels tones found in Psalm 6:2–4, which also links sickness with a request for healing. In the New Testament Jesus cites Psalm 41:9 in John 13:18 when speaking of Judas’ betrayal (citing the verse about the one who ate bread lifting up his heel). Proverbs 19:17 and other wisdom texts similarly connect kindness to the poor with God’s favorable response.",
+  "seeAlso": [
+    "Psalm 55:12-14",
+    "Psalm 6:2-4",
+    "John 13:18",
+    "Proverbs 19:17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Blessing the Compassionate"
+    },
+    {
+      "range": "4-11",
+      "title": "Lament and Betrayal"
+    },
+    {
+      "range": "12-13",
+      "title": "Vindication and Praise"
+    }
+  ],
+  "themes": [
+    "Compassion",
+    "Illness",
+    "Betrayal",
+    "Divine protection"
+  ],
+  "practicalQuestions": [
+    "How do I or my community care concretely for the poor, trusting that such care aligns with spiritual well‑being?",
+    "When facing illness or weakness, what practices of confession and reliance on community and God are appropriate?",
+    "How should I respond when a close friend betrays or gossips about me in a way that harms my reputation?",
+    "In what ways can we hold together lament (honest complaint) and praise in times of trouble?"
+  ],
+  "uncertainAreas": "The psalm's original historical setting, authorship, and whether the illness described is literal or metaphorical are not specified in the text; likewise the identity and motive of the ‘familiar friend’ are not given. The degree to which the psalm is intended as an individual lament versus a model for communal liturgy is open to interpretation.",
+  "createdAt": "2025-11-03T21:42:27.290Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

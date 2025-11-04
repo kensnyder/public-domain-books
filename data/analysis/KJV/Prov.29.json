@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.29",
+  "briefOverview": "A series of short wisdom sayings contrasting the outcomes of righteous and wicked behavior, with repeated attention to leadership, discipline, and social consequences. The chapter emphasizes practical ethics for family, community, and rulers.",
+  "summary": "Proverbs 29 collects sayings that contrast wise/righteous conduct with folly and corruption: those who refuse correction invite sudden ruin, while righteous rule brings rejoicing and wicked rule brings mourning. Several verses stress the importance of just leadership and faithful judgment (especially toward the poor), and warn that bribery and listening to lies corrupt a nation. The chapter affirms the value of discipline in childrearing and the corrective role of reproof, and it repeatedly links character traits (anger, pride, flattery, fear of people) to social harm. It also affirms trust in the LORD as protection against the snares created by human favor-seeking and injustice.",
+  "externalContext": "Proverbs belongs to ancient Israel’s wisdom literature and likely preserves sayings used in royal courts and households during the monarchy period. Short, antithetical couplets were a common teaching form intended for practical moral instruction. Concerns about kingly justice, bribery, discipline of children, and social order reflect everyday sociopolitical realities in a patronage-based ancient Near Eastern society.",
+  "externalReferences": "The theme of corporal correction as a means to wisdom echoes other Proverbs sayings, for example Proverbs 13:24 and Proverbs 22:15 which link the rod or discipline to child training. The warning about pride and its downfall parallels Proverbs 16:18 (“Pride goes before destruction”). The call for a king to judge the poor faithfully resonates with royal-justice language found in Psalm 72:1–4, which prays for a righteous ruler who defends the needy.",
+  "seeAlso": [
+    "Proverbs 13:24",
+    "Proverbs 22:15",
+    "Proverbs 16:18",
+    "Psalm 72:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Reproof and Rule"
+    },
+    {
+      "range": "7-18",
+      "title": "Justice and Discipline"
+    },
+    {
+      "range": "19-27",
+      "title": "Character and Consequence"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Leadership and Justice",
+    "Discipline",
+    "Pride and Humility"
+  ],
+  "practicalQuestions": [
+    "How does my community ensure that leaders judge fairly, especially for the poor?",
+    "In what ways can parents apply correction so it leads to wisdom rather than resentment?",
+    "When I fear human opinion, how might that fear shape my choices and what would trusting a deeper standard look like?",
+    "How should one respond to repeated reproach so as to avoid hardening versus becoming discouraged?"
+  ],
+  "uncertainAreas": "Some verses are proverb-like generalizations without clear historical context or single authorship, so their original setting (court, school, household) is uncertain. Verse 18’s key word translated “vision” has variant readings and interpretive debate (e.g., prophetic vision, clear leadership, or adherence to law), affecting its precise meaning.",
+  "createdAt": "2025-11-03T22:47:47.455Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.4",
+  "briefOverview": "A detailed inventory of the metal furnishings and large bronze works made for Solomon's temple, emphasizing dimensions, craftsmanship, and liturgical function.",
+  "summary": "The chapter lists Solomon’s major bronze and gold temple furnishings: a large brass altar, a \"molten sea\" basin set on twelve oxen with precise dimensions, ten lavers, ten gold lampstands, ten tables, and a hundred gold basins. It records the construction of the priests’ court and doors overlaid with brass, and notes placement of the sea at the east end. The artisan Huram (Hiram) finished many items, including the two pillars and their capitals decorated with wreaths and pomegranates. Many vessels were cast in the plain of the Jordan because their weight made them difficult to handle, and the chapter closes by listing other golden utensils and the gold-covered doors of the inner sanctuary.",
+  "externalContext": "Solomon’s Temple is traditionally dated to the 10th century BCE and drew on Phoenician metalworking expertise; Hiram/Huram of Tyre is named in other accounts (1 Kings) as the skilled craftsman who supplied cedar and bronze workers. The measurements (cubits, baths) reflect ancient standards whose exact modern equivalents vary, so numerical dimensions give a sense of scale rather than precise modern measurements. Large-scale bronze casting required open plains for furnaces and molds, explaining the reference to the Jordan plain.",
+  "externalReferences": "This chapter closely parallels 1 Kings 7:23–51, which gives a comparable inventory and the same measurements for the molten sea. The specific liturgical items (menorah, table for showbread, basins) evoke earlier prescriptions for sanctuary furnishings in Exodus (e.g., Exodus 25:23–30 for the showbread table; Exodus 25:31–40 for the lampstand).",
+  "seeAlso": [
+    "1 Kings 7:23-51",
+    "Exodus 25:23-30",
+    "Exodus 25:31-40",
+    "2 Chronicles 3:1-5",
+    "1 Kings 6-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Sea and Altar"
+    },
+    {
+      "range": "7-11",
+      "title": "Temple Furnishings"
+    },
+    {
+      "range": "12-22",
+      "title": "Huram’s Work and Vessels"
+    }
+  ],
+  "themes": [
+    "Temple",
+    "Craftsmanship",
+    "Ritual",
+    "Wealth"
+  ],
+  "practicalQuestions": [
+    "How should attention to beauty and costly materials in a worship space shape contemporary priorities for communal resources?",
+    "What can modern communities learn from partnering with skilled outside artisans when building religious or communal structures?",
+    "How does craftsmanship contribute to a sense of sacredness, and how can that be balanced with calls to simplicity?",
+    "In what ways do precise specifications (measurements, placement) affect how we understand liturgical practice and continuity with tradition?"
+  ],
+  "uncertainAreas": "The text’s metal terminology (\"brass\" versus \"bronze\") and unit measures (cubit, bath) have uncertain modern equivalents; some technical terms (pommels, chapiters) and the phrase \"ten in a cubit\" for the oxen’s similitude are difficult to visualize precisely. Minor textual variations exist between Chronicles and the parallel account in 1 Kings.",
+  "createdAt": "2025-11-03T19:18:26.912Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

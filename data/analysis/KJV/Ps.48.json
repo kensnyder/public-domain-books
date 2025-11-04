@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ps.48",
+  "briefOverview": "A hymn of praise celebrating God’s protection of Zion (Jerusalem) and calling the community to remember and proclaim his enduring rule.",
+  "summary": "The psalm begins with exultant praise for the LORD in the holy city, describing Mount Zion as beautiful and the city of the great King. Enemy kings assemble against the city but are frightened, fleeing in terror as God acts to destroy their power (image of breaking ships with an east wind). The psalmist affirms that what has been heard has been seen: God establishes the city forever. The poem closes by recalling God’s lovingkindness in the temple, urging pilgrims to survey and report Zion’s defenses and palaces, and declaring God as an everlasting guide even unto death.",
+  "externalContext": "Psalmic praise of a sacred city reflects a common ancient Near Eastern practice of singing city-songs that celebrate a deity’s protection of a capital. 'Zion' and 'the mountain of his holiness' are conventional names for Jerusalem as the cultic center. The reference to 'ships of Tarshish' invokes long-distance maritime trade or naval power associated with Tarshish (a far-western port in the ancient imagination) while 'Selah' is a liturgical or musical marker whose precise function is uncertain.",
+  "externalReferences": "Themes and images echo other biblical texts that celebrate Zion and divine protection, for example Isaiah 2:2–3 (exaltation of the mountain of the Lord) and Psalm 46 (God as defender of the city). The final affirmation that God will be 'our guide even unto death' resonates thematically with Psalm 23:4’s trust in God’s presence in danger. The call to recount Zion’s towers and palaces fits the genre of pilgrimage or liturgical procession found elsewhere (e.g., Psalms of ascent like Psalm 122).",
+  "seeAlso": [
+    "Isaiah 2:2-3",
+    "Psalm 46",
+    "Psalm 23:4",
+    "Psalm 87",
+    "Psalm 122"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "God's Protection and Victory"
+    },
+    {
+      "range": "9-14",
+      "title": "Remembering and Proclaiming Zion"
+    }
+  ],
+  "themes": [
+    "Divine protection",
+    "Zion/Jerusalem",
+    "Praise",
+    "Perpetuity"
+  ],
+  "practicalQuestions": [
+    "How can a community remember and retell experiences of divine help so they strengthen future generations?",
+    "In what ways does the image of God as a city’s defender shape communal trust during political or social threats today?",
+    "How might the command to 'walk about Zion' translate into contemporary practices of attention to one’s religious or civic heritage?",
+    "What does the claim that God 'will be our guide even unto death' mean for personal courage and caregiving in times of loss?"
+  ],
+  "uncertainAreas": "The psalm’s historical setting is unspecified (which kings assembled is unclear). The phrase 'ships of Tarshish' may be literal or figurative for distant maritime power. The exact liturgical function of 'Selah' and whether the instructions to 'walk about Zion' describe a festival procession, a military inspection, or a didactic tour remain uncertain.",
+  "createdAt": "2025-11-03T21:45:17.926Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

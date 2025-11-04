@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Prov.31",
+  "briefOverview": "A mother’s counsel to King Lemuel warns rulers against excess and urges justice, followed by a poetic encomium of the ideal, industrious wife whose worth is grounded in reverence for God.",
+  "summary": "Verses 1–9 record maternal advice to King Lemuel: do not give your strength to women or let strong drink impair royal judgment, but instead use compassion—give drink to the dying, and speak up for the mute and needy, judging righteously. Verses 10–31 form an extended praise-poem of a virtuous woman who is industrious, entrepreneurial, charitable, and wise; she provides for her household, engages in commerce and textile work, cares for the poor, and is honored by her children and husband. The poem concludes that beauty and favor are fleeting, but a woman who fears the LORD deserves praise and that her works should be publicly recognized.",
+  "externalContext": "Proverbs is part of the wisdom literature of the Hebrew Bible and likely reached its final form in the first millennium BCE; Proverbs often collects sayings from various traditions attributed to Solomon or other wise teachers. The name Lemuel is otherwise unattested in Israelite royal lists and may represent a foreign king or a symbolic figure; the final section (vv.10–31) is an acrostic poem in Hebrew praising the eshet ḥayil (woman of valor), a literary form suited to teaching households in the ancient Near East.",
+  "externalReferences": "The warning to rulers about wine echoes other Proverbs passages that link drink with impaired judgment (e.g., Proverbs 20:1; 23:29–35). The call to defend the poor and speak for the voiceless parallels prophetic and wisdom concerns for justice (cf. Isaiah 1:17; Micah 6:8) and is consonant with other Proverbs admonitions about fair judgment. The depiction of a worthy woman draws on earlier Proverbs motifs praising a good wife and household wisdom (see Proverbs 12:4; 31:10–31 as the chief example), while the final emphasis on 'the fear of the LORD' resonates with foundational Proverbs teachings (Proverbs 1:7; 9:10).",
+  "seeAlso": [
+    "Proverbs 20:1",
+    "Proverbs 23:29-35",
+    "Proverbs 12:4",
+    "Proverbs 1:7",
+    "Isaiah 1:17",
+    "Micah 6:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Maternal Counsel to King"
+    },
+    {
+      "range": "10-31",
+      "title": "Poem of the Virtuous Woman"
+    }
+  ],
+  "themes": [
+    "Kingship and sobriety",
+    "Justice for the poor",
+    "Virtuous woman",
+    "Household industry",
+    "Fear of the LORD"
+  ],
+  "practicalQuestions": [
+    "How should contemporary leaders limit personal indulgence to preserve impartial judgment and justice?",
+    "In what concrete ways can individuals and communities 'open their mouth for the dumb' and advocate for vulnerable people today?",
+    "How do we recognize and affirm the economic, managerial, and moral contributions of caregivers and household workers in our society?",
+    "What does it mean today to prize 'fear of the LORD' as the foundation of character rather than external charm or beauty?"
+  ],
+  "uncertainAreas": "The identity of Lemuel is unclear (historical king vs. symbolic), and the original Hebrew acrostic and wordplay of the 'woman of valor' section does not fully carry into English, creating interpretive gaps. It is also ambiguous whether the portrait prescribes fixed gender roles or idealizes a capable manager within its historical household economy.",
+  "createdAt": "2025-11-03T22:48:56.011Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

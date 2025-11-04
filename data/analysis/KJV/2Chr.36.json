@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.36",
+  "briefOverview": "A rapid account of Judah's last kings, the Babylonian conquest, exile, and the opening for return under Cyrus. The chapter links national judgment for persistent idolatry with prophetic fulfillment and eventual restoration.",
+  "summary": "The chapter recounts the swift succession of Judah's final kings: Jehoahaz (deposed by the Egyptian king), Jehoiakim (who served evil and was bound by Nebuchadnezzar), Jehoiachin (taken captive to Babylon), and Zedekiah (who rebelled against Babylon despite Jeremiah's warnings). Because of the people's and leaders' continued idolatry and mistreatment of God's messengers, God allowed Nebuchadnezzar to destroy Jerusalem, carry off temple vessels, burn the temple and palaces, and deport many people to Babylon. The exile lasted until the reign of Cyrus king of Persia, fulfilling Jeremiah's word about the land observing its sabbaths for seventy years. In the chapter's conclusion Cyrus is presented as divinely stirred to issue a proclamation permitting the exiles to return and rebuild the house of the LORD in Jerusalem.",
+  "externalContext": "Historically, the events reflect the late-7th/early-6th century BCE struggle for control of the Levant between Egypt and Babylon; Nebuchadnezzar II of Babylon carried out major campaigns that resulted in the fall of Jerusalem (c. 586 BCE). Cyrus the Great conquered Babylon in 539 BCE and issued policies allowing displaced peoples to return and restore temples, a policy attested in Persian administrative practice and in sources such as the Cyrus Cylinder. The chronicler frames political changes as acts permitted or directed by YHWH, a common theological perspective in biblical historiography.",
+  "externalReferences": "The chapter explicitly ties the exile and its duration to Jeremiah's prophecies (see Jeremiah 25:11–12; 29:10). The narrative parallels and complements the account in 2 Kings 23–25, which also describes the fall of Jerusalem and the deportations. Cyrus's proclamation here corresponds closely to the opening of Ezra 1:1–4 and resonates with Isaiah 45:1, where Cyrus is named as the LORD's anointed instrument.",
+  "seeAlso": [
+    "Jeremiah 25:11-12",
+    "Jeremiah 29:10",
+    "2 Kings 23-25",
+    "Ezra 1:1-4",
+    "Isaiah 45:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Deposition and Installation"
+    },
+    {
+      "range": "5-20",
+      "title": "Rebellion, Conquest, Exile"
+    },
+    {
+      "range": "21-23",
+      "title": "Prophecy Fulfilled; Cyrus' Decree"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Exile",
+    "Prophetic fulfillment",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How should communities discern and respond when leaders act unjustly or contrary to justice as portrayed in this chapter?",
+    "What responsibilities do religious institutions have when their practices become corrupt or syncretistic, and how can reform be pursued today?",
+    "How can the idea of communal accountability inform present-day responses to national or corporate wrongdoing?",
+    "In what ways can hope for restoration coexist with acknowledging consequences for wrongdoing?"
+  ],
+  "uncertainAreas": "Exact historical details and chronology (e.g., precise dates, identity of the Egyptian king) are not provided by the text and require external sources. The meaning and calculation of the 'seventy years' (when it begins and ends) is debated in scholarship. The text's attribution of Cyrus's motive to divine stirring describes theological causation rather than Persian political reasons, leaving room for multiple interpretations.",
+  "createdAt": "2025-11-03T19:34:48.179Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

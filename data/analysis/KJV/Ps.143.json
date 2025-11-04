@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.143",
+  "briefOverview": "A personal lament and urgent prayer for deliverance, guidance, and vindication, grounded in trust in God's faithfulness and righteousness.",
+  "summary": "The psalmist opens by appealing to the LORD's faithfulness and righteousness and asks not to be judged, acknowledging that no living person is righteous before God. He describes intense persecution and inner despair, remembering God's past works even as his spirit is overwhelmed. The psalmist longs for God (\"my soul thirsteth after thee\"), pleads for a swift hearing, and begs God not to hide his face. He asks for a morning renewal of lovingkindness, instruction in the right way to walk, and refuge from enemies. Finally he petitions for life and vindication for God's name's sake and requests that God deal with those who afflict him, closing with the affirmation that he is God's servant.",
+  "externalContext": "Psalms are Israelite hymns and prayers used in public and private worship; lament psalms like this one often combine complaint, remembrance of God's acts, petition, and vow of trust. The word \"Selah\" likely marks a liturgical or musical pause. Many psalms that voice personal danger and requests for guidance and vindication are traditionally associated with the monarchy period and are often ascribed to David in the broader Psalter, though the chapter as provided has no superscription.",
+  "externalReferences": "Themes and phrases here echo other lament psalms: the plea for mercy according to God's faithfulness resembles Psalm 51:1, the language of thirsting for God parallels Psalm 42:1, and the cry \"hide not thy face\" finds parallels in Psalm 13 and Psalm 22. The assertion that no one can be justified before God finds precedents in Job (e.g., Job 25:4; Job 9) where human righteousness is contrasted with divine holiness.",
+  "seeAlso": [
+    "Psalm 51:1",
+    "Psalm 42:1",
+    "Psalm 13",
+    "Job 25:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Complaint and Memory"
+    },
+    {
+      "range": "7-12",
+      "title": "Petition and Guidance"
+    }
+  ],
+  "themes": [
+    "Petition",
+    "Trust",
+    "Suffering",
+    "Guidance"
+  ],
+  "practicalQuestions": [
+    "When I feel overwhelmed, how can I balance honest complaint with remembering past acts of God as this psalm does?",
+    "What practices help me seek and recognize God's guidance in daily decisions as expressed in \"teach me to do thy will\"?",
+    "How should I pray about enemies or injustice in ways that remain faithful to the psalm's plea for vindication?",
+    "In what ways can the image of spiritual thirst shape my personal devotional life?"
+  ],
+  "uncertainAreas": "Authorship and historical setting are not specified in the text provided; the precise meaning and liturgical function of \"Selah\" remain debated; the tension between requesting God to \"cut off\" enemies and broader ethic of forgiveness raises interpretive questions about the psalm's intent and scope.",
+  "createdAt": "2025-11-03T22:29:45.323Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

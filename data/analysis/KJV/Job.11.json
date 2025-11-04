@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Job.11",
+  "briefOverview": "Zophar sharply rebukes Job for his many words, insists that God is beyond human comprehension, and urges Job to repent so he may be restored while warning of the fate of the wicked.",
+  "summary": "Zophar opens by challenging Job’s speech and accusing him of arrogance and falsehood (vv.1–6). He asserts that God’s wisdom and power are immeasurable and beyond human discovery (vv.7–12). Zophar then exhorts Job to prepare his heart, remove iniquity, and reach out to God; if he does so, Zophar promises renewed dignity, security, and forgetting of past misery (vv.13–19). The speech closes with a stark contrast: the wicked will fail and lose hope (v.20).",
+  "externalContext": "Zophar is one of Job’s three friends who represent traditional wisdom views common in the ancient Near East, notably the expectation that suffering corresponds to sin and that repentance leads to restoration. The Book of Job is part of Hebrew wisdom literature and stages a debate about the justice of God and the meaning of suffering; the friends’ speeches reflect conventional retribution theology rather than the book’s later more nuanced theological moves.",
+  "externalReferences": "Zophar’s appeal to the retributive principle echoes laws and wisdom traditions that connect blessing and curse with obedience and sin (compare Deuteronomy 28:15–68). The book’s later divine indictment of Job’s friends—God rebuking them for not speaking rightly about Him—directly bears on Zophar’s confident assertions (see Job 42:7–9).",
+  "seeAlso": [
+    "Job 42:7-9",
+    "Deuteronomy 28:15-68",
+    "Job 8",
+    "Job 5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Zophar's Rebuke"
+    },
+    {
+      "range": "7-12",
+      "title": "God's Incomprehensibility"
+    },
+    {
+      "range": "13-20",
+      "title": "Call to Repentance"
+    }
+  ],
+  "themes": [
+    "Divine transcendence",
+    "Retributive justice",
+    "Repentance",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How should we respond when friends explain another’s suffering as deserved punishment?",
+    "In what ways can we hold together humility before God’s mystery and the call to moral responsibility?",
+    "What concrete steps of repentance and reconciliation does this passage imply for someone who believes they have sinned?",
+    "How can care for the suffering avoid simplistic judgments while still encouraging ethical reflection?"
+  ],
+  "uncertainAreas": "It is unclear whether Zophar genuinely knows Job’s guilt or merely assumes it; the speech reflects traditional retribution theology, but its theological adequacy within the book’s larger argument is ambiguous. The tone oscillates between exhortation and accusation, so the degree to which the promised restoration is literal or rhetorical is uncertain.",
+  "createdAt": "2025-11-03T19:56:08.937Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.88",
+  "briefOverview": "A first-person lament expressing intense suffering, isolation, and the sense that God has abandoned the speaker, using grave/Sheol imagery and ending without consolation.",
+  "summary": "The psalmist cries to God day and night, pleading that God hear a soul overwhelmed with troubles and close to the grave (1–6). The speaker describes being counted among the dead, laid in darkness and the depths, experiencing God's wrath and ceaseless affliction (7–9, 15–17). Social isolation follows: friends and companions are removed and the psalmist is considered an abomination (8, 18). Rhetorical questions probe whether God’s lovingkindness or wonders can be declared in the grave, as the living call to God while the dead cannot praise him (10–12). The psalm returns to direct address, asking why God has cast off the speaker and hidden his face, and it closes in bleak images of terror and exclusion without an expressed resolution (13–18).",
+  "externalContext": "This psalm belongs to the ancient Israelite tradition of individual lament, a common liturgical and poetic form in which an afflicted person petitions God, describes suffering, and often expresses trust or hope. The poem’s repeated references to the pit, the grave, and darkness reflect the ancient Near Eastern concept of Sheol as the realm of the dead. The superscription is not included here, but the word \"Selah\" appears in the text and is generally taken as a musical or liturgical mark indicating a pause or musical interlude.",
+  "externalReferences": "The cry of abandonment echoes language found elsewhere in the Psalter (compare Psalm 22:1’s cry, \"My God, my God, why hast thou forsaken me?\"). Other laments such as Psalm 6 and Psalm 13 also plead with God from distress but typically conclude by affirming trust or deliverance, a contrast to the unresolved ending of this psalm. The imagery of going down to the pit or darkness is paralleled in Job 10:21–22, which also speaks of going to a land of darkness and deep shadow, connecting this psalm to broader biblical reflections on death and Sheol.",
+  "seeAlso": [
+    "Psalm 22:1",
+    "Psalm 6",
+    "Psalm 13",
+    "Job 10:21-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Cry and Description"
+    },
+    {
+      "range": "10-12",
+      "title": "Questions about the Dead"
+    },
+    {
+      "range": "13-18",
+      "title": "Renewed Plea and Lament"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Abandonment",
+    "Death/Sheol",
+    "Isolation"
+  ],
+  "practicalQuestions": [
+    "How can we honestly voice deep despair to God in community when prayers seem unanswered?",
+    "What practices or pastoral responses help someone who feels socially and spiritually abandoned?",
+    "How should religious communities hold theological tension when scripture records prayers that end without resolution?",
+    "In what ways can imagery of death and darkness in texts like this shape compassionate care for the dying and bereaved?"
+  ],
+  "uncertainAreas": "Authorship and historical setting are not given in the text; it is also ambiguous whether the psalm implies sin as the cause of suffering or treats affliction as unexplained. The intended liturgical use (beyond the presence of Selah) and whether the rhetorical questions expect an answer are also uncertain.",
+  "createdAt": "2025-11-03T22:05:10.042Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

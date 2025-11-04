@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Prov.11",
+  "briefOverview": "A collection of short sayings contrasting the outcomes of righteousness and wickedness, emphasizing honest conduct, wisdom, and social responsibility.",
+  "summary": "This chapter gives paired proverbs that contrast upright behavior and wickedness across social, economic, and personal spheres. It condemns dishonest business practices (honest weights), celebrates humility and integrity, and links righteousness with protection and flourishing while depicting wickedness as self-destructive. Social themes recur: the welfare of a city depends on the upright, good counsel and restraint in speech preserve relationships, and generosity leads to blessing while hoarding leads to lack. Practical maxims address suretyship, reputation, marital virtue, and the rewards of sowing righteousness versus the consequences of evil.",
+  "externalContext": "Proverbs belongs to the ancient Near Eastern wisdom tradition and is traditionally attributed to Solomon, though the book likely collects sayings compiled over time. The proverbs function as short, general observations about life and social order rather than guaranteed promises; they reflect Israelite concerns about community stability, economic fairness, and moral character.",
+  "externalReferences": "The opening demand for honest weights recalls legal injunctions against fraudulent measures in Leviticus 19:35–36 and Deuteronomy 25:13–16. The cause-and-effect idea that one 'sows' and 'reaps' echoes later New Testament language such as Galatians 6:7, which uses the same agricultural image for moral consequences. The theme of the righteous flourishing while the wicked perish parallels Psalm 37:16–20.",
+  "seeAlso": [
+    "Leviticus 19:35-36",
+    "Deuteronomy 25:13-16",
+    "Psalm 37:16-20",
+    "Galatians 6:7",
+    "Proverbs 10:2-3",
+    "Proverbs 12:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Integrity and Community"
+    },
+    {
+      "range": "12-21",
+      "title": "Speech and Relationships"
+    },
+    {
+      "range": "22-31",
+      "title": "Wealth, Generosity, Retribution"
+    }
+  ],
+  "themes": [
+    "Righteousness vs. wickedness",
+    "Integrity",
+    "Justice and fairness",
+    "Generosity"
+  ],
+  "practicalQuestions": [
+    "How can I ensure honesty and fairness in my business or financial dealings today (e.g., pricing, measurement, contracts)?",
+    "When is it wiser to remain silent rather than speak, especially in conflicts or about others?",
+    "What practical steps can a community take to provide wise counsel and prevent social collapse?",
+    "How does the proverb of sowing and reaping shape my view of generosity and long-term consequence?"
+  ],
+  "uncertainAreas": "Some sayings are framed as general patterns rather than promises, so it's uncertain whether the text intends universal, literal guarantees (e.g., the righteous always being delivered) or practical tendencies. Verse 31's final line ('much more the wicked and the sinner') is ambiguous in tone and could be read as emphasizing greater notice of the wicked's fate or as a difficult comparative statement about recompense.",
+  "createdAt": "2025-11-03T22:38:47.774Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

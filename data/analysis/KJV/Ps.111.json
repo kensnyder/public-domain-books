@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.111",
+  "briefOverview": "A short hymn of praise celebrating God's mighty, faithful works and covenant care, concluding with the declaration that 'the fear of the LORD' is the starting point of true wisdom.",
+  "summary": "The psalmist pledges wholehearted praise in the assembly and celebrates the greatness of the LORD's works, describing them as honourable, glorious, and enduring. God's graciousness and compassion are emphasized alongside his provision for those who fear him and his faithfulness to the covenant. The psalm testifies that God has demonstrated his power to give his people an inheritance and that the works of his hands are truth and judgment. It affirms that God's commandments are sure and everlasting, that he has sent redemption to his people and established his covenant forever. The poem closes with a wisdom statement: the fear of the LORD is the beginning of wisdom, and those who keep his commandments possess understanding and unending praise.",
+  "externalContext": "Psalm 111 belongs to the Hebrew Psalter, a central collection used in Israelite public and private worship; many psalms functioned as liturgical songs or liturgical teaching. In the original Hebrew this psalm is structured as an acrostic (each stanza beginning with successive letters of the alphabet), a common technique in biblical poetry intended to aid memorization and to convey completeness. Psalm 111 is often paired with Psalm 112, which begins with the same opening line and develops related themes of righteousness and the fear of the LORD.",
+  "externalReferences": "The statement 'The fear of the LORD is the beginning of wisdom' connects directly with Proverbs 9:10 and echoes Proverbs 1:7, where the fear of the LORD is likewise foundational for knowledge and wisdom. The claim that God 'sent redemption unto his people' resonates with earlier deliverance language in the Torah (for example, Exodus 6:6), where God promises to redeem Israel. Psalm 111's emphasis on covenant faithfulness and enduring commandments also recalls Deuteronomic covenant themes found throughout the Pentateuch.",
+  "seeAlso": [
+    "Proverbs 9:10",
+    "Proverbs 1:7",
+    "Exodus 6:6",
+    "Psalm 112:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Praise and Providence"
+    },
+    {
+      "range": "6-10",
+      "title": "Covenant and Wisdom"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Covenant faithfulness",
+    "Divine works",
+    "Fear of the Lord"
+  ],
+  "practicalQuestions": [
+    "How can communal worship and praise shape our awareness of God's acts in daily life?",
+    "In what ways can 'fear of the LORD' be understood and practiced as a foundation for wise living today?",
+    "How might we remember and testify to 'wonderful works' of justice and compassion in our communities?",
+    "What does trusting in God's covenantal faithfulness mean when institutions or relationships fail?"
+  ],
+  "uncertainAreas": "Translation and genre issues: the English translation compresses Hebrew poetic features (the psalm's acrostic structure and parallelism), which can affect nuance. Phrases like 'heritage of the heathen' and 'meat' (provision) admit multiple shades of meaning (territorial inheritance, divine reward, or more general provision). The scope of 'redemption'—whether primarily historical/deliverance, liturgical, or messianic—can be read in different ways depending on later theological contexts.",
+  "createdAt": "2025-11-03T22:15:59.362Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

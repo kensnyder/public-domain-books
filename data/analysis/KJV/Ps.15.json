@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.15",
+  "briefOverview": "Psalm 15 asks who may dwell in God's presence and gives a concise ethical profile of the person who may enter the holy place: upright conduct, truthful speech, and just treatment of neighbors.",
+  "summary": "The psalm begins with a question about who may abide in the LORD’s sanctuary. The answer is a compact list of moral virtues: walking uprightly, doing righteousness, and speaking truth from the heart. It emphasizes restraint in speech (no backbiting), refraining from harming or falsely accusing a neighbor, and honoring those who fear the LORD while despising the vile. It also stresses faithfulness to vows even when costly, avoidance of usury, and refusal to accept bribes; finally it promises that one who lives this way \"shall never be moved.\"",
+  "externalContext": "Psalm 15 is part of the sanctuary-oriented Psalter and reflects Israelite concerns about who is fit to approach God at the temple or holy hill (Zion). The traits listed echo legal and prophetic traditions in the Hebrew Bible that link ritual access with ethical behavior rather than mere ritual observance. Social issues named here — slander, false accusation, usury, and bribery — are also addressed elsewhere in the Torah and prophetic literature as signs of covenantal injustice.",
+  "externalReferences": "The question-and-answer pattern resembles Psalm 24:3–4, which asks who may ascend the hill of the LORD and answers with images of clean hands and a pure heart. Micah 6:8 similarly summarizes what the LORD requires: to act justly, love mercy, and walk humbly with God. Isaiah 33:15 lists comparable behaviors (walking in righteousness, speaking uprightly, refusing extortion and false oaths). Deuteronomy 16:19 warns explicitly against taking bribes, paralleling verse 5's prohibition.",
+  "seeAlso": [
+    "Psalm 24:3-4",
+    "Micah 6:8",
+    "Isaiah 33:15",
+    "Deuteronomy 16:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Question about Dwelling"
+    },
+    {
+      "range": "2-5",
+      "title": "Character of the Faithful"
+    }
+  ],
+  "themes": [
+    "Holiness",
+    "Integrity",
+    "Neighborliness",
+    "Justice"
+  ],
+  "practicalQuestions": [
+    "Which of these qualities (truthfulness, restraint in speech, refusal of bribery) are most challenged in my community, and how can I cultivate them?",
+    "How should religious communities balance formal worship practices with the ethical standards listed here when assessing membership or leadership?",
+    "What concrete steps can I take to avoid participating in slander, false accusation, or economic practices that exploit others?",
+    "How should I understand and practice costly faithfulness (\"swear to his own hurt\") in everyday promises and commitments?"
+  ],
+  "uncertainAreas": "Authorship and precise liturgical context are not explicit in the text (traditionally attributed to David but not stated here). Some terms are open to interpretation: \"tabernacle/holy hill\" could mean temple/Zion or more broadly God's presence; \"vile person\" and the scope of \"usury\" or \"taking reward against the innocent\" may be culturally specific and require caution in applying them directly to modern financial or legal systems. The exact force of \"sweareth to his own hurt, and changeth not\" (oath-keeping under loss) also admits nuanced readings.",
+  "createdAt": "2025-11-03T21:33:08.886Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.63",
+  "briefOverview": "A devotional lament that expresses intense longing for God during hardship, paired with confident praise and trust in God's protection and vindication.",
+  "summary": "The speaker opens with a vivid expression of thirst for God in a \"dry and thirsty land,\" longing to behold God’s power and glory and declaring that God’s lovingkindness is better than life. He resolves to bless and praise God continually, finding satisfaction like \"marrow and fatness\" and meditating on God through the night watches. The psalmist affirms joy in God’s help, resting \"in the shadow of thy wings,\" and asserts that God’s right hand upholds him as his soul follows hard after God. The closing verses turn to enemies: those who seek the psalmist’s life will be brought low and become \"a portion for foxes,\" while the king and those who swear by God will rejoice and false speakers will be silenced.",
+  "externalContext": "This psalm is traditionally attributed to David and in many Hebrew manuscript traditions carries a superscription linking it to a time \"in the wilderness of Judah,\" which helps explain the imagery of thirst and exile from the sanctuary. The language of \"shadow of thy wings\" and \"right hand\" draws on common ancient Near Eastern imagery of divine protection (the god as a protective figure or bird). The mention of the sanctuary and of a king reflects the cultic and monarchical context of ancient Israelite religion, where royal and temple themes often intertwine.",
+  "externalReferences": "The motif of intense longing for God resembles Psalm 42:1–2 and Psalm 84:2, both of which use animal or pastoral imagery to describe spiritual yearning. The protective image \"shadow of thy wings\" is closely echoed in Psalm 91:1–4 (and appears elsewhere in the Hebrew Bible), where the believer trusts God’s sheltering care. The turn from personal devotion to confident vindication over enemies fits a broader Psalter pattern (e.g., other royal/communal laments and thanksgiving songs where deliverance leads to public praise).",
+  "seeAlso": [
+    "Psalm 42:1-2",
+    "Psalm 84:2",
+    "Psalm 91:1-4",
+    "Psalm 35:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Longing and Praise"
+    },
+    {
+      "range": "9-11",
+      "title": "Enemies and Vindication"
+    }
+  ],
+  "themes": [
+    "Thirst for God",
+    "Praise/Worship",
+    "Divine protection",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate an enduring spiritual longing for God during seasons of spiritual dryness?",
+    "What practices (like meditation or night prayer) help transform longing into sustained praise?",
+    "In what ways can imagery of divine protection (\"shadow of thy wings\") shape how we seek safety and hope today?",
+    "How should communities respond when the text’s language about enemies and divine vindication appears violent or exclusionary?"
+  ],
+  "uncertainAreas": "The psalm’s historical setting and the identity of the ‘‘king’’ in verse 11 are uncertain; the superscription linking the psalm to David in the wilderness is traditional but not present in the supplied text. It is also unclear whether the hostile imagery (sword, foxes) is meant literally, rhetorically, or symbolically; both readings have precedent in the Psalter.",
+  "createdAt": "2025-11-03T21:52:52.889Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ps.95",
+  "briefOverview": "A congregational call to worship that praises God's creative power and issues a stern warning against hardening hearts by disobedience, using Israel's wilderness experience as negative example.",
+  "summary": "Verses 1–7 summon the community to joyful singing, thanksgiving, and worship, emphasizing God as creator and shepherd who owns the sea, land, and hills. The psalmist portrays God as 'the rock of our salvation' and invites bowing before 'the LORD our maker.' Verses 8–11 shift tone to admonition: the people are urged not to harden their hearts, with the provocation in the wilderness—when Israel tested and displeased God—given as the instructive precedent. The psalm recalls God's displeasure over forty years of grumbling and concludes that, because of that rebellion, that generation was barred from entering 'my rest.'",
+  "externalContext": "Psalm 95 is part of the Hebrew Psalter and functions liturgically as an invitatory or call to worship in both Jewish and Christian traditions. The references to creation echo the Hebrew Bible's creation narratives (Genesis 1) and to the wilderness testing draw on the Exodus–Numbers tradition about Israel's rebellion and forty years of wandering. Early Christian writers and the New Testament use this psalm to discuss themes of faith, disobedience, and 'rest.'",
+  "externalReferences": "The New Testament book of Hebrews explicitly quotes this psalm (Hebrews 3:7–11 and 4:7) to warn believers against the same kind of unbelief that kept Israel from entering God's rest. The wilderness incidents alluded to correspond to Israel's testing of God in Exodus (e.g., Exodus 17:1–7) and the generation's refusal to trust God leading to punishment described in Numbers 14. The psalm's language about God as creator parallels Genesis 1's depiction of God forming sea and land.",
+  "seeAlso": [
+    "Hebrews 3:7-11",
+    "Hebrews 4:7",
+    "Genesis 1:1-31",
+    "Numbers 14:22-23",
+    "Exodus 17:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Call to Worship"
+    },
+    {
+      "range": "8-11",
+      "title": "Warning from Wilderness"
+    }
+  ],
+  "themes": [
+    "Worship",
+    "Creation",
+    "Obedience",
+    "Rest"
+  ],
+  "practicalQuestions": [
+    "How can modern worship practices reflect the psalm's call to joyful thanksgiving before a sovereign Creator?",
+    "What contemporary 'wilderness' experiences tend to harden our hearts, and how can we guard against them?",
+    "In what ways does remembering God's creative power help sustain trust during trials?",
+    "How should communities respond when patterns of complaint or unbelief emerge among their members?"
+  ],
+  "uncertainAreas": "Authorship and original liturgical setting are not specified in the text (traditionally attributed to David but uncertain). The precise meaning of 'my rest'—whether referring primarily to the Promised Land, Sabbath rest, or a theological motif developed later—is open to interpretation. Specific historical incidents referred to as 'provocation' are summarized rather than detailed in the psalm itself.",
+  "createdAt": "2025-11-03T22:08:02.251Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

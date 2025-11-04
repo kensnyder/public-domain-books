@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.29",
+  "briefOverview": "A short hymn praising the LORD’s majestic, thunderous voice as it displays power over nature and establishes his kingship, concluding with a promise of strength and peace for his people.",
+  "summary": "The psalm opens with a call for the mighty to give glory and worship to the LORD. It then celebrates “the voice of the LORD,” describing it as present over the waters, powerful, majestic, and able to shatter cedars, stir mountains, divide flames, and shake the wilderness. The poem links these storm images to life-giving effects (e.g., causing hinds to calve and revealing forests) and to the temple, where people proclaim God’s glory. The psalm closes by affirming the LORD’s eternal reign over the flood and promising strength and peace to his people.",
+  "externalContext": "Psalm 29 fits within the ancient Near Eastern poetic tradition where storm imagery often symbolizes divine power; neighboring Canaanite texts portray storm-gods associated with thunder and rain. References to Lebanon and Sirion point to well-known mountains and cedars of the region, evocative symbols of grandeur. Many scholars think such hymns were used in public worship or liturgy, perhaps connected to temple rites or festivals.",
+  "externalReferences": "The motif of God’s voice in cosmic upheaval echoes other biblical passages that describe divine theophanies, notably Psalm 18 (esp. Psalm 18:7–15) and 2 Samuel 22, which use similar storm and earthquake language. Psalm 104:7 likewise depicts God’s control over waters and the calming or changing of creation’s order.",
+  "seeAlso": [
+    "Psalm 18:7-15",
+    "2 Samuel 22:8-16",
+    "Psalm 104:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Call to Worship"
+    },
+    {
+      "range": "3-9",
+      "title": "The LORD’s Thunderous Voice"
+    },
+    {
+      "range": "10-11",
+      "title": "Kingship and Blessing"
+    }
+  ],
+  "themes": [
+    "Divine voice",
+    "Power over nature",
+    "Kingship",
+    "Worship"
+  ],
+  "practicalQuestions": [
+    "How does reflecting on God’s power in nature shape the way we approach worship and humility today?",
+    "In what ways can communities proclaim God’s glory when they experience awe or crisis?",
+    "How might the promise of divine strength and peace influence personal responses to fear and uncertainty?",
+    "What practices help cultivate reverence (the ‘beauty of holiness’) in contemporary worship settings?"
+  ],
+  "uncertainAreas": "Uncertainty about original liturgical setting (public temple ritual vs. individual hymn). The precise meaning of some Hebrew terms (e.g., 'reem' translated here as 'young unicorn') and the full nuance of lines about the temple and 'the flood' are open to interpretive variation.",
+  "createdAt": "2025-11-03T21:38:00.287Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

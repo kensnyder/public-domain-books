@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.45",
+  "briefOverview": "A royal ode celebrating an ideal king and his marriage, combining praise of the monarch's power and righteousness with instructions to the bride and promises of dynastic continuity.",
+  "summary": "The psalmist composes a paean to a king, calling him fair, blessed by God, and equipped for victory (vv. 1–6). The king is praised for ruling by truth, meekness, and righteousness; his throne is declared enduring and he is anointed with joy above his peers (vv. 3–7). Rich, fragrant imagery describes his splendor and court (v. 8–9). The poem addresses a bride (or noble woman), urging her to leave her father's house, submit to the king, and take her place at his side (vv. 10–11, 13–15). The closing promises a legacy: the king will have children to succeed him and his name will be remembered through all generations (vv. 16–17).",
+  "externalContext": "Psalm 45 is conventionally categorized among the royal and/or wedding psalms in the Hebrew Bible and likely functioned in some celebratory court or cultic setting. Ancient Near Eastern royal ideology often linked kingship with divine sanction and ritual anointing; marriage alliances between ruling houses were a common political practice that could be celebrated in formal songs. 'Gold of Ophir' refers to a well-known source of luxury goods mentioned elsewhere in the biblical narrative (e.g., 1 Kings), signalling the poem's courtly, high-status milieu.",
+  "externalReferences": "The phrase 'Thy throne, O God, is for ever and ever' (v. 6) is cited in Hebrews 1:8–9 in the New Testament, where it is applied to the Son, reflecting an early Christian reading of the psalm as messianic. The reference to 'gold of Ophir' evokes 1 Kings 10:11 and related texts describing royal wealth and diplomatic exchange. The themes of just rule and royal succession resonate with other biblical royal texts such as Psalm 2 and Psalm 72, which also discuss divine support for the king and dynastic rule.",
+  "seeAlso": [
+    "Hebrews 1:8-9",
+    "1 Kings 10:11",
+    "Psalm 2",
+    "Psalm 72",
+    "Song of Solomon 3:6-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Author's Introduction"
+    },
+    {
+      "range": "3-9",
+      "title": "Praise of the King"
+    },
+    {
+      "range": "10-17",
+      "title": "Address to the Bride and Promise"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Anointing",
+    "Royal marriage",
+    "Dynasty"
+  ],
+  "practicalQuestions": [
+    "What qualities of leadership in verses 3–5 (truth, meekness, righteousness) are most important for leaders today, and how should they be cultivated?",
+    "How does the connection between religious sanction (anointing) and political power in the psalm challenge or inform modern church-state relationships?",
+    "In what ways can the psalm's treatment of marriage as both personal and political speak to contemporary views on partnership and public roles?",
+    "What responsibilities come with preserving a legacy (vv. 16–17), and how should communities steward the reputations of their leaders?"
+  ],
+  "uncertainAreas": "Uncertainty surrounds the poem's original occasion and addressee—whether it celebrates a specific historical king and wedding or serves as a symbolic/messianic ode. The meaning of the address 'Thy throne, O God' is debated: it may be a hyperbolic address to a human king, an exalted royal epithet, or a prophetic/messianic statement later read christologically. Precise dating and the identity of the bride (literal princess, political alliance, or allegory) are unresolved.",
+  "createdAt": "2025-11-03T21:44:07.556Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

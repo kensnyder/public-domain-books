@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Chr.17",
+  "briefOverview": "Jehoshaphat consolidates Judah's security and promotes religious reform by removing idolatrous sites and commissioning instruction in the law, resulting in prosperity and regional respect.",
+  "summary": "Jehoshaphat secures his reign by stationing forces in fortified cities and garrisons, following the precedent of his father Asa. Because he 'walked in the first ways of his father David' and sought the LORD rather than Baal, the LORD established his kingdom and he enjoyed wealth and honor. He removed high places and groves in Judah and, in his third year, sent princes together with Levites and priests throughout the cities to teach the people, carrying 'the book of the law.' As a result neighboring kingdoms were intimidated and made no war against him; he also received tribute from Philistines and Arabians, built fortifications and store cities, and maintained a large force of valiant warriors, with specific troop numbers listed.",
+  "externalContext": "This episode belongs to the period of the divided monarchy (Israel and Judah) when biblical writers judged kings by their fidelity to YHWH and to cultic norms established in Jerusalem. High places and sacred groves often signified local or syncretic worship outside the Jerusalem cult and were frequent targets of reforming kings. Sending Levites and priests to teach with a 'book of the law' echoes the Deuteronomic emphasis on public instruction in the covenant code and on royal responsibility for the law.",
+  "externalReferences": "The instruction to a king concerning a public copy of the law appears in Deuteronomy 17:18–20, which provides a background for royal promotion of legal teaching. A parallel narrative of Jehoshaphat's reign appears in 1 Kings 22:41–50, and his later crisis and reliance on prayer and prophetic guidance are recounted in 2 Chronicles 20:1–30. The motif of discovering and reading 'the book of the law' is also a major feature in the reform of King Josiah (see 2 Kings 22–23).",
+  "seeAlso": [
+    "Deuteronomy 17:18-20",
+    "1 Kings 22:41-50",
+    "2 Chronicles 20:1-30",
+    "2 Kings 22:8-23:30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Consolidation and Piety"
+    },
+    {
+      "range": "7-10",
+      "title": "Teaching the Law"
+    },
+    {
+      "range": "11-19",
+      "title": "Prosperity and Military Strength"
+    }
+  ],
+  "themes": [
+    "Religious reform",
+    "Divine favor",
+    "Legal instruction",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How can contemporary leaders encourage public education in foundational moral or religious texts without coercion?",
+    "What tensions arise between preparing for security (fortifications, military) and trusting in moral or spiritual commitments?",
+    "Which local practices today might function like the 'high places'—and how should communities assess and address them?",
+    "How does public teaching of shared values affect a society's stability and relations with neighbors?"
+  ],
+  "uncertainAreas": "The exact identity of 'the book of the law' is not specified in the text—whether it is a full Torah, Deuteronomy, or another legal collection is uncertain. The troop numbers and tribute amounts may reflect rhetorical or archival conventions rather than precise census figures. The phrase 'cities of Ephraim' under Judah's control could reflect earlier territorial claims or administrative anomalies that the text does not fully explain.",
+  "createdAt": "2025-11-03T19:25:19.434Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

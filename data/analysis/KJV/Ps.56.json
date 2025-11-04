@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.56",
+  "briefOverview": "A personal lament over persistent enemies that shifts into a confident declaration of trust in God and a vow of praise following anticipated deliverance.",
+  "summary": "The speaker cries for mercy because many enemies assail him daily and he faces constant danger. He responds to fear by deciding to trust God and promises not to fear what people can do. The psalmist describes opponents who twist his words, plot in secret, and wait to destroy him, and asks God to bring them down for their iniquity. God is pictured as one who knows the psalmist's wanderings and stores his tears, and the speaker expresses confidence that when he cries out God will make enemies retreat. The poem closes with a renewed commitment to praise, an acknowledgment of deliverance from death, and a petition for steadiness so he may live before God in the light of the living.",
+  "externalContext": "This psalm is traditionally attributed to David and is commonly associated with episodes when he fled or was endangered (ancient headings link it to events in Gath; see 1 Samuel 21). In the ancient Near East, making vows and giving public praise after deliverance were normal cultic responses, and personal lament combined with trust-language is a common shape in Hebrew prayer poetry.",
+  "externalReferences": "The traditional context that links this lament to David’s danger among the Philistines is narrated in 1 Samuel 21:10–15, where David is in Gath and fears for his life. Psalm 34 is also traditionally tied to the same episode (its superscription refers to feigning madness before the Philistine king) and shares themes of deliverance and praise. The assurance 'I will not be afraid' echoes similar trust-phrases elsewhere in the Psalter, for example Psalms 23:4.",
+  "seeAlso": [
+    "1 Samuel 21:10-15",
+    "Psalms 34:1-8",
+    "Psalms 23:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Complaint and Persecution"
+    },
+    {
+      "range": "8-13",
+      "title": "Confidence and Vow"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Persecution",
+    "Praise",
+    "Deliverance"
+  ],
+  "practicalQuestions": [
+    "When I feel afraid, what concrete practices help me 'trust' as the psalmist does?",
+    "How can communities respond to those who are persecuted so they can publicly vow praise when delivered?",
+    "What does it mean today to 'put my tears into your bottle' — how do we entrust grief to God?",
+    "How should the conviction that 'God is for me' shape our response to slander and injustice?"
+  ],
+  "uncertainAreas": "The supplied text lacks a superscription, so the precise historical setting and identity of the enemies are not explicit here. The exact sense of phrases like 'thy vows are upon me' and the metaphor of putting 'tears into thy bottle' admit multiple interpretations (cultic vow language vs. personal promise; figurative book-and-bottle imagery of divine remembrance).",
+  "createdAt": "2025-11-03T21:49:20.751Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

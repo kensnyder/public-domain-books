@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "1Chr.29",
+  "briefOverview": "David organizes and funds the temple project, leads the people in voluntary offerings, prays a public blessing, and transfers the kingship to Solomon before his death.",
+  "summary": "David declares that Solomon, though young, has been chosen by God and stresses that the palace and house are ultimately for the LORD. He gives large personal gifts of gold, silver, brass, iron, stones, and marble, and calls for others to consecrate themselves; the leaders and people respond with generous, voluntary contributions. David blesses and praises God in a public prayer that acknowledges God's sovereignty, the transience of human life, and that all gifts come from God; he asks God to give Solomon a perfect heart to keep the commandments and complete the building. Following great sacrifices and rejoicing, Solomon is anointed and established as king; the chapter closes with a brief summary of David's forty-year reign and references to fuller records of his acts elsewhere.",
+  "externalContext": "1 Chronicles is commonly dated to the post-exilic period and reflects the Chronicler’s interest in temple worship, priesthood, and proper liturgy; the emphasis on David’s preparations for the temple (rather than David as its builder) fits that theological focus. Large named resources like the \"gold of Ophir\" indicate luxury trade connections known in ancient Near Eastern texts and convey the wealth used for cultic construction. Voluntary communal giving and public royal endowments were a recognized way in the ancient Near East to legitimate new rulers and to ensure the cult's continuity.",
+  "externalReferences": "This chapter echoes the earlier planning and charge to Solomon found in 1 Chronicles 28, where David outlines temple plans and transfers responsibility to Solomon. The narrative corresponds in part to the account of Solomon’s accession in 1 Kings 1–2, which also records Solomon’s anointing and David’s death. The promise that Solomon will build the temple and God's role in establishing his house recalls 2 Samuel 7:12–13, where God tells David that his offspring will build a house for God’s name.",
+  "seeAlso": [
+    "1 Chronicles 28:1-10",
+    "1 Kings 1:1-2:12",
+    "2 Samuel 7:12-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Temple Preparations and Gifts"
+    },
+    {
+      "range": "10-20",
+      "title": "David's Prayer and Blessing"
+    },
+    {
+      "range": "21-30",
+      "title": "Coronation and Epilogue"
+    }
+  ],
+  "themes": [
+    "Temple",
+    "Succession",
+    "Generosity",
+    "Prayer"
+  ],
+  "practicalQuestions": [
+    "How should leaders prepare and fund institutional projects while acknowledging that resources ultimately come from a higher source?",
+    "What practices in your community encourage genuine, voluntary giving rather than coerced contributions?",
+    "How can one pray for successors so that they lead with integrity and a ‘perfect heart’ as David requests for Solomon?",
+    "In what ways does public liturgy (praise, blessing, sacrifice) serve to unify a community during transitions of leadership?"
+  ],
+  "uncertainAreas": "The phrase ‘‘made Solomon king the second time’’ is ambiguous in its historical reference and may reflect editorial shaping rather than a distinct historical event. Exact identification of the amounts and materials (e.g., ‘‘gold of Ophir’’) and the literal size of the sacrificial numbers may be stylized to convey abundance. The Chronicler’s redactional priorities (temple/priests emphasis) mean some details from Samuel/Kings are reinterpreted here.",
+  "createdAt": "2025-11-03T19:16:06.094Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

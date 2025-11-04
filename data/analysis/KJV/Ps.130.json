@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ps.130",
+  "briefOverview": "A penitential lament that moves from a desperate cry for help to confident hope in God's mercy and redemption.",
+  "summary": "The speaker cries from the \"depths\" for the LORD to hear and intervene, acknowledging that if God marked sin strictly no one could stand. Yet the psalmist trusts in God's readiness to forgive, which inspires reverent awe. The psalmist places patient, expectant trust in the LORD and in God's word, comparing this waiting to those who watch for morning. The poem closes with an explicit communal call: let Israel hope in the LORD because God is merciful and able to redeem Israel from all iniquities.",
+  "externalContext": "Psalm 130 is one of the Songs of Ascents (Psalms 120–134), a collection likely used by pilgrims traveling to Jerusalem. It belongs to the tradition of penitential laments in ancient Israel, where individual or communal cries for forgiveness are framed by appeals to God's covenant faithfulness and mercy.",
+  "externalReferences": "The penitential emphasis echoes Psalm 51's confession and plea for cleansing (Psalm 51), and the theme of waiting on God parallels Psalm 62:5 and Psalm 42:5–6. The Latin title De Profundis (from verse 1) reflects the psalm's long use in Jewish and Christian liturgical and devotional contexts as a prayer for mercy and deliverance.",
+  "seeAlso": [
+    "Psalms 120:1-8",
+    "Psalms 51:1-19",
+    "Psalms 42:5-6",
+    "Psalms 62:5",
+    "Psalms 130:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Cry and Confession"
+    },
+    {
+      "range": "5-8",
+      "title": "Waiting and Assurance"
+    }
+  ],
+  "themes": [
+    "Penitence",
+    "Mercy",
+    "Hope",
+    "Waiting"
+  ],
+  "practicalQuestions": [
+    "How does acknowledging personal or communal fault change the way we seek reconciliation today?",
+    "What practices help cultivate the patient, expectant waiting the psalmist models?",
+    "In what ways can communities foster public expressions of hope rooted in mercy rather than shame?",
+    "How might the psalm's assurance of forgiveness shape pastoral care around guilt and repentance?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are uncertain (traditionally ascribed to David but not specified in the text). The referent of \"his word\" (verse 5) could mean divine promise, Torah, or prophetic assurance; the psalm does not make this explicit. Whether \"Israel\" in the final verses denotes the psalmist's personal identity within the community or a broader corporate appeal is left ambiguous.",
+  "createdAt": "2025-11-03T22:24:13.676Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

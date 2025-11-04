@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.31",
+  "briefOverview": "Job presents a final, comprehensive self-defense by listing possible sins and inviting severe consequences if any apply, insisting on his integrity before God.",
+  "summary": "In a series of conditional statements Job vows to accept harsh punishments if he has committed various moral failings: sexual immorality (vv.1–12), mistreatment of servants and injustice (vv.13–23), idolatry of wealth and secret lusts (vv.24–28), and cruel attitudes toward enemies or failures in hospitality (vv.29–39). He repeatedly appeals to God’s scrutiny—asking to be weighed in an even balance—and expresses the desire that God would answer him and that his accuser would set down charges in writing (vv.6, 35–37). The chapter ends with imprecatory images of curse on his land should he have defrauded labourers, and the declaration that Job’s words are finished (v.40).",
+  "externalContext": "Job is part of ancient Near Eastern wisdom literature and uses legal and oath-formula language common in that milieu: swearing conditional curses upon oneself was a recognized way to assert innocence. The concerns about honest weights, treatment of the poor, and hospitality reflect social and legal ideals found elsewhere in Israelite and Near Eastern texts. References to being 'made in the womb' and the cover-up like 'Adam' draw on the broader biblical creation and fall imagery.",
+  "externalReferences": "Job’s appeal to fair balances and being weighed echoes Israelite concerns about honest measures (compare Proverbs 11:1; Deuteronomy 25:13–16). His language about being formed in the womb recalls Psalm 139:13 and underlines a shared theological conviction about common creation and human worth. The image of hiding sin 'as Adam' alludes to Genesis 3:7–12, where Adam and Eve try to conceal their nakedness and culpability.",
+  "seeAlso": [
+    "Proverbs 11:1",
+    "Deuteronomy 25:13-16",
+    "Psalm 139:13",
+    "Genesis 3:7-12",
+    "Job 23:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Chastity and Oath"
+    },
+    {
+      "range": "13-23",
+      "title": "Justice for Dependents"
+    },
+    {
+      "range": "24-40",
+      "title": "Wealth, Enemies, Vindication"
+    }
+  ],
+  "themes": [
+    "Integrity",
+    "Justice",
+    "Divine scrutiny",
+    "Hospitality"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways can I 'make a covenant with my eyes' in modern life to protect integrity?",
+    "How do I ensure fair treatment and provision for those dependent on me (employees, family, marginalized)?",
+    "What signs show that wealth has become an idol in my life, and how should I respond?",
+    "When I feel wrongly accused, how do I seek vindication before God while avoiding self-righteousness?"
+  ],
+  "uncertainAreas": "Whether Job intends these as literal oaths he previously took or as a rhetorical catalogue of hypothetical sins is ambiguous; the precise legal forms and customary penalties he invokes reflect ancient practices that are not always fully recoverable from the text alone.",
+  "createdAt": "2025-11-03T21:22:29.774Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

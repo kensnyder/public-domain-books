@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Chr.18",
+  "briefOverview": "An account of King Jehoshaphat's alliance with Ahab that culminates in a contest between true and false prophets and the death of Ahab at Ramoth-gilead.",
+  "summary": "Jehoshaphat of Judah allies with Ahab of Israel and is invited to join Ahab’s campaign to retake Ramoth-gilead. Ahab gathers four hundred prophets who unanimously predict victory, but Jehoshaphat requests a prophet of the LORD, so Micaiah is summoned. Micaiah first mocks the courtly oracle but then delivers a vision of the LORD’s heavenly council in which a spirit offers to be a lying influence in the king’s prophets, and predicts Israel will be scattered. Micaiah is beaten and imprisoned for speaking this word, yet the kings proceed to battle; Ahab disguises himself while Jehoshaphat remains in royal garments. In the fighting Syrian chariot commanders aim at the king, God protects Jehoshaphat, and Ahab is wounded by a random arrow and later dies as evening falls.",
+  "externalContext": "Ahab (king of the northern kingdom of Israel) and Jehoshaphat (king of Judah) were ninth-century BCE monarchs whose political alliances and conflicts with Aram (Syria) are attested in the biblical historical tradition. Prophets in Israelite courts functioned both as religious spokesmen and as political advisors; some prophetic figures appear to have formed guilds that often issued favorable oracles for rulers. The image of a divine council in heaven (God presiding with heavenly beings) is an ancient Near Eastern and biblical motif used elsewhere to portray divine deliberation.",
+  "externalReferences": "This chapter has a close parallel in 1 Kings 22:1–40, which recounts essentially the same story with overlapping language. The vision of the divine council resembles other biblical depictions of God consulting heavenly beings (e.g., Job 1:6–12) and the motif of God presiding in an assembly (Psalm 82:1). The problem of false prophets and the testing of prophetic claims is also a theme addressed elsewhere (cf. Jeremiah 23:16–22) though the wording and outcome here are distinct.",
+  "seeAlso": [
+    "1 Kings 22:1-40",
+    "Job 1:6-12",
+    "Psalm 82:1",
+    "Jeremiah 23:16-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Alliance and Counsel"
+    },
+    {
+      "range": "8-27",
+      "title": "Micaiah's True Prophecy"
+    },
+    {
+      "range": "28-34",
+      "title": "Battle and Ahab's Death"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Divine council",
+    "Deception",
+    "Kingship"
+  ],
+  "practicalQuestions": [
+    "When leaders receive unanimous advice, how can they discern whether it is faithful or self-interested?",
+    "How should communities treat truth-tellers who risk unpopularity to speak unwelcome messages?",
+    "What safeguards can faith communities put in place to test prophetic claims and prevent manipulation?",
+    "How does the text challenge our assumptions about human responsibility when evil or deception appears to be permitted by God?"
+  ],
+  "uncertainAreas": "The chapter’s portrayal of a spirit volunteering to be a 'lying spirit' raises theological and interpretive uncertainty about divine agency and responsibility—whether this depicts God directly causing deception, a judicial permission, or a literary way of explaining the success of false prophecy. The historical specifics (exact identities and motives of some prophets, and the court dynamics) are not fully transparent from the text alone.",
+  "createdAt": "2025-11-03T19:25:43.663Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

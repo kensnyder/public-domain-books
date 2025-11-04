@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.38",
+  "briefOverview": "A personal lament in which the speaker links severe physical and social suffering to sin, confesses wrongdoing, and urgently petitions God for mercy and deliverance.",
+  "summary": "The psalm opens with a plea that God not rebuke the speaker in anger and uses the image of God’s arrows and a heavy hand to describe the cause of deep physical and emotional distress. The speaker portrays the effects of sin as bodily disease and corrupting wounds, accompanied by mourning, weakness, and loss of strength. Friends and relatives keep their distance while hostile people plot against him, and the speaker describes his own silence and inability to protest. He nonetheless asserts hope in the LORD, acknowledges his iniquity with sorrow, and closes with urgent pleas for God not to forsake him and to hasten to help.",
+  "externalContext": "Psalm 38 is commonly classified among the penitential psalms in the Hebrew Bible and Jewish/Christian traditions. Its language reflects ancient Israelite ideas that sin could bring communal or individual suffering and that confession and pleading before Yahweh were appropriate responses. The psalm likely functioned both as personal lament and as a liturgical or devotional text in communities where lament and confession were part of religious practice.",
+  "externalReferences": "Verse 1 echoes the opening of Psalm 6:1 (“O LORD, rebuke me not in thine anger”), and the themes of confession and relief from guilt are strongly resonant with Psalm 32:1–5 and Psalm 51:1–12, both of which pair admission of sin with plea for God’s mercy. The combination of bodily suffering, social isolation, and a turn to trust in God also recalls other lament psalms in Book I of the Psalter, where personal distress becomes the occasion for covenantal appeal.",
+  "seeAlso": [
+    "Psalms 6:1-10",
+    "Psalms 32:1-5",
+    "Psalms 51:1-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Confession and Affliction"
+    },
+    {
+      "range": "11-14",
+      "title": "Alienation and Silence"
+    },
+    {
+      "range": "15-22",
+      "title": "Hope and Final Plea"
+    }
+  ],
+  "themes": [
+    "Penitence",
+    "Affliction",
+    "Alienation",
+    "Trust in God"
+  ],
+  "practicalQuestions": [
+    "When people experience illness or social rejection, how can communities avoid assuming it is divine punishment while still offering space for confession and spiritual support?",
+    "What practices of confession and lament are helpful for individuals today to express sorrow and seek reconciliation?",
+    "How can we accompany those who feel abandoned or betrayed so they do not become isolated as the psalmist describes?",
+    "In what ways can trust in God be maintained or nurtured amid prolonged suffering and apparent prosperity of one’s adversaries?"
+  ],
+  "uncertainAreas": "It is not explicit whether the psalmist’s ailments are literal disease, metaphorical descriptions of shame, or understood as direct divine punishment; the text supports more than one reading. The identity and motives of the \"enemies\" are unspecified, and verses describing silence (13–14) could be rhetorical humility or a literal inability to speak.",
+  "createdAt": "2025-11-03T21:41:23.394Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

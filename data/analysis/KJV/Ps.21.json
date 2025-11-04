@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.21",
+  "briefOverview": "A royal psalm of thanksgiving celebrating the king's delivered prosperity and God's protection, ending with vengeance on his enemies and a doxology of praise.",
+  "summary": "The psalm opens with joy over the king's strength and salvation, noting that God has granted the king's desires and honored him with a crown and long life. It emphasizes the king's trust in the LORD and the security that comes from divine mercy. The tone shifts to assurance that God will discover, punish, and utterly destroy the king's enemies for plotting evil. The psalm closes with a congregational call to exalt the LORD and sing praise to his power.",
+  "externalContext": "This psalm belongs to the biblical collection of royal or enthronement psalms and likely reflects Israelite court-language that affirms the king’s dependence on Yahweh. In the ancient Near East, kingship was often expressed through imagery of crowns, divine favor, and military victory; Hebrew psalms adapt these motifs to emphasize the covenantal relationship between God and Israel’s king. The term Selah (v.2) probably marks a liturgical pause or musical direction, indicating public worship performance.",
+  "externalReferences": "The themes of divine protection and royal blessing recall Psalm 20, which petitions for the king’s victory and celebrates answered prayer (see Psalm 20:6–9). The motif of God granting an enduring throne and honor connects with the Davidic promise in 2 Samuel 7:12–16. The theme of God judging the king’s foes parallels royal vindication language in Psalm 2:6–9, where God establishes and defends his anointed ruler.",
+  "seeAlso": [
+    "Psalm 20:6-9",
+    "Psalm 2:6-9",
+    "2 Samuel 7:12-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Thanksgiving for the King"
+    },
+    {
+      "range": "8-12",
+      "title": "Judgment on Enemies"
+    },
+    {
+      "range": "13-13",
+      "title": "Doxology and Praise"
+    }
+  ],
+  "themes": [
+    "Royal thanksgiving",
+    "Divine protection",
+    "Judgment",
+    "Covenant kingship"
+  ],
+  "practicalQuestions": [
+    "How do we express gratitude for leadership and blessings without conflating human rulers with divine favor?",
+    "In what ways can leaders today demonstrate trust in God while exercising authority responsibly?",
+    "How should communities reconcile prayers for the defeat of enemies with ethical commitments to mercy and justice?",
+    "What practices (liturgical, communal) help recognize and celebrate moments when petitions seem answered?"
+  ],
+  "uncertainAreas": "The precise historical situation and identity of the king are not specified (traditionally Davidic but not explicit). It is ambiguous whether the psalm commemorates a specific military victory, serves a regular enthronement liturgy, or has later messianic interpretation. The exact function of 'Selah' and some poetic imagery (e.g., 'fiery oven') remain interpretively open.",
+  "createdAt": "2025-11-03T21:35:13.547Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.76",
+  "briefOverview": "A short hymn celebrating God's presence in Judah and his decisive defeat of violent power; it portrays God as a fearful judge who protects the humble and calls for vows of worship.",
+  "summary": "The psalm opens by locating God's honored presence in Judah, Salem, and Zion. It recounts how God broke the weapons and strength of warriors, putting powerful fighters to sleep. The poem emphasizes God's fearful majesty and the impossibility of standing before his anger. It describes God issuing judgment from heaven that stills the earth and saves the meek. The psalm concludes by noting that human wrath ultimately serves God's praise though he restrains much of it, and it calls the community to bring vows and gifts to the LORD, who judges princes and terrifies kings.",
+  "externalContext": "Salem is traditionally identified with Jerusalem (Genesis 14:18), and Zion refers to the temple/holy hill; the psalm likely functions as a cultic hymn sung in a Temple context (the pause marker 'Selah' appears twice). The imagery of God breaking chariots and weapons fits ancient Near Eastern battle motifs where victory is attributed to a deity rather than human arms. The poem's focus on divine judgment and protection of the meek reflects themes common in the monarchic-period psalms associated with national worship.",
+  "externalReferences": "The name Salem recalls Genesis 14:18 (Melchizedek king of Salem) and anchors the poem in Jerusalem's sacred geography. The theme of God defeating enemies and shattering weapons aligns with victory traditions such as the Song at the Red Sea (Exodus 15) and military-theophany language found elsewhere in the Psalter (e.g., Psalm 18). The motif of God issuing judgment from heaven and stilling the earth is comparable to passages like Psalm 97:1–6, where divine presence and judgement shake the nations.",
+  "seeAlso": [
+    "Genesis 14:18",
+    "Exodus 15:1-12",
+    "Psalm 18:7-16",
+    "Psalm 97:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "God's Presence in Judah"
+    },
+    {
+      "range": "3-6",
+      "title": "God's Defeat of Warriors"
+    },
+    {
+      "range": "7-12",
+      "title": "Judgment, Praise, and Vows"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Judgment",
+    "Divine protection",
+    "Worship/vows"
+  ],
+  "practicalQuestions": [
+    "How should communities respond in worship when remembering moments of divine deliverance?",
+    "What does it mean today to 'bring presents' or fulfill vows in light of God's sovereignty?",
+    "How can we trust God as judge while also grappling with human violence and anger?",
+    "In what ways does the picture of God protecting the meek reshape social attitudes toward the vulnerable?"
+  ],
+  "uncertainAreas": "The poem does not specify a historical battle or author, so the original occasion is uncertain. Identification of Salem with Jerusalem is traditional but not explicitly argued in the text. The precise meaning of verse 10 ('the wrath of man shall praise thee; the remainder… shalt thou restrain') is ambiguous—likely indicating that human anger can unwittingly accomplish God's purposes while God limits its destructive scope.",
+  "createdAt": "2025-11-03T21:58:33.517Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.51",
+  "briefOverview": "A penitential prayer asking for God's mercy, cleansing, and inner renewal after serious sin, with a pledge to teach and praise God when restored.",
+  "summary": "The speaker pleads for God’s mercy and cleansing from sin, acknowledging personal guilt and the pervasive nature of sin (vv.1–6). He asks for ritual and inward purification (vv.7–12), requests that God not abandon him or remove his spirit, and appeals for restoration of joy and a willing spirit. Promising to instruct others and praise God if delivered from guilt, he contrasts external sacrifice with the inward sacrifices God desires: a broken, contrite heart (vv.13–17). The psalm closes with a petition for good toward Zion and the offering of righteous sacrifices when God restores Jerusalem (vv.18–19).",
+  "externalContext": "This psalm is traditionally understood as a royal penitential prayer from ancient Israelite cultic context, where sacrifices and ritual purification (including the use of hyssop) were common means of addressing uncleanness and sin. In many manuscript traditions the psalm is linked to King David’s moral failure (the Bathsheba/Uriah episode in 2 Samuel 11–12), which explains the language of bloodguilt and public restoration, though that historical link comes from the psalm’s superscription rather than the body of the poem itself.",
+  "externalReferences": "The psalm’s theme of royal confession and appeal for forgiveness is often read alongside 2 Samuel 11–12 (David’s adultery, Uriah’s death, and Nathan’s rebuke), especially 2 Samuel 12:13 where David admits his sin. The ritual language (hyssop, washing, purification) echoes Levitical purification rites such as Leviticus 14:4–7, while the claim that God values inner contrition over ritual sacrifice is paralleled by Hosea 6:6 and Isaiah 1:11–17, which criticize empty offerings apart from true justice and repentance.",
+  "seeAlso": [
+    "2 Samuel 11-12",
+    "Leviticus 14:4-7",
+    "Hosea 6:6",
+    "Isaiah 1:11-17",
+    "Psalm 32",
+    "Psalm 38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Initial Plea for Mercy"
+    },
+    {
+      "range": "3-12",
+      "title": "Confession and Cleansing"
+    },
+    {
+      "range": "13-19",
+      "title": "Commitment and Restoration"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Mercy",
+    "Cleansing",
+    "Inner transformation"
+  ],
+  "practicalQuestions": [
+    "How does my practice of confession balance public accountability and inward contrition?",
+    "In what ways can religious communities emphasize inner repentance over mere ritual observance?",
+    "When I have failed morally, what concrete steps can I take to seek restoration and to repair relationships?",
+    "How can leaders who repent model teaching and restoration so that others are turned toward right ways?"
+  ],
+  "uncertainAreas": "The supplied text lacks the common superscription that explicitly links the psalm to David and Nathan, so tying it to the Bathsheba/Uriah episode depends on that traditional heading. The precise ritual referenced by 'hyssop' and the nature of the 'holy spirit' (divine presence, inspiration, or a specific cultic spirit) allow multiple readings and are not fully defined by the poem itself.",
+  "createdAt": "2025-11-03T21:46:41.623Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

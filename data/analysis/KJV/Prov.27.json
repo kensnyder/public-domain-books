@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Prov.27",
+  "briefOverview": "A collection of short wisdom sayings on humility, friendship, anger, and prudent household management.",
+  "summary": "The chapter offers pithy aphorisms warning against boasting about tomorrow and recommending that praise come from others rather than oneself. It contrasts destructive emotions (wrath, envy) with the value of frank rebuke and faithful friendship, and uses vivid images (iron sharpening iron; face to face) to describe mutual sharpening and reflection between people. Practical cautions follow about prudence (foreseeing danger, avoiding risky surety), the annoyances of contentious companions, and the rewards of diligence in tending flocks and herds. The closing verses stress the temporary nature of riches and present concrete household-economic advice about livestock and provision.",
+  "externalContext": "Proverbs is part of the biblical wisdom literature, traditionally ascribed to Solomon but likely compiled over an extended period in ancient Israel. Its sayings reflect an agrarian, household-centered society where kinship ties, patronage, and responsibilities like surety (guaranteeing another's debt) were common realities. The book’s form—short, memorable maxims—served pedagogical purposes for training young men in practical morality and social skill within family and community life.",
+  "externalReferences": "Verse 1’s warning against boasting about the future finds a clear New Testament parallel in James 4:13–15, which counsels recognizing human dependence on God when planning. Advice about anger in verses 3–4 resonates with James 1:19–20’s call to be slow to anger because human anger does not produce God’s righteousness. The social emphasis on mutual benefit and reliable friends echoes Ecclesiastes 4:9–10 and other Proverbs passages like 17:17 (a friend loves at all times).",
+  "seeAlso": [
+    "James 4:13-15",
+    "James 1:19-20",
+    "Ecclesiastes 4:9-10",
+    "Proverbs 17:17",
+    "Proverbs 16:18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Boast, Anger, Correction"
+    },
+    {
+      "range": "7-19",
+      "title": "Friendship and Prudence"
+    },
+    {
+      "range": "20-27",
+      "title": "Desire and Stewardship"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Friendship",
+    "Prudence",
+    "Stewardship"
+  ],
+  "practicalQuestions": [
+    "When and how do I accept loving rebuke from friends rather than avoiding correction?",
+    "In what ways can I cultivate friendships that 'sharpen' me rather than flatter or deceive?",
+    "How should I assess risks before guaranteeing another person's debt or making financial commitments?",
+    "What practices can I adopt to be diligent stewards of my household resources and dependents?"
+  ],
+  "uncertainAreas": "Some concrete images are obscure (e.g., verse 16’s metaphor about hiding ointment and the wind). The precise social practice addressed in verse 13 (taking a garment as surety) needs historical nuance—whether it warns against informal surety or prescribes legal practice. Dating and specific authorship of individual sayings within Proverbs remain uncertain.",
+  "createdAt": "2025-11-03T22:46:45.105Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

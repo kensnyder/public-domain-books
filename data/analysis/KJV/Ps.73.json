@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.73",
+  "briefOverview": "A personal reflection on the problem of the prosperity of the wicked and the author’s move from envy to renewed trust after finding perspective in God’s sanctuary.",
+  "summary": "The speaker begins by affirming God’s goodness but confesses near-collapse because he envied the apparent prosperity and ease of the wicked (1–12). He admits feeling his own righteousness was in vain while the wicked seemed untroubled, which brought him pain and confusion (13–16). Entering the sanctuary brings insight: he perceives the ultimate end and judgment of the wicked and recognizes their precarious fate (17–21). He confesses his earlier foolishness, affirms God’s sustaining presence, and expresses confidence that God will guide him and receive him to glory (22–26). The psalm closes with a resolved choice to draw near to God and to proclaim the Lord’s deeds (27–28).",
+  "externalContext": "Traditionally this poem is ascribed to Asaph and appears in the third book of the Psalter, a collection that often reflects temple worship and the concerns of Israel’s liturgical community. The psalm belongs to the wisdom-lament tradition that grapples with retributive expectations (the idea that the righteous are rewarded and the wicked punished) common in ancient Israelite religion.",
+  "externalReferences": "The theme of righteous suffering and the seeming prosperity of the wicked echoes chapters in Job (e.g., Job 21) and reflections in Ecclesiastes (for example Ecclesiastes 8:14) that question simple retributive equations. Psalm 37 addresses a similar tension by urging trust in God despite the temporary success of the wicked (see Psalm 37:1–2, 36–37). The turn to the sanctuary as a place of perspective resonates with other Psalms that locate understanding or vindication in temple worship (cf. Psalm 11 and Psalm 16:11).",
+  "seeAlso": [
+    "Job 21",
+    "Ecclesiastes 8:14",
+    "Psalm 37:1-2,36-37",
+    "Psalm 16:11",
+    "Psalm 11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Envy of the Wicked"
+    },
+    {
+      "range": "13-22",
+      "title": "Crisis and Insight"
+    },
+    {
+      "range": "23-28",
+      "title": "Confession and Trust"
+    }
+  ],
+  "themes": [
+    "Envy",
+    "Divine justice",
+    "Sanctuary perspective",
+    "Trust"
+  ],
+  "practicalQuestions": [
+    "When I feel envious of others’ success, where do I go for perspective and how does that shape my response?",
+    "How can worship or communal practices help reframe perceptions of justice and suffering?",
+    "What disciplines help maintain trust in God when life seems unfair?",
+    "In what ways can we address and confess our own blindness before God and others?"
+  ],
+  "uncertainAreas": "Authorship and original liturgical setting (personal lament vs. communal usage) are not explicit in the chapter text; the exact meaning of some images (e.g., “waters of a full cup are wrung out to them”) allows multiple interpretations.",
+  "createdAt": "2025-11-03T21:57:12.988Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

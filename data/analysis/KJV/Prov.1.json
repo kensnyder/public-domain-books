@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Prov.1",
+  "briefOverview": "Proverbs 1 introduces the book’s purpose: to teach wisdom and discipline and to warn against the companionship of those who seek ill-gotten gain. It contrasts the safety of heeding wisdom with the destruction that follows rejecting it.",
+  "summary": "Verses 1–6 present Solomon as the source and lay out the aims of the proverbs: to impart wisdom, justice, and discretion for life. Verse 7 states the foundational principle that 'the fear of the LORD is the beginning of knowledge' and immediately contrasts the wise with fools who reject instruction. Verses 8–19 give a fatherly admonition to resist peers who entice the young into violent, greedy schemes promising loot. Verses 20–33 personify Wisdom as publicly calling in streets and marketplaces, offering instruction and warning that those who refuse will face ruin; those who heed will live in safety. The chapter ends by stressing moral responsibility: refusal to learn brings deserved consequences, while attention to wisdom grants security from fear.",
+  "externalContext": "Proverbs belongs to the Israelite Wisdom tradition and fits a broader ancient Near Eastern genre of instruction literature (father-to-child counsel and collections of sayings). Attributed to Solomon, the book was likely compiled and edited over time. The social setting reflected—urban gates, marketplaces, and groups planning ambush or robbery—matches realities of ancient city life where banditry and elite corruption threatened ordinary people.",
+  "externalReferences": "The claim that 'the fear of the LORD is the beginning of knowledge' recurs elsewhere in the wisdom corpus (see Proverbs 9:10 and Psalm 111:10), and the public, invitational speech of Wisdom here has a close parallel in Proverbs 8 where Wisdom speaks at length. The parental instruction motif (’My son… hear the instruction of thy father’) echoes Deuteronomy's emphasis on teaching children (Deuteronomy 6:6–7) and is a common pedagogical frame in wisdom literature.",
+  "seeAlso": [
+    "Proverbs 8:1-36",
+    "Proverbs 9:10",
+    "Psalm 111:10",
+    "Deuteronomy 6:6-7",
+    "Proverbs 4:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Purpose of Proverbs"
+    },
+    {
+      "range": "7-9",
+      "title": "Foundational Principle"
+    },
+    {
+      "range": "10-19",
+      "title": "Warning Against Enticement"
+    },
+    {
+      "range": "20-33",
+      "title": "Wisdom's Public Call"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Instruction",
+    "Fear of the LORD",
+    "Temptation"
+  ],
+  "practicalQuestions": [
+    "Who are the 'enticing' influences today and how can I refuse them while maintaining relationships?",
+    "How can parents and mentors effectively teach wisdom so it becomes an everyday habit rather than abstract advice?",
+    "In what ways do we mistake short-term gain for security, and how does Proverbs 1 challenge that assumption?",
+    "How should 'fear of the LORD' shape personal decision-making in contemporary ethical situations?"
+  ],
+  "uncertainAreas": "Uncertainties include the precise date and editorial history of these proverbs, whether 'my son' addresses literal offspring or a rhetorical audience, the exact social identity of the 'sinners' (organized criminals, corrupt elites, or general peer groups), and whether the personified Wisdom is intended as a literal divine agent or a rhetorical personification of an abstract virtue.",
+  "createdAt": "2025-11-03T22:33:42.602Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "2Chr.26",
+  "briefOverview": "The chapter recounts King Uzziah’s long, prosperous reign in Judah and his fall from favor after attempting a priestly cult act, resulting in leprosy and political sidelining.",
+  "summary": "Uzziah becomes king at sixteen and reigns fifty-two years, initially seeking the LORD and prospering. He achieves military victories (notably against Philistines and neighboring peoples), expands fortifications and agricultural development, and organizes a large, well-equipped army. His fame and strength grow, and he commissions war engines for Jerusalem. In pride he unlawfully enters the temple to burn incense; the high priest Azariah and eighty priests confront him. Uzziah is struck with leprosy on his forehead, removed from the sanctuary, lives in isolation until his death, and his son Jotham administers the kingdom. The chapter notes that Isaiah the prophet recorded Uzziah’s acts and that Uzziah was buried but regarded as a leper.",
+  "externalContext": "Uzziah (also called Azariah in some passages) is historically placed in the 8th century BCE as a powerful Judean monarch whose reign is associated with military strength, economic development, and construction projects. Ancient Israelite religion strictly distinguished priestly from royal cultic roles; unauthorized ritual actions by laypeople or rulers were treated as serious violations. Isaiah is traditionally associated with the same general period, and prophetic activity is commonly linked to the political events of that era.",
+  "externalReferences": "2 Kings 15:1–7 gives a parallel account of Uzziah/Azariah’s reign and notes his leprosy and the transfer of royal duties to his son. Isaiah 6:1 situates the prophet’s vision “in the year that King Uzziah died,” which connects Isaiah’s ministry chronologically to Uzziah’s lifetime and is relevant because 2 Chronicles says Isaiah wrote Uzziah’s acts. Leviticus 10:1–3 records an earlier precedent (Nadab and Abihu) in which unauthorized cultic action by non-designated persons leads to immediate divine judgment, which helps illuminate the theological logic behind the punishment in this chapter.",
+  "seeAlso": [
+    "2 Kings 15:1-7",
+    "Isaiah 6:1",
+    "Leviticus 10:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Prosperous Reign and Reforms"
+    },
+    {
+      "range": "16-23",
+      "title": "Presumption and Punishment"
+    }
+  ],
+  "themes": [
+    "Leadership",
+    "Prosperity",
+    "Pride",
+    "Cultic boundaries"
+  ],
+  "practicalQuestions": [
+    "How should modern leaders guard against pride when experiencing success?",
+    "What safeguards can communities put in place to correct leaders who overstep ethical or institutional boundaries?",
+    "How do religious traditions maintain appropriate role distinctions while avoiding abuses of authority?",
+    "When a public leader fails, what is a fair balance between accountability, care, and exclusion?"
+  ],
+  "uncertainAreas": "Identification of the Zechariah mentioned is uncertain (several biblical figures share that name). The precise meaning of “leprosy” could be ritual impurity rather than a modern medical diagnosis. The text’s reference to Isaiah writing Uzziah’s acts and Isaiah 6:1’s dating raise chronological questions that are debated in scholarship. The nature of the “engines” and some place-names and peoples (e.g., Gur-baal, Mehunims) are not fully clear from the text alone.",
+  "createdAt": "2025-11-03T19:30:08.436Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

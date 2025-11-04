@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Song.4",
+  "briefOverview": "A lover gives an extended, sensuous encomium of his beloved, using bodily and garden imagery to praise her beauty and to invite intimate union.",
+  "summary": "The speaker lavishly describes the woman's physical features with pastoral and royal metaphors (vv.1–6), praising her eyes, hair, teeth, lips, neck, and breasts. He repeatedly affirms her purity and beauty, calling her 'all fair' and using the intimate address 'my sister, my spouse' (vv.7–11). The poem shifts to a garden motif: the beloved is an enclosed garden and sealed fountain filled with rare spices and trees from Lebanon (vv.12–15). It closes with an erotic summons invoking north and south winds to stir the garden so that the beloved's lover may enter and 'eat his pleasant fruits' (v.16).",
+  "externalContext": "Song of Songs is typically dated to the ancient Israelite period and is part of the biblical wisdom/poetic corpus; its language and imagery reflect Near Eastern love poetry and royal court culture. Lebanon and Gilead were known in antiquity for cedar, aromatic resins, and other valuable exports, which makes references to frankincense, myrrh, and Lebanon evocative of wealth and rarity. Many of the plant names (spikenard, camphire, aloes) were expensive imports and function as metaphors for desirability; some specific identifications are debated among scholars.",
+  "externalReferences": "Within the Song itself similar motifs occur elsewhere: Song 2:1–3 uses tree-and-garden metaphors to express mutual attraction, and Song 2:10–13 contains a call to rise and come away that echoes the invitation here. The refrain of mutual possession and recognition ('I am my beloved's' / 'my beloved is mine') resonates with Song 6:3 and other passages that emphasize reciprocal belonging.",
+  "seeAlso": [
+    "Song 2:1-3",
+    "Song 2:10-13",
+    "Song 6:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Detailed Praise of Beauty"
+    },
+    {
+      "range": "7-11",
+      "title": "Affirmation and Longing"
+    },
+    {
+      "range": "12-16",
+      "title": "Enclosed Garden Invitation"
+    }
+  ],
+  "themes": [
+    "Sensuality",
+    "Love",
+    "Nature Imagery",
+    "Intimacy"
+  ],
+  "practicalQuestions": [
+    "How can praise of a partner's beauty be expressed in ways that respect dignity and mutual consent?",
+    "What role do sensory experiences (sight, smell, taste) play in building and sustaining romantic intimacy today?",
+    "How might the garden metaphor help couples think about care, cultivation, and boundaries in relationships?",
+    "In what ways can ancient poetic images of love inform contemporary conversations about erotic language in faith communities?"
+  ],
+  "uncertainAreas": "Some plant names (e.g., camphire) and precise botanical identifications are uncertain. The identity and number of speakers and whether terms like 'my sister' should be read literally as kinship or as an affectionate endearment are ambiguous. It is also open whether the poem should be read primarily as secular love poetry, allegory, or a mixture of genres.",
+  "createdAt": "2025-11-03T22:57:16.023Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

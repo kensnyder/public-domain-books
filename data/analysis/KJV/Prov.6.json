@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Prov.6",
+  "briefOverview": "Proverbs 6 gives practical warnings about financial responsibility, sloth, moral character, and sexual faithfulness, urging wisdom and parental instruction as protection.",
+  "summary": "The chapter opens with a warning against acting as guarantor for another's debt and urges quick, humble action to escape such obligations (1–5). It then contrasts the industrious ant with the sluggard, warning that habitual laziness leads to poverty (6–11). Verses 12–15 describe a deceitful, troublemaking person whose plotting brings sudden ruin. Verses 16–19 list six (and seven) things the LORD hates—pride, lying, violence, and sowing discord among brethren. The final section exhorts the reader to keep parental instruction as a guiding light and warns repeatedly about the dangers of the “strange” or adulterous woman, portraying adultery as self-destructive and provoking implacable jealousy (20–35).",
+  "externalContext": "Proverbs is part of the Hebrew wisdom literature, traditionally associated with Solomon but likely compiled over time in the monarchic and post-exilic periods; it functions as household and communal instruction aimed at preserving social order and personal well-being. Many sayings reflect everyday legal and social arrangements of the ancient Near East—kinship obligations, surety for debts, communal reputation, and strong prohibitions against adultery in agrarian, family-centered societies.",
+  "externalReferences": "The admonition to observe the ant is echoed elsewhere in wisdom material (Proverbs 30:24–25). The image of instruction as a lamp parallels Psalm 119:105 (“Thy word is a lamp unto my feet”). The prohibition against adultery connects with the Decalogue (Exodus 20:14) and other Proverbs warnings about the adulterous woman (Proverbs 5; Proverbs 7). The requirement to restore a thief’s loss is thematically related to Exodus 22:1, which prescribes restitution for theft.",
+  "seeAlso": [
+    "Proverbs 30:24-25",
+    "Psalm 119:105",
+    "Exodus 20:14",
+    "Proverbs 5:1-23",
+    "Proverbs 7:1-27",
+    "Exodus 22:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Warning About Surety"
+    },
+    {
+      "range": "6-11",
+      "title": "Diligence vs Sloth"
+    },
+    {
+      "range": "20-35",
+      "title": "Instruction and Adultery Warning"
+    }
+  ],
+  "themes": [
+    "Responsibility",
+    "Diligence",
+    "Wisdom",
+    "Sexual fidelity"
+  ],
+  "practicalQuestions": [
+    "When is it prudent to guarantee someone else's obligations, and what safeguards should I require before doing so?",
+    "What concrete habits or plans can I adopt to avoid the complacency and gradual decline depicted in the sluggard’s example?",
+    "How can parents or mentors make moral teaching both authoritative and practical so it guides daily choices as a ‘lamp’?",
+    "What safeguards (relational, digital, emotional) can I set up to protect against sexual temptation and the relational damage described here?"
+  ],
+  "uncertainAreas": "Some cultural details are ambiguous: the precise legal practices of surety in ancient Israel and the full scope of the phrase “strange woman” (foreigner, prostitute, or simply an alluring outsider) are not spelled out by the text. The rhetorical structure of the numerical proverb (“six... yea, seven”) is a stylized device whose original framing and possible additions are uncertain.",
+  "createdAt": "2025-11-03T22:35:46.352Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Isa.50",
+  "briefOverview": "A prophetic voice confronts Israel’s covenant unfaithfulness using divorce imagery, then a suffering, obedient figure (the Servant) asserts steadfast obedience and confident divine vindication, closing with an exhortation to trust God.",
+  "summary": "The chapter opens with a rhetorical challenge: the LORD asks where is the certificate of divorce or the creditor to whom Israel has been sold, declaring that Israel’s own iniquity has caused the separation (vv.1–3). The speaker then shifts to a first-person, describing a divinely enabled communicator who awakens each morning to hear and speak for the weary, and who has willingly endured abuse and humiliation without hiding his face (vv.4–6). Confident that God will help and vindicate him, the speaker sets his face like flint and taunts any adversary with the certainty of divine justification (vv.7–9). The chapter ends by calling those who fear the LORD and walk in darkness to trust and remain faithful, while warning that those who trust in their own sparks will reap sorrow (vv.10–11).",
+  "externalContext": "Scholars commonly place Isaiah 40–55 in an exilic or soon-postexilic context (often called Deutero‑Isaiah), addressing Israelites in Babylon. Covenant language that frames a nation as a spouse (and divorce as covenantal punishment) is a recurring prophetic metaphor (e.g., Jeremiah and Ezekiel) and would have been familiar to the audience. The image of a suffering, speaking Servant in this section is part of a larger “Servant Songs” motif in Isaiah, which is variously interpreted as representing Israel corporately, an ideal prophet, or an individual agent.",
+  "externalReferences": "The divorce/covenant imagery evokes Jeremiah 3:8 where God speaks of sending away a faithless wife by a “certificate of divorce.” This chapter is commonly read alongside other Isaiah “Servant” passages such as Isaiah 42:1–9, 49:1–7, and 53:1–12, which develop the suffering and vindication motif. In later religious traditions, verses describing abuse and spitting (e.g., v.6) are often linked to Gospel narratives of Jesus’ mistreatment (compare Matthew 26:67; Mark 14:65).",
+  "seeAlso": [
+    "Jeremiah 3:8",
+    "Isaiah 42:1-9",
+    "Isaiah 49:1-7",
+    "Isaiah 53:1-12",
+    "Matthew 26:67",
+    "Mark 14:65"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Covenant Accusation"
+    },
+    {
+      "range": "4-9",
+      "title": "Suffering Servant Speaks"
+    },
+    {
+      "range": "10-11",
+      "title": "Call to Trust"
+    }
+  ],
+  "themes": [
+    "Suffering Servant",
+    "Vindication",
+    "Obedience",
+    "Trust in God"
+  ],
+  "practicalQuestions": [
+    "When a community experiences corporate punishment or hardship, how should we interpret responsibility and respond constructively?",
+    "How can the example of the obedient, suffering speaker inform personal responses to injustice and humiliation today?",
+    "In times when God seems silent, what concrete practices help one ‘trust in the name of the LORD’ and ‘stay upon his God’?",
+    "What dangers arise from relying on one’s own ‘sparks’ (self-made solutions), and how can communities encourage trust in God instead?"
+  ],
+  "uncertainAreas": "Uncertainty exists about the precise identity of the speaker(s): whether vv.1–3 represent God addressing Israel and vv.4–9 an individual (the Servant), or whether the Servant voice and divine voice overlap. The original historical referent and editorial layering (community Israel vs. single prophetic/servant figure) are also debated among interpreters.",
+  "createdAt": "2025-11-04T01:27:14.604Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

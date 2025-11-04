@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Song.3",
+  "briefOverview": "A nighttime search for the beloved turns to finding him and leads to a vision of a resplendent, guarded royal procession associated with Solomon.",
+  "summary": "The female voice describes searching at night for her beloved through the city streets and encountering watchmen (1–3). She finally finds and clings to him, bringing him into her mother's chamber, then admonishes the daughters of Jerusalem not to rouse love until it pleases (4–5). The scene shifts to a dramatic, fragrant arrival 'out of the wilderness' with images of luxury: a bed attributed to Solomon, armed valiant men surrounding it, a chariot of Lebanon adorned with precious metals and purple, and an invitation to the daughters of Zion to behold Solomon with the crown given by his mother on his wedding day (6–11).",
+  "externalContext": "Song of Songs is an ancient collection of Hebrew love poetry that often uses bridal, royal, and pastoral imagery; Jewish and Christian traditions have variously read it as literal love lyrics, allegory for divine-human relationship, or a mix. The motifs of watchmen, bridal chambers, and ceremonial crowns reflect ancient Near Eastern marriage customs and public displays of royal power and wedding celebration. Solomon is traditionally associated with the book and with royal splendor in the Hebrew historical narratives.",
+  "externalReferences": "The injunction 'I charge you... that ye stir not up, nor awake my love, till he please' echoes identical lines in Song of Songs 2:7 and 8:4, forming a refrain that frames mutual restraint in longing. The image of watchmen and being found or harmed by them parallels other moments in this book (cf. Song 5:6–7). The reference to Solomon’s chariots and wealth has a loose parallel in the royal descriptions of Solomon in 1 Kings 10:26–28, where Solomon gathers chariots and horsemen.",
+  "seeAlso": [
+    "Song of Solomon 2:7",
+    "Song of Solomon 8:4",
+    "Song of Solomon 5:6-7",
+    "1 Kings 10:26-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Night Search and Finding"
+    },
+    {
+      "range": "6-11",
+      "title": "Royal Arrival and Procession"
+    }
+  ],
+  "themes": [
+    "Love",
+    "Longing",
+    "Protection",
+    "Royal Imagery"
+  ],
+  "practicalQuestions": [
+    "How do we balance longing with patience and respect for another’s timing, as urged by 'do not awake my love till he please'?",
+    "In what ways should community or guardians (the 'watchmen') participate in protecting or policing relationships today?",
+    "How can celebratory public rituals (weddings, crowns, processions) shape our understanding of commitment and honor in relationships?",
+    "When reading intimate poetry, how do we distinguish literal events from symbolic or idealized images?"
+  ],
+  "uncertainAreas": "Whether the speaker’s portrayal is literal or a visionary/poetic scene is ambiguous; the identity and role of 'Solomon' here—literal king, symbolic exemplar, or poetic persona—is uncertain; images like 'pillars of smoke' and 'threescore valiant men' are metaphorical and open to multiple interpretations.",
+  "createdAt": "2025-11-03T22:56:39.663Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

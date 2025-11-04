@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.32",
+  "briefOverview": "Hezekiah prepares Jerusalem against Sennacherib's invasion, trusts God amid Assyrian taunts, and experiences a dramatic deliverance followed by wealth, pride, and a testing involving Babylonian envoys.",
+  "summary": "Hezekiah fortifies Jerusalem, secures its water supply, and rallies the people with encouragement to trust in the LORD rather than in Assyria. Sennacherib's envoys mock Judah's God and urge surrender, but Hezekiah and the prophet Isaiah pray; the LORD sends an angel who strikes down the Assyrian fighting force, and Sennacherib returns to his land where he is killed by his sons. After the deliverance Hezekiah is honored and grows wealthy, but he becomes proud; he and the people humble themselves and the wrath of the LORD is withheld. Hezekiah also diverts the Gihon spring into the city (a notable engineering work), and later Babylonian princes send envoys to inquire about the sign that had occurred — an event the text says God used to test Hezekiah's heart. The chapter closes with a note directing readers to fuller records in Isaiah and the annals of the kings, and with Hezekiah's death and the succession of his son Manasseh.",
+  "externalContext": "Sennacherib was king of the Neo-Assyrian Empire (reign c. 705–681 BCE), and his campaigns in Judah are attested in Assyrian royal inscriptions (e.g., the Taylor/ Sennacherib Prism) and in the biblical books of Kings and Isaiah. Hezekiah's engineering to secure water in Jerusalem has been linked by scholars and archaeologists to the Siloam Tunnel (Hezekiah's Tunnel) and the Siloam Inscription, though the precise identifications remain debated. The presence of Babylonian envoys likely reflects rising Mesopotamian political activity in the late 8th/early 7th century BCE (e.g., Merodach‑baladan's diplomacy), a factor in Judah's later interactions with imperial powers.",
+  "externalReferences": "This chapter parallels and overlaps closely with 2 Kings 18–20 and Isaiah 36–39, which recount the Assyrian crisis, Hezekiah's illness, and the visit of Babylonian envoys (see especially 2 Kings 19:35–37 and Isaiah 37:36–38 for the deliverance). The account touches themes also found in Isaiah 38–39 (Hezekiah's sickness, sign, and the envoys from Babylon). Outside the Bible, Sennacherib's own annals describe the campaign against Judah but do not report a catastrophic defeat, a disparity that has led to different historical reconstructions.",
+  "seeAlso": [
+    "2 Kings 18:13-19:37",
+    "2 Kings 20:1-11",
+    "Isaiah 36:1-37:38",
+    "Isaiah 38:1-8",
+    "2 Kings 19:35-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Preparations and Exhortation"
+    },
+    {
+      "range": "9-21",
+      "title": "Assyrian Taunts and Deliverance"
+    },
+    {
+      "range": "22-33",
+      "title": "Wealth, Pride, Testing"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Leadership",
+    "Trust vs. pride",
+    "Testing"
+  ],
+  "practicalQuestions": [
+    "When facing intimidation or crisis, how should communities balance practical preparation with trust in higher principles or God?",
+    "How can leaders guard against pride after success, and what practices encourage genuine humility?",
+    "In what ways might apparent blessings become tests of character, and how should one respond if tested?",
+    "How should a community interpret conflicting accounts of a victory (religious vs. secular narratives) and integrate them responsibly?"
+  ],
+  "uncertainAreas": "The precise historical mechanics of the Assyrian reversal are ambiguous (angelic intervention in the text vs. possible disease, logistics, or political reasons in external records). Identification of the Babylonian envoys and the exact timing/context of God 'leaving' Hezekiah as a test are also open to interpretive uncertainty.",
+  "createdAt": "2025-11-03T19:32:53.553Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

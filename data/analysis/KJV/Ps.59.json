@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.59",
+  "briefOverview": "A desperate plea for rescue from hostile conspirators that mixes calls for divine judgment on enemies with confident trust and vows of praise.",
+  "summary": "The speaker urgently asks God to deliver him from violent, plotting enemies who lie in wait without cause (vv.1–4). He appeals to the LORD of hosts to act decisively against wicked transgressors and describes the enemies as noisy, dog-like marauders circling the city (vv.5–8,14–15). The psalmist expresses confident waiting on God's strength and mercy, asking God to scatter and humiliate the foes rather than simply slay them so the people will remember (vv.9–13). The poem closes with a commitment to sing of God's power and mercy each morning, affirming God as defender and refuge (vv.16–17).",
+  "externalContext": "Most Hebrew manuscripts and ancient traditions ascribe many psalms of this character to King David, and a classical setting for this tone is David’s flight from Saul; some manuscript headings (not included in the given text) link Psalm 59 to that situation. The language and imagery reflect ancient Near Eastern royal lament and petition genres, where 'hosts' (armies) and 'God our shield' emphasize divine military protection. 'Selah' appears twice as a liturgical or musical notation, suggesting public or cultic performance.",
+  "externalReferences": "The theme of a hunted or besieged ruler who calls for deliverance resembles Psalm 3 (a Davidic lament when fleeing Saul). Complaints about slanderous or dangerous speech recall Psalm 140:3 and Psalm 52:2 (images of harmful words and sharp tongues), while the declaration of God as strength and shield echoes Psalm 28:7. The assertion that God rules 'unto the ends of the earth' connects with broader psalmic themes of divine kingship found in passages such as Psalm 47:8 and Psalm 22:28.",
+  "seeAlso": [
+    "Psalms 3:1-8",
+    "Psalms 140:1-13",
+    "Psalms 28:7",
+    "Psalms 47:7-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Urgent Plea for Rescue"
+    },
+    {
+      "range": "6-15",
+      "title": "Depiction and Judgment of Foes"
+    },
+    {
+      "range": "16-17",
+      "title": "Morning Praise and Trust"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Divine justice",
+    "Enemies",
+    "Trust and praise"
+  ],
+  "practicalQuestions": [
+    "How should we pray for protection and justice when facing unjust hostility today?",
+    "In what ways can communities remember and learn from divine deliverance without seeking personal vengeance?",
+    "How do we hold together imprecatory language (calls for judgment) and the call to mercy in contemporary ethics?",
+    "What practices help sustain morning praise and trust in times of ongoing threat?"
+  ],
+  "uncertainAreas": "The provided text lacks the usual superscription that names the psalmist and historical setting; traditional attributions to David and the specific circumstance (Saul watching David’s house) are therefore inferred from manuscript headings, not the text itself. The precise meaning of phrases like 'shall prevent me' (v.10) and the function of 'Selah' are uncertain. The tone vacillates between asking for annihilation and asking that foes not be slain so the people remember (vv.11–13), leaving interpretive questions about the ethical and liturgical use of imprecatory language.",
+  "createdAt": "2025-11-03T21:50:51.675Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

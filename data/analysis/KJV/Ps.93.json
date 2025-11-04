@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.93",
+  "briefOverview": "A short royal/enthronement poem affirming Yahweh’s eternal reign and power over the chaotic sea, closing with a note about the surety of his testimonies and the holiness of his house.",
+  "summary": "Verses 1–2 declare that the LORD reigns in majesty and strength, his throne established from everlasting and the world firmly founded. Verses 3–4 evoke rising floods and mighty waves but assert that the LORD on high is mightier than the sea’s noise. Verse 5 concludes by affirming the reliability of God’s testimonies and that holiness adorns the LORD’s house forever. The psalm contrasts transient chaos with the enduring, sovereign rule and covenantal steadiness of God.",
+  "externalContext": "Psalm 93 is typically classified among the enthronement or royal psalms and appears in the liturgical tradition of ancient Israel, likely used in temple worship or festival contexts celebrating God’s kingship. The imagery of God’s victory over the sea draws on a long Near Eastern background in which the sea symbolizes chaotic forces; the Hebrew Bible repeatedly depicts Yahweh as subduing the waters as part of creation and establishment of order.",
+  "externalReferences": "The motif of God’s might over the sea and chaotic waters parallels passages such as Psalm 29:3–11 and Psalm 104:6–9, and Job 26:12–13 which similarly attribute the subduing of the sea to God’s power. The language of an eternal throne and divine rule resonates with other enthronement texts in the Psalter (for example, Psalms 95–99) and prophetic literature like Isaiah 51:9–10 that recalls God’s act against the sea.",
+  "seeAlso": [
+    "Psalms 29:3-11",
+    "Psalms 104:6-9",
+    "Job 26:12-13",
+    "Isaiah 51:9-10",
+    "Psalms 95:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "The LORD Reigns"
+    },
+    {
+      "range": "3-4",
+      "title": "Sea Subdued"
+    },
+    {
+      "range": "5-5",
+      "title": "Sure Testimonies"
+    }
+  ],
+  "themes": [
+    "Divine kingship",
+    "Sovereignty over chaos",
+    "Covenantal testimony",
+    "Holiness"
+  ],
+  "practicalQuestions": [
+    "How does confidence in a sovereign, steadfast God affect how we respond to personal or social upheaval?",
+    "In what ways can a community embody the 'holiness' that befits God’s house today?",
+    "When natural disasters or chaos occur, how does the image of God as ruler over the waters shape pastoral care and theological reflection?",
+    "How should the certainty of God’s ‘testimonies’ influence our understanding of moral and spiritual authority?"
+  ],
+  "uncertainAreas": "Uncertainty about the original liturgical setting and precise dating of the psalm; whether 'testimonies' here primarily denotes Torah-law, covenant promises, or more broadly the reliable acts and character of God; ambiguity whether the flood imagery refers to a specific historical event, general chaos imagery, or a mythic trope.",
+  "createdAt": "2025-11-03T22:07:15.805Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

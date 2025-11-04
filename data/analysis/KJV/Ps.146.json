@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.146",
+  "briefOverview": "A call to wholehearted praise of Yahweh that contrasts trust in mortal rulers with trust in the sovereign, caring Creator who acts for the vulnerable.",
+  "summary": "The psalm opens with an emphatic personal and communal call to praise God and a vow to continue praising while alive. It warns against relying on human rulers, noting human mortality and the futility of trusting those whose life and plans end. The poem then describes the blessedness of those whose hope is in the LORD, who is affirmed as Creator of heaven, earth, and sea and as one who preserves truth forever. The remainder catalogs God’s active care: executing justice for the oppressed, feeding the hungry, freeing prisoners, opening the eyes of the blind, lifting the bowed down, loving the righteous, and protecting strangers, orphans, and widows. The psalm closes by declaring God’s eternal reign over Zion and all generations, and returning to praise.",
+  "externalContext": "Psalm 146 is part of the final collection of psalms (Psalms 146–150) that repeatedly call for \"Hallelujah\" (praise the Lord) and function as liturgical hymns of praise. The psalter was compiled over centuries; many of these late psalms reflect post-exilic theological concerns—emphasizing God’s enduring reign and care for the marginalized rather than reliance on human rulers. The social concerns named (orphans, widows, strangers, the poor, prisoners, the blind) reflect longstanding Israelite legal and prophetic emphases that God is defender of the vulnerable.",
+  "externalReferences": "The affirmation of God as Creator echoes Genesis 1:1 and uses creation language common to the Psalter (e.g., Psalm 104). The concern for orphans, widows, and sojourners echoes Deuteronomy 10:18, which likewise states that God \"executes justice for the fatherless and the widow, and loves the stranger.\" Psalm 146’s theme of rejecting trust in human princes and exalting divine kingship fits within broader biblical motifs of divine sovereignty and care found elsewhere in the Psalms (see Psalms 145–148).",
+  "seeAlso": [
+    "Genesis 1:1",
+    "Deuteronomy 10:18",
+    "Psalms 145:1-21",
+    "Psalms 147:1-9",
+    "Psalms 148:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "3-5",
+      "title": "Do Not Trust Princes"
+    },
+    {
+      "range": "6-10",
+      "title": "God's Care and Reign"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Trust",
+    "Divine justice",
+    "Care for vulnerable"
+  ],
+  "practicalQuestions": [
+    "In what ways do I or my community place ultimate trust in human institutions rather than in enduring principles or God, and how should that affect our decisions?",
+    "How can we embody the psalm’s concern for the oppressed, hungry, imprisoned, blind, widowed, orphaned, and strangers in concrete local practices or policies?",
+    "How does belief in a sovereign, long‑term source of justice shape our short‑term political engagement and responses to injustice?",
+    "What spiritual disciplines or communal liturgies might foster the ongoing personal vow of praise expressed in verses 1–2?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are not specified in the text; whether \"princes\" targets specific rulers or a general warning about human authority is open to interpretation. The original liturgical context (temple, synagogue, or private devotion) is likely but not certain.",
+  "createdAt": "2025-11-03T22:31:20.524Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

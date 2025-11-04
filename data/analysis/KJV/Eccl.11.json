@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Eccl.11",
+  "briefOverview": "A set of pragmatic wisdom sayings urging generous, persistent action despite life's uncertainties, followed by an exhortation to enjoy youth while remembering eventual divine judgment.",
+  "summary": "The chapter counsels active risk-taking and broad generosity (\"cast thy bread upon the waters,\" \"give a portion to seven, and also to eight\") because future outcomes are uncertain. It warns against excessive caution (those who watch the wind will not sow) and acknowledges human ignorance about the workings of life and God (no one knows the way of the spirit). Practical instruction follows to work persistently both morning and evening because success is unpredictable. The author affirms the sweetness of light and the desirability of enjoyment, but balances this by recalling that long life includes many dark days and that all that comes is vanity. The chapter closes by urging young people to enjoy their youth and desires, yet to remember that God will bring them into judgment, and so to remove sorrow and wrongdoing from their lives.",
+  "externalContext": "Ecclesiastes is part of the Hebrew wisdom tradition and reflects an agrarian, trade-influenced society where sowing, harvest, and maritime commerce were familiar images for risk and return. The speaker (traditionally called Qohelet) writes in a reflective, at times skeptical voice common to Near Eastern wisdom literature, emphasizing observation and practical counsel over doctrinal system-building. The balancing of enjoyment with an awareness of mortality and divine oversight fits the later wisdom milieu (Persian, Hellenistic) often dated to the Persian or Hellenistic periods, though exact dating and authorship remain debated among scholars.",
+  "externalReferences": "The admonition to remember God in youth echoes Ecclesiastes 12:1, which similarly pairs youthful enjoyment with the duty to remember the Creator. The theme of generosity as a prudent or blessed practice resonates with Proverbs 11:24–25, which teaches that giving leads to increase. The stress on human ignorance about divine workings parallels passages in Job (e.g., Job 38:4–7) that emphasize the limits of human understanding before God.",
+  "seeAlso": [
+    "Ecclesiastes 12:1",
+    "Ecclesiastes 1:2",
+    "Ecclesiastes 2:11",
+    "Proverbs 11:24-25",
+    "Job 38:4-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Risk, Generosity, Action"
+    },
+    {
+      "range": "7-10",
+      "title": "Enjoyment and Judgment"
+    }
+  ],
+  "themes": [
+    "Generosity",
+    "Uncertainty",
+    "Enjoyment",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How should I balance prudent planning with willingness to take risks for the sake of others or future gain?",
+    "In what ways can I practice broad generosity rather than concentrating resources in one place?",
+    "How can I enjoy life’s pleasures without neglecting ethical integrity and awareness of accountability?",
+    "When outcomes are unpredictable, what daily disciplines (work, giving, prayer) does this text encourage me to adopt?"
+  ],
+  "uncertainAreas": "Several images are ambiguous: \"cast thy bread upon the waters\" may mean literal maritime trade, charitable giving, or a proverb for risk-taking; \"give a portion to seven, and also to eight\" implies diversification but its precise intent is debated. The verse about the \"way of the spirit\" is cryptic—its referent (breath, human spirit, divine action) is not explicit. The nature and timing of the \"judgment\" mentioned in vv.9–10 are also not fully specified in the text.",
+  "createdAt": "2025-11-03T22:54:43.865Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

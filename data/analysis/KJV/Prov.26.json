@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.26",
+  "briefOverview": "Proverbs 26 offers a series of short maxims on folly, laziness, quarrels, and deceit, contrasting appropriate social behavior with the harms caused by fools and sluggards.",
+  "summary": "The chapter collects vivid similes and warnings about fools: honour is inappropriate for them, they return to folly like a dog to vomit, and their speech and parables are dangerous or useless (1–12). It then critiques sloth, portraying the lazy as making excuses, turning in bed like a door on its hinges, and overestimating their own wisdom (13–16). The remainder treats meddling, incendiary speech, and talebearing: a quarrelsome person spreads strife like coals, a talebearer's words wound deeply, and deceptive flattering speech hides hatred that will be exposed (17–28). Throughout the sayings the emphasis is on social consequences—damage to relationships and community order—produced by foolish, lazy, and deceitful behavior.",
+  "externalContext": "Proverbs belongs to the wisdom literature of ancient Israel, traditionally associated with Solomon but likely compiled over centuries. The book uses short, memorable comparisons and images drawn from everyday life (agriculture, animals, household objects) to teach practical ethics and social prudence in an honor-shame, household-centered society. These proverbs were intended as memorized instruction for personal conduct and communal harmony rather than as systematic theology.",
+  "externalReferences": "Verse 11's image of a dog returning to its vomit is explicitly quoted in the New Testament at 2 Peter 2:22 to describe a return to former sins. The cautions about avoiding or not answering a fool echo other wisdom sayings such as Proverbs 23:9 ('Speak not in the hearing of a fool') and Proverbs 14:7 ('Leave the presence of a fool'), which share the practical concern of knowing when speech is wasted or harmful. The themes of talebearing and slander have parallels elsewhere in Proverbs and biblical wisdom literature that link speech to social disruption (e.g., many sayings in Proverbs 10–12 and 16).",
+  "seeAlso": [
+    "2 Peter 2:22",
+    "Proverbs 23:9",
+    "Proverbs 14:7",
+    "Proverbs 1:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Folly and Foolish Speech"
+    },
+    {
+      "range": "13-16",
+      "title": "Reproof of Sloth"
+    },
+    {
+      "range": "17-28",
+      "title": "Quarrels and Deceit"
+    }
+  ],
+  "themes": [
+    "Foolishness",
+    "Sloth",
+    "Quarrels/Talebearing",
+    "Deceit/Hypocrisy"
+  ],
+  "practicalQuestions": [
+    "When is it wiser to ignore foolish provocation rather than engage, and how do I discern that boundary in relationships?",
+    "What practical steps can I take to prevent gossip and talebearing from damaging my community or workplace?",
+    "How do I test my own speech for hidden hostility when it appears polite or flattering?",
+    "How can households and institutions cultivate structures that discourage laziness and encourage responsible labor without shaming people who struggle?"
+  ],
+  "uncertainAreas": "Several pithy sayings are context-sensitive and appear paradoxical (e.g., verses 4–5 give seemingly opposite counsel about answering a fool), so application depends on situational judgment. Verse 2's phrase about a 'curse causeless' and verse 10's statement that God 'rewardeth the fool' are somewhat ambiguous about divine justice or social consequences and admit multiple reasonable interpretations.",
+  "createdAt": "2025-11-03T22:46:14.673Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

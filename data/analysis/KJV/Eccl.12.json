@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Eccl.12",
+  "briefOverview": "The chapter urges remembering God in youth, pictures the frailty of old age and death, and concludes the book with practical wisdom: fear God and keep his commandments.",
+  "summary": "The speaker begins with an exhortation to remember the Creator while young, before the arrival of 'evil days' and a vivid catalogue of aging and physical decline (vv.1–7). These images — darkened senses, failing strength, broken vessels, and the return of dust to earth — culminate in the affirmation that the spirit returns to God (v.7) and a final declaration of life's futility: 'Vanity of vanities' (v.8). The author then summarizes his role as a wise teacher who gathered and arranged proverbs and truthful sayings (vv.9–11), issues a caution about endless books and the weariness of study (v.12), and closes with the book's final verdict: the whole duty of humanity is to fear God and keep his commandments because God will judge every deed, including secret things (vv.13–14).",
+  "externalContext": "Ecclesiastes is part of the Hebrew wisdom literature and is traditionally attributed to a figure called Qoheleth (often linked in tradition to Solomon), though its final composition likely reflects broad ancient Near Eastern wisdom concerns about meaning, mortality, and the limits of human control. The chapter’s funeral and household imagery (grinders, cistern, silver cord) draws on everyday domestic life and poetic metaphors common in the Hebrew Bible to portray aging and death. The practical, didactic ending fits the wisdom tradition’s move from reflection to ethical exhortation.",
+  "externalReferences": "The picture of dust and breath echoes Genesis 2:7, where humanity is formed from the dust and given the breath of life, and Job 34:14–15, which states that when God takes back the spirit, humans return to dust. The final maxim, 'Fear God, and keep his commandments,' resonates with Proverbs 1:7 ('The fear of the LORD is the beginning of knowledge') and with broader Deuteronomic and wisdom exhortations that link reverent relationship to God with practical obedience and judgment.",
+  "seeAlso": [
+    "Ecclesiastes 1:2",
+    "Genesis 2:7",
+    "Job 34:14-15",
+    "Proverbs 1:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Imagery of Aging and Death"
+    },
+    {
+      "range": "8-12",
+      "title": "Wisdom and Its Limits"
+    },
+    {
+      "range": "13-14",
+      "title": "Final Exhortation"
+    }
+  ],
+  "themes": [
+    "Mortality",
+    "Wisdom",
+    "Vanity",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "How should remembering a Creator in youth shape priorities, career, and relationships today?",
+    "What practices help a person face aging and mortality without despair?",
+    "How do we balance study, accumulation of knowledge, and practical living so that learning serves life rather than exhausting it?",
+    "What does 'fear God and keep his commandments' mean in contemporary ethical decisions and public life?"
+  ],
+  "uncertainAreas": "Metaphors in verses 2–6 (silver cord, golden bowl, almond tree, grasshopper as burden) are vivid but ambiguous; their precise referents and cultural nuances are debated. Authorship and exact historical dating of Ecclesiastes are also uncertain, making some background claims tentative.",
+  "createdAt": "2025-11-03T22:55:11.537Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

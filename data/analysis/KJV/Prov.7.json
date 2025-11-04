@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Prov.7",
+  "briefOverview": "A father’s urgent warning against sexual temptation using a vivid example of a young man seduced by a promiscuous woman; the chapter contrasts wisdom’s protection with the deadly consequences of folly.",
+  "summary": "A parental voice exhorts the son to keep and internalize wisdom’s commands so they will protect him from a ‘strange woman’ (v.1–5). The speaker then narrates a scene in which a naive young man, out at dusk, approaches the corner of a woman known for seductive behavior and goes to her house (v.6–13). The woman uses seductive language, claims religious observance and offerings, and describes a richly appointed bed to entice him (v.14–18). Flattered by her words, the young man follows her despite the danger; the narrator compares his path to an ox going to slaughter and a bird to a snare (v.21–23). The chapter closes with a direct admonition to avoid her ways, warning that many have been ruined by her and that her house leads down to Sheol/the chambers of death (v.24–27).",
+  "externalContext": "Proverbs is part of the biblical Wisdom literature, often framed as father-to-son instruction common in the ancient Near East. The figure of the seductive or foreign woman functions as a stock literary device representing sexual immorality, covenant unfaithfulness, and impulsive folly rather than only a single historical person. Details such as Egyptian linen, myrrh, and cinnamon reflect long-distance trade and signal luxury goods used to portray the woman’s allure. Claims about peace offerings and vows suggest the tactic of using apparent religious observance to mask immoral behavior.",
+  "externalReferences": "The warning and father–son instruction echo other Proverbs passages that warn against the adulterous or seductive woman, especially Proverbs 1:8–19, Proverbs 5:1–23, and Proverbs 6:20–35. Proverbs 9:13–18 sets the seductress (Dame Folly) against Lady Wisdom, a deliberate literary contrast within the collection. The phrase “apple of thine eye” appears elsewhere (e.g., Deuteronomy 32:10; Psalm 17:8) as an image of cherished protection, linking the opening admonition to broader biblical idiom.",
+  "seeAlso": [
+    "Proverbs 1:8-19",
+    "Proverbs 5:1-23",
+    "Proverbs 6:20-35",
+    "Proverbs 9:13-18",
+    "Deuteronomy 32:10",
+    "Psalm 17:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Hold Fast to Wisdom"
+    },
+    {
+      "range": "6-23",
+      "title": "The Seduction Scene"
+    },
+    {
+      "range": "24-27",
+      "title": "Exhortation and Doom"
+    }
+  ],
+  "themes": [
+    "Wisdom vs. Folly",
+    "Sexual Temptation",
+    "Parental Instruction",
+    "Consequences"
+  ],
+  "practicalQuestions": [
+    "How can I make moral teaching ‘stick’ so it becomes an automatic guard in risky situations?",
+    "What contemporary forms of flattering persuasion function like the seductress’s speech, and how can I recognize them?",
+    "Which practical boundaries or habits reduce the chance of following harmful impulses (time, place, company)?",
+    "How should communities address people who use religious language to justify immoral behavior?"
+  ],
+  "uncertainAreas": "The identity of the ‘strange woman’ is ambiguous—she may be a literal prostitute, an adulteress, or a personification of folly; the text intentionally uses ambiguous, stock images. Some idioms (e.g., ‘a dart strike through his liver’) and the translation of ‘hell’/‘chambers of death’ (Sheol) carry symbolic force whose precise connotations can vary by translation and historical context.",
+  "createdAt": "2025-11-03T22:36:30.299Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

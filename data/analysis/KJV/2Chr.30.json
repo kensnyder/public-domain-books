@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.30",
+  "briefOverview": "Hezekiah invites all Israel and Judah to celebrate a postponed Passover, promotes repentance and temple reform, and the people respond with a large, joyful festival and divine favor.",
+  "summary": "King Hezekiah issues a nationwide proclamation calling Israel and Judah to keep the Passover in the second month because the regular time was missed while priests and people were not properly sanctified. Many mocked the summons, but a significant number from Judah and some from northern tribes responded; God united the people’s hearts. The assembly removed unauthorized altars, sanctified the priests and Levites, and slaughtered the Passover on the fourteenth day of the second month, with Levites performing slaughtering duties for those ceremonially unclean. Hezekiah prayed for those not fully purified, and the LORD \"hearkened\" and healed the people. The festival lasted seven days and was voluntarily extended another seven, accompanied by abundant sacrifices, rejoicing greater than since Solomon, and priestly blessing and prayer.",
+  "externalContext": "Hezekiah reigned in Judah in the late 8th century BCE and is known in the Hebrew Bible for religious reforms reacting against syncretism and earlier neglect of the Jerusalem cult. The northern kingdom (Israel) had been weakened and partly displaced by Assyrian conquests (c. 722 BCE), which forms the background for appeals to \"the remnant\" and returning captives. The Passover is a major pilgrimage festival established in Exodus and Leviticus; the normal observance falls in the first month (Nisan), but provisions for delayed observance appear elsewhere in the Torah.",
+  "externalReferences": "The use of a later date for Passover when people are unclean or absent echoes Numbers 9:6–14, which allows those ceremonially unclean or away at the appointed time to keep it in the second month. The Passover institution and its timing are set out in Exodus 12:1–14 and Leviticus 23:5–8. Hezekiah’s broader temple reforms and cleansing are described earlier in 2 Chronicles 29, and his opposition to high places is noted in 2 Kings 18:4.",
+  "seeAlso": [
+    "Numbers 9:6-14",
+    "Exodus 12:1-14",
+    "Leviticus 23:5-8",
+    "2 Kings 18:4",
+    "2 Chronicles 29:3-36"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Proclamation and Appeal"
+    },
+    {
+      "range": "12-21",
+      "title": "Celebration of Passover"
+    },
+    {
+      "range": "22-27",
+      "title": "Extension and Blessing"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Religious Reform",
+    "Communal Worship",
+    "Divine Favor"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities restore neglected religious or communal practices while balancing law and mercy?",
+    "What role should leaders play in inviting and enabling repentance and worship across social or political divisions?",
+    "How can communities welcome those who are not fully prepared or 'clean' without compromising standards?",
+    "What practical steps build unity of heart for communal spiritual renewal today?"
+  ],
+  "uncertainAreas": "Uncertainty about the extent of northern Israelite participation (how many and from which tribes), whether \"healed the people\" primarily indicates physical healing or covenantal/ritual restoration, and how strictly the Chronicler intends the Numbers precedent to be read in this specific celebration.",
+  "createdAt": "2025-11-03T19:31:56.085Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

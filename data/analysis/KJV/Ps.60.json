@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.60",
+  "briefOverview": "A communal royal lament that moves from complaint about divine displeasure to petition for rescue and a final note of confident trust in God for victory.",
+  "summary": "The psalm opens with an urgent lament that God has rejected and scattered the people and caused the land to tremble, followed by a plea for restoration and healing. The speaker describes the people’s suffering and asks God to turn back in mercy, to deliver the beloved and to save with a strong hand. Verses 6–8 record a divine-sounding declaration claiming tribal territories (Shechem, Gilead, Manasseh, Ephraim, Judah) and dismissing neighboring nations (Moab, Edom, Philistia). The final verses return to direct petition: who will bring us into the strong city, and will God, who seems to have withdrawn, accompany the armies? The psalm closes in trust, asserting that help from humans is vain but through God they will act valiantly and God will tread down enemies.",
+  "externalContext": "This Psalm reflects the language and concerns of ancient Israel in an era of inter-kingdom warfare: Shechem, Gilead, Manasseh, Ephraim, Judah, Moab, Edom, and Philistia are territorial or tribal names that locate the poem in the landscape of the Levant. The psalm has a royal and military tone consistent with Israelite royal laments or victory prayers attributed to Davidic contexts, often associated with episodes of defeat and subsequent appeal to Yahweh for deliverance.",
+  "externalReferences": "Verses 6–8 closely parallel material found in Psalm 108:7–13, where similar declarations about tribal possession and calls for divine help reappear. The heading tradition (not in the text presented here) associates the setting with David’s conflicts against Aram and Edom; passages such as 2 Samuel 8 (which reports David’s campaigns and subjugation of neighboring peoples, including Edom) provide a historical milieu that fits the psalm’s military imagery.",
+  "seeAlso": [
+    "Psalm 108:7-13",
+    "2 Samuel 8:1-14",
+    "Psalm 44:9-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Lament and Petition"
+    },
+    {
+      "range": "6-8",
+      "title": "Divine Claim and Proclamation"
+    },
+    {
+      "range": "9-12",
+      "title": "Plea and Confidence"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Divine sovereignty",
+    "Warfare",
+    "Trust"
+  ],
+  "practicalQuestions": [
+    "How should a community respond spiritually and practically when it feels abandoned or defeated?",
+    "What does it mean today to entrust plans and military or political outcomes to God rather than human strength?",
+    "How can leaders balance confident rhetoric about territorial or institutional claims with humility before perceived divine displeasure?",
+    "In what ways can liturgical lament functions (expressing anger, pleading, and concluding with trust) be applied in personal or congregational prayer?"
+  ],
+  "uncertainAreas": "The precise historical occasion (which specific battle or time) and whether vv.6–8 are presented as God’s direct speech, the king’s boast, or poetical shorthand are not fully determinable from the text alone. The traditional Davidic and Aramean/Edomite setting is probable but not certain without the original heading.",
+  "createdAt": "2025-11-03T21:51:22.515Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

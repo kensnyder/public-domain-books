@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Isa.42",
+  "briefOverview": "A proclamation about God's chosen 'servant' who brings justice and healing, paired with calls for worldwide praise and warnings about Israel's spiritual blindness and punishment.",
+  "summary": "Verses 1–9 present the servant—beloved, empowered by God's spirit—to bring just rule to the nations with gentle, persistent effectiveness. Verses 5–13 expand the horizon: the Creator speaks, commissions the servant as a covenant and light for the Gentiles, and calls the whole earth to sing while God will act decisively against enemies. Verses 14–17 describe a sudden shift to divine judgment and powerful intervention, promising guidance and vindication for the oppressed while shaming those who trust idols. Verses 18–25 turn to Israel: God exhorts the deaf and blind to hear and see, then laments the people's spiritual insensitivity and recounts that their calamity came because of disobedience, for which God's anger has been poured out.",
+  "externalContext": "Isaiah is traditionally associated with the 8th-century BCE prophet in the Kingdom of Judah facing threats like Assyrian expansion; however, some scholars see later editorial layers. The imagery of a divinely appointed 'servant' and a mission to the 'isles' (coastal and distant peoples) reflects the theological hope that Israel's God will act beyond national borders. The contrast between the servant's quiet, restorative ministry and God's warlike action reflects common Near Eastern prophetic motifs of both deliverance and judgment. The chapter belongs to the collection of 'Servant Songs' that shaped later Jewish and Christian readings of messianic vocation.",
+  "externalReferences": "Isaiah 42:1–4 is widely identified as the first of the 'Servant Songs'; related passages include Isaiah 49:1–7 and Isaiah 50:4–9 which continue the servant theme. The New Testament directly cites Isaiah 42:1–4 in Matthew 12:18–21 to describe Jesus' ministry. Isaiah 35:5 ('the eyes of the blind shall be opened') and Isaiah 53 (suffering servant passages, e.g., 53:3–5) are often read alongside this chapter to form a broader servant motif.",
+  "seeAlso": [
+    "Matthew 12:18-21",
+    "Isaiah 49:1-7",
+    "Isaiah 50:4-9",
+    "Isaiah 35:5",
+    "Isaiah 53:3-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "The Servant's Commission"
+    },
+    {
+      "range": "10-13",
+      "title": "Universal Call to Praise"
+    },
+    {
+      "range": "14-25",
+      "title": "Judgment, Guidance, and Lament"
+    }
+  ],
+  "themes": [
+    "Servant",
+    "Justice",
+    "Restoration",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How does the image of a gentle yet persistent servant shape our understanding of effective leadership today?",
+    "In what ways should communities be 'a light to the nations' in contemporary, plural societies?",
+    "How can we recognize and respond to spiritual blindness or deafness within ourselves or our communities?",
+    "What balance should we make between compassion (bruised reed) and accountability (divine judgment) in public life?"
+  ],
+  "uncertainAreas": "The precise identity of 'my servant' is debated (collective Israel, an individual prophet/suffering figure, or a future messiah). The scope of 'isles' and how literally to take the mission to Gentiles is uncertain. The abrupt tonal shift to violent imagery (vv.14–15) raises interpretive questions about how divine gentleness and wrath are held together.",
+  "createdAt": "2025-11-03T23:22:05.074Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

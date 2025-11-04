@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.86",
+  "briefOverview": "A personal prayer of plea and praise that asks for mercy, protection, and instruction while affirming God's uniqueness and goodness.",
+  "summary": "The speaker opens with an urgent petition for God to hear, protect, and preserve him because of his lowly state and trust in God (verses 1–7). He affirms God's unmatched nature and mighty works and envisions all nations coming to worship God (8–10). The psalmist asks for divine instruction and inner unity to walk in God's truth, commits to wholehearted praise, and credits God with past deliverance (11–13). Finally he reports opposition from proud, violent enemies and repeats appeals for God's mercy, strength, and a visible sign of help so that his foes will be ashamed (14–17).",
+  "externalContext": "Psalm 86 is traditionally ascribed to David and fits within the Hebrew psalter's genre of individual lament/penitential prayer combined with praise. Such prayers were used in personal devotion and public worship in ancient Israel, invoking God's saving acts and covenantal character. The KJV phrase \"lowest hell\" translates a Hebrew concept often rendered Sheol or \"the depths,\" referring to death or the underworld rather than the later theological notion of hell.",
+  "externalReferences": "The affirmation \"Among the gods there is none like unto thee\" echoes language from Exodus 15:11, where the Exodus hymn asks who is like Yahweh among the gods. The petition \"Teach me thy way... I will walk in thy truth\" parallels similar requests for divine guidance in Psalm 25:4–5. The description of God as \"full of compassion, and gracious, longsuffering, and plenteous in mercy\" resonates with Psalm 103:8, which uses closely related language about God's merciful character.",
+  "seeAlso": [
+    "Exodus 15:11",
+    "Psalm 25:4-5",
+    "Psalm 103:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Urgent Petition"
+    },
+    {
+      "range": "8-13",
+      "title": "God's Uniqueness and Praise"
+    },
+    {
+      "range": "14-17",
+      "title": "Enemies and Plea for Deliverance"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Mercy",
+    "Deliverance",
+    "Worship"
+  ],
+  "practicalQuestions": [
+    "How can I express honest need and weakness before God as this psalm does?",
+    "In what ways should conviction of God's mercy shape my responses to failure or sin?",
+    "Where do I seek instruction and inner unity to live consistently in truth?",
+    "How might public worship and proclamation of God's uniqueness shape interfaith or cross-cultural engagement?"
+  ],
+  "uncertainAreas": "Authorship is traditionally Davidic but not explicitly stated in the provided text. The phrase \"among the gods\" could refer to pagan deities, idols, or heavenly beings (or even human judges); the text does not fix one meaning. The KJV \"lowest hell\" reflects Hebrew notions of Sheol/\"the depths,\" whose precise theological implications vary across periods and translations.",
+  "createdAt": "2025-11-03T22:04:18.025Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

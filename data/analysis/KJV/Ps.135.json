@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.135",
+  "briefOverview": "A liturgical call to praise God that celebrates his sovereign acts for Israel and denounces lifeless idols.",
+  "summary": "The psalm opens with a call for the LORD’s servants and worshipers in the temple courts to praise God for his goodness (1–3). It recalls God’s choosing of Jacob and Israel and emphasizes his supremacy over other gods by naming cosmic powers he controls, such as weather and natural forces (4–7). The poem recounts decisive historical acts — the smiting of Egypt’s firstborn, plagues and wonders, and victories over Sihon, Og, and the Canaanite kingdoms — culminating in the gift of their lands to Israel (8–13). The psalmist affirms the enduring name of the LORD and God’s care for his people (13–14), contrasts living God and dead idols by describing idols’ impotence and the likeness of their makers (15–18), and closes with communal blessings invoked on Israel, Aaron, Levi, and those who fear the LORD, as well as a final acclamation from Zion/Jerusalem (19–21).",
+  "externalContext": "This psalm functions in a temple-worship context: references to 'servants of the LORD,' the house of the LORD, and the houses of Aaron and Levi point to liturgical use involving priests and Levites. The historical items named (Egyptian plagues; Sihon and Og) echo the Exodus and conquest traditions that shaped Israel’s national identity, regularly cited in cultic memory. Psalm 135 has strong parallels with Psalm 136 and likely belongs to the Hebrew praise-hymn tradition used in public worship; exact date and authorship are not specified in the text.",
+  "externalReferences": "The reference to smiting the firstborn echoes the Exodus account of the tenth plague (see Exodus 12:29–30). The conquest items naming Sihon and Og correspond to Israel’s battles recorded in Numbers 21:21–35 and Deuteronomy 3:1–11. The polemic against idols parallels other biblical critiques of carved images (see Psalm 115:4–8) and the psalm’s communal refrain and historical recall are closely paralleled by Psalm 136, which repeats thanksgiving for the same acts.",
+  "seeAlso": [
+    "Psalm 136",
+    "Psalm 115:4-8",
+    "Exodus 12:29-30",
+    "Numbers 21:21-35",
+    "Deuteronomy 3:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "4-13",
+      "title": "God's Deeds Recounted"
+    },
+    {
+      "range": "14-21",
+      "title": "Idols Condemned and Blessing"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Divine sovereignty",
+    "Historical remembrance",
+    "Anti-idolatry"
+  ],
+  "practicalQuestions": [
+    "How can communal worship today keep alive the memory of formative events that shape a community’s identity?",
+    "In what ways does affirming God's control over nature affect how we respond to crises or uncertainty?",
+    "How should communities interpret the biblical critique of idols in light of modern forms of 'idolatry' (e.g., money, power, technology)?",
+    "What responsibilities do leaders and worship leaders (the 'Aaron' and 'Levi' figures) have in leading public praise and teaching history?"
+  ],
+  "uncertainAreas": "Dating and precise liturgical setting are uncertain; the psalm’s original performance context (festival, daily temple worship, or other) is not specified. The phrase translated 'he will repent himself concerning his servants' (v.14) is ambiguous in English — Hebrew likely conveys compassion or relenting rather than repentance in the modern sense. The relationship and dependence between this psalm and Psalm 136 (shared content but different refrain) leave room for interpretive questions about redaction and liturgical pairing.",
+  "createdAt": "2025-11-03T22:26:21.629Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.96",
+  "briefOverview": "A liturgical call to universal praise, proclaiming Yahweh's kingship, creative power, and coming righteous judgment.",
+  "summary": "The psalm opens with an urgent summons to \"sing a new song\" to the LORD and to declare his salvation and glory among all nations. It gives reasons for praise: the LORD's greatness, his sole sovereignty over idols, and his role as creator of the heavens. Worshipers are invited to bring offerings and to worship in the \"beauty of holiness.\" The psalm proclaims that the LORD reigns, that the world is established, and that he will judge the peoples with righteousness and truth. The closing verses picture cosmic rejoicing—heavens, earth, sea, fields, and trees celebrating the LORD's coming judgment.",
+  "externalContext": "Psalms like this functioned as communal hymns in ancient Israelite worship and likely featured in temple or festival liturgies. Phrases such as \"sing a new song\" appear elsewhere in the Hebrew Bible as calls for fresh praise often associated with deliverance or a new act of God. The psalm's universal language (\"all the earth,\" \"among the heathen\") fits a strand of Israelite theology that emphasizes Yahweh's sovereignty over nations as well as Israel.",
+  "externalReferences": "The theme of a \"new song\" and universal praise appears in Psalm 98:1–9 and Psalm 33:3; Isaiah 42:10 also echoes the language \"Sing unto the LORD a new song.\" Lines about declaring God's glory among the nations and cosmic rejoicing are paralleled in 1 Chronicles 16:23–31, which preserves a related liturgical thanksgiving tradition.",
+  "seeAlso": [
+    "Psalm 98:1-9",
+    "Psalm 33:3",
+    "Isaiah 42:10",
+    "1 Chronicles 16:23-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call to Proclaim"
+    },
+    {
+      "range": "4-9",
+      "title": "Reasons to Praise"
+    },
+    {
+      "range": "10-13",
+      "title": "Reign and Judgment"
+    }
+  ],
+  "themes": [
+    "Worship",
+    "Kingship",
+    "Creation",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How can contemporary worship preserve the sense of \"new\" praise the psalm urges?",
+    "In what ways does acknowledging God as Creator shape attitudes toward cultural and religious 'idols' today?",
+    "How should the theme of divine judgment inform ethical behavior and public witness?",
+    "What practices help a community \"declare his glory among the nations\" in a pluralistic world?"
+  ],
+  "uncertainAreas": "The original liturgical setting and precise occasion (enthronement, festival, or other) for this psalm are not specified in the text and remain uncertain.",
+  "createdAt": "2025-11-03T22:08:24.929Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

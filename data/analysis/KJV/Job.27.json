@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Job.27",
+  "briefOverview": "Job asserts his personal integrity and challenges simplistic retribution theology, then depicts the ultimate downfall of the wicked under God’s judgment.",
+  "summary": "Job insists, by the life of God, that he will not abandon his integrity while he lives (vv. 1–6). He challenges his friends’ assumptions, asking rhetorically what hope the hypocrite has when God takes his life and whether the wicked can rely on the Almighty (vv. 7–13). Job then paints a vivid catalogue of the fate of the wicked—loss of offspring and possessions, sudden death, desolation of the house, and public disgrace—arguing that God will not spare them and that people will mock their removal (vv. 14–23).",
+  "externalContext": "Job is part of ancient Near Eastern wisdom literature that debates the relationship between righteousness and suffering; within the book, a cycle of speeches between Job and his three friends frames these arguments. The theological context presumes a belief among many ancient moralists that prosperity typically signals divine favor and suffering signals divine punishment, a view Job repeatedly contests.",
+  "externalReferences": "This chapter interacts with earlier speeches in the book where Job’s friends insist on retributive justice (see chapters 4–25) and with Job’s other defenses of his integrity (compare Job 31). The imagery of the wicked suddenly disappearing and the righteous inheriting what they hoarded echoes themes in Psalm 37:10–20 and similar wisdom material in Proverbs (cf. Proverbs 11:21).",
+  "seeAlso": [
+    "Job 31",
+    "Job 13:15",
+    "Job 4-25",
+    "Psalm 37:10-20",
+    "Proverbs 11:21",
+    "Psalm 73:18-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Affirmation of Integrity"
+    },
+    {
+      "range": "7-13",
+      "title": "Challenge to the Friends"
+    },
+    {
+      "range": "14-23",
+      "title": "Fate of the Wicked"
+    }
+  ],
+  "themes": [
+    "Integrity",
+    "Retribution",
+    "Divine justice",
+    "Fate of the wicked"
+  ],
+  "practicalQuestions": [
+    "How should we maintain personal integrity when others insist our suffering proves guilt?",
+    "In what ways do we too quickly equate prosperity with blessing and suffering with punishment?",
+    "How can communities speak truth without shaming those who suffer?",
+    "What practices help us trust God’s justice without claiming easy answers about others’ lives?"
+  ],
+  "uncertainAreas": "Whether Job intends these descriptions strictly as doctrinal claims about how God always acts or as a rhetorical refutation of his friends’ positions is ambiguous; the tone mixes personal protest with generalized wisdom, making the precise target (his friends vs. a broader audience) sometimes unclear.",
+  "createdAt": "2025-11-03T21:20:29.825Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

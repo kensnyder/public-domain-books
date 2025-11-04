@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.18",
+  "briefOverview": "A royal thanksgiving psalm celebrating God's dramatic rescue and vindication of the psalmist, using vivid theophanic and warrior imagery.",
+  "summary": "The speaker begins with a personal vow of love and trust in the LORD, describing God as rock, fortress, and deliverer and recounting a time of mortal danger when he cried out for help (1–6).\n\nGod responds with a dramatic theophany—earthquakes, smoke, fire, darkness, and divine arrows—and rescues the speaker from overwhelming peril by drawing him out of the waters and defeating his enemies (7–19).\n\nThe psalmist attributes his victory to both divine intervention and his own faithfulness, asserting that the LORD rewards righteousness; he describes being empowered for battle, pursuing and overthrowing foes, and being exalted among nations (20–45).\n\nThe psalm closes with praise and a doctrinal affirmation that God gives great deliverance to his anointed, here named David, and shows mercy to his line forever (46–50).",
+  "externalContext": "This psalm is traditionally attributed to David and closely parallels 2 Samuel 22, suggesting it commemorates a royal victory or deliverance in the life of Israel’s king. Psalms of this type often combine personal testimony with established liturgical language for use in public worship or royal ideology. Theophanic imagery (clouds, fire, earthquakes) draws on a broader ancient Near Eastern and Israelite tradition of depicting divine intervention in cosmic terms.",
+  "externalReferences": "Psalm 18 is nearly identical to 2 Samuel 22:1–51, indicating either a shared source or that the song was placed into both the royal history and the Psalter. The dramatic theophany (mountains shaking, thick clouds, fire) echoes passages like Habakkuk 3:3–15 and elements of the Exodus tradition (cf. Exodus 14; Exodus 15:3) where God appears as warrior. The language of God as a rock and the theme that God rewards righteousness find parallels in Psalms such as 62:2 and 144:1.",
+  "seeAlso": [
+    "2 Samuel 22:1-51",
+    "Habakkuk 3:3-15",
+    "Psalm 62:2",
+    "Psalm 144:1",
+    "Exodus 15:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Cry in Distress"
+    },
+    {
+      "range": "7-19",
+      "title": "Divine Theophany"
+    },
+    {
+      "range": "20-50",
+      "title": "Rescue and Praise"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Theophany",
+    "Trust",
+    "Justice"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways have you experienced or can you testify to deliverance that shapes public praise?",
+    "How should the image of God as warrior and judge shape our prayers and ethics today?",
+    "What does the psalm’s link between personal righteousness and divine reward mean for how we evaluate success and suffering?",
+    "How can communities balance thanksgiving for deliverance with concern for enemies who are depicted violently in the text?"
+  ],
+  "uncertainAreas": "Uncertain whether the original occasion is Saul, another political opponent, or a later royal formula; the psalm’s attribution to David is traditional but not historically verifiable from the text alone. The theological balance between divine election/vindication and the psalmist’s claim of personal righteousness is rhetorically clear but invites interpretive caution.",
+  "createdAt": "2025-11-03T21:34:26.907Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

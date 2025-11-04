@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Prov.18",
+  "briefOverview": "A collection of short wisdom sayings contrasting folly and prudence, with recurring emphasis on the power of speech, the dangers of pride and sloth, and the value of right relationships.",
+  "summary": "The chapter groups proverbs about human behavior: folly is shown in self-display, quick answers, sloth, and contentious speech, while wisdom appears in listening, seeking knowledge, and prudent conduct. Several verses stress the power of words — they can wound, bring life or death, and determine one’s reputation and reward. Social and legal matters are treated: impartial justice is urged, the lot can settle disputes, and first appearances in a case can mislead. The text contrasts trust in God’s name as protection with trust in wealth as false security. Relationship themes close the chapter: marriage is praised, the poor and rich respond differently in requests, and true friendship requires faithful, proactive loyalty.",
+  "externalContext": "Proverbs belongs to Hebrew wisdom literature, traditionally associated with Solomon but compiled over several centuries (first millennium BCE). Its one‑line sayings reflect an oral‑tradition pedagogy aimed at training young men in household and civic life within an honor‑shame, agrarian society. Practices such as deciding disputes by lot, public rhetorical contests, and the high social value placed on gift‑giving and patronage help explain several sayings here.",
+  "externalReferences": "The warning that pride precedes destruction echoes Proverbs 16:18, a recurring biblical motif about pride and fall. The image of God as a personal place of refuge parallels Psalm 18:2 (e.g., “The LORD is my rock, my fortress…”), which shares the protective-metaphor tradition found here. The strong teaching about the tongue’s power finds an extended echo in the New Testament (James 3:5–6, 3:8–10), where speech is likewise portrayed as able to corrupt or give life. The praise for finding a wife resonates with Proverbs 19:14, which links a prudent wife to divine blessing.",
+  "seeAlso": [
+    "Proverbs 16:18",
+    "Psalm 18:2",
+    "James 3:5-6",
+    "James 3:8-10",
+    "Proverbs 19:14",
+    "Proverbs 15:1",
+    "Proverbs 15:4",
+    "Proverbs 10:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Folly and Speech"
+    },
+    {
+      "range": "9-16",
+      "title": "Provision and Prudence"
+    },
+    {
+      "range": "17-24",
+      "title": "Justice and Relationships"
+    }
+  ],
+  "themes": [
+    "Speech/Tongue",
+    "Wisdom vs Folly",
+    "Trust/Protection",
+    "Relationships"
+  ],
+  "practicalQuestions": [
+    "How can I make my speech more life-giving and avoid causing harm with words?",
+    "When is it wiser to listen than to answer immediately in a dispute?",
+    "In what ways do I rely on wealth or reputation instead of seeking protection or identity in God?",
+    "How can I practice humility to avoid the pride that leads to destruction?",
+    "What concrete actions will help me repair an offended relationship and cultivate friends who are loyal?"
+  ],
+  "uncertainAreas": "Verse 1 is terse and ambiguous — it could praise solitary pursuit of wisdom or critique a self-separated person who meddles; verse 11’s tone toward wealth (neutral observation versus critique) is open to interpretation. Some Hebrew terms (e.g., translated “talebearer,” “wounded spirit”) carry nuance that affects whether the proverb stresses physical, emotional, or social harm.",
+  "createdAt": "2025-11-03T22:42:28.814Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

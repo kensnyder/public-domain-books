@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Neh.4",
+  "briefOverview": "Nehemiah records opposition to the rebuilding of Jerusalem’s walls and the community’s combined strategy of prayer and armed vigilance to complete the work.",
+  "summary": "Leaders hostile to the Jews (Sanballat, Tobiah, and allied peoples) mock and threaten the builders, predicting the work will fail. Nehemiah responds with prayer for God’s intervention and organizes a continual watch day and night. He places armed guards among the families, instructs builders to work with weapons at hand, and signals by trumpet where help is needed. The people alternate labor and guard duty, lodging in the city to maintain security, and refuse to lay aside their clothes except briefly for washing, showing persistent alertness and commitment.",
+  "externalContext": "The narrative comes from the postexilic period when Jews were rebuilding Jerusalem after return from Babylonian exile under Persian rule (5th century BCE). Sanballat and Tobiah are known opponents in the region—representing Samaritans and neighboring peoples who resisted Jerusalem’s restoration—and local fortifications were crucial for security, civic identity, and religious life.",
+  "externalReferences": "A similar pattern of opposition from Sanballat and others appears earlier in Ezra 4:1–6, where surrounding peoples try to hinder the rebuilding. The later chapters of Nehemiah (especially Nehemiah 6:1–14) record further attempts by the same opponents to intimidate or deceive Nehemiah, showing a continuing campaign against the wall project.",
+  "seeAlso": [
+    "Ezra 4:1-6",
+    "Nehemiah 6:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Mockery and Prayer"
+    },
+    {
+      "range": "6-12",
+      "title": "Threat and Vigilance"
+    },
+    {
+      "range": "13-23",
+      "title": "Armed Labor and Watch"
+    }
+  ],
+  "themes": [
+    "Opposition",
+    "Prayer",
+    "Communal vigilance",
+    "Perseverance"
+  ],
+  "practicalQuestions": [
+    "How should a community balance trust in divine help with practical precautions for safety?",
+    "When facing ridicule or discouragement, what concrete steps can we take to keep working toward communal goals?",
+    "How can responsibilities be fairly shared so that essential tasks and security are both maintained?",
+    "What rhythms (e.g., alternating work and watch) from this passage could be adapted to modern teamwork and crisis response?"
+  ],
+  "uncertainAreas": "Precise identities and political roles of some groups (e.g., 'Arabians,' 'Ashdodites') and the interpersonal dynamics behind Sanballat and Tobiah’s coalition are not fully explained. The text’s balance between divine agency and human military preparedness invites interpretive nuance but does not settle how to weight each element theologically.",
+  "createdAt": "2025-11-03T19:41:43.293Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

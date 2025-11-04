@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.140",
+  "briefOverview": "A personal lament and plea for protection from violent, deceitful adversaries, ending with imprecatory wishes against the wicked and a confident affirmation that God vindicates the afflicted.",
+  "summary": "The psalmist appeals to the LORD for deliverance from violent men who plot harm, use deceitful speech, and set snares (vv. 1–6). He affirms God as his protector in times of conflict (v. 7) and asks that the wicked’s plans be frustrated so they do not prosper (v. 8). The prayer turns to imprecatory language asking that the enemies be covered by their own mischief, consumed by burning coals, and cast into deep pits (vv. 9–11). The psalm concludes in confidence that the LORD defends the afflicted and that the righteous will give thanks and dwell in God’s presence (vv. 12–13).",
+  "externalContext": "Psalm 140 belongs to the Hebrew Psalter’s collection of personal laments and is typically classified among the imprecatory psalms, prayers that call on God to judge or punish enemies. In the ancient Near Eastern setting, such laments were a recognized way to appeal to a deity for protection and vindication; public liturgy sometimes included the word \"Selah,\" whose precise meaning is disputed but likely indicates a liturgical or musical pause. Traditional Jewish and Christian attributions often ascribe many psalms to David, though the text itself here is anonymous.",
+  "externalReferences": "The petition for God to let the enemies fall into their own snares and be punished by coals echoes language in Psalm 7:15–16, which also speaks of nets and burning coals on the offender’s head. Psalm 35 and Psalm 109 are other notable imprecatory psalms that similarly plead for God’s intervention against deceitful or violent adversaries. The closing confidence that God maintains the cause of the afflicted is resonant with Psalm 9:9–10, which portrays the LORD as a refuge for the oppressed.",
+  "seeAlso": [
+    "Psalm 7:15-16",
+    "Psalm 35:1-8",
+    "Psalm 69:24-28",
+    "Psalm 109:6-20",
+    "Psalm 9:9-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Plea for Protection"
+    },
+    {
+      "range": "7-11",
+      "title": "Imprecatory Petition"
+    },
+    {
+      "range": "12-13",
+      "title": "Confidence and Praise"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Enemies",
+    "Imprecation",
+    "Divine justice"
+  ],
+  "practicalQuestions": [
+    "How should individuals today balance prayers for justice with teachings about forgiveness and mercy?",
+    "When facing slander or violence, what practical steps alongside prayer can protect vulnerable people?",
+    "How can communities support victims while avoiding vindictive responses modeled by imprecatory language?",
+    "In what ways can the assurance that God defends the afflicted shape a believer’s hope and action?"
+  ],
+  "uncertainAreas": "Authorship is not specified in the text (traditionally attributed to David but not explicit). The exact meaning and liturgical function of \"Selah\" is uncertain. The intent of the imprecatory language—whether literal wish for harm or poetic expression of desire for divine justice—is open to interpretation.",
+  "createdAt": "2025-11-03T22:28:27.011Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

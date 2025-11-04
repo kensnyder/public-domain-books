@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.42",
+  "briefOverview": "A personal lament expressing intense longing for God amid despair and taunting enemies, alternating between honest complaint and renewed trust.",
+  "summary": "The psalmist opens with a vivid image of thirst — \"as the hart panteth\" — to describe a soul yearning for God and asks when it may appear before Him. Tears, taunting questions from enemies, and memories of past communal worship deepen the speaker's sorrow. The psalmist alternates between addressing his own dispirited soul with exhortations to hope and direct complaints to God about apparent abandonment. A powerful image — \"deep calleth unto deep\" — portrays overwhelming distress, yet the psalmist affirms that God's lovingkindness and song remain with him. The poem closes with a repeated self-exhortation to hope in God and a vow to praise the Lord, who is the source of his well-being.",
+  "externalContext": "Psalms of lament like this one likely emerged in ancient Israel's cultic and communal life, where personal and corporate distress were voiced within a framework of covenantal faith. The psalm reflects practices of remembering worship at the temple and uses pastoral imagery (stag/hart) common in Near Eastern poetry. Scholars often link Psalm 42 with Psalm 43 as a single composition in the Hebrew text; the precise historical circumstances (exile, personal exile, or other persecution) are not specified in the poem itself.",
+  "externalReferences": "Psalm 43 is closely related and contains a near-repetition of the refrain (see Psalm 43:5), and many manuscripts and liturgical traditions treat Psalms 42–43 as a single unit. The thirst-for-God image resembles other psalms of longing such as Psalm 63:1, which also begins \"O God, thou art my God; early will I seek thee\" and uses similar language of desire. The theme of taunting by enemies and the cry of abandonment has resonances with lament passages like Psalm 22:1–2, though the wording and context differ.",
+  "seeAlso": [
+    "Psalm 43:1-5",
+    "Psalm 63:1",
+    "Psalm 22:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Panting for God"
+    },
+    {
+      "range": "3-6",
+      "title": "Sorrow and Memory"
+    },
+    {
+      "range": "7-11",
+      "title": "Crisis and Hope"
+    }
+  ],
+  "themes": [
+    "Longing for God",
+    "Lament",
+    "Hope",
+    "Worship memory"
+  ],
+  "practicalQuestions": [
+    "When you feel spiritually dry, what practices (memory, prayer, song) help you renew longing for God?",
+    "How can recalling past communal worship sustain faith during periods of loneliness or exile?",
+    "How should one balance honest complaint to God with acts of hope and praise?",
+    "What responses can communities offer to someone mocked about their faith (\"Where is thy God?\")?"
+  ],
+  "uncertainAreas": "The precise historical setting (exilic, personal exile, or local persecution) is not specified. The meaning of the central image \"deep calleth unto deep\" is ambiguous (psychological depth, overwhelming waves, or theological metaphor). Whether Psalm 42 originally formed a single composition with Psalm 43 is widely argued but not definitively settled.",
+  "createdAt": "2025-11-03T21:42:49.860Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

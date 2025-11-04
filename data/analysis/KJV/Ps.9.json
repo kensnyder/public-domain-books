@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.9",
+  "briefOverview": "A psalm of thanksgiving that combines praise for past deliverance with confident declarations of God’s eternal rule and righteous judgment.",
+  "summary": "The psalmist opens with wholehearted praise for God’s marvelous works and recounts how enemies were defeated at the Lord’s presence. He affirms that God upholds his cause, judges rightly, and will reign forever from his throne. The Lord is portrayed as a refuge for the oppressed and one who remembers the cry of the humble. The poet calls the community to proclaim God’s deeds in Zion, pleads for personal mercy and vindication, and celebrates the downfall of the wicked. The closing verses call God to act so that nations recognize their mortality and are kept in fear of the Lord.\n\n",
+  "externalContext": "Psalms are Israelite worship poems used in temple and communal worship; language of throne, Zion, gates, and nations reflects royal and cultic settings in the ancient Near East. The terms 'Selah' and 'Higgaion' are musical or liturgical notations whose exact function is uncertain. Many scholars note that Psalms 9 and 10 form a single acrostic in Hebrew, which affects how this poem is transmitted and understood in its original literary context.",
+  "externalReferences": "Psalm 9 is traditionally paired with Psalm 10 (see Psalm 10:1ff) and many translations/editions treat them as a unit because of an acrostic arrangement in Hebrew. The theme of God as righteous judge and defender of the oppressed echoes passages such as Psalm 7:11 ('God is a righteous judge') and Isaiah 33:22 ('For the LORD is our judge...'). The concern for the poor and assurance that God will not forget them is comparable to Psalm 146:6–9, which also emphasizes God’s care for the needy and execution of justice.",
+  "seeAlso": [
+    "Psalm 10:1-18",
+    "Psalm 7:11",
+    "Isaiah 33:22",
+    "Psalm 146:6-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Praise for Deliverance"
+    },
+    {
+      "range": "7-12",
+      "title": "God’s Eternal Judgment"
+    },
+    {
+      "range": "13-20",
+      "title": "Lament, Petition, Triumph"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Praise",
+    "Refuge for oppressed",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "How can I balance celebrating past deliverances with petitioning God in present difficulties?",
+    "In what ways should belief in divine justice shape how we respond to injustice today?",
+    "How can communities proclaim God’s works (’declare among the people’) in ways that serve the oppressed?",
+    "What practices help sustain trust that God 'remembers the cry of the humble' during long seasons of suffering?"
+  ],
+  "uncertainAreas": "Authorship and precise historical occasion are not specified in the text. The terms 'Higgaion' and 'Selah' are of uncertain musical/liturgical meaning. The psalm’s references to 'heathen' and 'nations' may be broad poetic categories rather than precise political identifiers. The acrostic pairing with Psalm 10 is a textual/literary observation that affects interpretation but is not explicit within the English text.",
+  "createdAt": "2025-11-03T21:30:42.861Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

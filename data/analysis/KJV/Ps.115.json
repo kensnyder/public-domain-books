@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.115",
+  "briefOverview": "A communal declaration that glory belongs to God, contrasting the living God with lifeless idols and calling Israel to trust and bless the LORD.",
+  "summary": "The psalm opens by refusing credit for success to human effort, instead giving glory to the LORD for his steadfast mercy and truth. It then contrasts the living God — sovereign in heaven — with man-made idols of silver and gold that cannot speak, see, hear, or move; and it criticizes those who trust in such images. The poem calls specific groups (Israel, the house of Aaron, those who fear the LORD) to trust God, who is their help and shield, promising divine blessing, increase, and care for small and great. The psalm concludes by distinguishing the dead, who cannot praise God, from the living community that will bless and praise the LORD forever.",
+  "externalContext": "Psalm 115 belongs to the Hebrew Psalter and is commonly grouped with Psalms 113–118 (the Egyptian Hallel), a collection used in Jewish festival worship (notably Passover). The references to the 'house of Aaron' and 'house of Israel' reflect a cultic/communal setting in which priests and people are addressed together. Ancient Near Eastern religion included widespread cultic images, which the psalm counters by emphasizing Israel’s God as transcendent and sovereign.",
+  "externalReferences": "The mockery of idols as mute and powerless parallels prophetic critiques such as Isaiah 44:9–20 and Jeremiah 10:3–5, where craftsmen and their images are shown to be futile. The motif of giving God the glory rather than attributing success to human effort resonates elsewhere in the Psalter and wisdom literature, and Psalm 115 is often read in the liturgical context alongside Psalms 113–118 (the Egyptian Hallel).",
+  "seeAlso": [
+    "Isaiah 44:9-20",
+    "Jeremiah 10:3-5",
+    "Psalms 113:1-3",
+    "Psalms 116:12-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Glory to God Alone"
+    },
+    {
+      "range": "4-8",
+      "title": "Idols Are Powerless"
+    },
+    {
+      "range": "9-16",
+      "title": "Call to Trust and Blessing"
+    }
+  ],
+  "themes": [
+    "Divine glory",
+    "Idolatry contrasted",
+    "Trust in God",
+    "Communal praise"
+  ],
+  "practicalQuestions": [
+    "In what ways do we attribute success to ourselves rather than acknowledging dependence on God?",
+    "How does the psalm’s critique of idols apply to modern 'idols' such as wealth, power, or reputation?",
+    "What practices in community worship help keep praise directed to God rather than human leaders?",
+    "How should believers respond to the psalm’s claim that the dead do not praise the LORD when thinking about memorials and funerary practices?"
+  ],
+  "uncertainAreas": "Precise liturgical setting (e.g., specific festival use) and original historical occasion are not explicit in the text. The line about the earth being given to 'the children of men' could be read in several ways (provision for humanity, conditional stewardship, or a polemic distinction between heaven and earth); the psalm does not settle which nuance is intended.",
+  "createdAt": "2025-11-03T22:17:56.594Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

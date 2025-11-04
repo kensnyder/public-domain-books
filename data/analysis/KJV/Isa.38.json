@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Isa.38",
+  "briefOverview": "Hezekiah faces death, prays, and receives fifteen more years of life with a miraculous sign; he then composes a thanksgiving-poem reflecting on mortality and deliverance.",
+  "summary": "Isaiah tells the ill king Hezekiah to set his affairs in order because he will die, prompting Hezekiah to pray and plead before the LORD. God answers through Isaiah: Hezekiah will live fifteen more years, Jerusalem will be delivered from the king of Assyria, and a sign will be given — the shadow on the sundial of Ahaz moves back ten degrees. Hezekiah responds with a brief poetic reflection (verses 9–20) that moves from despair over imminent death to thankfulness for restoration and a vow to praise God. The chapter closes with a note that Isaiah prescribed a fig poultice for Hezekiah's boil, and Hezekiah asking what sign will confirm his recovery.",
+  "externalContext": "Hezekiah was a historical king of Judah (late 8th/early 7th century BCE) who faced the Assyrian threat; the episode parallels material in 2 Kings and 2 Chronicles. The sundial (or 'degrees' on the stair/steps of Ahaz) refers to an ancient timekeeping device; ancient Near Eastern kings and prophets commonly sought or gave signs as confirmation of divine promises. Figs were used in antiquity as a common medicinal poultice.",
+  "externalReferences": "This chapter closely parallels the account in 2 Kings 20:1–11 and is related to 2 Chronicles 32:24–26, which also mention Hezekiah's illness and recovery. The thanksgiving-poem echoes motifs found in psalms of deliverance (for example, Psalm 30, a thanksgiving for rescue from death, and Psalm 102, which reflects on human frailty and God’s eternity).",
+  "seeAlso": [
+    "2 Kings 20:1-11",
+    "2 Chronicles 32:24-26",
+    "Psalm 30",
+    "Psalm 102"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Illness, Prayer, Promise"
+    },
+    {
+      "range": "9-20",
+      "title": "Hezekiah's Thanksgiving Poem"
+    },
+    {
+      "range": "21-22",
+      "title": "Medicinal Cure and Sign"
+    }
+  ],
+  "themes": [
+    "Illness and Healing",
+    "Prayer",
+    "Divine Mercy",
+    "Praise and Lament"
+  ],
+  "practicalQuestions": [
+    "How do I express honest fear and hope to God when faced with serious illness or death?",
+    "In what ways should communities respond to leaders who are vulnerable or dying?",
+    "How can experiences of rescue or recovery shape ongoing praise and responsibility?",
+    "What role should signs or confirmations play in discerning major life decisions today?"
+  ],
+  "uncertainAreas": "The text’s account of the sundial moving 'ten degrees backward' is ambiguous about whether it describes a literal astronomical miracle, a localized calendrical/chronological sign, or symbolic language; the precise nature of the 'degrees' and the sundial of Ahaz is uncertain. The medical description (fig poultice) is brief and leaves unclear the relative roles of the poultice, divine action, and natural recovery.",
+  "createdAt": "2025-11-03T23:20:08.924Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

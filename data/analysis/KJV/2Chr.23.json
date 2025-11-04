@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Chr.23",
+  "briefOverview": "Jehoiada the priest organizes a coup to install the rightful Davidic heir as king, executes Athaliah, destroys Baal worship, and restores proper temple service.",
+  "summary": "Jehoiada recruits military captains, Levites, and leaders, divides the temple and royal guard into organized watches, and arms them with weapons kept in the house of God. The king's son is brought out, crowned, anointed by Jehoiada, and publicly acknowledged as king. Athaliah hears the acclamation, accuses them of treason, is seized and executed outside the house of the LORD. The people then tear down the house of Baal and kill its priest Mattan. Jehoiada reestablishes the Levitical and priestly duties according to Davidic arrangement and Mosaic law, sets gatekeepers to preserve ritual purity, and escorts the new king to the throne, after which the land is quiet.",
+  "externalContext": "This episode fits the late-monarchic period of the Judah monarchy and corresponds to the narrative in 2 Kings 11. Athaliah is usually understood as a usurping queen-mother associated with the introduction of Baal worship into Judah through the house of Ahab and Jezebel. The roles of Levites, priests, and designated porters reflect long-standing temple institutions and concerns for ritual purity in ancient Israelite religion.",
+  "externalReferences": "The chapter parallels 2 Kings 11:1–21, which recounts the same coup and execution of Athaliah. The account’s reference to David’s distribution of Levitical duties echoes material in 1 Chronicles 23 and 26 where David assigns temple roles. The phrase “as it is written in the law of Moses” connects here to the Levitical and sacrificial regulations found in Numbers 3–4 and Leviticus 1–7.",
+  "seeAlso": [
+    "2 Kings 11:1-21",
+    "1 Chronicles 23",
+    "1 Chronicles 26",
+    "Numbers 3-4",
+    "Leviticus 1-7",
+    "2 Chronicles 24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Organizing the Coup"
+    },
+    {
+      "range": "12-16",
+      "title": "Athaliah Executed"
+    },
+    {
+      "range": "17-21",
+      "title": "Purge and Restoration"
+    }
+  ],
+  "themes": [
+    "Legitimacy",
+    "Temple restoration",
+    "Covenant renewal",
+    "Sanctity and violence"
+  ],
+  "practicalQuestions": [
+    "When a community’s leaders become corrupt, what legitimate and ethical means exist today to restore rightful governance?",
+    "How should sacred spaces be protected while also ensuring that justice and due process are respected?",
+    "What forms can covenant renewal take in contemporary faith communities to resist 'idolatrous' cultural pressures?",
+    "How do we weigh the use of force in defending communal or religious identity in modern contexts?"
+  ],
+  "uncertainAreas": "The chapter does not name the king’s son (Joash) here, so identification requires cross-reference; motives and deliberations behind some actions (e.g., the decision to execute Athaliah outside the temple) are summarized without internal detail; the exact legal or popular procedures that validated the coup are not spelled out, leaving some ambiguity about legitimacy in legal terms.",
+  "createdAt": "2025-11-03T19:28:24.582Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

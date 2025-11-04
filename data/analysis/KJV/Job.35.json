@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.35",
+  "briefOverview": "Elihu rebukes Job for questioning God's justice and argues that human righteousness or wickedness does not benefit or harm God; he emphasizes God's transcendence and the limited perspective of human speech.",
+  "summary": "Elihu accuses Job of claiming moral advantage over God and of asking what he would gain from being cleansed. He points to the heavens as higher than humans and argues that human sin or righteousness does not affect God directly, though injustice harms other people. Elihu notes that the oppressed cry out because of the powerful, and he criticizes people who fail to call on God or whose pride prevents answers. He asserts that God will not heed empty talk, urges trust because judgment stands before God, and charges Job with speaking vainly and beyond his knowledge.",
+  "externalContext": "Elihu is a younger interlocutor introduced in Job 32–37 who interrupts the debate between Job and his three friends and presents a distinct perspective on suffering and divine justice. The Book of Job is part of ancient Near Eastern wisdom literature and engages with the retribution theology common in Israelite thought (the idea that suffering is a direct consequence of personal sin). Elihu's speeches anticipate the theophany that follows in chapters 38–41 by stressing God's transcendence and inscrutability.",
+  "externalReferences": "Elihu directly challenges claims Job makes earlier in the book (compare Job 13:23–24 and Job 10:8–9 where Job questions God's dealings and asks to be shown his sin). Elihu's remarks form the middle speeches of chapters 32–37 and lead into God's speeches in Job 38–41, where God responds from the whirlwind and emphasizes divine sovereignty and the heavens (see Job 38:1ff).",
+  "seeAlso": [
+    "Job 32:1-22",
+    "Job 36:1-37:24",
+    "Job 38:1-41:34",
+    "Job 13:23-24",
+    "Job 10:8-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Challenge to Job's Claim"
+    },
+    {
+      "range": "5-12",
+      "title": "God's Transcendence"
+    },
+    {
+      "range": "13-16",
+      "title": "Reproof and Judgment"
+    }
+  ],
+  "themes": [
+    "Divine transcendence",
+    "Suffering and justice",
+    "Human speech",
+    "Retribution theology"
+  ],
+  "practicalQuestions": [
+    "Do I assume I understand God's motives when I complain about suffering?",
+    "How can I speak about pain and injustice without presuming to judge God's character?",
+    "In what practical ways should the community respond to the oppressed rather than attributing their plight solely to individual sin?",
+    "Am I prone to 'empty talk'—many words without humility or knowledge—when discussing God?"
+  ],
+  "uncertainAreas": "The exact force of phrases like \"he hath visited in his anger; yet he knoweth it not in great extremity\" is ambiguous—Elihu may mean God has acted in judgment that Job has not fully understood, or he may be asserting Job's misperception that God has not responded. It is also unclear whether Elihu intends to deny any practical effect of human righteousness on God or merely to emphasize God's independence; the balance between divine transcendence and divine responsiveness remains interpretively delicate.",
+  "createdAt": "2025-11-03T21:24:16.730Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.9",
+  "briefOverview": "The chapter celebrates Solomon's wisdom, wealth, and international reputation, centered on the visit of the queen of Sheba and descriptions of his riches and rule.",
+  "summary": "The queen of Sheba visits Solomon with a large retinue and brings lavish gifts to test his wisdom; Solomon answers all her questions and impresses her with his wisdom, palace, and court (verses 1–12). She praises God for Solomon's blessings and gives him substantial gifts before returning home. The text then catalogues Solomon's annual and accumulated wealth (666 talents of gold), luxury furnishings (golden shields, an ivory throne overlaid with gold), and exotic imports brought by ships to Tarshish (verses 13–22). It emphasizes Solomon's unparalleled riches and wisdom, the regular tribute and gifts from other rulers, and his military resources (verses 23–28). The chapter closes by pointing readers to other records about Solomon (prophetic and seer sources) and notes his forty-year reign, death, and succession by Rehoboam (verses 29–31).",
+  "externalContext": "The queen of Sheba is commonly associated with the Sabaean kingdom in southern Arabia (modern Yemen) or the Horn of Africa; that region controlled lucrative incense and spice trade routes in the first millennium BCE. 'Tarshish' in ancient texts often denotes a distant trading partner (possibly in the western Mediterranean, such as Tartessos, or a general term for long-distance maritime trade). Gift exchange, tribute, and display of exotic luxury goods and monumental furnishings were standard practices among ancient Near Eastern courts to show status, secure alliances, and advertise divine favor.",
+  "externalReferences": "This episode parallels the account in 1 Kings 10:1–13, which records the queen of Sheba's visit and similar details about Solomon's wisdom and gifts. The Book of Kings also mentions the ships to Tarshish and Solomon's wealth (1 Kings 10:22 and 1 Kings 4:20–34), while later verses refer to the prophetic records cited here (see 1 Kings 11:41 for similar mentions of Nathan's record and other sources). The prophecy of Ahijah regarding Jeroboam is treated elsewhere in Kings (1 Kings 11:29–39), corresponding to the prophetic materials referenced in verse 29.",
+  "seeAlso": [
+    "1 Kings 10:1-13",
+    "1 Kings 10:22",
+    "1 Kings 4:20-34",
+    "1 Kings 11:29-39",
+    "1 Kings 11:41"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Queen of Sheba's Visit"
+    },
+    {
+      "range": "13-24",
+      "title": "Solomon's Wealth and Treasures"
+    },
+    {
+      "range": "25-31",
+      "title": "Rule, Records, and Succession"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Wealth",
+    "Diplomacy",
+    "Kingship"
+  ],
+  "practicalQuestions": [
+    "How should we evaluate public displays of wealth in leaders in light of this episode's positive portrayal of royal splendor?",
+    "What can modern communities learn from the queen of Sheba's approach of testing and learning from a foreign leader's wisdom?",
+    "In what ways can gifts and trade build peaceful relationships between different peoples today, and what ethical limits should apply?",
+    "How does the text link divine blessing and human responsibility (judgment and justice), and how might that shape expectations for leadership now?"
+  ],
+  "uncertainAreas": "Identification of Sheba's exact location and of 'Tarshish' are debated; the precise identity of the 'algum' (almug) trees is uncertain. The chapter's large numbers and lavish descriptions may be factual, hyperbolic, or theological in emphasis—it's not always clear which. References to the lost prophetic/official records (Nathan, Ahijah, Iddo) indicate other sources we cannot directly consult here.",
+  "createdAt": "2025-11-03T19:21:19.376Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

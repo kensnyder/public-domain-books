@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.15",
+  "briefOverview": "Eliphaz the Temanite rebukes Job, insisting that human sinfulness and divine justice explain suffering and that Job's words show presumption and guilt.",
+  "summary": "Eliphaz opens with a sharp rebuke, accusing Job of speaking empty, unprofitable things and abandoning reverence and prayer (1–6). He challenges Job's presumption to claim secret wisdom or innocence, stressing that the elders among them possess greater experience (7–13). Eliphaz asserts the fundamental impurity of humanity before God and argues that even the heavens are not clean in God's sight (14–16). He portrays the wicked as doomed: they suffer continual toil, sudden ruin, hunger, fear, and eventual destruction; their wealth and offspring will fail and their schemes will be consumed by fire (17–35).",
+  "externalContext": "The dialogue occurs within the ancient Near Eastern wisdom tradition, where speeches between friends and a suffering protagonist explore causes of misfortune. The friends represent a conventional retribution theology — the belief that suffering indicates personal sin and that prosperity signals divine favor — a view common in ancient Israelite and neighboring wisdom literature.",
+  "externalReferences": "Eliphaz's lines here echo themes from his earlier speech to Job (see Job 4–5), where he already attributed suffering to wrongdoing and urged repentance. Similar arguments reappear later in the dialogue, notably in Eliphaz's speech in Job 22, which likewise emphasizes sin, confession, and restoration.\nThe idea that the wicked will perish and be judged has parallels in wisdom sayings such as Psalm 1:4–6 and proverbs that link conduct with outcome (compare Proverbs 11:21).",
+  "seeAlso": [
+    "Job 4:1-21",
+    "Job 5:1-27",
+    "Job 22:1-30",
+    "Psalm 1:4-6",
+    "Proverbs 11:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Opening Rebuke"
+    },
+    {
+      "range": "7-16",
+      "title": "Human Impurity"
+    },
+    {
+      "range": "17-35",
+      "title": "Fate of the Wicked"
+    }
+  ],
+  "themes": [
+    "Retribution",
+    "Human Sinfulness",
+    "Divine Judgment",
+    "Wisdom Tradition"
+  ],
+  "practicalQuestions": [
+    "When someone suffers, how should we balance compassion with questions about cause and responsibility?",
+    "How can communities avoid turning conventional theology into harsh judgments against the suffering?",
+    "What does this text ask of us regarding humility about claiming knowledge of God's purposes?",
+    "How might we speak truth about moral responsibility without assuming we know the whole story of another's pain?"
+  ],
+  "uncertainAreas": "Uncertainty exists about how literally to take Eliphaz's claims: whether he speaks only general wisdom or directly misapplies it to Job. Some metaphors (e.g., 'covereth his face with his fatness') are vivid but ambiguous in precise meaning. It is also unclear to what extent the narrator intends Eliphaz's view as authoritative versus representative of a flawed conventional theology.",
+  "createdAt": "2025-11-03T19:57:55.897Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

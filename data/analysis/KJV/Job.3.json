@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Job.3",
+  "briefOverview": "Job gives the first extended lament in the poetic section, cursing the day of his birth and wishing for the rest of death.",
+  "summary": "After the prose prologue, Job breaks his silence and curses the day he was born, calling for darkness and isolation to mark it. He questions why he was not stillborn and imagines the peace of death, where the wicked and weary alike cease from trouble and oppression. Job contrasts the rest of the grave with his present state of unending suffering, fear, and lack of peace, describing how his sighing and terror overwhelm daily life. The speech expresses raw protest and despair rather than theological argument or consolation.",
+  "externalContext": "Chapter 3 begins the book’s long poetic dialogues and is often read as an example of an ancient Near Eastern lament — a formalized expression of grief that curses or mourns a person’s birth or a particular day. In the book’s literary structure, Job 1–2 supply the narrative afflictions; chapter 3 launches Job’s first major poetic response, setting the tone for the exchanges with his friends that follow. Expressions of desiring death or questioning birth occur elsewhere in the Hebrew Bible and in neighboring laments, reflecting common ancient concerns about mortality and divine absence.",
+  "externalReferences": "This chapter immediately follows the prose prologue (Job 1–2), where Job’s losses and afflictions are narrated and his silence is broken; chapter 3 is therefore his first full poetic speech. The theme of desiring death and feeling abandoned resembles other biblical laments, for example Psalm 88, which likewise emphasizes despair and a sense of being cut off from God. The book’s later divine speeches (Job 38–41) respond to the theological situation this lament helps create by confronting Job’s assumptions and the limits of human perspective.",
+  "seeAlso": [
+    "Job 1:1-2:13",
+    "Job 38:1-41:34",
+    "Psalm 88:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Cursing the Birth Day"
+    },
+    {
+      "range": "11-26",
+      "title": "Longing for Death"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Suffering",
+    "Mortality",
+    "Divine absence"
+  ],
+  "practicalQuestions": [
+    "How can religious communities provide space for raw lament without immediately offering consolation or explanation?",
+    "When facing prolonged suffering, how should one balance honest protest with trust or theological reflection?",
+    "What practices help hold together those who long for death with hope and practical care?",
+    "How might this text shape pastoral responses to people who ask hard questions about God and suffering?"
+  ],
+  "uncertainAreas": "Some lines are poetically ambiguous — for example, whether Job’s curse targets God indirectly or is strictly a lament about his birth day. The precise connections to other ancient lament traditions and the original performance context are also not fully recoverable from the text alone.",
+  "createdAt": "2025-11-03T19:52:27.345Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

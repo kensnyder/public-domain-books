@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.144",
+  "briefOverview": "A royal thanksgiving and petition, the psalmist praises God as trainer in battle and protector, asks for rescue from deceitful enemies, and prays for communal prosperity.",
+  "summary": "The speaker blesses the LORD as personal strength and as one who trains his hands and fingers for war, portraying God as fortress, tower, deliverer, and shield. The psalmist reflects on human frailty—\"what is man\"—and then calls on God to intervene with cosmic power (bow the heavens, touch the mountains). There is a repeated plea to be delivered from \"strange children\" whose speech and actions are false, followed by a vow to sing a new song of praise on a ten‑stringed instrument. The psalm attributes salvation to God for kings and specifically for David, and concludes with a communal prayer that sons and daughters, granaries, flocks, and oxen prosper. It ends by affirming the happiness of a people whose God is the LORD.",
+  "externalContext": "Psalm 144 is traditionally attributed to David and fits the royal/military genre common in ancient Israelite psalms where kings invoke divine help in war. The agricultural requests (garners full, sheep numerous, strong oxen) reflect an agrarian economy in which material prosperity signified divine favor. Instruments such as the psaltery and references to a \"new song\" indicate liturgical use in worship.",
+  "externalReferences": "Verse 1 echoes language found in Psalm 18:34, where God \"teacheth my hands to war,\" linking this psalm to other Davidic royal victory songs. The rhetorical question \"LORD, what is man...?\" parallels Psalm 8:4's meditation on human smallness. The motif of singing a \"new song\" appears elsewhere (e.g., Psalm 33:3; Psalm 40:3), signaling liturgical thanksgiving after deliverance.",
+  "seeAlso": [
+    "Psalm 18:34",
+    "Psalm 8:4",
+    "Psalm 33:3",
+    "Psalm 40:3",
+    "Psalm 39:5",
+    "Psalm 149:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Praise of God’s Strength"
+    },
+    {
+      "range": "3-11",
+      "title": "Human Frailty and Petition"
+    },
+    {
+      "range": "12-15",
+      "title": "Prayer for Communal Prosperity"
+    }
+  ],
+  "themes": [
+    "Divine protection",
+    "Warfare and deliverance",
+    "Human frailty",
+    "Communal blessing"
+  ],
+  "practicalQuestions": [
+    "How should communities balance asking God for protection with ethical treatment of perceived enemies?",
+    "In what ways can gratitude (a \"new song\") follow personal or communal rescue today?",
+    "How do we interpret prayers for material prosperity (full granaries, strong oxen) in contemporary faith practice?",
+    "What practices help a community cultivate trust in God as its protector in times of vulnerability?"
+  ],
+  "uncertainAreas": "The exact identity of the \"strange children\" (foreign enemies, rebellious subjects, or rhetorical opponents) is unclear. It is also uncertain whether the psalm is an original Davidic composition or a later reflection in the Davidic tradition. The military metaphor \"teacheth my hands to war\" can be read literally or figuratively and admits multiple shades of meaning.",
+  "createdAt": "2025-11-03T22:30:20.070Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

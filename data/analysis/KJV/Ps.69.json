@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.69",
+  "briefOverview": "A passionate individual lament pleading for rescue from overwhelming danger and hostile enemies, shifting from desperate petition to imprecatory judgment and concluding in praise and hope for God's salvation.",
+  "summary": "The speaker cries out for deliverance from overwhelming distress and enemies (vv.1–6), describes social alienation, shame, and religious zeal that have brought reproach (vv.7–13), and continues with urgent petitions for rescue, vindication, and God's nearness (vv.14–18). The psalmist recounts rejection and cruel treatment (v.21) and calls for punitive justice against persecutors (vv.22–28). The tone turns to trust and praise near the end: the psalmist vows thanksgiving, affirms that the humble will rejoice, and expresses confidence that God will save Zion and bless the faithful (vv.29–36).",
+  "externalContext": "Psalm 69 is an individual lament in the Hebrew Psalter and is traditionally attributed to David in the superscription (not included here). In ancient Israelite petitionary prayer, vivid water and pit imagery commonly describe life-threatening danger and social collapse. Early Jewish and Christian readers sometimes treated parts of this psalm as foreshadowing a messianic sufferer, which influenced its citation in the New Testament.",
+  "externalReferences": "Several New Testament passages cite or echo verses from this psalm in connection with Jesus' passion: John 2:17 quotes verse 9 (“For the zeal of thine house hath eaten me up”), applying it to Jesus’ cleansing of the temple. The episode of Jesus being offered sour wine is linked to verse 21 and is recorded in Matthew 27:34,48 and John 19:28–30, where bystanders offer him a vinegar drink. These New Testament usages show how early Christians read the psalm as describing aspects of the suffering servant.",
+  "seeAlso": [
+    "John 2:17",
+    "Matthew 27:34-48",
+    "John 19:28-30",
+    "Psalm 22:1-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Desperate Lament"
+    },
+    {
+      "range": "14-28",
+      "title": "Petition and Imprecation"
+    },
+    {
+      "range": "29-36",
+      "title": "Praise and Hope"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Persecution",
+    "Prayer for Deliverance",
+    "Imprecation"
+  ],
+  "practicalQuestions": [
+    "How should communities accompany those who feel abandoned, mocked, or socially alienated as the psalmist describes?",
+    "When facing injustice, how can one balance honest lament with trust in God rather than turning to revenge?",
+    "What role can corporate lament and fasting (v.10) play in contemporary spiritual practice or public witness?",
+    "How do the psalm's closing notes of praise and hope (vv.29–36) inform responses to prolonged suffering?"
+  ],
+  "uncertainAreas": "Authorship and original historical setting are uncertain (traditionally Davidic but not provable from the text). The degree to which imprecatory petitions reflect general theological norms versus specific vindictive circumstances is open to interpretive debate; New Testament application to Jesus is evident but reflects later Christian reading rather than an explicit self-predictive claim in the Hebrew text.",
+  "createdAt": "2025-11-03T21:55:23.508Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

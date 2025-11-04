@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.127",
+  "briefOverview": "A short wisdom-poem that contrasts human effort with divine sovereignty and celebrates children as a God-given blessing.",
+  "summary": "Verses 1–2 teach that human projects and vigilance are ultimately futile unless the LORD grants success and protection; anxious, excessive toil is portrayed as vain because God provides for those he loves (even giving them sleep). Verses 3–5 shift to a domestic metaphor: children are described as a heritage from the LORD and likened to arrows in a warrior's hand, with a full quiver pictured as a source of honor and security in the face of enemies.",
+  "externalContext": "Psalm 127 is part of the 'Songs of Ascents' (Psalms 120–134), a group of short psalms used by pilgrims or temple worshipers in ancient Israel. Many traditions ascribe this particular psalm to Solomon (title in most Hebrew manuscripts), placing it in a wisdom-poetry setting that values household prosperity, lineage, and trust in God over anxious self-reliance.",
+  "externalReferences": "The household and children imagery echoes Psalm 128:3–4, which also portrays children as blessings surrounding the table. The critique of anxious toil parallels teachings in the New Testament about worry and provision (e.g., Matthew 6:25–34), which counsel trust in God's care rather than anxious labor. The psalm's placement in the Songs of Ascents links it thematically to the pilgrimage and communal life reflected across Psalms 120–134.",
+  "seeAlso": [
+    "Psalms 128:3-4",
+    "Matthew 6:25-34",
+    "Psalms 120-134"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Dependence on God"
+    },
+    {
+      "range": "3-5",
+      "title": "Children as Blessing"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Providence",
+    "Family blessing",
+    "Trust vs. anxiety"
+  ],
+  "practicalQuestions": [
+    "How should belief that 'the LORD builds the house' shape how I plan and work on projects?",
+    "When does responsible effort become anxious striving, and how can I tell the difference?",
+    "In what ways can a community treat children as a communal heritage rather than merely private property?",
+    "How can I cultivate the trust that allows 'sleep' or rest amid responsibilities?"
+  ],
+  "uncertainAreas": "Authorship is traditionally ascribed to Solomon in many manuscripts but is not explicit in the short text presented. The metaphor of children as 'arrows' can be read militarily (protection/power) or genealogically (continuity), and the proper balance between prudent labor and the psalm's rebuke of anxious toil leaves room for interpretive nuance.",
+  "createdAt": "2025-11-03T22:22:54.986Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

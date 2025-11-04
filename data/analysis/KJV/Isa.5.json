@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Isa.5",
+  "briefOverview": "Isaiah 5 opens with a parable of a vineyard that fails to produce the expected fruit and then issues a series of prophetic 'woes' condemning social and religious corruption, concluding with an announcement of punitive foreign invasion.",
+  "summary": "Verses 1–7 present a first‑person 'song' about a carefully tended vineyard (God's people) that yields wild grapes instead of good fruit, prompting God's judgment. The poet explicitly identifies the vineyard as the house of Israel and enumerates the failure: injustice in place of judgment and cries in place of righteousness. Verses 8–16 pronounce woes against social sins—land‑grabbing, drunken revelry, ignorance—and predict desolation, social leveling, and the exaltation of God in judgment. Verses 17–23 continue with moral and religious indictments: participating in and normalizing sin, reversing moral categories, pride, and corruption in justice. Verses 24–30 describe the consequences: divine anger leads to devastation and the summoning of distant nations who come swiftly and efficiently, bringing darkness and sorrow to the land.",
+  "externalContext": "Isaiah is generally associated with the 8th century BCE prophetic tradition addressing the kingdom(s) of Israel and Judah; critics of social injustice and corrupt leadership are common in that period. Vineyard imagery would be familiar in an agrarian Near Eastern context and is commonly used metaphorically for a ruler's domain or God's covenant people. The chapter's language about foreign forces likely reflects longstanding geopolitical threats (Assyria, later Babylon) that shaped prophetic warnings, though the text itself does not name the specific empire.",
+  "externalReferences": "The vineyard metaphor is echoed elsewhere in the Hebrew Bible (e.g., Jeremiah 2:21 speaks of God planting Israel as a choice vine) and is taken up by later biblical writers and Jesus: Matthew 21:33–46 preserves Jesus' parable of the wicked tenants set in a vineyard, and John 15:1–8 develops the vine imagery theologically in 'I am the true vine.' Themes of ritual misconduct paired with social injustice resonate with other prophetic critiques such as Amos and Isaiah's own earlier critiques (cf. Amos 5:21–24; Isaiah 1:21–23).",
+  "seeAlso": [
+    "Matthew 21:33-46",
+    "John 15:1-8",
+    "Jeremiah 2:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Song of the Vineyard"
+    },
+    {
+      "range": "8-17",
+      "title": "Woes on Society"
+    },
+    {
+      "range": "18-30",
+      "title": "Condemnation and Invasion"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Unfaithfulness",
+    "Social injustice",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "In what ways does my community or nation 'produce wild grapes'—professing identity while neglecting justice and righteousness?",
+    "How should religious practice be balanced with social responsibility so that worship does not substitute for ethical behavior?",
+    "What structural or personal changes are needed to prevent accumulation of wealth or power at the expense of others (cf. land‑grabbing in v.8)?",
+    "How can communities cultivate the 'fruit' expected of them (justice, righteousness) rather than merely external signs of prosperity or piety?"
+  ],
+  "uncertainAreas": "The text does not specify which historical empire or exact events are intended by the invading 'nations' (vv.26–30), so identifying a precise historical referent (Assyria, Babylon, or a more general image of foreign punishment) is uncertain. Some poetic images and the sequence of 'woes' are rhetorically dense, leaving occasional ambiguity about whether a given woe targets a specific social class, behavior, or broader cultural tendency.",
+  "createdAt": "2025-11-03T23:02:33.284Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

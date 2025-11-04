@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.18",
+  "briefOverview": "Bildad the Shuhite accuses Job (and his friends) of folly and gives a stark catalogue of the doom that befalls the wicked, arguing that suffering shows divine judgment.",
+  "summary": "Bildad opens with a blunt rebuke to Job and his companions for their long discourse and perceived contempt (vv. 1–4). He then paints a vivid picture of the fate of the wicked: their light is extinguished, they are caught in snares of their own making, terror and hunger consume them, their roots dry up, their name and descendants are cut off, and they are driven from light into darkness (vv. 5–20). He closes by asserting that such ruin is the dwelling-place of the wicked and the destiny of those who do not know God (v. 21).",
+  "externalContext": "This speech belongs to the dialogue section of the Book of Job, in which three friends argue that suffering must result from sin (a traditional retribution or wisdom theology). Bildad represents a conventional wisdom perspective common in ancient Near Eastern and Israelite thought: misfortune is interpreted as divine punishment and prosperity as reward. The language of nets, darkness, loss of name, and cut-off descendants echoes motifs from Hebrew wisdom poetry and legal-ethical thinking about social standing and legacy.",
+  "externalReferences": "Bildad’s portrait of the wicked resembles other Hebrew wisdom texts that contrast the fate of the wicked and the righteous, for example Psalm 1:4–6 (the wicked are like chaff) and Psalm 37:35–36 (the wicked are cut off and disappear). Proverbs 10:7 also echoes the concern for legacy: “the name of the wicked shall rot,” similar to Bildad’s claim that the wicked’s remembrance perishes. Job’s later speeches (notably Job 19 and Job 21) respond directly to this kind of retribution argument, with Job contesting the neat equation of suffering and wickedness.",
+  "seeAlso": [
+    "Job 19:1-29",
+    "Job 21:7-26",
+    "Psalm 1:4-6",
+    "Psalm 37:35-36",
+    "Proverbs 10:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Opening Rebuke"
+    },
+    {
+      "range": "5-20",
+      "title": "Catalogue of the Wicked's Doom"
+    },
+    {
+      "range": "21-21",
+      "title": "Summary Judgment"
+    }
+  ],
+  "themes": [
+    "Retribution",
+    "Judgment",
+    "Legacy",
+    "Divine justice"
+  ],
+  "practicalQuestions": [
+    "When we see someone suffer, do we instinctively assume moral failure? How can we resist that impulse while still upholding justice?",
+    "How should communities balance calls for accountability with compassion for those who suffer?",
+    "What does this passage teach about the importance (and limits) of judging others’ circumstances as evidence of divine favor or disfavor?",
+    "How do concerns about name and offspring (legacy) shape modern attitudes toward success and disgrace?"
+  ],
+  "uncertainAreas": "Bildad’s speech speaks generally of “the wicked,” but it is ambiguous whether he intends this description specifically for Job or as a generalized proverb. Some phrases (e.g., “the firstborn of death,” “king of terrors”) are poetic and their precise nuance or origin is uncertain; they may draw on common ancient Near Eastern imagery rather than specific theological categories.",
+  "createdAt": "2025-11-03T19:59:30.231Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Isa.15",
+  "briefOverview": "A prophetic lament announcing the devastation of Moab and describing communal mourning and desolation across its towns and countryside.",
+  "summary": "The oracle opens with the sudden nighttime ruin of Ar and Kir of Moab and proceeds as a catalogue of mourning: inhabitants climb to high places, shave their heads and beards, put on sackcloth, and wail in towns such as Bajith, Dibon, Nebo, Medeba, Heshbon, Elealeh, and Jahaz. The prophet expresses personal compassion for Moab while describing refugees fleeing toward Zoar and the weeping ascent of Luhith and Horonaim. Agricultural and pastoral life collapses — the waters of Nimrim run dry, hay and grass fail, stored abundance is removed to the brook of the willows, and cries of anguish spread to border towns like Eglaim and Beer-elim. The oracle closes with violent imagery: waters of Dimon filled with blood and lions preying on Moab’s survivors, underscoring total devastation.",
+  "externalContext": "Moab was a kingdom east of the Dead Sea and frequently appears in Israelite and Judean history as both neighbor and foe; prophetic oracles against neighboring nations are a common feature in Isaiah (chs. 13–23). Public mourning practices mentioned here — sackcloth, shaving heads and beards, wailing on house-tops and high places — are attested in ancient Near Eastern and Israelite ritual as marks of communal grief. Place-names like Heshbon, Dibon, Nebo, and Zoar point to locations known from other biblical texts and regional geography along trade and pasturelands east of the Jordan.",
+  "externalReferences": "This oracle is followed directly by Isaiah 16, which continues material about Moab, and it parallels longer oracles against Moab found in Jeremiah 48 (which uses similar mourning motifs). Amos 2:1 also pronounces judgment on Moab for transgressions. The mention of Zoar and refuge imagery recalls Genesis 19:20–23 where Zoar is the town Lot sought as safety.",
+  "seeAlso": [
+    "Isaiah 16:1-14",
+    "Jeremiah 48",
+    "Amos 2:1",
+    "Genesis 19:20-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Cities Silenced"
+    },
+    {
+      "range": "5-9",
+      "title": "Desolation and Lament"
+    }
+  ],
+  "themes": [
+    "Lamentation",
+    "Destruction",
+    "Refuge and Flight",
+    "Divine Judgment"
+  ],
+  "practicalQuestions": [
+    "How should communities respond with compassion when neighboring peoples suffer collective catastrophe?",
+    "What do mourning practices (sackcloth, shaving, wailing) tell us about public expressions of grief and identity today?",
+    "How can modern readers interpret violent prophetic imagery (blood, lions) responsibly in ethical reflection?",
+    "In what ways should ancient oracles against nations inform contemporary thinking about national responsibility and historical memory?"
+  ],
+  "uncertainAreas": "Precise historical setting and which military campaign (Assyrian, Babylonian, local Israelite/Judahite action, or other) prompted this oracle are not stated in the text; several place-names (Ar, Kir, Dimon, Nimrim) have uncertain exact locations or archaeological correlates. Some images (lions, waters of blood) may be literal reports or poetic hyperbole; the text does not resolve this.",
+  "createdAt": "2025-11-03T23:07:29.784Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

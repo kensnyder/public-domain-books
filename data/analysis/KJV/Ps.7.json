@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.7",
+  "briefOverview": "A personal lament and plea for vindication in which the speaker affirms innocence, appeals to God as judge, and calls for divine justice against persecutors.",
+  "summary": "The psalmist begins with an urgent plea for rescue from persecutors and describes the threat as a lion tearing the soul (verses 1–2). He asserts his innocence and even invites judgment on himself if he is guilty, refusing to accept unprovoked hostility (3–5). Calling on God to arise in anger, he asks for the divine assembly and for God to execute the judgment he has ordained (6–9). The poem affirms that God defends the upright and daily opposes the wicked, describing how the wicked's plotted violence will turn back on them (10–16). It closes with a vow to praise God for his righteousness (17).",
+  "externalContext": "Psalms like this belong to the ancient Israelite tradition of personal lament and imprecatory prayer, where individuals appeal to YHWH as defender and judge. The legal and courtroom imagery (trial, judge, assembly) reflects an environment in which community procedures and divine adjudication were central to ideas of justice. Terms such as \"Selah\" and references to God \"trying the hearts and reins\" evoke cultic-poetic conventions and a theology that sees God as discerning inner motives.",
+  "externalReferences": "This psalm shares themes with other imprecatory and vindicatory psalms, notably Psalm 35 (plea for rescue from enemies) and Psalm 17 (appeal for vindication and assertion of integrity). The language about God testing hearts resembles Proverbs 17:3, which portrays the Lord as one who refines and tests inner character. The motif of the wicked’s schemes returning on themselves echoes wisdom and prophetic sayings found elsewhere in the Hebrew Scriptures (for example Psalm 37).",
+  "seeAlso": [
+    "Psalm 35:1-8",
+    "Psalm 17:1-9",
+    "Proverbs 17:3",
+    "Psalm 37:28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Plea and Protest of Innocence"
+    },
+    {
+      "range": "6-12",
+      "title": "Call for Divine Judgment"
+    },
+    {
+      "range": "13-17",
+      "title": "Retribution and Praise"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Divine Justice",
+    "Innocence",
+    "Retribution"
+  ],
+  "practicalQuestions": [
+    "When facing unjust accusations, how can I balance honest self-examination with confident trust in God’s judgment?",
+    "What practices help a community respond to wrongdoing while leaving ultimate vengeance to God?",
+    "How should the imagery of God \"trying hearts\" shape personal moral reflection and accountability?",
+    "In what ways can expressions of anger and requests for justice in prayer be channeled into constructive action?"
+  ],
+  "uncertainAreas": "The supplied text lacks the superscription found in many manuscripts (e.g., reference to Cush or a musical term), so authorship and occasion are not certain from this text alone. The identity of the persecutor and specific historical setting remain ambiguous, and the precise liturgical function of \"Selah\" is debated.",
+  "createdAt": "2025-11-03T21:30:00.508Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.112",
+  "briefOverview": "A hymn praising the blessings that come to the God‑fearing righteous person, describing character, conduct, and divine reward contrasted with the fate of the wicked.",
+  "summary": "The psalm opens by blessing the person who fears the LORD and delights in God's commandments, promising that his descendants and household will be prospered (1–3). The righteous is portrayed as a source of light in darkness, compassionate, prudent in affairs, generous to the poor, and remembered forever (4–6, 9). Because his heart is fixed and trusts in the LORD, he is not shaken or afraid even when bad news comes; he perseveres until he sees triumph over his enemies (7–8). The psalm closes with a contrast: the wicked are shown the prosperity of the righteous, are filled with anger and despair, and their hopes perish (10).",
+  "externalContext": "Psalm 112 belongs to the collection of Psalms in the Hebrew Bible and is paired thematically with Psalm 111 as part of a “Hallelujah” (praise) pair that celebrates the righteous life and God’s faithfulness. It reflects wisdom and ethical instruction common in Israelite literature, where the fear of the LORD is the starting point for moral and social conduct (cf. wisdom sayings in Proverbs). The imagery of 'horn' for honor/power and concern for posterity reflect ancient Near Eastern metaphors and social values about family continuity and social reputation.",
+  "externalReferences": "The opening praise and emphasis on God’s works and the blessedness of the righteous echo Psalm 111, which likewise begins with praise and celebrates the fear of the LORD. The theme of the righteous being remembered and the contrast with the wicked parallels Proverbs 10:7 (‘The memory of the righteous is blessed’), while the injunction to give to the poor resonates with Proverbs 22:9 and other wisdom sayings that link generosity to blessing. These cross‑references show the psalm’s placement in the wisdom/praise tradition of the Hebrew Scriptures.",
+  "seeAlso": [
+    "Psalms 111:1-10",
+    "Proverbs 10:7",
+    "Proverbs 22:9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Blessing of the God‑fearing"
+    },
+    {
+      "range": "4-9",
+      "title": "Character and Rewards"
+    },
+    {
+      "range": "10",
+      "title": "Fate of the Wicked"
+    }
+  ],
+  "themes": [
+    "Righteousness",
+    "Fear of the LORD",
+    "Generosity",
+    "Divine blessing"
+  ],
+  "practicalQuestions": [
+    "How does 'fear of the LORD' shape priorities and decisions in daily life for you?",
+    "In what concrete ways can a community practice the generosity and care for the poor commended here?",
+    "How might trust in God change our response to anxious news or societal instability?",
+    "What does 'being remembered' mean in our context—legacy, reputation, or ongoing influence—and how should that affect our conduct?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are not specified in the text. Some imagery is open to interpretation (e.g., 'horn' as power/honor, 'seed' as literal descendants or lasting influence). The degree to which the psalm teaches guaranteed material prosperity for the righteous versus moral/spiritual blessing is debated and not settled by the text alone.",
+  "createdAt": "2025-11-03T22:16:23.447Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

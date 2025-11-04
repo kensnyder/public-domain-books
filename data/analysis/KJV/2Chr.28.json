@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.28",
+  "briefOverview": "Chapter portrays King Ahaz as an unfaithful ruler whose idolatry brings military disaster and social decay, while a prophet and some Israelite leaders intervene to show mercy to Judah's captives. It also records Ahaz's political submission to Assyria and further religious apostasy.",
+  "summary": "Ahaz reigns wickedly, imitating the kings of Israel: he installs idolatry, burns his children, and sacrifices at high places. Because of these sins the LORD permits enemies (Syria, Israel, Edom, Philistia) to strike Judah; Pekah and others inflict heavy casualties and take many captives. A prophet named Oded rebukes the returning Israelite troops for plans to enslave their Judean kin, and certain Ephraimite leaders force the release of the captives, clothe and care for them, and escort them to Jericho. Meanwhile Ahaz seeks help from Tiglath-pileser king of Assyria, giving him temple and royal treasures; Assyria oppresses Judah but does not ultimately save it. Ahaz further compounds his apostasy by adopting Syrian gods, building altars throughout Jerusalem and Judah, and closing the temple; he dies and is succeeded by Hezekiah.",
+  "externalContext": "Historically, Ahaz ruled in the 8th century BCE during the rise of Assyria under Tiglath-pileser III; smaller Levantine states often sought Assyrian support against regional coalitions. The chapter reflects the Chronicler’s theological perspective that political defeat follows covenant unfaithfulness. Practices like child sacrifice and high-place worship were associated with Canaanite and neighboring religions and are repeatedly condemned in Israelite law (e.g., Levitical and Deuteronomic injunctions).",
+  "externalReferences": "This account parallels material in 2 Kings 16, which also describes Ahaz’s contact with Tiglath-pileser and his sacrilegious acts at the temple. The Syro-Ephraimite crisis and Ahaz’s refusal to trust God are addressed in Isaiah 7:1–9, where Isaiah rebukes reliance on foreign alliances. The condemnation of child sacrifice and worship of foreign gods echoes laws such as Leviticus 18:21 and Deuteronomy 12:31.",
+  "seeAlso": [
+    "2 Kings 16:1-20",
+    "Isaiah 7:1-9",
+    "Leviticus 18:21",
+    "Deuteronomy 12:31",
+    "2 Kings 15:29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Ahaz's Idolatry and Defeat"
+    },
+    {
+      "range": "9-15",
+      "title": "Oded and Release of Captives"
+    },
+    {
+      "range": "16-27",
+      "title": "Alliance with Assyria and Apostasy"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Divine judgment",
+    "Compassion for captives",
+    "Reliance on foreign powers"
+  ],
+  "practicalQuestions": [
+    "How should religious communities respond when political leaders act unethically or lead people into harmful practices?",
+    "What principles can guide decisions about seeking foreign or secular help when facing crisis, without compromising core convictions?",
+    "How can individuals and groups show tangible mercy to victims of war and displacement as the Ephraimite leaders did?",
+    "What safeguards can be put in place to prevent religious institutions from being compromised by political expediency?"
+  ],
+  "uncertainAreas": "Exact historical sequencing and the full political motives of Ahaz (pragmatism versus ideological conversion) are uncertain; identity/details of some individuals (e.g., Zichri) and the wider consequences of Tiglath-pileser’s intervention are not fully spelled out in the chapter.",
+  "createdAt": "2025-11-03T19:30:58.069Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

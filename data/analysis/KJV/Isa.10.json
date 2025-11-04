@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Isa.10",
+  "briefOverview": "Isaiah 10 condemns unjust leaders, announces that Assyria will be God’s instrument of judgment, and then predicts Assyria’s own punishment and the survival of a faithful remnant.",
+  "summary": "The prophet denounces rulers who issue unjust laws and exploit the poor, warning that judgment and desolation are coming. God declares he will use the Assyrian empire as an instrument of wrath against a hypocritical people to plunder and subdue nations. Isaiah then depicts the Assyrian king’s pride and self-attribution of success, and announces that when God’s work on Zion is complete he will punish Assyria for its arrogance. Vivid images follow of devastation and a consuming fire, but the passage closes with a promise that a remnant of Israel will rely on the LORD and return to God. The chapter ends with a near-scene of the Assyrian advance toward Jerusalem and the prophetic assurance that the proud will be cut down.",
+  "externalContext": "Isaiah is set against the background of 8th-century BCE Judah when the expanding Neo-Assyrian Empire threatened smaller states in the Levant. Prophetic texts of this era often frame foreign invasions as instruments of divine judgment while still holding the invading power accountable to God’s sovereign purposes. The chapter’s geographic names and military movements reflect common Near Eastern warfare motifs and the historical memory of Assyrian campaigns against Israel and Judah.",
+  "externalReferences": "The chapter’s depiction of an Assyrian campaign against Judah and the city of Jerusalem corresponds to the narrative preserved in Isaiah 36–37 and 2 Kings 18–19, which recount Sennacherib’s invasion and the miraculous deliverance of Jerusalem. The line about a remnant echoes earlier Isaiah material (e.g., Isaiah 1:9) where a small surviving people remain after judgment. The reference to the slaughter of Midian at the rock of Oreb alludes to Israel’s victory in Judges 7 (the Gideon narratives) as a paradigm for God defeating a superior foe.",
+  "seeAlso": [
+    "Isaiah 1:9",
+    "Isaiah 1:21-23",
+    "Isaiah 36-37",
+    "2 Kings 18:13-19:37",
+    "Judges 7:19-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Condemnation of Oppression"
+    },
+    {
+      "range": "5-15",
+      "title": "Assyria as God’s Instrument"
+    },
+    {
+      "range": "16-34",
+      "title": "Punishment and Remnant"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Divine sovereignty",
+    "Judgment",
+    "Remnant"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when laws or policies systematically disadvantage the poor and vulnerable?",
+    "When a foreign power or social force brings suffering, how can we discern between its role as an instrument and its own culpability?",
+    "In times of national crisis, where do we place our trust—political might, military strength, or religious reliance—and how should that shape action?",
+    "What practices help preserve a moral and faithful 'remnant' in institutions and communities under pressure?"
+  ],
+  "uncertainAreas": "Precise historical dating of the specific campaign(s) referred to (though tradition links them to Sennacherib) and the extent to which the oracle reflects a single event versus theological interpretation over time. Some pronoun references and shifts between divine agency and Assyrian self-aggrandizement can be rhetorically complex, leaving room for interpretive differences about emphasis between divine sovereignty and human responsibility.",
+  "createdAt": "2025-11-03T23:05:09.047Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

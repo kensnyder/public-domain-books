@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.11",
+  "briefOverview": "Rehoboam is divinely forbidden to wage war against the northern kingdom, then consolidates Judah by fortifying cities, receiving priests and faithful Israelites, and organizing his household and succession.",
+  "summary": "Rehoboam assembles 180,000 warriors to fight Israel, but God, speaking through the prophet Shemaiah, orders him not to attack his brethren; Rehoboam obeys and returns to Jerusalem. He fortifies numerous cities in Judah and Benjamin, outfits them with supplies and arms, and stations captains in strongholds. Levites, priests, and Israelites who sought the LORD abandon the northern regime—where Jeroboam had set up non‑Levitical priests and golden calves—and come to Jerusalem to serve, strengthening Rehoboam's rule for three years as they 'walked in the way of David and Solomon.' The chapter closes with Rehoboam's marriages and many children, his favoring of Maachah and elevation of Abijah, and his dispersal of sons to fortified cities with provisions.",
+  "externalContext": "This chapter belongs to the early period of the divided monarchy after Solomon's reign, when the united kingdom split into Judah (south) and Israel (north). In that context, control over religious cultic practice and the priesthood was a key source of political legitimacy. Prophetic figures like Shemaiah functioned as intermediaries for divine commands that could constrain royal policies. The narrative reflects chronicler interests in temple worship, Levitical service, and dynastic stability.",
+  "externalReferences": "The account parallels and complements the story of the division and Jeroboam's religious reforms in 1 Kings 12:21–33, which records Jeroboam's establishment of priests for the high places and the making of calves at Bethel and Dan. The instruction not to fight 'for this thing is done of me' echoes the prophetic interventions that shape Israelite kingship elsewhere (compare 1 Kings 12:22–24). The theme of centralizing worship at Jerusalem resonates with Deuteronomy's emphasis on a single cultic center (e.g., Deuteronomy 12:5–14).",
+  "seeAlso": [
+    "1 Kings 12:21-24",
+    "1 Kings 12:25-33",
+    "2 Chronicles 10:1-19",
+    "2 Chronicles 12:1-12",
+    "Deuteronomy 12:5-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Divine Prohibition"
+    },
+    {
+      "range": "5-17",
+      "title": "Fortifying Judah and Return"
+    },
+    {
+      "range": "18-23",
+      "title": "Household and Succession"
+    }
+  ],
+  "themes": [
+    "Divine authority",
+    "Religious centralization",
+    "Defense and governance",
+    "Dynasty"
+  ],
+  "practicalQuestions": [
+    "When should political leaders accept restraint on military or political action on moral or religious grounds?",
+    "How do communities decide where and how to practice shared religious commitments when political borders change?",
+    "What responsibilities do religious leaders have when political rulers establish alternative religious structures?",
+    "How can family and succession policies in leadership promote stability without encouraging nepotism?"
+  ],
+  "uncertainAreas": "The text leaves open how much popular allegiance versus religious conviction motivated the migration to Judah. The exact nature and authority of Shemaiah's prophecy (e.g., whether it was widely accepted as definitive) is not detailed. The moral evaluation of Rehoboam's many marriages is implied but not expounded; the chronicler's perspective favors centralized worship and stability, which may shape what details are emphasized.",
+  "createdAt": "2025-11-03T19:22:12.000Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.92",
+  "briefOverview": "A song of thanksgiving and praise that contrasts the fate of the wicked with the flourishing of the righteous and affirms God's faithfulness and justice.",
+  "summary": "The psalm opens with calls to thankfulness and praise, to declare God's lovingkindness in the morning and faithfulness at night, accompanied by musical instruments. The speaker credits God’s works for personal gladness and extols the depth of God's deeds and thoughts, which the 'brutish' and 'fool' do not understand. The poem contrasts the temporary success of the wicked with their ultimate destruction, while affirming God's eternal exaltation and the scattering of his enemies. The psalmist anticipates personal vindication—an exalted 'horn' and anointing with fresh oil—and concludes by portraying the righteous as flourishing trees, planted in the house of the LORD, bearing fruit even in old age as proof of God's uprightness.",
+  "externalContext": "This psalm is part of the Hebrew Bible's wisdom and worship literature and is traditionally associated with temple or communal worship (some manuscripts and traditions label it a song for the Sabbath). Hebrew poetic convention often uses parallelism and nature imagery (trees, cedars, palm) to depict moral and spiritual conditions. Agricultural and courtly imagery such as 'horn' and 'anointing with oil' would be familiar to ancient Israelite audiences as symbols of strength, honor, and consecration.",
+  "externalReferences": "The contrast between the flourishing appearance of the wicked and their eventual downfall recalls Psalm 37, where the apparent prosperity of the wicked is temporary and they perish (see Psalm 37:35–36). The image of the righteous as a well-rooted, fruit-bearing tree parallels Psalm 1:1–3 and Jeremiah 17:7–8, which use planted/river imagery to describe the stability and fruitfulness of the righteous. Language about being anointed and having one's 'horn' exalted echoes royal and priestly motifs elsewhere in the Psalter and the Hebrew Bible (e.g., symbolic anointing in 1 Samuel and elsewhere).",
+  "seeAlso": [
+    "Psalm 1:1-3",
+    "Psalm 37:35-36",
+    "Jeremiah 17:7-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Opening Praise and Worship"
+    },
+    {
+      "range": "5-11",
+      "title": "Contrast: Wicked and Vindication"
+    },
+    {
+      "range": "12-15",
+      "title": "Righteous Flourishing"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Divine Faithfulness",
+    "Justice",
+    "Righteous Flourishing"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate regular, daily practices of praise similar to 'morning' and 'night' thanksgiving in my own life?",
+    "When I see injustice or the apparent success of the wicked, how does this psalm guide my response and hope for divine justice?",
+    "What does it mean today to be 'planted in the house of the LORD,' and how can communities nurture long-term spiritual fruitfulness?",
+    "In what ways might 'anointing with fresh oil' be understood as spiritual renewal rather than only a literal or ceremonial act?"
+  ],
+  "uncertainAreas": "Uncertainty exists about some specific terms and settings: the superscription identifying the psalm as for the Sabbath is part of manuscript tradition but not present in the provided text; the Hebrew word rendered 'unicorn' (re'em) likely refers to a wild ox or strong horned animal, affecting interpretation of the 'horn' image; and whether references to anointing are primarily royal, priestly, or personal metaphors is open to interpretive variation.",
+  "createdAt": "2025-11-03T22:06:51.210Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

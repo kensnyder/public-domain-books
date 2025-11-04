@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Song.6",
+  "briefOverview": "A lover-search and celebratory praise of the Shulamite’s beauty and uniqueness, using garden and military imagery.",
+  "summary": "The speakers search for the beloved, who is found in his garden among spices and lilies, and the lovers affirm mutual belonging (vv.1–3). The man praises the woman with powerful similes—comparing her to Tirzah and Jerusalem and describing her hair, teeth, and temples with pastoral and ornamental imagery (vv.4–7). A contrast is drawn between many queens and concubines and the beloved, who is singled out as the one, undefiled and chosen (vv.8–9). Rhetorical questions celebrate her radiant appearance “as the morning, fair as the moon, clear as the sun” and again as formidable “as an army with banners” (v.10). The narrator reports going into the garden to observe its fruit, experiences an emotional or spiritual rush likened to chariots of Amminadib, and urges the Shulamite to return so all may behold her like an imposing host (vv.11–13).",
+  "externalContext": "Song of Songs is typically dated to the first millennium BCE and belongs to ancient Near Eastern lyric love poetry, a genre that often uses garden, animal, and royal imagery. References to Tirzah and Jerusalem invoke recognized cities (Tirzah associated with the northern kingdom and Jerusalem with the south), and the lists of queens and concubines echo the milieu of royal courts and polygynous households familiar in the ancient Levant. Some proper names and phrases (e.g., Amminadib/Amminadab, chariots) are debated among scholars and may reflect clan names, tribal titles, or poetic stock expressions.",
+  "externalReferences": "The mutual declaration “I am my beloved’s, and my beloved is mine” appears earlier in Song 2:16, showing the poem’s recurring emphasis on mutual belonging. Garden imagery and the motif of an enclosed, fruitful garden occur elsewhere in the book (e.g., Song 4:12; 4:16), forming a consistent setting for courtship. The mention of many queens and concubines resonates with descriptions of royal harems in historical texts (compare 1 Kings 11:3 regarding Solomon’s many wives and concubines), which the poem uses to heighten the beloved’s singular status.",
+  "seeAlso": [
+    "Song of Solomon 2:16",
+    "Song of Solomon 4:12-16",
+    "1 Kings 11:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Search and Mutual Belonging"
+    },
+    {
+      "range": "4-9",
+      "title": "Praise and Exclusivity"
+    },
+    {
+      "range": "10-13",
+      "title": "Garden Vision and Invitation"
+    }
+  ],
+  "themes": [
+    "Love",
+    "Beauty",
+    "Exclusivity",
+    "Nature"
+  ],
+  "practicalQuestions": [
+    "How can we express admiration for a partner in ways that honor their dignity rather than objectify them?",
+    "What does it mean today to belong to one another in committed relationship, and how does that interact with broader social roles or rivalries?",
+    "In what ways can natural imagery (gardens, animals, seasons) help us speak of emotional or spiritual experience in contemporary relationships?",
+    "How should communities respond when a relationship is publicly celebrated in ways that set one person apart from others?"
+  ],
+  "uncertainAreas": "The identity and precise meaning of 'Amminadib' (or Amminadab) and the phrase 'my soul made me like the chariots of Amminadib' are uncertain—scholars variously read it as a clan name, a poetic trope, or a reference to swiftness/exaltation. The speaker shifts and some metaphors (e.g., 'terrible as an army with banners') admit both erotic and quasi-military meanings, leaving room for multiple interpretations about tone and social context.",
+  "createdAt": "2025-11-03T22:58:21.276Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

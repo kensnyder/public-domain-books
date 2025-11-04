@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Prov.23",
+  "briefOverview": "A collection of practical wisdom sayings on table manners, wealth, self-control, parental instruction, and the dangers of sexual and alcoholic temptations.",
+  "summary": "The chapter opens with cautions about eating with a powerful host and the fleeting nature of wealth, advising restraint and wariness of flattering hospitality. It warns against removing property markers and exploiting orphans, urging attention to instruction and the disciplined upbringing of children (including corporal correction in the text's terms). The writer counsels against envy of sinners, continual fear of the Lord, and the excesses of drink and gluttony, linking these behaviors to poverty and shame. Filial respect and the purchase of truth and wisdom are commended, with parental joy tied to a child's right speech and wise heart. The chapter closes with vivid warnings about the seductive “strange woman” and the combined snare of sexual temptation and wine, pictured as leading to ruin and repetition despite suffering.",
+  "externalContext": "Proverbs belongs to the ancient Near Eastern wisdom tradition and likely circulated in Israelite schooling and households from the monarchic period onward; its short, pithy sayings address everyday social and moral choices. Concerns about landmarks and orphans reflect legal and social realities in agrarian societies where property boundaries and vulnerable kin required protection. Some instructions (e.g., corporal punishment, metaphors like 'knife to thy throat') are idiomatic or hyperbolic in Hebrew and reflect cultural norms different from many modern contexts.",
+  "externalReferences": "The prohibition against removing a landmark echoes Deuteronomy 19:14, which enjoins protection of property boundaries. The extended warnings about the adulterous or 'strange' woman resonate with other Proverbs passages that portray sexual seduction as dangerous (e.g., Proverbs 5:3–14; 7:6–27). The emphasis on training children parallels Proverbs 22:6 and other wisdom material urging parental instruction and discipline.",
+  "seeAlso": [
+    "Deuteronomy 19:14",
+    "Proverbs 5:3-14",
+    "Proverbs 7:6-27",
+    "Proverbs 22:6",
+    "Proverbs 4:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Table and Wealth Warnings"
+    },
+    {
+      "range": "9-26",
+      "title": "Instruction, Family, Discipline"
+    },
+    {
+      "range": "27-35",
+      "title": "Temptation: Woman and Wine"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Self-control",
+    "Parental discipline",
+    "Temptation"
+  ],
+  "practicalQuestions": [
+    "When facing flattering offers from powerful people today, how should I balance courtesy with prudent restraint?",
+    "How should modern families interpret and apply the chapter's guidance about disciplining children?",
+    "What practical steps can help prevent addiction to alcohol or overeating in contemporary life?",
+    "How can one guard against seductive or exploitative relationships while avoiding shaming language?"
+  ],
+  "uncertainAreas": "Translation and interpretation issues: phrases like 'put a knife to thy throat,' 'deliver his soul from hell,' and 'evil eye' are potentially idiomatic or culturally specific and may not map directly onto modern meanings. The text's endorsement of corporal punishment raises questions about appropriate contemporary application; I noted these uncertainties rather than presuming a single interpretation.",
+  "createdAt": "2025-11-03T22:45:03.539Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

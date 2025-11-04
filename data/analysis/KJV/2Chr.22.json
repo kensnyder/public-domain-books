@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "2Chr.22",
+  "briefOverview": "This chapter recounts the short, ill-fated reign of Ahaziah of Judah, his death in the sweep of Jehu’s purge, and Athaliah’s violent usurpation while Joash is secretly preserved in the temple.",
+  "summary": "Ahaziah, aged forty-two, succeeds his father Jehoram but reigns only one year and follows the corrupt ways of the house of Ahab under the influence of his mother Athaliah. He is wounded in the campaign against Syria and goes to Jezreel, where his involvement with Jehoram of Israel brings him into contact with Jehu, whom the LORD has anointed to destroy Ahab’s house. Jehu’s purge leads to the killing of Ahaziah after he is captured in Samaria; his body is buried because of his descent from Jehoshaphat. On seeing her son dead, Athaliah kills the remaining royal offspring to secure the throne. Jehoshabeath, daughter of the king and wife of the priest Jehoiada, rescues Joash (the infant son of Ahaziah) and hides him in the temple for six years while Athaliah rules.",
+  "externalContext": "Chronicles was composed well after the events it narrates (commonly dated to the post-exilic period) and often interprets Israel’s history with special attention to the Davidic line, the temple, and the priesthood. Intermarriage between Judah and the Omride dynasty of Israel (Athaliah is called daughter of Omri) reflects the political alliances and cultural-religious influence between the northern and southern kingdoms in the 9th century BCE. Sanctuary spaces and priests frequently serve in Chronicles as places and agents of preservation for the Davidic line and covenant continuity.",
+  "externalReferences": "The anointing of Jehu and his violent purge of Ahab’s house is narrated in 2 Kings 9–10, which gives fuller detail about Jehu’s commission and actions. The story of Athaliah’s slaughter of the royal seed and Joash’s concealment and later enthronement is expanded in 2 Kings 11:1–3 and then 2 Chronicles 23:1–11 recounts the restoration of Joash with the support of Jehoiada the priest. Background on the Omride dynasty and Ahab’s influence appears in 1 Kings 16:25–33 and 1 Kings 21 regarding the religious/political character of that house.",
+  "seeAlso": [
+    "2 Kings 9:1-10:36",
+    "2 Kings 11:1-3",
+    "2 Chronicles 23:1-11",
+    "1 Kings 16:25-33",
+    "1 Kings 21:1-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Ahaziah's Brief Reign"
+    },
+    {
+      "range": "10-12",
+      "title": "Athaliah's Massacre and Joash Hidden"
+    }
+  ],
+  "themes": [
+    "Dynastic violence",
+    "Royal succession",
+    "Apostasy",
+    "Sanctuary refuge"
+  ],
+  "practicalQuestions": [
+    "How should religious communities respond when political power is used to eliminate rivals or marginalized groups?",
+    "What safeguards can prevent family or political networks from directing leaders into harmful policies or idolatrous practices?",
+    "In what ways can religious institutions act as sanctuaries for the vulnerable today, and what responsibilities does that impose?",
+    "How do we discern and resist the influence of counselors or advisors who encourage unethical actions?"
+  ],
+  "uncertainAreas": "The text’s use of the name “Azariah” (v.6) is unusual here and may reflect a variant or editorial compression; I was uncertain about some minor name/identification issues. Chronicles compresses and theologically shapes material also found in Kings, so precise historical sequence and motive details (e.g., full reasons for the burial in v.9) are somewhat abbreviated compared with the parallel accounts.",
+  "createdAt": "2025-11-03T19:27:55.997Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

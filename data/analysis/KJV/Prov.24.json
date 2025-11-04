@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Prov.24",
+  "briefOverview": "A collection of practical maxims that contrast the ways of wisdom and folly, urging right conduct toward the wicked, neighbors, leaders, and one’s own work life.",
+  "summary": "The chapter opens with warnings not to envy wicked people and emphasizes that their plans lead to destruction. It affirms the household and personal strength that come through wisdom, understanding, and counsel, and it insists on moral responsibility to rescue the vulnerable while noting God observes hearts and will repay according to deeds. The text praises the reward of finding wisdom, forbids rejoicing at an enemy’s fall, and warns against envying the wicked whose prosperity is fleeting. It counsels respect for God and the ruler, impartiality in judgment, and commends rebuking the wicked while condemning false witnesses. The closing verses urge practical planning before building, condemn laziness by describing an overgrown neglected field, and warn that slight sloth leads to sudden poverty.",
+  "externalContext": "Proverbs belongs to the wisdom literature of ancient Israel and reflects household and communal instruction common in Near Eastern sapiential traditions. The sayings presume a social order with kings, city gates as places of judgment, and agricultural livelihoods; many admonitions address judges, neighbors, and household heads. The repeated contrasts between the righteous and the wicked, and the appeal to divine oversight, reflect an early belief in moral recompense within the community and before God.",
+  "externalReferences": "The theme 'fear the LORD' echoes the foundational proverb of wisdom literature, e.g., Proverbs 1:7, which frames wisdom as beginning with reverent trust in God. The counsel in favor of many advisers parallels Proverbs 11:14's similar affirmation that abundance of counselors brings safety. The depiction of wisdom as sweet and rewarding connects with Proverbs 3:13–18, which also presents wisdom's benefits and delights.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 11:14",
+    "Proverbs 3:13-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Warnings and Responsibility"
+    },
+    {
+      "range": "13-22",
+      "title": "Value of Wisdom"
+    },
+    {
+      "range": "23-34",
+      "title": "Justice, Work, Sloth"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Righteousness",
+    "Justice",
+    "Diligence"
+  ],
+  "practicalQuestions": [
+    "When I encounter someone who prospers by wrongdoing, how should I respond without envy while upholding justice?",
+    "What concrete steps can I take now to 'prepare my work without' before making major commitments?",
+    "How does the admonition to rescue the vulnerable shape my responsibilities toward others in danger or need?",
+    "In what ways can I cultivate counsel and avoid isolation when facing important decisions?"
+  ],
+  "uncertainAreas": "Some verses are pithy and open to interpretation: the precise meaning of verse 18 (who is angered or appeased) is ambiguous; verse 11–12 raises questions about communal responsibility versus individual ignorance; verse 26's 'kiss his lips' may reflect an ancient gesture of approval whose social nuance is uncertain. Determining whether certain sayings are proverbial hyperbole (e.g., 'seven times') or literal prescriptions is also interpretive.",
+  "createdAt": "2025-11-03T22:45:28.109Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

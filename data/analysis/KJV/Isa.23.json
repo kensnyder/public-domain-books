@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Isa.23",
+  "briefOverview": "A prophetic oracle announcing the downfall of the Phoenician port city Tyre—its maritime commerce humbled by the LORD—and a later recovery after a seventy-year interval that ends in renewed commercial activity described in ambiguous, ritual terms.",
+  "summary": "The chapter pronounces 'the burden of Tyre': ships and island inhabitants are called to mourn because Tyre's trade and strength will be devastated. The city long famed for merchants and princes will be humbled by a divine purpose that shakes kingdoms and destroys its strongholds. The prophet links Tyre's fate to other maritime centers (Tarshish, Zidon, Chittim) and compares the shock to reports about Egypt. Verses 13–15 recount Tyre's ruin and predict a period of being forgotten for seventy years under 'one king.' After that period the city will return to commercial activity, described with provocative language—Tyre 'shall sing as a harlot' and her merchandise 'shall be holiness to the LORD'—suggesting both resumed trade and a consecrated or redirected use of its goods.",
+  "externalContext": "Tyre was a major Phoenician port-city whose wealth derived from long-distance maritime trade; ancient commentators and archaeologists identify Tarshish with distant western ports (possibly Tartessos or other western Mediterranean locales), while Chittim commonly refers to Cyprus. Prophetic oracles against powerful trading cities were a common prophetic theme in the prophetic books. The motif of 'seventy years' later becomes prominent in Jeremiah (Jeremiah 25:11–12; 29:10) as the length of Babylonian domination and exile, and later interpreters often link such periods with the end of foreign subjugation and restoration.",
+  "externalReferences": "The prediction of a seventy-year interval resonates with Jeremiah 25:11–12 and 29:10, where a seventy-year period is given for Babylonian exile and the time of return. The theme of divine judgment against Tyre and the vivid maritime imagery is echoed and expanded in Ezekiel 26–27, which also prophesies Tyre's siege, destruction, and the lament of seafaring nations.\n\nIsaiah's language about merchant princes and the city's pride parallels other prophetic critiques of economic power (e.g., Amos 8:4–6) and of cities being 'forgotten' then later restored (cf. Jeremiah's oracles concerning ruined towns), though the exact formulas and imagery are distinct in each book.",
+  "seeAlso": [
+    "Jeremiah 25:11-12",
+    "Ezekiel 26:1-21",
+    "Ezekiel 27:1-36",
+    "Amos 8:4-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Oracle of Destruction"
+    },
+    {
+      "range": "13-18",
+      "title": "Aftermath and Seventy Years"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Commerce",
+    "Divine sovereignty",
+    "Exile/Restoration"
+  ],
+  "practicalQuestions": [
+    "How should communities whose identity centers on wealth and trade respond to prophetic critiques of pride and dependence on commerce?",
+    "What lessons about the limits of political and economic power does this oracle offer for leaders and merchants today?",
+    "How do we interpret periods of disaster and later recovery—should restoration be read simply as material recovery or also as moral/spiritual reorientation?",
+    "In what ways might goods and resources be redirected toward sacred or public purposes as implied by 'merchandise... holiness to the LORD'?"
+  ],
+  "uncertainAreas": "Identification of some place-names (Tarshish, Chittim) is uncertain and debated; the reference to 'seventy years' may be literal or symbolic and its precise historical anchoring is unclear; verse 18's claim that Tyre's merchandise 'shall be holiness to the LORD' admits multiple readings (consecration of goods, tribute for worship, or redistribution to the temple/people) and the text does not make the mechanism explicit.",
+  "createdAt": "2025-11-03T23:12:18.147Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

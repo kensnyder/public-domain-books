@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Esth.6",
+  "briefOverview": "A sleepless king learns of Mordecai's past loyalty, leading to an ironic reversal: Mordecai is publicly honored while Haman is humiliated and summoned to Esther's banquet.",
+  "summary": "The king cannot sleep and orders the royal chronicles read, discovering that Mordecai had earlier exposed an assassination plot. The king asks why Mordecai has not been rewarded, and at that moment Haman arrives intending to ask permission to execute Mordecai. The king asks Haman what should be done for a man the king wishes to honor; assuming the king means him, Haman proposes a lavish public honor. The king commands Haman to carry out that exact honor for Mordecai, who is then paraded through the city in royal apparel. Haman returns home disgraced; his wife and advisers warn that if Mordecai is Jewish, Haman will surely fall before him. While they speak, the king’s chamberlains arrive to escort Haman to Esther’s banquet, advancing the narrative toward Haman’s undoing.",
+  "externalContext": "The narrative reflects Persian court life under an Achaemenid king (Ahasuerus is commonly identified with Xerxes I in scholarly discussion), where royal archives and chronicles were kept and public displays of honor — royal robes, mounting on a horse, and parading through the city — marked official favor. Court protocol and the role of courtiers and chamberlains shaped how petitions and honors were publicly arranged in that setting. The book of Esther as a whole is set in the Persian imperial administration and uses its formalities as a stage for political and personal reversals.",
+  "externalReferences": "This chapter connects directly to earlier material: Mordecai’s exposure of the assassination plot is narrated in Esther 2:21–23, which explains why the chronicles contain the record. Haman’s plan to hang Mordecai is set up in Esther 5:14 and comes to fruition as a threatened doom later in the story (cf. Esther 7:9–10). The scene of a favored man given royal garments and a public procession echoes Joseph’s elevation in Genesis 41:41–43, suggesting a thematic biblical motif of humiliation-to-honor reversals.",
+  "seeAlso": [
+    "Esther 2:21-23",
+    "Esther 5:14",
+    "Esther 7:9-10",
+    "Genesis 41:41-43"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Discovery and Honor"
+    },
+    {
+      "range": "12-14",
+      "title": "Haman's Humiliation"
+    }
+  ],
+  "themes": [
+    "Reversal",
+    "Honor",
+    "Humiliation",
+    "Providence"
+  ],
+  "practicalQuestions": [
+    "How should we respond when someone who helped us is overlooked or unrewarded?",
+    "What safeguards can prevent pride when we expect honor or recognition?",
+    "How can institutions ensure that loyalty and service are properly acknowledged?",
+    "When facing apparent setbacks, how can we interpret the possibility of future reversal or vindication?"
+  ],
+  "uncertainAreas": "Uncertainty about whether the narrative intends an explicit theological claim (divine providence) since God is not named; some details of Persian court ritual and the king’s motives (e.g., whether his sleeplessness is providential) are not fully explained in the text.",
+  "createdAt": "2025-11-03T19:48:59.160Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

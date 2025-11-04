@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.101",
+  "briefOverview": "A royal vow to live and lead with moral integrity, rejecting wickedness from the ruler’s household and realm.",
+  "summary": "The speaker opens with a pledge to sing of mercy and judgment and expresses a personal commitment to live wisely and blamelessly within his household. He vows to avoid anything wicked, to banish a perverse heart, and not to tolerate those who slander, are arrogant, deceitful, or dishonest. The speaker promises to watch over the faithful and to ensure that those who walk rightly will serve with him. The psalm closes with an oath to purge the land and the city of the LORD of wicked doers.",
+  "externalContext": "Psalm 101 is commonly classed among the royal psalms: a statement by a king about personal conduct and the ordering of his court. In the ancient Near Eastern and Israelite context, the ruler’s private behavior and household governance were closely tied to public justice and the well-being of the community. References to the \"city of the LORD\" point to Jerusalem as the cultic and political center where justice and ritual purity were expected to be upheld.",
+  "externalReferences": "The concern with who may dwell with God or serve in his house resonates with Psalm 15:1–5 and Psalm 26, which describe the characteristics of the righteous who may stand in the sanctuary. The theme of a leader purging wicked officials and protecting the faithful recalls prophetic critiques and standards for rulers (contrast with Micah 3:9–12, which condemns corrupt leaders) and the Deuteronomic emphasis on just leadership (e.g., Deuteronomy 16:18–20).",
+  "seeAlso": [
+    "Psalm 15:1-5",
+    "Psalm 26:1-12",
+    "Micah 3:9-12",
+    "Deuteronomy 16:18-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Intent and Resolve"
+    },
+    {
+      "range": "3-7",
+      "title": "Personal Vows of Integrity"
+    },
+    {
+      "range": "8-8",
+      "title": "Purge of the Wicked"
+    }
+  ],
+  "themes": [
+    "Righteous leadership",
+    "Integrity",
+    "Justice",
+    "Community purity"
+  ],
+  "practicalQuestions": [
+    "What concrete practices can leaders adopt today to demonstrate the integrity described in this psalm?",
+    "How should a community balance mercy and judgment when dealing with members who sin or spread slander?",
+    "What boundaries are appropriate for including or excluding people from positions of responsibility based on moral conduct?",
+    "How can individuals cultivate the inner attitudes (e.g., humility, truthfulness) the speaker vows to uphold?"
+  ],
+  "uncertainAreas": "The text does not explicitly identify the speaker (though tradition often reads it as a king/Davidic psalm). The meaning of terms like \"perfect\" (Hebrew 'tamim') and the scope of \"cut off\" (disciplinary, legal, or lethal) are somewhat ambiguous and have been variously interpreted.",
+  "createdAt": "2025-11-03T22:10:52.159Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

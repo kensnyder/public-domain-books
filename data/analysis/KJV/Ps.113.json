@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.113",
+  "briefOverview": "A short hymn calling servants and all people to praise Yahweh, emphasizing God's exalted majesty and his compassionate care for the lowly.",
+  "summary": "The psalm opens with an imperative to praise the LORD, addressed to \"servants of the LORD,\" and declares that God's name is blessed forever. It calls for praise from sunrise to sunset and proclaims God's supreme status above nations and the heavens. Despite God's transcendence, the poem affirms that he stoops to observe heaven and earth and acts to lift the poor and needy from humiliation to honor. The psalm concludes by celebrating God's reversal of fortunes—making the barren a joyful mother—and reiterates the call to praise the LORD.",
+  "externalContext": "Psalm 113 is part of the six short psalms (113–118) commonly known as the Hallel, which were (and are) used in Jewish festival worship and liturgy. The language reflects Hebrew poetic techniques (parallelism, compact imagery) and a common biblical motif that pairs divine exaltation with attention to the marginalized.",
+  "externalReferences": "The theme of God who is high yet looks down to lift the lowly echoes Isaiah 66:1–2, where the high God also values the contrite and humble. The Magnificat (Luke 1:46–55) in the New Testament closely parallels this psalm's motifs—God scattering the proud and exalting the humble—suggesting shared theological language about reversal and divine mercy. Psalm 113 is traditionally paired with Psalms 114–118 as the Hallel, a liturgical cluster that celebrates God's saving acts and praise.",
+  "seeAlso": [
+    "Luke 1:46-55",
+    "Isaiah 66:1-2",
+    "Psalms 114-118"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Universal Call to Praise"
+    },
+    {
+      "range": "4-6",
+      "title": "Transcendence and Regard"
+    },
+    {
+      "range": "7-9",
+      "title": "Uplifting the Lowly"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Divine transcendence",
+    "Compassion",
+    "Reversal of fortunes"
+  ],
+  "practicalQuestions": [
+    "How can contemporary worship communities embody the psalm's call to praise 'from the rising of the sun unto the going down' in everyday life?",
+    "In what concrete ways can individuals and congregations 'lift up' those who are marginalized, reflecting the psalm's concern for the poor and needy?",
+    "How does the image of a God who is both exalted and attentive shape our understanding of power and humility in public life?",
+    "What meaning might the promise to 'make the barren a joyful mother' have for how communities support those who are excluded or grieving?"
+  ],
+  "uncertainAreas": "Dating and original liturgical setting beyond its association with Hallel are not fixed by the text itself. The identity of the addressed “servants of the LORD” (priests, temple singers, or the faithful generally) is ambiguous. Some images (e.g., \"dunghill\" or the treatment of barrenness) admit both literal and metaphorical readings depending on context and translation.",
+  "createdAt": "2025-11-03T22:16:53.759Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

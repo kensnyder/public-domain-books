@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Prov.28",
+  "briefOverview": "A collection of wisdom sayings contrasting the conduct and consequences of the righteous and the wicked, with repeated concern for justice, integrity, and the treatment of the poor.",
+  "summary": "The chapter pairs short, gnomic statements that contrast the boldness and security of the righteous with the fear, downfall, or social harm produced by the wicked. It links social stability to wise and understanding leadership and condemns oppression, unjust gain, and favoritism. Several verses commend honesty, confession of sin, generosity to the poor, and trust in the LORD as paths to blessing, while warning that deceit, haste for wealth, and turning from divine instruction bring ruin. The text also portrays the social effects of leadership—wicked rulers oppress and hide the people, whereas righteous governance brings rejoicing and safety.",
+  "externalContext": "Proverbs belongs to the Hebrew wisdom tradition and reflects sayings circulated in ancient Israelite society (traditionally associated with Solomon) that were later collected and edited. Its concerns—honest scales, usury, respect of persons, and royal justice—reflect realities of an agrarian, hierarchical society with kings, landowners, and patron-client relations. Wisdom literature often uses antithetical parallelism (contrasting lines) and short, memorable maxims intended for moral instruction and social cohesion.",
+  "externalReferences": "The chapter’s emphasis on 'the fear of the LORD' and the value of wisdom resonates with Proverbs 1:7, which identifies fear of the LORD as the beginning of knowledge. The critique of partiality and favoritism recalls James 2:1–9, which condemns showing special favor to the rich, and echoes other proverbs about justice (e.g., Proverbs 11:1 on honest scales). The theme of God’s care for the poor and warnings about the corrupting pursuit of wealth find parallels in Luke 6:20 (blessings on the poor) and in broader prophetic calls for social justice (cf. Isaiah’s critiques of oppression).",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 11:1",
+    "Proverbs 22:2",
+    "James 2:1-9",
+    "Luke 6:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Righteousness and Society"
+    },
+    {
+      "range": "12-21",
+      "title": "Leadership and Wealth"
+    },
+    {
+      "range": "22-28",
+      "title": "Justice, Mercy, Vindication"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Integrity",
+    "Wealth and Poverty",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "How do I balance ambition with ethical restraint so that pursuit of wealth does not lead to injustice?",
+    "In what concrete ways can my community resist favoritism and ensure fair treatment for the poor and vulnerable?",
+    "How should I respond when leaders act oppressively—what forms of faithful witness or correction are appropriate?",
+    "Do I conceal my faults or confess and amend them, and what steps can I take toward genuine repentance?"
+  ],
+  "uncertainAreas": "Attribution and dating: Proverbs is a collected book of short sayings, so it’s unclear when individual proverbs originated or whether they reflect one author’s viewpoint. Some metaphors (e.g., 'shall be made fat') and legal images (e.g., usury, \"gather it for him that will pity the poor\") have nuances in the ancient Near Eastern context that can admit multiple readings about economic practices and social rescue.",
+  "createdAt": "2025-11-03T22:47:02.610Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

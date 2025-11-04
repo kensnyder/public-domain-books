@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "2Chr.25",
+  "briefOverview": "Amaziah's reign features military success undermined by religious compromise and political misjudgment, leading to defeat and assassination.",
+  "summary": "Amaziah becomes king of Judah at twenty-five, executes his father's killers in accordance with Mosaic law, and raises a large army, including hiring 100,000 mercenaries from Israel. A prophet warns him not to take Israel's troops because the LORD is not with Israel; Amaziah sends them away and then defeats the Edomites at the Valley of Salt, killing and casting down many prisoners. After the victory he adopts the defeated people's gods and is rebuked by a prophet, who predicts ruin; Amaziah threatens the prophet. He challenges Joash king of Israel, ignores Joash's warning, and is defeated—Jerusalem's wall is breached and temple and royal treasures are plundered. Later conspirators kill Amaziah after he turns away from following the LORD, and he is buried in Judah.",
+  "externalContext": "2 Chronicles is part of the post-exilic historiographical books that interpret Israelite history through themes of covenant fidelity and temple worship; its accounts often parallel but sometimes reshape material found in Kings. In the divided monarchy period (after Solomon), Judah (south) and Israel (north) were separate states whose kings sometimes allied or fought; hiring mercenary troops and seizing foreign cultic objects were not uncommon political acts with religious implications.",
+  "externalReferences": "The law cited about fathers and children echoes Deuteronomy 24:16, which states that parents shall not die for their children but each will die for his own sin. This episode corresponds closely to the parallel account in 2 Kings 14:8–22, where Joash of Israel and Amaziah of Judah likewise clash and Jerusalem is plundered.",
+  "seeAlso": [
+    "Deuteronomy 24:16",
+    "2 Kings 14:8-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Accession and Army"
+    },
+    {
+      "range": "7-13",
+      "title": "Warning and Edom Victory"
+    },
+    {
+      "range": "14-24",
+      "title": "Idolatry, Reproof, Defeat"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Idolatry",
+    "Prophetic rebuke",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "How should leaders respond when military or political success tempts them to compromise core religious or ethical commitments?",
+    "When a trusted advisor warns against a course of action, how can individuals discern whether to heed that counsel?",
+    "What safeguards can communities put in place so that victory does not lead to cultural appropriation or idolization of conquered peoples?",
+    "How do we hold leaders accountable for actions that harm communal worship spaces or public trust?"
+  ],
+  "uncertainAreas": "The text does not explain Amaziah's full motives for hiring Israelite mercenaries or for adopting Seirite gods after victory; the precise nature of the 'gods of Seir' and whether Amaziah's idolatry was syncretism or political pragmatism is unclear. Chronological details and some figure-numbers (e.g., exact troop counts) may reflect rhetorical or traditional reporting rather than precise historical data.",
+  "createdAt": "2025-11-03T19:29:33.156Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

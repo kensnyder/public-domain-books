@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Isa.33",
+  "briefOverview": "Isaiah 33 juxtaposes a judgment oracle against oppressors with promises of deliverance and secure life for the righteous in Zion.",
+  "summary": "The chapter begins with a woe against those who plunder without fear of retribution and a communal plea for the LORD’s help. Isaiah describes the scattering and ruin of the nations and the gathering of their spoil, portraying God as exalted and as establishing judgment and righteousness in Zion. Graphic images of fire and destruction warn the wicked, while a moral test is set out: the one who lives righteously and rejects oppression will dwell on high and have sustenance and safety. The vision continues with scenes of seeing 'the king in his beauty' and the removal of foreign threats, concluding with Zion presented as a peaceful, secure habitation where the LORD rules as judge, lawgiver, and king and the people’s iniquity is forgiven.",
+  "externalContext": "Isaiah is generally placed in the 8th century BCE and addresses a Judah threatened by expanding imperial powers (notably Assyria). Prophetic oracles of this period commonly combine immediate political judgment with theological reinterpretations that present divine sovereignty as the ultimate arbiter of history. Themes such as social justice, refusal of bribery, and care for the vulnerable reflect concerns about internal corruption as well as external military danger.",
+  "externalReferences": "The ethical demands (rejecting ill-gotten gain, refusing bribes, shutting eyes to evil) echo earlier prophetic calls to justice such as Isaiah 1:16–17. The motif of terror and people hiding from the Lord’s terrifying day resembles material in Isaiah 2:10–21 that describes humans seeking refuge from divine judgment. The image of good news to the mountains and the celebration of salvation resonates with later Zion-language in Isaiah 52:7–10 about proclamation and God’s saving acts.",
+  "seeAlso": [
+    "Isaiah 1:16-17",
+    "Isaiah 2:10-21",
+    "Isaiah 52:7-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Woe and Petition"
+    },
+    {
+      "range": "7-12",
+      "title": "Judgment Imagery"
+    },
+    {
+      "range": "13-24",
+      "title": "Righteousness and Zion's Promise"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Salvation",
+    "Righteousness",
+    "Zion security"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways can a community 'despise the gain of oppressions' today (cf. v15)?",
+    "How should the promise of divine protection shape responses to political or social fear?",
+    "What practices help ensure that religious trust is paired with ethical conduct as Isaiah requires?",
+    "How can the language of forgiveness and restored security inform pastoral care for those recovering from violence or exile?"
+  ],
+  "uncertainAreas": "The identity of the enemy (e.g., Assyria or a later coalition) is not explicit in the chapter, and it is unclear whether some promises are meant as immediate historical consolation or as longer-term/eschatological hope. The phrase 'the king in his beauty' is ambiguous—possibly a divine, royal, or messianic figure—and the text does not fix a single referent.",
+  "createdAt": "2025-11-03T23:17:35.563Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

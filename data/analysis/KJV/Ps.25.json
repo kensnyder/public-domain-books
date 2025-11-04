@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.25",
+  "briefOverview": "A penitential prayer asking God for guidance, forgiveness, and rescue, grounded in trust in God's mercy and covenant faithfulness.",
+  "summary": "The speaker commits their soul to the LORD and expresses confident trust, asking not to be put to shame or overrun by enemies. They request instruction and guidance in God's ways and truth, appealing to God's saving character and longstanding mercies. The psalmist seeks forgiveness for past sins, protection for the meek and faithful, and promises that those who fear the LORD will receive teaching and inheritance. Personal distress and a plea for deliverance recur, and the prayer closes with a communal petition: redeem Israel out of all troubles.",
+  "externalContext": "This poem belongs to the Israelite psalter and is traditionally associated with King David in many manuscript headings and liturgical traditions, though the provided text has no explicit superscription. It fits the ancient Near Eastern pattern of lament-prayer blending personal confession, requests for guidance, and appeals to a deity’s covenant loyalty. Themes like fear of the LORD, divine instruction, mercy, and corporate redemption reflect central concerns in Israelite religion and worship practices.",
+  "externalReferences": "The cry for instruction and walking in God's truth echoes Psalms with similar language (e.g., Psalm 86:11). The promise that the meek inherit the earth resonates with Psalm 37:11 and the wider wisdom tradition about the blessings of the righteous. Confession and appeals for pardon recall Psalm 51’s penitential language and the common biblical motif that God forgives in keeping with his mercies.",
+  "seeAlso": [
+    "Psalm 86:11",
+    "Psalm 37:11",
+    "Psalm 51:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Trust and Petition"
+    },
+    {
+      "range": "8-14",
+      "title": "Instruction for the Godly"
+    },
+    {
+      "range": "15-22",
+      "title": "Distress and Deliverance"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Repentance",
+    "Guidance",
+    "Deliverance"
+  ],
+  "practicalQuestions": [
+    "Where in my life do I need to ask God for guidance and to be taught his ways?",
+    "How can acknowledging my need for mercy shape my daily decisions and relationships?",
+    "In what ways can a community pray together for collective deliverance as the psalmist does for Israel?",
+    "How do I cultivate a reverent 'fear of the LORD' that leads to learning and ethical living?"
+  ],
+  "uncertainAreas": "Authorship and original liturgical setting are not explicit in the text provided. The text contains phrases (e.g., 'transgress without cause,' 'the secret of the LORD') whose precise referents or theological nuances are open to interpretation.",
+  "createdAt": "2025-11-03T21:36:32.132Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

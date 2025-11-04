@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.34",
+  "briefOverview": "A communal hymn of praise and instruction celebrating deliverance by the LORD and urging trust in God’s protection and righteousness.",
+  "summary": "The psalmist opens with a call to continual praise and communal exaltation of the LORD. He testifies that seeking the LORD brought deliverance from fear and trouble, and affirms that God protects those who fear him — even by angelic guardianship. The psalm invites others to 'taste and see' God's goodness and contrasts the wants of the righteous with the hunger of the proud. It gives moral instruction (guard your speech, do good, seek peace), assures that God hears the righteous and draws near to the contrite, and concludes with the promise that the LORD redeems his servants and none who trust in him will be desolate.",
+  "externalContext": "Psalm 34 is traditionally attributed to David and is connected in the superscription (in many manuscripts) with the episode where David feigned madness before King Achish/Abimelech (1 Samuel 21:10–15); the psalm reads as thanksgiving following deliverance. Psalms of praise and thanksgiving were central to Israelite cultic and communal life and often combine personal testimony with wisdom sayings (e.g., teaching about the fear of the LORD, righteous conduct). The reference to 'the angel of the LORD' reflects ancient Israelite beliefs in divine messengers who enact God's protection.",
+  "externalReferences": "The psalm’s setting is commonly linked to 1 Samuel 21:10–15, where David flees and feigns madness before the Philistine king; that narrative provides a plausible historical occasion for thanksgiving. Verse 20 ('not one of them is broken') is cited in the New Testament in John 19:36 as fulfillment language applied to Jesus’ crucifixion. The imagery of angels encamping around the faithful echoes Psalm 91:11–12 and other texts that portray divine guardianship.",
+  "seeAlso": [
+    "1 Samuel 21:10-15",
+    "John 19:36",
+    "Psalm 91:11-12",
+    "Psalm 23:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "4-10",
+      "title": "Testimony of Deliverance"
+    },
+    {
+      "range": "11-22",
+      "title": "Instruction and Assurance"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Trust",
+    "Deliverance",
+    "Divine protection"
+  ],
+  "practicalQuestions": [
+    "How can I practice 'blessing the LORD at all times' in daily life, not only in moments of relief?",
+    "When anxious or afraid, what concrete steps does 'seek the LORD' suggest for me today?",
+    "How can I teach younger people the 'fear of the LORD' in a way that encourages moral integrity and compassion?",
+    "In what ways should the promise of God’s protection shape how I approach conflict and pursue peace?",
+    "How can I apply the admonition to guard my speech and pursue peace in my relationships and community?"
+  ],
+  "uncertainAreas": "The psalm’s superscription (linking it to David’s encounter with Abimelech/Achish) is not in the provided text but is attested elsewhere; the precise historical occasion and dating remain debated. The phrase 'angel of the LORD' can be read as a theophanic messenger or a representative guardian angel; the language about 'not one of them is broken' may be literal, poetic, or later reinterpreted in Christian readings (e.g., John 19:36).",
+  "createdAt": "2025-11-03T21:39:49.666Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

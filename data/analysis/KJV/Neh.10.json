@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Neh.10",
+  "briefOverview": "A roster of leaders and people who sealed a communal covenant, followed by detailed commitments to temple worship, Sabbath and sabbatical observance, and financial provisions for the cult.",
+  "summary": "Nehemiah 10 first lists the officials, priests, Levites, heads of families, and the rest of the people who sealed the covenant. The assembled signers bind themselves to walk in the law of Moses and to keep its commandments, statutes, and judgments. Specific prohibitions include refusing intermarriage with the peoples of the land and not buying goods on the Sabbath; they also pledge to observe the seventh (sabbatical) year and the cancellation of debts. The community agrees to an annual financial contribution (a third part of a shekel) for temple service and to provide for the shewbread, continual offerings, festivals, and sacrificial needs. They arrange logistics for the wood offering by lot, commit firstfruits, firstborns, and tithes to the priests and Levites, and require the Levites to bring a tithe of those tithes into the house of God. The section closes with a resolute statement that Israel and Levi will bring grain, wine, and oil offerings to the temple and will not forsake the house of God.",
+  "externalContext": "Nehemiah is set in the Persian period (5th century BCE) after the return from Babylonian exile; Nehemiah served as governor in Jerusalem and led reforms to restore the city and its religious life. Communal covenants and renewal rituals are characteristic of post-exilic restoration literature and aim to reestablish identity and cultic order around the rebuilt temple. The obligations here rely on longstanding Mosaic institutions (tithes, firstfruits, Sabbaths) that were central to priestly and Levite support in ancient Israel.",
+  "externalReferences": "The chapter's cultic prescriptions echo Mosaic legislation: Sabbath observance (Exodus 20:8–11), the sabbatical year and debt release (Deuteronomy 15:1–3), and provisions for firstfruits and vows (Deuteronomy 26:1–11). Regulations about tithes and Levites recall Numbers 18:21–24 and related priestly material; the showbread instructions parallel Leviticus 24:5–9. This chapter follows the communal confession and covenant-making in Nehemiah 9 (see Nehemiah 9:38) and parallels Ezra's concern over intermarriage (Ezra 9–10).",
+  "seeAlso": [
+    "Nehemiah 9:38",
+    "Ezra 9:1-10:44",
+    "Exodus 20:8-11",
+    "Deuteronomy 15:1-3",
+    "Deuteronomy 26:1-11",
+    "Numbers 18:21-24",
+    "Leviticus 24:5-9",
+    "Exodus 13:12-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-27",
+      "title": "Signers of the Covenant"
+    },
+    {
+      "range": "28-39",
+      "title": "Covenant Commitments"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Temple worship",
+    "Sabbath observance",
+    "Tithes and offerings"
+  ],
+  "practicalQuestions": [
+    "How should modern communities organize and fund their shared religious or communal institutions in ways that are transparent and sustainable?",
+    "What forms of boundary maintenance (social, cultural, or religious) are constructive for group identity today, and which can be harmful?",
+    "How can contemporary faith communities observe regular rhythms of rest (Sabbath-like practices) amid economic pressures and commerce?",
+    "In what ways should leaders model the commitments they ask of their communities, and how can accountability be structured?"
+  ],
+  "uncertainAreas": "Precise identification and roles of some named individuals and clans are uncertain; the exact administrative meaning of 'Tirshatha' and local implementation details (e.g., how the 'third part of a shekel' was collected and accounted for, or how the 'tithe of the tithes' was calculated and delivered) are not spelled out in the chapter. The text's stance on intermarriage is absolute in wording here but may reflect a specific historical reaction to perceived threats to covenant identity rather than a universally applied social policy.",
+  "createdAt": "2025-11-03T19:44:54.097Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

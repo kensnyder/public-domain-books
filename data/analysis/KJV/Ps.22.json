@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.22",
+  "briefOverview": "A lamenting psalm that moves from an intense cry of abandonment and graphic description of suffering to a confident proclamation of God's deliverance and a vision of worldwide praise.",
+  "summary": "The speaker begins with a plaintive cry, asking why God seems far away and recounting continued, unanswered cries both day and night. He acknowledges God's holiness and recalls the faithfulness shown to Israel's ancestors, yet describes himself as despised, mocked, and physically weakened by severe suffering. Vivid images portray surrounding enemies, physical collapse, thirst, and the piercing of hands and feet, with onlookers dividing his garments. The tone turns as the speaker pleads urgently for deliverance, promising to proclaim God's name to his brethren and to praise God publicly. The psalm concludes with confident hope: God has not ignored suffering, the meek will be satisfied, nations will turn to the Lord, and future generations will declare God's righteousness.",
+  "externalContext": "Traditionally attributed to King David, Psalm 22 belongs to the genre of individual lament that transitions into praise; such psalms were used in private and communal worship in ancient Israel. The vivid imagery reflects ancient Near Eastern poetic conventions and may presuppose knowledge of Israel's communal history of deliverance. Some later readers, especially in Christian traditions, interpret the psalm as messianic and applicable to the suffering of Jesus.",
+  "externalReferences": "Verses 1 and 2 are quoted by Jesus on the cross in Matthew 27:46 and Mark 15:34, linking this psalm to New Testament passion narratives. Verses 16–18 (pierced hands and feet; casting lots for garments) are echoed in John 19:23–24 and John 19:37, and commentators also note thematic resonance with Isaiah 53:3–5 and Zechariah 12:10.",
+  "seeAlso": [
+    "Matthew 27:46",
+    "Mark 15:34",
+    "John 19:23-24",
+    "John 19:37",
+    "Isaiah 53:3-5",
+    "Zechariah 12:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Cry of Abandonment"
+    },
+    {
+      "range": "3-21",
+      "title": "Lament and Suffering"
+    },
+    {
+      "range": "22-31",
+      "title": "Praise and Vindication"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Abandonment",
+    "Trust",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "When you feel abandoned or unheard, how does this psalm model honest prayer and emotional expression before God?",
+    "What memories of past deliverance or community faith can you recall to sustain trust during present trials?",
+    "How might public proclamation and communal worship (verses 22–25) help transform personal suffering into hope for others?",
+    "In what ways should imagery of suffering and vindication shape a community's response to injustice and the suffering of the vulnerable?"
+  ],
+  "uncertainAreas": "The historical setting and original referent of the psalm (Davidic distress, a later sufferer, or a prophetic/communal voice) are not specified in the text. Certain phrases have textual or translation uncertainty (e.g., verse 16's 'they pierced my hands and my feet' and verse 21's 'unicorns'/'re'em'), which affect interpretive details.",
+  "createdAt": "2025-11-03T21:35:30.990Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

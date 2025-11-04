@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "2Chr.7",
+  "briefOverview": "Solomon's temple dedication is marked by a dramatic divine manifestation and a divine speech that affirms the temple's sanctity while setting conditional promises and warnings tied to covenant faithfulness.",
+  "summary": "At the close of Solomon's prayer, fire from heaven consumes the offerings and the glory of the LORD fills the temple, prompting national worship and massive sacrificial dedication. Solomon and the people celebrate with a seven‑day festival plus an eighth‑day assembly, after which the king completes both the temple and his palace projects. That night the LORD appears to Solomon, affirms that he has chosen the place as a house of sacrifice, and declares that he will hear prayers offered there. God states conditional patterns: he can withhold rain, send locusts, or cause pestilence, but if his people humble themselves, pray, seek his face, and turn from wickedness, he will forgive and heal the land. God promises to establish Solomon’s throne if Solomon walks faithfully as David did, but warns that unfaithfulness and idolatry will bring decisive judgment on the people and even make the temple a reproach among the nations.",
+  "externalContext": "The account reflects the centrality of the Jerusalem temple in Israelite religion and likely preserves or adapts traditions also found in the older Deuteronomistic and monarchical histories. Temple dedication rites and long feasts were part of ancient Near Eastern practice, and the Chronicler (probably writing or editing in the post‑exilic period) emphasizes liturgy, Levitical music, and the theological link between cultic presence and national wellbeing. Large sacrificial numbers in ancient texts often function as rhetorical exaggeration to mark national-scale dedication rather than literal census data.",
+  "externalReferences": "This chapter closely parallels the temple dedication materials in 1 Kings 8 and the divine appearance and conditional promise recorded in 1 Kings 9:1–9. The conditional pattern of blessing for obedience and curses for disobedience echoes Deuteronomy (e.g., Deuteronomy 11:16–17; Deuteronomy 28:15–18) which speaks explicitly of God shutting up the heavens and of pests and disease as consequences.",
+  "seeAlso": [
+    "1 Kings 8:10-11",
+    "1 Kings 8:22-53",
+    "1 Kings 9:1-9",
+    "Deuteronomy 11:16-17",
+    "Deuteronomy 28:15-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Temple Dedication and Festival"
+    },
+    {
+      "range": "12-22",
+      "title": "Divine Response and Conditions"
+    }
+  ],
+  "themes": [
+    "Divine presence",
+    "Temple dedication",
+    "Covenantal promises",
+    "Obedience and repentance"
+  ],
+  "practicalQuestions": [
+    "How does the presence of God shape communal worship in our congregations or communities today?",
+    "What practices encourage corporate humility, prayer, and turning from harmful patterns when a community faces disaster?",
+    "How should religious leaders model accountability and faithfulness to prevent the misuse of sacred institutions?",
+    "In what ways can sacred places or traditions point communities toward repentance without becoming idols themselves?"
+  ],
+  "uncertainAreas": "The literal historicity of some details (e.g., the precise numbers of animals sacrificed, the visible fire from heaven) may be rhetorical or theological emphasis rather than strict reportage; the extent to which the Chronicler reshaped older sources for post‑exilic concerns (temple centrality, Levitical roles) leaves open how original the wording and emphases are to Solomon's own era.",
+  "createdAt": "2025-11-03T19:20:04.422Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

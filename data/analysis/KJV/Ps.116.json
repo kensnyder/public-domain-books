@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.116",
+  "briefOverview": "A personal thanksgiving psalm celebrating rescue from mortal danger and pledging public vows of praise and service to God.",
+  "summary": "The speaker begins with heartfelt gratitude because God has answered prayer and rescued them from the brink of death and deep distress. They call the soul to rest in God’s bountiful care and testify to deliverance from death, tears, and falling. Because of that rescue the speaker resolves to live before the LORD, to speak of their faith, and to fulfill vows. They commit to taking the 'cup of salvation,' offering thanksgiving sacrifices, and paying vows publicly in the courts of the house of the LORD in Jerusalem. The psalm closes with a communal call to praise the LORD.",
+  "externalContext": "Psalms like this one belong to the Hebrew worship tradition and were used both in personal devotion and in temple or communal liturgy. The language of vows, sacrifice of thanksgiving, and worship in the temple courtyards reflects Israelite cultic practice as described elsewhere in the Torah. This psalm is situated among other short thanksgiving and praise psalms often associated with communal liturgical cycles (e.g., the Hallel grouping of Psalms 113–118).",
+  "externalReferences": "The psalm’s mention of offering a 'sacrifice of thanksgiving' echoes Levitical instructions about thank-offerings and peace offerings (see Leviticus 7:11–15) which shaped Israelite sacrificial practice. The image of a blessed 'cup' finds a close parallel in Psalms 23:5, where the cup symbolizes God’s provision and blessing. The vow to 'walk before the LORD in the land of the living' resonates with statements of deliverance and continued life in Psalms 118:17 ('I shall not die, but live...').",
+  "seeAlso": [
+    "Psalms 23:5",
+    "Psalms 118:17",
+    "Leviticus 7:11-15",
+    "Psalms 113-118"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Cry and Deliverance"
+    },
+    {
+      "range": "7-14",
+      "title": "Rest and Vows"
+    },
+    {
+      "range": "15-19",
+      "title": "Public Thanksgiving"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Thanksgiving",
+    "Vows",
+    "Public Worship"
+  ],
+  "practicalQuestions": [
+    "When have I experienced a deliverance that calls for public thanksgiving, and how might I express that responsibly today?",
+    "What does making or fulfilling vows look like in contemporary religious or ethical life?",
+    "How can private gratitude be integrated with communal worship in my community?",
+    "How should we understand and pastorally respond to the claim that 'the death of his saints is precious' in situations of suffering or loss?"
+  ],
+  "uncertainAreas": "Uncertainty about the original occasion (individual illness, imprisonment, or communal crisis) and about some images: 'cup of salvation' may be cultic libation or metaphorical, and 'precious in the sight of the LORD is the death of his saints' can be read as valuing faithful deaths or as a remark about divine concern for the dying—both readings have textual support.",
+  "createdAt": "2025-11-03T22:18:30.318Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

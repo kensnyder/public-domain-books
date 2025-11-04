@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.6",
+  "briefOverview": "Solomon dedicates the newly built temple, places the ark, and offers a covenantal prayer asking for God's presence, justice, forgiveness, and restoration for Israel and foreigners who pray toward the house.",
+  "summary": "Solomon reminds the assembly that although God is transcendent ('dwelleth in the thick darkness'), he has built a permanent house for God's name, set the ark inside, and publicly blesses the congregation. He recounts that God chose Jerusalem and David, and fulfilled the promise that David's son would build the temple. Solomon prays a long petition asking that God hear prayers offered toward the temple in many circumstances: legal disputes, individual sin, national repentance, drought or pestilence, siege or other calamities, and in warfare when God directs Israel. He also asks that God respond to foreigners who come to pray at the temple, and pleads for mercy and restoration for exiles who repent in the land of their captivity. The prayer repeatedly combines appeals to God's covenant faithfulness with the conditional requirement that the people turn and walk in God's ways. It closes with petitions for God's visible presence (the ark), salvation for the priests, joy for the faithful, and remembrance of David's mercies.",
+  "externalContext": "Scholars place the Chronicler's composition after the Babylonian exile (post-exilic period), a time when the temple and priesthood were central to rebuilding Jewish identity; this perspective colors the strong emphasis on the temple as the place of God's name and on proper worship. Solomon's actual construction of the first temple is traditionally dated to the 10th century BCE, but the Chronicler reshapes earlier material to highlight cultic and priestly concerns and the Davidic covenant. The broader Ancient Near Eastern context assumes temples functioned as the deity's earthly dwelling and as focal points for national prayer, sacrifice, and legal proceedings.",
+  "externalReferences": "This prayer closely parallels Solomon's dedication prayer in 1 Kings 8:22–53, which contains many of the same petitions and theological motifs. The appeal to the promise that David's son would build the house echoes the Davidic covenant as recorded in 2 Samuel 7:12–16 and in 1 Chronicles 17:1–15. The conditional pattern—punishment followed by repentance and restoration—reflects Deuteronomic themes such as Deuteronomy 30:1–5, which links exile and return to covenantal repentance.",
+  "seeAlso": [
+    "1 Kings 8:22-53",
+    "2 Samuel 7:12-16",
+    "1 Chronicles 17:1-15",
+    "Deuteronomy 30:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Dedication and Ark Placed"
+    },
+    {
+      "range": "12-21",
+      "title": "Theological Prologue"
+    },
+    {
+      "range": "22-42",
+      "title": "Petitions for Mercy and Justice"
+    }
+  ],
+  "themes": [
+    "Temple",
+    "Covenant",
+    "Prayer",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "How should communities today understand and honor 'sacred spaces' while recognizing God's transcendence expressed in the prayer?",
+    "What communal practices of confession and return could be modeled on the conditional pattern of sin, repentance, and restoration in this text?",
+    "How can religious communities include and welcome outsiders who come to pray, in light of the petition for the 'stranger'?",
+    "In what ways should leaders and institutions pray for justice and adjudication when disputes come before communal worship settings?",
+    "How do we balance confidence in God's covenant faithfulness with the conditional language (obedience required) that governs divine response here?"
+  ],
+  "uncertainAreas": "The phrase 'thick darkness' and the text's tension between God's transcendence and the temple as God's dwelling raise interpretive questions about how literally to read divine presence. There is also uncertainty about how narrowly the temple-focused promises were intended (temple as exclusive locus of God's hearing) and how much the Chronicler reshaped earlier traditions (e.g., 1 Kings) to serve post-exilic theology.",
+  "createdAt": "2025-11-03T19:19:39.898Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

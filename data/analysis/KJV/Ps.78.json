@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Ps.78",
+  "briefOverview": "A didactic national psalm urging the community to remember and teach Israel’s history, recounting God's mighty deeds and Israel’s repeated unfaithfulness.",
+  "summary": "The psalm opens with a call to teach the next generation so they might hope in God and not repeat their fathers' sins. It recounts God's saving acts in Egypt and the wilderness — the parting of the sea, cloud and fire guidance, miraculous water from rock, manna and quail — alongside Israel's repeated complaints and distrust. Because of their unbelief and persistent rebellion the people suffer divine anger, death, and national calamity, yet the psalm also emphasizes God's compassion and repeated forgiveness. The narrative moves on to Israel's later apostasy (high places, idols) and consequent loss — Shiloh is forsaken, strength is delivered to enemies, and the nation endures violence and exile. Finally God is depicted as restoring order: he chooses Zion (Judah) and appoints David, whom he raises from shepherding to lead and guide Israel with care.",
+  "externalContext": "Psalm 78 belongs to the corpus of 'historical' or didactic psalms that retell national history to instruct the community; many manuscripts and traditions attribute it to Asaph. Such psalms functioned in temple/communal worship and in education, echoing legal calls to teach children (cf. Deuteronomy 6). References to the tabernacle at Shiloh and the choosing of David point to long-standing royal and sanctuary traditions drawn from the period of the judges and the early monarchy.",
+  "externalReferences": "The psalm directly echoes events narrated in the Exodus and wilderness traditions: the sea crossing (Exodus 14:21–22), the provision of manna (Exodus 16:4–15), and the quail episode and its aftermath (Numbers 11:31–35). Its injunction to pass teachings to children resembles Deuteronomy 6:6–7, and its account of Shiloh's abandonment and subsequent national disaster recalls the material in 1 Samuel 4–7. The final move to choose David as shepherd-king parallels the account in 1 Samuel 16:1–13.",
+  "seeAlso": [
+    "Deuteronomy 6:6-7",
+    "Exodus 14:21-22",
+    "Exodus 16:4-15",
+    "Numbers 11:31-35",
+    "1 Samuel 4:1-7:2",
+    "1 Samuel 16:1-13",
+    "Psalm 105:26-38",
+    "Psalm 106:13-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Call to Teach"
+    },
+    {
+      "range": "9-39",
+      "title": "Wilderness Rebellion"
+    },
+    {
+      "range": "40-72",
+      "title": "Punishment and Restoration"
+    }
+  ],
+  "themes": [
+    "Teaching",
+    "Remembrance",
+    "Covenant unfaithfulness",
+    "Judgment and Mercy"
+  ],
+  "practicalQuestions": [
+    "How can families and communities intentionally transmit religious memory so younger generations 'set their hope in God'?",
+    "When a community forgets its foundational stories or values, what practical steps restore moral and spiritual attentiveness?",
+    "How should contemporary communities understand and respond to texts that pair divine provision with severe judgment?",
+    "What leadership qualities does the psalm attribute to David (shepherding, integrity, skill), and how might those inform selection and formation of leaders today?"
+  ],
+  "uncertainAreas": "Authorship and exact dating (traditionally ascribed to Asaph) are not explicit in the text provided. Some references (e.g., the precise historical circumstances of Shiloh's abandonment or the identity/timing of the enemies defeated in v66) are historically allusive and open to scholarly debate.",
+  "createdAt": "2025-11-03T22:00:12.622Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

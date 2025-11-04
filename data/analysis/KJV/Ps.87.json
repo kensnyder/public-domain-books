@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.87",
+  "briefOverview": "A short Zion-hymn celebrating Jerusalem as God's chosen foundation and a center of worship, with surprising mention of foreign nations whose members are reckoned as born in Zion.",
+  "summary": "The psalm opens by affirming God's foundation on the ‘holy mountains’ and his special love for the gates of Zion (verses 1–3). The speaker then names foreign powers—Rahab, Babylon, Philistia, Tyre, and Ethiopia—suggesting that people from these places are counted as ‘born’ in Zion (verses 4–6). The closing verse pictures worshipers and musicians present in the city and identifies Zion as the source of the psalmist’s springs of life (verse 7).",
+  "externalContext": "Psalm 87 belongs to the tradition of Zion-hymns that celebrate Jerusalem as the divinely chosen city and cultic center. In Israelite poetic usage 'Rahab' can be a poetic name for a foreign power or a mythic symbol of chaotic nations, and lists of coastal and imperial cities (Tyre, Philistia, Babylon, Ethiopia) emphasize international scope. The motif of God ‘writing up’ or counting people in a divine register echoes ancient Near Eastern and Israelite ideas of divine records and membership in the community of the gods.",
+  "externalReferences": "The theme of nations streaming to or recognizing Zion parallels prophetic expectations such as Isaiah 2:2–3 and the universalizing imagery of Isaiah 60:3. The image of a divine list or book of the living has parallels elsewhere in the Psalter (e.g., Psalm 69:28) and in later biblical literature that speaks of God’s record of those who belong to him. Other Zion psalms that share the theme of Jerusalem’s special status and cultic joy include Psalm 48 and Psalm 122.",
+  "seeAlso": [
+    "Isaiah 2:2-3",
+    "Isaiah 60:3",
+    "Psalm 69:28",
+    "Psalm 48:1-3",
+    "Psalm 122:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Zion's Foundation"
+    },
+    {
+      "range": "4-6",
+      "title": "Nations Included"
+    },
+    {
+      "range": "7",
+      "title": "Worship and Life"
+    }
+  ],
+  "themes": [
+    "Zion/Jerusalem",
+    "Divine election",
+    "Gentile inclusion",
+    "Worship/music"
+  ],
+  "practicalQuestions": [
+    "How does thinking of a local congregation as a 'Zion' influence hospitality toward outsiders?",
+    "In what ways can worship and music help form a community identity that welcomes people from different backgrounds?",
+    "What does it mean today to be 'counted' by God, and how should that affect our practices of membership and belonging?",
+    "How can the image of a city as a source of life ('all my springs are in thee') shape our understanding of spiritual roots and resources?"
+  ],
+  "uncertainAreas": "The precise identity of 'Rahab' (whether a specific nation like Egypt or a poetic/mythic term) is uncertain, as is whether the language of being 'born' in Zion is literal, legal (membership), or metaphorical. The psalm's original historical setting and date are not specified in the text.",
+  "createdAt": "2025-11-03T22:04:44.721Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

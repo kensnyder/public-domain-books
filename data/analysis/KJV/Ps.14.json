@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.14",
+  "briefOverview": "A short prophetic lament contrasting the folly of denying God with universal human corruption, ending in a plea for Israel’s salvation.",
+  "summary": "The psalm opens by calling those who deny God “ fools,” asserting that such denial accompanies moral corruption and a lack of goodness (vv. 1–3). The speaker reports God looking down to see if anyone seeks understanding and finds none, and accuses the wicked of preying on God’s people and failing to call on the LORD (vv. 2–4). The psalmist notes that in the presence of the righteous there is fear, and condemns those who shame the poor because the LORD is the poor person’s refuge (vv. 5–6). It closes with a longing for divine deliverance: a wish that salvation for Israel might come from Zion and that the restoration of Jacob will bring joy to the nation (v. 7).",
+  "externalContext": "The psalm is traditionally attributed to David in many manuscripts but its precise date and authorship are uncertain. Its vocabulary and concerns—denial of God, social injustice toward the poor, and hope for national restoration—fit broadly within Israelite prophetic and wisdom traditions. The motif of the “fool” who lacks reverence for God appears elsewhere in Hebrew wisdom literature (e.g., Proverbs).",
+  "externalReferences": "Psalm 53 is a near-verbatim parallel of Psalm 14 and reflects the same material and judgmental thrust. Paul quotes the line about there being no righteous person in Romans 3:10–18, using it in an argument about universal human sinfulness. The contrast between the fool’s denial and the beginning of knowledge in Proverbs 1:7 (“The fear of the LORD is the beginning of knowledge”) is a relevant wisdom background for the psalm’s opening assertion.",
+  "seeAlso": [
+    "Psalm 53:1-7",
+    "Romans 3:10-18",
+    "Proverbs 1:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Denunciation of the Fool"
+    },
+    {
+      "range": "5-7",
+      "title": "Oppression and Hope"
+    }
+  ],
+  "themes": [
+    "Folly",
+    "Human corruption",
+    "Divine scrutiny",
+    "Hope for restoration"
+  ],
+  "practicalQuestions": [
+    "Where in contemporary life do we find attitudes like ‘there is no God,’ and how should communities respond to the social consequences of such attitudes?",
+    "How does belief in God shape our treatment of the poor and vulnerable, given the text’s concern that the LORD is the refuge of the poor?",
+    "What practices cultivate the kind of reverence and seeking God that the psalm implies are lacking?",
+    "How can the longing for communal restoration expressed in verse 7 inform present efforts for justice and reconciliation in communities?"
+  ],
+  "uncertainAreas": "The psalm’s referent for “the fool” and whether the indictment is meant as universal (all humanity) or targeted at particular groups is ambiguous. The phrase “in the generation of the righteous” (v. 5) and the precise historical setting for the plea in v. 7 (immediate return from exile, liturgical wish, or messianic hope) are also open to interpretation.",
+  "createdAt": "2025-11-03T21:32:43.898Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.24",
+  "briefOverview": "Job catalogs social injustices and the apparent impunity of evildoers, then challenges why God does not visibly punish them. The speech presses the problem of delayed or hidden divine justice in the face of human suffering.",
+  "summary": "Job lists a series of abuses by the powerful and lawless: moving boundary-marks, stealing flocks, seizing the possessions of orphans and widows, forcing the poor into exposure and hunger, and committing violence and theft by night. He portrays criminals who exploit the land and people while seeming to prosper, and he describes victims who groan in the city with no remedy. Job insists that these offenders act without apparent divine retribution, though he also affirms that the wicked are transient and will ultimately be cut off. He closes by daring anyone to prove his account false, pressing the tension between observed injustice and beliefs about God’s oversight.",
+  "externalContext": "The concerns in this chapter reflect social and legal norms in the ancient Near East and Israelite law that favor protection for the vulnerable: biblical laws require leaving gleanings for the poor and protecting orphans and widows (e.g., Leviticus and Deuteronomy). Boundary markers and agricultural production were central to subsistence life, so moving landmarks and stealing produce were serious communal offences. The Book of Job belongs to wisdom literature, which often uses poetic catalogues and rhetorical questions to probe theological and moral difficulties.",
+  "externalReferences": "The demand to leave produce for the poor appears in Leviticus 19:9–10 and Deuteronomy 24:19–21, which provide legal background for Job’s complaints about gleaning and seizure. Job’s lament about the prosperity and impunity of the wicked echoes Psalm 73:3–12 and parallels Job 21, both of which grapple with the same problem of the prosperous wrongdoer. Prophetic condemnations of exploitation, such as Amos 5:11–12, also reflect similar social critique.",
+  "seeAlso": [
+    "Deuteronomy 24:19-21",
+    "Leviticus 19:9-10",
+    "Psalm 73:3-12",
+    "Amos 5:11-12",
+    "Job 21:7-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Catalogue of Abuses"
+    },
+    {
+      "range": "13-20",
+      "title": "Night Crimes and Fate"
+    },
+    {
+      "range": "21-25",
+      "title": "Challenge to the Critics"
+    }
+  ],
+  "themes": [
+    "Social injustice",
+    "Impunity",
+    "Divine justice",
+    "Suffering"
+  ],
+  "practicalQuestions": [
+    "How should communities and faith groups act to protect widows, orphans, and the poor today in ways analogous to the protections implied here?",
+    "When wrongdoing appears to go unpunished, how can belief in divine justice be held with integrity rather than leading to cynicism or denial?",
+    "What structures (legal, communal, religious) enable the kinds of exploitation Job describes, and how can they be reformed?",
+    "How do we balance the conviction that evil will ultimately be judged with practical efforts to pursue immediate justice and relief?"
+  ],
+  "uncertainAreas": "It is unclear whether Job intends the catalogue as a literal social report or rhetorical amplification; the text leaves ambiguous whether he expects immediate divine intervention or only eventual judgment. Historical dating and precise social setting of the circumstances described are also uncertain.",
+  "createdAt": "2025-11-03T21:19:12.224Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

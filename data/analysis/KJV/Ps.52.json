@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.52",
+  "briefOverview": "A denunciation of a wealthy, deceitful man who boasts in evil and trusts in riches, contrasted with the righteous who trust God. The psalm affirms divine justice and personal confidence in God's mercy.",
+  "summary": "Verses 1–5 attack a ‘mighty man’ whose tongue devises deceit and who prefers evil and lying; the psalmist declares that God will destroy him and uproot him from the land of the living. Verses 6–7 report the reaction of the righteous, who fear, see, and even laugh at the downfall of one who trusted in wealth rather than God. Verses 8–9 present the speaker as a flourishing olive tree in God’s house, rooted in trust in God’s mercy, committing to perpetual praise and waiting on God’s name. The poem thus contrasts the ultimate fate of the wicked with the steady confidence and praise of the faithful.",
+  "externalContext": "In most Hebrew manuscripts and many translations Psalm 52 carries a superscription linking it to David and to the incident when Doeg the Edomite informed Saul about David (see 1 Samuel 21–22); that historical setting makes the poem an individual lament/oracle against a court informant. Olive-tree imagery and the contrast between reliance on wealth versus reliance on God are common in ancient Near Eastern and Israelite wisdom and cultic poetry, where an olive tree signifies vitality, blessing, and household stability.",
+  "externalReferences": "The traditional superscription connects this psalm to the narrative of Doeg and the conflict around David in 1 Samuel 21–22, which provides a concrete historical backdrop for the denunciation. The moral contrast between trusting riches and trusting God echoes wisdom and psalmic contrasts found in Psalm 1:1–6 and in Psalm 37, where the fate of the wicked and the flourishing of the righteous are also juxtaposed. The focus on corrupt speech is thematically related to biblical material on the destructive tongue (compare the wisdom tradition and later New Testament reflections such as James 3, though James is not contemporary with the psalm).",
+  "seeAlso": [
+    "1 Samuel 21:1-22:23",
+    "Psalm 1:1-6",
+    "Psalm 37:35-40",
+    "James 3:1-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Condemnation of the Deceitful"
+    },
+    {
+      "range": "6-7",
+      "title": "Righteous Observe and Rejoice"
+    },
+    {
+      "range": "8-9",
+      "title": "Trust and Praise"
+    }
+  ],
+  "themes": [
+    "Divine justice",
+    "Deceit vs righteousness",
+    "Trust in God",
+    "Praise"
+  ],
+  "practicalQuestions": [
+    "How do we respond when others use speech to harm—what practices curb a deceitful tongue in our communities?",
+    "In what ways might we be tempted to trust wealth or status rather than God, and how can we cultivate lasting trust like the ’olive tree’ image?",
+    "How can the community encourage those who are harmed by injustice to maintain hope and worship?",
+    "What kinds of public or private witness (words and actions) would reflect the psalm’s confidence in God’s enduring goodness?"
+  ],
+  "uncertainAreas": "The supplied text lacks the usual superscription, so the identification of the ‘mighty man’ (e.g., Doeg) is inferred from the broader Psalm tradition rather than explicit here. The degree to which ‘abundance of riches’ should be read as literal wealth versus a symbol for misplaced trust is open to interpretation. The exact nature and timing of the divine retribution spoken of are presented poetically and not described as a specific historical event.",
+  "createdAt": "2025-11-03T21:47:13.718Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

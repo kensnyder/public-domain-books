@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Prov.30",
+  "briefOverview": "A wisdom speech by Agur emphasizing human humility before God, a request for balanced provision, and a series of numbered proverbs illustrating moral and natural observations.",
+  "summary": "Agur begins by declaring his own lack of wisdom and posing rhetorical questions about God's transcendent power and knowledge (1–6). He affirms the purity of God's words and warns against adding to them. Agur then asks for neither poverty nor riches but for enough provision to avoid denying God or resorting to theft (7–9), and warns against false accusations (10). Verses 11–14 describe various degenerate generations and social evils, while vv.15–31 present a series of numerical proverbs (three, four) that contrast insatiable things, wonderous or inscrutable ways, things that disturb the earth, small but wise creatures, and admirable modes of going. The chapter closes with admonitions about restraint and the consequences of provoked anger (32–33).",
+  "externalContext": "Proverbs is part of the Hebrew wisdom tradition and collects sayings from various speakers; the identity of Agur son of Jakeh is uncertain and distinct from Solomon's sayings. The chapter’s use of numerical lists (three, four) is a common feature of ancient Near Eastern wisdom literature, used for memorability and rhetorical force. The counsel to avoid adding to divine words echoes an ancient concern for preserving authoritative instruction.",
+  "externalReferences": "The injunction not to add to God’s words recalls Deuteronomy 4:2's warning against altering the law and is close in language to Revelation 22:18 in the New Testament (both concern preserving a text’s integrity). The claim that ‘every word of God is pure’ echoes Psalm 12:6, which describes the LORD’s words as clean and pure. The catalogue-style numerical sayings are similar in form to other Proverbs passages (e.g., Proverbs 6:16–19) and the confrontations with divine wisdom and creation language recall passages in Job 38 where God’s control of wind and waters highlights human limitation.",
+  "seeAlso": [
+    "Deuteronomy 4:2",
+    "Psalm 12:6",
+    "Job 38",
+    "Proverbs 6:16-19",
+    "Exodus 20:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Agur's Humble Inquiry"
+    },
+    {
+      "range": "7-14",
+      "title": "Request and Social Warnings"
+    },
+    {
+      "range": "15-33",
+      "title": "Numerical Proverbs"
+    }
+  ],
+  "themes": [
+    "Humility",
+    "Divine mystery",
+    "Moderation",
+    "Social ethics",
+    "Numerical lists"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate humility in my own claims to knowledge like Agur does?",
+    "What practical steps can I take to seek balanced living and avoid the harms of extreme wealth or poverty?",
+    "How can communities guard against the social behaviors condemned here (slander, exploitation, disrespect for parents)?",
+    "Which small, disciplined practices in my life mirror the chapter’s appreciation for modest but wise examples (ants, locusts, conies)?",
+    "How should we treat authoritative teachings today in light of the warning not to add to God’s words?"
+  ],
+  "uncertainAreas": "The identity of Agur and Jakeh and the exact meaning of the addressees ‘Ithiel and Ucal’ are unclear. The phrase translated as 'the knowledge of the holy' (v.3) and the enigmatic question about 'his son's name' (v.4) admit multiple readings (rhetorical, theological, or possibly reflecting ancient idioms). Several images (e.g., the horseleech's two daughters; the specific punishments in v.17) are metaphorical and their precise referents are debated.",
+  "createdAt": "2025-11-03T22:48:20.019Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

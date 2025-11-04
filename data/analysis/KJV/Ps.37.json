@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.37",
+  "briefOverview": "A wisdom psalm advising trust in God, patient endurance, and righteous living in the face of the apparent success of the wicked.",
+  "summary": "The psalmist urges readers not to be anxious or envious of evildoers because their prosperity is temporary; instead, they should trust the LORD, do good, and commit their ways to God. The poem promises that the righteous who wait patiently will inherit the land, be upheld by God, and be satisfied even in hard times, while the wicked will be cut off and perish. It contrasts the short-lived power and schemes of the wicked with the lasting inheritance, protection, and vindication of the upright. The psalmist testifies from experience that the righteous are not abandoned, encourages steadfast moral behavior, and closes by affirming that salvation and deliverance come from the LORD for those who trust him.",
+  "externalContext": "Psalm 37 belongs to the biblical wisdom/psalter tradition that addresses the problem of the prosperity of the wicked and theodicy (why evil seems to prosper). Such psalms were used in Israelite worship and instruction; they reflect a retribution framework common in ancient Near Eastern thought in which moral behavior is linked to divine blessing and land possession. The language of inheriting the land and divine vindication draws on long-standing covenantal ideas about God's promises to the community and to the righteous.",
+  "externalReferences": "The psalm's pattern of contrasting the fate of the righteous and the wicked echoes Psalm 1 and the wisdom literature (e.g., Proverbs) that link conduct with outcomes. The beatitude \"the meek shall inherit the earth\" is echoed by Jesus in Matthew 5:5, which cites the same promise to the lowly. Themes of trusting God and committing one's way recall Proverbs 3:5–6; the experiential testimony \"I have been young, and now am old\" is similar in tone to the personal reflection in Psalm 73.",
+  "seeAlso": [
+    "Psalm 1",
+    "Psalm 73",
+    "Proverbs 3:5-6",
+    "Matthew 5:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Trust and Patience"
+    },
+    {
+      "range": "9-20",
+      "title": "Fate of the Wicked"
+    },
+    {
+      "range": "21-40",
+      "title": "Righteous Life and Promise"
+    }
+  ],
+  "themes": [
+    "Trust in God",
+    "Righteous vs Wicked",
+    "Patience",
+    "Inheritance"
+  ],
+  "practicalQuestions": [
+    "How can I practice patient trust rather than anxiety when I see injustice or the success of unethical people?",
+    "What concrete actions (\"do good\") can I take in my community that reflect the psalm's ethic?",
+    "In what ways might \"inheriting the earth\" be understood spiritually or communally rather than only materially?",
+    "How should the promise of divine vindication shape my response to personal setbacks or moral failure?"
+  ],
+  "uncertainAreas": "Authorship and precise dating are not specified in the text; it's also ambiguous whether \"inherit the earth\" should be read primarily as present/political land possession, future eschatological hope, or a moral/spiritual reward. Some verses reflect proverbial expectations of retribution that may be more nuanced in other biblical texts.",
+  "createdAt": "2025-11-03T21:40:59.291Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

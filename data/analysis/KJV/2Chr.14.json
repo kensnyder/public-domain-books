@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "2Chr.14",
+  "briefOverview": "Asa institutes religious reforms and secures a period of peace in Judah, then defeats a large invading force after calling on the LORD for help.",
+  "summary": "Asa succeeds his father Abijah and reigns during a time of internal peace. He removes foreign altars, high places, idols, and groves, commands the people to seek the LORD and obey the law, and fortifies cities during the peaceful years. Asa organizes a large fighting force drawn from Judah and Benjamin. Zerah the Ethiopian advances with an enormous army and chariots to Mareshah; Asa confronts him in the valley of Zephathah and prays, affirming dependence on God whether forces are many or few. The LORD strikes the invaders, Judah routs them, pursues them to Gerar, and returns to Jerusalem with abundant spoil.",
+  "externalContext": "The Books of Chronicles were composed or edited in the post-exilic period and often emphasize legitimate cultic worship, temple interests, and the faithfulness of kings who support religious reform. \"Ethiopian\" here likely translates the Hebrew Cush, which can mean forces from the southern regions (Kush) or broadly from lands associated with Egypt and the southern Nile; modern scholars debate the exact identity of Zerah. Large numbers and chariot counts in ancient narratives commonly reflect rhetorical exaggeration or symbolic reporting rather than precise census figures. Mareshah and Gerar are sites in the southern coastal plain (the Shephelah), consistent with an invasion from the south or southwest.",
+  "externalReferences": "The account of Asa and his reforms parallels the summary in 1 Kings 15:9–24, which records similar removals of idols and general assessment of his reign. The call to remove high places and to seek the LORD echoes Deuteronomy 12:2–4, which criticizes local high places and urges centralized devotion to YHWH. The motif of a smaller, faithful force prevailing through reliance on God resembles earlier Israelite narratives such as Judges 7:1–22 (Gideon) and later Chronicles episodes (e.g., Jehoshaphat in 2 Chronicles 20) that link prayerful dependence with divine deliverance.",
+  "seeAlso": [
+    "1 Kings 15:9-24",
+    "Deuteronomy 12:2-4",
+    "2 Chronicles 20:1-30",
+    "Judges 7:1-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Reforms and Peace"
+    },
+    {
+      "range": "8-15",
+      "title": "Battle with Zerah"
+    }
+  ],
+  "themes": [
+    "Religious reform",
+    "Trust/Prayer",
+    "Divine deliverance",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "What contemporary 'high places' or practices compete with devoted worship, and how should communities address them?",
+    "How can leaders balance practical preparation (fortifications, training) with spiritual dependence expressed in prayer?",
+    "When facing overwhelming odds, how does this passage inform communal confidence and action?",
+    "How might seasons of peace be used today to strengthen moral and communal institutions as Asa did?"
+  ],
+  "uncertainAreas": "The precise identity of 'Zerah the Ethiopian' and the geographical origin of his force are debated; the large troop and chariot numbers may be exaggerated; the Chronicler's theological emphasis shapes which details are included and how events are interpreted.",
+  "createdAt": "2025-11-03T19:23:40.690Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Eccl.3",
+  "briefOverview": "A poetic reflection on life's appointed seasons, human mortality, and the wise response of enjoying one's work as a gift from God.",
+  "summary": "Verses 1–8 list paired opposites—birth and death, weeping and laughter, war and peace—framing life as a series of appointed times. The speaker then questions the profit of toil and reports that God has assigned human labor and made things beautiful in their season, while placing inscrutable works in human hearts that they cannot fully discern. He advises that rejoicing and doing good in life, and enjoying the fruits of one’s labor, are proper because these are gifts from God. The text affirms God’s eternal action and sovereignty (v.14), notes persistent injustice in human affairs (vv.16–17), and emphasizes human mortality by comparing humans to beasts in death (vv.18–21). The chapter closes by reiterating that the best course is to find joy in one’s work, since the future is hidden from us (v.22).",
+  "externalContext": "Ecclesiastes is part of the Hebrew wisdom literature and is framed as the reflections of “Qoheleth” (the Teacher). Scholars typically date its composition to the later monarchic, post-exilic, or Hellenistic period (broadly after the monarchy), when philosophical reflection on fate, divine providence, and the limits of human understanding was prominent. The poem’s paired opposites reflect a common ancient Near Eastern and biblical sensitivity to cycles in nature and social life; the repeated theme of 'under the sun' signals a focus on the human, worldly perspective rather than explicit eschatological hopes.",
+  "externalReferences": "The imagery of humans returning to dust resonates with Genesis 3:19 and with Psalms that emphasize human transience (e.g., Psalm 90:5–6). The idea that earthly enjoyment is a gift from God echoes other Ecclesiastes passages (see Ecclesiastes 2:24–26) that counsel finding contentment in daily blessings. Themes of inscrutable divine purposes and human limitation are also found in Job and other wisdom texts that wrestle with suffering and divine sovereignty (e.g., Job 38–41).",
+  "seeAlso": [
+    "Ecclesiastes 1:2",
+    "Ecclesiastes 2:24-26",
+    "Genesis 3:19",
+    "Psalm 90:5-6",
+    "Isaiah 40:6-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "A Time for Everything"
+    },
+    {
+      "range": "9-15",
+      "title": "Divine Timing and Labor"
+    },
+    {
+      "range": "16-22",
+      "title": "Mortality and Enjoyment"
+    }
+  ],
+  "themes": [
+    "Seasons of life",
+    "Divine sovereignty",
+    "Mortality",
+    "Enjoyment of labor"
+  ],
+  "practicalQuestions": [
+    "In which 'season' of life do I find myself, and how should that shape my choices?",
+    "How can awareness of mortality (\"all turn to dust\") change the way I value daily work and relationships?",
+    "What practices help me accept limits of understanding while still acting responsibly?",
+    "How can I cultivate gratitude for ordinary enjoyments described as God’s gift?"
+  ],
+  "uncertainAreas": "Authorship and precise dating are debated (Qoheleth as historical Solomon vs. later teacher). The meaning of verses about the spirit of man and beast (v.21) is ambiguous—whether implying an afterlife distinction or affirming uncertainty about postmortem destiny. It is also uncertain whether the recommendation to enjoy life is presented as the final theological verdict or a pragmatic consolation within a skeptical frame.",
+  "createdAt": "2025-11-03T22:50:12.558Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

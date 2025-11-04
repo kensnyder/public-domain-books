@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.21",
+  "briefOverview": "A collection of short wisdom sayings emphasizing God's control over human affairs and the moral requirements of righteous living.",
+  "summary": "Proverbs 21 contrasts human plans and appearances with God's knowledge and sovereign direction (vv.1–2), commending justice and right conduct above ritual (v.3) and condemning pride, haste, and wicked gain (vv.4–7, 24–28). It gives practical contrasts between the consequences of wickedness and the benefits of righteousness—security, honour, and wise household management (vv.11–13, 15, 20–22). Several verses offer domestic and social advice (better a small quiet place than a house with a quarrelsome woman, vv.9, 19), warnings against sloth and greed (vv.25–26), and maxims about speech, secret gifts, and wise planning (vv.23–24, 14, 31). The chapter closes by reminding readers that human preparations are limited and ultimate safety depends on the LORD (v.31).",
+  "externalContext": "Proverbs is part of Israel's wisdom literature, traditionally associated with Solomon and collected over time in the monarchic and post‑monarchic periods. Many proverbs reflect ancient Near Eastern wisdom genres—brief, memorable sayings meant for teaching householders, officials, and young people—rather than legal codes. The chapter's concern with kings, sacrifice, and social justice presumes a society where ritual practice, household management, and royal decision‑making were central, and where prophetic voices (later in Israel's history) explicitly criticized ritual without ethical behavior.",
+  "externalReferences": "The idea that human plans are reshaped by God parallels Proverbs 16:9 (“The heart of man plans his way, but the LORD establishes his steps”) and is a recurring theme in wisdom literature.\n\nThe statement that justice is better than sacrifice echoes prophetic critiques such as Isaiah 1:11–17 and the ethical demand in Micah 6:8, where ritual observance is rejected without corresponding righteousness and mercy. The caution that military or material preparations cannot guarantee safety mirrors psalmic and prophetic warnings (e.g., Psalm 20:7; contrasted with reliance on the LORD).",
+  "seeAlso": [
+    "Proverbs 16:9",
+    "Isaiah 1:11-17",
+    "Micah 6:8",
+    "Psalm 20:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Divine Sovereignty"
+    },
+    {
+      "range": "3-15",
+      "title": "Justice and Character"
+    },
+    {
+      "range": "16-31",
+      "title": "Practical Household Wisdom"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Justice",
+    "Wisdom",
+    "Righteous conduct"
+  ],
+  "practicalQuestions": [
+    "How should I balance careful planning with humility about outcomes beyond my control?",
+    "In what concrete ways can my community prioritize justice and mercy over religious formality?",
+    "How do pride and impulsive decisions show up in my life, and what steps can reduce their harm?",
+    "What practices would cultivate prudent speech and generosity in my relationships?"
+  ],
+  "uncertainAreas": "Several verses use compact, metaphorical language (e.g., \"as the rivers of water\" in v.1; v.6’s phrase about treasures acquired by a lying tongue) whose precise nuances are debated. Some statements read as general maxims rather than absolute promises, so it's uncertain whether they are meant as universally true rules or situational prudential advice. The meaning of v.18 (\"The wicked shall be a ransom for the righteous\") is terse and open to multiple interpretations (legal, social, or proverbial).",
+  "createdAt": "2025-11-03T22:44:03.706Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

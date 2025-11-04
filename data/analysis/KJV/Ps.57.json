@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.57",
+  "briefOverview": "A prayer for mercy and protection amid deadly danger that turns into a vow of confident praise; the psalmist trusts God as refuge and promises public worship.",
+  "summary": "The speaker opens with an urgent plea for God's mercy and declares personal trust, using the image of taking refuge 'in the shadow of thy wings' until danger passes. He appeals to God Most High as one who acts on his behalf and will send salvation and steadfast truth from heaven. The psalmist describes violent enemies—'lions' whose teeth are spears and arrows—and accuses them of setting traps that instead ensnare themselves. Despite the threat, his heart is fixed; he resolves to sing, awaken instruments, and offer praise early. The psalm concludes with a public commitment to praise God among peoples and nations and a repeated petition that God be exalted above the heavens.",
+  "externalContext": "Psalms are part of ancient Israel's worship literature and were used both in private devotion and communal liturgy; features like the word 'Selah' and the call to instruments indicate liturgical performance. The imagery of divine protection under 'wings' is a common ancient Near Eastern motif adopted in Israelite religion to express refuge and care. Many psalms use martial language and the motif of enemies' schemes backfiring, reflecting a context in which political violence and personal danger were real threats to leaders and petitioners.",
+  "externalReferences": "The 'shadow of thy wings' image echoes other psalms of trust such as Psalm 91:4 ('He shall cover thee with his feathers...'). Themes of refuge and deliverance are also prominent in Psalm 18:2 ('The LORD is my rock and my fortress'). The motif of enemies setting traps that fail is found elsewhere in the Davidic lament tradition (e.g., Psalm 59) where the petitioner calls for rescue from malicious foes.",
+  "seeAlso": [
+    "Psalm 91:4",
+    "Psalm 18:2",
+    "Psalm 59:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Plea for Mercy"
+    },
+    {
+      "range": "4-6",
+      "title": "Enemy Threats"
+    },
+    {
+      "range": "7-11",
+      "title": "Vow of Praise"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Refuge",
+    "Praise",
+    "Persecution"
+  ],
+  "practicalQuestions": [
+    "When facing danger or injustice, how can I cultivate the same steady trust the psalmist expresses?",
+    "What practices (prayer, communal worship, music) help transform fear into praise during trials?",
+    "How should communities respond when enemies or unjust schemes threaten vulnerable members?",
+    "In what ways can the image of 'refuge under the wings' shape pastoral care and consolation today?"
+  ],
+  "uncertainAreas": "The text gives no explicit historical setting; traditional attribution to David and a setting of flight (e.g., from Saul) is common but not stated here. The precise liturgical function of 'Selah' and the full meaning of some metaphors (e.g., 'sons of men' as attackers) remain interpretive.",
+  "createdAt": "2025-11-03T21:49:39.869Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

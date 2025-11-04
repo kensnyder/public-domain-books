@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.16",
+  "briefOverview": "A personal song of trust and gratitude that affirms God as the psalmist’s refuge, portion, and guide, culminating in a confident hope that God will not abandon him to death but will show him the path of life.",
+  "summary": "The psalm opens with a plea for preservation and a declaration of trust in the LORD. The speaker affirms the LORD as his Lord and refuses to worship other gods or offer blood-tainted sacrifices. God is described as the psalmist’s portion and inheritance, producing contentment with his lot. The psalmist praises God for counsel and inward guidance, especially in dark times, and declares that God’s presence gives stability and rejoicing. The closing verses express a striking confidence that God will not abandon the soul to Sheol nor allow the “Holy One” to see corruption, and promise revelation of the path of life with joy and pleasures at God’s right hand.",
+  "externalContext": "Psalm 16 is part of Book I of the Psalter (Psalms 1–41) and is traditionally associated with David in the superscriptions of many manuscripts. Its language and motifs — Sheol, inheritance as divine portion, God at the right hand, and inner counsel — reflect ancient Israelite concerns about divine protection, communal/royal identity, and life after death as understood in the Hebrew poetic tradition. The psalm was used in liturgical and devotional contexts in Jewish and later Christian worship.",
+  "externalReferences": "The Book of Acts (Acts 2:25–28 and Acts 13:35–37) cites Psalm 16:8–11 to argue that the promise that God would not abandon his servant to Hades was fulfilled in Jesus’ resurrection, interpreting “Holy One” and the refusal to let him see corruption as messianic. Within the Hebrew Bible, themes of God as portion or inheritance echo other psalms and wisdom texts that present God as the believer’s true possession (cf. Psalm 73:24).",
+  "seeAlso": [
+    "Acts 2:25-28",
+    "Acts 13:35-37",
+    "Psalm 23:1-6",
+    "Psalm 73:24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Trust and Rejection"
+    },
+    {
+      "range": "5-8",
+      "title": "Portion and Guidance"
+    },
+    {
+      "range": "9-11",
+      "title": "Hope of Life"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Divine presence",
+    "Inheritance",
+    "Hope"
+  ],
+  "practicalQuestions": [
+    "What does naming God as my ‘portion’ change about how I handle possessions, ambition, or grief today?",
+    "Which modern ‘other gods’ or practices tempt me to compromise my loyalty, and how can I refuse them practically?",
+    "How can I cultivate a sense of God’s ongoing presence so that I am ‘not moved’ in anxiety or decision-making?",
+    "How should the psalm’s confident hope about God’s care in death shape my priorities, mourning, or pastoral care for others?"
+  ],
+  "uncertainAreas": "The identity of the ‘Holy One’ (the psalmist himself, an ideal righteous figure, or a messianic figure) is ambiguous. The meaning of “not leave my soul in hell” and “see corruption” has been variously interpreted as refusal of abandonment in Sheol, assurance of burial without decay, or a prophetic hint of resurrection; the text does not force a single technical explanation. The precise date, original setting, and liturgical role are not specified in the poem.",
+  "createdAt": "2025-11-03T21:33:37.338Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

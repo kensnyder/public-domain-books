@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Ps.83",
+  "briefOverview": "A fervent liturgical plea asking God to act decisively against a confederation of peoples plotting Israel’s destruction.",
+  "summary": "The psalmist opens with an urgent call for God not to remain silent as hostile nations conspire against Israel. A list of neighboring peoples and groups is given who seek to wipe out Israel’s name. The psalm recalls God’s past defeats of Israel’s enemies (Midian, Sisera, Jabin, etc.) as models for what God should do now. The speaker petitions for humiliating, destructive divine action — images of wheel, fire, tempest — so the enemies will be ashamed and perish. The stated aim of these requests is that all peoples recognize that Yahweh alone is Most High over the earth.",
+  "externalContext": "Psalm 83 is part of the Hebrew Psalter and is traditionally associated with Asaph in many manuscript headings, placing it in the collection of community/temple singers. The names listed (Edom, Moab, Ammon, Amalek, Philistines, Tyre, Assyria, etc.) correspond to long-standing neighboring peoples in the ancient Near East and reflect the geopolitical anxieties of Israelite/Judean communities facing surrounding hostile powers. The psalm belongs to the imprecatory subgenre of the Psalms, which voices strong prayers for God’s judgment on enemies.",
+  "externalReferences": "Verses 9–11 invoke victories narrated in the book of Judges: the defeat of Sisera and Jabin at the brook Kishon (see Judges 4–5), the fate of Oreb and Zeeb (cf. Judges 7:25), and the capture/defeat of Zebah and Zalmunna (cf. Judges 8:10–21). The reference to the “children of Lot” echoes the origin traditions for Moab and Ammon (Genesis 19:30–38). The imprecatory tone is similar to other psalms that ask for divine vindication against enemies, for example Psalm 35 and Psalm 69:22–28.",
+  "seeAlso": [
+    "Judges 4:1-24",
+    "Judges 5:1-31",
+    "Judges 7:25",
+    "Judges 8:10-21",
+    "Genesis 19:30-38",
+    "Psalm 35:1-28",
+    "Psalm 69:22-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Urgent Plea for Action"
+    },
+    {
+      "range": "4-8",
+      "title": "List of Conspirators"
+    },
+    {
+      "range": "9-18",
+      "title": "Imprecatory Petition and Purpose"
+    }
+  ],
+  "themes": [
+    "Divine intervention",
+    "Enemy coalition",
+    "Imprecatory prayer",
+    "Covenant identity"
+  ],
+  "practicalQuestions": [
+    "When is it appropriate for communities or individuals to pray for justice in strong, punitive terms?",
+    "How can modern readers balance the psalm’s call for divine action with ethical concerns about wishing harm on others?",
+    "What practices help a community maintain its identity and name under political or cultural threat, as the psalm seeks?",
+    "How does the aim that 'men may know' God’s sovereignty shape the way we pray for justice and witness today?"
+  ],
+  "uncertainAreas": "Identification and dating of the specific coalition are uncertain — some group names (e.g., Hagarenes, Gebal) are debated by scholars and may reflect a broad poetic list rather than one historical alliance. The rhetorical extent of the imprecations (literal desire for destruction versus liturgical/figurative language) is also open to interpretation.",
+  "createdAt": "2025-11-03T22:02:48.623Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.64",
+  "briefOverview": "A prayer for protection against secret, slanderous enemies and a declaration that God will punish conspirators, leading the righteous to rejoice and trust in the LORD.",
+  "summary": "The psalmist petitions God to hear his prayer and preserve him from fearful enemies who plot in secret (vv.1–2). He describes the enemies' verbal and covert weapons — tongues like swords and arrows shot secretly — and their confident plotting (vv.3–6). The tone shifts as the psalm affirms that God will strike those conspirators suddenly, causing their own speech to condemn them and making witnesses flee (vv.7–8). The poem closes with the outcome: people will fear, acknowledge God's work, and the righteous will rejoice and glory in the LORD (vv.9–10).",
+  "externalContext": "Psalms often reflect situations of personal danger, slander, or political intrigue in ancient Israel; many were used as liturgical or private prayers. The imagery of tongues and arrows as weapons fits ancient Near Eastern poetic conventions where speech and weapons are both described as instruments of attack. Traditionally several psalms are attributed to David, and this lament/complaint fits the pattern of royal or personal pleas for vindication in that cultural setting.",
+  "externalReferences": "Psalm 140:3 uses similar imagery of a sharpened tongue and poison under the lips, addressing verbal hostility from enemies and echoing the concern about speech as a weapon. Psalm 35:11–15 depicts false witnesses and secret plots against the psalmist, paralleling the theme of conspirators who ‘lay snares privily.’ Together these cross-references show a common biblical motif of covert slander and a hope for divine vindication (see also Psalm 55:21 on deceptive speech).",
+  "seeAlso": [
+    "Psalm 140:3",
+    "Psalm 35:11-15",
+    "Psalm 55:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Plea about Secret Enemies"
+    },
+    {
+      "range": "7-10",
+      "title": "Divine Retribution and Joy"
+    }
+  ],
+  "themes": [
+    "Enemies",
+    "Divine justice",
+    "Slander and speech",
+    "Trust in God"
+  ],
+  "practicalQuestions": [
+    "When faced with secret criticism or slander today, how can I seek protection and justice while maintaining integrity?",
+    "What practices help a community ‘declare the work of God’ publicly rather than responding with retaliation?",
+    "How does trusting God for vindication shape the way I pray and act toward those who harm me?",
+    "In what ways can metaphors of speech-as-weapon caution us about the ethical use of words in conflict?"
+  ],
+  "uncertainAreas": "The psalm's original occasion and specific opponents are not identified, so whether this refers to personal enemies, political rivals, or a broader social situation is unclear. The violent imagery (arrows shot by God) is metaphorical but allows for multiple readings—divine punishment, poetic vindication, or hope for legal/social redress.",
+  "createdAt": "2025-11-03T21:53:13.465Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

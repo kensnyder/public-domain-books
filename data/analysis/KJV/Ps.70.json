@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.70",
+  "briefOverview": "A short, urgent plea for God to hasten deliverance from enemies, coupled with a call for rejoicing among God’s people and a confession of personal need.",
+  "summary": "The psalmist urgently calls on God to hasten to deliver and help (vv.1,5). He asks that those who seek his life be put to shame and turned back (vv.2–3), while affirming that those who seek God should rejoice and magnify Him (v.4). The speaker emphasizes his own poverty and dependence on the Lord, repeating the plea for swift rescue (v.5).",
+  "externalContext": "Psalm 70 is part of the Hebrew psalter and functions as a brief lament/imprecatory prayer used in Israelite worship. It is nearly identical to Psalm 40:13–17, which suggests it could be an excerpt adapted for liturgical use or a standalone petition drawn from a longer composition. Psalms of this genre commonly express both plea for help and calls for vindication against enemies in the ancient Near Eastern context where communal and personal honor were paramount.",
+  "externalReferences": "This psalm closely parallels Psalm 40:13–17 in wording and structure, essentially repeating that passage as an independent prayer. Its combination of urgent petition, imprecatory language, and an appeal for rejoicing among God’s seekers resonates with other lament-imprecatory psalms such as Psalm 35 and Psalm 69, which also plead for rescue and judgment on adversaries.",
+  "seeAlso": [
+    "Psalm 40:13-17",
+    "Psalm 69:1-4",
+    "Psalm 35:4-8",
+    "Psalm 31:9-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-1",
+      "title": "Urgent Plea for Help"
+    },
+    {
+      "range": "2-3",
+      "title": "Judgment on Enemies"
+    },
+    {
+      "range": "4-5",
+      "title": "Praise and Dependence"
+    }
+  ],
+  "themes": [
+    "Urgent deliverance",
+    "Enemies",
+    "Trust",
+    "Praise"
+  ],
+  "practicalQuestions": [
+    "When you feel threatened or overwhelmed, how do you express urgent dependence on God in prayer?",
+    "How should communities balance prayers for vindication with calls to mercy and reconciliation?",
+    "What practices help you remember God’s past help so you can 'rejoice' and 'magnify' God in times of distress?",
+    "How does admitting personal poverty or need shape the way you ask others or God for help?"
+  ],
+  "uncertainAreas": "The original historical situation prompting this petition is not specified; authorship is traditionally ascribed to David but is uncertain. The reason Psalm 70 duplicates Psalm 40:13–17 (literary dependence or liturgical excerpting) is not determinable from the text alone.",
+  "createdAt": "2025-11-03T21:55:50.886Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

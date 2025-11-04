@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.13",
+  "briefOverview": "A short individual lament that moves from anguished complaint about God's apparent absence to confident trust and praise for divine mercy.",
+  "summary": "The psalmist opens with repeated questions asking how long the LORD will forget or hide his face, expressing ongoing sorrow and the uplifted status of his enemies (vv. 1–2). He pleads for God to notice and restore him, fearing death and the rejoicing of his foes if God does not intervene (vv. 3–4). The tone shifts in verse 5 as the speaker affirms trust in God's mercy and anticipates joy in salvation. The psalm closes with a vow to sing to the LORD in recognition of God’s generous dealings (v. 6).",
+  "externalContext": "Psalm 13 belongs to the Israelite tradition of individual lament psalms, a common genre in ancient Near Eastern prayer and Israelite worship that moves from complaint through petition to trust or praise. Many psalms attributed to David reflect situations of personal danger or persecution, but the precise historical occasion for this short psalm is not specified in the text.",
+  "externalReferences": "The opening “How long?” motif and lament-to-trust movement is echoed elsewhere in the Psalter (e.g., Psalm 6:3, which similarly begins with “O LORD, how long?”). Psalm 42:5 and 42:11 also model the turn from despondency to hope with the refrain “Why are you cast down, O my soul? … hope in God.” Themes of waiting and trusting for the LORD’s deliverance resonate with Psalm 62:5 and Lamentations 3:25–26, which emphasize patient hope in God.",
+  "seeAlso": [
+    "Psalm 6:3",
+    "Psalm 42:5-11",
+    "Psalm 62:5-8",
+    "Lamentations 3:25-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Complaint and Petition"
+    },
+    {
+      "range": "5-6",
+      "title": "Trust and Praise"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Trust",
+    "Praise",
+    "Divine mercy"
+  ],
+  "practicalQuestions": [
+    "How can I honestly bring prolonged doubt or feelings of abandonment to God in prayer?",
+    "What practices help sustain trust during long seasons of suffering or delay?",
+    "How should communities respond when a member expresses lament like this—comfort, lament liturgy, or other support?",
+    "In what ways can expressing future praise (vow to sing) strengthen present faith and resilience?"
+  ],
+  "uncertainAreas": "The psalm gives no historical setting or clear identity for the enemies—whether personal, political, or symbolic is uncertain. The phrase “sleep the sleep of death” could be read literally or metaphorically; the text does not settle the meaning. The traditional Davidic attribution is common but not confirmed by internal evidence.",
+  "createdAt": "2025-11-03T21:32:16.451Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

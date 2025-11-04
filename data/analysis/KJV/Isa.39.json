@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Isa.39",
+  "briefOverview": "A diplomatic visit from Babylonian envoys leads Hezekiah to display his wealth, and Isaiah prophesies that those treasures and Hezekiah's descendants will one day be taken to Babylon.",
+  "summary": "Merodach-baladan, king of Babylon, sends envoys with a present to Hezekiah after hearing of his recovery. Hezekiah warmly receives them and shows them all his treasures and armory. Isaiah confronts Hezekiah and reports a word from the LORD: everything in Hezekiah’s house and what his fathers stored will be carried off to Babylon, and some of his descendants will be taken and made eunuchs in the Babylonian court. Hezekiah responds by accepting the prophecy calmly, saying that the LORD’s word is good because there will be peace in his own days, revealing a short-term contentment that contrasts with the long-term warning.",
+  "externalContext": "Merodach-baladan (Marduk-apla-iddina II) is a historical Babylonian ruler who opposed Assyrian dominance in the late 8th / early 7th century BCE and is attested in extra-biblical records. Hezekiah ruled Judah in the late 8th century BCE; the prophecy about Babylon anticipates the later Babylonian dominance and the exile in the 6th century BCE, though the political reality that produced that exile occurred generations after Hezekiah. In the ancient Near East, making someone a eunuch could mean literal castration but also could indicate placing them in servile administrative roles at a foreign court; both meanings inform how the threat is understood.",
+  "externalReferences": "This incident is narrated in parallel in 2 Kings 20:12–19, which gives additional detail about the exchange and its consequences. The prophecy in Isaiah 39 looks forward to the events recorded later in 2 Kings 24–25 and Jeremiah 39 and 52, which narrate the Babylonian removal of treasures and the exile of Judah’s people and leaders.",
+  "seeAlso": [
+    "2 Kings 20:12-19",
+    "2 Kings 24-25",
+    "Jeremiah 39:1-10",
+    "Isaiah 36-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Babylonian Envoys"
+    },
+    {
+      "range": "5-8",
+      "title": "Prophetic Warning and Response"
+    }
+  ],
+  "themes": [
+    "Prophetic warning",
+    "Pride",
+    "Consequences",
+    "Short-sighted leadership"
+  ],
+  "practicalQuestions": [
+    "When does sharing or displaying resources become reckless exposure that endangers future generations?",
+    "How should leaders weigh present peace or popularity against possible long-term harms?",
+    "How do we respond when a trusted advisor or prophetic voice warns of consequences we prefer not to hear?",
+    "What measures can communities take to protect the inheritance and wellbeing of future generations?"
+  ],
+  "uncertainAreas": "The exact historical timing and political motives of Merodach-baladan’s visit and how directly this incident anticipates the later Babylonian exile are debated. The term 'eunuchs' may be literal or figurative (castration versus court servitude), and Hezekiah’s approving response is ambiguous—whether it reflects resignation, self-centered contentment, or trust in God for his lifetime is unclear.",
+  "createdAt": "2025-11-03T23:20:36.678Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.19",
+  "briefOverview": "Psalm 19 contrasts two forms of divine revelation—creation and the Torah—and ends with a penitential prayer asking that speech and thought be acceptable to God.",
+  "summary": "Verses 1–6 celebrate the heavens and the sun as a universal, wordless testimony to God's glory and ordering of the world. Verses 7–11 praise the law of the LORD (Torah) as perfect, sure, and more desirable than gold, producing wisdom, joy, and reward for the obedient. Verses 12–14 shift to a personal petition: the speaker asks God to cleanse hidden faults, restrain presumptuous sins, and make his words and meditations pleasing to the LORD, whom he calls his strength and redeemer.",
+  "externalContext": "Traditionally attributed to David, Psalm 19 arises from an ancient Israelite context in which both nature and the law were understood as legitimate arenas for encountering God. The imagery (the sun as bridegroom/strong man, the “law” as life-transforming instruction) reflects poetic conventions of the ancient Near East. The psalm’s twofold structure—cosmic revelation and revealed law—has been influential in later Jewish and Christian reflection on how God makes himself known.",
+  "externalReferences": "The idea that creation discloses God’s attributes echoes Job 12:7–10 and is picked up in the New Testament in Romans 1:20, which says creation reveals God’s invisible qualities. The exaltation of Torah-language in verses 7–11 parallels longer meditations on the law in Psalm 119 (e.g., Psalm 119:97–104) which similarly celebrates the law’s wisdom and sweetness.",
+  "seeAlso": [
+    "Romans 1:20",
+    "Psalm 119:97-104",
+    "Job 12:7-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Creation's Witness"
+    },
+    {
+      "range": "7-11",
+      "title": "Praise of the Law"
+    },
+    {
+      "range": "12-14",
+      "title": "Prayer for Purity"
+    }
+  ],
+  "themes": [
+    "Creation",
+    "Revelation",
+    "Law",
+    "Purity"
+  ],
+  "practicalQuestions": [
+    "How does observing nature influence my sense of God’s presence and order in daily life?",
+    "Do I value spiritual instruction (scripture/teaching) more highly than material gain? How is that shown in my priorities?",
+    "What practices help me recognize and confess ‘secret faults’ or habitual tendencies I overlook?",
+    "How can I shape my speech and inner thoughts so they are ‘acceptable’ before God and constructive toward others?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are traditional but not certain. The phrase “tabernacle for the sun” and the bridegroom/runner imagery admit metaphorical readings (poetic description of the sun’s motion) rather than a literal theological claim. The distinction between “secret faults” and “presumptuous sins” invites interpretation about degrees of culpability that the text does not fully define.",
+  "createdAt": "2025-11-03T21:34:42.387Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

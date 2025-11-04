@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Ps.58",
+  "briefOverview": "An imprecatory psalm that indicts corrupt human judges and calls on God to punish the wicked, concluding with an affirmation that God judges on earth.",
+  "summary": "The speaker challenges a congregation or human judges for false righteousness and hidden wickedness, portraying the wicked as inherently deceitful and venomous like serpents (verses 1–5). The psalm then petitions God to disable and destroy these evildoers—breaking their teeth, causing them to melt away, and removing them quickly (verses 6–9). It closes with the righteous rejoicing at divine vengeance and a final declaration that God rewards the righteous and judges the earth (verses 10–11).",
+  "externalContext": "This psalm belongs to the biblical Book of Psalms, a core collection used in Israelite worship and private prayer. Imprecatory psalms—prayers that call for God’s punitive action against enemies—are a recognized genre within ancient Near Eastern and Israelite religious practice and often reflect communal or legal complaints against corrupt leaders or persecutors.",
+  "externalReferences": "Psalm 35, Psalm 59, and Psalm 109 are other psalms that likewise call for God’s intervention against enemies and share the imprecatory tone and legal/forensic language. Psalm 7 also parallels this pattern of alleging injustice and asking for divine judgment. In the New Testament, passages such as Matthew 5:44 (love your enemies) and Romans 12:19 (leave vengeance to God) are often discussed alongside imprecatory psalms when readers wrestle with the ethical implications of calling for divine retribution.",
+  "seeAlso": [
+    "Psalm 35",
+    "Psalm 59",
+    "Psalm 109",
+    "Psalm 7",
+    "Matthew 5:44",
+    "Romans 12:19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Indictment of the Wicked"
+    },
+    {
+      "range": "6-11",
+      "title": "Prayer for Justice"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Judgment",
+    "Vengeance",
+    "Wickedness"
+  ],
+  "practicalQuestions": [
+    "When members of a community perceive corruption in leaders or judges, how should they seek justice while avoiding personal vengeance?",
+    "How can modern worshipers reconcile the violent imagery of imprecatory psalms with ethical teachings that emphasize mercy and forgiveness?",
+    "What role should communal lament and petition play in confronting institutional injustice today?",
+    "When praying for justice, how can we balance appeals for God’s intervention with responsible human action (legal, civic, restorative)?"
+  ],
+  "uncertainAreas": "The specific historical occasion and identity of the addressees (whether literal judges, community leaders, or a rhetorical congregation) are not given. Some Hebrew metaphors (e.g., \"pots feel the thorns\") and the degree to which violent language is intended as hyperbolic poetic expression versus literal wish are open to interpretation.",
+  "createdAt": "2025-11-03T21:50:05.906Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

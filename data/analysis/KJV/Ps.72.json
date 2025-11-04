@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.72",
+  "briefOverview": "A royal prayer for a righteous, beneficent king whose rule brings justice, prosperity, and universal peace. The psalm closes with praise to God and a note attributing the prayer to David.",
+  "summary": "The speaker asks God to grant just rule and righteousness to the king (v.1), emphasizing defense and care for the poor and oppressed (vv.2–4,12–14). The king’s reign is pictured as bringing peace and flourishing—like life-giving rain—and extending dominion from sea to sea so that nations acknowledge and honor him (vv.3–11,16–17). Wealth and tribute from distant kings are promised, and the king’s name will endure, bringing blessing to the nations (vv.10–17). The psalm concludes with doxology praising Yahweh for wondrous acts and a final note that these are the prayers of David (vv.18–20).",
+  "externalContext": "Psalm 72 is classed among royal psalms and likely functioned in a coronation or royal ideology context, offering an ideal portrait of kingship in ancient Israel. Jewish and Christian traditions have read it both as a prayer for an earthly monarch (often Solomon, \"the king's son\") and as a messianic prophecy anticipating an ultimate righteous ruler.",
+  "externalReferences": "The theme of an everlasting, righteous rule echoes Isaiah 9:6–7, which promises a perpetually just reign. The idea of nations bowing and the king as God’s anointed resonates with Psalm 2, a coronation/royal-messianic text. The Davidic covenant in 2 Samuel 7:12–16 provides the theological background for expectations of an enduring dynasty, which readers often bring to this psalm.",
+  "seeAlso": [
+    "Isaiah 9:6-7",
+    "Psalm 2",
+    "2 Samuel 7:12-16",
+    "Luke 1:32-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Petition for Justice"
+    },
+    {
+      "range": "8-17",
+      "title": "Universal Reign and Blessing"
+    },
+    {
+      "range": "18-20",
+      "title": "Doxology and Conclusion"
+    }
+  ],
+  "themes": [
+    "Righteous rule",
+    "Justice for the poor",
+    "Universal kingship",
+    "Praise of God"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways should contemporary leaders prioritize justice and protection for the poor as modeled here?",
+    "How can communities pray for and hold leaders accountable to the ideal of righteous rule without idealizing power?",
+    "What does the psalm’s vision of peace and flourishing (rain, abundant harvest) suggest for ethical stewardship of land and resources today?",
+    "How might the language of universal kingship shape interfaith and international attitudes toward others in a plural world?"
+  ],
+  "uncertainAreas": "It is unclear whether the original intent was a coronation prayer for Solomon/another historical king, an idealized royal liturgy, or a prophetic/messianic expectation; several images (e.g., mountains bringing peace) are poetic and admit multiple symbolic readings.",
+  "createdAt": "2025-11-03T21:56:48.083Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

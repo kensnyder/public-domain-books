@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.139",
+  "briefOverview": "A personal psalm reflecting on God's intimate knowledge, constant presence, and creative care, ending with a plea for moral examination and guidance.",
+  "summary": "The psalmist affirms that God thoroughly knows his actions, thoughts, and words (1–6). He declares there is nowhere to flee from God's presence—whether in heaven, Sheol, or the far sea—and that God's hand guides and holds him (7–12). Verses 13–16 praise God's role in the psalmist's formation in the womb and portray God as the author who has seen and written his members before birth. The psalmist contrasts God's care with the fate of the wicked, expresses anger at those who oppose God (19–22), and concludes with a request that God search his heart, reveal any wicked way, and lead him in the way everlasting (23–24).",
+  "externalContext": "Psalms are Hebrew poems used in Israelite worship; many are traditionally attributed to David, and Psalm 139 is commonly read as a royal or personal lament/meditation on divine knowledge and presence. The theological concerns—God's omniscience, omnipresence, and involvement in human origin—reflect broader ancient Israelite convictions about God's sovereignty and care. The reference to 'hell' (Hebrew sheol) and language of being 'formed in secret' echo common ancient Near Eastern metaphors for birth, death, and divine providence.",
+  "externalReferences": "The theme of divine knowledge before birth resonates with Jeremiah 1:5 (“Before I formed you in the womb I knew you”) and with statements in Job about God's role in formation (see Job 10:8–12). The petition ’Search me, O God’ and concern for inner purity echoes the penitential self-examination found in Psalm 51:10 (“Create in me a clean heart, O God”). The psalm’s language of omnipresence has parallels elsewhere in the Psalter and wisdom literature that stress God’s inescapability and sustaining presence.",
+  "seeAlso": [
+    "Jeremiah 1:5",
+    "Job 10:8-12",
+    "Psalm 51:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Divine Knowledge Declared"
+    },
+    {
+      "range": "7-12",
+      "title": "God's Omnipresence"
+    },
+    {
+      "range": "13-24",
+      "title": "Formation, Judgment, Prayer"
+    }
+  ],
+  "themes": [
+    "Divine knowledge",
+    "Omnipresence",
+    "Divine formation",
+    "Moral examination"
+  ],
+  "practicalQuestions": [
+    "How would recognizing God's constant knowledge change the way I speak and act in daily life?",
+    "In what ways can I invite God to 'search' my heart and identify hidden faults?",
+    "How should communities respond to the psalm’s call to hate what opposes God while avoiding personal vindictiveness?",
+    "What comfort and challenge does the doctrine of God's presence offer when facing loneliness or fear?"
+  ],
+  "uncertainAreas": "Authorship is traditionally Davidic but not explicit in the text. The translation of terms like 'hell' (Hebrew sheol) and phrases like 'lowest parts of the earth' have metaphorical and cultural nuances. The strong language of hatred toward enemies (vv.21–22) raises interpretive questions about poetic hyperbole versus ethical prescription.",
+  "createdAt": "2025-11-03T22:28:04.327Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

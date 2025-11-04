@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.50",
+  "briefOverview": "Yahweh summons the world to judge Israel, rejecting ritual offerings offered in hypocrisy and calling for thankful, covenantal obedience.",
+  "summary": "The psalm opens with God proclaiming himself as judge over all creation and calling his people together (vv. 1–6). God declares that he does not need the Israelites' sacrifices — he is master of all creation — and instead calls for thanksgiving, faithful vows, and reliance on him in trouble (vv. 7–15). He then rebukes those who profess the covenant but live wickedly, listing specific sins (vv. 16–21) and promising to confront them. The psalm closes by urging sincere praise and upright conduct, promising to show the salvation of God to those who live rightly (v. 23).",
+  "externalContext": "This psalm is traditionally ascribed to Asaph and reflects a temple or cultic context in which sacrifices and vows were central practices. It uses the prophetic \"divine courtroom\" motif (a common ancient Near Eastern and prophetic Israelite literary form) in which God summons the people and pronounces judgment. The critique of empty ritual fits broader prophetic concerns about ethical life accompanying worship in the Hebrew Bible.",
+  "externalReferences": "The theme of God rejecting mere ritual while demanding justice and heartfelt obedience closely parallels Isaiah 1:11–17, which condemns sacrifices offered without righteousness. Amos 5:21–24 similarly denounces offerings that are not accompanied by justice. Micah 6:6–8 poses the question of what God requires and answers with justice, mercy, and humility rather than ritual excess. In the New Testament, Jesus (quoting Isaiah) criticizes outward piety that lacks true devotion (see Matthew 15:8–9).",
+  "seeAlso": [
+    "Isaiah 1:11-17",
+    "Amos 5:21-24",
+    "Micah 6:6-8",
+    "Matthew 15:8-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Divine Summons and Judgment"
+    },
+    {
+      "range": "7-15",
+      "title": "True Worship and Covenant"
+    },
+    {
+      "range": "16-23",
+      "title": "Rebuke and Exhortation"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Authentic worship",
+    "Covenant accountability",
+    "Ethics over ritual"
+  ],
+  "practicalQuestions": [
+    "Do my religious practices express genuine gratitude and ethical change, or are they routine observances?",
+    "How should communities balance ritual obligations with visible commitments to justice and honest speech?",
+    "When facing trouble, do I turn to God as the psalm recommends, and how does that shape my life and testimony?",
+    "How can vows or promises be honored today so that they reflect covenantal integrity rather than empty words?"
+  ],
+  "uncertainAreas": "Attribution to Asaph and precise historical dating are traditional but debated; it's unclear whether the primary target is general Israel, corrupt temple personnel, or a particular group. The extent to which the psalm rejects sacrifice itself versus condemning hypocritical sacrifice requires interpretive judgment.",
+  "createdAt": "2025-11-03T21:46:11.112Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Isa.25",
+  "briefOverview": "A communal song of praise that celebrates God’s acts of salvation: the humbling of hostile powers, care for the poor, an eschatological feast for all peoples, and the overturning of death and sorrow.",
+  "summary": "The chapter opens with a hymn of thanksgiving for God’s past and promised deeds, including the destruction of a fortified city and the humiliation of powerful enemies. God is portrayed as a refuge and strength for the poor and needy in distress. On “this mountain” the Lord will prepare a rich feast for all peoples and remove the covering or veil that hides nations, signaling revelation and restoration. The text proclaims that God will “swallow up death” and wipe away tears, promising solace and vindication for the people. The passage closes with a note of triumph over Moab and the bringing down of strong walls and fortresses.",
+  "externalContext": "Isaiah is part of the prophetic tradition centered on Jerusalem and Zion; references to “this mountain” typically point to Mount Zion (the temple-mountain) as the site of divine vindication and cultic hope. Banquet imagery (a feast of rich food and fine wine) is common in ancient Near Eastern royal and victory language and in Israelite prophetic hopes for a restored community. Moab was a neighboring kingdom east of the Dead Sea and appears repeatedly in prophetic oracles as a recipient of judgment.",
+  "externalReferences": "The language about God swallowing up death and wiping away tears is later echoed in the New Testament (e.g., 1 Corinthians 15:54 quotes the victory over death; Revelation 21:4 echoes the promise to wipe away every tear). The banquet motif and the removal of a covering that hides the nations resonate with other Isaiah passages that speak of Zion’s vindication and revelation (see, e.g., Isaiah 60–66 for parallel themes).",
+  "seeAlso": [
+    "1 Corinthians 15:54",
+    "Revelation 21:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Hymn of Praise"
+    },
+    {
+      "range": "6-9",
+      "title": "Feast and Vindication"
+    },
+    {
+      "range": "10-12",
+      "title": "Judgment on Nations"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Deliverance",
+    "Eschatological banquet",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How does the image of God as refuge for the poor shape how communities care for vulnerable people today?",
+    "What does the promise that God will ‘wipe away tears’ mean for personal and communal grieving?",
+    "How should the vision of a feast ‘for all people’ influence attitudes toward inclusion and hospitality?",
+    "In what ways can the text’s juxtaposition of comfort for the oppressed and judgment on oppressors inform responses to injustice now?"
+  ],
+  "uncertainAreas": "The precise referent of “this mountain” (local Zionic restoration vs. a later universal/eschatological event) is ambiguous. The identity and historical timing of the city and of “Moab” in vv.10–12 could be symbolic or specific historical targets. Some images (e.g., the ‘covering’ or the swimmer simile) are metaphorical and allow multiple valid interpretations; translation nuances affect tone and emphasis.",
+  "createdAt": "2025-11-03T23:13:16.491Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

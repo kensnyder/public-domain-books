@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Prov.4",
+  "briefOverview": "A father’s exhortation urging a son to pursue wisdom and live righteously, contrasted with the destructive way of the wicked.",
+  "summary": "The speaker, presenting himself as a son taught by his father, repeatedly urges the hearer to 'get wisdom' and 'get understanding,' promising life, honor, and protection to those who embrace instruction. Wisdom is described as primary and life-giving—an ornament, crown, and means to long life—while the way of the righteous is likened to increasing light. The text warns against following wicked people whose actions bring harm and unrest, and it calls for vigilance: guard your heart, control speech, keep your eyes straight, and make firm all your ways so you do not stray to the right or left.",
+  "externalContext": "Proverbs is part of Israel’s wisdom literature, composed and compiled over centuries in the first millennium BCE. Father-to-son instruction is a common pedagogical form in the ancient Near East; such collections were used in households and schools to train young men in prudent behavior and social ethics. The personified appeal to wisdom and the legalistic moral contrast reflect a tradition aiming to shape character rather than set out formal theology.",
+  "externalReferences": "The parental instruction motif echoes Proverbs 1:8–9 and Proverbs 6:20–23, which likewise urge obedience to a father's teaching. The presentation of wisdom as life and honor resembles Proverbs 3:13–18, and the contrast between the increasing light of the righteous and darkness of the wicked parallels Proverbs 4:18 with themes found earlier in the book (e.g., Proverbs 2:1–8).",
+  "seeAlso": [
+    "Proverbs 1:8-9",
+    "Proverbs 1:10-19",
+    "Proverbs 2:1-8",
+    "Proverbs 3:13-18",
+    "Proverbs 6:20-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Call to Seek Wisdom"
+    },
+    {
+      "range": "10-18",
+      "title": "Promises and Contrasts"
+    },
+    {
+      "range": "19-27",
+      "title": "Guard the Heart"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Instruction",
+    "Moral path",
+    "Heart-guarding"
+  ],
+  "practicalQuestions": [
+    "What concrete practices can I adopt to 'get wisdom' in daily decision-making?",
+    "How do I 'keep my heart with all diligence' in an environment of competing influences?",
+    "What modern behaviors correspond to 'turn not to the right hand nor to the left'?",
+    "How should parental or mentor instruction be weighed against personal experience and cultural change?"
+  ],
+  "uncertainAreas": "Uncertainty exists about the precise historical authorship and date (traditionally linked to Solomon but likely compiled over time), and about nuances of 'heart' and 'wisdom'—whether the emphasis is primarily intellectual knowledge, moral virtue, religious devotion, or an integrated character ideal.",
+  "createdAt": "2025-11-03T22:34:48.063Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

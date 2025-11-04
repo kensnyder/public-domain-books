@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.28",
+  "briefOverview": "A personal plea to God for help and justice followed by praise for God's hearing and a prayer for the community and the anointed.",
+  "summary": "The psalmist cries to the LORD, asking that God not be silent lest he be brought down to the pit. He prays toward God's holy oracle, asks not to be counted among the wicked, and calls for the wicked to receive recompense according to their deeds. The speaker then blesses the LORD for hearing his supplication, affirms God as his strength and shield which brings rejoicing, and vows praise. The closing verses broaden the petition to the community: God is named as the strength of the wicked and of his anointed, and the psalmist prays for salvation, blessing, feeding, and lifting up of God's people forever.",
+  "externalContext": "Psalm 28 is part of the Hebrew Psalter and is traditionally attributed to David; such individual lament/thanksgiving psalms were used in Israelite worship. Phrases like \"holy oracle\" and \"the LORD my rock\" reflect ancient Near Eastern temple and covenantal language, and \"anointed\" (Hebrew: mashiach) commonly denotes the king or a divinely appointed leader in Israel's monarchy. Imprecatory petitions (requests for justice or punishment on enemies) are a recognized genre within the Psalms.",
+  "externalReferences": "The motif of God as rock and shield echoes Psalm 18:2 (\"The LORD is my rock, my fortress, and my deliverer\"). The movement from plea to thanksgiving is similar to Psalm 3:4–8, where crying out leads to assurance that the LORD delivers. The call for the wicked to be judged resembles language in other imprecatory psalms such as Psalm 109 and Psalm 35, which also request divine recompense for enemies.",
+  "seeAlso": [
+    "Psalm 18:2",
+    "Psalm 3:4-8",
+    "Psalm 109:1-20",
+    "Psalm 35:1-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Plea and Judgment"
+    },
+    {
+      "range": "6-9",
+      "title": "Praise and Communal Petition"
+    }
+  ],
+  "themes": [
+    "Supplication",
+    "Divine justice",
+    "Trust",
+    "Anointing"
+  ],
+  "practicalQuestions": [
+    "When you feel God is silent, how can you honestly express that feeling while maintaining trust?",
+    "How should a faith community balance praying for justice with resisting personal vengeance?",
+    "In what ways can we pray for leaders ('the anointed') so that their strength benefits the whole community?",
+    "How might we cultivate immediate thanksgiving when we sense God has answered a prayer?"
+  ],
+  "uncertainAreas": "The precise referent of \"thy holy oracle\" is uncertain (it could mean the ark, the sanctuary, or a prophetic/temple locus). \"Anointed\" may specifically mean the king or more generally God’s chosen ones. The tone toward the wicked—whether judicial petition or call for personal vengeance—allows multiple interpretations within the imprecatory tradition.",
+  "createdAt": "2025-11-03T21:37:41.150Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

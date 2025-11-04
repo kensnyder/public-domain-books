@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.82",
+  "briefOverview": "A prophetic courtroom scene in which God confronts corrupt judges (called 'gods') for failing to protect the vulnerable and calls for divine judgment on the earth.",
+  "summary": "The psalm opens with God presiding in an assembly and judging among the 'gods.' He rebukes them for unjust judgment and partiality, commands them to defend and deliver the poor and fatherless, and criticizes their ignorance that upsets the foundations of the earth. The speaker reiterates that although he has called them 'gods' and children of the Most High, they will die like mortals and fall like princes. The psalm concludes with an urgent plea for God himself to arise, judge the earth, and inherit the nations.",
+  "externalContext": "Psalm 82 is traditionally associated with the Asaphite collection in the Psalter and reflects an ancient Near Eastern motif of a divine council or assembly in which a high god presides over lesser divine beings or rulers. In the Israelite context, 'gods' (Hebrew elohim) can denote divine beings but is also used elsewhere for human judges or rulers, and the poem engages Israelite expectations that leaders must administer impartial justice and protect the vulnerable. Social and legal concerns about partiality to the powerful and care for the poor are prominent in Israelite law (e.g., Deuteronomic instructions).",
+  "externalReferences": "Jesus cites this psalm in John 10:34–36 (quoting 'I said, Ye are gods') to make a point about Scripture and authority. Deuteronomy 1:16–17 contains parallel legal instruction against showing partiality in judgment, resonating with Psalm 82's rebuke of unjust judges. The depiction of a divine assembly has parallels in ancient Near Eastern (Ugaritic) texts that portray councils of gods, which helps explain the psalm's imagery though those are from a different cultural-religious milieu.",
+  "seeAlso": [
+    "John 10:34-36",
+    "Deuteronomy 1:16-17",
+    "Exodus 22:28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Divine Council Scene"
+    },
+    {
+      "range": "2-5",
+      "title": "Rebuke of Unjust Judges"
+    },
+    {
+      "range": "6-8",
+      "title": "Declaration and Plea"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Divine council",
+    "Accountability",
+    "Care for poor"
+  ],
+  "practicalQuestions": [
+    "How should contemporary leaders be held accountable when they show partiality or neglect the vulnerable?",
+    "In what ways can communities faithfully 'defend the poor and fatherless' today?",
+    "What does being called 'gods' imply for human dignity and responsibility toward justice?",
+    "When human institutions fail to deliver justice, how might people responsibly appeal to higher ethical or spiritual standards?"
+  ],
+  "uncertainAreas": "The identity of the 'gods' is ambiguous (divine beings vs. human judges), and the original Sitz im Leben—whether this targets a specific group of rulers, a cultic mythic scene, or serves a primarily didactic legal critique—cannot be determined from the text alone.",
+  "createdAt": "2025-11-03T22:02:19.740Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

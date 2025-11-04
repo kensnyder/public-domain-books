@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Chr.2",
+  "briefOverview": "Solomon organizes and initiates construction of the LORD’s temple, requesting skilled craftsmen and materials from Tyre and Lebanon while organizing large-scale labor.",
+  "summary": "Solomon decides to build a house for the name of the LORD and also a palace for his kingdom, and he organizes thousands of workers and overseers for the project. He sends a formal request to Huram (Hiram), king of Tyre, recalling David’s earlier relationship and asking for cedar, other timber, and expert craftsmen able to work in precious metals, stone, timber, and fine textiles. Solomon explains the temple’s liturgical purposes — incense, continual showbread, regular burnt offerings and observance of sabbaths, new moons, and festivals — while acknowledging God’s transcendence. Huram replies with blessing and praise for God and Solomon, sends a highly skilled artisan, and agrees to provide timber from Lebanon transported by sea to Joppa. Solomon then numbers the resident foreigners in the land and assigns many of them to be burden-bearers, hewers, and overseers for the building work.",
+  "externalContext": "Phoenician coastal cities such as Tyre were renowned in the ancient Near East for skilled metalworkers, carpenters, and access to Lebanon’s cedar forests; political and commercial ties between Israel and Tyre facilitated large construction projects. The centralized cult and permanent temple in Jerusalem represent a shift from portable tabernacle worship toward an institutionalized sanctuary tied to the monarchy. The passage fits into the broader ancient practice of monarchs using both native and foreign labor for monumental building.",
+  "externalReferences": "This narrative closely parallels accounts in 1 Kings 5–7, which give further details about the arrangement with Hiram and the temple’s construction. The liturgical items and routines mentioned (showbread, morning and evening offerings, sabbaths and new moons) reflect earlier priestly prescriptions found in Exodus and Leviticus (cf. Exodus 25–31; Leviticus 24:5–9). Chronicles elsewhere (e.g., 1 Chronicles 22–28) records David’s preparations for the temple and Solomon’s commissioning, providing a wider editorial context for these preparations.",
+  "seeAlso": [
+    "1 Kings 5:1-18",
+    "1 Kings 7:13-51",
+    "1 Chronicles 22:2-5",
+    "Leviticus 24:5-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Solomon's Purpose and Request"
+    },
+    {
+      "range": "10-16",
+      "title": "Huram's Reply and Provision"
+    },
+    {
+      "range": "17-18",
+      "title": "Labor Organization"
+    }
+  ],
+  "themes": [
+    "Temple Building",
+    "Worship Rituals",
+    "Craftsmanship",
+    "Labor Organization"
+  ],
+  "practicalQuestions": [
+    "How should communities balance ambition for religious or civic projects with humility before bigger moral or spiritual claims?",
+    "What principles should guide cooperation with neighboring peoples and specialists when building communal institutions?",
+    "How can modern institutions ensure fair and humane treatment of laborers and migrants used in large projects?",
+    "In what ways do physical places of worship shape communal religious practice today?"
+  ],
+  "uncertainAreas": "The precise identity of the skilled craftsman (here called 'of Huram my father's') and the botanical identification of 'algum' trees are uncertain. The text’s numbers and the exact status of the labor force (voluntary levy, corvée, or forced labor) allow multiple readings. Minor differences between this account and the parallel in 1 Kings raise questions about editorial emphasis and chronology.",
+  "createdAt": "2025-11-03T19:17:19.603Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

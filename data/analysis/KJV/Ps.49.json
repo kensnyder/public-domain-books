@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.49",
+  "briefOverview": "A wisdom psalm that confronts the human tendency to trust in wealth and asserts the inevitability of death, while affirming God's ability to redeem the speaker from the grave.",
+  "summary": "The psalm opens with a universal summons: all people, high and low, should listen to a message of wisdom. The speaker promises a dark saying or parable and then questions why he should fear during times of trouble. He criticizes those who trust in wealth, noting that riches cannot redeem a fellow person or ransom the soul, and observes that both wise and foolish die and leave their wealth to others. The poem contrasts human vanity — building houses and naming lands after oneself — with the reality that honored people perish like animals. The psalmist affirms personal confidence that God will redeem his soul from the power of the grave, and urges not to fear the prosperity of the rich, since their glory does not follow them after death.",
+  "externalContext": "Psalm 49 belongs to the biblical wisdom tradition and uses motifs common in the ancient Near East: reflections on mortality, the limits of wealth, and social reputation. In ancient Israelite thought Sheol (the grave) is the common destiny of the dead, and language about redeeming or ransoming a soul reflects legal and cultic concepts of ransom or atonement known in the wider ancient world. The poem’s concern with inheritance and naming lands echoes socio-economic practices tied to family status and property.",
+  "externalReferences": "The theme of the prosperity of the wicked contrasted with their ultimate fate is closely parallel to Psalm 73 (esp. Ps 73:3–20), where the psalmist struggles with the apparent success of the wicked before God’s vindication. Ecclesiastes addresses similar reflections on the futility of wealth and leaving possessions to others (Ecclesiastes 2:18–21). Proverbs expresses a related proverb: \"Riches do not profit in the day of wrath\" (Proverbs 11:4), which echoes the psalm’s claim that wealth cannot redeem a soul.",
+  "seeAlso": [
+    "Psalm 73:1-28",
+    "Ecclesiastes 2:18-21",
+    "Proverbs 11:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Call and Theme"
+    },
+    {
+      "range": "6-13",
+      "title": "The Folly of Wealth"
+    },
+    {
+      "range": "14-20",
+      "title": "Death and Redemption"
+    }
+  ],
+  "themes": [
+    "Wealth and mortality",
+    "Wisdom",
+    "Divine redemption",
+    "Vanity of riches"
+  ],
+  "practicalQuestions": [
+    "In what ways do I rely on material security rather than moral or spiritual resources, and how can I rebalance those priorities?",
+    "How should a community respond when prosperous members are praised despite ethical failings?",
+    "What practices help prepare individuals to face mortality with integrity rather than dependence on possessions?",
+    "How do I interpret and live out the claim that God (not wealth) is the true guarantor of ultimate well-being?"
+  ],
+  "uncertainAreas": "The precise meaning of the psalm’s assurance that God will \"redeem my soul\" is open to interpretation (literal rescue from Sheol, vindication, or poetic confidence in divine deliverance). The identity and social situation of the speaker are not specified; likewise, exact date and original setting/composition of the psalm remain uncertain.",
+  "createdAt": "2025-11-03T21:45:44.734Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

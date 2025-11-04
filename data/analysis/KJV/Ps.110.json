@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.110",
+  "briefOverview": "A royal psalm presenting a divine summons to a king who rules at God's right hand, promising victory, a willing people, and an eternal priesthood in the order of Melchizedek.",
+  "summary": "The psalm begins with God addressing 'my Lord,' commanding him to sit at God's right hand until enemies are subdued. Verses 2–3 describe the king's authority and the willing support of his people at the time of his power, with imagery of freshness and morning dew. Verse 4 declares that God has sworn the king is a priest forever in the order of Melchizedek. Verses 5–6 depict the king as a divine warrior who will strike down kings, judge the nations, and fill places with the slain. The psalm closes (v.7) with an image of refreshment on the march and the king's vindicated exaltation—he will 'lift up the head.'",
+  "externalContext": "Psalm 110 is part of the royal and enthronement psalms and likely reflects ancient Israelite language for kingship and divine endorsement; sitting at God's right hand evokes Near Eastern motifs of a sovereign enthroned beside a deity. Melchizedek is a figure first appearing in Genesis 14:18–20 as a priest-king of Salem; later Jewish and Christian interpreters treat that figure as a paradigm for an eternal priesthood. The vivid battle imagery fits the ancient context where kings were often portrayed as divinely empowered warriors who secure national survival and order.",
+  "externalReferences": "The reference to Melchizedek directly recalls Genesis 14:18–20, where Melchizedek blesses Abram and is described as priest of God Most High. Psalm 2:7 (the divine sonship formula 'You are my son') and other royal texts are often paired with Psalm 110 in later interpretation to present a king who is both son and ruler. In later Jewish and Christian literature Psalm 110 is applied to a messianic figure; the New Testament cites it several times (e.g., Matthew 22:41–46; Acts 2:34–36) and Hebrews 5–7 treats the 'priest forever after the order of Melchizedek' motif at length (Hebrews 7:1–3).",
+  "seeAlso": [
+    "Genesis 14:18-20",
+    "Psalm 2:7",
+    "Matthew 22:41-46",
+    "Acts 2:34-36",
+    "Hebrews 7:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Divine Enthronement Command"
+    },
+    {
+      "range": "3-4",
+      "title": "People and Priesthood"
+    },
+    {
+      "range": "5-7",
+      "title": "Victory and Vindication"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Priesthood",
+    "Divine Vindication",
+    "Divine Warrior"
+  ],
+  "practicalQuestions": [
+    "What does it mean for leaders to exercise authority as resting 'at God's right hand'—how should that shape our expectations of political and spiritual leadership today?",
+    "How might the idea of a leader who is both king and priest (mediator and ruler) inform our thinking about the relationship between spiritual service and public power?",
+    "In what ways can communities become 'willing' in supporting justice and holiness rather than being compelled?",
+    "How should modern readers interpret the violent, judicial images of victory in ways that are responsible and ethical in contemporary contexts?"
+  ],
+  "uncertainAreas": "The identity of 'my Lord' is ambiguous in the text—within its original setting it may refer to a Davidic king, while later interpreters treat it messianically. The precise sense of 'order of Melchizedek' is theologically debated: the psalmic phrase evokes Melchizedek's priesthood but does not explain its meaning or mechanism. The violent imagery (slaying of nations) leaves room for metaphorical versus literal readings, and the text itself does not specify historical events that correspond to the depicted victories.",
+  "createdAt": "2025-11-03T22:15:27.781Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.22",
+  "briefOverview": "A collection of short wisdom sayings about character, social responsibility, discipline, and prudent living.",
+  "summary": "The chapter offers proverbs that value a good name over wealth, link prudence and the fear of the LORD with well-being, and urge foresight to avoid danger. It includes practical social teachings: generosity to the poor is blessed, oppressing the poor brings divine retaliation, and one should not move ancestral boundaries or make risky financial guarantees. The text emphasizes training children (discipline), avoiding angry or scornful companions, and choosing friends and patterns of behavior that lead to honor. Overall the sayings stress personal responsibility, social justice, and the moral order upheld by divine oversight.",
+  "externalContext": "Proverbs belongs to the Hebrew wisdom literature, traditionally associated with Solomon but likely compiled over time from various collections of sayings. These proverbs reflect an ancient Near Eastern household and communal context where family training, land boundaries, patronage, and credit relationships were central to social stability. References to the LORD and to divine oversight show the integration of religious belief with practical ethics in Israelite society.",
+  "externalReferences": "The emphasis on fearing the LORD and the value of wisdom echoes earlier material in Proverbs (e.g., Proverbs 1:7). The counsel about correction and the ‘rod’ has parallels elsewhere in the book (see Proverbs 13:24). The prohibition against removing ancient landmarks connects to Mosaic law concerning boundary stones (Deuteronomy 19:14).",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 13:24",
+    "Deuteronomy 19:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Values and Prudence"
+    },
+    {
+      "range": "5-12",
+      "title": "Social Conduct and Warnings"
+    },
+    {
+      "range": "13-29",
+      "title": "Discipline, Justice, Diligence"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Discipline",
+    "Justice",
+    "Prudence"
+  ],
+  "practicalQuestions": [
+    "How do I balance concern for reputation with the pursuit of material success in my context?",
+    "What concrete steps can parents take to train children that avoid harmful behaviors today?",
+    "In what ways should a community protect and advocate for the poor so that injustice is not tolerated?",
+    "When is it wise to decline financial guarantees or co-signing, and how can I assess that risk?",
+    "Which friendships or associations are influencing my behavior negatively, and how should I respond?"
+  ],
+  "uncertainAreas": "Some terms reflect ancient customs (e.g., 'rod of correction', 'ancient landmark', 'strange women') whose precise social meaning and appropriate modern application can be debated. Authorship and precise date of compilation are also uncertain, so the sayings may represent multiple periods and social contexts.",
+  "createdAt": "2025-11-03T22:44:32.211Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

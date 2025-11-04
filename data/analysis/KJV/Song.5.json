@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Song.5",
+  "briefOverview": "A nighttime visitation narrative turns to separation and then to an extended, celebratory description of the beloved’s physical and personal qualities.",
+  "summary": "The speaker describes a lover who comes to her garden and entreats her to open the door; she delays, then awakens and answers but finds he has withdrawn and disappeared. She searches and calls to him without success, and is roughly treated by the city watchmen who remove her veil. She tells the 'daughters of Jerusalem' to inform her beloved that she is 'sick of love.' The chapter closes with a vivid, catalog-like hymn praising the beloved’s appearance and character, calling him 'altogether lovely' and 'my friend.'",
+  "externalContext": "Song of Songs is ancient Near Eastern love poetry preserved in the Hebrew Bible; its imagery—gardens, spices (myrrh), wine, and veils—draws on royal/bridal and orchard metaphors common in the region’s nuptial poetry. Public spaces (city walls, watchmen) and private spaces (garden, chamber) reflect social boundaries and honor codes in ancient urban contexts; veiling and its removal carried social and symbolic weight in many Near Eastern traditions.",
+  "externalReferences": "This scene echoes earlier motifs in the book: the beloved’s coming and invitation appear similarly in Song 2:8–14, and the motif of searching and being found (and of the watchmen) appears in Song 3:1–5. The repeated address to the 'daughters of Jerusalem' also occurs elsewhere in the book (e.g., Song 2:7; 3:5; 8:4), functioning as a chorus or sympathetic audience.",
+  "seeAlso": [
+    "Song of Solomon 2:8-14",
+    "Song of Solomon 3:1-5",
+    "Song of Solomon 2:7",
+    "Song of Solomon 8:4",
+    "Song of Solomon 4:1-5",
+    "Song of Solomon 1:2-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Visit, Withdrawal, Suffering"
+    },
+    {
+      "range": "9-16",
+      "title": "Hymn of the Beloved"
+    }
+  ],
+  "themes": [
+    "Longing",
+    "Separation",
+    "Erotic imagery",
+    "Admiration"
+  ],
+  "practicalQuestions": [
+    "How do we respond when a loved one withdraws unexpectedly—do we search, wait, or seek support from community?",
+    "What role should friends or a community play when someone expresses intense longing or emotional distress?",
+    "How can we balance honest longing with healthy boundaries so that desire does not lead to harm or humiliation?",
+    "In what ways does idealizing a partner (focusing on physical perfection) help or harm a mature relationship?"
+  ],
+  "uncertainAreas": "It is unclear whether the scene is literal, a dream, or a dramatic recital; the text’s abrupt shift from welcome to disappearance is ambiguous. The motive and identity of the watchmen (hostile guards, emblematic figures, or part of a dramatic device) and the precise meaning of the veil’s removal are open to interpretation. The degree to which the beloved’s departure implies rejection, testing, or a ritual sequence is also uncertain.",
+  "createdAt": "2025-11-03T22:57:37.924Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

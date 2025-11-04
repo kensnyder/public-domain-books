@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Ps.36",
+  "briefOverview": "A contrast between the immoral character of the wicked and the transcendent goodness of God, concluding with trust in God's protection and justice.",
+  "summary": "The psalm opens with an observation about the nature of the wicked: they lack fear of God, flatter themselves, speak deceit, and plan evil (vv.1–4). The tone then shifts to praise: the psalmist extols God's mercy, faithfulness, righteousness, and sustaining care (vv.5–6). God’s lovingkindness is presented as a shelter under which people trust, with images of abundant provision and a life-giving fountain; in God's light people see light (vv.7–9). The closing verses request continued lovingkindness for the faithful, ask protection against pride and the wicked, and express confidence that workers of iniquity will fall and not rise (vv.10–12).",
+  "externalContext": "Psalm 36 fits the poetic and worship traditions of ancient Israel, using parallelism and vivid metaphors (wings, fountain, mountains) common in Israelite poetry. Themes of hesed (steadfast love) and divine justice reflect covenantal theology central to Israelite religion. The poem likely functioned both as a reflection on social injustice and as a communal or individual prayer for protection and vindication.",
+  "externalReferences": "The protective image \"under the shadow of thy wings\" recurs elsewhere in the Psalter (e.g., Psalm 17:8; Psalm 57:1) and the idea of refuge under God appears broadly (cf. Psalm 91:1). The moral contrast between the wicked and the righteous resembles wisdom and lament motifs found in Psalm 1:1–6 and Psalm 37. The image of God as source of life anticipates later \"living water\" language in the New Testament (e.g., John 4:14; 7:38), though the contexts differ.",
+  "seeAlso": [
+    "Psalm 17:8",
+    "Psalm 57:1",
+    "Psalm 91:1",
+    "Psalm 1:1-6",
+    "Psalm 37:1-11",
+    "John 4:14",
+    "John 7:38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Character of the Wicked"
+    },
+    {
+      "range": "5-9",
+      "title": "Praise of God's Goodness"
+    },
+    {
+      "range": "10-12",
+      "title": "Prayer and Confidence"
+    }
+  ],
+  "themes": [
+    "Wickedness",
+    "Divine mercy",
+    "Refuge",
+    "Justice"
+  ],
+  "practicalQuestions": [
+    "Where do I look for security and meaning when human systems fail to deliver justice?",
+    "How can I cultivate the humility and uprightness the psalm commends to receive divine steadfast love?",
+    "In what ways can the community embody God’s sheltering care toward the vulnerable?",
+    "How should the assurance that evildoers will fall shape a faithful response to injustice today?"
+  ],
+  "uncertainAreas": "The psalm does not supply an author, occasion, or specific historical setting, so the immediate circumstances prompting the complaint and praise are uncertain. Some imagery (e.g., \"fountain of life\") allows multiple theological readings (literal, metaphorical, or later christological appropriation), so connections to later texts remain interpretive rather than explicit.",
+  "createdAt": "2025-11-03T21:40:40.619Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

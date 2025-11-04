@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Isa.26",
+  "briefOverview": "A communal song of trust in God’s protection and vindication that pairs assurance of peace with warnings of judgement and a surprising promise of the dead rising.",
+  "summary": "The chapter opens as a song celebrating a ‘strong city’ where God provides salvation and security; the righteous are called to enter its gates. The speaker urges steadfast trust in the LORD, promising ‘perfect peace’ for minds fixed on God and describing God’s overthrow of the proud and exaltation of the lowly. There is an extended communal voice waiting for God’s righteous judgments, mixed with lament that some wicked will not learn even when shown favor. The people recall past oppression and liken their travail to futile childbirth pains, then shift to hope with the striking assertion that the dead shall live again. Finally the community is told to take temporary refuge until God’s indignation passes, because the LORD will come forth to punish the earth’s iniquity and expose its slain.",
+  "externalContext": "Isaiah 26 is part of the cluster of chapters (often grouped as Isaiah 24–27) that many scholars treat as an apocalyptic or eschatological section of Isaiah, expressing themes of communal judgment and future vindication. Imagery of cities, walls, gates, and dew fits longstanding Israelite symbolic language for Zion’s security and life-restoring renewal. The explicit hope for the dead’s rising (v.19) is relatively rare but attested elsewhere in later Hebrew texts, reflecting developing ideas about life after death in the exilic/post‑exilic milieu.",
+  "externalReferences": "The promise that ‘thy dead men shall live’ resonates with Ezekiel’s vision of the valley of dry bones (Ezekiel 37:1–14) and with the later apocalyptic hope in Daniel 12:2 that some will awake to everlasting life. Isaiah 25:6–9 similarly celebrates God’s final victory over death and mourning, connecting the present chapter to the broader Isaiah motif of God swallowing up death. The ‘strong city’ and Zion-as-refuge theme has parallels in the Psalms that celebrate God’s protection of Zion (e.g., Psalm 48:1–3).",
+  "seeAlso": [
+    "Isaiah 24:21-23",
+    "Isaiah 25:6-9",
+    "Ezekiel 37:1-14",
+    "Daniel 12:2",
+    "Psalm 48:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Song of the Strong City"
+    },
+    {
+      "range": "7-19",
+      "title": "Trust, Lament, and Hope"
+    },
+    {
+      "range": "20-21",
+      "title": "Shelter Until Judgment"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Judgment",
+    "Hope",
+    "Resurrection"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate a ‘mind stayed on God’ so as to experience the ‘perfect peace’ described here?",
+    "When a community experiences injustice or prolonged suffering, what practices of communal waiting and prayer (as in vv.7–9,16–17) are helpful?",
+    "How does belief in a future rising of the dead (v.19) affect how we grieve and imagine justice for victims of violence?",
+    "How should we respond pastorally and ethically when the text says some wicked refuse to learn despite God’s favor (v.10)?"
+  ],
+  "uncertainAreas": "Authorship and precise dating of this passage within Isaiah’s corpus are debated among scholars. The relationship between v.14’s ‘they are dead, they shall not live’ and v.19’s resurrection language is ambiguous and may reflect different traditions or rhetorical contrasts. The identity of the ‘other lords’ who once had dominion (v.13) and whether the instruction to ‘hide…for a little moment’ is literal refuge or metaphorical remain open to interpretation.",
+  "createdAt": "2025-11-03T23:13:46.487Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

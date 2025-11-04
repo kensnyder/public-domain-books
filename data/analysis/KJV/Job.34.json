@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Job.34",
+  "briefOverview": "Elihu defends God's justice and sovereign oversight while accusing Job of speaking ignorantly and self-righteously.",
+  "summary": "Elihu addresses the assembled 'wise' and challenges Job's claim that he is righteous while God has wronged him. He insists that God is just, will not act wickedly or show partiality, and judges people according to their deeds. Elihu emphasizes God's sovereign control over life and nations, his sleepless watchfulness, and his responsiveness to the cries of the poor. He portrays divine discipline as corrective and argues that no one can hide from God's sight. Elihu concludes by calling for Job to be tested further and charges that Job's words are without knowledge and amount to rebellion.",
+  "externalContext": "The Book of Job belongs to the wisdom literature of the ancient Near East and uses courtroom and legal imagery familiar in that milieu to discuss theodicy (the justice of God in the face of suffering). Elihu is a younger interlocutor who appears after Job's three friends and before God's theophany; his speeches reflect traditional wisdom concerns about retribution, divine sovereignty, and social justice. The exact date and authorship of Job are uncertain, but the book engages longstanding debates about suffering and divine justice.",
+  "externalReferences": "Elihu is responding to Job's earlier protestations of integrity, such as those found in Job 27:2–6 where Job insists on his righteousness, and to Job's broader challenges to retribution theology in passages like Job 21. The themes of divine sovereignty and the inadequacy of human understanding anticipate the divine speeches to Job in Job 38–41, which likewise emphasize God's control over creation and human limitation.",
+  "seeAlso": [
+    "Job 27:2-6",
+    "Job 21:7-15",
+    "Job 35",
+    "Job 36-37",
+    "Job 38-41"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Appeal and Assertion of Justice"
+    },
+    {
+      "range": "17-37",
+      "title": "Indictment of Job"
+    }
+  ],
+  "themes": [
+    "Divine justice",
+    "Sovereignty",
+    "Human integrity",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "When we feel wronged, how can we test whether our complaints reflect pride or a justified plea?",
+    "How should communities balance speaking truth to suffering individuals with humility about God's purposes?",
+    "In what ways can the idea of corrective chastening shape pastoral responses to hardship today?",
+    "How can we avoid claiming knowledge about God's motives while still seeking moral clarity?"
+  ],
+  "uncertainAreas": "It is uncertain whether Elihu accurately represents Job's earlier statements or whether he misunderstands Job's tone and argument. The intentions and authority of Elihu's call to 'try Job unto the end' are ambiguous—whether he seeks a human judgment or further divine vindication. Historical dating and the precise role of Elihu within the book's composition are also matters of scholarly debate.",
+  "createdAt": "2025-11-03T21:23:46.929Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

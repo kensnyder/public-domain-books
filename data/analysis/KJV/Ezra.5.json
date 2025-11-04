@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ezra.5",
+  "briefOverview": "The chapter narrates the resumption of the Jerusalem temple project under prophetic encouragement and the ensuing official inquiry that is taken to King Darius for verification of Cyrus's decree.",
+  "summary": "Haggai and Zechariah prophesy to the returned Jews, and Zerubbabel and Jeshua respond by renewing the rebuilding of the house of God with prophetic support (vv.1–2). Persian officials Tatnai (governor on this side the river), Shethar‑boznai, and their companions question who authorized the work and demand the names of the builders (vv.3–5). The officials' letter to King Darius reports the active rebuilding and their interrogation of the Jewish elders, who reply they are servants of the God of heaven and earth and are rebuilding the house that was long ago built by a great king of Israel (vv.6–13). The letter recounts that Nebuchadnezzar destroyed the house and that Cyrus issued a decree permitting its reconstruction and restoring temple vessels to Sheshbazzar, who laid the foundation; since then the work has proceeded but not been finished (vv.14–16). The officials ask Darius to search the royal archives in Babylon for Cyrus’s decree and to inform them of the king’s decision (v.17).",
+  "externalContext": "This episode takes place in the early Persian period after the Babylonian exile (6th century BCE), when Persian kings (notably Cyrus the Great) authorized the return of some exiles and the restoration of their temple (compare Ezra 1). Persian provincial administration used governors and written petitions to the central court; royal archives and treasury records were the usual source for confirming previous decrees. Prophetic figures Haggai and Zechariah were active leaders encouraging the resumed work around this time.",
+  "externalReferences": "The chapter refers back to Cyrus’s decree authorizing the temple rebuilding; see Ezra 1:1–4 for an earlier account of Cyrus’s policy and the return of temple vessels. The laying of an initial foundation and earlier work on the temple is narrated in Ezra 3:7–13, and the pattern of opposition that led to a halt in building is recounted in Ezra 4. The presence and messages of the prophets here correspond with the separate prophetic books Haggai (Haggai 1–2) and Zechariah (Zechariah 1), which exhort resumed construction.",
+  "seeAlso": [
+    "Ezra 1:1-4",
+    "Ezra 3:7-13",
+    "Ezra 4:1-6",
+    "Haggai 1:1-15",
+    "Zechariah 1:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Prophetic Encouragement"
+    },
+    {
+      "range": "3-5",
+      "title": "Official Interrogation"
+    },
+    {
+      "range": "6-17",
+      "title": "Letter to the King"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Restoration",
+    "Legal legitimacy",
+    "Divine protection"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities weigh prophetic or moral encouragement when undertaking public projects?",
+    "When an initiative faces legal or governmental challenge, how can participants document and defend its legitimacy?",
+    "What practices help communities recognize and narrate perceived divine support during opposition?",
+    "How can religious groups responsibly engage secular authorities and archival evidence to resolve disputes?"
+  ],
+  "uncertainAreas": "Uncertainties include the precise identification of Sheshbazzar and his relation to Zerubbabel in extra-biblical records, and the exact chronological alignment of Persian rulers named in the broader Ezra–Nehemiah narrative. The phrase “a great king of Israel” likely alludes to Solomon but is not explicit here. The text’s administrative titles (e.g., 'governor on this side the river') reflect Persian bureaucracy but leave room for differing historical reconstructions.",
+  "createdAt": "2025-11-03T19:37:16.399Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

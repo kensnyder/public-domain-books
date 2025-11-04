@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Eccl.10",
+  "briefOverview": "A series of pithy observations contrasting wisdom and folly, with advice about speech, skill, and political order. The chapter warns about consequences when fools or immature rulers hold authority.",
+  "summary": "The speaker gives a sequence of proverbs showing how a small folly can ruin a good reputation and how wisdom and foolishness affect speech, action, and outcomes (vv. 1–7). Practical proverbs follow about prudence in action: avoid traps you prepare for others, keep tools sharp, and recognize that talkative fools harm themselves (vv. 8–15). The chapter closes with political and social observations warning that immature rulers harm a land while competent rulers strengthen it, that sloth destroys work, money has power in social life, and one should not curse or speak lightly against powerful people because news travels swiftly (vv. 16–20).",
+  "externalContext": "Ecclesiastes belongs to the Hebrew wisdom literature, traditionally attributed to Qoheleth (\"the Teacher\"). It reflects the royal/courtly setting and concern with practical life found in Near Eastern proverb collections and likely post-monarchic or late monarchic Israelite contexts in which officials, kings, and social order are prominent topics. The chapter's style—short, gnomic sayings and ironic observation—fits the proverb tradition rather than systematic theology.",
+  "externalReferences": "The material parallels the broader wisdom tradition in the Hebrew Bible, especially Proverbs, which also treats themes of speech, folly, prudence, and the effects of rulers (compare the many antithetical sayings in Proverbs). The warning against cursing the king echoes Proverbs 24:21's admonition to fear the king; the critique of immature rulers resembles Isaiah 3:12, which laments leadership by children. The association of wisdom with age and experience finds an echo in Job 12:12.",
+  "seeAlso": [
+    "Proverbs 24:21",
+    "Proverbs 26:4-5",
+    "Job 12:12",
+    "Isaiah 3:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Folly and Reputation"
+    },
+    {
+      "range": "8-15",
+      "title": "Practical Counsel"
+    },
+    {
+      "range": "16-20",
+      "title": "Rulers and Society"
+    }
+  ],
+  "themes": [
+    "Wisdom vs. Folly",
+    "Leadership",
+    "Speech and Reputation",
+    "Practical Skill"
+  ],
+  "practicalQuestions": [
+    "How should I weigh silence and speech when dealing with those in authority?",
+    "What practical habits (e.g., sharpening tools, avoiding laziness) can I adopt to prevent avoidable failure?",
+    "In what ways can a community encourage mature leadership and guard against immature rulers?",
+    "How do small personal follies affect broader reputation and communal life today?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting of Ecclesiastes are debated; some images (e.g., \"dead flies\" causing a stench) are vivid but open to literal or metaphorical readings. The abrupt shifts between topics make it unclear whether the sayings are thematic units or a loose collection without intended linear argument.",
+  "createdAt": "2025-11-03T22:54:18.279Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

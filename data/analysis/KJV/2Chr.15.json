@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.15",
+  "briefOverview": "A prophetic exhortation prompts King Asa and the people to remove idols, renew a covenant, and seek the LORD, producing religious reform and a period of peace.",
+  "summary": "The prophet Azariah son of Oded tells Asa and the people that the LORD is with them if they remain with him, reminding them that Israel had been without true worship and guidance until they turned back in trouble. Encouraged, Asa removes idols from Judah and Benjamin, restores the altar before the temple, and gathers people from neighboring tribes to Jerusalem, where they sacrifice plentifully and enter a covenant to seek God with all their heart. They bind the covenant with solemn vows—declaring death for those who will not seek the LORD—and celebrate with loud rejoicing, after which God grants them rest from surrounding enemies. Asa also removes his mother Maachah from the position of queen mother because of her idol and destroys the idol; he dedicates treasuries to the temple, and the land enjoys no war until his thirty-fifth year, though the high places in Israel remain.",
+  "externalContext": "Chronicles is a post-exilic historical work that emphasizes legitimate temple worship, the Davidic line, and religious reforms; its author(s) often highlight centralized worship in Jerusalem and covenant fidelity. In the ancient Near Eastern royal context, prophets regularly functioned as messengers urging kings to obedience, and covenant renewals with public vows and sacrifices were standard ways to restore communal religious identity.",
+  "externalReferences": "This account parallels the summary of Asa’s reign in 1 Kings 15:14–16, which likewise records the removal of Maachah’s idol and Asa’s reforms. The public covenant-renewal motif recalls Joshua’s call to choose and serve the LORD (Joshua 24:15) and later reforming actions such as Josiah’s eradication of idolatry and covenant renewal (see 2 Kings 23:4–20).",
+  "seeAlso": [
+    "1 Kings 15:14-16",
+    "Joshua 24:15",
+    "2 Kings 23:4-20",
+    "2 Chronicles 14:2-7",
+    "2 Chronicles 16:1-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Prophetic Exhortation"
+    },
+    {
+      "range": "8-15",
+      "title": "Reform and Covenant"
+    },
+    {
+      "range": "16-19",
+      "title": "Purge and Outcome"
+    }
+  ],
+  "themes": [
+    "Seeking God",
+    "Covenant Renewal",
+    "Religious Reform",
+    "Idolatry"
+  ],
+  "practicalQuestions": [
+    "How can communities today make concrete, collective commitments that reflect wholehearted seeking of God?",
+    "What are modern equivalents of the 'high places' or household idols that need to be identified and removed?",
+    "How should religious leaders balance zeal for reform with compassion and restraint when confronting established practices?",
+    "In what ways can worship and temple/household priorities be reordered to signal renewed devotion and communal identity?"
+  ],
+  "uncertainAreas": "Uncertainties include the exact scope of ‘Israel’ vs. ‘Judah and Benjamin’ in verse 3’s claim about being without the true God and priestly instruction, how rigorously the death-penalty clause in the covenant was enforced in practice, and the meaning of the statement that Asa’s heart was 'perfect' despite incomplete removal of high places—suggesting a tension between inner fidelity and imperfect institutional reforms.",
+  "createdAt": "2025-11-03T19:24:08.908Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

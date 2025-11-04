@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Eccl.6",
+  "briefOverview": "The chapter reflects on the futility of wealth and long life when one cannot enjoy them, and concludes with frustration over human inability to know what is truly good or what comes after death.",
+  "summary": "Qoheleth observes an evil under the sun: a person who has abundance and honors but cannot enjoy them, while a stranger benefits instead (vv.1–2). He compares such a fate to an untimely birth, arguing that a brief, unknowing death may be preferable to a long life without satisfaction or burial (vv.3–6). The speaker generalizes that all human labour is aimed at satisfying appetite, which nevertheless remains unfilled, calling attention to the limited advantage of the wise over the fool (vv.7–9). He closes by noting the repetitiveness of human experience and the inability of people to contend with greater powers or to know what is truly good for them, including what happens after death (vv.10–12).",
+  "externalContext": "Ecclesiastes is wisdom literature traditionally attributed to 'Qoheleth' (the Preacher) and likely composed in the post‑exilic period (commonly dated in broad terms to the Persian or early Hellenistic eras). The cultural background values children, heirs, and proper burial; lacking burial or descendants signified social and religious loss. The book's repeated motif 'under the sun' frames concerns in worldly, human terms rather than promising clear post‑mortem answers.",
+  "externalReferences": "The theme of life's futility echoes the book's opening declaration, 'Vanity of vanities' (Ecclesiastes 1:2). Concerns about the brevity and inscrutability of life recall Psalms that reflect on shortness of days (e.g., Psalm 39:5) and Job's reflections on human mortality and unanswered suffering (see Job 14:1–2; Job 3 as a lament).",
+  "seeAlso": [
+    "Ecclesiastes 1:2",
+    "Ecclesiastes 2:10",
+    "Psalm 39:5",
+    "Job 14:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Wealth Without Enjoyment"
+    },
+    {
+      "range": "7-9",
+      "title": "Labour and Appetite"
+    },
+    {
+      "range": "10-12",
+      "title": "Limits of Human Knowledge"
+    }
+  ],
+  "themes": [
+    "Vanity",
+    "Wealth and Enjoyment",
+    "Death and Burial",
+    "Uncertainty"
+  ],
+  "practicalQuestions": [
+    "How should I reorder priorities if material abundance does not lead to satisfaction?",
+    "What community practices (e.g., care for the dying and burial customs) safeguard dignity in life and death today?",
+    "How can one cultivate contentment in the face of relentless desire and unfulfilled appetite?",
+    "How does awareness of life's uncertainties shape ethical choices and investment in long‑term projects?"
+  ],
+  "uncertainAreas": "Ambiguities include the precise meaning of 'better is the sight of the eyes' (is it literal enjoyment or prudent restraint?), the comparison favoring an untimely death over a long unsatisfying life, and whether Qoheleth intends theological claims about the afterlife or primarily existential observations. The chapter's historical setting and extent of intended universality are also open to interpretation.",
+  "createdAt": "2025-11-03T22:51:48.728Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

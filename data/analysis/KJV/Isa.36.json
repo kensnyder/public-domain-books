@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Isa.36",
+  "briefOverview": "An Assyrian envoy (Rabshakeh) confronts Jerusalem during Sennacherib’s campaign, attempting to intimidate the city and undermine trust in Hezekiah and in God.",
+  "summary": "In the fourteenth year of Hezekiah, Sennacherib’s forces have taken Judah’s fortified cities and send Rabshakeh to Jerusalem. Rabshakeh confronts Hezekiah’s officials at the conduit of the upper pool and challenges the king’s confidence, mocking reliance on Egypt and even on the LORD. He offers inducements to surrender, claims divine authorization for the Assyrian advance, and he deliberately speaks in the common (Jews') language to demoralize the people on the walls. Hezekiah’s officials ask Rabshakeh to speak privately in Aramaic, but he refuses, taunts the populace, and urges them to reject Hezekiah’s assurances. The officials, commanded by the king, remain silent and then report the episode to Hezekiah with their clothes rent.",
+  "externalContext": "The episode fits into the historical context of Sennacherib’s campaign in Judah (commonly dated to 701 BCE). Rabshakeh is an Assyrian field commander; Assyrian royal inscriptions (e.g., Sennacherib’s prism) and archaeological evidence record campaigns against Lachish and other Judahite sites. Hezekiah’s religious reforms—removing high places and centralizing worship—provide background for Rabshakeh’s taunt about removed altars (cf. 2 Kings 18:4).",
+  "externalReferences": "This chapter parallels and is continued by Isaiah 37, which records Hezekiah’s response and the miraculous deliverance narrative; the same material appears in 2 Kings 18:13–37 and 19:1–37 and in 2 Chronicles 32. Assyrian royal records (Sennacherib’s prism) offer an external, imperial account of Sennacherib’s Judah campaign and the siege of Lachish that corresponds to this biblical portrait.",
+  "seeAlso": [
+    "Isaiah 37:1-38",
+    "2 Kings 18:13-37",
+    "2 Chronicles 32:1-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Assyrian Advance and Envoys"
+    },
+    {
+      "range": "4-21",
+      "title": "Rabshakeh's Public Challenge"
+    },
+    {
+      "range": "22-22",
+      "title": "Report to Hezekiah"
+    }
+  ],
+  "themes": [
+    "Propaganda",
+    "Trust",
+    "Political pressure",
+    "Divine authority"
+  ],
+  "practicalQuestions": [
+    "When leaders urge compromise for safety, how should communities discern between pragmatic alliances and principled trust?",
+    "How can religious or civic leaders guard against demoralizing public propaganda during crises?",
+    "What evidences should inform our trust—political power, foreign aid, or commitments of faith—and how do we weigh them?",
+    "How should a community respond when public speech is used to manipulate rather than inform?"
+  ],
+  "uncertainAreas": "The exact meaning of some terms (e.g., “Syrian language” likely meaning Aramaic, and “conduit of the upper pool” possibly alluding to Hezekiah’s waterworks) relies on extratextual knowledge. It is ambiguous whether Rabshakeh genuinely believed his claim that the LORD ordered him or used the claim as propaganda. The chapter leaves open how much the populace was actually swayed, since the narrative moves quickly to the officials’ report and the subsequent divine response in the next chapter.",
+  "createdAt": "2025-11-03T23:19:04.012Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

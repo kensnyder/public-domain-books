@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ps.100",
+  "briefOverview": "A brief liturgical summons to joyful, thankful worship, giving reasons for praise: God is Creator, shepherd, and the source of steadfast goodness, mercy, and truth.",
+  "summary": "The psalm opens with an exhortation for all the earth to make a joyful noise and to serve the LORD with gladness, coming into his presence with singing. Worshipers are urged to recognize the LORD as God — the one who made them — and to identify themselves as his people, \"the sheep of his pasture.\" The congregation is instructed to enter the temple's gates and courts with thanksgiving and praise. The psalm closes with the theological rationale for such worship: the LORD is good, his mercy is everlasting, and his faithfulness endures through all generations.",
+  "externalContext": "The language and setting (gates, courts, communal summons) point to a cultic or liturgical use in ancient Israelite worship, likely as an entrance or processional hymn in the temple precincts. Pastoral imagery (sheep of his pasture) reflects common ancient Near Eastern metaphors for divine care and kingship. In both Jewish and Christian traditions Psalm 100 has been used regularly in public worship as a concise hymn of thanksgiving and praise.",
+  "externalReferences": "The call to joyful praise echoes other psalms that urge singing and shouts of joy (e.g., Psalm 98:4; Psalm 66:1). The phrase identifying the community as \"the people of his pasture\" and the call to worship closely parallel Psalm 95:1–7. The affirmation that \"the LORD is good; his mercy endures forever\" finds a liturgical parallel in Psalm 136, where that refrain occurs repeatedly (see Psalm 136:1). The shepherd/meal imagery resonates with Psalm 23:1's depiction of the LORD as shepherd.",
+  "seeAlso": [
+    "Psalm 95:1-7",
+    "Psalm 98:4",
+    "Psalm 66:1",
+    "Psalm 136:1",
+    "Psalm 23:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Call to Worship"
+    },
+    {
+      "range": "3-5",
+      "title": "Reasons for Praise"
+    }
+  ],
+  "themes": [
+    "Thanksgiving",
+    "Joyful worship",
+    "Divine goodness",
+    "Creator and shepherd"
+  ],
+  "practicalQuestions": [
+    "How can congregations cultivate the \"gladness\" and singing urged here in routine worship services?",
+    "What difference does consciously affirming God as Creator make for daily decisions about work, care for creation, and identity?",
+    "In what practical ways can a faith community demonstrate\" everlasting mercy\" and enduring truth across generations?",
+    "How do we live out the image of being \"the sheep of his pasture\" in mutual care and dependence within a community?"
+  ],
+  "uncertainAreas": "Dating and precise original liturgical context are uncertain (e.g., specific festival or procession). Authorship is not specified in the text, and its placement/function within broader psalm collections (e.g., relationship to royal or enthronement psalms) admits debate.",
+  "createdAt": "2025-11-03T22:10:31.433Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

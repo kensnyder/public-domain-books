@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.132",
+  "briefOverview": "A liturgical psalm recalling David's vow to find a dwelling for the LORD, celebrating the ark and Zion, and announcing God's oath to establish David's line and bless Zion.",
+  "summary": "The psalm opens by invoking the memory of David and his vow not to rest until he found a dwelling place for the LORD (vv.1–5). The community recalls finding that place at Ephratah and resolving to worship in God's tabernacles (vv.6–7). They call on the LORD to arise and dwell with the ark, asking that priests be clothed with righteousness and the faithful rejoice (vv.8–9). Because of David, they plead that God not reject his anointed, and the psalm then cites God's sworn promise to establish David's descendants on the throne (vv.10–12). The LORD declares his choice of Zion as his perpetual habitation, promising blessing for its provision, salvation for its priests, and the flourishing of David's line while his enemies are shamed (vv.13–18).",
+  "externalContext": "Psalm 132 is generally read as part of the royal/temple tradition of Israelic worship and reflects themes important to post-monarchical worship: the presence of God in the ark and in Zion and the divine promise to David. The references to Ephratah, the ark, and priestly blessing reflect cultic practices (ark-centered worship, priestly roles) that were central in first-millennium BCE Israel and continued to shape later liturgies. Scholarly discussion often places this psalm in a liturgical context that celebrates both Davidic kingship and the temple as God's chosen dwelling.",
+  "externalReferences": "The psalm’s themes echo the Davidic covenant as articulated in 2 Samuel 7:12–16 and 1 Chronicles 17:11–14, where God promises an enduring dynasty to David. The memory of bringing the ark and giving it a resting place recalls the narratives of David bringing the ark to Zion (2 Samuel 6; 1 Chronicles 13–16). The place-name Ephratah/Ephrathah is associated with Bethlehem (see Genesis 35:19; Micah 5:2), which helps explain the geographic memory in v.6.",
+  "seeAlso": [
+    "2 Samuel 6",
+    "2 Samuel 7:12-16",
+    "1 Chronicles 13-16",
+    "1 Chronicles 17:11-14",
+    "Genesis 35:19",
+    "Micah 5:2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "David's Vow and Seeking"
+    },
+    {
+      "range": "6-9",
+      "title": "Finding and Worshiping"
+    },
+    {
+      "range": "10-18",
+      "title": "Divine Oath to David"
+    }
+  ],
+  "themes": [
+    "Davidic covenant",
+    "Divine presence",
+    "Zion/Temple",
+    "Vow/devotion"
+  ],
+  "practicalQuestions": [
+    "What does it mean today to 'find a place for the LORD' in our personal and communal life?",
+    "How should memories of faithful leaders or traditions shape contemporary worship and communal priorities?",
+    "In what ways can leaders be 'clothed with righteousness' in modern religious communities?",
+    "How should promises of long-term communal stability (like the Davidic covenant) influence our hope and practice in uncertain times?"
+  ],
+  "uncertainAreas": "The psalm’s original Sitz im Leben (occasional context) is debated: whether it is a royal enthronement hymn, a liturgical procession text, or a post-exilic affirmation of Zion and Davidic hope. The speaker shifts between remembrance, communal voice, and divine speech, so attributions of who speaks each verse are somewhat uncertain. Metaphors such as 'horn of David to bud' have symbolic meaning (power, dynastic renewal) but allow multiple shades of interpretation.",
+  "createdAt": "2025-11-03T22:25:07.482Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

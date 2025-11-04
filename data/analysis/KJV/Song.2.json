@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Song.2",
+  "briefOverview": "A lyric exchange celebrating romantic and sensuous love using pastoral and seasonal imagery; it moves between intimate description, a summons to union, and images of protection and vulnerability.",
+  "summary": "The speaker opens with vivid self- and beloved-descriptions using floral and tree metaphors, then depicts intimate closeness and delight (vv.1–6). She urges the daughters of Jerusalem not to disturb her love (v.7). The lover is heard approaching, described as a bounding roe who peers through the lattice and invites her to rise because winter is past and spring has come (vv.8–13). The poem closes with appeals to secrecy and tenderness—an invitation to reveal herself, a warning to remove small dangers that harm the vine, and a mutual claim of belonging until dawn (vv.14–17).",
+  "externalContext": "Song of Solomon (also called Canticles) belongs to the Hebrew Bible's wisdom-poetry tradition and is often dated to the late first millennium BCE; its language and motifs fit ancient Near Eastern love poetry and wedding/seasonal-festival settings. Images like vineyards, fig trees, and roes reflect an agrarian society where seasonal cycles shaped social life. The book's frank eroticism has been read both as literal nuptial poetry and as allegory (e.g., divine–communal love) in later Jewish and Christian traditions.",
+  "externalReferences": "The chapter continues themes found earlier in the book (e.g., longing and desire in Song 1:2–4) and echoes later declarations of passionate, exclusive love (compare Song 8:6–7). The use of garden and vineyard imagery recalls other passages that use cultivation as a metaphor for relationships (for example, Song 4:12–15 and other wedding songs within the book).",
+  "seeAlso": [
+    "Song of Solomon 1:2-4",
+    "Song of Solomon 4:12-15",
+    "Song of Solomon 8:6-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Intimate Floral Imagery"
+    },
+    {
+      "range": "7-13",
+      "title": "The Lover's Invitation"
+    },
+    {
+      "range": "14-17",
+      "title": "Secrecy and Tender Warnings"
+    }
+  ],
+  "themes": [
+    "Romantic love",
+    "Nature imagery",
+    "Desire",
+    "Mutual belonging"
+  ],
+  "practicalQuestions": [
+    "How can we protect and nurture close relationships from small but damaging habits—our own 'little foxes'?",
+    "In what ways do seasonal or life-cycle rhythms (times of winter and spring) affect our readiness for intimacy and renewal?",
+    "How should communities respond when private expressions of love are public or visible—what balance between celebration and discretion is healthy?",
+    "How do we read and incorporate erotic or sensuous language in religious or communal contexts today?"
+  ],
+  "uncertainAreas": "Speaker identities and the poem's intended level of literal vs. allegorical meaning are ambiguous (bride, beloved, chorus roles). Some key images are uncertain in nuance: the precise plant translated 'rose of Sharon' may be a lily or another meadow flower, and the 'little foxes' could be literal pests or a metaphor for small faults—both readings have merit.",
+  "createdAt": "2025-11-03T22:56:10.744Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

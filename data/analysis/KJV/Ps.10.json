@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.10",
+  "briefOverview": "A lament about God’s apparent distance in the face of the powerful oppressing the poor, moving from complaint and description of the wicked to an urgent plea for divine intervention and a closing affirmation of God’s kingship and justice.",
+  "summary": "The speaker opens by asking why the Lord seems distant in times of trouble and then graphically describes the pride, deceit, and predatory behavior of the wicked who oppress the poor (vv.1–11). The psalmist reports the wicked’s claim that God has forgotten and will not notice (vv.11–13), and responds with an urgent petition for God to rise, remember the humble, and punish the oppressor (vv.12–15). The poem closes by proclaiming the LORD’s eternal kingship and expressing confidence that God hears the humble and will judge for the fatherless and oppressed so that oppression will end (vv.16–18).",
+  "externalContext": "Psalm 10 belongs to the Hebrew Psalter, part of Israel’s liturgical-poetic tradition of laments and hymns. In the Hebrew Bible the psalms often articulate communal or individual sorrow and use legal/royal language (judge, king) suited to a society where temple worship and covenant theology framed hopes for divine justice. Many scholars note that Psalms 9 and 10 form a single composition in the Hebrew Psalter, though here they appear as separate poems in Christian Bibles.",
+  "externalReferences": "Psalm 9 is commonly paired with Psalm 10 in Hebrew manuscripts and shares themes of vindication and divine rule (see Psalms 9:1–20). Wisdom and prophetic texts likewise wrestle with the prosperity of the wicked and the suffering of the righteous (compare Psalms 37 and 73). The role of God as defender of the weak echoes other psalms and prophetic injunctions to care for the oppressed (see Psalms 68:5; 146:7–9; Isaiah 1:17).",
+  "seeAlso": [
+    "Psalms 9:1-20",
+    "Psalms 37:1-40",
+    "Psalms 73:1-28",
+    "Psalms 68:5",
+    "Psalms 146:7-9",
+    "Isaiah 1:17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Complaint and Description"
+    },
+    {
+      "range": "12-15",
+      "title": "Plea for Divine Action"
+    },
+    {
+      "range": "16-18",
+      "title": "Confidence in God"
+    }
+  ],
+  "themes": [
+    "Divine absence",
+    "Oppression",
+    "Justice",
+    "Prayer"
+  ],
+  "practicalQuestions": [
+    "How should communities respond practically and theologically when powerful people or institutions oppress the vulnerable?",
+    "What forms of lament and petition are appropriate when God seems absent in crises?",
+    "How can present-day faith communities advocate for the fatherless and oppressed in light of this text?",
+    "In what ways does affirming divine kingship shape our hope for justice without excusing inaction?"
+  ],
+  "uncertainAreas": "Uncertainty about original setting, authorship, and whether the psalm is communal or individual; the precise historical situation behind the complaint is not specified. Also ambiguous is the meaning of verse 16’s phrase about the nations/perishing in his land (translation and referent vary).",
+  "createdAt": "2025-11-03T21:31:03.712Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

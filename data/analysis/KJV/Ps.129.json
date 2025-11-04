@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.129",
+  "briefOverview": "A pilgrim lament that remembers long-lasting affliction and affirms God's intervention, concluding with an imprecation against Zion's enemies.",
+  "summary": "The psalm opens with a communal voice remembering repeated affliction from youth, repeating that the oppressors did not prevail. It uses the image of ploughers making deep furrows on the speaker's back to describe sustained suffering, then shifts to affirm God’s righteousness in severing the cords of the wicked. The closing verses pronounce that those who hate Zion be ashamed and reduced to withered grass on rooftops—something the reaper will not gather—and that passersby will not greet them with the blessing of the LORD. The tone moves from memory of suffering to confidence in divine vindication and a pronounced wish for the reversal of the enemies' fortunes.",
+  "externalContext": "Psalm 129 is part of the collection called the Songs of Ascents (Psalms 120–134), a group of short poems traditionally associated with pilgrims traveling to Jerusalem. The poem uses agrarian imagery (ploughing, mowing, sheaves) typical of ancient Near Eastern agricultural life and of Israelite poetry. The imprecatory language (calling for shame and for enemies to wither) fits a common category of psalms where petition and remembrance are combined with requests for divine justice; specific historical circumstances for the afflictions are not stated and remain debated by scholars.",
+  "externalReferences": "The placement among the Songs of Ascents invites comparison with other short pilgrimage psalms that celebrate deliverance and protection, notably Psalm 124 (which celebrates rescue from enemies) and Psalm 125 (which contrasts the righteous security of Zion with the fate of the wicked). The imprecatory character of the closing lines has parallels with other psalms that call for judgment on opponents, for example Psalm 35 and Psalm 69, which also mix complaint, appeal to God's righteousness, and calls for retribution.",
+  "seeAlso": [
+    "Psalms 120:1-7",
+    "Psalms 124:1-8",
+    "Psalms 125:1-5",
+    "Psalms 35:1-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Opening Lament/Trust"
+    },
+    {
+      "range": "3-4",
+      "title": "Image of Suffering"
+    },
+    {
+      "range": "5-8",
+      "title": "Imprecation and Vindication"
+    }
+  ],
+  "themes": [
+    "Persecution",
+    "Divine Justice",
+    "Zion",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "How should communities remember long-term suffering while maintaining hope in justice?",
+    "When is it appropriate to pray for the downfall of opponents, and how can that be balanced with calls to mercy?",
+    "How does the imagery of agricultural loss shape our understanding of communal vulnerability today?",
+    "In what ways can modern communities translate confidence in divine vindication into constructive action for resilience?"
+  ],
+  "uncertainAreas": "The psalm does not specify the historical occasion or the identity of the 'they' who afflicted Israel, so the precise historical context is uncertain. It is also open to interpretation whether the imprecatory language is primarily poetic hyperbole, a legalistic curse formula, or an actual plea for punitive action.",
+  "createdAt": "2025-11-03T22:23:55.336Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

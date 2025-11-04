@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.16",
+  "briefOverview": "Proverbs 16 contrasts human intention and divine direction while teaching virtues for individuals and rulers—wisdom, humility, right speech, and justice.",
+  "summary": "The chapter opens by asserting that human plans originate in the heart but the LORD determines outcomes, urging commitment of actions to God. It affirms divine oversight of kingship and justice (honest weights, righteous rule) and warns that pride leads to ruin while humility preserves. Wisdom and right speech are prized above wealth; pleasant, wise words bring life and learning. The text also highlights moral causality—wicked schemes, strife, and violent behavior produce harm—while concluding that chance (the lot) is ultimately governed by the LORD.",
+  "externalContext": "Proverbs belongs to ancient Near Eastern wisdom literature and was traditionally associated with Solomon and the Israelite royal court. Economic life (weights, commerce) and royal authority shaped many sayings, so concerns about honest measures, judicial speech, and the king’s temper reflect real social institutions. Wisdom collections functioned as practical moral instruction for household and civic life rather than systematic theology.",
+  "externalReferences": "The teaching that God directs human paths echoes Proverbs 3:5–6, which similarly counsels trust and divine guidance. The insistence on just weights and balances parallels Proverbs 11:1, which condemns false balances as an abomination to the LORD. The link between pride and shame or ruin is a recurring proverb theme (cf. Proverbs 11:2). The notion that rulers’ hearts or decisions are under divine control resonates with Proverbs 21:1, where the king’s heart is said to be in the hand of the LORD.",
+  "seeAlso": [
+    "Proverbs 3:5-6",
+    "Proverbs 11:1",
+    "Proverbs 11:2",
+    "Proverbs 21:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Plans and Providence"
+    },
+    {
+      "range": "10-15",
+      "title": "Kings and Justice"
+    },
+    {
+      "range": "16-33",
+      "title": "Wisdom, Speech, Conduct"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Wisdom",
+    "Righteousness",
+    "Speech"
+  ],
+  "practicalQuestions": [
+    "How should I balance careful planning with trust that outcomes are ultimately not fully under my control?",
+    "In what concrete ways can I ensure honesty in business or public life (the 'weights and balances')?",
+    "How do pride and humility affect my decisions and relationships, and what practices cultivate humility?",
+    "Are my words acting as 'pleasant words' that heal and teach, or do they sow strife and harm?"
+  ],
+  "uncertainAreas": "Verse 4's statement that the LORD made everything 'for himself' including the wicked 'for the day of evil' is ambiguous: it can imply divine sovereignty over all outcomes, a means of judgment, or a theological rationale for suffering. Statements about the king (vv.10–15) read as ideal expectations for royal justice; the text does not make clear whether these describe actual royal practice or normative ideals. The balance between human responsibility and divine disposal (e.g., lot vs. LORD's disposing) leaves room for different emphases on providence versus human freedom.",
+  "createdAt": "2025-11-03T22:41:11.786Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

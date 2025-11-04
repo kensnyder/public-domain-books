@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Prov.13",
+  "briefOverview": "A collection of antithetical proverbs contrasting wisdom and folly, righteous and wicked behavior, and the effects of speech, discipline, and diligence on life outcomes.",
+  "summary": "Proverbs 13 presents short, paired sayings that contrast the outcomes of wise versus foolish conduct: a receptive child benefits from instruction while a scorner rejects rebuke. The chapter links speech to life or destruction, commends diligence and honest gain over sloth and dishonest wealth, and contrasts the fate of the righteous and the wicked. Several verses stress the value of heeding reproof and living by wise teaching as protection from harm, and warn that pride, deferred hope, and refusal to abandon evil bring negative consequences. The social dimension appears as well: companions shape a person's path, faithful messengers bring health, and a good person leaves an inheritance while the sinner’s wealth ultimately benefits the just. The chapter also affirms parental discipline as an expression of love and presents the law of the wise as life-preserving guidance.",
+  "externalContext": "Proverbs belongs to the Hebrew wisdom literature, traditionally associated with Solomon but likely compiled over several centuries (roughly first millennium BCE). Its sayings follow Hebrew poetic parallelism and were intended as practical instruction for household and communal life in an ancient agrarian society. Proverbs often functions as teaching for young men/sons entering adult roles, emphasizing social stability, proper speech, economic prudence, and moral formation.",
+  "externalReferences": "Many themes here echo other parts of Proverbs—e.g., the value of fearing the Lord as foundational wisdom (see Proverbs 1:7) and parental discipline imagery found elsewhere (compare Proverbs 22:6 and 22:15). The contrast between diligence and laziness parallels Proverbs 10:4 and related sayings in Proverbs 12 and 21. Scholars also note thematic and verbal affinities between Israelite wisdom sayings and other ancient Near Eastern wisdom collections such as the Egyptian Instruction of Amenemope.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 10:4",
+    "Proverbs 11:1",
+    "Proverbs 15:1",
+    "Proverbs 22:6",
+    "Proverbs 12:24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Wisdom and Conduct"
+    },
+    {
+      "range": "21-25",
+      "title": "Legacy and Discipline"
+    }
+  ],
+  "themes": [
+    "Wisdom vs Folly",
+    "Speech and Restraint",
+    "Diligence",
+    "Discipline"
+  ],
+  "practicalQuestions": [
+    "How can I practice restraint in speech so my words contribute to life rather than harm (v.3, v.2)?",
+    "What daily habits cultivate diligence and steady gain rather than quick, ill-gotten wealth (v.4, v.11)?",
+    "In what ways should parental discipline be expressed to form character without fostering shame (v.24)?",
+    "Who are my close companions, and how might their influence be shaping my choices and character (v.20)?",
+    "How should I interpret proverbs about wealth and poverty when addressing social injustice and personal responsibility (v.7, v.23, v.22)?"
+  ],
+  "uncertainAreas": "Uncertainty exists about the original historical layering and authorship of these sayings and about how universally the cause-and-effect statements should be read—some proverbs state typical outcomes rather than ironclad promises. A few verses (e.g., on poverty and rebuke) may reflect social assumptions of the original context that require careful application today.",
+  "createdAt": "2025-11-03T22:39:50.307Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Prov.19",
+  "briefOverview": "A collection of short wisdom sayings contrasting integrity and folly, urging discipline, truthful speech, care for the poor, and respect for authority.",
+  "summary": "The chapter pairs practical moral instructions with short proverbial contrasts: integrity and wisdom are better than wealth gained by deceit (1, 8, 22), false witnesses and liars will be punished (5, 9, 28), and sloth and folly bring shame and want (2, 15, 24). It urges restraint in anger and the value of discretion (11, 19), affirms the seriousness of parental discipline and the disgrace of wayward children (18, 26), and highlights social realities—wealth draws friends while the poor are often forsaken (4, 6–7). The fear of the LORD is presented as life-giving and protective (23), and justice will be meted out to scorners and the wicked (29).",
+  "externalContext": "Proverbs belongs to the wisdom literature of ancient Israel, traditionally associated with Solomon but likely compiled over centuries (10th–5th centuries BCE). Its short, pithy sayings reflect a pedagogical household and court context where maxims instructed youth, administrators, and families on practical ethics, social behavior, and religious reverence. Social realities reflected here—patronage, royal favor, family inheritance, concern for the poor—mirror the hierarchical and kin-centered society of the ancient Near East.",
+  "externalReferences": "The theme that false witnesses will be punished aligns with legal standards elsewhere in the Torah (Deuteronomy 19:15–21; Exodus 20:16), which regulate testimony and prescribe penalties for bearing false witness. The moral link between fearing the LORD and wisdom or life echoes other Proverbs passages (Proverbs 9:10; Proverbs 3:1–2) that connect covenantal reverence with well-being. The injunction to care for the poor resonates with Deuteronomic and prophetic calls for social responsibility (cf. Deuteronomy 15:7–11).",
+  "seeAlso": [
+    "Deuteronomy 19:15-21",
+    "Exodus 20:16",
+    "Proverbs 9:10",
+    "Proverbs 3:1-2",
+    "Deuteronomy 15:7-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Integrity vs. Folly"
+    },
+    {
+      "range": "11-20",
+      "title": "Discipline and Authority"
+    },
+    {
+      "range": "21-29",
+      "title": "Justice and Instruction"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Integrity",
+    "Discipline",
+    "Justice"
+  ],
+  "practicalQuestions": [
+    "In what ways might I choose integrity over short-term gain in my workplace or community?",
+    "How can parents balance firm discipline with compassion in shaping children’s character?",
+    "What practical steps can I take to counter social neglect of the poor in my context?",
+    "How do I cultivate restraint and discretion when anger is provoked?",
+    "How should communities guard against false testimony and promote truthful speech?"
+  ],
+  "uncertainAreas": "Attribution and dating of individual proverbs are uncertain—some sayings may be older or later than a putative Solomonic core. A few images (e.g., \"lendeth unto the LORD\") are metaphorical and allow multiple readings about divine recompense versus social reciprocity. The social setting (court versus household) of particular sayings is not always explicit, so some applications across contexts are interpretive.",
+  "createdAt": "2025-11-03T22:42:56.475Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

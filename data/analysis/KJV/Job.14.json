@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.14",
+  "briefOverview": "Job reflects on human mortality and the seeming finality of death while questioning God's judgment and expressing a hesitant hope for renewal or vindication.",
+  "summary": "The speaker begins by stating the brevity and trouble-filled nature of human life and objects that God judges such a frail creature (vv.1–6). He contrasts the resilient hope of a cut-down tree that can sprout again with the human condition: when a person dies, they lie down and do not rise, seeming to sleep until the heavens are no more (vv.7–12). Job asks God to hide him in the grave until God's anger passes and entertains the question whether a dead person can live again, expressing a desire to wait for a change and to be summoned by God (vv.13–16). He accuses God of counting his steps and sealing his transgression, and uses images of mountains and waters to describe the wearing away of human hope; he closes noting that even if his children rise to honor he will not know, while his body and soul continue in pain (vv.17–22).",
+  "externalContext": "Job is part of ancient Near Eastern wisdom literature and uses poetic parallelism and extended metaphor typical of that genre. In the broader ancient Israelite context concepts of the afterlife were varied: common imagery emphasized Sheol (a shadowy underworld) and mortality, while explicit language about personal resurrection is relatively rare and debated among scholars. The chapter participates in a theological debate about divine justice, suffering, and human limitation that reflects ancient concerns about fate, divine oversight, and moral recompense.",
+  "externalReferences": "The theme of human brevity and likeness to vegetation echoes Psalm 90:3–6 and Psalm 103:15–16, which speak of human life passing like grass. Job’s question “If a man die, shall he live again?” contrasts with Job 19:25–27, where Job elsewhere affirms confidence in a living Redeemer and a future vindication. Ecclesiastes 3:19–20 and Genesis 3:19 share motifs of human mortality and return to dust, providing a broader scriptural background for the chapter’s images.",
+  "seeAlso": [
+    "Psalm 90:3-6",
+    "Job 19:25-27",
+    "Ecclesiastes 3:19-20",
+    "Genesis 3:19",
+    "Psalm 103:15-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Human Frailty and Judgment"
+    },
+    {
+      "range": "7-12",
+      "title": "Tree Hope Versus Death"
+    },
+    {
+      "range": "13-22",
+      "title": "Desire for Vindication"
+    }
+  ],
+  "themes": [
+    "Mortality",
+    "Suffering",
+    "Divine justice",
+    "Hope/Resurrection"
+  ],
+  "practicalQuestions": [
+    "How does awareness of our limited lifespan affect how we live and set priorities today?",
+    "When suffering feels like divine judgment, how can we responsibly question and seek understanding without presuming God’s motives?",
+    "What forms of hope are appropriate when the future seems uncertain—do we wait, act, or both?",
+    "How should communities support people who feel their moral failings are permanently 'sealed' or beyond forgiveness?"
+  ],
+  "uncertainAreas": "It is unclear whether Job is affirming a concrete belief in personal resurrection or voicing a rhetorical hope; the phrase about God ‘sewing up’ iniquity may mean both accusation of divine surveillance and a complaint about irrevocable guilt. The hyperbolic language (e.g., ‘till the heavens be no more’) leaves room for poetic rather than literal readings.",
+  "createdAt": "2025-11-03T19:57:31.426Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

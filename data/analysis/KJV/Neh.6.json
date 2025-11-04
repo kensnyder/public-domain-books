@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Neh.6",
+  "briefOverview": "Nehemiah faces coordinated attempts to intimidate and distract him from rebuilding Jerusalem's wall, resists deception, and completes the project despite external and internal opposition.",
+  "summary": "Sanballat, Tobiah, Geshem and their allies repeatedly try to lure Nehemiah away and spread rumors that he intends to make himself king, but Nehemiah refuses to leave the work. They escalate with an open letter accusing him of rebellion and then attempt to frighten him through a hired prophet (Shemaiah) who recommends he hide in the temple; Nehemiah discerns the plot and refuses to sin by fleeing. He asks God to strengthen his hands and to deal with his enemies. The wall is finished on the twenty‑fifth day of Elul in fifty‑two days, causing surrounding peoples to be disheartened because they recognize the work as God's. The chapter closes by exposing internal collaboration with Tobiah among some nobles of Judah who correspond and praise him, undermining Nehemiah.",
+  "externalContext": "The narrative is set during the Persian period when local governors and neighboring leaders (like the Samarian governor Sanballat and an Ammonite or Tobian official) were sensitive to any fortification that could signal rebellion or the reestablishment of a local ruler. Building a city wall carried political implications under imperial rule, so accusations to the Persian king or local authorities were a real tactic. Prophets and prophetic figures in this period could carry political influence, and claiming divine sanction (or manufacturing it) was a way to shape public perception.",
+  "externalReferences": "This episode continues a pattern of opposition recounted earlier in Nehemiah (see Nehemiah 2–4) where Sanballat and Tobiah repeatedly try to obstruct the rebuilding. The tactic of sending written accusations to higher authorities resembles petitions and letters in Ezra 4:6–23, where opponents appeal to Persian rulers to stop Judean reconstruction. The motif of false or politically motivated prophecy appears elsewhere in the Hebrew Bible as a concern about discerning true from false prophetic speech (cf. Deuteronomy 18:20–22 for standards for testing prophets).",
+  "seeAlso": [
+    "Nehemiah 2:11-20",
+    "Nehemiah 4:1-23",
+    "Ezra 4:6-23",
+    "Nehemiah 6:15-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Attempts to Distract"
+    },
+    {
+      "range": "10-14",
+      "title": "False Prophecy Exposed"
+    },
+    {
+      "range": "15-19",
+      "title": "Completion and Collusion"
+    }
+  ],
+  "themes": [
+    "Perseverance",
+    "Opposition",
+    "Discernment",
+    "Community division"
+  ],
+  "practicalQuestions": [
+    "When facing opposition or slander about a project I care about, how should I balance caution with commitment to the work?",
+    "How can I evaluate whether counsel I receive (even from religious sources) is genuinely from God or serves other interests?",
+    "What steps can communities take to prevent internal loyalties from undermining collective goals?",
+    "How does prayer and reliance on God shape leadership decisions under political pressure?"
+  ],
+  "uncertainAreas": "Exact historical identities and titles of some figures (e.g., Gashmu/Geshem), the broader political reactions in Persia beyond the narrative, and the full extent and content of the letters exchanged between Tobiah and Judah's nobles are not specified in the chapter.",
+  "createdAt": "2025-11-03T19:42:36.770Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

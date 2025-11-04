@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Job.10",
+  "briefOverview": "Job speaks directly to God in a personal lament, protesting his suffering, appealing to God’s role as creator, and asking why God treats him so harshly. He expresses a desire for death as escape and depicts the afterlife as a land of darkness.",
+  "summary": "Job opens by declaring the weariness of his life and resolving to voice the bitterness of his soul. He challenges God not to condemn him without explanation, asking whether God delights in oppressing his handiwork and whether God examines him as a man examines sin. Job reminds God that the same hands that fashioned him from the womb now seem to destroy him, using imagery of clay, milk, cheese, skin, and bones to stress God’s role as creator. He admits God’s knowledge of his condition but complains that any sin he commits is marked and punished, leaving him ashamed whether guilty or righteous. The speech culminates in Job wishing he had died at birth, asking to be left to find a little comfort before he goes to “the land of darkness,” described as chaotic and lightless.",
+  "externalContext": "The Book of Job belongs to the wisdom literature of the ancient Near East and uses the lament and disputation genre: a suffering righteous figure questions the moral order and the deity’s governance. In that cultural milieu, divine action commonly included both creative and judicial elements—gods were credited with forming humans yet also meting out reward or punishment. Imagery of formation in the womb (clay, knitting, pouring) reflects common ancient metaphors for birth and human dependency on the deity.",
+  "externalReferences": "This chapter’s theme of God as creator who forms human beings resembles Psalm 139:13–16, which depicts God crafting a person in the womb. The wish to have died at birth and the description of human life as brief echo Job 14:1–2. Job’s earlier complaints in chapter 7 (especially 7:11–21) contain similar motifs of pleading with God, asking why life is prolonged under anguish, and desiring death.",
+  "seeAlso": [
+    "Psalm 139:13-16",
+    "Job 14:1-2",
+    "Job 7:11-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Complaint and Creator"
+    },
+    {
+      "range": "13-22",
+      "title": "Desire for Death"
+    }
+  ],
+  "themes": [
+    "Suffering",
+    "Divine justice",
+    "Creation",
+    "Mortality"
+  ],
+  "practicalQuestions": [
+    "How can I honestly voice grief and anger to God while maintaining faith?",
+    "In what ways should communities respond when someone asserts that God has abandoned or unfairly afflicted them?",
+    "How does the idea that God both forms and afflicts influence how we understand human dignity and suffering?",
+    "What practices help reconcile the experience of unjust suffering with beliefs about a moral order?"
+  ],
+  "uncertainAreas": "Some rhetorical questions may be accusatory or pleading; it is ambiguous whether Job is asserting divine injustice or seeking explanation and relief. Phrases like \"renewest thy witnesses\" and \"changes and war\" are vivid but their precise referents (legal imagery, cosmic forces, or poetic metaphors) are not explicit.",
+  "createdAt": "2025-11-03T19:55:42.089Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

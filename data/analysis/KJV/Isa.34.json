@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Isa.34",
+  "briefOverview": "An oracle announcing Yahweh’s violent judgment on the nations, especially Edom (Idumea), using cosmic upheaval and desolate imagery.",
+  "summary": "The prophet calls the nations to hear a divine pronouncement: the LORD’s indignation falls on all nations and their armies, resulting in utter slaughter and grotesque images of corpses and blood. Cosmic signs accompany the judgment—heavenly hosts dissolve and the heavens roll up like a scroll. The sword of the LORD is said to descend specifically on Idumea and Bozrah, with sacrificial language and abundant bloodshed. The scene shifts to permanent desolation: streams turn to pitch and brimstone, smoke rises forever, and the land becomes uninhabitable. Wild birds and desert creatures take possession; nobles and princes are gone, palaces become overgrown with thorns, and the territory is apportioned by God for ever.",
+  "externalContext": "Edom (Idumea) lay southeast of Judah and was a frequent antagonist in Israelite memory; Bozrah was a principal Edomite city. Prophetic oracles often use vivid, hyperbolic imagery (blood, pitch, brimstone, cosmic signs) to portray both historical military defeat and broader themes of divine retribution. The Hebrew term rendered “unicorns” in older English translations is reʾem, likely referring to a wild ox or aurochs in the ancient Near Eastern context.",
+  "externalReferences": "This oracle echoes other prophetic ‘Day of the LORD’ pronouncements that combine national judgment with cosmic signs; compare Isaiah 13:6–13 (oracle against Babylon) for similar heavens-and-judgment language. The focused condemnation of Edom is treated at length in Obadiah 1:1–21, which also predicts humiliation and dispossession. The general motif of cosmic disturbance and unquenchable destruction appears elsewhere in prophetic literature (e.g., Joel 2:30–3:21; Amos 5:18).",
+  "seeAlso": [
+    "Isaiah 13:6-13",
+    "Obadiah 1:1-21",
+    "Joel 2:30-3:21",
+    "Amos 5:18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Universal Summons and Judgment"
+    },
+    {
+      "range": "5-17",
+      "title": "Edom: Blood and Desolation"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Desolation",
+    "Day of the LORD",
+    "Cosmic upheaval"
+  ],
+  "practicalQuestions": [
+    "How should modern readers interpret the violent and graphic imagery—literally, metaphorically, or both?",
+    "What ethical obligations arise when a text portrays divine judgment against whole peoples or nations?",
+    "How can communities today balance calls for justice with values of mercy and reconciliation in light of such oracles?",
+    "What do the images of ruined ecology and animals inhabiting destroyed cities suggest about the long-term consequences of war and violence?"
+  ],
+  "uncertainAreas": "The precise horizon (historical defeat of Edom versus an eschatological, universal end) is ambiguous; the Hebrew reʾem translated “unicorns” is uncertain and likely denotes a wild ox; dating and original audience of this oracle are not specified in the text and remain a scholarly question.",
+  "createdAt": "2025-11-03T23:18:07.467Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Chr.5",
+  "briefOverview": "The chapter narrates the completion of Solomon's temple and the ceremonial installation of the Ark of the Covenant, culminating in a liturgical celebration in which God's glory fills the temple.",
+  "summary": "Solomon finishes the construction and equips the temple, bringing into it the sacred items David had dedicated. He convenes Israel's leaders in the seventh-month festival and the Levites and priests carry the Ark of the Covenant from the City of David into the Most Holy Place beneath the cherubim; only the two stone tablets are in the ark.\nGreat numbers of sacrifices are offered, Levitical musicians and trumpeters lead the assembled people in praise, and as they bless the LORD and proclaim his mercy, a cloud—the visible sign of God's presence—fills the temple so that the priests cannot continue ministering because the glory of the LORD fills the house of God.",
+  "externalContext": "The narrative belongs to the united monarchy period under Solomon (traditionally 10th century BCE) and describes the dedication of the Jerusalem temple, a central moment in Israelite cultic history. The gathering in the seventh month likely corresponds with the festival season (traditionally the Feast of Tabernacles), a time for pilgrimage and public worship in the Hebrew calendar. The Levites named (Asaph, Heman, Jeduthun) are associated elsewhere with established temple musician families (see Psalms headings and other Chronicles passages).",
+  "externalReferences": "This account closely parallels the account in 1 Kings 8:1–11, which also records the ark's installation and the cloud filling the temple. The reference to the two stone tablets connects back to Moses receiving the tablets at Horeb (Exodus 31:18; 34:28). The assembly in the seventh month resonates with Leviticus 23:34–36 and instructions for festival observance (Feast of Booths/Sukkot).",
+  "seeAlso": [
+    "1 Kings 8:1-11",
+    "1 Kings 8:22-61",
+    "Exodus 25:10-22",
+    "Exodus 31:18",
+    "Leviticus 23:34-36",
+    "2 Chronicles 6:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Temple Completed and Assembled"
+    },
+    {
+      "range": "7-10",
+      "title": "Ark Placed in Holy of Holies"
+    },
+    {
+      "range": "11-14",
+      "title": "Praise and Divine Glory"
+    }
+  ],
+  "themes": [
+    "Temple Dedication",
+    "Divine Presence",
+    "Worship and Music",
+    "Covenant Symbolism"
+  ],
+  "practicalQuestions": [
+    "How does having dedicated sacred space shape communal worship today?",
+    "What role do ritual, music, and leadership play in preparing people to sense the divine?",
+    "How should modern communities interpret physical signs of presence (clouds, silence, emotional experience)?",
+    "In what ways can tangible symbols (like the ark or tablets) help transmit covenantal memory across generations?"
+  ],
+  "uncertainAreas": "The phrase \"there it is unto this day\" about the ark staves may reflect the author's contemporary situation and is hard to date precisely. The description of the cloud and the priests' inability to minister is presented as a visible, physical event; whether it should be read as literal smoke/cloud or as theological symbolism for God's presence can be interpreted in different ways. The exact timing of the festival in the \"seventh month\" is likely Sukkot but the text does not elaborate on its liturgical details here.",
+  "createdAt": "2025-11-03T19:18:50.206Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Ps.105",
+  "briefOverview": "A communal song of praise that celebrates God's covenant faithfulness by recounting Israel's history from the call of Abraham through the Exodus and settlement of the land.",
+  "summary": "The psalm opens with a call to thank, praise, and seek the LORD, urging the community to remember his wondrous works. It recounts God's covenant promises to Abraham, Isaac, and Jacob, and affirms divine protection for the patriarchs and their descendants. The narrative moves to Joseph—his sale into slavery, imprisonment, vindication, and rise to power—and then to Israel's sojourn in Egypt, their oppression, and God's raising of Moses and Aaron. The psalm lists the signs and plagues that brought Israel out of Egypt, the provision in the wilderness (cloud, fire, quail, manna, water from the rock), and the plundering of the Egyptians. It closes by saying God brought his people into the land so they might keep his statutes, and it ends with a final call to praise the LORD.",
+  "externalContext": "Psalm 105 belongs to the Hebrew Psalter and functions as a liturgical or thanksgiving hymn that retells national history to encourage remembrance and praise. Its language and structure echo other historical psalms and reports (notably Psalm 78 and material in 1 Chronicles 16), suggesting its use in worship settings where communal memory and covenant identity were emphasized. The psalm weaves together Genesis and Exodus traditions familiar to an Israelite audience.",
+  "externalReferences": "The covenant promises mentioned echo Genesis passages describing God's call and land promise to Abraham and his descendants (Genesis 12:1–7; Genesis 26; Genesis 28). The Joseph narrative corresponds with the stories in Genesis 37 and 39–45, where Joseph is sold, imprisoned, and later exalted. The plagues and signs (blood, frogs, gnats/flies, hail, locusts, death of the firstborn), the plundering of Egypt, manna and quail, and water from the rock are parallel to accounts in Exodus 7–12, Exodus 16, Exodus 17 (and Numbers 20 for a later rock episode), and Exodus 12:35–36. Psalm 105 closely parallels the thanksgiving material preserved in 1 Chronicles 16:8–36 and overlaps thematically with Psalm 78.",
+  "seeAlso": [
+    "Genesis 12:1-7",
+    "Genesis 37:1-36",
+    "Genesis 39:1-45:28",
+    "Exodus 7:14-12:36",
+    "Exodus 16:1-36",
+    "Exodus 17:1-7",
+    "Exodus 12:35-36",
+    "Numbers 11:1-35",
+    "1 Chronicles 16:8-36",
+    "Psalm 78"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "7-22",
+      "title": "Covenant and Joseph"
+    },
+    {
+      "range": "23-45",
+      "title": "Egypt, Exodus, Provision"
+    }
+  ],
+  "themes": [
+    "Thanksgiving",
+    "Covenant",
+    "Deliverance",
+    "Remembrance"
+  ],
+  "practicalQuestions": [
+    "How can a faith community practically 'make known his deeds' so younger generations remember foundational events?",
+    "What disciplines (worship, storytelling, rituals) help people 'seek the LORD' continually as the psalm urges?",
+    "In what ways should gratitude for past deliverances shape present obedience to ethical and religious duties?",
+    "How might recounting communal history strengthen trust during current crises or exile-like experiences?"
+  ],
+  "uncertainAreas": "Dating and original liturgical setting are uncertain; the psalm draws on multiple traditions (e.g., two rock‑water accounts in Exodus/Numbers). The phrase 'Touch not mine anointed' is ambiguous about whether it intends protection for kings, prophets, or the chosen people generally. Some verbal parallels with 1 Chronicles 16 and Psalm 78 raise questions about dependence or shared sources.",
+  "createdAt": "2025-11-03T22:13:07.252Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

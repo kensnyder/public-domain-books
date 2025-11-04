@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.3",
+  "briefOverview": "A short psalm of complaint and confidence: the speaker laments opposition but affirms God’s protection and asks for deliverance.",
+  "summary": "The psalmist begins by describing many adversaries and their taunts that God will not help (verses 1–2). He then affirms God as his shield and the one who lifts his head, reporting that God heard his cry (verses 3–4). The speaker testifies to personal calm and restored safety—sleeping and awakening because the LORD sustains him—and declares fearless trust even against overwhelming odds (verses 5–6). He concludes with a direct plea for God to arise and save, a vivid image of God disabling enemies, and the assertion that salvation belongs to the LORD with God’s blessing on his people (verses 7–8).",
+  "externalContext": "Jewish and Christian tradition attributes this psalm to David, often linked to the episode when he fled from his son Absalom (see 2 Samuel 15–18), which would place its setting in the early monarchic period of Israel. The imagery of God as 'shield' and the communal refrain 'Selah' reflect ancient Near Eastern poetic and liturgical conventions; Selah's exact musical or liturgical function is uncertain but marks a pause or emphasis. Military metaphors (broken teeth, cheek bone) reflect a culture where physical humiliation and bodily injury were common metaphors for defeat.",
+  "externalReferences": "The historical crisis commonly associated with this psalm is the rebellion of Absalom (2 Samuel 15–18), which provides a narrative setting for fleeing and being pursued. The motif of God as protector or 'shield' appears elsewhere, e.g., Psalm 18:2 ('The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler [shield]'), and the declaration 'Salvation belongeth unto the LORD' resonates with passages like Psalm 62:7 that stress God as the source of salvation.",
+  "seeAlso": [
+    "2 Samuel 15:13-14",
+    "Psalm 18:2",
+    "Psalm 62:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Complaint and Taunts"
+    },
+    {
+      "range": "3-6",
+      "title": "Trust and Testimony"
+    },
+    {
+      "range": "7-8",
+      "title": "Plea and Assurance"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Deliverance",
+    "Persecution",
+    "Prayer"
+  ],
+  "practicalQuestions": [
+    "When facing criticism or slander, how can you practically cultivate trust in a protecting presence instead of fear?",
+    "What habits or practices help you experience the 'rest' (verse 5) that the psalmist links to divine sustaining?",
+    "How should leaders respond to overwhelming opposition in ways that mirror the psalmist’s combination of prayer and confidence?",
+    "In community worship, how can short liturgical refrains (like Selah) shape our listening and response to prayer?"
+  ],
+  "uncertainAreas": "The psalm’s superscription (David/Absalom context) is traditional but not stated in the text provided; the precise meaning and liturgical function of 'Selah' are uncertain. The idiom about smiting 'upon the cheek bone' and 'breaking the teeth' is vivid but open to figurative or literal readings; the number 'ten thousands' may be hyperbolic rather than a literal count.",
+  "createdAt": "2025-11-03T21:28:34.620Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

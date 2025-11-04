@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.94",
+  "briefOverview": "A communal plea for God to act against the prospering wicked, coupled with an affirmation that God knows human thoughts and disciplines the faithful. The psalmist contrasts the arrogance of oppressors with God’s role as judge and refuge for the righteous.",
+  "summary": "The speaker calls on God, described as the rightful judge, to rise and repay the proud who oppress the vulnerable (vv.1–7). He rebukes those who presume God does not see their crimes and reminds them that the Creator knows and judges human actions (vv.8–11). The psalm affirms the blessing of divine chastening as instruction that leads to rest and vindication, and it insists that God will not abandon his people but will restore righteous judgment (vv.12–15). The poet appeals for a defender against evildoers, testifies that God’s help has preserved him in danger, and contrasts the throne of iniquity with God’s just rule (vv.16–23). The psalm closes by asserting that God will bring the wicked’s iniquity upon themselves and cut them off.",
+  "externalContext": "Psalms expressing lament and petitions for divine justice were common in ancient Israelite worship and courts of conscience; they reflect a worldview in which God is the legal arbiter of right and wrong. Language about God as judge and protector of widows, orphans, and foreigners fits social and legal concerns of the ancient Near East, where communal responsibility for the vulnerable was a hallmark of covenant law. The motif of divine discipline as beneficial also resonates with wisdom traditions that interpret suffering as corrective instruction.",
+  "externalReferences": "The summons for God to judge the earth and defend the weak echoes other psalms that emphasize divine justice (e.g., Psalm 82:1–4; Psalm 9:7–10). The theme of the wicked prospering now but being judged later is comparable to Psalm 37 and Psalm 73. The idea that God’s chastening benefits the godly parallels Proverbs 3:11–12 and is later taken up in Hebrews 12:5–11 in a New Testament reflection on divine discipline.",
+  "seeAlso": [
+    "Psalm 82:1-4",
+    "Psalm 37",
+    "Psalm 73",
+    "Psalm 9:7-10",
+    "Proverbs 3:11-12",
+    "Hebrews 12:5-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Cry for Vengeance"
+    },
+    {
+      "range": "8-15",
+      "title": "God Knows and Chastens"
+    },
+    {
+      "range": "16-23",
+      "title": "Personal Plea and Vindication"
+    }
+  ],
+  "themes": [
+    "Divine justice",
+    "Oppression",
+    "Divine knowledge",
+    "Discipline"
+  ],
+  "practicalQuestions": [
+    "How should communities advocate for and protect widows, orphans, and foreigners in light of this psalm’s concern for the vulnerable?",
+    "When we see injustice that seems to go unpunished, how can this text shape our trust in eventual accountability?",
+    "In what ways might we interpret suffering as corrective rather than merely punitive, and how should that affect pastoral care?",
+    "How can individuals balance a call for God’s justice with responsibilities to pursue human means of redress and reconciliation?"
+  ],
+  "uncertainAreas": "The psalm does not identify the specific historical circumstances or opponents behind the complaints, so whether it addresses a particular event, a class of oppressors, or general experience is unclear. It is also ambiguous how the language of divine vengeance should be applied ethically today—whether primarily as a theological assurance or as a model for human action.",
+  "createdAt": "2025-11-03T22:07:43.213Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.21",
+  "briefOverview": "Job challenges the friends' simple retribution theology by pointing out that the wicked often prosper and live long lives, undermining their consolatory claims about immediate divine punishment.",
+  "summary": "Job asks for leave to speak and responds sharply to his friends' assertions that the wicked are quickly punished. He catalogs the prosperity and security of many wicked people—long life, flourishing offspring, wealth, music, and peaceful households—and asks why such people are not immediately punished. Job acknowledges that sometimes the wicked suffer or die miserably, but insists that often they die in ease and leave many behind. He challenges his friends to ask travelers about the fate of the wicked and denies that their answers truly comfort him, accusing them of falsehood. Although he allows that the wicked may ultimately face destruction, he insists this does not vindicate the claim that wickedness is promptly and uniformly punished.",
+  "externalContext": "The Book of Job is part of the Hebrew wisdom literature and engages the popular Israelite (and broader ancient Near Eastern) belief that material prosperity signified divine blessing while suffering signified divine punishment. Debates about retribution theology—whether the righteous are always rewarded and the wicked always punished—were central to wisdom discussions. The book is usually dated to the first millennium BCE, though its precise historical setting and redaction history are uncertain.",
+  "externalReferences": "This chapter directly answers the preceding speech in Job 20, where Zophar insists the wicked's light will be extinguished (see Job 20:4–11, 20–29). Psalm 73 (especially vv. 3–12, 16–20) treats the same problem from Asaph's perspective, expressing envy at the prosperity of the wicked before recognizing their ultimate end. Ecclesiastes 8:14 likewise observes the paradox of wicked people prospering despite their deeds.",
+  "seeAlso": [
+    "Job 20",
+    "Job 24",
+    "Psalm 73:3-12,16-20",
+    "Ecclesiastes 8:14",
+    "Psalm 37:35-36"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Request to Speak"
+    },
+    {
+      "range": "7-26",
+      "title": "Prosperity of the Wicked"
+    },
+    {
+      "range": "27-34",
+      "title": "Challenge to the Friends"
+    }
+  ],
+  "themes": [
+    "Theodicy",
+    "Prosperity of wicked",
+    "Suffering",
+    "Rhetorical rebuke"
+  ],
+  "practicalQuestions": [
+    "How do we respond when observed reality (wicked prospering) clashes with beliefs about divine justice?",
+    "When comforting someone who suffers, how can we avoid simplistic explanations that equate suffering with personal guilt?",
+    "What weight should we give to long-term or ultimate justice versus present circumstances in making moral and pastoral judgments?",
+    "How can questions and honest lament, like Job's, function as part of faithful speech rather than cynical denial?"
+  ],
+  "uncertainAreas": "Uncertainty about the specific addressee among Job's friends in this chapter and about whether Job fully affirms any eventual divine retribution—he both insists on the present prosperity of the wicked and allows for their future destruction. The book's precise historical setting and editorial layers are also matters of scholarly debate.",
+  "createdAt": "2025-11-03T20:00:53.281Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

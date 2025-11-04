@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Chr.35",
+  "briefOverview": "The chapter describes King Josiah's nationally celebrated Passover observance and then narrates his fatal encounter with Pharaoh Necho at Megiddo.",
+  "summary": "Josiah organizes and purifies the priests and Levites, commands a nationwide Passover celebrated according to Mosaic law, and supplies vast offerings from the royal and princely resources (including 30,000 lambs and 3,000 bullocks). The Passover is praised as unparalleled since the days of the prophet Samuel. In the eighteenth year of his reign, after preparing the temple, Josiah confronts Necho king of Egypt at Megiddo despite Necho's warning that he is acting on God's commission; Josiah is wounded, brought back to Jerusalem, and dies. Jeremiah and the professional singers compose laments for him, and the chapter closes by noting further records of Josiah's deeds in the royal chronicles.",
+  "externalContext": "Passover was the central national ritual recalling Israel's Exodus deliverance (see Exodus 12) and was normally celebrated with strict priestly and Levitical roles in the tabernacle/temple. Josiah's reforms (recorded earlier in Chronicles and in Kings) are generally dated to the late 7th century BCE and reflect a movement to centralize worship in Jerusalem and renew fidelity to the Torah. The reference to Necho likely reflects the wider geopolitical struggle among Egypt, Assyria, and emerging Babylonian powers in the same era; Egyptian campaigns in Syria and Mesopotamia frequently brought them into contact with Judah.",
+  "externalReferences": "The chapter's Passover parallels the account and reform context in 2 Kings 23:21–23 and is connected to the book-finding and temple reforms recorded in 2 Chronicles 34 (and 2 Kings 22–23). The procedures for Passover observance are drawn from Exodus 12 and related Mosaic legislation. The death of Josiah is also described in 2 Kings 23:29–30.",
+  "seeAlso": [
+    "Exodus 12:1-14",
+    "2 Kings 23:21-23",
+    "2 Kings 23:29-30",
+    "2 Chronicles 34:8-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "The Great Passover"
+    },
+    {
+      "range": "20-25",
+      "title": "Josiah's Death at Megiddo"
+    },
+    {
+      "range": "26-27",
+      "title": "Records and Legacy"
+    }
+  ],
+  "themes": [
+    "Religious Reform",
+    "Passover",
+    "Leadership",
+    "Mourning"
+  ],
+  "practicalQuestions": [
+    "How can a community balance recovery of foundational religious practices with attention to present realities?",
+    "What responsibilities do leaders have to heed external warnings, and how should communities evaluate conflicting claims about divine instruction?",
+    "How should a faith community commemorate and mourn the death of a widely revered leader?",
+    "In what ways can institutions ensure that liturgical roles (priests, Levites, musicians, gatekeepers) are sustained and organized today?"
+  ],
+  "uncertainAreas": "The text’s claim that Necho spoke 'from the mouth of God' is ambiguous—Chronicles reports the warning but also notes Josiah ignored it; the precise theological status of Necho’s message is unclear. The historical dating and circumstances around the Egyptian campaign (and its relation to the later battle of Carchemish) are debated by historians, and the identification of the laments Jeremiah wrote with extant biblical Lamentations is traditional but not certain.",
+  "createdAt": "2025-11-03T19:34:25.700Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

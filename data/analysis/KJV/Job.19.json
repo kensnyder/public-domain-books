@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Job.19",
+  "briefOverview": "Job replies to his friends with a bitter lament about his suffering and social isolation, and unexpectedly affirms confidence that a redeemer lives and will vindicate him.",
+  "summary": "Job opens by protesting his friends' repeated accusations and asks how long they will torment him with words. He describes God as having besieged him, removed his honor, darkened his paths, and alienated his kin, servants, and community. In vivid physical language he reports wasting away—\"my bone cleaveth to my skin\"—and pleads with his friends for pity. He expresses a desire that his words be permanently recorded, then makes the striking declaration, \"For I know that my redeemer liveth,\" asserting that he will see God in his flesh despite bodily decay. The chapter closes with Job reproving his friends and warning them of judgment.",
+  "externalContext": "The book of Job is part of the Hebrew wisdom literature, likely composed in the first millennium BCE; it addresses questions of suffering, justice, and divine-human relations within an honor-shame social world where communal reputation and family obligations mattered deeply. The term translated \"redeemer\" (Hebrew go'el) has legal and familial associations in Israelite law and tradition (the kinsman-redeemer who avenges wrongs or restores property), a background that shapes how readers have understood Job's confidence. Practices like inscribing words on stone as a claim to remembrance were common rhetorical motifs in the ancient Near East.",
+  "externalReferences": "The image of a \"redeemer\" has legal parallels in Leviticus 25:25 and in the narrative of Ruth where a kinsman-redeemer acts on behalf of a relative (see Ruth 4). Job 19:25–27 is often read as anticipatory of later biblical hope in bodily vindication or resurrection (cf. Daniel 12:2), and New Testament writers discuss bodily vindication and resurrection in passages such as 1 Corinthians 15:42–44, which develop themes similar to Job's claim about seeing God \"in my flesh.\"",
+  "seeAlso": [
+    "Leviticus 25:25",
+    "Ruth 4:1-12",
+    "Daniel 12:2",
+    "1 Corinthians 15:42-44"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Complaint Against Friends"
+    },
+    {
+      "range": "7-20",
+      "title": "Suffering and Isolation"
+    },
+    {
+      "range": "21-27",
+      "title": "Plea and Redeemer Confession"
+    }
+  ],
+  "themes": [
+    "Suffering",
+    "Alienation",
+    "Vindication",
+    "Hope in Redeemer"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when a suffering person feels publicly shamed or abandoned?",
+    "When facing undeserved suffering, how can one balance honest lament with maintaining trust in God or ultimate justice?",
+    "What might a modern understanding of a \"redeemer\" or vindicator look like in personal or social contexts?",
+    "How can testimony and memory (\"written on rock\") function to resist social erasure of those who suffer?"
+  ],
+  "uncertainAreas": "Interpretation of \"redeemer\" is debated—whether Job expects a personal kinsman-like vindicator, a divine advocate, or a future eschatological vindication (or a combination). Also unclear is whether Job anticipates a literal bodily resurrection or affirms a conviction in postmortem vindication formulated in the language available to him; translation nuances in archaic English (KJV) affect shades of meaning.",
+  "createdAt": "2025-11-03T20:00:02.571Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ps.4",
+  "briefOverview": "A short prayer-poem asking God to hear in distress, rebuking ungodly listeners, and expressing trust that God grants peace and safety.",
+  "summary": "The psalmist begins by appealing to God—the 'God of my righteousness'—for merciful attention, recalling past deliverance. He reproves 'sons of men' for turning his honor into shame and pursuing falsehood, then affirms that God sets the godly apart and will hear their call. The poet exhorts inward reflection and reverent stillness, warns against sin, and urges offering 'sacrifices of righteousness' while trusting the LORD. He petitions God to 'lift up the light of thy countenance' as a communal plea and celebrates a deeper gladness than material prosperity. The psalm closes with confident rest: the speaker can sleep and dwell in safety because the LORD alone provides protection.",
+  "externalContext": "The psalm is traditionally attributed to David and likely functioned as a short communal or personal prayer in Israelite worship; the word 'Selah' suggests a liturgical pause or musical direction. References to sacrifices and to God lifting his countenance fit the cultic context of the ancient Israelite temple and the priestly blessing tradition. The language of sleeping in the LORD's safety reflects a common ancient Near Eastern trope of divine protection.",
+  "externalReferences": "Psalm 3:5 uses similar imagery of laying down and sleeping in the LORD's care, suggesting a literary parallel in Davidic laments. Numbers 6:24–26 (the priestly blessing) speaks of God making his face shine upon the people, closely echoing the petition 'lift thou up the light of thy countenance upon us.' Psalm 50:23 and other psalms connect inward righteousness with proper sacrificial or thankful offerings, shedding light on the phrase 'sacrifices of righteousness.'",
+  "seeAlso": [
+    "Psalms 3:5",
+    "Numbers 6:24-26",
+    "Psalms 50:23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Plea for Help"
+    },
+    {
+      "range": "2-5",
+      "title": "Rebuke and Instruction"
+    },
+    {
+      "range": "6-8",
+      "title": "Confidence and Peace"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Righteousness",
+    "Trust",
+    "Peace"
+  ],
+  "practicalQuestions": [
+    "When I feel dishonored or opposed, how can I bring that distress to God instead of retaliating?",
+    "What are contemporary equivalents of 'sacrifices of righteousness'—how can I offer actions or attitudes that reflect faithful devotion?",
+    "How can I cultivate the inner stillness and self-examination the psalm recommends before sleep or decision-making?",
+    "In what ways can communities pray for God's face to 'shine' on them, and how does that shape communal confidence and service?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are traditional but not certain. The exact function of 'Selah' is debated (liturgical pause, musical direction, or editorial mark). 'Enlarged me when I was in distress' and the identity of the opponents ('sons of men') are unspecified, so their concrete historical referents remain unclear.",
+  "createdAt": "2025-11-03T21:29:01.188Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

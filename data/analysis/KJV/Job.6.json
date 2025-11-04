@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Job.6",
+  "briefOverview": "Job expresses intense physical and emotional suffering, longs for release (even death), and reproves his friends for their lack of compassionate support.",
+  "summary": "Job begins by asking that his suffering be weighed, describing God’s attacks as arrows and poison and expressing that life has become tasteless; he even wishes God would destroy him so he might have rest. He questions his remaining strength and complains that friends should show pity to the afflicted but instead have abandoned the fear of God. Job compares his friends to seasonal, unreliable brooks that vanish when needed, accuses them of being ashamed now that he is cast down, and denies having demanded material help. He invites them to teach him if he has erred, praises the force of true words, yet also calls some of their reproofs the words of a desperate man and accuses them of overwhelming the helpless. Finally he challenges them to look and see his righteousness, insisting his tongue is not perverse.",
+  "externalContext": "The Book of Job is part of the Hebrew wisdom tradition and is generally viewed as poetic dialogue exploring the problem of suffering and divine justice. The story is framed by a prose prologue and epilogue (Job 1–2; 42) with the central chapters in poetic form, dated by scholars variously but likely composed in the first millennium BCE. In the ancient Near Eastern context, friends were expected to comfort the suffering and social norms valued solidarity and hospitality, so Job’s complaint about their failure would resonate with contemporary expectations.",
+  "externalReferences": "This chapter continues motifs set up earlier: the prose prologue describes Job’s losses and the afflictions permitted by God (see Job 1–2), and Job’s despair echoes his earlier lament and wish for death in Job 3:1–26. The friends’ initial response—sitting with Job in silence for seven days—is recorded in Job 2:11–13, making their later reproaches in chapters like this more striking. The language of lament and divine attack (e.g., ‘arrows of the Almighty’) is comparable to other biblical laments (cf. Psalm 22:1–2) though applied here within a dialogue about justice and friends’ responsibilities.",
+  "seeAlso": [
+    "Job 2:11-13",
+    "Job 3:1-26",
+    "Job 13:3-12",
+    "Psalm 22:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Personal Lament and Plea"
+    },
+    {
+      "range": "14-21",
+      "title": "Rebuke of Friends"
+    },
+    {
+      "range": "22-30",
+      "title": "Challenge and Defense"
+    }
+  ],
+  "themes": [
+    "Suffering",
+    "Despair",
+    "Friendship",
+    "Lament"
+  ],
+  "practicalQuestions": [
+    "How should we respond when a friend expresses deep despair—what does compassionate presence look like in practice?",
+    "When someone wishes for death out of suffering, how can communities offer immediate care while respecting honest expression?",
+    "How do we balance giving honest correction with the obligation to show pity to those who are afflicted?",
+    "In what ways might we inadvertently act like the ‘seasonal brook’—appearing helpful but failing when support is most needed?"
+  ],
+  "uncertainAreas": "It is ambiguous whether Job’s language about divine arrows intends a theological claim that God directly inflicts punishment or is poetic metaphor for his experience; likewise, the extent to which his friends’ words are malicious versus misguided by customary retribution theology is not fully clear from this chapter alone.",
+  "createdAt": "2025-11-03T19:53:49.097Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

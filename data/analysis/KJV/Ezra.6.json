@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Ezra.6",
+  "briefOverview": "Darius locates and enforces Cyrus’s earlier decree authorizing the rebuilding of the Jerusalem temple; the temple is completed, dedicated, and the people renew cultic practices including the Passover.",
+  "summary": "A search of the royal archives at Achmetha (Ecbatana) uncovers Cyrus’s decree permitting and funding the rebuilding of the house of God in Jerusalem, with instructions to restore the temple vessels. Darius confirms and enforces that decree, orders provision of funds and sacrificial needs, and threatens penalties for anyone who obstructs the work. The Jewish elders, encouraged by the prophets Haggai and Zechariah, complete the temple in the sixth year of Darius, then dedicate it with large offerings and organize priests and Levites according to the law. The community observes Passover and the Feast of Unleavened Bread in purity and joy, marking a liturgical and communal restoration.",
+  "externalContext": "Imperial Persian administration maintained written records and royal decrees; Achmetha (likely Ecbatana) was one of the locations where such archives were kept. Cyrus the Great’s policy after 539 BCE permitted (and sometimes supported) the return of displaced peoples and the restoration of local temples, a policy attested both in biblical texts (Ezra 1) and in extrabiblical material like the Cyrus Cylinder. Prophetic activity by Haggai and Zechariah (around 520 BCE) is historically tied to the renewed building efforts. The Passover and priestly divisions invoked here refer back to Torah legislation (e.g., Exodus, Numbers, Leviticus) that governed Israel’s cultic life.",
+  "externalReferences": "The decree described here parallels the earlier account of Cyrus’s policy in Ezra 1:1–4, which also authorizes the return and support of temple worship. The prophetic encouragement that spurred completion is recorded in Haggai 1–2 and Zechariah 1–8, where the prophets urge rebuilding and promise divine favor. The festival observances point back to the institution of Passover in Exodus 12 and to the assignments of priests and Levites in the Pentateuch (e.g., Numbers 3).",
+  "seeAlso": [
+    "Ezra 1:1-4",
+    "Ezra 5:1-17",
+    "Haggai 1-2",
+    "Zechariah 1-8",
+    "Exodus 12:1-14",
+    "Numbers 3:5-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Royal Decree Enforced"
+    },
+    {
+      "range": "13-22",
+      "title": "Completion and Dedication"
+    }
+  ],
+  "themes": [
+    "Temple restoration",
+    "Royal authorization",
+    "Worship and sacrifice",
+    "Communal renewal"
+  ],
+  "practicalQuestions": [
+    "How should a religious community relate to and seek support from governing authorities while maintaining its independence?",
+    "What roles do prophetic encouragement and spiritual leadership play in completing difficult communal projects today?",
+    "How can ritual observance (like Passover) help a community recover identity and cohesion after trauma or displacement?",
+    "In what ways should communities manage and restore sacred objects and traditions recovered from exile or loss?"
+  ],
+  "uncertainAreas": "The text contains a few awkward or potentially anachronistic notes (e.g., the mention of 'Artaxerxes' alongside Cyrus and Darius; the phrase 'king of Assyria' in v.22). Identification of Achmetha as Ecbatana is probable but not explicit in the chapter. I noted these as textual/historical uncertainties rather than definitive problems.",
+  "createdAt": "2025-11-03T19:37:48.838Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

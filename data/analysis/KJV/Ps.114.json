@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.114",
+  "briefOverview": "A short poetic remembrance of Israel’s deliverance from Egypt that portrays God’s power by describing nature’s astonished response to the Exodus and Jordan crossing.",
+  "summary": "The psalm recalls Israel’s departure from Egypt and affirms Judah as God’s sanctuary and Israel as his domain. It imagines the sea fleeing and the Jordan being driven back, while mountains and hills behave like leaping sheep. The poet poses rhetorical questions to the sea, Jordan, mountains, and hills about their strange behavior. The poem closes by calling the earth to tremble at the Lord’s presence and by celebrating God’s provision in turning rock into flowing water.",
+  "externalContext": "Psalm 114 is part of the Songs of Ascents (Psalms 120–134) and appears in the cluster of psalms used liturgically (including the Hallel, Psalms 113–118) for festivals and pilgrimage to Jerusalem. The imagery—personification of sea, river, and mountains—is characteristic of Hebrew poetic style and of ancient Near Eastern victory/creation motifs that portray gods as ruling nature. The psalm reflects communal memory of the Exodus and the crossing of the Jordan as foundational events in Israel’s identity.",
+  "externalReferences": "The crossing of the sea echoes the Exodus tradition (see Exodus 14:21–31 and the poetic Song of the Sea in Exodus 15). The driving back of the Jordan parallels the conquest account in Joshua (compare Joshua 3:14–17). The image of God turning rock into water recalls traditions about water from a rock (cf. Exodus 17:1–7; Numbers 20:7–11), where different episodes are reported in the Pentateuch. These passages help situate the psalm’s allusions to well-known salvation-history events.",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Exodus 15:1-19",
+    "Joshua 3:14-17",
+    "Exodus 17:1-7",
+    "Numbers 20:7-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Israel's Deliverance Declared"
+    },
+    {
+      "range": "3-6",
+      "title": "Nature's Astonishment"
+    },
+    {
+      "range": "7-8",
+      "title": "Presence and Provision"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Divine Sovereignty",
+    "Creation's Response",
+    "Remembrance"
+  ],
+  "practicalQuestions": [
+    "How does communal remembrance of past deliverance shape present faith and identity in your community?",
+    "In what ways can the image of creation responding to God encourage awe or ethical responsibility toward the natural world?",
+    "When Scripture attributes miraculous provision (e.g., water from rock), how should we interpret and apply those traditions today?",
+    "How can liturgical or devotional practices renew an awareness of God’s presence that the psalm celebrates?"
+  ],
+  "uncertainAreas": "The psalm alludes to 'rock into standing water' without specifying which tradition (Exodus 17 vs. Numbers 20), so identification of the precise episode is uncertain. The dating and original occasion (specific festival or general pilgrimage use) are also not certain from the text alone.",
+  "createdAt": "2025-11-03T22:17:28.704Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

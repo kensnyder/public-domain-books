@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.125",
+  "briefOverview": "A short pilgrim-poem assuring that those who trust in the LORD enjoy secure, enduring protection like Mount Zion, with a contrasting note about the fate of the wicked and a prayer for the upright.",
+  "summary": "Verses 1–2 compare the security of those who trust in the LORD to Mount Zion and describe God encircling his people like the mountains around Jerusalem. Verse 3 promises that the oppression of the wicked will not remain over the righteous, warning that such protection prevents the righteous from turning to sin. Verse 4 is a brief prayer asking God to do good to the upright in heart. Verse 5 declares that those who persist in crooked ways will be led away with evildoers, while peace rests on Israel.",
+  "externalContext": "Psalm 125 is one of the 'Songs of Ascents' (Psalms 120–134), a collection traditionally linked to pilgrimages to Jerusalem; its imagery reflects the city's religious centrality and the pilgrim experience. The motif of Mount Zion as an enduring symbol of God's presence and the community's stability is common in Israelite poetry and post-exilic literature, where hopes for restoration and protection were prominent.",
+  "externalReferences": "As part of the Songs of Ascents, Psalm 125 is thematically related to Psalm 121 (assurance of God's vigilant protection) and Psalm 122 (pilgrimage to Jerusalem and communal blessing). The contrast between shifting earthly realities and God's unshakable care echoes passages like Isaiah 54:10, where God's steadfastness is set against changing circumstances. The prayer for peace on Israel resonates with other communal-prayer and restoration themes found in Psalms such as 126:1–6.",
+  "seeAlso": [
+    "Psalms 121:1-8",
+    "Psalms 122:1-9",
+    "Isaiah 54:10",
+    "Psalms 126:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Divine Protection"
+    },
+    {
+      "range": "3-5",
+      "title": "Justice and Prayer"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Divine protection",
+    "Justice",
+    "Community"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways can I cultivate a trust in God that resembles the stability described here?",
+    "How should communities respond when the 'rod of the wicked' exerts pressure—by seeking justice, offering support, or both?",
+    "What practices help keep hearts 'upright' so the community can receive the blessing prayed for in verse 4?",
+    "How can we balance hope for restoration with compassionate concern for those 'who turn aside unto crooked ways'?"
+  ],
+  "uncertainAreas": "Authorship and precise date are not specified; whether the 'rod of the wicked' refers primarily to foreign oppression, internal injustice, or a general moral threat is ambiguous. The phrase about leading the crooked 'with the workers of iniquity' could imply exclusion, judgment, or deportation—text does not make the mechanism explicit.",
+  "createdAt": "2025-11-03T22:22:11.630Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Isa.45",
+  "briefOverview": "God announces his control over world events by commissioning the Persian king Cyrus to deliver Israel, and insists on Yahweh’s unique sovereignty and universal claim on worship and salvation.",
+  "summary": "God addresses Cyrus as his anointed, promising to go before him, break open gates, and give him hidden riches so that Cyrus will know the LORD called him by name (1–7). The prophet emphasizes Yahweh’s exclusive deity and creative power, declaring that he forms light and darkness and directs history (8–12). God says he has raised Cyrus in righteousness to build the city and free captives without payment, and that foreign nations will bring tribute and acknowledge that there is no god but Israel’s God (13–16). Israel, by contrast, is promised everlasting salvation, while makers of idols are put to shame (17–19). The chapter closes with a summons for the rescued to assemble and for all the ends of the earth to look to the LORD for salvation, culminating in the declaration that every knee shall bow and every tongue shall swear to him (20–25).",
+  "externalContext": "Cyrus II was the Persian ruler who conquered Babylon (539 BCE) and later allowed exiled peoples, including many Jews, to return to their homelands; biblical tradition links his rise to Yahweh’s providence. Scholars commonly place chapters 40–55 of Isaiah in an exilic or early post‑exilic context (often called Second Isaiah), where themes of consolation and divine control over foreign rulers are prominent. In the ancient Near East, imperial rulers were often portrayed as chosen by deities, so the prophetic claim that Yahweh names and uses a foreign king is theologically significant.",
+  "externalReferences": "Isaiah 44:28 also names Cyrus as the agent who will restore Jerusalem, a closely related passage in the same prophetic section. The historical decree allowing return and temple rebuilding is narrated in Ezra 1:1–4 and is frequently connected to this prophecy. The rhetorical claim that \"every knee shall bow\" is quoted in the New Testament (Romans 14:11; Philippians 2:10–11) as a universalizing text about the Lord’s ultimate lordship.",
+  "seeAlso": [
+    "Isaiah 44:28",
+    "Isaiah 40:1-5",
+    "Ezra 1:1-4",
+    "Romans 14:11",
+    "Philippians 2:10-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Commissioning of Cyrus"
+    },
+    {
+      "range": "8-13",
+      "title": "Creator and Sovereign"
+    },
+    {
+      "range": "14-25",
+      "title": "Nations, Salvation, Call"
+    }
+  ],
+  "themes": [
+    "Divine Sovereignty",
+    "Monotheism",
+    "Salvation",
+    "Universal Lordship"
+  ],
+  "practicalQuestions": [
+    "How should communities today understand and respond when political leaders are described as instruments of a divine purpose?",
+    "What does the chapter’s insistence on one God and the shame of idols suggest about where people place ultimate trust in our context?",
+    "In what ways does the universal call to \"look unto me, and be ye saved\" shape approaches to mission, hospitality, and interfaith encounter?",
+    "How do we reconcile the idea of a hidden or \"hiding\" God (v.15) with the claim that all will acknowledge him—what does that mean for experiencing divine presence or absence?"
+  ],
+  "uncertainAreas": "The Hebrew term in v.7 often translated \"create evil\" can also mean calamity or judgment; translation affects interpretation. There is uncertainty about the precise historical setting and authorship (the book’s exilic/post‑exilic attribution), and about whether \"anointed\" (messiah) refers only to Cyrus or carries broader theological resonance. The scope of the universal language (cosmic vs. political nations) allows multiple readings.",
+  "createdAt": "2025-11-03T23:23:36.952Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

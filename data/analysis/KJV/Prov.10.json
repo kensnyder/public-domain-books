@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.10",
+  "briefOverview": "A collection of concise wisdom sayings contrasting the righteous and the wicked, emphasizing moral character, speech, and practical behavior.",
+  "summary": "Proverbs 10 sets up a series of two-line contrasts (antithetical parallelism) pairing the outcomes and habits of the righteous with those of the wicked. Themes include the benefits of diligence and right conduct (wealth, security, life) versus the consequences of laziness, wickedness, and foolish speech (poverty, disgrace, destruction). Several verses stress the moral weight of words—life-giving speech versus violent or deceitful mouths—and the value of restraint. The chapter closes by affirming divine support for the upright and the transitory fate of the wicked.",
+  "externalContext": "Proverbs belongs to the ancient Near Eastern wisdom-literary tradition and is traditionally attributed to Solomon, though modern scholarship sees it as a compilation of sayings from different periods collected into its present form. Proverbs 10 is part of the so-called 'Second Collection' of Solomon’s proverbs (chapters 10–22), characterized by short, parallel couplets used for instruction in household and public life. Wisdom literature like this often reflects social values about work, speech, and justice and uses observable cause-and-effect language (retribution motifs) common to the period.",
+  "externalReferences": "The righteous/wicked contrast and the theme that the fate of the wicked is temporary while the righteous are established parallels Psalm 1:1–6 and Psalm 37:18–20, which contrast lifestyles and outcomes. The emphasis on 'the fear of the LORD' as life-giving links forward and back to core Proverbs material such as Proverbs 1:7 and Proverbs 3:5–10, which also connect reverence for God with practical blessing. The moral valuation of speech finds echo elsewhere in Proverbs (e.g., Proverbs 15:1; 18:21) and in wisdom strands that prize restraint and truthful counsel.",
+  "seeAlso": [
+    "Psalm 1:1-6",
+    "Psalm 37:18-20",
+    "Proverbs 1:7",
+    "Proverbs 3:5-10",
+    "Proverbs 15:1",
+    "Proverbs 18:21",
+    "Proverbs 11:4-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Practical Contrasts"
+    },
+    {
+      "range": "17-32",
+      "title": "Speech and Destiny"
+    }
+  ],
+  "themes": [
+    "Righteousness vs Wickedness",
+    "Speech and Silence",
+    "Diligence and Sloth",
+    "Fear of the LORD"
+  ],
+  "practicalQuestions": [
+    "How do my daily habits (work, saving, preparedness) reflect the proverbs’ valuation of diligence?",
+    "In what ways can I make my speech a 'well of life' rather than a source of harm?",
+    "Where might I be excusing sloth or procrastination that brings shame or loss?",
+    "How does 'the fear of the LORD' inform practical decisions in my family and community?",
+    "How can a community remember and honor righteous character rather than celebrating short-term gain?"
+  ],
+  "uncertainAreas": "Authorship and precise dating are uncertain (traditional Solomonic attribution vs. later compilation). Some sayings use moral cause-and-effect language that may be proverbial observation rather than theological promises; interpreting them as literal divine guarantees versus general social patterns is ambiguous.",
+  "createdAt": "2025-11-03T22:38:15.417Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

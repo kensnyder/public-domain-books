@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Job.36",
+  "briefOverview": "Elihu defends God's justice and presents suffering as disciplinary, then points to God's power in nature as evidence of his sovereign rule.",
+  "summary": "Elihu opens his speech claiming he will speak on God's behalf and asserts that God is mighty, righteous, and does not overlook anyone. He argues that God disciplines both wicked and righteous: affliction can reveal transgressions, open ears to instruction, and call people to repentance, with prosperity following obedience and ruin following persistent disobedience. Elihu warns Job against choosing iniquity and relying on wealth or strength to rescue him. He closes by emphasizing God's inscrutable greatness and describing how God controls rain, clouds, and storms — signs of his power and means by which he judges and provides for people and animals.",
+  "externalContext": "The Book of Job belongs to the wisdom tradition of the ancient Near East, which wrestles with why the righteous suffer and how divine justice operates. Elihu is presented as a younger interlocutor who interrupts the three friends and Job; his speeches bridge the friends' debates and the theophany that follows. In the ancient context, gods were commonly credited with controlling weather and fertility, so references to rain and storms function as potent theological evidence for divine sovereignty and judgment.",
+  "externalReferences": "Elihu's remarks follow his earlier address in Job 33, where he contrasts his approach with the older friends and insists on speaking for God (see Job 33:1–33). The chapter leads directly into Elihu's concluding oracle about storms and God's incomprehensible ways continued in Job 37 (see Job 37:1–24). For broader context about Job's suffering and the question of retribution, compare the prologue that narrates Job's losses (Job 1:13–22; Job 2:7–10) and the book's resolution of restoration (Job 42:10–17).",
+  "seeAlso": [
+    "Job 33:1-33",
+    "Job 37:1-24",
+    "Job 1:13-22",
+    "Job 2:7-10",
+    "Job 42:10-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "God's Justice and Discipline"
+    },
+    {
+      "range": "16-33",
+      "title": "God's Power in Nature"
+    }
+  ],
+  "themes": [
+    "Divine justice",
+    "Discipline",
+    "Sovereignty",
+    "Nature as revelation"
+  ],
+  "practicalQuestions": [
+    "When should we understand suffering as corrective discipline versus unexplained hardship?",
+    "How can communities speak truthfully about God's justice without blaming the afflicted?",
+    "What practices help a person 'open their ear to discipline' today?",
+    "How should images of storms and weather shape our view of God's involvement in the world?",
+    "How do we avoid hypocrisy in our moral judgments of others' suffering?"
+  ],
+  "uncertainAreas": "It is unclear whether Elihu's theology is meant by the book's author to be fully authoritative; the text leaves ambiguous whether affliction always signals personal sin and whether natural imagery should be read strictly as evidence of moral judgment rather than metaphorically.",
+  "createdAt": "2025-11-03T21:24:44.239Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

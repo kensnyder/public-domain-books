@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.89",
+  "briefOverview": "A hymn celebrating God's steadfast mercy and the Davidic covenant that abruptly shifts into a lament over apparent rejection of the anointed king.",
+  "summary": "The psalm opens with exuberant praise of the LORD’s mercy, faithfulness, creative power, and rule over chaos, and it proclaims God’s covenantal promise to establish David’s line and throne forever. The poet recounts promises of protection, anointing, exaltation, and enduring mercy for David and his descendants, while also acknowledging conditional discipline if the king’s offspring sin. The tone then turns sharply: the psalmist accuses God of casting off his anointed, breaking the covenant, permitting enemies to triumph, and bringing shame and defeat. The poem closes with anguished questions asking how long God will hide his face and pleas that God remember the promises sworn to David, ending with a brief doxology.",
+  "externalContext": "Psalm 89 expresses themes central to Israel’s royal theology: the divine covenant with David that promises an enduring dynasty (most fully articulated in 2 Samuel 7 and 1 Chronicles 17). Images such as God ruling the sea and crushing 'Rahab' draw on ancient Near Eastern motifs in which the deity defeats chaotic waters or sea-monsters (see Isaiah 51:9–10; Psalm 74:13–14). Many scholars read the sudden lament about God’s abandonment as reflecting a later crisis (e.g., military defeat, exile, or a threatened dynasty) that calls into question earlier royal assurances.",
+  "externalReferences": "The covenant language in verses 3–4 and 29–37 closely parallels the Davidic promise in 2 Samuel 7:12–16 and 1 Chronicles 17:11–14, where God vows an enduring house and throne for David’s seed. The motifs of God controlling the sea and subduing 'Rahab' echo Psalm 74:13–14 and Isaiah 51:9–10, which use similar imagery for divine victory over chaotic forces.\n\nThe lament that God has 'cast off' his anointed and profaned the crown recalls other lament-psalms that plead for the restoration of God’s favor toward king and people (e.g., Psalms 44 and 74).",
+  "seeAlso": [
+    "2 Samuel 7:12-16",
+    "1 Chronicles 17:11-14",
+    "Psalm 74:13-14",
+    "Isaiah 51:9-10",
+    "Psalm 44:22-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Praise and God's Power"
+    },
+    {
+      "range": "19-37",
+      "title": "Davidic Covenant Promised"
+    },
+    {
+      "range": "38-52",
+      "title": "Lament and Plea"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Divine faithfulness",
+    "Royal promise",
+    "Lament"
+  ],
+  "practicalQuestions": [
+    "How should communities remember and proclaim past promises of God when current events seem to contradict them?",
+    "When leaders or institutions fail, how can faith traditions hold both to covenantal hope and truthful lament?",
+    "What practices help believers live under the tension between assurances of divine faithfulness and experiences of apparent abandonment?",
+    "How does recalling God's creative and saving acts (e.g., 'ruling the sea') shape trust in times of political or social crisis?"
+  ],
+  "uncertainAreas": "The psalm’s original historical setting and the immediate referent of 'thine anointed' are unclear (it could mean David, a later king, or the Davidic line in general). The presence or absence of an original superscription and possible editorial layers (praise, covenant recital, then lament) create uncertainty about composition and liturgical use.",
+  "createdAt": "2025-11-03T22:05:42.803Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

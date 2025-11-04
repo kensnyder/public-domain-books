@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.17",
+  "briefOverview": "Job laments his physical decline and impending death, rebukes his friends' mockery, and expresses the collapse of his hopes.",
+  "summary": "Job opens with a vivid statement of physical exhaustion and imminent death, complaining that mockers provoke him and his eye continually watches them. He challenges his friends with a legal image of becoming their surety while accusing God of hiding understanding from them so they will not be exalted. Job says flatterers will be exposed, calls himself a byword and tabret (a figure of ridicule), and describes his body wasting away from sorrow. He contrasts the eventual endurance of the upright with the lack of wisdom he finds among his companions, reports that his plans and thoughts are broken, and pictures the grave as his house — calling corruption and the worm his family. The chapter closes with burial imagery and a bleak question about the whereabouts of his hope as all go down together into the dust.",
+  "externalContext": "The Book of Job is ancient wisdom literature from the Ancient Near East, using poetic lament and legal imagery familiar in that cultural milieu. Social concerns about honor, shame, and reputation shape the friends' responses and Job’s sensitivity to being mocked; legal metaphors like acting as a surety reflect an economy where guarantors and oath-signing were common. Imagery of the grave, worms, and darkness is typical of ancient Hebrew poetic expressions for death and the afterlife.",
+  "externalReferences": "Job’s complaint here echoes his earlier laments about pain and isolation (cf. Job 16:20–22 and Job 3:20–26). The theme of desolate confidence in death appears elsewhere in the Psalms (e.g., Psalm 88:3–6; Psalm 6:5) and in prophetic lament like Isaiah 38:10–11, which also speaks of going to the gates of Sheol and making one’s bed in darkness. These passages form a biblical motif of confronting mortality and the apparent silence or judgment of God.",
+  "seeAlso": [
+    "Job 16:20-22",
+    "Job 3:20-26",
+    "Psalm 88:3-6",
+    "Psalm 6:5",
+    "Isaiah 38:10-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Mockery and Charge"
+    },
+    {
+      "range": "7-11",
+      "title": "Physical Decline and Contrast"
+    },
+    {
+      "range": "12-16",
+      "title": "Hope Lost, Death Imagery"
+    }
+  ],
+  "themes": [
+    "Suffering",
+    "Despair",
+    "Death",
+    "Integrity"
+  ],
+  "practicalQuestions": [
+    "How should we respond when friends interpret or judge another’s suffering rather than listening?",
+    "Where can a person find hope when their plans and purposes feel broken?",
+    "How do cultural expectations about honor and shame affect the way we treat the sick or dying today?",
+    "What does it mean to maintain moral integrity amid accusations and social ridicule?"
+  ],
+  "uncertainAreas": "Several idioms are difficult: 'put me in a surety with thee' is a legal metaphor whose exact force here is debated (challenge, plea for guarantee, or ironic taunt). It is also unclear whether verses that contrast the upright with the hypocrite envision future vindication or serve as a general proverb. The referent of 'they' in verse 16 (who goes down to the pit) could mean Job’s opponents, Job and his companions together, or humanity generally.",
+  "createdAt": "2025-11-03T19:59:00.562Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

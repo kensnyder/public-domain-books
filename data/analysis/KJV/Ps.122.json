@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.122",
+  "briefOverview": "A pilgrim's song expressing joy in going to the house of the LORD and a petition for the peace and prosperity of Jerusalem.",
+  "summary": "The speaker rejoices at the call to worship and to enter the house of the LORD, describing Jerusalem as a united, well-built city where Israel's tribes ascend to give thanks. The psalm notes the presence of the thrones of judgment tied to the house of David. It issues a direct injunction to pray for the peace (shalom) of Jerusalem and links the city's welfare to the prosperity of those who love it. For the sake of comrades and because of the temple, the speaker commits to seeking the city's good.",
+  "externalContext": "Psalm 122 belongs to the collection known as the Songs of Ascents (Psalms 120–134), which were used by pilgrims traveling to Jerusalem for festival worship. Jerusalem in ancient Israel functioned as the religious and political center because of the temple and the Davidic monarchy; references to \"thrones of judgment\" reflect that civic-judicial role. The Hebrew concept of shalom conveyed not only absence of conflict but also wholeness, prosperity, and well-being, so the psalm's \"pray for the peace of Jerusalem\" carries social, religious, and political resonances.",
+  "externalReferences": "The theme of pilgrimage and trust in God's help resonates with Psalm 121:1–2, another Song of Ascents focused on journeying to the LORD. The call to \"pray for the peace of Jerusalem\" finds a parallel in Isaiah 62:6–7, where watchmen are commanded to intercede for the city until God's vindication. The reference to the \"thrones of the house of David\" connects to the Davidic covenant and royal promises in passages such as 2 Samuel 7:12–16, which anchor the monarchy's legitimacy and its role in Israel's life.",
+  "seeAlso": [
+    "Psalms 121:1-2",
+    "Psalms 120-134",
+    "Isaiah 62:6-7",
+    "2 Samuel 7:12-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Pilgrim's Joy"
+    },
+    {
+      "range": "5-9",
+      "title": "Prayer for Jerusalem"
+    }
+  ],
+  "themes": [
+    "Pilgrimage",
+    "Jerusalem",
+    "Peace",
+    "Davidic kingship"
+  ],
+  "practicalQuestions": [
+    "How can communities today \"pray for the peace of\" the places where they live in concrete, civic ways?",
+    "In what ways does participation in corporate worship encourage concern for a city's social and economic well-being?",
+    "How should religious allegiance shape one's public commitments to justice and prosperity in a city?",
+    "What does seeking the \"good\" of a place look like when sacred institutions are under threat or divided?"
+  ],
+  "uncertainAreas": "Authorship and precise dating are not specified in the text; whether \"thrones of judgment\" refers primarily to historical, literal courts or a symbolic memory of Davidic rule is open to interpretation. The psalm's original liturgical performance context (specific festival or procession) is not detailed here.",
+  "createdAt": "2025-11-03T22:21:04.492Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

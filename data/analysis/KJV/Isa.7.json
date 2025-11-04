@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Isa.7",
+  "briefOverview": "Isaiah responds to a political-military crisis in Judah, assuring King Ahaz that the hostile alliance will fail and giving a sign—'Immanuel'—as proof of God's presence and forthcoming judgment and disruption tied to Assyria's rise.",
+  "summary": "During the Syro-Ephraimite threat against Jerusalem, Isaiah is sent to tell King Ahaz not to fear the alliance of Syria (Rezin) and Israel (Pekah). God promises the coalition will not succeed and predicts Ephraim's breakage within sixty‑five years. Ahaz is invited to ask for a sign but refuses; Isaiah then declares that God will give a sign: a young woman will conceive and bear a son called Immanuel. Before that child can 'choose good and refuse evil,' the kings Ahaz fears will be gone. The chapter then shifts to an oracle describing the coming impact of Assyria—imagery of foreign nations as pests, a shaving/consumption motif—and ends with scenes of agricultural decline and desolation across the land.",
+  "externalContext": "The episode reflects the 8th‑century BCE Syro‑Ephraimite crisis when Damascus and the northern kingdom (Israel/Ephraim) pressured Judah to join an anti‑Assyrian coalition; King Ahaz of Judah sought Assyrian support instead. Assyria under rulers like Tiglath‑Pileser III was expanding into the Levant and later played a decisive role in northern Israel's fall (historically reported in 2 Kings). The specific figure 'sixty and five years' and the Hebrew term translated 'virgin' ('almah') have been subjects of sustained scholarly debate about dating and immediate versus long‑term fulfillment.",
+  "externalReferences": "Isaiah 8 continues the Immanuel theme and gives a related sign in Isaiah's son's name (see Isaiah 8:1–4). The New Testament cites Isaiah 7:14 in Matthew 1:22–23 as a prophetic fulfillment reference. The historical narrative of Assyrian intervention and the fall of Samaria is recorded in 2 Kings (esp. 15–17), which situates the political background of this prophecy.",
+  "seeAlso": [
+    "Isaiah 8:1-4",
+    "Matthew 1:22-23",
+    "2 Kings 15:29",
+    "2 Kings 16:5-9",
+    "2 Kings 17:5-6",
+    "Isaiah 9:6-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Political Threat and Promise"
+    },
+    {
+      "range": "10-14",
+      "title": "Request for a Sign / Immanuel"
+    },
+    {
+      "range": "15-25",
+      "title": "Assyrian Judgment and Aftermath"
+    }
+  ],
+  "themes": [
+    "Divine reassurance",
+    "Prophetic sign",
+    "Political crisis",
+    "Judgment and ruin"
+  ],
+  "practicalQuestions": [
+    "When facing political or personal threats, how do we discern whether to trust immediate human alliances or seek guidance grounded in faith?",
+    "What kind of 'signs' are we tempted to demand today, and how should refusal or acceptance of signs affect our trust?",
+    "How should communities interpret prophetic warnings that combine near‑term outcomes with longer, ambiguous timelines?",
+    "In what ways can leaders' refusal to consult wise counsel (like Ahaz's refusal) affect communal well‑being, and how should citizens respond?"
+  ],
+  "uncertainAreas": "The precise meaning of the Hebrew term translated 'virgin' (almah) and whether Isaiah 7:14 was intended primarily as an immediate sign for Ahaz's day or as a longer messianic prophecy is debated. The figure 'sixty and five years' has uncertain chronological implications. Some of the symbolic imagery (the 'fly' and 'bee', the razor/shaving metaphor, and the juxtaposition of domestic abundance with desolation) allows multiple interpretations about which nations or processes are primarily in view.",
+  "createdAt": "2025-11-03T23:03:46.099Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

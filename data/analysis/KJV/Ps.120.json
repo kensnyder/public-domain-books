@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.120",
+  "briefOverview": "A short Song of Ascents in which the speaker cries to the LORD for rescue from deceitful and hostile speech and laments living among people who prefer war to peace.",
+  "summary": "The psalmist cries to the LORD in distress and affirms that God has heard him. He asks for deliverance specifically from 'lying lips' and a 'deceitful tongue.' Addressing the false speaker, he taunts with rhetorical questions and vivid imagery—'sharp arrows' and 'coals of juniper'—to describe their harmful words. The psalmist laments dwelling among peoples associated with Mesech and Kedar, portraying his situation as a prolonged sojourn amid those who hate peace. He closes by asserting his desire for peace even as others choose conflict when he speaks.",
+  "externalContext": "Psalm 120 is one of the fifteen Songs of Ascents (Psalms 120–134), likely used by pilgrims traveling to Jerusalem; that pilgrimage setting frames its brief plea and grievance. Mesech and Kedar were known in the ancient Near East as distant or nomadic peoples, often used in Hebrew poetry to signify foreign, hostile surroundings rather than literal exile in every instance.",
+  "externalReferences": "The opening cry 'I cried unto the LORD, and he heard me' echoes language found elsewhere in the Psalter (e.g., Psalm 3:4), linking personal petition to a broader tradition of trust in God's hearing. The complaint about harmful speech and the imagery of sharpened words has parallels in Psalms like 64:3–5 and 140:3, which also depict enemies attacking with covert or venomous language. As a Song of Ascents, it belongs with Psalms 121–134, which share themes of pilgrimage, dependence on God, and communal worship.",
+  "seeAlso": [
+    "Psalm 3:4",
+    "Psalm 64:3-5",
+    "Psalm 140:3",
+    "Psalms 121:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Cry for Deliverance"
+    },
+    {
+      "range": "3-4",
+      "title": "Rebuke and Imagery"
+    },
+    {
+      "range": "5-7",
+      "title": "Sojourn Among Hostiles"
+    }
+  ],
+  "themes": [
+    "Distress",
+    "False speech",
+    "Desire for peace",
+    "Sojourning"
+  ],
+  "practicalQuestions": [
+    "When you encounter slander or deceitful speech, how can you seek both justice and peace in a way that reflects the psalmist's trust?",
+    "What practices help maintain a commitment to peace when others respond with hostility?",
+    "How does the image of sojourning among hostile neighbors speak to experiences of minorities or migrants today?",
+    "In what ways can communities support those who feel isolated or beset by hostile words?"
+  ],
+  "uncertainAreas": "Whether Mesech and Kedar are intended as literal locations or purely symbolic images of foreign hostility; the precise meaning of 'coals of juniper' (literal burning fuel, a metaphor for inflammatory speech, or an allusion lost in translation); and whether the psalm is personal lament, communal, or both.",
+  "createdAt": "2025-11-03T22:20:09.534Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.39",
+  "briefOverview": "A first-person lament reflecting on the brevity and vanity of life, self-restraint in suffering, and a plea for mercy and deliverance from God's discipline.",
+  "summary": "The speaker describes intentionally restraining speech in the presence of the wicked, but longstanding silence leads to inward turmoil and eventual open lament. He asks God to reveal the measure of his days so he can appreciate human frailty and the futility of life and wealth. The psalmist confesses that his silence was in part because God brought his condition upon him, and he petitions God to remove the painful discipline of the Divine hand. He reiterates the transitory, moth-like consuming effect of rebuke and calls on God to hear his tears, recognizing himself as a sojourner like his ancestors. The prayer closes with a request for spared life to recover strength before departing from the world.",
+  "externalContext": "Psalms are Hebrew poetic prayers used in ancient Israelite worship; many express lament, confession, and petition. This psalm fits the wisdom and penitential traditions that reflect on human mortality and theodicy—why the righteous suffer and how divine discipline functions. Ancient Near Eastern culture placed strong emphasis on proper speech, hospitality, and the reputation that comes from controlling the tongue, which helps explain the speaker's concern to 'keep my mouth with a bridle.'",
+  "externalReferences": "The psalm's request to 'know mine end' and reflections on the brevity of life echo Psalm 90:12, which asks to 'number our days' to gain wisdom. Its theme of vanity and the futility of riches parallels Ecclesiastes 1:2 and 2:11. The idea of suffering as divine rebuke or refining resembles language found elsewhere in the Hebrew Bible that links affliction with correction (cf. Proverbs 3:11–12).",
+  "seeAlso": [
+    "Psalm 90:12",
+    "Ecclesiastes 1:2",
+    "Proverbs 3:11-12",
+    "Job 14:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Silent Restraint"
+    },
+    {
+      "range": "4-7",
+      "title": "Meditation on Mortality"
+    },
+    {
+      "range": "8-13",
+      "title": "Confession and Plea"
+    }
+  ],
+  "themes": [
+    "Mortality",
+    "Lament",
+    "Divine discipline",
+    "Self-control"
+  ],
+  "practicalQuestions": [
+    "How would a clearer awareness of life's brevity affect my daily priorities and use of resources?",
+    "When facing injustice or suffering, how can I practice restraint in speech without suppressing needed truth or compassion?",
+    "In what ways can I interpret personal hardship as corrective rather than merely punitive, and how should that shape my response to God?",
+    "How should communities care for those who feel like 'strangers' or 'sojourners' in their grief and weakness?"
+  ],
+  "uncertainAreas": "The psalm does not identify the specific cause of the speaker's suffering or whether the 'stroke' is punitive, purifying, or both; the historical situation (who the 'wicked' are or the precise social setting of the restraint) is also not specified.",
+  "createdAt": "2025-11-03T21:41:45.230Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

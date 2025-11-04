@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Prov.12",
+  "briefOverview": "A series of short, antithetical proverbs contrasting the ways and outcomes of the righteous and the wicked, with emphasis on instruction, speech, diligence, and moral character.",
+  "summary": "The chapter presents paired sayings: those who love instruction and accept reproof gain knowledge and favor, while the wicked are exposed to condemnation and instability. Many verses contrast right action and speech with deceitful or cruel behavior, asserting that truthful, prudent speech brings healing and lasting esteem while lies and violent schemes bring ruin. Practical virtues—diligence, caring for animals, heeding counsel, and wise restraint of anger—are recommended and linked to security and prosperity; sloth, folly, and association with the wicked lead to want and shame. The collection closes with a theological affirmation that the way of righteousness leads to life and freedom from death’s pathway.",
+  "externalContext": "Proverbs is part of Israel’s wisdom literature, traditionally associated with Solomon and compiled in an anthology form; its sayings reflect schoolroom and household instruction in the ancient Near East. The style uses antithetical parallelism (contrast between two lines) common to Hebrew poetry and aims at practical ethical formation rather than systematic theology. Many sayings are generalizations intended for moral formation within family and community contexts, not legal prescriptions.",
+  "externalReferences": "The contrast between the righteous and the wicked echoes Psalm 1:1–6, which likewise contrasts the prospering ‘tree’ of the righteous with the fate of the wicked. The praise of a ‘virtuous woman’ (v.4) connects to the longer portrait in Proverbs 31:10–31, where a capable woman’s labor and character bring honor to her household. The opening emphasis on instruction and reverence for divine wisdom resonates with Proverbs 1:7, which frames fear of the LORD as the beginning of knowledge.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 31:10-31",
+    "Psalm 1:1-6",
+    "Proverbs 11:3",
+    "Proverbs 10:9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Righteousness and Instruction"
+    },
+    {
+      "range": "8-20",
+      "title": "Speech and Wisdom"
+    },
+    {
+      "range": "21-28",
+      "title": "Diligence and Life"
+    }
+  ],
+  "themes": [
+    "Righteousness",
+    "Speech",
+    "Diligence",
+    "Wisdom"
+  ],
+  "practicalQuestions": [
+    "How do I respond when corrected — do I resent reproof or use it to grow in understanding?",
+    "In what ways can my words be restorative rather than harmful in my family and community?",
+    "Where am I showing sloth or misplaced pride that undercuts provision and responsibility?",
+    "How can I cultivate practical habits (diligence, care for dependents) that the proverb links to flourishing?"
+  ],
+  "uncertainAreas": "Some verses make broad, absolute statements (e.g., “There shall no evil happen to the just”) that raise questions about scope and intent—Proverbs typically offers general wisdom rather than ironclad promises. Nuances of Hebrew terms (e.g., ‘righteous,’ ‘just,’ or the phrase translated as ‘no death’) may have moral, social, or theological shades not fully captured here. Social assumptions (honor, servants, household roles) reflect ancient contexts that require careful application today.",
+  "createdAt": "2025-11-03T22:39:19.435Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

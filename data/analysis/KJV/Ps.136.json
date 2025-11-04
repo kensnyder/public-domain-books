@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Ps.136",
+  "briefOverview": "A liturgical litany of thanksgiving that repeats a single refrain celebrating God's unfailing mercy in creation, history, and daily provision.",
+  "summary": "Psalm 136 is a responsive or repetitive hymn that names God's attributes and mighty acts and follows each line with the refrain \"for his mercy endureth for ever.\" The psalm moves from general praise for God's goodness and creative work (heavens, earth, sun, moon, stars) to specific historical acts—God's judgment on Egypt, the Exodus, the Red Sea crossing, and victories over foreign kings (Sihon and Og) that secure the land for Israel. It closes by recalling God's remembrance of Israel in low estate, deliverance from enemies, provision of food, and a final call to give thanks to the God of heaven. The steady repetition emphasizes the central claim that all these acts are grounded in God’s enduring mercy.",
+  "externalContext": "The repeated refrain translates the Hebrew concept chesed (steadfast love/mercy), a key covenantal attribute of God in ancient Israelite religion. Psalms with strong refrains were often used in communal worship and liturgical settings; Psalm 136 functions as a communal thanksgiving song, sometimes associated with the \"Great Hallel\" tradition in Jewish worship. The psalm summarizes themes drawn from Torah narratives (creation in Genesis; the Exodus and Red Sea in Exodus; the Transjordanic conquests in Numbers/Deuteronomy) and would have resonated as corporate remembrance of God’s saving acts.",
+  "externalReferences": "The psalm’s creation language echoes Genesis 1 (e.g., creation of heavens, earth, lights: Genesis 1:1–19). Its references to striking Egypt’s firstborn and bringing out Israel recall the Exodus stories, especially Exodus 12 (Passover) and Exodus 14 (Red Sea crossing). The named kings Sihon and Og correspond to conquest narratives in Numbers 21:21–35 and Deuteronomy 2–3. The characteristic formula of divine mercy resembles Exodus 34:6 where God is described as merciful and gracious, and Psalm 135 covers closely related material and serves as a companion praise psalm.",
+  "seeAlso": [
+    "Genesis 1:1-19",
+    "Exodus 12:29-30",
+    "Exodus 14",
+    "Numbers 21:21-35",
+    "Deuteronomy 2:26-3:11",
+    "Exodus 34:6",
+    "Psalm 135",
+    "Psalm 107",
+    "Psalm 103:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Praise for Creation"
+    },
+    {
+      "range": "10-22",
+      "title": "Deliverance and Conquest"
+    },
+    {
+      "range": "23-26",
+      "title": "Remembrance and Provision"
+    }
+  ],
+  "themes": [
+    "Steadfast mercy",
+    "Thanksgiving",
+    "Creation",
+    "Deliverance"
+  ],
+  "practicalQuestions": [
+    "How can repeated communal liturgy shape our memory of past help and our trust in present hardship?",
+    "In what ways does focusing on \"steadfast mercy\" affect how we interpret God’s actions in history and personal life?",
+    "How might modern worship incorporate corporate thanksgiving for both creation and social deliverance?",
+    "What practices help a community remember and tell its foundational stories without excluding other perspectives?"
+  ],
+  "uncertainAreas": "Authorship and precise dating are not specified in the text; the original liturgical setting (temple service, festival, or household use) is uncertain. The best translation of the refrain (\"mercy\" vs. \"steadfast love\") involves interpretive nuance of the Hebrew chesed. Whether the psalm was composed as a single unit or assembled from liturgical lines is also uncertain.",
+  "createdAt": "2025-11-03T22:26:48.750Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

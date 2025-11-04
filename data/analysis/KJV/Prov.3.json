@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Prov.3",
+  "briefOverview": "A fatherly collection of sayings urging wholehearted trust in God, pursuit of wisdom, and ethical conduct, with practical promises tied to obedience and right living.",
+  "summary": "The chapter opens with parental exhortations to remember and internalize divine instruction, promising long life, peace, and favor for obedience. It stresses whole‑hearted trust in the LORD rather than human understanding and promises divine guidance for those who acknowledge God. The text counsels humility, avoidance of evil, and acceptance of divine correction as an expression of love. Wisdom is exalted as supremely valuable—more precious than wealth, a source of life, pleasantness, and security. God’s role as cosmic wise creator is affirmed, and practical outcomes of wisdom—safety, peaceful sleep, confidence, and generous treatment of neighbors—are emphasized. The chapter closes with social and moral commands against envy, false rivalry, and oppression, and with the contrast between the fate of the righteous and the wicked.",
+  "externalContext": "Proverbs belongs to the ancient Near Eastern wisdom tradition and is presented as father‑to‑son instruction common in Israelite households; much material is associated with the Solomonic wisdom tradition (10th–9th century BCE) though the book likely reached its final form later. Concepts like firstfruits and honoring God with wealth reflect Israelite cultic and social practices regulated in Torah texts (e.g., Deuteronomy). Personified Wisdom (often feminine in Hebrew) is a common literary device in Proverbs and parallels other Near Eastern and biblical depictions of wisdom and divine order.",
+  "externalReferences": "The theme of divine chastening as an expression of parental love is explicitly echoed in Hebrews 12:5–6, which cites similar language about not despising the Lord’s discipline. The injunction to honor God with firstfruits connects with Deuteronomy 26:1–11 and broader Torah regulations about presenting offerings from the harvest. The personification of Wisdom as life and source of creation resonates with Proverbs 8 (Wisdom speaking) and with broader biblical imagery of a ’tree of life’ (Genesis 2:9; Revelation 22:2).",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 4:7-9",
+    "Proverbs 8:22-36",
+    "Proverbs 9:10",
+    "Hebrews 12:5-6",
+    "Deuteronomy 26:1-11",
+    "Genesis 2:9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Trust God Always"
+    },
+    {
+      "range": "7-12",
+      "title": "Discipline as Love"
+    },
+    {
+      "range": "13-18",
+      "title": "Supreme Value of Wisdom"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Wisdom",
+    "Discipline",
+    "Ethical conduct"
+  ],
+  "practicalQuestions": [
+    "What choices today reveal reliance on my own understanding rather than trust in God, and how can I change them?",
+    "How can I receive correction in a way that leads to growth rather than resentment?",
+    "In what concrete ways can I honor God with my resources (time, money, priorities) in my community?",
+    "How does pursuing wisdom change how I treat neighbors, especially regarding generosity and avoiding quarrels?"
+  ],
+  "uncertainAreas": "Authorship and precise historical dating are uncertain (traditionally Solomonic but likely composite). The intended addressee 'my son' may be literal or a pedagogical device for a broader audience. The degree to which the promised outcomes (health, prosperity, safety) are unconditional blessings versus general principles tied to wisdom practice is open to interpretive debate.",
+  "createdAt": "2025-11-03T22:34:30.474Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

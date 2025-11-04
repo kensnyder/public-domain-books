@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.102",
+  "briefOverview": "An anguished personal lament that moves from bodily and social suffering to confident trust in God's eternal nature and a hopeful promise of restoration for Zion and future generations.",
+  "summary": "The speaker opens with an urgent plea for God to hear and not hide His face, describing extreme physical wasting, isolation, reproach from enemies, and grief. The tone shifts as the psalmist affirms God's permanence and remembers God's promised mercy toward Zion, declaring that the appointed time for restoration has come. The prayer broadens from individual distress to concern for the city and its servants: God will regard the destitute, free prisoners, and cause nations and kings to honor the Lord. The closing reflects on the transience of creation contrasted with God's unchanging nature and concludes with an assurance that the descendants of God's servants will endure before Him.",
+  "externalContext": "Psalm 102 is traditionally classified among the individual laments but displays a movement from personal complaint to communal and eschatological hope, a feature common in post-exilic restoration literature. Imagery such as withered grass, ash-eating, and solitary birds evokes ancient Near Eastern motifs of desolation and exile. Scholarly opinions vary about specific historical setting—some read it as an exile/post-exilic composition or later liturgical usage reflecting communal restoration themes.",
+  "externalReferences": "Verses 25–27 (the contrast between creation perishing and God's unchanging years) are explicitly quoted in Hebrews 1:10–12, where the New Testament applies this language to the Son. The image of transient grass and human frailty echoes Isaiah 40:6–8 (and related Isaiah passages) that contrast human mortality with God's enduring word. The lament-to-restoration pattern resembles other prophetic and wisdom texts that pair individual distress with national renewal (for example, themes in Isaiah 61 regarding comfort and rebuilding).",
+  "seeAlso": [
+    "Hebrews 1:10-12",
+    "Isaiah 40:6-8",
+    "Isaiah 61:1-4",
+    "Psalm 22:1-2",
+    "Psalm 146:7-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Personal Lament"
+    },
+    {
+      "range": "12-22",
+      "title": "Turn to Zion"
+    },
+    {
+      "range": "23-28",
+      "title": "Divine Eternity"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Divine eternity",
+    "Restoration",
+    "Prayer for the afflicted"
+  ],
+  "practicalQuestions": [
+    "How can I bring personal suffering and loneliness to God in honest prayer like this psalmist?",
+    "In what ways should hope in God's permanence shape my response to temporary losses and decline?",
+    "How might individual prayer be connected to concern for communal restoration and justice today?",
+    "What practices help a faith community remember God's faithfulness across generations as this psalm urges?"
+  ],
+  "uncertainAreas": "The precise historical setting (whether exile, post-exilic, or a personal crisis) is uncertain; likewise, whether some verses reflect later editorial addition or liturgical shaping. The identity and circumstances of the \"enemies\" and the specific historical referent of \"Zion\" are not explicit in the text.",
+  "createdAt": "2025-11-03T22:11:19.368Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

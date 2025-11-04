@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.46",
+  "briefOverview": "A confident liturgical song that affirms God as a present refuge amid cosmic and political upheaval, calling the faithful to trust and quiet confidence in God's sovereignty.",
+  "summary": "The psalm opens by proclaiming God as refuge and strength, a present help in trouble, which removes fear even in the face of earth-shattering disasters (vv.1–3). The poet pictures a life-giving river and the stability of the 'city of God,' where God's presence guarantees protection and early help (vv.4–5). Military chaos among the nations and the sounding of God's voice that melts the earth are described to stress divine power over nations and nature (vv.6–7). The psalmist invites the reader to observe the LORD’s acts of desolation and to recognize God’s work in ending war—breaking weapons and destroying chariots (vv.8–9). It concludes with the famous summons to 'Be still, and know that I am God,' reaffirming that the LORD of hosts is with his people (vv.10–11).",
+  "externalContext": "This psalm was used in Israel’s worship and contains liturgical markers such as Selah; its imagery (rivers, mountains, city) draws on common ancient Near Eastern motifs for chaos and order. The title tradition (not shown here) associates some psalms with temple choirs (e.g., Sons of Korah), suggesting corporate, cultic use. The designation 'LORD of hosts' (YHWH Sabaoth) emphasizes Yahweh’s role as commander of heavenly armies, a common theological title in the prophetic and poetic literature.",
+  "externalReferences": "The theme of God causing war to cease and instruments of war to be ended echoes prophetic visions of future peace (see Isaiah 2:4; Micah 4:3). The call to 'Be still, and know that I am God' resonates with other biblical calls to patient trust before the LORD (cf. Psalm 37:7) and with other trust-psalms that name God as refuge and strength (cf. Psalm 18:2). The image of a saving, victorious God commanding nature recalls Exodus 15’s song of deliverance, where God’s power over waters and nations is celebrated.",
+  "seeAlso": [
+    "Isaiah 2:4",
+    "Micah 4:3",
+    "Psalm 18:2",
+    "Psalm 37:7",
+    "Psalm 91",
+    "Exodus 15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "God as Refuge"
+    },
+    {
+      "range": "4-7",
+      "title": "City and Divine Presence"
+    },
+    {
+      "range": "8-11",
+      "title": "Divine Sovereignty and Quiet"
+    }
+  ],
+  "themes": [
+    "Divine refuge",
+    "God's presence",
+    "Cosmic upheaval",
+    "Peace through God"
+  ],
+  "practicalQuestions": [
+    "When you face personal or communal crisis, what practices help you 'be still' and acknowledge a higher source of strength?",
+    "How does the image of a community sustained by God's presence (the 'city of God') shape priorities for communal life and worship today?",
+    "In what ways can remembering God's sovereignty change how we respond to political or environmental instability?",
+    "Which liturgical or contemplative practices could help a congregation internalize the psalm’s assurance of early divine help?"
+  ],
+  "uncertainAreas": "The psalm’s original historical context (which specific crisis or period it addresses) is not specified in the text and remains uncertain. It is also ambiguous whether 'city of God' should be read strictly as Jerusalem or more broadly as the assembly of the faithful.",
+  "createdAt": "2025-11-03T21:44:30.464Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

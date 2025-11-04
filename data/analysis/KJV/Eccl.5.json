@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Eccl.5",
+  "briefOverview": "The speaker warns against careless speech and vows before God, critiques the pursuit and hoarding of wealth, and affirms enjoying the fruit of honest labor as a gift from God.",
+  "summary": "Verses 1–7 caution worshipers to be careful with their words in the house of God, not to make rash vows, and to fulfill any vows they make — for God disdains thoughtless speech and broken promises. Verse 8 notes that visible oppression and perversion of justice in a province should not be surprising because there are powers above local rulers. Verses 9–12 reflect on the insufficiency of wealth: desire for silver is never satisfied, possessions require caretakers, and abundance often brings unrest rather than rest. Verses 13–17 describe the tragedy of riches kept to the owner's harm — wealth can vanish, leave heirs impoverished, and cannot be taken at death, producing sorrow and sickness. The chapter closes (18–20) by endorsing the simple joy of eating, drinking, and enjoying one’s labor as a rightful portion from God and a source of contentment.",
+  "externalContext": "Ecclesiastes is traditionally attributed to a figure called Qoheleth (the Teacher) writing in a late monarchic or post-exilic period; it reflects wisdom-school concerns about meaning, justice, and the limits of human understanding. Practices about vows, worship decorum, and temple access were well established in Israelite religion, and socioeconomic disparities (landed wealth, provincial governors, and dependent laborers) are common realities in ancient Near Eastern societies.",
+  "externalReferences": "The admonition to fulfill vows resonates with legal instructions elsewhere in the Torah (e.g., Numbers 30:2; Deuteronomy 23:21–23) that warn against delaying or breaking promises made to God. Proverbs and other wisdom literature also warn about the deceitful attractiveness and instability of wealth (cf. Proverbs 23:4–5). New Testament pastoral counsel about the proper attitude to riches and the responsibility of the wealthy to trust God and do good (e.g., 1 Timothy 6:17–19) echoes the chapter’s tension between wealth’s allure and its moral hazards.",
+  "seeAlso": [
+    "Numbers 30:2",
+    "Deuteronomy 23:21-23",
+    "Proverbs 23:4-5",
+    "1 Timothy 6:17-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Caution in Worship"
+    },
+    {
+      "range": "8-17",
+      "title": "Wealth, Oppression, Vanity"
+    },
+    {
+      "range": "18-20",
+      "title": "Enjoyment as Gift"
+    }
+  ],
+  "themes": [
+    "Worship and Vows",
+    "Wealth and Vanity",
+    "Justice and Oppression",
+    "Enjoyment as Gift"
+  ],
+  "practicalQuestions": [
+    "How should I guard my words and promises in religious or solemn settings today?",
+    "What responsibilities do I have to fulfill vows, contracts, or public promises I make?",
+    "How does the pursuit of more wealth affect my rest, relationships, and priorities?",
+    "What concrete steps can I take to notice and respond to economic injustice in my community?",
+    "How can I cultivate gratitude for daily work and view ordinary enjoyment as a legitimate good?"
+  ],
+  "uncertainAreas": "The reference to speaking 'before the angel' (v.6) is ambiguous — it could mean an attendant spirit, a heavenly witness, or a figure of speech for solemn assemblies. The precise meaning of 'he that is higher than the highest' (v.8) and the identity of the provincial powers are not specified. The balance between endorsing enjoyment (vv.18–20) and the book’s broader skepticism about pleasure leaves interpretive room about whether Qoheleth advocates moderation, simple gratitude, or a more programmatic hedonism.",
+  "createdAt": "2025-11-03T22:51:10.361Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

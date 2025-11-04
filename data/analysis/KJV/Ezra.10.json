@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ezra.10",
+  "briefOverview": "Ezra leads a communal confession over illicit intermarriage and organizes a covenanted removal of foreign wives and their children to restore covenantal purity.",
+  "summary": "After Ezra's public prayer and confession, a large assembly mourns. Shechaniah proposes making a covenant to put away the foreign wives and their children in accordance with the law, and the people encourage Ezra to lead the effort. Ezra secures oaths from priests, Levites, and the people, proclaims a deadline for all returnees to assemble, and explains the need for organized, staged action because of the number involved and bad weather. A committee examines the cases from the tenth month and finishes by the first day of the first month, and many men (including priests, Levites, singers, porters, and various family groups) are found to have taken foreign wives. Those guilty pledge to send the wives away and offer a guilt offering, and the chapter closes with a long list of names and the note that some had children by these wives.",
+  "externalContext": "Ezra is set during the Persian period (5th century BCE) after several waves of Jewish return from Babylonian exile. Religious leaders like Ezra, a priest-scribe, promoted strict adherence to Torah norms as part of community restoration under Persian imperial oversight. Intermarriage was culturally and legally contested because Deuteronomic law warns against marrying surrounding peoples to avoid religious syncretism, and the returned community faced practical tensions between reintegration and maintaining distinct identity.",
+  "externalReferences": "This chapter follows Ezra 9, which records Ezra's discovery of the intermarriages and his prayer of confession; Ezra 10 records the communal response and corrective action. The concern about marrying the peoples of the land echoes Deuteronomy 7:3–4's prohibition against intermarriage with surrounding nations. A similar reformist confrontation with intermarriage appears in Nehemiah 13:23–30, where Nehemiah later rebukes those who married foreign women and takes disciplinary steps.",
+  "seeAlso": [
+    "Ezra 9:1-15",
+    "Nehemiah 13:23-30",
+    "Deuteronomy 7:3-4",
+    "Malachi 2:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Ezra's Prayer and Response"
+    },
+    {
+      "range": "7-15",
+      "title": "Proclamation and Assembly"
+    },
+    {
+      "range": "16-44",
+      "title": "Investigation and Names Listed"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Intermarriage",
+    "Covenant Renewal",
+    "Communal Discipline"
+  ],
+  "practicalQuestions": [
+    "When a community perceives a practice as undermining its identity, how should leaders balance law, compassion, and due process?",
+    "How can modern faith communities handle conflicts arising from marriage across differing religious or cultural backgrounds?",
+    "What forms of public confession and corporate covenanting are appropriate today, and how can they avoid coercive harm?",
+    "How should communities care for children and spouses who are affected when corrective measures are taken?"
+  ],
+  "uncertainAreas": "The text does not fully explain whether 'putting away' the wives meant formal divorce, exile, or separation other than domestic; the degree of voluntary versus coerced action is unclear. It's also difficult to know how representative the listed names are of the whole community or how secular Persian authorities viewed or enforced these measures.",
+  "createdAt": "2025-11-03T19:39:51.436Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

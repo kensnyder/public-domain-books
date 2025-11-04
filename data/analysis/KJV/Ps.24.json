@@ -1,0 +1,36 @@
+{
+  "chapterOsisID": "Ps.24",
+  "briefOverview": "Psalm 24 proclaims God's universal ownership and describes who may approach his holy presence, then shifts to a liturgical call announcing the coming King of glory.",
+  "summary": "Verses 1–2 assert that the earth and everything in it belong to the LORD, whose creative power established the world. Verses 3–6 pose and answer the question who may ascend the LORD’s hill: one with clean hands, a pure heart, and integrity, who will receive blessing and righteousness. Verses 7–10 form a dramatic liturgical exchange in which gates are commanded to open for the entering “King of glory,” answered by a question and proclamation identifying that king as the LORD, mighty in battle and commander of hosts. The psalm moves from cosmic ownership to ethical requirements for worship and culminates in a communal welcome for God’s victorious presence.",
+  "externalContext": "Many interpreters place this psalm in the context of ancient Israelite worship, possibly connected to processions bringing the Ark or God’s presence into the sanctuary (cf. ark narratives in Samuel). The poem reflects common ancient Near Eastern imagery of a sacred hill/temple and royal procession, using anthropomorphic doors/gates and coronation-like language to announce divine entry. Precise authorship and occasion are not specified in the text and remain uncertain.",
+  "externalReferences": "Psalm 15 (especially 15:1–5) raises a very similar question — who may dwell on the LORD’s holy hill — and echoes the ethical qualifications listed here. The processional idea of welcoming God’s presence is reminiscent of the Ark procession in 2 Samuel 6 (cf. 2 Samuel 6:12–15), where the ark is brought into a city with celebration. The call-and-response form of verses 7–10 has parallels in later Jewish liturgical practices that voice gate-opening and the recognition of God as king.",
+  "seeAlso": [
+    "Psalm 15:1-5",
+    "2 Samuel 6:12-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "God's Ownership and Holiness"
+    },
+    {
+      "range": "7-10",
+      "title": "Entrance of the King"
+    }
+  ],
+  "themes": [
+    "Divine ownership",
+    "Holiness",
+    "Worship",
+    "Righteousness"
+  ],
+  "practicalQuestions": [
+    "How does believing that 'the earth is the LORD’s' affect my everyday choices about possessions and stewardship?",
+    "What concrete practices help cultivate the 'clean hands' and 'pure heart' the psalm requires for approaching God?",
+    "In what ways can my community create rituals or moments that acknowledge God’s kingship and welcome his presence?",
+    "How should the language of divine kingship shape our understanding of God’s power and justice today?"
+  ],
+  "uncertainAreas": "Authorship and the original liturgical occasion are uncertain; the link to the Ark procession in 2 Samuel is plausible but not explicit in the text. The precise meaning of phrases like 'lift up your heads, O ye gates' (whether literal doors, personified cosmic structures, or ritual participants) allows for multiple interpretations.",
+  "createdAt": "2025-11-03T21:36:13.635Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

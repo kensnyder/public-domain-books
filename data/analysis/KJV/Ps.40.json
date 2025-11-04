@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.40",
+  "briefOverview": "A psalm that contrasts patient waiting and divine rescue with a cry for continued mercy; it moves from praise for deliverance to petition amid distress.",
+  "summary": "The speaker recounts patient waiting for the LORD, who rescues him from a deep pit, establishes his steps, and gives him a \"new song\" of praise that will lead others to trust (1–3). He affirms the blessing of trusting God and acknowledges the multitude and inscrutability of God's works (4–5). The psalmist emphasizes that God values obedience over ritual sacrifice, quoting \"Lo, I come... I delight to do thy will\" and declares he has proclaimed God's righteousness openly (6–10). The final section is a plea for continued mercy and swift deliverance from many surrounding evils and enemies, closing with an admission of poverty and dependence on God (11–17).",
+  "externalContext": "Psalm 40 is part of the Hebrew Psalter and is traditionally attributed to David in its superscription (not included in this excerpt). Psalms were used in Israelite worship and often combine praise, testimony of deliverance, ethical instruction, and lament. In Second Temple and later Jewish-Christian readings, passages stressing obedience over ritual were often read against debates about the role of sacrifice and inner devotion.",
+  "externalReferences": "Early Christian writers and the New Testament link verse 6–8 to Jesus: Hebrews 10:5–7 explicitly cites Psalm 40:6–8 and applies the quotation to Christ as doing God's will. The psalm’s critique of empty ritual echoes language found in Isaiah 1:11–17 where God rejects mere sacrifices apart from justice and repentance, making Isaiah a relevant background text for the theme.",
+  "seeAlso": [
+    "Hebrews 10:5-7",
+    "Isaiah 1:11-17",
+    "Psalm 22:1-2",
+    "Psalm 51:16-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Rescue and New Song"
+    },
+    {
+      "range": "4-10",
+      "title": "Trust and Obedience"
+    },
+    {
+      "range": "11-17",
+      "title": "Plea for Mercy"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Deliverance",
+    "Praise",
+    "Obedience"
+  ],
+  "practicalQuestions": [
+    "In what ways can I practice patient waiting for help without passive resignation?",
+    "How should inward obedience and outward worship be balanced in my spiritual life?",
+    "When I experience deliverance, how can I bear witness so others may trust God?",
+    "How can honest confession of need shape the way I pray for help and justice?"
+  ],
+  "uncertainAreas": "Authorship and historical setting are traditional but not certain from the text alone. The meaning of verses 6–8—whether they reject sacrificial systems wholesale or emphasize prioritized obedience—is debated; the psalmist’s use of \"in the volume of the book it is written of me\" has been read messianically in later Christian interpretation (e.g., Hebrews) but could have other liturgical or prophetic senses in its original context.",
+  "createdAt": "2025-11-03T21:42:03.066Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

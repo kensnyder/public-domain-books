@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Chr.21",
+  "briefOverview": "Jehoram, son of Jehoshaphat, secures the throne through violence, leads Judah into idolatry like the house of Ahab, and receives a prophetic denunciation that culminates in national losses, personal affliction, and an ignoble death.",
+  "summary": "Jehoram succeeds his father Jehoshaphat, but murders his brothers and certain princes to secure the throne. He follows the religious and political practices of the northern house of Ahab—partly through marriage to Ahab’s daughter—and promotes idolatrous high places in Judah. Because of his apostasy and violence, Edom and Libnah revolt; a prophetic letter from Elijah pronounces divine judgment: plague, invasion, and a lingering, fatal disease of the bowels. The Philistines and Arabians raid Judah, seize royal possessions and take his children and wives captive except for the youngest son Jehoahaz. After two years of incurable illness his bowels 'fall out' and he dies at thirty-two, buried in the city of David but not with the other kings.",
+  "externalContext": "Chronicles is generally a post-exilic historical work that reads Israel’s past through theological themes important to the restored community—especially the centrality of the Davidic covenant and proper worship. The house of Ahab in the northern kingdom (Israel) is associated in earlier narratives with Baal worship and the antagonism of the prophet Elijah (see 1 Kings 16–22 and 1 Kings 21). The Davidic covenant (2 Samuel 7) is a key theological explanation in Chronicles for why the dynasty is preserved despite royal unfaithfulness.",
+  "externalReferences": "The chronicler’s appeal to the Davidic promise echoes 2 Samuel 7:12–16, which frames the preservation of David’s line despite Jehoram’s sin. The character and condemnation of Ahab’s house recall episodes in 1 Kings—especially the Naboth affair (1 Kings 21)—and the ministry of Elijah (1 Kings 17–19). The account here parallels the Deuteronomistic account of Jehoram in 2 Kings 8:16–24, which gives a similar summary of his reign, revolts, and death.",
+  "seeAlso": [
+    "2 Kings 8:16-24",
+    "1 Kings 21:1-29",
+    "2 Samuel 7:12-16",
+    "1 Kings 17-19",
+    "2 Chronicles 20",
+    "2 Chronicles 22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Accession and Atrocities"
+    },
+    {
+      "range": "7-11",
+      "title": "Revolt and Idolatry"
+    },
+    {
+      "range": "12-19",
+      "title": "Prophecy, Plunder, and Plague"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Judgment",
+    "Idolatry",
+    "Political violence"
+  ],
+  "practicalQuestions": [
+    "How should a community respond when political leaders use violence to secure power?",
+    "What does the preservation of David’s line despite royal failure teach about corporate mercy and covenant promises today?",
+    "How can religious communities guard against syncretism and the establishment of 'high places'—local practices that undermine central commitments?",
+    "What role do prophetic warnings or whistleblowers have in correcting communal or political wrongdoing?"
+  ],
+  "uncertainAreas": "Whether the letter is literally from Elijah or a later prophetic pronouncement citing Elijah is unclear; the precise geopolitical references (e.g., 'Arabians that were near the Ethiopians') are somewhat ambiguous; the graphic description of the disease and its chronology (two years until the bowels fell out) may be symbolic or literal, but the text does not clarify.",
+  "createdAt": "2025-11-03T19:27:20.060Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

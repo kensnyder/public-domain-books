@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.80",
+  "briefOverview": "A communal lament that pleads with God, the Shepherd of Israel, to turn back to his people and restore them. The psalm frames Israel as a vine—once planted and flourishing but now broken and exposed to enemies.",
+  "summary": "The speaker addresses God as Shepherd who dwells between the cherubim and urges him to stir his strength and save Israel (vv.1–3). The community laments God’s anger, describing suffering as being fed with “bread of tears,” mocked by enemies, and exposed to violence (vv.4–6). The central image recounts Israel’s history as a vine brought out of Egypt, planted, flourishing, and then having its hedges broken and being ravaged by beasts (vv.8–13). The psalm repeatedly petitions God to return, look down, and cause his face to shine, asks God to set his hand on “the man of thy right hand,” and pleads for revival so the people will not turn back (vv.14–19).",
+  "externalContext": "The language of God “between the cherubim” and appeals to the Shepherd and to tribal names (Ephraim, Benjamin, Manasseh) situates the psalm in the cultic/temple tradition and invokes national identity tied to the twelve-tribe framework. The vine metaphor is a common Near Eastern and prophetic image used to describe Israel’s planting, care, and failure (see especially Isaiah’s “song of the vineyard”). The psalm’s communal tone and plea for national restoration have led scholars to read it as a lament composed in a time of political or religious crisis (for example, post-division threats or exile), though dating is uncertain.",
+  "externalReferences": "The vineyard metaphor closely parallels Isaiah 5:1–7, which depicts Israel as a vineyard that God planted and for which he holds the owner accountable. The phrase “between the cherubim” recalls the ark/mercy-seat imagery in Exodus 25:18–22 and other temple texts that place God’s presence over the ark. The expression “son of man” and appeals for a divinely supported leader echo Ezekiel’s and other prophetic traditions that present leaders or figures sustained by God (compare Ezekiel 2 and Ezekiel 17:7–10).",
+  "seeAlso": [
+    "Isaiah 5:1-7",
+    "Ezekiel 17:7-10",
+    "Exodus 25:18-22",
+    "Psalm 74:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Invocation and Plea"
+    },
+    {
+      "range": "8-16",
+      "title": "Vineyard: Rise and Ruin"
+    },
+    {
+      "range": "17-19",
+      "title": "Intercession and Renewal"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Restoration",
+    "Vine imagery",
+    "Divine presence"
+  ],
+  "practicalQuestions": [
+    "How can communities pray together for social or national restoration in ways modeled by this psalm?",
+    "What does it mean today to ask God to “turn” and to have his “face shine” on a people, and how does that shape communal repentance?",
+    "Who functions as the “man of thy right hand” in our institutions, and how should we pray for and hold leaders accountable?",
+    "How should the image of the vineyard inform our care for the land, society, and vulnerable members of the community?"
+  ],
+  "uncertainAreas": "The psalm’s precise historical setting is uncertain (pre- or post-exilic, northern or southern context). The identity of “the man of thy right hand” could signify king, priest, leader, or a messianic figure and is ambiguous. References to Joseph/Ephraim may reflect tribal language or specific historical context that is debated.",
+  "createdAt": "2025-11-03T22:01:18.158Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

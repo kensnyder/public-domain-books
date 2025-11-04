@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "2Chr.16",
+  "briefOverview": "Asa secures relief from an Israelite siege by allying with Syria, but is rebuked by a prophet for trusting a foreign power instead of God; his later illness and death conclude his reign.",
+  "summary": "When Baasha of Israel fortifies Ramah to blockade Judah, Asa uses temple and royal treasures to bribe Ben-hadad of Damascus to attack northern towns, forcing Baasha to stop building. Asa then repurposes the materials to fortify other towns. The prophet Hanani confronts Asa, accusing him of relying on Syria rather than on the LORD, and warns that wars will follow; Asa responds by imprisoning the seer and oppressing some people. The chronicle notes Asa's later severe foot disease in his thirty-ninth year, his reliance on physicians rather than seeking the LORD, and his death in the forty-first year followed by an elaborate burial.",
+  "externalContext": "The narrative fits the period of the divided monarchy (after Solomon) when Israel (the northern kingdom) and Judah (the southern kingdom) frequently competed; Baasha was a northern king and Ben-hadad a king of Aram-Damascus. Making alliances with neighboring states and using temple or royal treasuries for political ends were common but often judged harshly by biblical writers when they appeared to replace trust in God. Prophets in Israel and Judah functioned as royal critics and interpreters of divine will, calling kings back to covenantal faithfulness.",
+  "externalReferences": "The account parallels and is summarized elsewhere in the Deuteronomistic history: see 1 Kings 15:16–22 for an independent report of Baasha's building of Ramah and Asa's treaty with Ben-hadad. Hanani's reminder about deliverance from a large Cushite (Ethiopian) army echoes the earlier victory recorded in 2 Chronicles 14:9–15, where Asa had trusted the LORD and been delivered.",
+  "seeAlso": [
+    "2 Chronicles 14:9-15",
+    "1 Kings 15:16-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Asa's Political Move"
+    },
+    {
+      "range": "7-11",
+      "title": "Prophetic Rebuke"
+    },
+    {
+      "range": "12-14",
+      "title": "Illness and Death"
+    }
+  ],
+  "themes": [
+    "Reliance on God",
+    "Foreign Alliances",
+    "Prophetic Rebuke",
+    "Leadership Consequences"
+  ],
+  "practicalQuestions": [
+    "When is it appropriate for leaders to seek outside help, and how should that be balanced with religious or ethical commitments?",
+    "How should communities receive and respond to prophetic or critical voices that challenge political decisions?",
+    "What responsibilities do leaders bear when they use communal or sacred resources for political ends?",
+    "In illness or crisis, how can people balance practical medical care with spiritual practices of seeking help?"
+  ],
+  "uncertainAreas": "The text is terse about motives and legalities (e.g., whether Asa had authority to use temple treasures), and the phrase \"very great burning\" at his burial is ambiguous in description of funerary practice. The severity and exact nature of Asa's oppression of the people and the length or consequences of Hanani's imprisonment are not detailed.",
+  "createdAt": "2025-11-03T19:24:39.266Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

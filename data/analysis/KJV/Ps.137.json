@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.137",
+  "briefOverview": "A communal lament of Judean exiles mourning the destruction of Jerusalem, expressing sorrow, steadfast memory, and a strong call for retributive justice against their captors.",
+  "summary": "The psalm opens with exiles sitting by the rivers of Babylon, weeping as they remember Zion and laying aside their harps in sorrow because their captors demand songs of mirth. The community questions how they can sing the LORD's song in a foreign land and vows absolute remembrance of Jerusalem—invoking severe personal penalties if they fail to keep that memory. The tone shifts in the final verses to imprecatory language: the psalmist asks God to remember Edom's role in the city's destruction and pronounces doom on Babylon, including a harsh image of violence toward children. Overall the poem moves from lament and devotion to a plea for divine retribution, reflecting both grief and anger.",
+  "externalContext": "The poem reflects the historical setting of the Babylonian exile (late 7th–6th century BCE), when Judahite elites were deported to Babylonia after the fall of Jerusalem to Nebuchadnezzar. Harps and songs were central to Israelite worship and cultural memory, so the demand that exiles perform 'songs of Zion' would have been particularly painful and evocative. Edom is elsewhere accused in prophetic literature of taking advantage of Judah's downfall, making the call to 'remember' Edom a reflection of intergroup hostility tied to that history.",
+  "externalReferences": "The siege, destruction, and deportations are narrated in 2 Kings 24:10–25:30 and Jeremiah 52:1–34, which provide the historical background for the exiles' displacement. Lamentations (e.g., Lamentations 1) shares the tone of communal grief and mourning for Jerusalem after its destruction. Obadiah 1:10–14 specifically condemns Edom for violence and profiteering at Jerusalem's fall and is thematically consonant with Psalm 137's appeal against Edom.",
+  "seeAlso": [
+    "2 Kings 24:10-25:30",
+    "Jeremiah 52:1-34",
+    "Lamentations 1:1-22",
+    "Obadiah 1:10-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Exile and Lament"
+    },
+    {
+      "range": "7-9",
+      "title": "Imprecation and Justice"
+    }
+  ],
+  "themes": [
+    "Exile",
+    "Memory",
+    "Lament",
+    "Vengeance"
+  ],
+  "practicalQuestions": [
+    "How can displaced communities preserve sacred memory and worship when removed from their homeland?",
+    "In what ways should modern readers interpret and respond to the psalm's imprecatory (vengeful) language?",
+    "How can societies acknowledge grief and anger over injustice without allowing those emotions to justify further violence?",
+    "What communal practices help sustain identity during prolonged hardship or exile?"
+  ],
+  "uncertainAreas": "Uncertainty about the precise historical occasion (which deportation cycle) and whether the violent imprecations are meant as literal commands, poetic hyperbole, or ritual lament.",
+  "createdAt": "2025-11-03T22:27:20.374Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

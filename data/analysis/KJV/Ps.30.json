@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.30",
+  "briefOverview": "A thanksgiving psalm celebrating deliverance from death and a movement from mourning to joy.",
+  "summary": "The psalmist praises the LORD for lifting him up, healing him, and rescuing his soul from the grave. He calls the faithful to sing and remember God's holiness, noting that divine anger is brief but God's favor brings life. Recalling a moment of presumed security that was followed by distress when God’s face seemed hidden, the speaker recounts crying for help and pleading for mercy. God responds by turning mourning into dancing and replacing sackcloth with gladness, prompting a vow of ongoing praise and gratitude.",
+  "externalContext": "This poem appears in the collection of the Hebrew Psalter and is traditionally associated with temple or house-dedication worship (some manuscripts/headings link it to the dedication of a house or the Temple). Ancient Near Eastern prayer-poetry often frames deliverance from death or illness as cause for public thanksgiving and liturgical celebration. The psalm’s language of God's 'face' being hidden and later restored fits idioms of divine favor and healing common in Hebrew prayer.",
+  "externalReferences": "Scholars often connect this psalm with Hezekiah’s thanksgiving after recovery in Isaiah 38:9–20, which also celebrates deliverance from death and vows praise. Themes of lament followed by trust and praise appear across the Psalter (compare Psalm 13:5–6 and Psalm 126:5–6, the latter linking sowing in tears to reaping with joy).",
+  "seeAlso": [
+    "Isaiah 38:9-20",
+    "Psalm 13:5-6",
+    "Psalm 126:5-6",
+    "Psalm 42:5-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Praise for Rescue"
+    },
+    {
+      "range": "4-6",
+      "title": "Call to Remember"
+    },
+    {
+      "range": "7-12",
+      "title": "Supplication and Vow"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Thanksgiving",
+    "Lament-to-Joy",
+    "Divine Favor"
+  ],
+  "practicalQuestions": [
+    "When have you experienced a sudden reversal from despair to relief, and how can that shape your practice of gratitude?",
+    "How can communities make space for honest lament while also celebrating recovery and deliverance?",
+    "In times of prosperity, what habits help prevent forgetfulness of dependence on God (cf. verse 6)?",
+    "How might the image of God ‘hiding his face’ help people articulate periods of spiritual absence or depression?"
+  ],
+  "uncertainAreas": "Authorship and original occasion are uncertain (traditional attribution to David vs. later liturgical use). The link to Hezekiah’s song in Isaiah is plausible but not certain. Some imagery (e.g., 'my mountain,' 'my blood') admits multiple interpretive nuances.",
+  "createdAt": "2025-11-03T21:38:20.073Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

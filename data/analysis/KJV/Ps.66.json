@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.66",
+  "briefOverview": "A communal call to praise God for his mighty deeds and personal deliverance, combining national memory with individual testimony.",
+  "summary": "The psalm opens with a universal summons for all lands to praise God and to acknowledge his awesome power. The speaker invites hearers to 'come and see' God's deeds, recalling a crossing of the sea and survival through fire and water as signs of deliverance. The community testifies that God has tested and afflicted them but ultimately brought them into a secure place. The latter part records the vow to enter God's house with sacrifices and concludes with a personal testimony that God heard prayer and did not withhold mercy.",
+  "externalContext": "Psalms are liturgical-poetic texts used in ancient Israelite worship; many combine communal language ('we') with an individual voice ('I'). 'Selah' appears as a liturgical/poetic marker whose precise function is debated (pause, musical direction, or editorial note). The references to sea crossing, sacrificial vows, and refinement imagery presuppose knowledge of Israel's covenantal traditions and cultic practices.",
+  "externalReferences": "The image of turning the sea into dry land echoes the Exodus account of the Red Sea crossing (Exodus 14:21–22), a foundational national deliverance frequently recalled in Israelite praise literature. The language of being 'proved' and 'tried... as silver' parallels prophetic and wisdom motifs of refining by fire (for example Isaiah 48:10). The vow to bring burnt offerings and pay vows connects this thanksgiving to the sacrificial regulations and vow-practices of the Pentateuch (see Leviticus 1 and Leviticus on votive obligations).",
+  "seeAlso": [
+    "Exodus 14:21-22",
+    "Isaiah 48:10",
+    "Leviticus 1:1-17",
+    "Psalm 107:23-30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "5-12",
+      "title": "Recall of Deliverance"
+    },
+    {
+      "range": "13-20",
+      "title": "Vows and Testimony"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Deliverance",
+    "Refinement",
+    "Vows/Testimony"
+  ],
+  "practicalQuestions": [
+    "How can communal worship today integrate public praise with personal testimony of God’s help?",
+    "In what ways should memories of past deliverance shape present worship and ethics?",
+    "How do experiences of trial refine faith rather than merely punish, and how should we respond?",
+    "What forms of concrete thanksgiving (time, resources, commitments) are appropriate now in place of ancient sacrifices?"
+  ],
+  "uncertainAreas": "The psalm’s original historical setting (whether it commemorates a specific national event or primarily personal rescue) is unclear. The shift between 'we' and 'I' leaves the communal/individual voice relations open to interpretation. Several Hebrew words/phrases (e.g., 'Selah', 'terrible' as 'awesome', and the term translated 'wealthy place') have translation or nuance uncertainties.",
+  "createdAt": "2025-11-03T21:54:01.989Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

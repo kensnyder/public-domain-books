@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.121",
+  "briefOverview": "A short pilgrim psalm expressing confident trust that the LORD, the creator, provides constant help and sleepless guardianship.",
+  "summary": "The speaker looks up to the hills seeking help and immediately names the source: the LORD, maker of heaven and earth (vv. 1–2). The psalm asserts that God protects the pilgrim’s footing and will not sleep or slumber while keeping Israel (vv. 3–4). It affirms the LORD as keeper and shade, protecting from sun and moon and preserving the person from all evil, guarding their soul (vv. 5–7). The poem concludes with a promise of ongoing protection for the pilgrim’s comings and goings now and forevermore (v. 8).",
+  "externalContext": "Psalm 121 is one of the fifteen 'Songs of Ascents' (Psalms 120–134), likely used by pilgrims traveling to Jerusalem or by groups preparing for worship at the Temple. The emphasis on hills and travel fits a pilgrimage context: pilgrims approached Jerusalem across surrounding hills, and the Temple stood on a hill, so the imagery resonates both with the landscape and with seeking divine aid. The Hebrew word for 'keep/keeper' (shamar) is a common legal and cultic term implying vigilant care and custodianship.",
+  "externalReferences": "Psalm 124:8 contains a closely related line: 'Our help is in the name of the LORD, who made heaven and earth,' echoing Psalm 121:2's identification of help with the Creator. The theme of God's sleepless vigilance and protection appears elsewhere in the Psalter and wisdom literature (compare themes in Psalms 23 and 46), and the promise of refuge and sustaining presence recalls Deuteronomy 33:27's image of God's eternal support.",
+  "seeAlso": [
+    "Psalms 120:1-7",
+    "Psalms 122:1-9",
+    "Psalms 124:8",
+    "Deuteronomy 33:27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Seeking Divine Help"
+    },
+    {
+      "range": "3-8",
+      "title": "Assurance of God's Guardianship"
+    }
+  ],
+  "themes": [
+    "Divine help",
+    "Guardianship",
+    "Pilgrimage",
+    "Trust"
+  ],
+  "practicalQuestions": [
+    "In moments of worry or travel, where do I instinctively look for help and how might I reorient toward trust?",
+    "How does the claim that God 'does not slumber' shape my understanding of divine attentiveness in daily life?",
+    "What practices (prayer, community support, pilgrimage, Sabbath rest) help cultivate trust in ongoing divine care?",
+    "How can communities reflect the protective, preserving care described here for vulnerable members?"
+  ],
+  "uncertainAreas": "The precise original setting (individual pilgrim, communal chant, or temple liturgy) and whether 'hills' primarily denote the surrounding landscape or the Temple hill are not explicit in the text; translations and theological emphases on 'keep' (shamar) and 'preserve' vary and affect nuances of meaning.",
+  "createdAt": "2025-11-03T22:20:33.588Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.5",
+  "briefOverview": "Eliphaz urges Job to call for help but chiefly counsels trust in God’s disciplinary justice, arguing that God both wounds and heals and ultimately vindicates the righteous.",
+  "summary": "Eliphaz challenges Job to find an answer among the righteous and warns that anger and envy bring ruin (1–7). He urges Job to seek God, praising God’s inscrutable power over nature and society and claiming God raises the low and thwarts the crafty (8–16). He declares that divine chastening is beneficial — God wounds and heals — and promises deliverance: protection in multiple troubles, provision in famine and war, peace for the household, prosperity, and a long life (17–27). The speech combines admonition, theological reflection on retribution, and assurances of restoration.",
+  "externalContext": "This speech comes in the Wisdom-literature setting of the ancient Near East, where wisdom teachers often connected personal well-being with moral behavior and divine response. Eliphaz’s perspective reflects a conventional retributive theology prevalent in Israelite wisdom circles: suffering is frequently interpreted as punishment or correction from God. The Book of Job, however, stages such speeches to contrast conventional wisdom with the complexity of apparent innocent suffering.",
+  "externalReferences": "The idea that divine discipline is corrective echoes Proverbs 3:11–12 (“do not despise the LORD’s discipline”), and the general retribution motif aligns with Deuteronomy 28’s blessings and curses based on covenant faithfulness. Within Job itself, this chapter follows Eliphaz’s first remarks (Job 4) and foreshadows later responses and the book’s eventual restoration narrative (Job 42:10–17), which complicates a simple cause–effect reading of suffering.",
+  "seeAlso": [
+    "Job 4:1-11",
+    "Job 8:1-7",
+    "Job 42:10-17",
+    "Proverbs 3:11-12",
+    "Deuteronomy 28:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Warning on Folly"
+    },
+    {
+      "range": "8-16",
+      "title": "Call to Trust God"
+    },
+    {
+      "range": "17-27",
+      "title": "Chastening and Promise"
+    }
+  ],
+  "themes": [
+    "Divine discipline",
+    "Retributive justice",
+    "Suffering",
+    "Hope and restoration"
+  ],
+  "practicalQuestions": [
+    "When you or others suffer, how do you balance seeking compassionate support with offering theological explanations?",
+    "How should communities respond when traditional explanations (suffering = punishment) seem to fail in particular cases?",
+    "What practices help a person 'seek unto God' in the midst of pain, without assuming immediate explanation or reward?",
+    "How can the idea that God 'wounds and binds up' inform pastoral care without blaming the sufferer?"
+  ],
+  "uncertainAreas": "Attribution: the speech is Eliphaz’s voice within the dialogue, but the chapter itself does not label the speaker; the extent to which Eliphaz’s theology is endorsed by the book is ambiguous (later chapters problematize simple retribution). Idiomatic phrases such as “in six troubles; yea, in seven” and images like being “in league with the stones of the field” are culturally vivid but open to multiple interpretations about completeness and peace.",
+  "createdAt": "2025-11-03T19:53:16.417Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

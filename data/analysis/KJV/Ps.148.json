@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ps.148",
+  "briefOverview": "A communal summons for all parts of creation to praise the LORD, from the highest heavens to the youngest children. The psalm affirms God's sovereign role as creator whose name and glory surpass heaven and earth.",
+  "summary": "The psalm opens with a call to praise directed at the heavens, angelic hosts, and celestial bodies, because God commanded them into being (verses 1–6). It then extends the summons to the earth: sea creatures and elemental forces (dragons, fire, hail, snow, stormy wind), mountains, trees, animals, and birds (verses 7–10). Finally the call reaches human society—rulers and judges, people of every age—and gives the reason for praise: God's name is exalted and his glory is above earth and heaven (verses 11–13). The conclusion highlights God's vindication and exaltation of his people, especially Israel, whom he honors (verse 14).",
+  "externalContext": "Psalm 148 belongs to the biblical hymn tradition that celebrates God’s reign by depicting the whole cosmos as participating in praise; such hymns were used in public and temple worship. Terms like \"dragons\" (Hebrew tannînim) often refer to primeval sea creatures or monsters in Ancient Near Eastern poetic imagery. The image of \"horn\" as the people’s exaltation is a common ancient metaphor for strength, honor, or victory. The psalm reflects a worldview in which the created order is expected to acknowledge and mirror the creator’s glory.",
+  "externalReferences": "The theme of the heavens declaring God's glory parallels Psalm 19:1, while Psalm 104 similarly praises God by enumerating aspects of creation. The idea of God commanding and establishing the cosmos echoes the creation account (Genesis 1) and God’s speeches about ordering creation in Job 38:4–11. Isaiah 40:26 also calls the nations to see the stars as named and controlled by God, a close theological parallel to the cosmic summons in Psalm 148.",
+  "seeAlso": [
+    "Psalm 19:1",
+    "Psalm 104",
+    "Job 38:4-11",
+    "Isaiah 40:26",
+    "Psalm 150"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Heavens and Hosts"
+    },
+    {
+      "range": "7-14",
+      "title": "Earthly Creatures and People"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Creation",
+    "Cosmic Worship",
+    "Divine Sovereignty"
+  ],
+  "practicalQuestions": [
+    "How does acknowledging the created order as praising God shape our own worship practices?",
+    "In what concrete ways can communities reflect the psalm’s inclusive summons to praise across social and natural boundaries?",
+    "How might the image of God exaltng his people inform contemporary understandings of communal identity and justice?",
+    "What responsibilities follow from seeing the natural world as a participant in divine praise (environmental or ethical implications)?"
+  ],
+  "uncertainAreas": "The precise historical setting and liturgical use (e.g., temple festival, daily worship) of this psalm are not given in the text. Some Hebrew terms (e.g., \"dragons/tanninim\") are open to translation and interpretive range, and the phrase \"exalteth the horn of his people\" needs contextual reading to determine whether it refers primarily to Israel, to the Davidic king, or to a broader notion of vindicated community.",
+  "createdAt": "2025-11-03T22:32:13.660Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.32",
+  "briefOverview": "Psalm 32 celebrates the blessing of forgiven sin, contrasts the suffering caused by unconfessed sin with the relief of confession, and offers instruction about trusting God's guidance and mercy.",
+  "summary": "The psalm opens with a declaration that those whose transgressions are forgiven are blessed. The speaker describes physical and emotional torment while hiding sin, then recounts confessing to the LORD and receiving forgiveness. The psalmist urges the godly to seek God in times of availability, affirms God as a hiding place and deliverer, and promises divine instruction and guidance. Finally, the psalm warns against stubbornness (likened to horse or mule), contrasts the sorrows of the wicked with the surrounding mercy for those who trust God, and calls the righteous to rejoicing.",
+  "externalContext": "Psalm 32 is classed among the penitential psalms and is traditionally associated with King David in many liturgical headings (Maskil of David in Hebrew manuscripts). The term Selah likely marks liturgical or musical pauses. Many readers in Jewish and Christian traditions have linked its themes of confession and forgiveness to communal and individual practices of repentance in ancient Israel.",
+  "externalReferences": "The theme of penitence and confession is closely related to Psalm 51, another psalm traditionally associated with David's repentance after Nathan's rebuke (see 2 Samuel 12:13, where David admits, \"I have sinned against the LORD\").\nThe New Testament quotes or echoes Psalm 32:1–2 in Romans 4:7–8 to discuss the blessedness of forgiveness credited apart from works.",
+  "seeAlso": [
+    "Psalm 51",
+    "2 Samuel 12:13",
+    "Romans 4:7-8",
+    "Psalm 103:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Blessed Forgiveness"
+    },
+    {
+      "range": "3-5",
+      "title": "Burden of Hidden Sin"
+    },
+    {
+      "range": "6-11",
+      "title": "Guidance, Warning, Praise"
+    }
+  ],
+  "themes": [
+    "Forgiveness",
+    "Confession",
+    "Divine Guidance",
+    "Rejoicing"
+  ],
+  "practicalQuestions": [
+    "What practices help me honestly acknowledge wrongdoing rather than hiding it?",
+    "How can I make time to seek God \"in a time when he may be found\" as the psalm urges?",
+    "When feeling the 'weight' of guilt, how might I accept and internalize the promise of God's forgiveness?",
+    "How can communities encourage repentance and reassure repentant people of God's surrounding mercy?"
+  ],
+  "uncertainAreas": "The psalm does not specify its historical situation; linking it to David's Bathsheba episode is traditional but not explicit. Metaphors like \"moisture...drought of summer\" and the precise meaning of \"Selah\" remain interpretively uncertain.",
+  "createdAt": "2025-11-03T21:38:58.802Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

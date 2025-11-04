@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.54",
+  "briefOverview": "A brief penitential petition in which the psalmist calls on God for rescue and vindication from hostile foes, affirms trust in God's help, and vows praise for deliverance.",
+  "summary": "The speaker opens with a direct plea for God to save and vindicate him by divine power, asking God to hear his prayer (vv. 1–2). He describes enemies — “strangers” and “oppressors” — who seek his life and who do not acknowledge God (v. 3). The tone shifts to confident trust: God is named as helper who sustains the psalmist (v. 4), and the speaker asks God to repay enemies according to truth (v. 5). The psalm closes with a vow to offer freewill sacrifice and praise because God has delivered him from distress and acted against his foes (vv. 6–7).",
+  "externalContext": "The superscription tradition attributes Psalm 54 to David and links it to the episode when the Ziphites informed Saul of David’s location (see 1 Samuel 23:19–23), which explains the theme of betrayal by ‘strangers.’ Psalms like this were used in Israelite worship settings; words such as “Selah” likely mark liturgical or musical pauses, though their precise function is debated. The reference to sacrifice and praise reflects the cultic practice in which communal or private thanksgiving followed perceived divine deliverance.",
+  "externalReferences": "The alleged occasion for the psalm corresponds to 1 Samuel 23:19–23, where residents of Ziph reveal David’s hiding place to Saul, a background that illuminates the complaint about betraying strangers.\nThe psalm’s combination of complaint, trust, and vow of thanksgiving parallels other Davidic laments such as Psalm 56 (a prayer addressed to God under threat) and Psalm 35:1–3 (a call for God to contend with enemies).",
+  "seeAlso": [
+    "1 Samuel 23:19-23",
+    "Psalm 56:1-4",
+    "Psalm 35:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Plea and Complaint"
+    },
+    {
+      "range": "4-7",
+      "title": "Trust and Thanksgiving"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Deliverance",
+    "Enemies",
+    "Praise"
+  ],
+  "practicalQuestions": [
+    "When you feel betrayed or pursued, how do you balance seeking justice with trusting God?",
+    "In what ways can prayer and confident expectation of God’s help shape your response to opponents?",
+    "How might making a concrete vow of praise or service after experiencing help affect your spiritual life?",
+    "What does it mean today to ask God to ‘judge’ or ‘cut off’ enemies while still acting ethically toward others?"
+  ],
+  "uncertainAreas": "The psalm’s superscription and historical occasion (Ziphites and Saul) are traditional but not stated in the text provided here. The exact meaning and liturgical function of “Selah” and the precise sense of phrases like “cut them off in thy truth” remain open to interpretation (poetic, judicial, or imprecatory).",
+  "createdAt": "2025-11-03T21:48:19.888Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

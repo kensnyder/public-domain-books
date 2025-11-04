@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "2Chr.1",
+  "briefOverview": "Solomon begins his reign by seeking the LORD at the tabernacle in Gibeon, asking for wisdom to govern Israel; God grants wisdom and also promises wealth and honor. The chapter closes with a snapshot of Solomon’s amassed military and economic resources.",
+  "summary": "Solomon is established in his kingdom and gathers Israel’s leaders. He and the assembly go to the high place at Gibeon where the tabernacle still stands, and Solomon offers a thousand burnt offerings at the bronze altar. That night God appears and invites Solomon to ask for what he wishes; Solomon requests wisdom and knowledge to judge the people faithfully. God grants him the requested wisdom and also promises riches, wealth, and honor. Solomon returns to Jerusalem to reign, and the chapter notes his large chariot force, numerous horses, abundant silver and gold, and commerce (including horses and chariots from Egypt).",
+  "externalContext": "2 Chronicles is part of the postexilic historical compilations that often emphasize legitimate Davidic rule and proper worship at the temple/altar. Gibeon was an important premonarchical worship site (a “high place”) that preserved the tabernacle before the temple was built. Bezaleel is the artisan named in Exodus as responsible for making the tabernacle’s furnishings, so the bronze altar mentioned evokes Exodus-era cultic continuity. Importing horses and chariots from Egypt reflects ancient Near Eastern trade and the importance placed on chariotry as a military and prestige asset.",
+  "externalReferences": "The account of Solomon’s dream and request parallels 1 Kings 3:4–15, which gives a very similar narrative of asking for wisdom and God’s promise. The statement that David brought the ark up from Kirjath-jearim reflects earlier ark traditions found in 1 Samuel 7:1 and the transport of the ark to Jerusalem in 2 Samuel 6. Bezaleel’s workmanship recalls Exodus 31:2–6 (and related passages in Exodus 36–38) where he is named as chief artisan for tabernacle furnishings. The note about horses and chariots corresponds to material in 1 Kings 10:26–29 describing Solomon’s wealth and imports.",
+  "seeAlso": [
+    "1 Kings 3:4-15",
+    "2 Samuel 6:1-12",
+    "1 Samuel 7:1-2",
+    "Exodus 31:1-6",
+    "1 Kings 10:26-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Solomon at Gibeon"
+    },
+    {
+      "range": "7-12",
+      "title": "Divine Appearance and Request"
+    },
+    {
+      "range": "13-17",
+      "title": "Royal Wealth and Power"
+    }
+  ],
+  "themes": [
+    "Wisdom and Kingship",
+    "Divine Blessing",
+    "Cultic Continuity",
+    "Wealth and Power"
+  ],
+  "practicalQuestions": [
+    "When making important decisions, how do I (or leaders I follow) prioritize seeking wisdom over seeking wealth or honor?",
+    "What practices (prayer, counsel, ritual) can communities use to discern and confirm morally wise leadership?",
+    "How should religious devotion shape the exercise of political or economic power in our context?",
+    "If one receives material blessing or influence, what safeguards promote just and humble governance?"
+  ],
+  "uncertainAreas": "Chronicles’ placement of the tabernacle at Gibeon while the ark is in Jerusalem raises chronological and geographical questions when compared with Kings; the text’s theological emphasis (temple/altar continuity and divine approval) may shape which details it highlights. Numerical figures for chariots and horses could reflect symbolic reporting or literal inventories; the exact scope of Solomon’s foreign trade partners beyond Egypt is not detailed here.",
+  "createdAt": "2025-11-03T19:16:43.545Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Job.2",
+  "briefOverview": "A second scene in the heavenly court renews the adversary’s challenge to Job’s integrity, and God allows a new, personal physical affliction; Job endures, rebukes his wife, and is visited by three friends who mourn in silence.",
+  "summary": "The chapter opens with a divine council scene where Satan again appears among the 'sons of God' and contests Job’s righteousness. God permits Satan to afflict Job’s body but forbids taking his life. Satan strikes Job with painful boils; Job sits among ashes and scrapes himself with a potsherd. Job’s wife urges him to 'curse God, and die,' but Job refuses, accepting both good and evil from God and not sinning with his lips. Three friends—Eliphaz, Bildad, and Zophar—come, mourn loudly, tear their garments, sprinkle dust on their heads, and then sit with Job in silence for seven days.",
+  "externalContext": "The scene reflects an ancient Near Eastern motif of a divine council—heavenly assemblies where gods (or divine beings) confer and where a figure called 'the satan' functions as an accuser or tester rather than the later Christian devil figure. Jewish wisdom literature often frames moral and theological questions about suffering as tests or legal disputes. The mourning practices described (tearing garments, sprinkling dust, sitting in ashes) were customary expressions of grief in the ancient Near East; a potsherd was a common, inexpensive implement used for personal scraping.",
+  "externalReferences": "This chapter directly continues the heavenly courtroom motif begun in Job 1:6–12, where Satan first challenges Job’s integrity and God permits trials. Job’s posture of accepting both prosperity and calamity echoes Job 1:21, where he blesses the name of the Lord after his initial losses. The friends’ mourning gestures are comparable to other biblical mourning customs, for example Genesis 37:34, where Jacob tears his garments on news of Joseph.",
+  "seeAlso": [
+    "Job 1:6-12",
+    "Job 1:21",
+    "Genesis 37:34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Heavenly Accusation and Permission"
+    },
+    {
+      "range": "7-10",
+      "title": "Affliction and Wife's Counsel"
+    },
+    {
+      "range": "11-13",
+      "title": "Friends' Mourning Silence"
+    }
+  ],
+  "themes": [
+    "Testing",
+    "Integrity",
+    "Suffering",
+    "Mourning"
+  ],
+  "practicalQuestions": [
+    "How should I speak and act when someone I care about is suffering intensely?",
+    "When loved ones offer despairing counsel, how can I respond in a way that preserves dignity and faith?",
+    "What forms of presence and silence are most helpful for consoling the bereaved or afflicted today?",
+    "How do we hold together the conviction that life’s goods and evils come from the same source with compassion for those in pain?"
+  ],
+  "uncertainAreas": "The precise identity and role of 'Satan' (ha-satan) in the divine council is ambiguous—whether a cosmic evil being or a court-functionary accuser. The text limits Satan's power with the command 'save his life,' but the theological meaning of that limitation and why God permits suffering remain open. The wife's brief speech is morally charged but contextually ambiguous—her intent could be despair, pragmatic counsel, or provocation; the text does not fully explain her motivation.",
+  "createdAt": "2025-11-03T19:52:06.087Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

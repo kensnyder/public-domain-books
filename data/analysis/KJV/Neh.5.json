@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Neh.5",
+  "briefOverview": "Nehemiah confronts internal economic oppression among the returned Judeans and enforces restitution, then defends his own integrity as governor.",
+  "summary": "A public outcry arises because poorer Jews have mortgaged land, borrowed to pay taxes, and sold their children into servitude. Nehemiah is angered, rebukes the nobles and officials for charging interest on fellow Jews, assembles the people, and demands restoration of land, houses, and a commission of goods taken. The guilty agree to restore and swear an oath before the priests, and the community affirms the covenant. Nehemiah then reports that during his twelve years as governor he and his household did not take the governor’s food allowance, describes his support for the wall-building work, and asks God to remember his service to the people.",
+  "externalContext": "This episode is set in the Persian period after the Babylonian exile (5th century BCE), when Judean returnees operated under Persian provincial administration (Artaxerxes is the Persian king named). Economic distress was common: crop failures, tribute demands to the imperial center, and the absence of effective local institutions often led people to pledge land or sell family members into servitude. Israelite law traditions (e.g., Jubilee and limits on interest) provided background ideals for land redemption and protection of kin, but those institutions were not always enforced in the exile and restoration context.",
+  "externalReferences": "The demand that Israelites not exact interest and the call to redeem land and kin recalls legal traditions such as Exodus 22:25 and Deuteronomy 23:19–20 (restrictions on charging interest to fellow Israelites) and Leviticus 25:39–55 (rules for indentured servitude, redemption, and the Jubilee principle). Nehemiah’s emphasis on not taking the governor’s provisions and on personal austerity resonates with his administrative role described earlier in Nehemiah 2–4 (rebuilding the wall) and with later reforms he leads (cf. Nehemiah 13:10–14) where he addresses different abuses in community life.",
+  "seeAlso": [
+    "Exodus 22:25",
+    "Deuteronomy 23:19-20",
+    "Leviticus 25:39-55",
+    "Nehemiah 2:1-20",
+    "Nehemiah 13:10-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Debt, Oppression, and Reform"
+    },
+    {
+      "range": "14-19",
+      "title": "Nehemiah's Integrity"
+    }
+  ],
+  "themes": [
+    "Economic justice",
+    "Usury and debt",
+    "Leadership integrity",
+    "Communal restoration"
+  ],
+  "practicalQuestions": [
+    "How should modern communities address predatory lending and restore families harmed by debt?",
+    "What practices can leaders adopt to model integrity and avoid exploiting those they serve?",
+    "When is public rebuke and binding agreement appropriate for correcting social injustice?",
+    "How can communal institutions enforce promises of restitution and protect vulnerable members?"
+  ],
+  "uncertainAreas": "Uncertainty remains about precise legal mechanisms used to restore land and how fully the restorations were carried out long-term. The text names Artaxerxes but does not specify which Artaxerxes beyond the number of years, and the identities and social power of the nobles and rulers are not detailed.",
+  "createdAt": "2025-11-03T19:42:10.988Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

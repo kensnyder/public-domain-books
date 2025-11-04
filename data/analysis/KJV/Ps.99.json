@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.99",
+  "briefOverview": "A liturgical proclamation of Yahweh’s kingship and holiness that calls the people to reverent worship and remembers God’s faithful responses to leaders who cried out to him.",
+  "summary": "The psalm opens with a declaration that the LORD reigns, pictured enthroned \"between the cherubim,\" and calls the people to tremble and worship. It affirms God’s greatness in Zion and his character as a ruler who loves justice, establishing equity and executing righteousness. Worship is urged at God’s footstool because of his holiness. The poem recalls Moses, Aaron, and Samuel as exemplary figures who called on the LORD and received answers from him. It notes God’s speech to them in the cloudy pillar and his pattern of both forgiving and taking vengeance against the peoples’ wrongful actions. The psalm concludes with a renewed command to exalt and worship the LORD on his holy hill, because he is holy.",
+  "externalContext": "Psalm 99 belongs to the group of enthronement or royal psalms (e.g., Psalms 93–99) that celebrate Yahweh as sovereign; such psalms were likely used in public liturgy in ancient Israel. The imagery of God \"between the cherubim\" evokes the ark of the covenant tradition (Exodus 25) and ancient Near Eastern throne-room motifs, while the \"cloudy pillar\" recalls the Exodus tradition of divine presence guiding Israel. Moses, Aaron, and Samuel function here as canonical exemplars of prophetic/priestly leadership whose intercession elicited divine response in Israel’s foundational narratives.",
+  "externalReferences": "The reference to God \"between the cherubim\" recalls Exodus 25:18–22 (the cherubim on the ark as the locus of divine presence). The \"cloudy pillar\" alludes to the pillar of cloud and fire that accompanied Israel in Exodus (e.g., Exodus 13:21; 40:34–38). The mention of Moses, Aaron, and Samuel and God answering them invites comparison with narratives where leaders intercede and God responds (for example, Samuel’s intercession and God’s deliverance in 1 Samuel 7:8–9) and with episodes of both judgment and forgiveness such as the golden calf incident (Exodus 32).",
+  "seeAlso": [
+    "Exodus 25:18-22",
+    "Exodus 13:21",
+    "Exodus 32",
+    "1 Samuel 7:8-9",
+    "Psalms 93:1-5",
+    "Psalms 97:1-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "God's Kingship and Justice"
+    },
+    {
+      "range": "6-8",
+      "title": "Remembrance of Leaders"
+    },
+    {
+      "range": "9",
+      "title": "Final Exhortation"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Holiness",
+    "Justice",
+    "Worship"
+  ],
+  "practicalQuestions": [
+    "How should belief in God’s holiness shape modern worship practices and attitudes?",
+    "In what ways can contemporary leaders emulate the intercessory faithfulness of Moses, Aaron, and Samuel?",
+    "How do we hold together trust in God’s mercy with acknowledgement of divine justice in personal and communal life?",
+    "What practices help a community reverence God’s kingship without fear becoming avoidance or paralysis?"
+  ],
+  "uncertainAreas": "The precise historical setting and liturgical use of this psalm are not specified in the text. The phrase \"took vengeance of their inventions\" is terse and ambiguous—unclear which specific events it references and how to balance the notions of forgiveness and vengeance here. Whether the cherubim imagery is intended as literal cultic description or symbolic throne-imagery for poetic effect is also uncertain.",
+  "createdAt": "2025-11-03T22:09:51.146Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Neh.7",
+  "briefOverview": "After the wall of Jerusalem is completed, Nehemiah secures the city, orders a census of returnees, and records the genealogies and resources of the restored community.",
+  "summary": "Nehemiah appoints Hanani and Hananiah to oversee Jerusalem's gates and instructs strict gate security. Noting that the city was large but sparsely populated, he orders a reckoning by genealogy and finds a register of those who returned from Babylon under leaders like Zerubbabel and Jeshua. The chapter lists clans, towns, and numbers of men (including priests, Levites, singers, porters, Nethinims, and Solomon's servants), notes some priests who could not prove lineage and were barred from holy duties, and refers to the need for a priest with Urim and Thummim. Totals for the population, servants, and animals are given, and gifts from the governor and leading fathers to the treasury are recorded. The chapter closes with people dwelling in their cities and Israel being in their cities by the seventh month.",
+  "externalContext": "Nehemiah is set in the Persian-period province of Judah; the governor (called Tirshatha) operates under Persian administration. Lists of returnees and concerns about genealogical proof reflect postexilic priorities: reestablishing lineage for land and priestly rights and consolidating community after the Babylonian exile. The Urim and Thummim are traditional priestly means of decision or revelation described earlier in the Torah.",
+  "externalReferences": "This chapter closely parallels the returnee lists in Ezra 2 (compare Ezra 2:1–70) and the concerns about verified priestly descent echo Ezra's reforms. The mention of Urim and Thummim recalls Exodus 28:30 and other priestly materials that locate these objects in the high priest's breastpiece. Zerubbabel and Jeshua are also prominent in earlier restoration narratives (see Ezra 3 and Haggai 1–2 for the temple's rebuilding).",
+  "seeAlso": [
+    "Ezra 2:1-70",
+    "Ezra 3:1-11",
+    "Haggai 1:1-2:23",
+    "Exodus 28:30",
+    "Nehemiah 11:1-24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Securing the City"
+    },
+    {
+      "range": "5-66",
+      "title": "Genealogical Census"
+    },
+    {
+      "range": "67-73",
+      "title": "Resources and Settlement"
+    }
+  ],
+  "themes": [
+    "Community reconstitution",
+    "Genealogy and identity",
+    "Religious order",
+    "Security and governance"
+  ],
+  "practicalQuestions": [
+    "How should modern communities balance security measures with openness and hospitality, as Nehemiah does with the gates?",
+    "What institutions or records today play the role that genealogies played for identity, rights, and responsibilities in this text?",
+    "How ought a community to handle members whose credentials or status are uncertain, especially regarding access to religious or civic roles?",
+    "In what ways can leaders encourage communal giving for public projects as modeled by the contributions recorded here?"
+  ],
+  "uncertainAreas": "Some details raise uncertainty: the precise relationship between this list and the parallel list in Ezra (variant numbers and ordering in manuscripts), the exact social status and origins of groups like the Nethinims and 'Solomon's servants,' and operational details of the Urim and Thummim. The term Tirshatha (governor) and its exact administrative implications in Persian policy are also open to interpretation.",
+  "createdAt": "2025-11-03T19:43:04.933Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

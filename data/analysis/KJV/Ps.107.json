@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.107",
+  "briefOverview": "A communal thanksgiving hymn that recounts several kinds of deliverance and calls the redeemed to praise God for steadfast mercy.",
+  "summary": "The psalm opens with an exhortation to thank the LORD because his mercy endures forever and identifies 'the redeemed' as those who should proclaim it. It presents a pattern repeated in several episodes: people in distress (wandering in the desert, imprisoned, sick, or endangered at sea) cry to the LORD, God delivers them, and the psalm urges that they praise him for his goodness. Imagery of broken chains, stilled storms, restored fertility, and social reversals emphasizes God's power over physical and political circumstances. The poem ends by calling the wise to attend and understand the LORD's lovingkindness, linking individual rescue to communal recognition and gratitude.",
+  "externalContext": "Psalm 107 begins Book V of the Psalter and functions as a liturgical thanksgiving hymn; its repeated refrain and varied episodes suggest use in communal worship or as a compilation of thanksgiving traditions. Many scholars view the language and themes (return from exile, restoration of land, sea commerce) as consistent with post-exilic Israelite experience, though the psalm itself is a patterned liturgical composition rather than a single historical narrative.",
+  "externalReferences": "The refrain 'for his mercy endureth for ever' echoes the language of the great Hallel and thanksgiving material such as Psalms 136. The theme of God healing and sending his word (v. 20) resonates with other psalms that link divine speech and restoration, for example Psalm 103:2–3. The motifs of breaking bars and freeing prisoners recall Israelite liberation traditions (cf. Exodus narratives) and other deliverance psalms like Psalm 18 and Psalm 34, which similarly pair danger, cry, and divine rescue.",
+  "seeAlso": [
+    "Psalms 136:1-3",
+    "Psalms 103:2-3",
+    "Psalms 34:4-7",
+    "Exodus 14:13-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call to Thanksgiving"
+    },
+    {
+      "range": "4-32",
+      "title": "Four Deliverance Episodes"
+    },
+    {
+      "range": "33-43",
+      "title": "Land Reversals and Conclusion"
+    }
+  ],
+  "themes": [
+    "Thanksgiving",
+    "Deliverance",
+    "Repentance",
+    "Divine Sovereignty"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways can my community remember and retell experiences of deliverance to foster gratitude?",
+    "How does the psalm link personal repentance with communal restoration, and what does that imply for pastoral care?",
+    "When facing 'storms' (literal or metaphorical), how might the pattern of cry, deliverance, and praise shape our response?",
+    "What practices help individuals and congregations recognize ‘reversals’ of fortune as occasions for justice and compassionate action?"
+  ],
+  "uncertainAreas": "Precise historical setting and date are uncertain (communal/post-exilic is plausible but not certain). The extent to which the episodes refer to Israel collectively versus diverse individual groups is open to interpretation. Some expressions (e.g., 'he sent his word') have theological nuances that admit multiple readings.",
+  "createdAt": "2025-11-03T22:14:06.928Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

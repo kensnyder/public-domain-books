@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.43",
+  "briefOverview": "A short individual lament that appeals to God for vindication, guidance back to the sanctuary, and closes with an inward summons to hope in God.",
+  "summary": "The speaker asks God to judge and plead his cause against ungodly and deceitful enemies and to deliver him from oppression. He protests that God, his strength, seems to have cast him off and expresses sorrow over his present state. The petitioner requests God's light and truth to lead him back to the 'holy hill' and the tabernacles (the place of worship). He promises that, once restored, he will go to God's altar and praise God with the harp. The psalm ends with an address to the speaker's own soul, calling it to hope in God because God is the source of his well-being and joy.",
+  "externalContext": "Psalms are part of the Hebrew worship tradition and often served both private and liturgical use; many are laments that move from complaint to trust. 'Holy hill' and 'tabernacles' evoke the Jerusalem sanctuary (Mount Zion) and its cultic structures, and petitions for divine vindication reflect Ancient Near Eastern legal imagery in which a deity vindicates the speaker. Psalm 43 is traditionally paired with Psalm 42 in the Hebrew text and in many manuscripts they form a single lament unit.",
+  "externalReferences": "Psalm 42 shares language and refrains with Psalm 43 (for example, the self-address 'Why art thou cast down, O my soul?' appears in Psalm 42:5,11), and many editions print them together. The desire to be brought to the 'holy hill' and to dwell in God's presence echoes Psalm 27:4 (the longing to behold the beauty of the Lord and dwell in His house) and the general theme of longing for the temple found in Psalm 84:1–4. Manuscript and liturgical traditions sometimes treat Psalms 42–43 as a single composition, which affects how scholars interpret their structure and historical setting.",
+  "seeAlso": [
+    "Psalm 42:1-11",
+    "Psalm 27:4",
+    "Psalm 84:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Plea for Vindication"
+    },
+    {
+      "range": "4-5",
+      "title": "Return to Worship and Hope"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Vindication",
+    "Worship",
+    "Hope"
+  ],
+  "practicalQuestions": [
+    "When you feel abandoned or oppressed, how do you express that honestly to God and community?",
+    "In what ways can returning to communal worship renew your hope and sense of belonging?",
+    "How do you balance seeking justice or vindication with trusting God's timing and care?",
+    "What practices help you speak faithfully to your own discouraged thoughts (self-exhortation)?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are not specified in the text; it is uncertain whether 'ungodly nation' refers to a foreign power, domestic opponents, or poetic personification. The relationship between Psalm 42 and 43 (whether originally one composition) and the precise nuance of phrases like 'health of my countenance' are matters of scholarly debate.",
+  "createdAt": "2025-11-03T21:43:14.558Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

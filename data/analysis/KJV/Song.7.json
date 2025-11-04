@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Song.7",
+  "briefOverview": "A lover’s vivid, sensuous praise of the beloved’s body and an invitation to intimate union set amid vineyard and garden imagery.",
+  "summary": "The speaker (traditionally the man) offers a sustained catalogue of erotic compliments, comparing the woman’s feet, thighs, navel, breasts, neck, eyes, nose, head, and hair to jewels, towers, trees, and fruit (verses 1–9). He declares mutual belonging — \"I am my beloved's\" — and invites her to go out into the fields and vineyards to enjoy love and its fruits (verses 10–13). The chapter mixes bodily praise with agricultural and garden images (palm tree, vines, pomegranates, mandrakes) that link sexual desire with fertility, pleasure, and seasonal abundance.",
+  "externalContext": "Song of Songs is part of the Hebrew Bible and belongs to the genre of ancient Near Eastern love and nuptial poetry, which commonly uses botanical and architectural metaphors to celebrate physical beauty and marital union. Mandrakes are known elsewhere in the Hebrew Bible (Genesis 30:14) and in ancient culture as associated with fertility or aphrodisiac properties, which helps explain their appearance in verse 13. The poem’s imagery reflects rural agrarian life (vineyards, pomegranates, palm trees) familiar to its original audience.",
+  "externalReferences": "The inventory of the beloved’s beauty and the theme of mutual possession echo other parts of this book, for example Song 4:1–5 and Song 6:4–10, where similar bodily metaphors and architectural language appear. The mandrake reference recalls Genesis 30:14, where mandrakes are linked to fertility and desire. The repeated affirmation of belonging (\"I am my beloved's\") resonates with Song 2:16 and 6:3.",
+  "seeAlso": [
+    "Song of Solomon 4:1-5",
+    "Song of Solomon 6:4-10",
+    "Song of Solomon 2:3-5",
+    "Song of Solomon 2:16",
+    "Song of Solomon 6:3",
+    "Genesis 30:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Praise of Her Body"
+    },
+    {
+      "range": "7-10",
+      "title": "Erotic Metaphors and Belonging"
+    },
+    {
+      "range": "11-13",
+      "title": "Invitation to the Vineyard"
+    }
+  ],
+  "themes": [
+    "Sensual love",
+    "Nature imagery",
+    "Mutual belonging",
+    "Fertility"
+  ],
+  "practicalQuestions": [
+    "How can modern couples speak about physical affection in ways that honor both sensuality and mutual respect?",
+    "In what ways do natural and agricultural metaphors deepen our appreciation of human intimacy?",
+    "How might religious communities integrate erotic celebration into teachings about marriage and commitment?",
+    "What boundaries and contexts are important when using poetic or metaphorical language about the body today?"
+  ],
+  "uncertainAreas": "Some images and phrases are ambiguous (e.g., \"the king is held in the galleries,\" the precise meaning of several geographic names like Heshbon and Bath-rabbim, and cultural nuances of terms such as \"mandrakes\"). It is not always clear which speaker is speaking in every line if voices shift, and whether the language should be read strictly as literal erotic praise, allegory, or both.",
+  "createdAt": "2025-11-03T22:58:46.320Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

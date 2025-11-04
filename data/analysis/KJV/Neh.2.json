@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Neh.2",
+  "briefOverview": "Nehemiah secures royal authorization and resources to rebuild Jerusalem, secretly inspects the ruined walls, mobilizes the people to begin reconstruction, and faces immediate hostility from neighboring leaders.",
+  "summary": "In the month Nisan, Nehemiah explains his sadness to King Artaxerxes, prays, and requests permission to go to Judah to rebuild Jerusalem. The king grants his request, provides letters for safe passage, and authorizes timber from the royal forest. Nehemiah travels to Jerusalem, conducts a secret nocturnal inspection of the broken walls, and then publicly calls the people to rebuild. The local leaders and inhabitants respond positively and begin strengthening themselves for the work. Nearby regional figures—Sanballat, Tobiah, and Geshem—mock and accuse them of rebellion, and Nehemiah counters by invoking the God of heaven and denying the opponents any legitimate claim in Jerusalem.",
+  "externalContext": "The narrative fits the Persian period administrative framework in which provincial travel and material requests required royal approval; ‘beyond the river’ refers to the Persian satraps west of the Euphrates. Nisan is a spring month in the Babylonian/Persian calendar; the king named is Artaxerxes (commonly identified as Artaxerxes I in scholarly tradition though exact identification can be debated). Rebuilding Jerusalem after the Babylonian destruction (late 6th century BCE) took place within a broader policy under Persian rulers that sometimes permitted exiled peoples to return and restore local institutions. Local opposition from neighboring governors and regional leaders is a recurring motif in postexilic literature and reflects regional politics and competing interests over territory and authority.",
+  "externalReferences": "Nehemiah 1 provides the earlier record of Nehemiah’s prayer and concern that motivates this mission. Ezra 7 describes a similar royal commission from Artaxerxes to Ezra and provides a parallel example of Persian permission and support for Judaean leaders. The background of Jerusalem’s ruined condition is narrated in 2 Kings 25 (the Babylonian destruction), and opposition to restoration projects recurs in Ezra 4 where regional officials contest rebuilding efforts.",
+  "seeAlso": [
+    "Nehemiah 1:1-11",
+    "Ezra 7:1-10",
+    "Ezra 4:1-5",
+    "2 Kings 25:8-26",
+    "Nehemiah 4:1-3",
+    "Nehemiah 6:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Request and Commission"
+    },
+    {
+      "range": "10-20",
+      "title": "Survey, Rally, Opposition"
+    }
+  ],
+  "themes": [
+    "Leadership",
+    "Restoration",
+    "Prayer",
+    "Opposition"
+  ],
+  "practicalQuestions": [
+    "How can I combine prayerful dependence on God with practical planning when undertaking a community project?",
+    "When is discretion (as in Nehemiah’s night inspection) appropriate, and when should one be transparent about plans?",
+    "What steps should we take to seek legitimate support from authorities or institutions for communal restoration?",
+    "How should communities respond to ridicule or political accusations while maintaining focus on their work?",
+    "How do we assess and protect the community’s rights and heritage in the face of competing claims?"
+  ],
+  "uncertainAreas": "Exact identification and regnal year of ‘Artaxerxes’ can be debated; the precise historical identities and political bases of Sanballat, Tobiah, and Geshem are not specified here; the nature and scope of the king’s timber provision and the officership of ‘Asaph’ are not detailed; motives of opponents (religious, political, or economic) are implied but not fully explained.",
+  "createdAt": "2025-11-03T19:40:53.756Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

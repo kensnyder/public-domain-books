@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "2Chr.10",
+  "briefOverview": "Rehoboam rejects the people's request for lighter burdens, chooses harsh counsel, and as a result the northern tribes break away from David's house.",
+  "summary": "Rehoboam is proclaimed king at Shechem and Jeroboam returns from Egypt. The people ask Rehoboam to lighten Solomon's heavy yoke; Rehoboam delays, seeks advice, and rejects the elders' conciliatory counsel in favor of the young men's harsher advice. He answers the people with threats to increase their burdens, and the response is immediate: Israel declares they have no part in David and withdraw to their tents. The chapter concludes with the fulfillment of earlier prophecy (Ahijah) as the ten northern tribes rebel and Rehoboam retains rule only over Judah and Benjamin, while Hadoram (the officer over levy) is stoned, forcing Rehoboam to flee to Jerusalem.",
+  "externalContext": "The narrative reflects the transition from a united monarchy to a divided Israel, traditionally dated to the 10th century BCE. Shechem functioned as a traditional assembly site in the hill country, suitable for acclamation of a new king. Heavy corvée labor and centralized building projects under Solomon (temple, city structures) provide plausible background for popular grievances; rival regional leaders (like Jeroboam) could rally discontent into secession. Ancient Near Eastern kings often relied on competing elite factions (older advisers, younger courtiers) for counsel and legitimacy.",
+  "externalReferences": "This chapter parallels and complements 1 Kings 12, which recounts the same events from a different perspective. The text explicitly links the split to the prophetic word given by Ahijah the Shilonite (see 1 Kings 11:29–39), which had foretold the division of the kingdom. The chapter also sits against the background of the Davidic covenant (2 Samuel 7:12–16), which shapes later theological reflection on why and how David's dynasty endures despite the schism.",
+  "seeAlso": [
+    "1 Kings 12",
+    "1 Kings 11:29-39",
+    "2 Samuel 7:12-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "The People's Petition"
+    },
+    {
+      "range": "5-15",
+      "title": "Counsel and Harsh Reply"
+    },
+    {
+      "range": "16-19",
+      "title": "Separation and Aftermath"
+    }
+  ],
+  "themes": [
+    "Leadership",
+    "Counsel",
+    "Division",
+    "Justice"
+  ],
+  "practicalQuestions": [
+    "Whose counsel do we seek when making important decisions, and how do we weigh experience against like-minded peers?",
+    "How should leaders respond to legitimate grievances from those they govern?",
+    "What safeguards can prevent escalation from policy disputes into lasting divisions?",
+    "How do communities hold leaders accountable without provoking destructive rebellion?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous the precise content and scope of the \"yoke\" (taxes, corvée labor, other burdens). Motives behind Rehoboam's choice—whether pride, inexperience, or political calculation—are not fully spelled out. There is also a minor textual/name variation (Hadoram/Adoram) and the chronicler's theological framing (\"for the cause was of God\") raises questions about the balance of divine sovereignty and human responsibility.",
+  "createdAt": "2025-11-03T19:21:46.218Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

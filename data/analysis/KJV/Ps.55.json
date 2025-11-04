@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.55",
+  "briefOverview": "A lament over intense personal distress and the betrayal of a close companion, coupled with a turn to prayer and trust in God and a call for divine justice.",
+  "summary": "The psalmist opens with an urgent plea for God to hear his prayer amid terror, physical anguish, and threats from enemies. He longs to escape (imagining flight like a dove) and then asks God to silence and judge those who spread violence and deceit in the city. The speaker laments most bitterly that his attacker is not a distant enemy but a trusted companion with whom he shared counsel and worship. The psalmist prays for swift ruin upon the treacherous, yet repeatedly affirms his own reliance on God, promising regular prayer and confidence that God will sustain and bring down the deceitful.",
+  "externalContext": "Psalms is an ancient Israelite collection of poems and prayers traditionally attributed in part to David; many individual psalms reflect experiences of court politics, personal danger, or exile. The term \"Selah\" appears twice (v.7, v.19) and is commonly understood as a liturgical or musical marking indicating a pause or musical interlude. Personal betrayal by someone close fits known realities of royal courts and factional conflicts in the ancient Near East, where allies could become political enemies.",
+  "externalReferences": "The motif of a trusted companion turning hostile echoes Psalm 41:9 (\"Even my close friend...\"), a passage later explicitly cited in John 13:18 in connection with Judas' betrayal of Jesus. The counsel to \"cast thy burden upon the LORD\" resonates with other biblical teachings of entrusting care to God (cf. Psalm 37:5). The psalm’s language of lament followed by trust parallels numerous other laments in the Psalter that move from complaint to confidence in divine help.",
+  "seeAlso": [
+    "Psalm 41:9",
+    "Psalm 37:5",
+    "John 13:18",
+    "Matthew 26:47-50"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Plea and Distress"
+    },
+    {
+      "range": "9-15",
+      "title": "Betrayal Lament"
+    },
+    {
+      "range": "16-23",
+      "title": "Prayer and Trust"
+    }
+  ],
+  "themes": [
+    "Betrayal",
+    "Prayer",
+    "Trust",
+    "Divine justice"
+  ],
+  "practicalQuestions": [
+    "When someone close betrays you, how can you balance seeking justice with maintaining inner trust in God?",
+    "What routines of prayer (like morning, noon, evening) might help sustain confidence in difficult times?",
+    "How should a community respond to deceit and violence within its midst while preserving peace?",
+    "In what ways can one \"cast their burden\" onto God practically when overwhelmed by fear or grief?"
+  ],
+  "uncertainAreas": "The specific historical situation and identity of the \"man mine equal\" are not given; it is unclear whether the complaint refers to a political rival, a personal friend, or a combination. The precise meaning and liturgical function of \"Selah\" remain debated.",
+  "createdAt": "2025-11-03T21:48:39.457Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

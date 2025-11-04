@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.138",
+  "briefOverview": "A short thanksgiving psalm that offers wholehearted praise for God's faithful answering and protection, celebrating God's care for the lowly despite his exalted status.",
+  "summary": "The psalmist commits to wholehearted praise before other 'gods' and at the temple, thanking God for his lovingkindness and truth and declaring that God has magnified his word above his name. The speaker testifies that God answered when called and strengthened his soul. He anticipates that all earthly kings will praise the LORD when they hear God's words, and affirms God's great glory. The psalmist contrasts God's exalted position with his attentive regard for the lowly and affirms God's saving help in times of trouble. The closing verse expresses confidence that the LORD will bring to completion what concerns the psalmist and pleads that God's enduring mercy will not abandon his own work.",
+  "externalContext": "In Israelite worship the temple and the speaking of God's word were central; phrases like 'I will worship toward thy holy temple' fit cultic or pilgrimage settings where orientation toward the temple accompanied prayer. Jewish and Christian tradition often ascribe many psalms to David, and Psalms of thanksgiving rooted in answered prayer were commonly used in communal and private devotion. The language of kings praising God and of God's concern for the lowly reflects wider biblical royal and wisdom themes about the universal scope of Yahweh's reign and his special regard for the humble.",
+  "externalReferences": "The theme of God answering prayer and prompting thanksgiving parallels Psalms 116:1–2, where the speaker thanks God for hearing his voice. The portrayal of God as exalted yet caring for the lowly echoes Psalms 113:5–8. The idea that rulers will acknowledge and praise God when they hear his words is thematically related to Psalms 72:11, which envisions kings bowing to God.",
+  "seeAlso": [
+    "Psalms 116:1-2",
+    "Psalms 113:5-8",
+    "Psalms 72:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Praise and Thanksgiving"
+    },
+    {
+      "range": "6-8",
+      "title": "Help and Assurance"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Thanksgiving",
+    "Divine faithfulness",
+    "Humility"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate whole‑hearted praise in private and communal worship?",
+    "When facing trouble, how do I recall concrete ways God has answered in the past to sustain hope now?",
+    "In what ways can we reflect God's regard for the lowly in our actions and policies?",
+    "How does the assurance that God 'will perfect that which concerneth me' affect how I plan and act?"
+  ],
+  "uncertainAreas": "The psalm text here lacks any superscription attributing it to a particular author or setting, so authorship and precise cultic context (private prayer vs. temple liturgy vs. pilgrimage) are uncertain. The phrase 'magnified thy word above all thy name' is theologically striking but ambiguous in meaning and has been interpreted variously (e.g., God's promises honored above reputation, or the priority of revealed word); the exact nuance is not explicit. The reference to 'the gods' in verse 1 could mean heavenly beings, human rulers, or idolaters, and the text does not clarify which is intended.",
+  "createdAt": "2025-11-03T22:27:42.428Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

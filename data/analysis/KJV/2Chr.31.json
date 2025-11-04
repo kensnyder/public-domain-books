@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "2Chr.31",
+  "briefOverview": "The chapter describes Hezekiah's religious reforms that remove idolatry and reorganize temple worship, with the people responding by bringing abundant offerings and tithes.",
+  "summary": "After the reforms, the people of Judah (and some in Ephraim and Manasseh) destroy idols and high places and return to their cities. Hezekiah arranges the priests' and Levites' courses and secures royal provisions for the daily, Sabbath, new moon, and festival offerings according to the law. He commands the people of Jerusalem to support the priests and Levites, and the people respond by bringing plentiful firstfruits, tithes of produce and animals, and consecrated things. The contributions are piled and inventoried from the third to the seventh month; on seeing the stores Hezekiah and the leaders bless the LORD. Hezekiah then establishes chambers in the temple, appoints officials and overseers to manage and distribute offerings to priests, Levites and their families by genealogical order and age, and the chapter closes by commending Hezekiah's wholehearted devotion and success in these reforms.",
+  "externalContext": "Hezekiah ruled Judah in the late 8th century BCE during the rise of Assyria; his reign is often associated with attempts to centralize Yahwistic worship in Jerusalem after a period of syncretism and idolatry. Temple worship, firstfruits, and tithes are practices rooted in the Torah and were institutional means of supporting priests and Levites who had no land inheritance. Organizing temple service into courses and preserving genealogical records reflect priestly and cultic concerns common in post-exilic and Deuteronomistic reform narratives.",
+  "externalReferences": "This chapter continues the program of reform already described in 2 Chronicles 29–30, where Hezekiah restores the temple and reinstitutes the Passover. Parallel material appears in 2 Kings 18 which summarizes Hezekiah’s reforms and his removal of high places. The chapter’s reference to offerings for sabbaths, new moons, and feasts resonates with the sacrificial regulations in Numbers 28–29 and with instructions about firstfruits and tithes in Deuteronomy (e.g., Deuteronomy 14:22–29; 26:1–11).",
+  "seeAlso": [
+    "2 Chronicles 29:3-36",
+    "2 Chronicles 30",
+    "2 Kings 18:1-8",
+    "Numbers 28-29",
+    "Deuteronomy 14:22-29",
+    "Deuteronomy 26:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Removal and Offerings"
+    },
+    {
+      "range": "8-21",
+      "title": "Temple Administration"
+    }
+  ],
+  "themes": [
+    "Worship Reform",
+    "Stewardship",
+    "Institutional Order",
+    "Piety"
+  ],
+  "practicalQuestions": [
+    "How should a religious community organize and fund its leaders and public worship today in ways that reflect accountability and generosity?",
+    "What steps are needed to remove practices that distract from core worship and restore communal priorities?",
+    "How can leaders encourage voluntary giving so it is abundant but also faithfully managed and distributed?",
+    "In what ways can worship reforms balance centralized standards with local participation and oversight?"
+  ],
+  "uncertainAreas": "Uncertainty about whether the references to Ephraim and Manasseh indicate returned northern Israelites or simply regions under Judah’s religious influence; the precise legal texts Hezekiah cites by \"the law of the LORD\" (though Numbers and Deuteronomy are plausible); and some specifics of the logistics (how heaps were stored and managed between the third and seventh months) are not detailed in the chapter.",
+  "createdAt": "2025-11-03T19:32:20.905Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

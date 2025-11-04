@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.33",
+  "briefOverview": "A liturgical call to praise that celebrates God's righteous rule, creative word, and attentive care for those who fear him. The psalm contrasts human power with divine sovereignty and urges trust in God's mercy.",
+  "summary": "The psalm opens with an exhortation for the righteous to praise God with song and instruments (vv. 1–3). It affirms that the word of the LORD is right, that God loves justice, and that by his word he created the heavens and gathered the seas (vv. 4–7). Because God speaks and his commands stand fast, all the earth should stand in awe of him (vv. 8–9). The LORD frustrates the plans of nations while his own counsel endures, and the psalm pronounces blessing on the nation whose God is the LORD (vv. 10–12). Finally, it depicts God watching from heaven, fashioning human hearts, denying deliverance by mere military might, and promising deliverance, protection, and joy to those who fear and hope in him (vv. 13–22).",
+  "externalContext": "Psalm 33 belongs to the Hebrew Psalter, a collection of poems and hymns used in Israelite public and private worship; many psalms were performed with harps and stringed instruments as noted here. The theology of creation by divine speech echoes ancient Near Eastern motifs and the Genesis creation narrative (e.g., God brings things into being by speaking). The emphasis on God’s control over nations and military power reflects a common prophetic and wisdom concern in Israel about trusting God rather than weapons or alliances. Exact authorship and dating are not given in the text and scholars date individual psalms across a broad period.",
+  "externalReferences": "The claim that the heavens were made 'by the word of the LORD' echoes the creative acts in Genesis 1, where God speaks creation into being (Genesis 1:1–3). The warning that 'an horse is a vain thing for safety' and the rejection of reliance on military power parallels prophetic critiques of trusting in horses and chariots (see Isaiah 31:1). Other Psalms that celebrate God’s creative rule and providence (e.g., Psalm 104; Psalm 148) provide close thematic parallels to this poem.",
+  "seeAlso": [
+    "Genesis 1:1-3",
+    "Isaiah 31:1",
+    "Psalm 104",
+    "Psalm 148"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call to Praise"
+    },
+    {
+      "range": "4-11",
+      "title": "God's Creative Sovereignty"
+    },
+    {
+      "range": "12-22",
+      "title": "Providence and Trust"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Creation",
+    "Sovereignty",
+    "Trust"
+  ],
+  "practicalQuestions": [
+    "How does praising God in communal worship shape our confidence in his sovereignty today?",
+    "In what ways am I tempted to trust human strength rather than seek God's protection?",
+    "How can the image of God 'looking from heaven' encourage care for vulnerable people in famine or distress?",
+    "What practices help a community cultivate hope in God’s mercy and faithful counsel?"
+  ],
+  "uncertainAreas": "Authorship and precise dating of this psalm are not specified in the text. Some phrases (e.g., 'fashioneth their hearts alike') admit multiple readings — whether emphasizing divine knowledge, common humanity, or sovereign shaping of dispositions — and the poem’s relation to specific historical events or liturgical settings is not explicit.",
+  "createdAt": "2025-11-03T21:39:20.768Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

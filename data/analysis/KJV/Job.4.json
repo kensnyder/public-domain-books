@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Job.4",
+  "briefOverview": "Eliphaz the Temanite answers Job by insisting that suffering normally signals guilt and supports his claim with a frightening nocturnal vision that affirms God's justice.",
+  "summary": "Eliphaz begins by addressing Job respectfully, recalling how Job once strengthened others but now is himself afflicted. He frames Job’s suffering as unexpected given Job’s prior reputation and argues rhetorically that the innocent do not perish while the wicked reap what they sow. Using imagery of lions and destruction, he asserts a general principle of divine retribution. He then reports a troubling night vision in which a spirit asked whether mortals can be more just than God and stressed human frailty and the transient nature of human life.",
+  "externalContext": "Eliphaz is identified as a Temanite, linking him to the Edomite wisdom tradition (Teman was famed for sages in the ancient Near East). The book belongs to the wisdom literature genre, where debates about the moral order of the world and the link between righteousness and prosperity were common. In the ancient Israelite and Near Eastern contexts, a strong expectation of retributive justice—good rewarded, evil punished—was a prevailing theological assumption that underlies Eliphaz’s argument.",
+  "externalReferences": "This speech immediately follows Job’s opening lament and his prior characterization as blameless and prosperous in Job 1:1, which is why Eliphaz finds the suffering striking. Job’s own lament and cursing of his birth in Job 3 provides the context for the friends’ responses. Later, God rebukes Job’s friends for not speaking rightly about Him (Job 42:7), a judgment that frames how their speeches, including Eliphaz’s, are to be read.",
+  "seeAlso": [
+    "Job 1:1-22",
+    "Job 3:1-26",
+    "Job 42:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Opening Address"
+    },
+    {
+      "range": "7-11",
+      "title": "Retribution Argument"
+    },
+    {
+      "range": "12-21",
+      "title": "Night Vision"
+    }
+  ],
+  "themes": [
+    "Retributive justice",
+    "Human frailty",
+    "Suffering",
+    "Vision"
+  ],
+  "practicalQuestions": [
+    "When comforting someone who suffers, how can I avoid assuming their suffering is a punishment for sin?",
+    "How should communities balance belief in moral order with compassion when members face unexplained hardship?",
+    "What role should personal experience or dreams play in forming theological claims or advising others?",
+    "How can we speak truthfully without alienating or blaming those in pain?"
+  ],
+  "uncertainAreas": "Whether Eliphaz intends genuinely pastoral counsel or a thinly veiled accusation is ambiguous; the degree to which his dream is presented as divinely authoritative versus rhetorical support is also unclear. The cultural specifics of Temanite wisdom and how representative Eliphaz’s retribution theology was across Israelite circles remain interpretive uncertainties.",
+  "createdAt": "2025-11-03T19:52:56.731Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.26",
+  "briefOverview": "A psalmic plea for divine judgment and vindication as the speaker asserts personal integrity, ritual purity, and separation from the wicked while expressing love for God’s house and desire to worship.",
+  "summary": "The speaker opens by asking the LORD to judge and test him, affirming that he has walked in integrity and trust (vv.1–3). He insists he avoids corrupt company and deceitful people and will not associate with evildoers (vv.4–5). The psalmist speaks of ceremonial washing of hands and approaching the altar so he may thank God and recount his wondrous deeds (vv.6–8). He pleads not to be gathered with sinners, describing the corrupt as those whose hands are full of bribes and violence, and asks for redemption and mercy (vv.9–11). The poem closes with a confident affirmation that his feet stand on a level place and that he will bless the LORD in the assembly (v.12).",
+  "externalContext": "This psalm is traditionally attributed to David in the superscription of some Hebrew manuscripts, and it reflects Israelite cultic life centered on the temple or sanctuary, where purity and proper ritual approach to the altar mattered. The language of inward testing (\"reins\" and \"heart\") is typical of ancient Near Eastern idioms for the inner self, and ceremonial washing before coming to the altar recalls priestly purity regulations in the Pentateuch.",
+  "externalReferences": "The concern for personal moral suitability for God's presence echoes Psalm 15:1–5 and Psalm 24:3–6, which ask who may dwell on God's hill or stand in his holy place. The explicit image of washing hands before the altar is resonant with priestly injunctions for cleansing in Exodus 30:19–21 and with broader biblical calls to \"wash\" and be clean (e.g., Isaiah 1:16) as preparation for worship.",
+  "seeAlso": [
+    "Psalm 15:1-5",
+    "Psalm 24:3-6",
+    "Exodus 30:19-21",
+    "Isaiah 1:16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Plea and Integrity"
+    },
+    {
+      "range": "4-8",
+      "title": "Separation and Purity"
+    },
+    {
+      "range": "9-12",
+      "title": "Vindication and Worship"
+    }
+  ],
+  "themes": [
+    "Integrity",
+    "Purity",
+    "Worship",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "How might I invite honest self-examination in my spiritual life as the psalmist requests God’s testing?",
+    "In what ways should personal integrity shape the relationships and communities I join or avoid?",
+    "How do rituals or practices (like washing/ preparation) help me approach communal worship with reverence?",
+    "When I feel wrongly judged or associated with wrongdoing, how can I seek vindication while pursuing mercy and humility?"
+  ],
+  "uncertainAreas": "The psalm does not identify the specific situation prompting the plea (legal accusation, communal conflict, liturgical use), so the historical setting and the intended addressees of the complaint are uncertain. It is also ambiguous whether the washing is primarily literal priestly ritual or a more general symbolic image of purity.",
+  "createdAt": "2025-11-03T21:36:54.301Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "1Chr.28",
+  "briefOverview": "David publicly charges Solomon to build the LORD’s temple, gives him the divine plan and material resources, and exhorts him to faithful leadership.",
+  "summary": "David assembles Israel’s leaders and explains that, though he desired to build a permanent house for the ark, God prohibited him because he was a man of war and instead chose Solomon for the task. He declares that God has chosen Solomon, promises divine fatherhood and the conditional establishment of Solomon’s kingdom, and urges the people to keep the LORD’s commandments to secure the land for their descendants. David hands Solomon the detailed pattern for the temple, its courts, chambers, treasuries, and the arrangement of priestly and Levitical service, along with gold and silver assigned for the sacred vessels. He emphasizes that these plans were revealed to him by the spirit or by God’s hand, and he charges Solomon to be strong, courageous, wholehearted in serving God, promising divine presence and support. Finally David assures Solomon that skilled workers, priests, Levites, princes, and the people will be at his command to complete the work.",
+  "externalContext": "1 Chronicles was written in a postexilic context with strong interest in the temple, the cult, and the Davidic line; the Chronicler reworks earlier narratives to highlight priestly and temple concerns. The historical event reflected here—Solomon’s construction of the temple—belongs to the united monarchy period (10th century BCE) as narrated elsewhere, but Chronicles addresses a later community for whom temple worship and correct liturgy were central.",
+  "externalReferences": "This chapter closely parallels and reinterprets material in 2 Samuel 7 (David’s desire to build a house for God and God’s promise concerning David’s offspring) and the account of Solomon’s temple-building in 1 Kings 5–8. The exhortation to be “strong and of good courage” echoes language used in Joshua 1:6–9 for leadership transition and faithful obedience. The promise that God will be a father to Solomon corresponds to 2 Samuel 7:14.",
+  "seeAlso": [
+    "2 Samuel 7:1-17",
+    "1 Kings 5:1-6:38",
+    "1 Kings 8:1-21",
+    "Joshua 1:6-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "David's Charge to Solomon"
+    },
+    {
+      "range": "11-19",
+      "title": "Plans and Contributions"
+    },
+    {
+      "range": "20-21",
+      "title": "Encouragement and Support"
+    }
+  ],
+  "themes": [
+    "Leadership Succession",
+    "Temple Worship",
+    "Divine Guidance",
+    "Obedience"
+  ],
+  "practicalQuestions": [
+    "How can current leaders responsibly pass vision, authority, and practical plans to successors?",
+    "What does serving God 'with a perfect heart and a willing mind' look like in contemporary communal worship and leadership?",
+    "How should communities prepare and allocate resources for shared sacred projects while preserving accountability?",
+    "In what ways can the promise of divine presence (do not be dismayed) shape responses to daunting tasks today?"
+  ],
+  "uncertainAreas": "It is unclear whether phrases like 'made me understand in writing by his hand upon me' should be read as a literal written revelation, a visionary experience, or a literary formula. The Chronicler’s theological shaping of earlier sources (e.g., 2 Samuel) raises questions about which details reflect historical events versus editorial emphasis on temple and priestly concerns.",
+  "createdAt": "2025-11-03T19:15:37.255Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

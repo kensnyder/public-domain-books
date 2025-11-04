@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.68",
+  "briefOverview": "A triumphal liturgical poem celebrating God's victory, care for the vulnerable, and his enthronement among the nations. It blends divine-warrior imagery with communal praise and prophetic memory of Sinai and the wilderness.",
+  "summary": "The psalm opens with a call for God to arise and scatter his enemies, juxtaposing judgement on the wicked with joy for the righteous. It portrays God as protector of the fatherless, widows, and the lonely, and recalls God's leading of Israel through the wilderness and the terrifying presence at Sinai. The text describes a victorious procession in which kings flee, spoils are divided, and gifts are received; the poet declares that God has ascended and “led captivity captive,” bringing gifts to people. There is a call for congregational praise, mention of tribal leaders and Jerusalem’s temple, and a prophetic vision of foreign princes bringing tribute and nations singing God’s praises. The psalm closes by ascribing strength and terror to God in his holy places and blessing him as the source of power for his people.",
+  "externalContext": "Psalm 68 fits within ancient Near Eastern royal and liturgical traditions that celebrate a deity’s victory and procession; such psalms were used in public worship and possibly in coronation or ark-procession contexts. Imagery like divine chariots, mountains trembling, and kings bringing gifts is common in Israelite victory songs and parallels other ANE war and enthronement motifs. The term Selah likely marks a liturgical pause or musical instruction, indicating this psalm was a performed piece rather than only private reading.",
+  "externalReferences": "The depiction of Sinai and the earth shaking echoes Exodus 19:18 and theophanic language surrounding Moses’ experience at Sinai. The motif of God going before his people and a victorious procession has been associated with the ark-transfer narratives in 2 Samuel 6 and related cultic celebrations in the Deuteronomistic history. The phrase translated “thou hast ascended on high, thou hast led captivity captive” is quoted and reinterpreted in Ephesians 4:8 in the New Testament, where it is applied to Christ’s triumph and bestowal of gifts.",
+  "seeAlso": [
+    "Exodus 19:18",
+    "2 Samuel 6:1-15",
+    "Ephesians 4:8",
+    "Psalm 24:7-10",
+    "Psalm 47:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Invocation and Justice"
+    },
+    {
+      "range": "7-18",
+      "title": "Divine March and Victory"
+    },
+    {
+      "range": "19-35",
+      "title": "Praise and Nations Subdued"
+    }
+  ],
+  "themes": [
+    "Divine kingship",
+    "Divine warrior",
+    "Care for vulnerable",
+    "Worship procession"
+  ],
+  "practicalQuestions": [
+    "How should communities embody the psalm’s portrayal of God as defender of orphans and widows in contemporary social practice?",
+    "How can readers reconcile or interpret the psalm’s violent imagery of enemies being scattered with ethical commitments to peace and justice?",
+    "In what ways can liturgical remembrance (processions, communal song) shape a community’s sense of identity and mission today?",
+    "What does the psalm’s expectation that nations will bring gifts suggest about religious openness and the inclusion of outsiders in worship?"
+  ],
+  "uncertainAreas": "The original historical setting is unclear—scholars debate whether this is an ark-procession, coronation, or general victory hymn. Some proper names (e.g., Salmon, Bashan) and numeric images (e.g., “chariots of God are twenty thousand”) are poetic and open to symbolic or localized readings rather than precise historical reference.",
+  "createdAt": "2025-11-03T21:54:50.705Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

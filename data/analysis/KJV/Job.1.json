@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.1",
+  "briefOverview": "Introduction to Job’s integrity and the heavenly challenge that tests his righteousness through successive calamities.",
+  "summary": "The chapter introduces Job, a wealthy and devout man from Uz, described as perfect, upright, God‑fearing, and habitually offering sacrifices on behalf of his children (1–5). A scene in the divine council follows, where the figure called 'Satan' questions Job's motives for fearing God; God permits Satan to test Job's possessions but forbids harming Job himself (6–12). Messengers then report four rapid disasters—theft and slaughter by Sabeans, fire from heaven destroying sheep, Chaldeans raiding the camels, and a wind collapsing the house that kills Job’s children—leaving Job bereft (13–19). Job responds by mourning, worshiping, and declaring God’s sovereignty: 'The LORD gave, and the LORD hath taken away,' and he does not sin or speak foolishly against God (20–22).",
+  "externalContext": "The narrative reflects an ancient Near Eastern worldview in which prosperity often signaled divine favor and misfortune was commonly read as divine punishment; this makes Job’s plight and the heavenly debate theologically provocative. The phrase 'sons of God' appears in other ancient Israelite texts (e.g., Genesis 6:1–4) and likely denotes divine beings in a celestial council setting. The Hebrew term 'ha‑satan' (the adversary/accuser) in this period functions more as a role within the divine court than as the later developed figure of Satan in intertestamental and Christian literature.",
+  "externalReferences": "The phrase 'sons of God' parallels Genesis 6:1–4, where a similar term appears in a divine assembly context, suggesting a shared imagery of heavenly beings. The later New Testament explicitly cites Job’s endurance as exemplary (James 5:11) when discussing patient suffering. The contrast between blessing for obedience and curse for disobedience elsewhere in Israelite law (see Deuteronomy 28:1–14 and 28:15–68) helps explain why Job’s prosperity is initially presented as evidence of divine favor—making his subsequent suffering theologically challenging. The immediate narrative continuation and further testing of Job appear in Job 2:1–10, which expands the accusation and permits attacks on Job’s body.",
+  "seeAlso": [
+    "Genesis 6:1-4",
+    "Job 2:1-10",
+    "James 5:11",
+    "Deuteronomy 28:1-14",
+    "Deuteronomy 28:15-68"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Job's Piety and Prosperity"
+    },
+    {
+      "range": "6-12",
+      "title": "Heavenly Council Challenge"
+    },
+    {
+      "range": "13-22",
+      "title": "Disasters and Response"
+    }
+  ],
+  "themes": [
+    "Suffering",
+    "Divine testing",
+    "Righteousness",
+    "Divine council"
+  ],
+  "practicalQuestions": [
+    "When we experience sudden loss, how can Job’s example of worship and measured speech shape our response?",
+    "How should communities interpret misfortune: as punishment, mystery, or test—and what pastoral practices follow from that interpretation?",
+    "What responsibilities do we have to intercede or make ritual amends for others, as Job did by offering sacrifices for his children?",
+    "How can we hold together belief in divine sovereignty with compassion for those who suffer without apparent cause?"
+  ],
+  "uncertainAreas": "Identity and role of 'Satan' (ha‑satan) — whether a member of a divine council or a personalized devil — is uncertain. The precise location and historical setting of Uz are unclear. The narrative’s intent (historical report vs. theological/poetic device) and whether the calamities are direct divine acts or permitted by God are open to interpretation.",
+  "createdAt": "2025-11-03T19:51:43.157Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.109",
+  "briefOverview": "An imprecatory psalm that mixes urgent complaint against false enemies with fierce petitions for divine judgment and a final plea for God's saving mercy.",
+  "summary": "The speaker accuses dishonest and hostile opponents who besiege him with lies and hatred, despite his goodwill and prayer (vv.1–5). He calls on God to place a wicked man over his enemy and petitions for a catalogue of curses on that adversary and his descendants (vv.6–20), describing the supposed deservingness of such punishment because the enemy showed no mercy and persecuted the needy (vv.16–19). The psalmist then appeals to God’s mercy for deliverance, portrays his own poverty and suffering, and asks that God’s intervention be clearly seen so that the wicked are put to shame while he is vindicated (vv.21–29). It closes with a vow of praise and the affirmation that God will stand at the right hand of the poor to save them (vv.30–31).",
+  "externalContext": "Imprecatory psalms like this one are a recognized part of ancient Israelite prayer and reflect a cultural context where calling down curses could function as an appeal for divine justice when human courts failed. The Hebrew word translated 'Satan' in v.6 (ha-satan) originally means 'the adversary' or 'accuser' and only later develops into the fuller theological figure found in later Jewish and Christian writings. Ancient petitions for collective or generational judgment should be read against a worldview that often links familial lineage and divine retribution more closely than modern individualistic ethics do.",
+  "externalReferences": "Psalm 35, Psalm 69, and Psalm 137 contain comparable imprecatory material and laments directed against persecutors. Acts 1:20 explicitly cites Psalm 69:25 and Psalm 109:8 in the New Testament account of the early church applying these words to Judas Iscariot. The language of an adversary/accuser resonates with Job and Zechariah (e.g., Job's legal-style complaints; Zechariah’s figure of an accuser), though the theological role of 'Satan' differs across texts.",
+  "seeAlso": [
+    "Psalm 35",
+    "Psalm 69",
+    "Psalm 137",
+    "Acts 1:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Complaint and Persecution"
+    },
+    {
+      "range": "6-20",
+      "title": "Imprecations on the Enemy"
+    },
+    {
+      "range": "21-31",
+      "title": "Plea for Mercy and Praise"
+    }
+  ],
+  "themes": [
+    "Imprecation",
+    "Justice",
+    "Persecution",
+    "Trust/Deliverance"
+  ],
+  "practicalQuestions": [
+    "How should we interpret and respond to ancient prayers for vengeance in light of contemporary ethics about forgiveness and justice?",
+    "When facing false accusation or hostility today, how can we balance honest lament with constructive action and prayer?",
+    "What does this psalm teach about God’s concern for the poor and vulnerable, and how should that shape communal priorities?",
+    "How can communities responsibly use strong, emotional Scripture passages like this without endorsing personal revenge?"
+  ],
+  "uncertainAreas": "Identity of the specific adversary and the psalm’s historical setting are unclear; the meaning and force of the imprecations (personal revenge vs. legal/poetic appeal to divine justice) admit more than one interpretation; the term translated 'Satan' may reflect different theological nuance than later tradition.",
+  "createdAt": "2025-11-03T22:15:06.052Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

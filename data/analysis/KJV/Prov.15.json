@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Prov.15",
+  "briefOverview": "A collection of short wisdom sayings contrasting wise and foolish speech, conduct, and motives, emphasizing the moral and social consequences of words and attitudes.",
+  "summary": "Proverbs 15 presents paired sayings that contrast the outcomes of wise versus foolish speech and behavior: gentle answers calm anger while harsh words provoke it, and the righteous and wicked differ in speech, prayer, and relationship with God. The chapter stresses the moral visibility of human action (\"the eyes of the LORD are in every place\") and links wholesome speech to life while perverseness harms the spirit. It exhorts openness to correction, the value of humility and counsel, and the importance of a joyful heart over material abundance. Recurrent themes include the dangers of pride and greed, the benefits of restraint and timely words, and the centrality of the fear of the LORD as the root of wisdom.",
+  "externalContext": "Proverbs belongs to the ancient Near Eastern wisdom tradition and, while traditionally linked to Solomon, was compiled over time (broadly in the first millennium BCE). Proverbs collects short, memorable maxims intended for instruction in household and community life; its parallelism and antithetical couplets reflect common Israelite literary techniques and resemble Egyptian and Mesopotamian wisdom sayings.",
+  "externalReferences": "The emphasis on the fear of the LORD echoes Proverbs 1:7, which identifies fear of the LORD as the beginning of knowledge. The link between righteous speech as life and the opposite for the wicked parallels Proverbs 10:11 (\"The mouth of the righteous is a fountain of life\"). The idea that God’s eyes search all places is similar in wording and theme to Psalm 11:4–5, where the LORD’s eyes and testing of hearts are affirmed.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 10:11",
+    "Psalm 11:4-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Speech and Conduct"
+    },
+    {
+      "range": "12-21",
+      "title": "Heart and Attitude"
+    },
+    {
+      "range": "22-33",
+      "title": "Counsel and Reverence"
+    }
+  ],
+  "themes": [
+    "Wisdom vs Folly",
+    "Speech",
+    "Righteousness",
+    "Fear of the LORD"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate 'soft answers' in heated conversations to defuse anger instead of escalating it?",
+    "In what ways do my words encourage life or harm relationships, and how can I practice more wholesome speech?",
+    "How do I respond to correction and reproof today—do I avoid it or receive it as instruction toward growth?",
+    "Whom do I consult for important decisions, and how can I build a circle of trustworthy counselors?"
+  ],
+  "uncertainAreas": "Authorship and exact date of compilation are uncertain (traditional Solomonic attribution vs later editorial layering). Some terms are ambiguous—e.g., \"hell and destruction\" may refer to Sheol, divine judgment, or general ruin—and \"fear of the LORD\" encompasses a range from reverent trust to covenantal obedience, which the text does not fully define.",
+  "createdAt": "2025-11-03T22:40:40.948Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

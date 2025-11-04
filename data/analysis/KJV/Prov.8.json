@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Prov.8",
+  "briefOverview": "Wisdom speaks in the first person, inviting people to heed her instruction, asserting her moral and social authority, and describing her presence at the foundation of creation.",
+  "summary": "A personified Wisdom calls out publicly for the simple and foolish to receive instruction, insisting her words are truthful, righteous, and superior to wealth. She describes herself as the source of counsel, strength, and lawful rule—by her kings and judges govern rightly—and promises blessings and durable riches to those who love and seek her. Wisdom then speaks of having been with the LORD ‘in the beginning,’ present and rejoicing while the heavens and earth were prepared. The chapter closes with a renewed exhortation to hear and keep Wisdom’s ways, warning that rejecting wisdom harms oneself and leads to death.",
+  "externalContext": "Proverbs belongs to the Hebrew wisdom tradition (first millennium BCE) in which abstract qualities are often personified to teach moral and social norms. Personifying wisdom as a woman (Hebrew chokhmah) is a common ancient Near Eastern rhetorical device used to present instruction attractively. The language about Wisdom’ s presence at creation reflects a poetic way of linking moral order with the cosmic order and likely grew within Israelite reflection on God’s ordering of the world.",
+  "externalReferences": "Proverbs 1:20–33 and Proverbs 9:1–6 present closely parallel personifications of Wisdom calling in public and inviting people to learn. Proverbs 3:13–18 similarly values wisdom above wealth and describes wisdom as a source of life. Job 28 reflects other Israelite treatments of the problem of locating wisdom, and Psalms such as Psalm 104 celebrate God’s ordering of creation in ways thematically related to Wisdom’s role in the cosmos.",
+  "seeAlso": [
+    "Proverbs 1:20-33",
+    "Proverbs 9:1-6",
+    "Proverbs 3:13-18",
+    "Job 28:12-28",
+    "Psalm 104:24"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Public Call"
+    },
+    {
+      "range": "12-21",
+      "title": "Authority & Benefits"
+    },
+    {
+      "range": "22-31",
+      "title": "Presence at Creation"
+    },
+    {
+      "range": "32-36",
+      "title": "Final Exhortation"
+    }
+  ],
+  "themes": [
+    "Personified Wisdom",
+    "Creation",
+    "Righteousness",
+    "Instruction"
+  ],
+  "practicalQuestions": [
+    "How do I value and pursue wisdom when it conflicts with pursuing wealth or status?",
+    "In what concrete ways can leaders seek wise counsel so their decisions promote justice?",
+    "How might seeing wisdom as present in creation shape my ethics toward the environment and society?",
+    "What routines or practices would help me 'seek wisdom early' and heed instruction daily?"
+  ],
+  "uncertainAreas": "Verses 22–31 are difficult: the language about Wisdom being 'possessed' or 'brought forth' in the beginning has been read variously as metaphorical personification, a poetic way of saying wisdom existed with God, or (in some traditions) as indicating a distinct preexistent figure; the text itself does not define the metaphysical status conclusively. Some terms and translations (e.g., 'brought forth' vs. 'possessed') affect interpretation, and the scope of Wisdom’s social role (personal guidance versus institutional authority) is somewhat open to contextual reading.",
+  "createdAt": "2025-11-03T22:37:01.185Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

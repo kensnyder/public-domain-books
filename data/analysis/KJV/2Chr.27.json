@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "2Chr.27",
+  "briefOverview": "A brief account of King Jotham’s sixteen-year reign in Judah, highlighting his relative righteousness, building projects, military success, and succession by his son Ahaz.",
+  "summary": "Jotham began to reign at age twenty-five and ruled sixteen years in Jerusalem. He is described as doing what was right before the LORD, following the example of his father Uzziah, though he did not enter the temple; despite his personal faithfulness the people remained corrupt. Jotham undertook significant building projects, repairing the temple gate, strengthening the Ophel, and building cities, towers, and fortifications in the hills and forests of Judah. He fought successfully against the king of the Ammonites, who paid tribute in silver and grain for several years, and Jotham prospered as he 'prepared his ways before the LORD.' The chapter ends by referring readers to fuller records in the book of the kings and notes his burial in the City of David and the succession of his son Ahaz.",
+  "externalContext": "Jotham ruled in the divided monarchy period (roughly 8th century BCE), when Judah and Israel were separate kingdoms and interactions with neighboring states like Ammon were common. The mention of tribute payments and building projects fits broader ancient Near Eastern patterns where military success enabled state-building and economic consolidation. The reference to his mother as daughter of Zadok points to connections with a prominent priestly lineage; priestly families often reinforced royal legitimacy.",
+  "externalReferences": "The account of Jotham parallels the summary in 2 Kings 15:32–38, which provides a related regnal notice. The omission of entrance to the temple echoes circumstances recorded for his father Uzziah in 2 Chronicles 26:16–23, where Uzziah’s leprosy led to restrictions on temple access. The chronicler’s note that 'the rest of the acts' are in the book of the kings also points readers to the Deuteronomistic royal annals (e.g., 2 Kings) as a fuller historical source.",
+  "seeAlso": [
+    "2 Kings 15:32-38",
+    "2 Chronicles 26:16-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Reign, Righteousness, Works"
+    },
+    {
+      "range": "3-5",
+      "title": "Building and Fortification"
+    },
+    {
+      "range": "5-9",
+      "title": "War, Tribute, Succession"
+    }
+  ],
+  "themes": [
+    "Kingship",
+    "Righteousness",
+    "Building",
+    "Military Success"
+  ],
+  "practicalQuestions": [
+    "What does it mean to 'prepare one's ways before the LORD' in personal and civic life today?",
+    "How should leaders act when the people they govern remain corrupt despite the leader's own integrity?",
+    "How can material success and building projects be balanced with spiritual responsibility?",
+    "What responsibilities do religious leaders and institutions have when political leaders step back from sacred spaces?"
+  ],
+  "uncertainAreas": "The text states Jotham 'entered not into the temple' but does not explain why; the reason is likely tied to his father Uzziah's situation (leprosy) though that connection is not spelled out here. Verse duplication (verses 1 and 8) reflects the chronicler’s parallel summary style; the chapter gives limited detail on the extent of the people's corruption and on the full scope of Jotham's acts.",
+  "createdAt": "2025-11-03T19:30:26.207Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

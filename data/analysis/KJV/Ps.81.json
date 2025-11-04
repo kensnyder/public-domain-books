@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.81",
+  "briefOverview": "A liturgical call to worship that recalls Israel’s deliverance and reproves the people for disobedience, promising blessing if they would heed God’s voice.",
+  "summary": "The psalm opens with a public summons to sing, bring musical instruments, and blow the trumpet on the new moon and appointed feast (vv.1–3). It recalls God’s historical acts on behalf of Israel, including the rescue associated with Joseph in Egypt and deliverance at Meribah (vv.4–7). God then speaks directly: he summons Israel to listen, forbids foreign gods, and offers provision if they obey (vv.8–10). The poem laments Israel’s refusal to heed God, describes the consequences of being given over to their desires, and expresses what blessings would have followed obedience—victory over enemies and abundant provision (vv.11–16).",
+  "externalContext": "Psalm 81 is part of the Psalter’s liturgical repertoire and fits the ancient Israelite practice of festival worship (new moons and appointed feasts) that used trumpets and stringed instruments. The reference to Meribah recalls Israel’s testing at the wilderness water sites described in Exodus and Numbers, and the Joseph material evokes the Egyptian sojourn traditions (Genesis). Many manuscripts and traditions place this psalm among the Asaph collection (Psalms 73–83), which often reflects national history and cultic themes.",
+  "externalReferences": "The psalm’s invitation “I am the LORD thy God, which brought thee out of the land of Egypt” echoes the Exodus narrative (see Exodus 12:31–42 for the flight from Egypt). The testing at “the waters of Meribah” recalls episodes of complaint and God’s testing in Exodus 17:1–7 and Numbers 20:2–13. The lines about removing a shoulder from the burden and delivering hands from the pots resonate with the Joseph story in Genesis (see Genesis 39:20–23 for imprisonment and Genesis 41:41–44 for Joseph’s elevation). The trumpet and new moon language connects with cultic regulations for trumpet/blast and new moon/feast observance (cf. Numbers 10:10; Numbers 28:11–15).",
+  "seeAlso": [
+    "Exodus 12:31-42",
+    "Exodus 17:1-7",
+    "Numbers 20:2-13",
+    "Genesis 41:41-44",
+    "Numbers 10:10",
+    "Psalms 73-83"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call to Worship"
+    },
+    {
+      "range": "4-7",
+      "title": "Remembrance of Deliverance"
+    },
+    {
+      "range": "8-16",
+      "title": "Divine Admonition and Promise"
+    }
+  ],
+  "themes": [
+    "Worship",
+    "Deliverance",
+    "Obedience",
+    "Divine Provision"
+  ],
+  "practicalQuestions": [
+    "How does communal worship today help a community remember formative acts of deliverance or identity?",
+    "What practices help individuals and communities better ‘hear’ and respond to ethical or religious summons?",
+    "In what ways might refusing wise instruction lead a community into its own chosen harms, as described here?",
+    "How should promised blessings shape our motives for obedience—as reward, covenant sign, or something else?"
+  ],
+  "uncertainAreas": "Phrases such as “ordained in Joseph,” “hands delivered from the pots,” and “secret place of thunder” are open to multiple readings (tribal/territorial reference to Joseph vs. the person Joseph; metaphorical vs. specific cultic imagery), so identification of the precise historical referent and the exact nuance of some metaphors is uncertain.",
+  "createdAt": "2025-11-03T22:01:46.361Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

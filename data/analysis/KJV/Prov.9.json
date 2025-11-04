@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Prov.9",
+  "briefOverview": "A contrast between personified Wisdom, who invites the simple to a life-giving feast, and Folly, who seduces passersby toward destruction.",
+  "summary": "Verses 1–6 depict Wisdom as a woman who has prepared a lavish house and publicly calls the simple to come eat and drink — an invitation to embrace understanding. Verses 7–12 teach prudence about reproving others: scorners will resent correction while the wise welcome instruction; the fear of the LORD is declared the beginning of wisdom and yields long life. Verses 13–18 present Folly as a noisy, naive woman who sits at the city gate and lures the unsuspecting with the attractiveness of forbidden pleasures; her guests do not realize that they are heading toward death and the depths of Sheol. The chapter frames moral choice as a public, social decision with real consequences for life and death.",
+  "externalContext": "Proverbs is part of the biblical wisdom literature; many of its sayings were composed and collected in ancient Israel over centuries and traditionally associated with Solomon. Personification of Wisdom as a woman and the banquet/feast motif are common in Near Eastern wisdom traditions and function here as rhetorical devices to make moral choice immediate and attractive. The city gate (or 'high places of the city') was a public space where legal and social discourse occurred, so the public calling suggests open availability of wisdom and folly to anyone passing by.",
+  "externalReferences": "This chapter echoes and develops themes found earlier in Proverbs: compare Proverbs 1:7 ('The fear of the LORD is the beginning of knowledge') and Proverbs 8, where Wisdom speaks at length in the first person (e.g., Proverbs 8:1–11). The seductive imagery of the dangerous woman parallels the warning against the adulterous stranger in Proverbs 7:6–27, which also depicts enticement leading to ruin. The emphasis on 'fear of the LORD' as foundational to wisdom recurs throughout the wisdom corpus (e.g., Proverbs 9:10; cf. Proverbs 1–3).",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 8:1-11",
+    "Proverbs 7:6-27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Wisdom's Invitation"
+    },
+    {
+      "range": "7-12",
+      "title": "Reproof and Principle"
+    },
+    {
+      "range": "13-18",
+      "title": "Folly's Enticement"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Folly",
+    "Fear of the LORD",
+    "Moral Choice"
+  ],
+  "practicalQuestions": [
+    "When an appealing opportunity conflicts with ethical teaching, how do I discern whether it is wisdom or folly?",
+    "How do I cultivate a receptive attitude so I 'love' correction rather than resent it?",
+    "In what public spaces or social settings am I most exposed to persuasive but dangerous influences, and how can I prepare?",
+    "What practices help translate the 'fear of the LORD' into everyday decision-making that promotes life?"
+  ],
+  "uncertainAreas": "The text's female personifications are symbolic and may be read both metaphorically and as reflecting social stereotypes; the meaning of 'seven pillars' is ambiguous (symbolic completeness vs. a literal architectural detail). The reference to 'the depths of hell' (Sheol) is vivid but the precise theological implications (immediate death, afterlife punishment, social ruin) are open to interpretation.",
+  "createdAt": "2025-11-03T22:37:26.765Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

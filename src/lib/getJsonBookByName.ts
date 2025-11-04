@@ -1,5 +1,5 @@
 import { LRUCache } from 'lru-cache';
-import books from '../../data/books/books.json';
+import books from '../../data/research/books.json' with { type: 'json' };
 
 type Book = (typeof books)[number];
 
@@ -7,7 +7,7 @@ const cache = new LRUCache<string, Book>({
   max: 5000,
 });
 
-export default function getBookByName(name: string) {
+export default function getJsonBookByName(name: string) {
   const upperName = name.toUpperCase().trim().replace(/\.$/, '');
 
   const cached = cache.get(upperName);

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Isa.16",
+  "briefOverview": "An oracle about Moab that calls for sheltering refugees, pronounces judgment on Moabic pride, and laments the devastation of its cities and agriculture.",
+  "summary": "The chapter opens with an instruction to send a lamb to the ruler from Sela toward the wilderness and the mount of Zion, followed by a call for Moab to receive outcasts and provide covert refuge. Isaiah then announces that extortioners and oppressors will cease and that a throne will be established in mercy, sitting in the tabernacle of David to seek and hasten righteousness. The prophet accuses Moab of pride and lying and predicts widespread mourning over the foundations of Kir-hareseth and the desolation of Heshbon, Sibmah, and surrounding fields. Agricultural and cultic joy will end—no singing in vineyards, no shouting at vintage—and the prophet expresses deep lament for Moab. The oracle concludes that when Moab seeks its sanctuary in prayer it will not prevail, and that within three years Moab’s glory will be brought low, leaving only a small, feeble remnant.",
+  "externalContext": "Moab was an ancient kingdom east of the Dead Sea and a frequent neighbor and rival of Israel and Judah; its chief towns (Heshbon, Kir-hareseth, Jazer) are known from Israelite and Mesopotamian sources. Oracles against neighboring states in Isaiah reflect a geopolitical world shaped by larger empires (notably Assyria in the 8th–7th centuries BCE), shifting alliances, and military incursions that often produced refugee flows and economic devastation. Appeals to provide asylum and the images of ruined vineyards and silenced cultic rejoicing echo common ancient Near Eastern topoi for national calamity.",
+  "externalReferences": "This chapter closely connects with the preceding oracle about Moab in Isaiah 15 (see Isaiah 15:1–9), which likewise lists ruined towns and mourning. The phrase “tabernacle of David” and the theme of restoring a Davidic ruling household echo Amos 9:11–12, where a raised-up tent of David signals future restoration. Extended prophecies against Moab are also found later in Jeremiah 48 (Jeremiah 48:1–47), which similarly catalogues cities and pronounces devastation.",
+  "seeAlso": [
+    "Isaiah 15:1-9",
+    "Amos 9:11-12",
+    "Jeremiah 48:1-47"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Call to Receive Refugees"
+    },
+    {
+      "range": "5-12",
+      "title": "Judgment and Lament"
+    },
+    {
+      "range": "13-14",
+      "title": "Proclamation of Decline"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Refuge",
+    "Lament",
+    "Pride punished"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities respond to displaced persons and refugees in light of the call to 'hide the outcasts'?",
+    "What practices help a community mourn responsibly when social or environmental catastrophe silences its customary joy?",
+    "In what ways can leaders 'seek judgment and hasten righteousness' as the chapter envisions a just throne?",
+    "How does recognizing the consequences of civic or national pride inform personal and communal humility today?"
+  ],
+  "uncertainAreas": "The precise meaning of the opening instruction to 'send ye the lamb to the ruler of the land from Sela' is ambiguous (tribute, asylum signal, or ritual act are possible readings). The identity of the figure seated 'in the tabernacle of David' is also uncertain—whether this refers to a literal contemporary ruler, an ideal Davidic restoration, or a theological hope. The temporal note 'within three years, as the years of an hireling' could be literal chronological prophecy or a figurative expression; the text does not make the intended scope explicit.",
+  "createdAt": "2025-11-03T23:07:57.627Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

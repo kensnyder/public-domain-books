@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.6",
+  "briefOverview": "A personal penitential lament asking God for mercy, healing, and deliverance from suffering and enemies while expressing confident trust that God will hear and vindicate the psalmist.",
+  "summary": "The speaker begins by asking God not to rebuke him in anger but to show mercy and heal him because of his weakness (vv.1–2). He describes deep emotional and physical distress, sleepless nights, and constant weeping (vv.3–7). The psalmist calls on evildoers to depart, declaring that the LORD has heard his weeping (v.8). The poem closes with assurance that God has heard the supplication and will receive the prayer, leading to the shame and sudden humiliation of his enemies (vv.9–10).",
+  "externalContext": "Psalm 6 is traditionally attributed to David and is one of the classical penitential laments in the Hebrew Bible. In ancient Israelite worship such psalms functioned both as private prayers and as material used in communal or liturgical confession. The language of bodily distress and divine chastening reflects a cultural worldview in which illness or misfortune could be understood as linked to divine discipline or the consequences of sin.",
+  "externalReferences": "Psalm 6 is often grouped with the penitential psalms (for example Psalm 32, Psalm 38, Psalm 51) because of its confession-like tone and plea for mercy. It parallels Psalm 38 in the imagery of bodily pain and vexation (compare Psalm 38:3–8). The assurance that God hears the cry recalls motifs found in Psalm 34:17 (“The righteous cry out, and the LORD hears”) and other laments that move from distress to confident trust.",
+  "seeAlso": [
+    "Psalm 32:3-5",
+    "Psalm 38:3-8",
+    "Psalm 51:1-4",
+    "Psalm 34:17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Plea for Mercy"
+    },
+    {
+      "range": "4-7",
+      "title": "Description of Distress"
+    },
+    {
+      "range": "8-10",
+      "title": "Confidence and Vindication"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Lament",
+    "Healing",
+    "Divine Hearing"
+  ],
+  "practicalQuestions": [
+    "How can I bring honest lament and repentance before God when I feel abandoned or punished?",
+    "In what ways can physical illness or emotional suffering be integrated into a spiritual life without assuming direct divine punishment?",
+    "How should communities respond to those who weep and ask for mercy—practically and pastorally?",
+    "What practices help sustain confidence that God hears prayer even when relief seems delayed?"
+  ],
+  "uncertainAreas": "Authorship and the precise cause of the psalmist's suffering are not specified (traditionally Davidic but not certain). It is ambiguous whether the distress is primarily physical illness, emotional anguish, social persecution, or understood explicitly as divine chastening; the text supports multiple overlapping interpretations.",
+  "createdAt": "2025-11-03T21:29:36.310Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

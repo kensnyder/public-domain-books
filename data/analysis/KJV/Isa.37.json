@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Isa.37",
+  "briefOverview": "Hezekiah responds to an Assyrian threat by praying; Isaiah prophesies God's protection and the threat is miraculously removed.",
+  "summary": "When King Hezekiah hears the Assyrian reproach he mourns, sends officials to Isaiah, and asks the prophet to intercede. Isaiah tells Hezekiah not to fear and predicts that Sennacherib will be turned back and defeated in his own land. Rabshakeh returns to Sennacherib, and Hezekiah receives the king's men and spreads their threatening letter before the LORD, then prays for deliverance and for God's reputation among the nations. Isaiah delivers a longer oracle accusing Assyria of blasphemy, promising that Jerusalem will be preserved, that a remnant will recover, and giving an agricultural sign over three years. The chapter concludes with a dramatic overturning: an angel strikes down 185,000 in the Assyrian camp, Sennacherib withdraws to Nineveh, and he is later assassinated by his sons.",
+  "externalContext": "The narrative fits the late 8th/early 7th century BCE when the Neo-Assyrian empire, under Sennacherib (r. c. 705–681 BCE), campaigned in the Levant; Hezekiah ruled Judah (c. 715–686 BCE). Rabshakeh was an Assyrian official, and Tirhakah (Taharka) refers to a Kushite/Egyptian ruler who is reported in Assyrian and Egyptian sources. External Assyrian inscriptions (e.g., the Sennacherib prism) record a major campaign against Judah in 701 BCE but describe Jerusalem as not taken, a point often compared with this chapter.",
+  "externalReferences": "This chapter closely parallels and is retold in 2 Kings 18:13–19:37 and 2 Chronicles 32:1–23, which contain overlapping material (Hezekiah's prayer, Isaiah's oracle, and the Assyrian withdrawal). Isaiah 36 immediately precedes this chapter and gives the longer context of Rabshakeh's speech and the siege narrative. Nonbiblical sources such as Sennacherib's royal annals provide an Assyrian perspective on the same campaign, describing the siege operations but denying the capture of Jerusalem.",
+  "seeAlso": [
+    "Isaiah 36:1-22",
+    "2 Kings 18:13-19:37",
+    "2 Chronicles 32:1-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Hezekiah's Distress"
+    },
+    {
+      "range": "5-20",
+      "title": "Prophetic Reply and Prayer"
+    },
+    {
+      "range": "21-38",
+      "title": "Oracle and Deliverance"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Prayer and faith",
+    "God's sovereignty",
+    "Remnant"
+  ],
+  "practicalQuestions": [
+    "When faced with overwhelming threats, how do we balance prudent action with dependence on prayer as Hezekiah did?",
+    "In what ways should communities appeal to moral or spiritual claims (e.g., God's reputation) when seeking help?",
+    "How do we interpret reports of miraculous intervention today and integrate them responsibly into faith and history?",
+    "What responsibilities do leaders have to bring crises 'before the LORD' and involve trusted advisors and prophets?"
+  ],
+  "uncertainAreas": "The historicity and precise meaning of the angelic destruction and the specific number (185,000) are debated; comparisons with Assyrian records raise questions about how to harmonize accounts. Identification of Tirhakah as the Kushite pharaoh and details of the three‑year agricultural sign also permit multiple interpretations (literal timeline, symbolic promise). The metaphors (e.g., 'hook in thy nose') and the timing of Sennacherib's assassination are narratively clear but have limited independent corroboration.",
+  "createdAt": "2025-11-03T23:19:36.211Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

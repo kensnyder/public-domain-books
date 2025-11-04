@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.134",
+  "briefOverview": "A short liturgical call for those serving in the temple by night to bless the LORD, followed by a blessing pronounced from Zion.",
+  "summary": "Verses 1–2 address the 'servants of the LORD' who stand in the house of the LORD at night, calling them to bless the LORD and to lift up their hands in the sanctuary. Verse 3 responds with a blessing: the LORD, creator of heaven and earth, will bless the addressee from Zion. The psalm functions as both an exhortation to worship and a brief priestly or communal benediction.",
+  "externalContext": "Psalm 134 belongs to the collection called the \"Songs of Ascents\" (Psalms 120–134), traditionally associated with pilgrims ascending to Jerusalem or with temple worship. The imagery of servants standing by night likely refers to temple ministers, Levites, or guards who maintained worship or watch at the sanctuary; the posture of raised hands is a known liturgical gesture in ancient Israelite practice.",
+  "externalReferences": "The final verse echoes the formula of a priestly blessing found in Numbers 6:24–26 (\"The LORD bless you and keep you...\"). The designation of Zion as the source of blessing links this psalm to other Jerusalem-centered texts and to the Songs of Ascents, which emphasize pilgrimage and the centrality of the temple (see Psalms 120–134). The call to lift up hands and bless the LORD finds parallels in other worship texts such as Psalm 63:4 and general temple language elsewhere in the Psalter.",
+  "seeAlso": [
+    "Psalms 120:1-7",
+    "Psalms 121:1-8",
+    "Numbers 6:24-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Call to Bless"
+    },
+    {
+      "range": "3-3",
+      "title": "Priestly Blessing"
+    }
+  ],
+  "themes": [
+    "Worship",
+    "Blessing",
+    "Temple Service",
+    "Zion"
+  ],
+  "practicalQuestions": [
+    "Who today are the modern 'servants' called to persistent worship and vigilance, and how can we support them?",
+    "How might the posture of 'lifting up hands' translate into contemporary forms of embodied worship or prayer?",
+    "In what ways can communities pronounce blessings on one another that mirror the psalm's concern for protection and favor?",
+    "How does the focus on Zion challenge or inform modern understandings of sacred place and communal blessing?"
+  ],
+  "uncertainAreas": "Unclear whether \"servants of the LORD\" specifically denotes priests, Levites, temple guards, or metaphorical pilgrims; the phrase \"by night\" might be literal temple duty or a poetic way of indicating continual service. The exact liturgical setting (pilgrim song versus temple hymn) is debated in scholarly traditions.",
+  "createdAt": "2025-11-03T22:25:55.325Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

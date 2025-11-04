@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.97",
+  "briefOverview": "A royal psalm celebrating the LORD’s sovereign reign and cosmic power, calling the righteous to rejoice and the idols to be ashamed.",
+  "summary": "The poem proclaims that the LORD reigns and calls the earth and distant islands to rejoice. Divine presence is depicted with storm and fire imagery—clouds, darkness, fire, lightning—whose appearance melts hills and makes the earth tremble. The heavens announce God’s righteousness and people behold his glory. Idols and their worshipers are condemned and confounded, while Zion and the daughters of Judah rejoice over God’s just rule. The psalm affirms the LORD’s supremacy over all other gods and exhorts those who love God to hate evil because he protects and delivers his people. It closes by promising light and gladness for the righteous and urging thanksgiving in remembrance of God’s holiness.",
+  "externalContext": "This psalm belongs to the ancient Israelite tradition of enthronement or kingship songs that celebrate Yahweh as sovereign over the cosmos; similar language appears elsewhere in the Psalter. The storm-and-fire imagery echoes the wider ancient Near Eastern motif of divine power expressed through weather and military victory (e.g., storm-god traditions), which Israel adapted to praise Yahweh. The reference to 'Zion' and 'daughters of Judah' reflects Jerusalem-centered cultic language used in worship and communal celebration.",
+  "externalReferences": "Psalm 96:10 and Psalm 99:1–3 also proclaim the LORD’s kingship and call nations to acknowledge it, forming a cluster of royal/enthronement psalms. The theme of divine manifestations in storm and judgment echoes Exodus 15 (the Song of the Sea), which celebrates Yahweh’s victory over enemies with cosmic action. The call for the righteous to rejoice and receive divine light has resonances with other wisdom and praise texts that link righteousness to blessing (cf. Psalm 89:15).",
+  "seeAlso": [
+    "Psalm 96:10",
+    "Psalm 99:1-3",
+    "Exodus 15",
+    "Psalm 89:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Yahweh’s Cosmic Reign"
+    },
+    {
+      "range": "7-9",
+      "title": "Idols Condemned; Zion Rejoices"
+    },
+    {
+      "range": "10-12",
+      "title": "Exhortation to the Righteous"
+    }
+  ],
+  "themes": [
+    "Divine kingship",
+    "Judgment",
+    "Worship",
+    "Righteous joy"
+  ],
+  "practicalQuestions": [
+    "How does acknowledging God’s sovereignty shape responses to personal or social crises?",
+    "In what ways can worshipping the true God displace contemporary 'idols' in my life?",
+    "How might the promise that God preserves the righteous affect how a community cares for vulnerable members?",
+    "What practices help cultivate the 'remembrance of his holiness' that the psalm urges?"
+  ],
+  "uncertainAreas": "The original historical occasion and dating of the psalm are not specified in the text. The referent of 'gods' in verse 7 could mean carved idols, foreign deities, or a poetic address to heavenly beings; the psalm does not make this explicit. Some imagery (e.g., hills melting like wax) may be metaphorical or drawn from mythic storm motifs, and the text leaves room for interpretive variation.",
+  "createdAt": "2025-11-03T22:08:53.111Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

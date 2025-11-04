@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.16",
+  "briefOverview": "Job rejects the shallow consolations of his friends and pours out a bitter lament against his suffering, accusing God of harsh treatment while longing for a heavenly advocate.",
+  "summary": "Job opens by condemning his friends as \"miserable comforters,\" saying their words only increase his distress and would be easy to imitate but not truly helpful. He then graphically describes his physical and emotional suffering, portraying God as the one who has delivered him into the hands of the wicked, broken him, and left him wasted and shamed. Job insists he is not guilty of injustice and that his prayer is pure, calling for the earth not to hide his blood and asserting that his witness and record are in heaven. He expresses a longing for someone to plead for him with God as a neighbor would, and ends by acknowledging that death is drawing near and final.",
+  "externalContext": "The Book of Job belongs to biblical wisdom literature and preserves a framed dialogue between Job and three friends who defend a traditional retributive theology (that suffering usually results from sin). The speeches likely reflect concerns and literary forms of the ancient Near East—poetic lament, courtroom imagery, and appeals to divine justice—and the book is often dated variously between the exilic and post-exilic periods, though precise dating is debated. Within that cultural frame, Job’s protest stands against the expectation that the righteous are always rewarded and the wicked always punished.",
+  "externalReferences": "This chapter follows the friends’ speeches that began in chapters 4–15 and answers their attempts at explanation; the friends’ initial visit is narrated in Job 2:11–13. Job’s desire for a heavenly advocate and his appeal that a \"witness is in heaven\" anticipates later passages where he seeks vindication (compare Job 19:25–27 and the comparable courtroom language in Job 31:35–37).",
+  "seeAlso": [
+    "Job 2:11-13",
+    "Job 3",
+    "Job 4-15",
+    "Job 19:25-27",
+    "Job 31:35-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Rebuke of Friends"
+    },
+    {
+      "range": "7-17",
+      "title": "Graphic Lament of Suffering"
+    },
+    {
+      "range": "18-22",
+      "title": "Plea for Vindication"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Suffering",
+    "False comfort",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "How should we comfort people who are suffering without offering easy answers?",
+    "When people feel wronged by God, how can communities hold space for honest lament?",
+    "What does it mean today to seek \"a witness in heaven\"—how do we conceive of advocacy or vindication in religious practice?",
+    "How can we balance conviction about justice with humility when we interpret others' suffering?"
+  ],
+  "uncertainAreas": "Some lines are ambiguous about the immediate addressee (whether Job is primarily addressing his friends or also accusing God). The identity of the \"witness in heaven\" and the exact legal imagery (\"record on high,\" \"cover not thou my blood\") admit multiple readings—divine witness, angelic attorney, or metaphor for a cosmic register. Dating and precise historical setting of the poem remain debated.",
+  "createdAt": "2025-11-03T19:58:23.712Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

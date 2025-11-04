@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.74",
+  "briefOverview": "A communal lament over the violent destruction and profanation of the sanctuary, calling on God to remember his covenant and act as Israel’s sovereign warrior.",
+  "summary": "The psalmist opens with a pleading cry that God has abandoned his people and allowed their sanctuary to be violated and burned (1–11). Enemies have destroyed carved work, set up standards in the assembly, and put God’s dwelling to the ground, leaving the community bereft of prophetic signs (3–10). The speaker then recalls God’s past mighty acts in creation and cosmic victory—dividing the sea, defeating sea-monsters (leviathan), and ordering day and night—as grounds for confidence (12–17). The psalm closes with renewed petitions: remember the reproach and covenant, do not abandon the poor and oppressed, and arise to contend with the enemies who blaspheme God (18–23).",
+  "externalContext": "Psalm 74 is traditionally associated with the Asaph collection and reads like a corporate lament produced by temple musicians or leaders after the sanctuary was attacked or desecrated. Many scholars situate its composition in a period of national catastrophe—commonly connected with the Babylonian destruction of Jerusalem (586 BCE) or later episodes of temple profanation—when the temple’s cult life was disrupted. The psalm’s use of cosmic combat imagery (sea, leviathan) draws on a broader ancient Near Eastern tradition where divine kingship is asserted over chaotic waters.",
+  "externalReferences": "The appeal to God dividing the sea evokes the Exodus/Red Sea tradition (compare Exodus 14:21–31; the Song of Moses in Exodus 15). The references to slaying or breaking the heads of leviathan resonate with Isaiah 27:1 and with other psalms that use chaoskampf imagery (e.g., Psalm 104:25–26; Psalm 89:9–10). The communal lament form and covenant appeal recall other imprecatory or penitential psalms that plead for God’s intervention on covenantal grounds (see Psalms 44 and 74’s neighbor in the Asaph collection, Psalm 79).",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Isaiah 27:1",
+    "Psalms 104:25-26",
+    "Psalms 73:1-28",
+    "Psalms 79:1-13",
+    "Psalms 44:1-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Lament over Sanctuary"
+    },
+    {
+      "range": "12-17",
+      "title": "Recall of God’s Deeds"
+    },
+    {
+      "range": "18-23",
+      "title": "Plea for Covenant Justice"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Sanctuary/Temple",
+    "Divine sovereignty",
+    "Covenant"
+  ],
+  "practicalQuestions": [
+    "How should a faith community respond when its sacred institutions are damaged or closed?",
+    "In what ways can remembering past acts of God shape faith during present crises?",
+    "How do we pray and seek justice when enemies blaspheme or oppress in public life?",
+    "What responsibilities do covenant communities have toward the poor and oppressed in times of national humiliation?"
+  ],
+  "uncertainAreas": "The psalm does not identify the specific historical event or enemy responsible for the destruction, so dating is uncertain (Babylonian destruction, Hellenistic persecutions, or another episode are all possibilities). The precise meaning of motifs like 'leviathan' and 'turtledove' may be symbolic (chaos, the people) rather than literal, but the text allows multiple interpretations.",
+  "createdAt": "2025-11-03T21:57:41.469Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Isa.29",
+  "briefOverview": "An oracle against 'Ariel' (Jerusalem) that mixes imagery of siege and divine judgment with a rebuke of hollow worship, followed by a promise of divine reversal and spiritual restoration.",
+  "summary": "The prophet pronounces woe on Ariel—identified as the city where David dwelt—foretelling siege, distress, and dramatic humiliation (vv. 1–7). Nations that attack will prove ineffective, like an unsatisfying dream, while God brings upheaval and a \"spirit of deep sleep\" over the people so that prophets and leaders are blinded (vv. 8–12). Isaiah charges the people with lip-service worship and secret counsel that tries to hide from God; as a result God will do a \"marvellous work\" that overturns the wisdom of the wise (vv. 13–16). The oracle then shifts to consolation: a near future reversal when the deaf will hear and the blind see, the meek and poor will rejoice, the scorner and evildoers will be cut off, and Jacob will be redeemed so that his children honor and fear God (vv. 17–24).",
+  "externalContext": "Ariel is commonly understood in prophetic literature as a symbolic name for Jerusalem (the term can connote an altar hearth or a ‘lion of God’). Prophetic oracles routinely combine cultic critique (empty sacrifices and lip service) with political/military imagery (siege and nations) in the ancient Near Eastern context. Isaiah is traditionally associated with the eighth century BCE court of Judah, though scholars note some passages reflect themes or language that may span different periods and crises.",
+  "externalReferences": "The theme of God-induced spiritual blindness or stupor echoes Isaiah 6:9–10, where a similar inability to perceive prophetic truth is pronounced. The image of a \"book\" that is sealed has parallels later in scriptural literature (e.g., Daniel 12:4 on sealing words), while the promise that the deaf will hear and the blind see recalls restoration motifs also found elsewhere in Isaiah (cf. Isaiah 35:5–6). The address to \"him who redeemed Abraham\" links this oracle to the covenantal promises associated with Abraham in Genesis (e.g., God's pledge to bless and preserve the patriarchal line).",
+  "seeAlso": [
+    "Isaiah 6:9-10",
+    "Isaiah 35:5-6",
+    "Daniel 12:4",
+    "Genesis 12:2-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Judgment on Ariel"
+    },
+    {
+      "range": "8-14",
+      "title": "Spiritual Blindness Condemned"
+    },
+    {
+      "range": "15-24",
+      "title": "Reversal and Restoration"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Hypocrisy",
+    "Restoration",
+    "Revelation"
+  ],
+  "practicalQuestions": [
+    "In what ways might our religious practices be 'honoring with lips' while our hearts are distant, and how should that change our worship?",
+    "How do communities discern true prophetic insight versus collective 'deep sleep' or self-deception today?",
+    "What concrete steps can believers take to protect the vulnerable (the meek and poor) whose joy the text predicts will increase?",
+    "How should the promise of eventual restoration shape responses to present political or social crises?"
+  ],
+  "uncertainAreas": "The precise historical occasion of the siege imagery (which enemy or which period) is debated; the exact sense of the term 'Ariel' (altar-hearth, lion, or Jerusalem as a poetic name) has multiple shades of meaning; the phrase about speaking 'as of one that hath a familiar spirit' and some legal/legalistic phrases contain ambiguous cultural references that admit more than one interpretation.",
+  "createdAt": "2025-11-03T23:15:44.620Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

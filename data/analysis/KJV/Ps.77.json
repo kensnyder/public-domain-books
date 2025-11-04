@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.77",
+  "briefOverview": "A psalm of lament that moves from urgent distress and questioning God's care to a deliberate remembrance of God's past mighty deeds, especially the Exodus, as a ground for renewed trust.",
+  "summary": "The speaker cries aloud to God in deep distress, experiencing sleepless anguish and a soul that refuses comfort (vv. 1–5). He agonizes with questions about whether God has rejected his people and whether divine mercy and promises have failed (vv. 6–9). In response he resolves to remember God's past acts, especially the deeds performed by the \"right hand of the Most High,\" and to meditate on God's works (vv. 10–13).\n\nThe psalm ends with a vivid recital of God's theophany and deliverance: God revealed power in the sanctuary, declared strength among the people, redeemed the sons of Jacob, and routed the waters at the sea while leading Israel by Moses and Aaron (vv. 14–20). This movement from complaint to recollection reframes present suffering in light of remembered salvation.",
+  "externalContext": "Psalm 77 is part of the Hebrew Psalter and fits the genre of communal or personal lament that moves toward trust through remembrance. The repeated liturgical marker \"Selah\" appears at key pauses and is likely a musical or congregational cue whose exact function remains uncertain. Remembering the Exodus and God's mighty acts was central in Israelite worship and identity, so recollection of those events functioned as a theological resource for hope.",
+  "externalReferences": "The psalm's final images—waters seeing God, a path in the sea, and leading the people by Moses and Aaron—recall the Exodus crossing and the Song at the Sea (see Exodus 14–15), where God parts and defeats the waters on Israel's behalf. Later biblical thanksgiving passages that recount the same motifs include Psalm 136:13–15, which praises God for dividing the sea and rescuing Israel, indicating this psalm draws on the same tradition of recalling foundational deliverance.",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Exodus 15:1-21",
+    "Psalm 136:13-15",
+    "Psalm 42:5-11",
+    "Psalm 74:1-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Lament and Questions"
+    },
+    {
+      "range": "10-13",
+      "title": "Turning to Memory"
+    },
+    {
+      "range": "14-20",
+      "title": "Recounting God's Acts"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Divine remembrance",
+    "Deliverance",
+    "Trust and doubt"
+  ],
+  "practicalQuestions": [
+    "When I feel abandoned or unheard, what memories of past help or community support can I deliberately recall to sustain hope?",
+    "How can liturgical practices (prayer, singing, communal storytelling) help move personal doubt toward trust as the psalm models?",
+    "In what ways does remembering communal or ancestral acts of deliverance shape present ethical and spiritual commitments?",
+    "How should one hold honest questioning of God alongside a theological memory of God's past faithfulness?"
+  ],
+  "uncertainAreas": "Authorship and specific historical setting are unclear (the psalm is anonymous). The precise function of the liturgical marker \"Selah\" is uncertain. It's also not entirely clear whether the lament is strictly individual or representative of the community, though the final verses evoke communal memory.",
+  "createdAt": "2025-11-03T21:59:09.568Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

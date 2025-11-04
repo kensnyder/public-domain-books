@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.104",
+  "briefOverview": "A hymn of praise celebrating God as creator and sustainer of the world, emphasizing divine order, provision, and dependence of all life on God.",
+  "summary": "The psalmist opens with personal praise, depicting God clothed in light and sovereign over the heavens. The poem recounts God's establishment of the earth's foundations, control over the waters, and the setting of boundaries for sea and land. It describes God's provision for flora and fauna—springs, pastures, birds, beasts—and the daily rhythms of sunrise and night that regulate life. The sea and its creatures, including a named monster (Leviathan), testify to God's creative power. The psalm affirms that life and death depend on God's hidden action—breath/spirit—and praises the enduring glory of the LORD. It closes with a personal vow to sing and an imprecatory wish against the wicked, followed by a final call to praise.",
+  "externalContext": "Psalm 104 is part of the Hebrew Psalter and functions as a liturgical or devotional creation hymn reflecting ancient Near Eastern poetic patterns that celebrate cosmic order. Its imagery (cedars of Lebanon, moon governing seasons, leviathan) draws on common ancient motifs; the moon reference reflects use of lunar cycles for marking time. The poem likely circulated in Israelite worship, offering a theological reading of natural phenomena as evidence of God’s providence rather than purely scientific description.",
+  "externalReferences": "The psalm’s creation sequence and motifs echo Genesis 1 (light, heavens, waters, plants, animals) and read the world as ordered by God. Its direct challenge to the sea-monster figure recalls passages about Leviathan in Job 41 and the Levantine mythic imagery (see also Isaiah 27:1). The theme of God’s inscrutable control over life, breath, and death resonates with Job 33:4 and other theophanies in Job 38–41.",
+  "seeAlso": [
+    "Genesis 1",
+    "Job 38-41",
+    "Isaiah 27:1",
+    "Psalms 8",
+    "Psalms 148"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Opening Praise"
+    },
+    {
+      "range": "5-30",
+      "title": "Creator's Works and Provision"
+    },
+    {
+      "range": "31-35",
+      "title": "Doxology and Conclusion"
+    }
+  ],
+  "themes": [
+    "Creation",
+    "Providence",
+    "Praise",
+    "Divine Sovereignty"
+  ],
+  "practicalQuestions": [
+    "How does recognizing the dependence of all creatures on God shape my daily gratitude and use of resources?",
+    "In what ways can communities incorporate praise for creation into worship and environmental stewardship?",
+    "How should believers interpret and respond to the psalm’s closing imprecation in light of contemporary ethics?",
+    "What practices help cultivate the psalmist’s habitual singing and meditation on God throughout life?"
+  ],
+  "uncertainAreas": "Dating and specific liturgical setting of the psalm are not clear from the text. The exact sense of 'leviathan'—mythic monster, large sea-animal, or poetic symbol—is ambiguous. The intent behind the final imprecatory line (verse 35) can be read as liturgical hyperbole, eschatological hope, or moral desire for justice; the text does not resolve which.",
+  "createdAt": "2025-11-03T22:12:22.034Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

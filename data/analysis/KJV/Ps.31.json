@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.31",
+  "briefOverview": "A personal lament that moves from urgent plea for deliverance to confident trust in God and a final call to courage for the faithful.",
+  "summary": "The speaker appeals to the LORD for rescue, calling God a rock, fortress, and refuge (vv. 1–4). They commit their spirit into God's hand and express trust despite surrounding enemies and slander (vv. 5–15). The psalmist asks for God's face to shine and for vindication while calling for the silencing of lying lips (vv. 16–18). The closing verses praise God's goodness to those who fear him and exhort the saints to love the LORD, trust him, and take courage (vv. 19–24).",
+  "externalContext": "Psalms like this are part of the ancient Israelite lament tradition, often used in communal or individual prayer when facing persecution, illness, or social disgrace. Many psalms attributed to David reflect a royal or personal crisis in which the psalmist appeals to covenantal promises and seeks divine protection in hostile circumstances.",
+  "externalReferences": "Verse 5, \"Into thine hand I commit my spirit,\" is quoted by Jesus at his death in Luke 23:46. The movement from lament to trust here resembles other lament psalms such as Psalm 22, which also moves from anguish to vindication, and Psalm 23, which emphasizes God as shepherd and refuge.",
+  "seeAlso": [
+    "Luke 23:46",
+    "Psalm 22",
+    "Psalm 23",
+    "Psalm 71"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Plea and Trust"
+    },
+    {
+      "range": "9-15",
+      "title": "Description of Distress"
+    },
+    {
+      "range": "16-24",
+      "title": "Vindication and Exhortation"
+    }
+  ],
+  "themes": [
+    "Trust",
+    "Lament",
+    "Deliverance",
+    "Persecution"
+  ],
+  "practicalQuestions": [
+    "When I feel besieged by enemies or slander, how can I honestly voice my distress while maintaining trust in God?",
+    "In what ways can I 'commit my spirit' or deepest concerns to a reliable source of hope in times of crisis?",
+    "How should communities respond to members who are socially ostracized or maligned, in light of the psalm's call to protect and encourage the faithful?",
+    "What practices help cultivate the courage and strengthened heart the psalm urges for those who hope in the LORD?"
+  ],
+  "uncertainAreas": "Authorship and the specific historical situation behind the psalm are not stated in the chapter and remain uncertain. Minor textual variants (verse numbering and wording) across manuscript traditions can affect how some lines are read or applied.",
+  "createdAt": "2025-11-03T21:38:37.219Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

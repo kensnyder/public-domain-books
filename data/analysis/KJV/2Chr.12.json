@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "2Chr.12",
+  "briefOverview": "Rehoboam's unfaithfulness leads to an Egyptian invasion; the people humble themselves and receive partial deliverance, but Judah suffers loss and Rehoboam continues to reign despite doing evil.",
+  "summary": "After strengthening his kingdom, Rehoboam and the people abandon the law of the LORD. In Rehoboam's fifth year Shishak (the Egyptian king) invades with a large force, captures Judah's fortified towns, and comes to Jerusalem. The prophet Shemaiah tells the king and princes that their apostasy allowed God to hand them over to Shishak. The leaders humble themselves and acknowledge the LORD, and God spares Jerusalem total destruction, though they become servants to Shishak and suffer the loss of the temple and royal treasures, including Solomon's gold shields. Rehoboam replaces the gold shields with bronze ones and continues to reign for seventeen years, but he is judged for not seeking the LORD and does evil until his death; his son Abijah succeeds him.",
+  "externalContext": "Many scholars identify Shishak with the Egyptian pharaoh Shoshenq I (early 10th century BCE), who is attested in Egyptian records as campaigning in Canaan, which fits the pattern of Egyptian interventions in the Southern Levant. Tribute-taking and removal of temple and palace treasures was a common practice in ancient Near Eastern warfare, used both to enrich victors and to demonstrate dominance. The chronicler’s interest in temple property and prophetic commentary reflects a theological interpretation of political events common in post-exilic historiography.",
+  "externalReferences": "The account of Shishak’s raid parallels 1 Kings 14:25–28, which likewise reports the Egyptian king coming and carrying off the treasures of the house of the LORD and the king's house. The mention of Solomon’s gold shields recalls 1 Kings 10:16–18, which describes those shields as Solomon’s royal equipment. The theme of corporate humility leading to divine restraint echoes promises found elsewhere in Chronicles, for example 2 Chronicles 7:14, where humility and prayer bring healing and forgiveness.",
+  "seeAlso": [
+    "1 Kings 14:25-28",
+    "1 Kings 10:16-18",
+    "2 Chronicles 7:14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Sin, Invasion, and Repentance"
+    },
+    {
+      "range": "9-12",
+      "title": "Plunder and Replacement"
+    },
+    {
+      "range": "13-16",
+      "title": "Reign, Judgment, Succession"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Repentance",
+    "Temple plunder",
+    "Leadership failure"
+  ],
+  "practicalQuestions": [
+    "When public leaders or institutions fail morally, how should communities acknowledge responsibility and seek restoration?",
+    "What forms can genuine humility take today, and how can humility influence outcomes in crisis?",
+    "How should religious communities understand the relationship between political defeat and spiritual failure?",
+    "What lessons does the chapter offer about the long-term consequences of not 'preparing the heart' to seek God?"
+  ],
+  "uncertainAreas": "Identification of Shishak with a specific Egyptian pharaoh (commonly Shoshenq I) is a scholarly inference not stated in the text. The precise political status implied by 'they shall be his servants' (extent and duration of servitude) is not detailed. The chronicler’s sources (e.g., the book of Shemaiah and Iddo) are cited but their contents and reliability are not available here.",
+  "createdAt": "2025-11-03T19:22:38.796Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

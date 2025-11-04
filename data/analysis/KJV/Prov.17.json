@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.17",
+  "briefOverview": "Proverbs 17 collects short wisdom sayings contrasting wise and foolish behavior, especially in speech, family life, justice, and social relationships.",
+  "summary": "The chapter contrasts the benefits of modest peace and wise restraint with the harms of wealth accompanied by strife and the folly of reckless speech. It affirms that God tests hearts, warns against rejoicing in others' calamity or mocking the poor, and values loyalty, correction, and covered transgressions as routes to restored relationships. Several proverbs emphasize the social consequences of foolish children, unjust judgments, and quarrels, while others commend a merry heart, measured speech, and steadfast friendship. The collection repeatedly holds up silence, thoughtful rebuke, and love as marks of wisdom and communal health.",
+  "externalContext": "Proverbs is part of the Hebrew wisdom literature tradition, compiled over centuries and attributed largely to Solomon; it was used in ancient Israelite instruction for household and communal ethics. The sayings reflect a patriarchal, honor-shame social world in which family reputation, hospitality, and public speech shaped social standing, and collections like this were memorized and taught to youth and leaders.",
+  "externalReferences": "The refining imagery (“the fining pot… the LORD trieth the hearts”) echoes other biblical metaphors of testing and refining (e.g., Job 23:10; Zechariah 13:9). The idea that love \"covers\" transgression has a close parallel in Proverbs 10:12 (\"Hatred stirreth up strifes: and love covereth all sins\"). The theme of faithful friendship and loyalty resonates with nearby wisdom sayings such as Proverbs 18:24 on friends and with the wider biblical concern for righteous speech and just judgment (compare Proverbs 15:1 on gentle answers and Micah 6:8 on acting justly).",
+  "seeAlso": [
+    "Proverbs 10:12",
+    "Proverbs 15:1",
+    "Proverbs 18:24",
+    "Job 23:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Peace over Plenty"
+    },
+    {
+      "range": "7-18",
+      "title": "Speech, Reputation, Testing"
+    },
+    {
+      "range": "19-28",
+      "title": "Folly, Family, Restraint"
+    }
+  ],
+  "themes": [
+    "Wisdom vs Folly",
+    "Speech and Restraint",
+    "Justice and Honor",
+    "Relationships"
+  ],
+  "practicalQuestions": [
+    "When should I prioritize peace and relationship health over pursuing greater material comfort?",
+    "How can I practice restraint in speech so that silence or a gentle rebuke preserves relationships?",
+    "In what ways can covering a fellow's transgression (versus publicizing it) be loving and constructive today?",
+    "How should families and communities address repeated foolish or harmful behavior without causing lasting shame?"
+  ],
+  "uncertainAreas": "Attribution and precise historical setting of individual sayings are uncertain; some Hebrew idioms (e.g., \"exalteth his gate,\" \"striketh hands\") have multiple plausible meanings in context. Occasional references to specific social practices (messengers, suretyship) depend on ancient legal customs that the text assumes but does not explicate.",
+  "createdAt": "2025-11-03T22:41:55.105Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

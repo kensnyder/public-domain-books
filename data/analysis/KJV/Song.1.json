@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Song.1",
+  "briefOverview": "An opening love poem celebrating mutual attraction with vivid sensory imagery and royal/ pastoral imagery.",
+  "summary": "The chapter opens by identifying the collection as Solomon's song and moves into a first-person exchange of desire and praise. The woman invites kisses and declares love sweeter than wine, praising the beloved's name and perfume while the chorus (or other women) respond. She acknowledges her darker complexion from working in the vineyards and asks where her beloved tends his flocks. The man (or the speaker addressing the woman) answers with extravagant comparisons—horses, jewelry, and royal settings—using perfumes (spikenard, myrrh) and pastoral/architectural imagery (vineyards, a green bed, cedar beams) to celebrate the lovers' union.",
+  "externalContext": "Song of Songs is an ancient collection of love poetry from the Hebrew Bible, traditionally attributed to Solomon though its date and authorship are debated. Its language assumes an agrarian and trade-connected world: references to vineyards, shepherding, caravans (Kedar), perfumed oils (spikenard, myrrh), and cedar construction reflect Mediterranean and Near Eastern social and economic contexts. En-gedi (a desert oasis) and Kedar (nomadic groups) are real geographic/cultural markers that would be familiar to ancient readers and help situate the poems in an environment of seasonal shepherding and long-distance trade in luxury goods.",
+  "externalReferences": "The oasis of En-gedi appears elsewhere in the Hebrew Bible (see 1 Samuel 24:1–2, where David hides in En-gedi), which helps locate the poem's landscape imagery. The perfume spikenard that \"sends forth its smell\" recalls later New Testament anointing scenes (e.g., John 12:3) where spikenard is used as an aromatic, costly oil. The mention of cedar beams and luxurious woodwork resonates with descriptions of royal construction and furnishings associated with Solomon's palace in 1 Kings (e.g., 1 Kings 6).",
+  "seeAlso": [
+    "John 12:3",
+    "1 Samuel 24:1-2",
+    "1 Kings 6:15-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Invitation and Praise"
+    },
+    {
+      "range": "5-8",
+      "title": "Self-Description and Question"
+    },
+    {
+      "range": "9-17",
+      "title": "Praises and Imagery"
+    }
+  ],
+  "themes": [
+    "Love",
+    "Desire",
+    "Sensual imagery",
+    "Longing"
+  ],
+  "practicalQuestions": [
+    "How can praise and poetic speech strengthen intimate relationships in ways that are respectful and mutual?",
+    "What does the woman’s self-description (‘I am black, but comely’) teach us about beauty standards, labor, and self-acceptance?",
+    "How do sensory metaphors (perfume, wine, touch) shape our language about love and can those metaphors be used in nonsexual spiritual contexts?",
+    "In what ways can community voices (the daughters of Jerusalem) influence private relationships today, for better or worse?"
+  ],
+  "uncertainAreas": "Authorship (Solomon) and dating are uncertain; the identity and number of speakers (woman, beloved, chorus) are not fixed by the text; whether the poem is strictly erotic, allegorical (e.g., divine/ communal meanings), or both is open to interpretation; precise social setting (royal versus rural) blends imagery and is ambiguous.",
+  "createdAt": "2025-11-03T22:55:45.264Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.1",
+  "briefOverview": "Psalm 1 contrasts two ways of life—those who delight in the law of the LORD and those who follow the ungodly—and presents the moral and eschatological consequences of each.",
+  "summary": "The poem opens by blessing the person who avoids the counsel, company, and attitudes of the wicked and instead delights in and meditates on the law of the LORD. That righteous person is compared to a well-watered tree that bears fruit in season, whose leaves do not wither, and whose activities prosper. By contrast, the wicked are likened to chaff driven away by the wind and will not stand in the judgment or among the righteous. The psalm concludes by asserting that the LORD knows the way of the righteous, while the way of the wicked perishes.",
+  "externalContext": "Psalm 1 functions as an introduction to the entire Psalter and is commonly classified as wisdom literature because of its didactic contrast between two ways of life. The phrase \"law of the LORD\" (Hebrew: Torah) reflects an Israelite orientation toward divine instruction and community practice rather than a fully developed canonical Torah sense; the poem likely circulated in communities shaped by temple and synagogue reading. Precise authorship and dating are unknown; scholars often see it as drawing on longstanding wisdom motifs and liturgical settings.",
+  "externalReferences": "The image of a flourishing tree by water echoes Jeremiah 17:7–8, which also celebrates one who trusts the LORD as like a tree planted by water. The emphasis on treasuring and meditating on divine instruction recalls Deuteronomy 11:18–21, where God's words are to be placed on the heart and recalled continually. Similar righteous/wicked contrasts and the motif of the righteous flourishing appear elsewhere in the Psalter and Wisdom literature, for example Psalm 92:12–14 and Proverbs 2:20–22.",
+  "seeAlso": [
+    "Jeremiah 17:7-8",
+    "Deuteronomy 11:18-21",
+    "Psalm 92:12-15",
+    "Proverbs 2:20-22",
+    "Psalm 37:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Way of the Righteous"
+    },
+    {
+      "range": "3",
+      "title": "Tree Imagery"
+    },
+    {
+      "range": "4-6",
+      "title": "Fate of the Wicked"
+    }
+  ],
+  "themes": [
+    "Righteousness",
+    "Torah (Law)",
+    "Meditation",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "What daily practices help me \"delight in\" and \"meditate\" on sacred teaching in a way analogous to the psalm's portrait?",
+    "How should a faith community encourage separation from harmful influences while avoiding judgmental exclusion?",
+    "In what ways might the psalm's promise that the righteous \"shall prosper\" be understood spiritually rather than primarily materially?",
+    "How can the contrasting images of \"tree\" and \"chaff\" shape pastoral care for people experiencing hardship?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are uncertain. The term \"law of the LORD\" can mean Torah, covenant instruction, or a broader sense of divine teaching; whether \"prosper\" signals material blessing, moral effectiveness, or covenantal well‑being is ambiguous. The nature and timing of the \"judgment\" (social, cultic, or eschatological) are also open to interpretation.",
+  "createdAt": "2025-11-03T21:27:59.715Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

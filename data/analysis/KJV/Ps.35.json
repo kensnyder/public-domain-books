@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.35",
+  "briefOverview": "A personal lament asking God to act as warrior and judge against malicious enemies, followed by a vow of public praise when God vindicates the psalmist.",
+  "summary": "The speaker petitions Yahweh to take up arms on his behalf and to thwart those who lie in ambush, asking that the attackers be confounded, chased, and caught in their own nets (vv.1–8). He expresses confidence that his soul will rejoice in the Lord’s salvation and praises God for delivering the poor from the violent (vv.9–10). The psalmist recounts injuries done by false witnesses and ungrateful foes who repaid his kindness with harm and who mocked him publicly (vv.11–16). He cries aloud for God’s timely intervention and righteous judgment so that his enemies will not gloat over his ruin (vv.17–26). The psalm closes with a vow to praise God publicly and to speak of God’s righteousness continually when vindicated (vv.27–28).",
+  "externalContext": "Psalm 35 belongs to the lament/imprecatory subgenre of Hebrew poetry in which an individual appeals to God as judge and warrior; many such psalms are traditionally attributed to David, though the text here does not supply a heading. The language of divine combat, pursuit by an angel, and law-like appeals to judgment reflects Ancient Near Eastern motifs and Israelite beliefs that God actively defends the innocent and enacts justice. Public worship imagery (\"the great congregation\") indicates the complainant expects or desires communal recognition of God’s deliverance rather than only private relief.",
+  "externalReferences": "The plea for God as a defender and judge echoes other individual laments that call for divine vindication, notably Psalm 7:1–17 and Psalm 17:1–15 which also appeal to God’s justice against false accusers. The harsh imprecatory language has parallels in Psalm 109:1–31 and the lament tone and trust in deliverance resemble Psalm 22:1–21; readers often compare these psalms to understand the tradition of calling for God’s retributive action. The vow to give public thanks \"in the great congregation\" parallels cultic or communal thanksgiving patterns elsewhere in the Psalter (e.g., Psalm 35:18 connects with broader thanksgiving motifs in Psalms such as 34:1–3).",
+  "seeAlso": [
+    "Psalms 7:1-17",
+    "Psalms 17:1-15",
+    "Psalms 22:1-21",
+    "Psalms 34:1-3",
+    "Psalms 109:1-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Plea for Rescue"
+    },
+    {
+      "range": "9-16",
+      "title": "Complaint About Enemies"
+    },
+    {
+      "range": "17-28",
+      "title": "Call for Judgment and Vow"
+    }
+  ],
+  "themes": [
+    "Vindication",
+    "Divine Justice",
+    "Enemies",
+    "Public Praise"
+  ],
+  "practicalQuestions": [
+    "How should I pray when I feel wronged—seek vindication, forgiveness, or both?",
+    "What boundaries should guide a community when members call for God’s judgment on others?",
+    "How can I hold to trust in God while experiencing unjust treatment or slander?",
+    "When delivered, how can I responsibly turn personal vindication into public praise?"
+  ],
+  "uncertainAreas": "The psalm gives no clear historical setting or named antagonist, so the identity and circumstances of the persecutors are uncertain. It is also ambiguous how literally the imprecatory imagery (angels pursuing enemies, destruction falling) should be taken—poetic, theological, or intended as petition for concrete retribution. Translation choices for a few archaic words (e.g., \"abjects\") affect tone and nuance.",
+  "createdAt": "2025-11-03T21:40:15.277Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.133",
+  "briefOverview": "A short hymn celebrating the goodness of brethren dwelling together in unity, using priestly and natural imagery to show how unity brings God's blessing.",
+  "summary": "The psalmist exults that it is good and pleasant when brothers live together in unity. He gives two striking images: sacred anointing oil poured over Aaron’s head and beard that runs down his garments, and the refreshing dew of Mount Hermon descending on Zion. Both images convey abundance, consecration, and blessing; the psalm concludes that where such unity exists the LORD has commanded a blessing, even life forevermore.",
+  "externalContext": "Psalm 133 is one of the Songs of Ascents (Psalms 120–134), short hymns sung by pilgrims traveling to Jerusalem or by temple guilds; that liturgical setting helps explain its focus on communal life and blessing. The reference to Aaron connects the poem to the priestly tradition and the sanctifying practices of ancient Israel, while Mount Hermon and Zion evoke the northern and southern highlands of ancient Israel and symbolically link distant places through a single blessing.",
+  "externalReferences": "The image of Aaron and blessing recalls the priestly benediction in Numbers 6:24–26, which likewise invokes God’s blessing through the Aaronic line. The theme of Christian unity as a locus of blessing and witness is echoed in New Testament passages such as John 17:20–23 (Jesus’ prayer for believers’ unity) and Ephesians 4:1–6 (an appeal to preserve the unity of the Spirit).",
+  "seeAlso": [
+    "Numbers 6:24-26",
+    "John 17:20-23",
+    "Ephesians 4:1-6",
+    "Psalms 120-134"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1",
+      "title": "Unity Praised"
+    },
+    {
+      "range": "2-3",
+      "title": "Two Blessing Images"
+    }
+  ],
+  "themes": [
+    "Unity",
+    "Blessing",
+    "Priestly imagery",
+    "Communal life"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways can my community cultivate the unity described here?",
+    "How might leaders model consecration and service so their unity benefits the whole community?",
+    "What practical barriers prevent 'dwelling together in unity' and how can they be addressed?",
+    "How does the promise of blessing in the psalm shape priorities for communal life and worship?"
+  ],
+  "uncertainAreas": "Uncertainty about the original occasion or narrowness of audience (pilgrims, temple community, or broader Israel) and the precise nuance of 'life for evermore' (eschatological life versus communal flourishing).",
+  "createdAt": "2025-11-03T22:25:30.922Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

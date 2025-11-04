@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Ps.123",
+  "briefOverview": "A short communal plea for God's mercy expressed by people who depend on him while suffering scorn from the proud.",
+  "summary": "The psalmist lifts eyes to God who dwells in heaven and pictures the community’s waiting as the attentive gaze of servants and a maiden to their masters (verses 1–2). The people cry out twice for mercy because they are filled with contempt and the scorn of those who are at ease and proud (verses 3–4). The tone is a brief, focused lament and petition: dependence on God, an appeal for mercy, and a complaint about social humiliation.",
+  "externalContext": "Psalm 123 belongs to the collection called the Songs of Ascents (Psalms 120–134), a group of short psalms likely used by pilgrims traveling to Jerusalem or by worshippers in the temple. The servant/maiden imagery reflects social relationships in the ancient Near East, where dependents watched their masters’ gestures for provision and protection. The psalm’s concern with contempt and scorn fits wider Israelite lament motifs in contexts of oppression, exile, or social marginalization, though the precise historical situation of this short poem is not specified in the text.",
+  "externalReferences": "This psalm is part of the Songs of Ascents (Psalms 120–134), a distinct collection within the Psalter with shared liturgical associations. Its complaint about being filled with contempt resembles language in Psalm 44:13–14, where the community speaks of disgrace and derision from neighbors, showing a recurring biblical theme of communal humiliation and appeal for divine help.",
+  "seeAlso": [
+    "Psalms 120-134",
+    "Psalms 44:13-14",
+    "Psalms 13:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Looking to God"
+    },
+    {
+      "range": "3-4",
+      "title": "Plea and Complaint"
+    }
+  ],
+  "themes": [
+    "Dependence",
+    "Mercy",
+    "Lament",
+    "Oppression"
+  ],
+  "practicalQuestions": [
+    "When we feel scorned or marginalized today, how do we 'lift our eyes' to depend on God rather than on human approval?",
+    "In what practical ways can a faith community seek mercy and justice for those who suffer contempt?",
+    "How does the servant/maiden image challenge modern attitudes toward vulnerability and dependence?",
+    "How should the experience of communal shame shape our corporate prayers and actions?"
+  ],
+  "uncertainAreas": "The psalm’s historical setting is not specified—'those that are at ease' could be foreign oppressors, local elites, or neighboring peoples. It is also unclear whether the primary setting is pilgrimage liturgy, temple worship, or a more general communal lament.",
+  "createdAt": "2025-11-03T22:21:25.710Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

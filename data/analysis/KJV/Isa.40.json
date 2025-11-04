@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Isa.40",
+  "briefOverview": "A prophetic message of comfort to Israel that contrasts human transience and idolatry with the incomparable, sustaining power of God, and promises renewed strength to the weary.",
+  "summary": "The chapter opens with a command to comfort Jerusalem, announcing pardon and the end of her suffering. A herald calls for preparing the way of the LORD, promising that the LORD’s glory will be revealed and all will witness it. The text contrasts the frailty and fleeting beauty of humans with the permanence of God's word. It denounces idols as powerless and asks rhetorically who can compare to the Creator who measures the heavens and names the stars. The poem affirms God’s sovereignty over nations and rulers, and closes by addressing Israel’s doubts with an assurance that the everlasting Creator gives strength to the faint and renews those who wait on him.",
+  "externalContext": "Many scholars place Isaiah 40 in the historical context of the Babylonian exile (6th century BCE) and view chapters 40–55 as messages of consolation to an exiled community anticipating return. The shepherd and prophetic herald imagery draw on long-standing Ancient Near Eastern and Israelite motifs (shepherd-kings, royal processional language). References to idols and craftsmen reflect common prophetic attacks on cultic practices and imported religious imagery of the period.",
+  "externalReferences": "Verse 3 (“voice ... in the wilderness”) is later cited in the Gospels as a prophecy fulfilled in John the Baptist (see Matthew 3:3; Mark 1:3; Luke 3:4; John 1:23). The shepherd image in verse 11 resonates with Psalm 23 (“The LORD is my shepherd”) and with Ezekiel 34:11–16, where God promises to seek and feed his flock. The phrase about the enduring word (verse 8) is echoed in New Testament teaching about the permanence of God's word (for example 1 Peter 1:25, which explicitly quotes Isaiah).",
+  "seeAlso": [
+    "Matthew 3:3",
+    "Mark 1:3",
+    "Luke 3:4",
+    "John 1:23",
+    "Psalm 23:1",
+    "Ezekiel 34:11-16",
+    "Isaiah 45:1-4",
+    "1 Peter 1:25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Comfort and Coming"
+    },
+    {
+      "range": "6-17",
+      "title": "Frailty versus Word"
+    },
+    {
+      "range": "18-31",
+      "title": "God’s Sovereignty and Strength"
+    }
+  ],
+  "themes": [
+    "Comfort",
+    "Sovereignty of God",
+    "Human frailty",
+    "Renewal of strength"
+  ],
+  "practicalQuestions": [
+    "How can communities today receive and communicate consolation in times of collective loss or exile?",
+    "What practices help individuals ‘wait upon the LORD’ so that strength and renewal occur in weariness?",
+    "In what ways do modern 'idols' (values, possessions, or authorities) mirror the powerless images Isaiah condemns?",
+    "How does the image of God as shepherd shape pastoral care and leadership in religious communities?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting: while many scholars attribute the chapter to a later exilic prophet (so-called 'Second Isaiah'), the book's traditional attribution to Isaiah son of Amoz remains in some traditions. The identity of the 'voice in the wilderness' can be read as a poetic prophetic motif or as an individual herald; the scope of 'all flesh shall see it together' leaves room for both immediate and eschatological readings.",
+  "createdAt": "2025-11-03T23:21:12.940Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

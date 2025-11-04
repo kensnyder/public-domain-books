@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.106",
+  "briefOverview": "A communal hymn of praise that recounts Israel’s repeated rebellions and God’s merciful deliverances, ending with a plea for rescue and a doxology.",
+  "summary": "The psalm opens with a call to praise God for his enduring mercy and asks to be remembered and allowed to rejoice with God’s chosen (vv. 1–5). It then confesses national sin, recounting Israel’s failures beginning in Egypt and at the Red Sea, their quick unbelief, lusting in the wilderness, envy of Moses, and the golden calf episode (vv. 6–23). The narrative continues with further disobedience—refusal to dispossess nations, idolatry, child sacrifice, and bloody corruption—and describes the resulting divine anger and subjugation by enemies (vv. 24–42). Despite Israel’s recurrent unfaithfulness, God repeatedly delivers them when they cry out, remembers his covenant, and shows pity; the psalm closes with a petition for rescue and a final blessing and Amen (vv. 43–48).",
+  "externalContext": "Psalms of historical reflection like this one are often read as communal confessions used in worship; many scholars see Psalm 106 as part of post-exilic liturgical collections that emphasize covenant, repentance, and restoration. The psalm assumes familiarity with the Exodus–wilderness narratives and with episodes recorded in the books of Exodus and Numbers, which served as foundational national memory for Israel.",
+  "externalReferences": "The psalm explicitly echoes episodes described in Exodus 14 (the Red Sea crossing) and Exodus 32 (the making of the golden calf). It also parallels material in Numbers 16 (the fate of Dathan and Abiram) and Numbers 25 (Baal‑peor and Phinehas’s zeal), and it closely resembles other biblical retellings of Israel’s history such as Psalm 78 and Psalm 105, which similarly recount failure and divine faithfulness.",
+  "seeAlso": [
+    "Exodus 14:21-31",
+    "Exodus 32:1-35",
+    "Numbers 16:28-35",
+    "Numbers 25:1-13",
+    "Psalm 78:9-11",
+    "Psalm 105:23-38"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Opening Praise and Petition"
+    },
+    {
+      "range": "6-23",
+      "title": "Wilderness Rebellions"
+    },
+    {
+      "range": "24-48",
+      "title": "Consequences, Mercy, Petition"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Sin and Repentance",
+    "Divine Mercy",
+    "Covenant History"
+  ],
+  "practicalQuestions": [
+    "How does remembering both our failures and God’s mercy shape communal worship today?",
+    "In what ways can leaders emulate Moses’ intercession when a community faces consequences for collective wrongdoing?",
+    "What modern 'idols' or assimilations correspond to the behaviors criticized in the psalm, and how should a community respond?",
+    "How can the tension between divine justice and mercy in this psalm inform contemporary approaches to repentance and reconciliation?"
+  ],
+  "uncertainAreas": "Traditional authorship (e.g., David) is not specified in the text; the psalm’s precise date and redactional history are debated. Some verses closely parallel other psalms (notably Ps 78), raising questions about literary dependence and compilation that cannot be resolved from the chapter alone.",
+  "createdAt": "2025-11-03T22:13:30.895Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

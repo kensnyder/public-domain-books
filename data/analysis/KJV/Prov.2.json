@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.2",
+  "briefOverview": "A fatherly exhortation to seek wisdom actively and the benefits that follow, including divine insight, moral protection, and a secure future for the righteous.",
+  "summary": "The speaker urges the listener to receive and treasure divine instruction, to pursue wisdom and understanding as valuable treasures. Wisdom is described as a gift from the LORD that brings knowledge, discretion, and preservation for the upright. Learning wisdom will enable one to recognize righteousness and avoid dangerous paths—specifically the deceitful speech of wicked people and the allure of a 'strange woman' whose way leads to death. Ultimately, walking in wisdom results in dwelling securely in the land for the upright, while the wicked will be cut off.",
+  "externalContext": "Proverbs belongs to the Israelite wisdom tradition (often associated with Solomon) and reflects ancient Near Eastern concerns about social order, moral instruction, and the formation of character. 'The fear of the LORD' is a technical phrase in Israelite religion that signals reverence and ethical orientation toward God and is frequently paired with wisdom and knowledge in biblical literature. Personification of Wisdom (often feminine in Hebrew) and warnings against sexual seduction are characteristic rhetorical features of wisdom literature of the period.",
+  "externalReferences": "The association of wisdom and the fear of God echoes Proverbs 1:7 ('The fear of the LORD is the beginning of knowledge') and continues themes found in Proverbs 3:13–18, where wisdom is praised as a source of blessing and life. The motif of the dangerous adulterous or 'strange' woman reappears in Proverbs 5:3–6 and Proverbs 7:5–27, which give extended warnings about sexual temptation and its social consequences.",
+  "seeAlso": [
+    "Proverbs 1:7",
+    "Proverbs 3:13-18",
+    "Proverbs 5:3-6",
+    "Proverbs 7:5-27"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Call to Seek Wisdom"
+    },
+    {
+      "range": "6-15",
+      "title": "Source and Benefits"
+    },
+    {
+      "range": "16-22",
+      "title": "Warnings and Outcomes"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Fear of the LORD",
+    "Moral Discernment",
+    "Protection"
+  ],
+  "practicalQuestions": [
+    "What concrete practices (reading, mentoring, prayer) can I adopt to 'seek wisdom' as the text advises?",
+    "How should 'the fear of the LORD' shape everyday moral decisions in a contemporary context?",
+    "What modern forms do the 'evil man' and the 'strange woman' take, and how can one cultivate discretion to avoid them?",
+    "How can communities encourage the uprightness that the chapter links with social stability and security?"
+  ],
+  "uncertainAreas": "Whether the 'strange woman' should be read primarily as a literal sexual warning or as a broader personification of folly and idolatry; the precise social and historical setting(s) of the sayings and their original audience; and how narrowly to construe 'the land' (literal territory, social well-being, or covenantal blessing).",
+  "createdAt": "2025-11-03T22:34:06.740Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

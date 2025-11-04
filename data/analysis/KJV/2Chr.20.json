@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Chr.20",
+  "briefOverview": "A crisis facing Judah prompts communal fasting, prophetic assurance, and a miraculous deliverance without battle; the chapter closes with a summary of Jehoshaphat's reign and a failed maritime alliance.",
+  "summary": "Neighboring coalitions from Moab, Ammon, and Mount Seir threaten Judah, and Jehoshaphat responds by proclaiming a fast and assembling the people to seek the LORD in the temple. He prays, recalls God's past acts, and appeals for help; the Spirit falls on the Levite Jahaziel, who declares that the battle belongs to God and instructs them to march but not fight. Jehoshaphat appoints singers to lead the procession; as they praise, God sets ambushes against the invaders, who turn on one another and are destroyed. Judah gathers abundant spoil for three days, blesses God in the Valley of Berachah, and returns to Jerusalem with music and renewed peace. The narrative then summarizes Jehoshaphat's generally righteous reign, notes remaining high places, and reports his later alliance with Ahaziah to build ships—an enterprise prophesied to fail and indeed broken.",
+  "externalContext": "2 Chronicles is generally considered a post‑exilic compilation (fifth century BCE or later) that emphasizes the temple, Levitical worship, and faithfulness to Yahweh. The enemies named—Moab, Ammon, and the people of Seir (Edom)—were longstanding Transjordanian neighbors of Israel and Judah; inter‑tribal raiding and coalition warfare were common in the Iron Age Levant. The chronicler’s interest in prophetic voices, temple worship, and cultic musicians reflects a theological agenda valuing centralized worship and Davidic institutions.",
+  "externalReferences": "The promise that the Lord will fight for his people and that they should be still parallels Exodus 14:13–14, where Moses tells Israel not to fear because the LORD will fight for them. The declaration that “the battle is the LORD’s” is thematically similar to David’s words to Goliath in 1 Samuel 17:47. The refrain sung by the procession—\"for his mercy endureth for ever\"—recalls the liturgical refrain found throughout Psalm 136. The chapter’s reference to additional records (\"the book of Jehu the son of Hanani\") connects this account to the broader Deuteronomistic/Historical material preserved in the books of Kings.",
+  "seeAlso": [
+    "Exodus 14:13-14",
+    "1 Samuel 17:47",
+    "Psalm 136:1",
+    "2 Chronicles 20:34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Crisis and Prayer"
+    },
+    {
+      "range": "14-22",
+      "title": "Prophetic Assurance and Victory"
+    },
+    {
+      "range": "23-37",
+      "title": "Aftermath and Royal Summary"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Corporate prayer",
+    "Prophetic word",
+    "Worship"
+  ],
+  "practicalQuestions": [
+    "When facing overwhelming problems, how might communal prayer and worship shape our response and priorities?",
+    "What does trusting that 'the battle is the LORD's' imply for personal and civic responsibility in crises?",
+    "How should leaders balance faith commitments with political or commercial alliances (cf. Jehoshaphat's partnership with Ahaziah)?",
+    "In what ways can communities ensure that benefits of a deliverance are distributed justly rather than hoarded?"
+  ],
+  "uncertainAreas": "The historicity and precise dating of the battle and the miraculous deaths are debated; the identity of the unnamed \"others\" in the coalition and the exact location of some place names (e.g., Hazazon‑Tamar/En‑Gedi) remain uncertain. The extent to which the chronicler shaped the account for theological emphasis (temple, Levites, praise) rather than strict chronological reporting is also open to interpretation.",
+  "createdAt": "2025-11-03T19:26:49.802Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

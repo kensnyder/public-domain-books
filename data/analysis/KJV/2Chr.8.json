@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "2Chr.8",
+  "briefOverview": "Solomon consolidates his kingdom by completing construction projects, organizing religious service, establishing administrative order, and conducting overseas trade.",
+  "summary": "At the end of twenty years of building, Solomon completes the house of the LORD and his own house and finishes multiple urban and military works: he rebuilds and stations people in cities given by Hiram, conquers Hamath-zobah, and builds Tadmor, fortified towns (including Beth-horon), store-cities, and chariot cities. He exacts tribute from remaining Canaanite inhabitants while appointing Israelites to military and leadership roles and setting up 250 chief officers over the people. Solomon brings Pharaoh’s daughter to a separate house he built for her out of concern for the temple’s holiness. He establishes regular burnt offerings according to Mosaic prescription and arranges the priests’ and Levites’ courses as David had ordered; the temple work is perfected. Finally, he undertakes maritime activity at Ezion-geber and Eloth with Hiram’s seamen, bringing home a large quantity of gold from Ophir.",
+  "externalContext": "Chronicles was written or compiled in a post-exilic period with strong interest in cultic and priestly arrangements; it often retells material found in the Deuteronomistic history with a temple-focused perspective. Hiram (Huram) of Tyre was a Phoenician king who is elsewhere attested as a supplier of timber and craftsmen for Israelite building projects, reflecting historical Israelite–Phoenician cooperation in the tenth–ninth centuries BCE. Tadmor is often identified with Palmyra, an oasis-city in the Syrian desert, and Ophir is an ancient source of gold whose precise location is uncertain in modern scholarship.",
+  "externalReferences": "This chapter parallels material in 1 Kings (especially 1 Kings 9:10–28 and related passages in 1 Kings 5 about Solomon’s relationship with Hiram and building projects), and 1 Kings 10:11 records gold brought from Ophir via ships sent by Hiram. The temple completion and subsequent cultic regulations echo the account and concerns found in 2 Chronicles 7 (temple dedication) and point back to Mosaic prescriptions for feasts and offerings (see Leviticus 23 for the major festivals mentioned).",
+  "seeAlso": [
+    "1 Kings 9:10-28",
+    "1 Kings 5:1-12",
+    "1 Kings 10:11",
+    "2 Chronicles 7:1-11",
+    "Leviticus 23",
+    "1 Chronicles 23:1-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Building and Cities"
+    },
+    {
+      "range": "7-11",
+      "title": "Population and Administration"
+    },
+    {
+      "range": "12-18",
+      "title": "Worship and Trade"
+    }
+  ],
+  "themes": [
+    "Construction",
+    "Temple worship",
+    "Administration",
+    "Maritime trade"
+  ],
+  "practicalQuestions": [
+    "How should modern leaders balance public/religious priorities with private and diplomatic obligations (as Solomon separated his wife’s residence from the holy place)?",
+    "What responsibilities do governments have today when integrating resident noncitizen populations—taxation, labor, or protection—compared with the tribute arrangements described here?",
+    "How can religious communities maintain regular worship and institutional organization during and after large civic projects?",
+    "What ethical considerations arise from ancient patterns of employing foreign expertise and conducting international trade in pursuit of national wealth?"
+  ],
+  "uncertainAreas": "Identification of Tadmor and the exact location of Ophir remain uncertain; the social status implied by “made to pay tribute” (taxation, servitude, or vassalage) is not fully specified; details about the fate or faith of Pharaoh’s daughter and the precise duties of the 250 officers are not elaborated in the chapter.",
+  "createdAt": "2025-11-03T19:20:42.437Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

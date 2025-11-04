@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Job.23",
+  "briefOverview": "Job longs to present his case directly to God while wrestling with God's hiddenness, sovereign control, and the refining purpose of his suffering.",
+  "summary": "Job opens by renewing his complaint and expressing a deep desire to find God so he can argue his case and hear God's reply. He imagines pleading before God's seat and anticipates knowing how God would answer him. Although he searches for God's presence, God remains hidden on every side, yet God fully knows Job's path and will test him so that he may 'come forth as gold.' Job asserts his personal integrity: he has followed God's footsteps, kept God's commands, and prized God's words above daily food. At the same time he recognizes God's unchangeable will, which troubles and frightens him as God afflicts him; he laments that he was not removed before the onset of darkness nor shielded from it.",
+  "externalContext": "The passage uses legal and cultic imagery common in the ancient Near East: bringing a case before a deity or judge and seeking an audience at the divine 'seat.' The idea of testing and refining (coming forth as gold) is a standard wisdom motif for moral and spiritual purification. The poem fits within a larger wisdom debate about suffering and divine justice, where rhetoric about courtroom procedure and divine knowledge is a familiar way to frame human complaint.",
+  "externalReferences": "This speech echoes Job's earlier wishes to confront God (cf. Job 13:3; Job 31:35). The refining metaphor resembles Proverbs 17:3 and Proverbs 27:21, which portray fire or a furnace testing metal or people. The claim that God 'knows the way that I take' resonates with Psalm 139:3's language about God discerning one's path.",
+  "seeAlso": [
+    "Job 13:3",
+    "Job 31:35",
+    "Proverbs 17:3",
+    "Proverbs 27:21",
+    "Psalm 139:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Desire to Plead"
+    },
+    {
+      "range": "8-12",
+      "title": "God's Hiddenness"
+    },
+    {
+      "range": "13-17",
+      "title": "Sovereignty and Fear"
+    }
+  ],
+  "themes": [
+    "Divine hiddenness",
+    "Testing/refinement",
+    "Integrity",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "How do I respond when God seems hidden despite my desire to seek him?",
+    "In what concrete ways can I 'value the words of his mouth more than necessary food' in daily life?",
+    "How does believing that trials can refine rather than only punish change my attitude toward suffering?",
+    "What practices help maintain integrity and trust when feeling unjustly afflicted?"
+  ],
+  "uncertainAreas": "Verse 6 has ambiguous wording in translation (whether God would 'plead against me with great power' or 'would put strength in me'), affecting interpretation of God's posture toward Job. The precise meaning of 'cut off before the darkness' and the nature of the 'darkness' (death, ignorance, despair) is also somewhat uncertain from the text alone.",
+  "createdAt": "2025-11-03T21:18:39.961Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

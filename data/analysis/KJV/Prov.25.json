@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Prov.25",
+  "briefOverview": "A collection of Solomon’s proverbs copied in Hezekiah’s time, offering practical maxims about kingship, speech, social conduct, and self-control.",
+  "summary": "The chapter opens by identifying these sayings as Solomon’s proverbs copied during King Hezekiah’s reign, then contrasts God’s hidden wisdom with a king’s duty to investigate matters. It gives advice about courtly behavior (humility before rulers), dispute resolution, and the value of timely, truthful speech. Several similes praise faithful service, proper rebuke, and restraint in boasting, and warn against hasty disputes, false witnesses, and trusting the unfaithful. The closing verses stress hospitality even to enemies, the harms of anger and slander, and the importance of self-rule and moderation.",
+  "externalContext": "Proverbs is part of the Hebrew Wisdom Literature and was compiled over centuries; the heading that these were copied by “the men of Hezekiah” (verse 1) suggests a later editorial activity in the late monarchic period or during Judah’s reforms. Wisdom sayings circulated in royal and courtly settings and often give brief, memorable analogies suited for teaching social behavior and moral formation.",
+  "externalReferences": "The book’s opening identification of Solomon as author echoes the superscription in Proverbs 1:1 and the collection attributed to Solomon beginning at Proverbs 10:1. The specific instruction to feed and give water to an enemy (25:21–22) is later quoted in the New Testament in Romans 12:20. The motif of self-control and the ruin of lacking it resonates with other proverbs about temperance (e.g., Proverbs 16:32).",
+  "seeAlso": [
+    "Proverbs 1:1",
+    "Proverbs 10:1-22:16",
+    "Proverbs 16:32",
+    "Romans 12:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Provenance & Royal Wisdom"
+    },
+    {
+      "range": "8-17",
+      "title": "Speech and Conduct"
+    },
+    {
+      "range": "18-28",
+      "title": "Restraint and Self-control"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Speech",
+    "Humility",
+    "Self-control"
+  ],
+  "practicalQuestions": [
+    "How can I show appropriate humility and patience in situations with authority figures?",
+    "When is it wiser to speak up directly and when to remain silent to avoid shame or escalation?",
+    "How might I practice hospitality or kindness toward someone I consider an enemy?",
+    "What daily practices help strengthen self-control and prevent harmful impulsive reactions?"
+  ],
+  "uncertainAreas": "Uncertainty about the exact date and circumstances of compilation (the phrase about Hezekiah’s men points to later editorial activity but does not fix a precise date). Some metaphors (e.g., ‘heap coals of fire upon his head’) admit multiple interpretive nuances—literal, ironic, or proverbial—so their intended emotional or ethical effect can be read in different ways.",
+  "createdAt": "2025-11-03T22:45:51.129Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

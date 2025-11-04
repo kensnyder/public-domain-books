@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Job.22",
+  "briefOverview": "Eliphaz accuses Job of social injustice and hidden wickedness and urges him to repent, promising restoration if he returns to God.",
+  "summary": "Eliphaz begins with a sharp challenge: he argues that Job's suffering must indicate great wickedness, listing specific social sins (taking pledges, stripping the poor, withholding food and aid, oppressing widows and orphans). He paints God as transcendent and inscrutable yet just, recalling examples of wicked people who were suddenly cut down. Moving from accusation to counsel, Eliphaz exhorts Job to 'acquaint' himself with God, accept divine instruction, remove iniquity, and promises material and social restoration—wealth, protection, heard prayer, and elevation—if Job repents and pursues purity of life.",
+  "externalContext": "The Book of Job is wisdom literature that engages ancient Near Eastern concerns about divine justice; in the dialogue cycles Job's friends articulate a conventional retribution theology (suffering as punishment for sin). Eliphaz the Temanite represents one strand of traditional wisdom that emphasizes moral causality and social obligation. References like 'Ophir' point to well-known sources of gold in the ancient world and are rhetorical markers of material prosperity.",
+  "externalReferences": "The friends' retributive assumption echoes Deuteronomic and wisdom texts that link behavior and blessing/cursing (see Deuteronomy 28 and many Proverbs). The chapter must be read against the larger Job narrative: Job 1:1 presents Job as 'blameless and upright,' a claim the friends dispute, and God's later speeches in Job 38–41 challenge the friends' theological simplifications about divine justice.",
+  "seeAlso": [
+    "Job 1:1",
+    "Job 38:1-41:34",
+    "Deuteronomy 28",
+    "Proverbs 11:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Accusation and Examples"
+    },
+    {
+      "range": "21-30",
+      "title": "Call to Repentance and Promise"
+    }
+  ],
+  "themes": [
+    "Retributive justice",
+    "Repentance",
+    "Social ethics",
+    "Divine transcendence"
+  ],
+  "practicalQuestions": [
+    "How should we evaluate claims that personal suffering is direct punishment for specific sins?",
+    "What concrete steps can we take to address the kinds of social injustice Eliphaz lists (care for widows, orphans, the hungry)?",
+    "In what ways can one 'acquaint' oneself with God today—through study, practice, or ethical reform—and how would that change behavior?",
+    "How do we balance belief in God's power and inscrutability with calls to human responsibility and repentance?"
+  ],
+  "uncertainAreas": "Attribution of specific sins to Job is presented as Eliphaz's conviction rather than proved fact in the text; it's unclear whether his promises of material wealth are literal guarantees or rhetorical devices. Some images (e.g., 'deliver the island of the innocent' in v.30) are obscure and admit multiple readings. The broader question of whether suffering always indicates personal sin is debated within the book itself.",
+  "createdAt": "2025-11-03T21:18:11.338Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

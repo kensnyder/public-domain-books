@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Ps.61",
+  "briefOverview": "A personal cry for deliverance and refuge that turns into a vow of lifelong trust and a prayer for the king's welfare.",
+  "summary": "The psalmist cries out to God for help from a place of deep distress, asking to be led to a higher rock and shelter. He recalls God's past protection as a fortress and pledges to dwell in God's presence, trusting under the covert of God's wings. The speaker affirms that God has heard his vows and granted a heritage to those who fear God's name, and he petitions God to prolong the king's life and preserve him in mercy and truth. The psalm concludes with a vow to sing God's praise forever and to fulfill vows daily.",
+  "externalContext": "Psalms like this were used in Israelite worship and often reflect royal and personal concerns simultaneously; traditions attribute many psalms to David and connect them with the royal household. Images such as 'rock,' 'tabernacle,' and 'wings' are conventional Near Eastern metaphors for divine protection. The word 'Selah' likely indicates a liturgical or musical pause in the ancient setting. A petition for the king fits the covenantal context in which the monarch's welfare was linked to national well-being.",
+  "externalReferences": "The protective imagery echoes other psalms that use 'rock' and 'fortress' language (e.g., Psalm 18:2) and the metaphor of being sheltered 'under the wings' (cf. Psalm 17:8; Psalm 91:4). The prayer for the king and for his enduring rule resonates with the Davidic covenant promises (2 Samuel 7:12–16) that foresee a lasting dynasty.",
+  "seeAlso": [
+    "Psalm 18:2",
+    "Psalm 17:8",
+    "Psalm 91:4",
+    "2 Samuel 7:12-16",
+    "Psalm 63:3-8",
+    "Psalm 72:17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Cry for Refuge"
+    },
+    {
+      "range": "5-8",
+      "title": "Vows and Royal Blessing"
+    }
+  ],
+  "themes": [
+    "Refuge",
+    "Prayer",
+    "Kingship",
+    "Vows/Praise"
+  ],
+  "practicalQuestions": [
+    "When I feel overwhelmed, where do I turn for refuge, and how can I 'seek the rock' in practice?",
+    "What vows or commitments am I prepared to make in gratitude for perceived past protection?",
+    "How should I pray for contemporary leaders in ways that reflect concern for mercy and truth?",
+    "In what routines (daily praise, worship) can I express ongoing trust like the psalmist's promise to sing forever?"
+  ],
+  "uncertainAreas": "It is unclear whether 'the end of the earth' is literal or poetic hyperbole and whether the 'king' refers to a specific monarch (e.g., David) or stands more generally for the royal office; the original liturgical context and precise function of 'Selah' remain matters of scholarly debate.",
+  "createdAt": "2025-11-03T21:51:51.755Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

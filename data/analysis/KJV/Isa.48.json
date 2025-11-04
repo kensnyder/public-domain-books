@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Isa.48",
+  "briefOverview": "A prophetic rebuke of Israel’s false piety and stubbornness, coupled with an affirmation of Yahweh’s sovereign foreknowledge, refining discipline, and promise of redemption from Babylon.",
+  "summary": "The prophet confronts the people of Israel for claiming the name of the LORD while behaving unrighteously and trusting idols. God insists that he declared future events in advance so that the people cannot credit their idols for what he accomplished. Because Israel is obstinate, God has long restrained anger and has 'refined' them through affliction — primarily for the sake of his own name and glory. God asserts his unique identity and cosmic power ('first' and 'last'; maker of earth and heavens) and summons the people to listen to his instruction. The chapter closes with a call to depart Babylon in joyful proclamation of redemption and an evocative allusion to Yahweh’s past deliverances (waters from the rock), followed by the warning that there is no peace for the wicked.",
+  "externalContext": "Scholars commonly place this material in the context of the Babylonian exile or the period of return (6th century BCE), when questions about divine sovereignty, prophetic prediction, and idolatry were pressing for displaced Judeans. The rhetoric reflects typical prophetic concerns: exposing nominal religion that lacks justice, insisting on Yahweh’s exclusive power over history, and encouraging return/faithfulness amid foreign domination.",
+  "externalReferences": "The chapter’s insistence that Yahweh foretold events so they cannot be credited to idols echoes other Isaiah passages that contrast God’s sovereignty with impotent images (see Isaiah 44:9–20; Isaiah 46:5–7). The summons to 'go forth of Babylon' and the language of redemption resonate with themes in Isaiah 43:1–3 and the later promise of Cyrus as instrument of liberation in Isaiah 45:1. The image of water from the rock intentionally recalls Israel’s wilderness deliverance in Exodus 17:6 and Numbers 20:11.",
+  "seeAlso": [
+    "Isaiah 41:4",
+    "Isaiah 43:1-3",
+    "Isaiah 44:9-20",
+    "Isaiah 45:1",
+    "Isaiah 46:5-7",
+    "Exodus 17:6",
+    "Numbers 20:11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Rebuke and Foreknowledge"
+    },
+    {
+      "range": "12-16",
+      "title": "Divine Identity Summoned"
+    },
+    {
+      "range": "17-21",
+      "title": "Redemption from Babylon"
+    }
+  ],
+  "themes": [
+    "Divine Sovereignty",
+    "Prophecy",
+    "Judgment and Mercy",
+    "Idolatry"
+  ],
+  "practicalQuestions": [
+    "How do we guard against religious identity becoming mere form while justice and righteousness are absent?",
+    "In what ways can communities interpret suffering as corrective rather than only punitive, as the chapter characterizes 'refining'?",
+    "What modern 'idols' (ideas, institutions, leaders) might people mistakenly credit for blessings that should be attributed to ethical faithfulness?",
+    "How should believers respond when called to 'leave Babylon'—that is, to abandon corrupt systems or places that compromise their values?"
+  ],
+  "uncertainAreas": "Uncertainty about precise historical setting (pre-exilic, exilic, or post-exilic composition) and about whether some phrases ('created now', 'new things') are literal predictive prophecy or rhetorical claims of revelation. Also ambiguity in the intended audience scope (the whole nation, an exilic remnant, or leaders specifically).",
+  "createdAt": "2025-11-03T23:24:59.063Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

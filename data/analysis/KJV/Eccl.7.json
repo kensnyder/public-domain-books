@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Eccl.7",
+  "briefOverview": "A collection of wisdom sayings that contrasts mourning and mirth, praises practical prudence, and reflects on the limits and uses of wisdom in a world ordered by God.",
+  "summary": "The speaker values a good name and the sober lessons of mourning over frivolous feasting and laughter (1–6), warns against quick anger and misplaced nostalgia for past days (7–10), and affirms the practical benefits of wisdom alongside its limits (11–12). He urges acceptance of God's inscrutable ordering of events and counsels a balanced response to prosperity and adversity (13–18). The preacher acknowledges human moral ambiguity—righteous and wicked alike experience unexpected outcomes—and cautions against extremes of righteousness or wickedness (15–18). He stresses wisdom's practical strength but admits its inability to fully penetrate the deepest matters (19–24). The chapter closes with sharp observations about seductive folly (26–28) and a concluding note that God made humanity upright though people invent many ways (29).",
+  "externalContext": "Ecclesiastes is part of the Hebrew wisdom literature and is traditionally attributed to a teacher called Qoheleth (\"the Preacher\"). Scholars generally place its composition in the later period of the Hebrew Bible (commonly dated to the post‑exilic or Hellenistic era) and note its collection of aphoristic and paradoxical sayings that interact with earlier wisdom traditions. The style—antithetical proverbs, moral reflection, and existential observation—fits within the Near Eastern and Israelite proverb tradition, where sayings about reputation, anger, wealth, and the limits of human insight are common.",
+  "externalReferences": "The affirmation that \"God hath made man upright\" echoes the creation themes in Genesis (cf. Genesis 1:26–27) and resonates with broader biblical concerns about human nature and the consequences of human actions. The book’s emphasis on wisdom as practical defense and the limits of human understanding parallels Proverbs (e.g., wisdom praised in Proverbs 3 and Proverbs 8) and the theme of divine inscrutability found in Job (cf. Job 38). The contrast between mourning and feasting and the value of sober reflection also fits the larger wisdom corpus that values discipline, rebuke, and guarded speech (compare Proverbs' warnings about speech and counsel).",
+  "seeAlso": [
+    "Genesis 1:26-27",
+    "Proverbs 3:13-18",
+    "Proverbs 10:19",
+    "Job 38:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Mourning, Wisdom, Anger"
+    },
+    {
+      "range": "11-18",
+      "title": "Wisdom, Providence, Balance"
+    },
+    {
+      "range": "19-29",
+      "title": "Limits of Wisdom and Conclusion"
+    }
+  ],
+  "themes": [
+    "Wisdom",
+    "Mortality",
+    "Paradox",
+    "Practical conduct"
+  ],
+  "practicalQuestions": [
+    "How would remembering mortality (a \"house of mourning\") change my daily priorities and how I judge pleasure?",
+    "In what situations might rebuke be more helpful than praise, and how can I give or receive it well?",
+    "Where am I tempted to be \"righteous over much\" or to act with proud certainty, and how can I cultivate balanced humility?",
+    "How should I hold together the pursuit of wisdom with recognition that not all things can be made straight by human effort?"
+  ],
+  "uncertainAreas": "Interpretive uncertainty surrounds several proverbial claims: the precise intent of the strong statements about \"the woman\" (verses 26–28) — whether rhetorical, specific social complaint, or broader metaphor for folly — and the meaning of phrases like \"the day of death is better than the day of birth.\" Dating and Sitz im Leben of individual sayings within the chapter also remain debated. I have treated these as proverbial, rhetorical contrasts rather than literal prescriptions.",
+  "createdAt": "2025-11-03T22:52:21.853Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

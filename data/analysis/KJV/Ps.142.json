@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ps.142",
+  "briefOverview": "A personal lament and urgent plea for deliverance from persecution, ending in trust that God will rescue and restore praise.",
+  "summary": "The psalmist cries aloud to the LORD, pouring out complaints and describing inner overwhelm and covert threats laid along his path. He laments abandonment—no one cares for him or offers refuge—and identifies God as his refuge and portion among the living. He petitions God to attend to his cry, to deliver him from stronger persecutors, and to bring his soul out of prison so that he can praise God's name. The psalm closes with confident expectation that the righteous will surround him and that God will deal bountifully with him.",
+  "externalContext": "This poem fits the category of individual lament in the Hebrew Psalter and in many manuscripts carries a superscription linking it to David and a time \"in the cave,\" suggesting a context of fleeing or hiding (though the precise occasion is uncertain). Such laments were used both in private prayer and in cultic settings, reflecting ancient Israelite practice of addressing God directly in moments of crisis. The language of \"refuge\" and \"portion in the land of the living\" resonates with Israelite covenantal hopes for life and security under Yahweh's protection.",
+  "externalReferences": "The theme of patient waiting for rescue and being brought out of a pit parallels Psalm 40:1–3, where deliverance leads to public praise. The cry from peril and deliverance motif echoes Psalm 116:1–7 (crying out in distress and being rescued from death). Other individual laments of David that describe flight and enemy pursuit, such as Psalm 3 (fleeing Absalom) and Psalm 31:9–10 (personal anguish), are comparable in tone and situation.",
+  "seeAlso": [
+    "Psalm 40:1-3",
+    "Psalm 116:1-7",
+    "Psalm 31:9-10",
+    "Psalm 3:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Complaint and Isolation"
+    },
+    {
+      "range": "5-7",
+      "title": "Petition and Trust"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Deliverance",
+    "Trust",
+    "Isolation"
+  ],
+  "practicalQuestions": [
+    "When I feel abandoned, how can I honestly bring my complaint to God as this psalm does?",
+    "What practices help sustain trust that God is my refuge when circumstances feel like imprisonment?",
+    "How can communities surround and support those who feel isolated and persecuted?",
+    "In what ways can deliverance or answered prayer lead to public praise in my life?"
+  ],
+  "uncertainAreas": "The historical setting (which cave or which episode in David's life) is uncertain; \"prison\" may be literal or metaphorical; identity and motive of the persecutors are not specified.",
+  "createdAt": "2025-11-03T22:29:21.539Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

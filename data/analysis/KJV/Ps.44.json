@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ps.44",
+  "briefOverview": "A communal lament that recalls God's past victories, complains of present defeat and shame, insists on the community's covenant faithfulness, and pleads for divine rescue.",
+  "summary": "The psalm begins by recalling how God delivered Israel in former times and gave them the land, emphasizing that these victories were God’s work rather than human strength (1–8). The tone shifts as the community describes a present reversal: God has apparently abandoned them in battle, they are scattered, shamed, and treated like sheep for slaughter (9–16). The community insists they have not broken the covenant or turned to other gods, yet suffering continues (17–22). The psalm closes with a direct plea for God to awake, remember their affliction, and redeem them for his steadfast love (23–26).",
+  "externalContext": "Psalm 44 belongs to the biblical collection of communal laments and is associated in the Hebrew text with the Sons of Korah, a guild of temple singers; such psalms were likely used in public worship. The language of military defeat, exile-like scattering, and being \"sold for naught\" fits several historical contexts in Israel’s history (periods of foreign invasion, deportation, or national catastrophe), though the psalm itself does not identify a specific event. A recurrent theological motif is covenantal retribution and dependence on Yahweh rather than human arms—an idea rooted in Israelite covenant theology reflected in Deuteronomy and the Deuteronomistic history.",
+  "externalReferences": "Verses that stress God’s past deliverances and that the people \"got not the land in possession by their own sword\" echo Deuteronomy’s and Joshua’s accounts of divine aid in the conquest (cf. Deuteronomy 7:1–2). The psalm’s cry of apparent divine absence and the language of reproach and abandonment parallels other biblical laments such as Psalm 22:1 and the communal complaints in Psalm 74 and Psalm 79. Verse 22 (“for thy sake are we killed all the day long…”) is explicitly quoted in the New Testament in Romans 8:36, where Paul uses it to describe believers’ suffering.",
+  "seeAlso": [
+    "Deuteronomy 7:1-2",
+    "Psalm 22:1",
+    "Psalm 74:1-3",
+    "Psalm 79:1-5",
+    "Romans 8:36"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Remembered Deliverances"
+    },
+    {
+      "range": "9-16",
+      "title": "Present Defeat and Shame"
+    },
+    {
+      "range": "17-26",
+      "title": "Protest and Plea"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Covenant faithfulness",
+    "Divine deliverance",
+    "Petition"
+  ],
+  "practicalQuestions": [
+    "When a community experiences repeated failure or shame, how can recalling past communal memories of help strengthen present faith?",
+    "How should one hold together honest complaint and protest before God with a continued claim of covenant loyalty?",
+    "In what concrete ways can religious communities care for those \"scattered\" or treated as a reproach today?",
+    "How does the psalm model corporate prayer when God seems absent, and what practices might apply in contemporary worship?"
+  ],
+  "uncertainAreas": "The text gives no clear historical setting (post-exilic, pre-exilic, or another military crisis), so dating and precise circumstances are uncertain. It is also unclear whether phrases like ‘‘sold for nought’’ refer to literal sale, rhetorical hyperbole, or a particular socio-political practice.",
+  "createdAt": "2025-11-03T21:43:44.568Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

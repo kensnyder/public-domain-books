@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ps.126",
+  "briefOverview": "A short hymn celebrating God’s restoration of Zion and asking for its renewal; it contrasts former sorrow with present and future joy.",
+  "summary": "The psalm remembers a past reversal when the LORD restored Zion, making the people feel as if they were dreaming, and filling them with laughter and song (vv.1–3). The worshippers proclaim that God has done great things for them and ask God to restore their fortunes again, using the image of returning water to the southern streams (v.4). The poem closes with an agricultural metaphor: those who sow in tears will reap with joy, and the one who goes out weeping with seed will return rejoicing, bringing in the harvest (vv.5–6).",
+  "externalContext": "Psalm 126 is one of the Songs of Ascents (Psalms 120–134), a collection likely used by pilgrims traveling to Jerusalem or by groups assembling for worship. Many interpreters situate its imagery in the aftermath of the Babylonian exile (6th–5th century BCE): return from captivity, renewed communal worship, and hope for continued restoration. The phrase \"streams in the south\" likely alludes to intermittent watercourses (wadis) in the Negev where seasonal rains transform the dry land—a vivid image for sudden, life-giving renewal.",
+  "externalReferences": "The theme of return from exile and joyful restoration resonates with the historical returns recorded in Ezra 1–2 and Nehemiah 7, which describe groups coming back to Jerusalem and reestablishing the community. Isaiah 35:1–2 uses desert/landscape renewal language (flowers, water, rejoicing) in a similar way to cast hope into vivid natural imagery, and Isaiah 61:7 promises reversal of shame into praise and joy—both comparable prophetic articulations of restoration. Jeremiah 31:12 also links return from sorrow to gladness and joy, providing a covenantal background for such hopes.",
+  "seeAlso": [
+    "Psalms 120:1-134:7",
+    "Ezra 1:1-2:70",
+    "Nehemiah 7:1-73",
+    "Isaiah 35:1-2",
+    "Isaiah 61:7",
+    "Jeremiah 31:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Remembered Restoration"
+    },
+    {
+      "range": "4",
+      "title": "Petition for Renewal"
+    },
+    {
+      "range": "5-6",
+      "title": "Sowing and Reaping"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Joy",
+    "Hope",
+    "Sowing/Reaping"
+  ],
+  "practicalQuestions": [
+    "How can memories of past deliverance shape communal hope during current hardships?",
+    "What does 'sowing in tears' look like in my life, and how does the text encourage perseverance?",
+    "In what ways can we pray for renewed blessing while also acting to prepare for that blessing (the sowing/harvesting metaphor)?",
+    "How might ritual or communal remembrance (songs, festivals) strengthen faith amid uncertainty?"
+  ],
+  "uncertainAreas": "The poem’s original historical occasion is not explicit—while commonly linked to the post-exilic return, it may also function as a more general liturgical reflection on any reversal of misfortune. The precise meaning of \"the streams in the south\" could be literal seasonal watercourses (Negev wadis) or a more symbolic image of sudden abundance; \"heathen\" might refer to surrounding nations or to onlookers generally.",
+  "createdAt": "2025-11-03T22:22:32.916Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

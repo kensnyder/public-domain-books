@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "2Chr.3",
+  "briefOverview": "Solomon begins construction of the Jerusalem Temple, giving precise measurements, materials, and ornamentation that mark the building as a sacred, richly furnished space for divine presence.",
+  "summary": "The chapter records the start of Solomon's building of the house of the LORD on Mount Moriah at the threshing floor David prepared, beginning in the second month of the fourth year of his reign. It gives detailed measurements for the main hall (60 by 20 cubits), the porch (20 cubits wide, 120 cubits high), and the Most Holy Place (20 by 20 cubits). The text emphasizes lavish materials and skilled workmanship: gold overlays, fine timber, precious stones, and carved cherubim. The inner sanctuary is described as richly gilded (600 talents of gold) and fitted with two large cherubim whose wings span twenty cubits. A woven veil bearing cherubim separates the sanctuary, and two decorated pillars named Jachin and Boaz stand before the temple, topped with chains and pomegranates.",
+  "externalContext": "Solomon's Temple (first temple) is presented in the biblical narrative as a centralized, permanent dwelling place for YHWH after the period of the moveable Tabernacle. Mount Moriah is associated elsewhere with David's purchase of a threshing floor (2 Samuel 24; 1 Chronicles 21) and thus becomes the conventional site for the temple. Measurements given in cubits reflect ancient Near Eastern building practice; the wealth described (large amounts of gold, exotic materials) reflects Solomon's international trade and the monarchy's resources.",
+  "externalReferences": "The chapter echoes and parallels the architectural details recorded in 1 Kings 6, which gives a similar plan for Solomon's temple. The purchase and preparation of the threshing floor on Mount Moriah is narrated in 2 Samuel 24:18–25 and 1 Chronicles 21:18–30. The description of a veil with cherubim and a distinct inner sanctuary recalls earlier tabernacle regulations such as Exodus 26:31–33, where a curtain separates the Holy Place and the Most Holy.",
+  "seeAlso": [
+    "1 Kings 6:2-38",
+    "2 Samuel 24:18-25",
+    "1 Chronicles 21:18-30",
+    "Exodus 26:31-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Foundation and Start"
+    },
+    {
+      "range": "3-16",
+      "title": "Building Details and Furnishings"
+    },
+    {
+      "range": "17",
+      "title": "Pillars and Names"
+    }
+  ],
+  "themes": [
+    "Temple construction",
+    "Sacred space",
+    "Ornamentation",
+    "Divine presence"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities decide how much material wealth to devote to places of worship?",
+    "What does it mean today to set apart a space as 'holy' in light of the temple's dedicated inner sanctuary?",
+    "How can art and beauty in communal religious life enhance or distract from spiritual aims?",
+    "In what ways do leadership choices about public religious projects shape a community's identity and values?"
+  ],
+  "uncertainAreas": "Some terms and measures are uncertain: the exact length of the cubit used, the meaning and origin of 'gold of Parvaim,' and the unusually large porch height (120 cubits) raise textual/translation questions. The symbolic significance of the pillars' names and certain decorative motifs (palm trees, chains, pomegranates) is open to interpretation and may reflect cultural borrowing or symbolic theology not fully explicated in the text.",
+  "createdAt": "2025-11-03T19:17:53.924Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

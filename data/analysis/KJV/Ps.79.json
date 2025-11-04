@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ps.79",
+  "briefOverview": "A communal lament over the violent destruction and desecration of Jerusalem and the temple, calling on God for vindication and mercy.",
+  "summary": "The psalm opens with a vivid complaint: foreign nations have invaded God's inheritance, defiled the temple, killed his servants, and left their bodies unburied (vv.1–4). The community cries out in anguished questions to God about the duration of his anger (v.5) and petitions God to pour out judgment on the nations that do not know him (vv.6–7). At the same time the psalmists ask God not to remember their former sins but to act swiftly in mercy because they are humbled (vv.8–9). They pray for deliverance so that God's name may be honored and for vindication so the nations will acknowledge God (vv.10–12). The psalm closes with a vow that God's people, described as sheep of his pasture, will give thanks and proclaim his praise to future generations (v.13).",
+  "externalContext": "This psalm fits within the Israelite communal-lament tradition and is often understood against the background of foreign invasion and temple desecration—historically read by many as reflecting the Babylonian destruction of Jerusalem and the exile (6th century BCE). The language of unburied dead, defiled sanctuary, and appeals for national vindication were conventional expressions for communities coping with collective trauma in the ancient Near East. Liturgically, such psalms functioned to articulate corporate grief, seek divine action, and reaffirm communal identity before God.",
+  "externalReferences": "Themes and imagery here echo other penitential and communal-lament texts that respond to temple destruction and exile: Psalm 74:1–3 also laments the destruction of the sanctuary, and Psalm 137:1–4 expresses exile and mourning by the rivers of Babylon. Lamentations (e.g., 2:1–9 and 4:13–16) similarly portrays Jerusalem’s devastation, the shedding of blood, and the plight of the people, providing a close literary and historical parallel to the concerns of this psalm.",
+  "seeAlso": [
+    "Psalm 74:1-3",
+    "Psalm 137:1-4",
+    "Lamentations 2:1-9",
+    "Lamentations 4:13-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Desolation and Desecration"
+    },
+    {
+      "range": "5-12",
+      "title": "Plea for Judgment and Mercy"
+    },
+    {
+      "range": "13-13",
+      "title": "Vow of Thanksgiving"
+    }
+  ],
+  "themes": [
+    "Lament",
+    "Divine justice",
+    "Repentance",
+    "Hope"
+  ],
+  "practicalQuestions": [
+    "How should faith communities respond when their sacred spaces or communal life are violated?",
+    "In what ways can petitioning for divine justice be balanced with calls for mercy and repentance?",
+    "How can communities preserve memory and identity after collective trauma so that they can still offer praise?",
+    "What concrete steps can we take to care for victims and those left unburied or uncared for in modern contexts of conflict?"
+  ],
+  "uncertainAreas": "The psalm’s original historical setting and specific enemy are not named in the text; while traditionally linked to the Babylonian destruction of Jerusalem, the psalm could reflect any catastrophic invasion or desecration. The superscription or author attribution (commonly Asaph in many manuscripts) is not present in the supplied text, so authorship and precise dating remain uncertain. The exact meaning of some symbolic language (e.g., “sevenfold” in v.12) may be interpretive and could be read literally or figuratively.",
+  "createdAt": "2025-11-03T22:00:45.494Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

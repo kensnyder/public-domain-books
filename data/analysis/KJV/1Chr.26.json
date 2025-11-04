@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "1Chr.26",
+  "briefOverview": "A detailed listing of Levite gatekeepers, treasurers, and leaders assigned to temple service, with attention to families, numbers, and assigned gates/quarters.",
+  "summary": "The chapter enumerates the families and descendants among Korahite and Merarite Levites who served as gatekeepers, giving names, birth order, and counts of able warriors for service. It explains that the gate duties were assigned by lot to specific gates and cardinal directions, and lists the distribution of men at various posts including Asuppim and Parbar. The text then turns to officials charged with the treasures and dedicated things of the house of God, naming heads from Laadan, Gershon, Amram, Izhar, Hebron, and Uzziel, and identifying Shebuel (a descendant of Moses) as ruler of the treasures. Shelomith and his brothers are described as overseeing all the dedicated items that had been given by David, military leaders, and others, and it is noted that the dedicatory funds came from spoils of war. The chapter closes by naming Chenaniah as an official for outward business and judges, and describes Hebronite leaders and mighty men of valour whom David appointed as rulers over Transjordanian tribes and matters pertaining to God and the king.",
+  "externalContext": "1 Chronicles is a post-exilic composition (commonly dated to the 5th century BCE) that focuses on temple institutions, priestly/Levitical organization, and Davidic legitimacy; its genealogies and administrative lists aim to legitimize post-exilic temple personnel. The practice of casting lots for temple assignments and the careful recording of family roles reflect ancient Near Eastern and Israelite concerns for order, ritual purity, and hereditary responsibility in cultic service. References to spoils dedicated for temple upkeep reflect a common ancient practice of dedicating war booty to a deity and to central religious institutions.",
+  "externalReferences": "The mention of Obed-edom and his household connects with the narrative of the ark dwelling at Obed-edom in 2 Samuel 6:10–12 and 1 Chronicles 13–16, which also records his blessing and role related to the ark. The chapter's concern with Levite divisions and gatekeepers parallels material in 1 Chronicles 9:17–27 and the broader Levitical assignments given in Numbers 3–4. The reference to spoils and David's dedication of items echoes accounts of David's military victories and subsequent dedicatory actions in 1 Chronicles 18 and 2 Samuel 8.",
+  "seeAlso": [
+    "1 Chronicles 9:17-27",
+    "1 Chronicles 23:1-6",
+    "1 Chronicles 24:1-31",
+    "2 Samuel 6:10-12",
+    "Numbers 3:6-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "Gatekeepers and Assignments"
+    },
+    {
+      "range": "20-28",
+      "title": "Treasures and Dedications"
+    },
+    {
+      "range": "29-32",
+      "title": "Officials and Leaders"
+    }
+  ],
+  "themes": [
+    "Temple service",
+    "Levitical order",
+    "Stewardship",
+    "Genealogical authority"
+  ],
+  "practicalQuestions": [
+    "How can modern faith communities translate the biblical emphasis on organized, accountable stewardship into current volunteer or financial systems?",
+    "What principles from the practice of assigning roles by lot or rotation could inform fair task allocation today?",
+    "How should communities honor inherited or long-standing roles while allowing for competence and leadership regardless of birth or seniority?",
+    "In what ways can the dedication of resources (e.g., from successful ventures) to communal institutions shape communal priorities and accountability?"
+  ],
+  "uncertainAreas": "Some place names and technical terms (e.g., Asuppim, Parbar, Shallecheth) have uncertain precise locations or functions in the archaeological record. The exact nature of 'treasures' versus 'dedicated things' and the administrative boundaries implied by the numbers could be read in different ways (family totals vs. active staff). The phrase about the 'fortieth year of the reign of David' is terse and its precise chronological reference can be interpreted differently in scholarly literature.",
+  "createdAt": "2025-11-03T19:14:37.063Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

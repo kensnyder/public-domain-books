@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ps.108",
+  "briefOverview": "A compact hymn combining steadfast personal praise with a confident plea for military deliverance; the speaker celebrates God's steadfast love and asks God to act on behalf of the people.",
+  "summary": "The psalmist opens with a resolute vow to sing and awaken the instruments early, committing to praise God among the peoples and nations because God's steadfast love and truth are lofty (vv. 1–5). The speaker calls for God's exaltation so that the 'beloved' may be delivered, and then shifts to triumphant royal language about dividing territory (Shechem, Gilead, Manasseh, Ephraim, Judah) and humiliating neighboring peoples (Moab, Edom, Philistia) (vv. 6–9). The closing verses pose urgent military questions — who will bring us into the strong city and stand with our hosts? — entreat God for help against human insufficiency, and end in confident trust that through God they will act valiantly and trample their enemies (vv. 10–13).",
+  "externalContext": "Psalm 108 is generally classified as a royal or communal war hymn and is traditionally attributed to David; parts of it closely mirror material in Psalms 57 and 60, suggesting editorial combination or reuse of older songs. The tribal and territorial names (Shechem, Gilead, Manasseh, Ephraim, Judah, Moab, Edom, Philistia) reflect the geopolitical world of the Israelite monarchy and the frequent clashes with neighboring peoples in the ancient Near East. The imagery of God’s steadfast love and truth reaching to the heavens uses standard Israelite praise vocabulary and would have been suited to public worship or a royal liturgy.",
+  "externalReferences": "Verses 1–6 closely parallel Psalms 57:7–11, and verses 7–13 correspond to much of Psalm 60:5–12, indicating direct literary dependence or shared liturgical material. The phrase about God’s mercy/truth extending to the heavens echoes Psalm 36:5’s praise of God’s steadfast love reaching to the heavens. The plea for divine rather than merely human help resonates with other victory-prayer psalms such as Psalm 20 and Psalm 144, which ask for God’s support in battle.",
+  "seeAlso": [
+    "Psalms 57:7-11",
+    "Psalms 60:5-12",
+    "Psalms 36:5",
+    "Psalms 20:1-9",
+    "Psalms 144:1-2"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Morning Praise and Exaltation"
+    },
+    {
+      "range": "7-13",
+      "title": "War Prayer and Confidence"
+    }
+  ],
+  "themes": [
+    "Praise",
+    "Divine help",
+    "Warfare",
+    "National deliverance"
+  ],
+  "practicalQuestions": [
+    "How can I cultivate a fixed heart that praises God even in anxious or dangerous circumstances?",
+    "In what ways should communities balance joyful praise with urgent intercession for deliverance?",
+    "How do claims of national or communal triumph in this text inform ethical responses to conflict today?",
+    "Where should we place our first trust in times of crisis—human planning, or seeking help from God—and how do we hold both responsibly?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting are uncertain: the psalm appears to be a composite borrowing from Psalms 57 and 60, so the original occasion (which campaign or crisis) is not clear. The identity of 'thy beloved' and the specific territorial boasts are likewise ambiguous and may be poetic/royal rhetoric rather than literal claims.",
+  "createdAt": "2025-11-03T22:14:42.460Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
