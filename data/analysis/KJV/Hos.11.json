@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Hos.11",
+  "briefOverview": "God recalls his historical care for Israel while lamenting Israel's idolatry and announcing both judgment and restrained mercy.",
+  "summary": "The chapter opens with a parental recollection: God loved Israel as a child and called 'my son' out of Egypt, then describes Israel's unfaithfulness in worshiping Baal and idols. God remembers how he taught, healed, drew Israel with loving restraint, and provided for them. Because Israel refused to repent, judgment is announced—the Assyrian will rule and the sword will consume their cities—yet God expresses deep reluctance to destroy them. In a dramatic shift the divine speaker refuses to execute full wrath, emphasizing that God is not like man and will not enter the city to destroy. The passage closes with imagery of the LORD's roar bringing universal trembling and a promise to place the people back in their homes, while accusing Ephraim and Israel of deceit and singling out Judah as comparatively faithful.",
+  "externalContext": "Hosea is a prophet to the northern kingdom of Israel (often identified with the tribe/territory of Ephraim) in the 8th century BCE, a period that ended with Assyrian conquest (culminating around 722 BCE). The poem uses common ancient Near Eastern familial language for nationhood (Israel as son) and recalls the Exodus motif (God bringing Israel out of Egypt). Mention of Admah and Zeboim invokes the tradition of cities destroyed with Sodom and Gomorrah as archetypes of divine destruction.",
+  "externalReferences": "The line 'I called my son out of Egypt' echoes Exodus 4:22, where Israel is named God's son; that same wording is later applied to Jesus in Matthew 2:15 ('Out of Egypt I called my son'). The comparison to the destroyed cities Admah and Zeboim points readers to Genesis 19:24–29 and the tradition of cities of the plain as models of catastrophic judgment. The motif of God 'roaring like a lion' has parallels in prophetic literature (e.g., Amos 3:8).",
+  "seeAlso": [
+    "Exodus 4:22",
+    "Genesis 19:24-29",
+    "Matthew 2:15",
+    "Amos 3:8",
+    "Hosea 2:14-23",
+    "Hosea 3:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Divine Love and Care"
+    },
+    {
+      "range": "5-7",
+      "title": "Judgment Announced"
+    },
+    {
+      "range": "8-12",
+      "title": "Compassion and Reproof"
+    }
+  ],
+  "themes": [
+    "Divine love",
+    "Judgment",
+    "Idolatry",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How should awareness of God's past care shape our response to communal unfaithfulness today?",
+    "In what ways can mercy and justice be balanced when addressing wrongdoing in a community?",
+    "What modern 'idols' parallel the Baal worship criticized here, and how can communities resist them?",
+    "How does the image of God as parent who both judges and longs to spare inform pastoral care and public policy?"
+  ],
+  "uncertainAreas": "Interpretive uncertainties include how literally to take 'the Assyrian shall be his king' (immediate historical prediction versus theological shorthand for foreign domination), the precise allusion-range of 'called my son out of Egypt' (ancient Israelite memory versus later prophetic reapplication), and the meaning of 'I will not enter into the city'—whether ritual/temple imagery or a metaphor for withholding full destructive action.",
+  "createdAt": "2025-11-04T13:56:55.842Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

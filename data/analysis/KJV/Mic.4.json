@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Mic.4",
+  "briefOverview": "A prophetic vision of Zion's future exaltation and universal worship, coupled with promises of restoration and vindication for the afflicted and warnings about present suffering.",
+  "summary": "Verses 1–5 present a future 'last days' scene in which the mountain of the LORD is exalted, nations stream to Jerusalem to learn God's ways, and instruments of war are turned into tools of peace so people may live securely. Verses 6–8 promise that God will gather the lame, the driven out, and the afflicted, turning them into a restored remnant over whom the LORD will reign from Zion. Verses 9–10 use childbirth imagery to depict Jerusalem's present anguish and an impending movement into the fields and even to Babylon, with the assurance that redemption will come there. Verses 11–13 depict hostile nations plotting against Zion, but unaware of God's purpose; God will assemble and thresh them, empowering Zion to defeat its enemies and consecrate their spoil to the LORD.",
+  "externalContext": "Micah is traditionally placed in the 8th century BCE, a period of Assyrian dominance when the small kingdom of Judah faced political pressure and social injustice; prophecy from this era often mixes imminent judgments with future hopes of restoration. The language of a high 'mountain of the LORD' and nations coming to learn God's law reflects a prophetic ideal of universal recognition of YHWH found elsewhere in the eighth-century prophetic corpus.",
+  "externalReferences": "The opening vision closely parallels Isaiah 2:2–4 (mount of the LORD, nations coming, swords to plowshares) and likely reflects a shared prophetic tradition about Zion's eschatological role. The domestic image of everyone sitting 'under his vine and under his fig tree' echoes earlier Israelite prosperity language (e.g., 1 Kings 4:25). The themes of gathering exiles and a renewed people are also echoed in passages like Jeremiah 31 and Ezekiel 37, which picture restoration and regathering.",
+  "seeAlso": [
+    "Isaiah 2:2-4",
+    "1 Kings 4:25",
+    "Jeremiah 31:8-14",
+    "Ezekiel 37:21-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Zion's Exaltation and Peace"
+    },
+    {
+      "range": "6-8",
+      "title": "Gathering and Reign"
+    },
+    {
+      "range": "9-13",
+      "title": "Travail, Exile, Vindication"
+    }
+  ],
+  "themes": [
+    "Zion/Temple",
+    "Universal Peace",
+    "Restoration",
+    "Divine Judgment"
+  ],
+  "practicalQuestions": [
+    "How can communities today foster the kinds of inter‑national learning and moral formation envisioned by the text (nations coming to learn God's ways)?",
+    "What concrete steps can individuals and societies take to 'beat swords into plowshares'—that is, to convert resources for war into instruments of peaceful life?",
+    "How does the promise of gathering and restoration speak to people experiencing displacement or exile today, and what pastoral practices flow from that hope?",
+    "When communities feel threatened, how can they hold together trust in divine justice while working toward nonviolent resolution and protection?"
+  ],
+  "uncertainAreas": "The phrase 'in the last days' can be read as an immediate post‑exilic hope, a distant eschatological future, or a prophetic compression of both; the reference to going 'even to Babylon' is ambiguous in Micah's original dating (pre‑exilic) and may reflect later editorial reflection or prophetic foresight. The precise meaning of 'the first dominion' (v.8) and some martial imagery (horns, hoofs) allows multiple symbolic readings (military empowerment, royal restoration, or symbolic vindication).",
+  "createdAt": "2025-11-04T14:08:42.330Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

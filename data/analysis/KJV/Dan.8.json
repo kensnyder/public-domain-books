@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Dan.8",
+  "briefOverview": "Daniel reports an apocalyptic vision using the images of a two‑horned ram and a horned goat to portray imperial conflict and a later persecuting power that profanes the sanctuary.",
+  "summary": "Daniel sees a vision set at Susa (Shushan) by the river Ulai in which a two‑horned ram (powerful to the west, north, and south) is attacked and overcome by a swift he‑goat with a notable central horn. The great horn of the goat is broken and replaced by four horns, from one of which a 'little horn' grows, attacks the heavenly host, removes the daily sacrifice, and desecrates the sanctuary. The vision includes a timed period—2,300 days—after which the sanctuary will be cleansed. An angelic figure (Gabriel) is sent to explain the vision, identifying the ram as the kings of Media and Persia and the goat as the king of Greece, with the first great horn the first king. Gabriel adds that in the latter period a fierce king will arise who persecutes the holy people and will ultimately be broken 'without hand.' Daniel is left ill and disturbed by the vision but resumes his duties.",
+  "externalContext": "The imagery reflects the imperial transitions of the late Persian period and the rapid Macedonian/Grecian conquests that followed; many scholars connect the goat's great horn with Alexander the Great and the four horns with his successor Hellenistic kingdoms. The 'little horn' motif has historically been associated with a later Seleucid ruler (commonly identified as Antiochus IV Epiphanes) who suppressed Jewish worship and desecrated the Jerusalem temple in the 2nd century BCE. Shushan (Susa) and the Ulai are real Persian locations, grounding the vision in an identifiable court setting. Gabriel as an angelic interpreter appears elsewhere in Jewish intertestamental literature and in Daniel 9.",
+  "externalReferences": "Daniel 11 continues and expands the sequence of Hellenistic kings and the persecutions of the Jewish people, developing the theme of hostile rulers found here (see especially Daniel 11:21–35). Daniel 9:24–27 also treats the cessation of sacrifice and a related timetable (the 'seventy weeks' and the 'abomination/ transgression that makes desolate'), creating an intertextual link about sanctuary desecration. The New Testament records Jesus citing the 'abomination of desolation' (Matthew 24:15, Mark 13:14) when discussing future profanation of the holy place, showing how this imagery was read later. 1 Maccabees 1:54 provides a historical report of a Hellenistic king profaning the Jerusalem temple, an event often connected to the episode described in Daniel 8.",
+  "seeAlso": [
+    "Daniel 9:24-27",
+    "Daniel 11:21-35",
+    "Matthew 24:15",
+    "1 Maccabees 1:54"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Setting at Susa"
+    },
+    {
+      "range": "3-14",
+      "title": "Ram and Goat Vision"
+    },
+    {
+      "range": "15-27",
+      "title": "Gabriel's Interpretation"
+    }
+  ],
+  "themes": [
+    "Apocalyptic vision",
+    "Empires and conquest",
+    "Temple desecration",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "How should communities maintain religious identity and worship under oppressive political powers?",
+    "What criteria can we use today to distinguish symbolic prophetic language from literal prediction?",
+    "How does the promise of divine overturning of persecutors ('broken without hand') shape responses to injustice?",
+    "In what ways can historical knowledge (e.g., of Hellenistic pressures) inform modern readings of apocalyptic texts?"
+  ],
+  "uncertainAreas": "The exact identity of the 'little horn' and whether the vision primarily predicts near‑term Hellenistic events (e.g., Antiochus IV) or a more distant eschatological figure is debated. The meaning of the '2,300 days' (literal days, evenings‑and‑mornings, or symbolic time) is ambiguous. Phrases like 'Prince of the host' and 'broken without hand' admit multiple readings (heavenly adversary vs. God; divine overthrow vs. nonhuman agency). The dating note 'third year of Belshazzar' and how it aligns with historical chronologies is also a point of scholarly uncertainty.",
+  "createdAt": "2025-11-04T13:49:05.949Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

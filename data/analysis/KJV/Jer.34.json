@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jer.34",
+  "briefOverview": "Jeremiah announces Jerusalem’s imminent fall under Nebuchadnezzar and rebukes Judah’s leaders for breaking a covenant to free Hebrew servants, announcing severe divine judgment as consequence.",
+  "summary": "God tells Jeremiah to warn King Zedekiah that Babylon will capture Jerusalem, that Zedekiah will be handed over and taken to Babylon, and that the city will be burned. The chapter then recounts a covenant made in Jerusalem to proclaim liberty and free Hebrew servants, followed by the people’s initial compliance and subsequent re-enslavement of those they had released. God reminds them of the law given when Israel left Egypt (release of Hebrew slaves after six years) and condemns them for profaning his name by returning freed servants to bondage. As a result, God declares judgment: sword, pestilence, famine, exile, and that those who broke the covenant will be delivered to their enemies and the city made a desolation.",
+  "externalContext": "The chapter is set during the Babylonian siege of Jerusalem by Nebuchadnezzar (late 7th/early 6th century BCE), the historical crisis that led to the destruction of the city and exile of many Judahites (commonly dated 587/586 BCE). The instructions about releasing Hebrew servants reflect laws found in the Torah (notably Deuteronomy 15 and Exodus 21) governing servitude and periodic release. The image of cutting an animal in two to ratify a covenant fits wider ancient Near Eastern covenantal rites and Israelite covenant imagery (see Genesis 15 for a similar covenant act).",
+  "externalReferences": "The law requiring release of an Israelite servant after six years is stated in Deuteronomy 15:12–18 and has a parallel in Exodus 21:2. The ritual of passing between pieces of an animal as a covenant-making act echoes Genesis 15:9–17 and is used elsewhere in the Hebrew Bible as a covenant ratification motif.\n\nLater historical accounts relating to Zedekiah’s capture and fate are found in 2 Kings 25:6–7 and Jeremiah 52:10–11, which report his sons being killed and Zedekiah being blinded and taken to Babylon—details relevant to reading Jeremiah’s promise about his death.",
+  "seeAlso": [
+    "Deuteronomy 15:12-18",
+    "Exodus 21:2",
+    "Genesis 15:9-17",
+    "2 Kings 25:6-7",
+    "Jeremiah 52:10-11",
+    "Jeremiah 21:8-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Prophecy to Zedekiah"
+    },
+    {
+      "range": "8-11",
+      "title": "Covenant of Release"
+    },
+    {
+      "range": "12-22",
+      "title": "Breach and Judgment"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Covenant",
+    "Justice",
+    "Slavery/Emancipation"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities ensure that legal or moral commitments to vulnerable people are kept and enforced?",
+    "What responsibilities do political and religious leaders have when a public covenant or promise is broken?",
+    "How can ritual or symbolic acts (promises, public ceremonies) be held accountable to substantive ethical change?",
+    "In what ways should historical examples of social injustice shape present policies on labor, servitude, and human dignity?"
+  ],
+  "uncertainAreas": "The pronouncement that Zedekiah \"shall not die by the sword\" but \"shall die in peace\" is difficult to reconcile with other biblical accounts (e.g., 2 Kings 25) and invites interpretation about meaning (escape execution vs. ultimate fate in exile). The precise form and legal mechanics of the covenant ritual described (\"cut the calf in twain\") are not fully explained in the chapter and rely on broader ancient Near Eastern and biblical covenant practices for interpretation.",
+  "createdAt": "2025-11-04T01:50:29.856Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

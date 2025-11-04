@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ezek.41",
+  "briefOverview": "A detailed, measured description of the inner temple and its furnishings, emphasizing dimensions, structural features, and ornamentation.",
+  "summary": "The narrator is guided through the temple and given precise measurements of its posts, doors, rooms, and the Most Holy Place. Side chambers are described as three stories high, thirty in order, with a winding ascent increasing the house's breadth upward. The foundations, wall thicknesses, courts, and an adjoining building are measured, producing a compound of 100-cubit lengths and breadths. Details are given of galleries, narrow windows, and wood paneling from the ground to the windows. Ornamentation features cherubim and palm trees carved throughout the walls, with each cherub having two faces (a man and a young lion). The chapter closes by noting double-leafed doors, the wooden altar/table before the LORD, and repeated decorative motifs on doors and planks.",
+  "externalContext": "Ezekiel's temple vision (chapters 40–48) comes in the context of the Babylonian exile (6th century BCE) and presents an idealized, priestly temple for a restored community. Ancient measurements use the cubit as a standard unit (commonly approximated as about 18 inches or ~45 cm, though local and ritual varieties such as a \"great cubit\" are sometimes referenced). The detailed architectural language reflects Near Eastern temple-building conventions and the priestly concern for ordered, sanctified space.",
+  "externalReferences": "This chapter is part of the larger Ezekiel temple vision (see Ezekiel 40–42 for complementary measurements and layout). The carved cherubim and palm-tree motifs recall descriptions of Solomon's temple in 1 Kings 6:15–29 and 2 Chronicles 3:8–14, and the emphasis on the Most Holy Place echoes tabernacle and temple language in Exodus (e.g., Exodus 26:31–33) concerning the inner sanctuary and its separations. The idea of a table before the LORD resonates with cultic furniture such as the showbread table (Exodus 25:23–30), though functions are not fully spelled out here.",
+  "seeAlso": [
+    "Ezekiel 40:1-16",
+    "Ezekiel 42:1-14",
+    "1 Kings 6:15-29",
+    "Exodus 26:31-33",
+    "2 Chronicles 3:8-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Entrance and Most Holy"
+    },
+    {
+      "range": "5-14",
+      "title": "Side Chambers and Dimensions"
+    },
+    {
+      "range": "15-26",
+      "title": "Decoration and Furnishings"
+    }
+  ],
+  "themes": [
+    "Temple architecture",
+    "Holiness",
+    "Order",
+    "Symbolic imagery"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities understand and honor sacred space when detailed physical structures are not prescribed?",
+    "What does the chapter's emphasis on precise measurement and order suggest about the role of discipline and structure in religious life?",
+    "How might the recurring images (cherubim, palm trees) shape our understanding of God's presence and the relationship between the divine and creation?",
+    "In what ways can attention to craftsmanship and beauty in worship spaces serve spiritual formation today?"
+  ],
+  "uncertainAreas": "Exact lengths depend on which cubit standard is intended (ordinary vs. \"great\" cubit). It is also unclear to what extent the description is meant as a literal architectural plan versus symbolic/eschatological imagery. Some technical phrases (e.g., \"the place that was left,\" details about how side chambers \"entered into the wall\") are hard to reconstruct precisely from the text alone.",
+  "createdAt": "2025-11-04T02:20:15.607Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

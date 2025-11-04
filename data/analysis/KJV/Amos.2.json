@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Amos.2",
+  "briefOverview": "God pronounces judgment on three nations—Moab, Judah, and Israel—accusing them of specific crimes and promising decisive punishment. The chapter contrasts God's past deliverance with present moral and religious failures.",
+  "summary": "The oracle opens with judgment on Moab for desecrating the king of Edom’s bones, promising destruction of its cities (vv.1–3). Judah is condemned for despising God’s law and lying, with a fire sent against Jerusalem (vv.4–5). The longest indictment targets Israel for social and religious corruption: selling the righteous, exploiting the poor, sexual abuse, corrupt cultic practices, and silencing prophets and Nazarites (vv.6–12). God reminds Israel of past acts of deliverance (bringing them from Egypt and raising prophets), then declares that in the coming day even the swift and strong will not escape—fighters will flee naked (vv.9–16).",
+  "externalContext": "Amos is an 8th-century BCE prophet traditionally associated with the Northern Kingdom of Israel; his book addresses both Israel and surrounding nations. The repeated formula “For three transgressions of X, and for four” is a Hebrew prophetic idiom used elsewhere in Amos (ch. 1) to introduce allegations and signify completeness of guilt. References to Nazarites, prophets, and cultic practices reflect Israelite religious institutions and social arrangements of the Iron Age Levant.",
+  "externalReferences": "The chapter’s pattern of denunciation follows the same \"three transgressions…for four\" formula that opens Amos 1 (see Amos 1:3–2:3 for the sequence of oracles against nations). The reminder that God brought Israel from Egypt and led them forty years echoes the Exodus and wilderness traditions (compare Exodus 12–14; Numbers 14:33–34). The emphasis on social injustice and religious hypocrisy resonates with other prophetic condemnations (compare Micah 6:6–8; Isaiah 1:16–17).",
+  "seeAlso": [
+    "Amos 1:3-15",
+    "Exodus 12-14",
+    "Numbers 14:33-34",
+    "Micah 6:6-8",
+    "Isaiah 1:16-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Judgment on Moab"
+    },
+    {
+      "range": "4-5",
+      "title": "Condemnation of Judah"
+    },
+    {
+      "range": "6-16",
+      "title": "Indictment of Israel"
+    }
+  ],
+  "themes": [
+    "Divine Judgment",
+    "Social Justice",
+    "Religious Hypocrisy",
+    "Prophetic Witness"
+  ],
+  "practicalQuestions": [
+    "What concrete steps can communities take to address the kinds of economic exploitation condemned here?",
+    "How should religious practice be evaluated when ritual life is divorced from justice and care for the vulnerable?",
+    "In what ways can contemporary leaders be held accountable when they silence truth-tellers or resist reform?",
+    "How does remembering past deliverances shape ethical responsibility in the present?"
+  ],
+  "uncertainAreas": "The text alludes to a specific incident of Moab burning the bones of the king of Edom; the precise historical event and its dating are uncertain. The idiom ‘‘three transgressions…for four’’ signals complete guilt but does not list a numerical sequence, leaving the formulaic meaning somewhat interpretive.",
+  "createdAt": "2025-11-04T14:00:45.879Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Amos.5",
+  "briefOverview": "A prophetic lament announcing judgment on Israel for social injustice and religious hypocrisy, coupled with a summons to seek the LORD and practice true righteousness.",
+  "summary": "Amos begins with a funeral-like lament over Israel’s fall and a warning that the nation will be severely reduced. He commands the people to seek the LORD and live, explicitly rejecting reliance on established sanctuaries (Bethel, Gilgal, Beer‑sheba). Amos accuses the elite of perverting justice, oppressing the poor, taking bribes, and living in ill‑gotten prosperity; he warns that silence will be the prudent response in the coming evil time. The prophet denounces those who long for the “day of the LORD,” saying it will be darkness and disaster rather than salvation. Rituals and musical praise are rejected by God when unaccompanied by justice: God will not accept sacrifices or songs while oppression continues. The chapter closes by charging Israel with idolatry (the tabernacle of Moloch and the star image Chiun) and pronouncing exile “beyond Damascus.”",
+  "externalContext": "Amos is set in the 8th century BCE during a period of relative prosperity in the northern kingdom of Israel (often associated with Jeroboam II), when social stratification and land concentration were increasing. Bethel and Gilgal were important cultic sites tied to royal and popular worship; criticizing them targets the established religious structures as complicit in social injustice. The “day of the LORD” is a well‑known prophetic motif (used elsewhere by Joel, Amos, Isaiah) denoting an eschatological intervention by God that can bring either deliverance or judgment depending on the people’s conduct.",
+  "externalReferences": "Isaiah also condemns empty ritual and calls for justice rather than sacrifice (Isaiah 1:11–17), and Micah similarly pairs ethical demands with cultic critique (Micah 6:6–8). The warning against worship at Bethel echoes the golden‑calf/alternative sanctuaries associated with Jeroboam’s reforms (1 Kings 12:28–30). The “day of the LORD” motif appears elsewhere in Amos (e.g., Amos 8:9) and in prophetic literature such as Joel 2:1–2, where it likewise carries ominous imagery.",
+  "seeAlso": [
+    "Isaiah 1:11-17",
+    "Micah 6:6-8",
+    "1 Kings 12:28-30",
+    "Amos 8:9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Lament for Israel"
+    },
+    {
+      "range": "4-15",
+      "title": "Seek the LORD; Do Justice"
+    },
+    {
+      "range": "16-27",
+      "title": "Day of the LORD and Exile"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Justice",
+    "Idolatry",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "In what concrete ways should worship communities prioritize justice and protect the poor to avoid the kind of religious hypocrisy condemned here?",
+    "Where today do ritual or devotional practices risk becoming substitutes for ethical action, and how should institutions respond?",
+    "How should individuals discern whether a religious observance is acceptable to God when it coexists with social injustice?",
+    "What does the “day of the LORD” provoke us to examine about our expectations of divine intervention versus responsibility for moral reform?"
+  ],
+  "uncertainAreas": "The text’s reference to the ‘virgin of Israel’ being permanently fallen raises questions about scope and finality—whether the language is hyperbolic or literal. The identity and cultic role of ‘Chiun’ and the precise historical referent of ‘beyond Damascus’ are debated; it’s unclear whether Amos intends a specific geopolitical destination or a general statement of distant exile. The tension between God’s call to seek Him and the simultaneous condemnation of central sanctuaries could mean a critique of corrupted cult centers rather than of worship per se, but the exact boundary is not explicit.",
+  "createdAt": "2025-11-04T14:02:28.823Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

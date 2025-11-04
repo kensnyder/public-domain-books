@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.22",
+  "briefOverview": "A prophet's summons to the royal house demanding justice, followed by denunciations and doom pronounced against unjust kings of Judah.",
+  "summary": "Jeremiah commands a message to the king's house calling rulers to execute justice, protect the vulnerable, and avoid violence; if they obey, the Davidic line and prosperity will continue, but refusal will bring desolation. The prophet declares that the royal house will become a wilderness and that foreign destroyers will cut down its fame and splendor. Specific oracles pronounce that Shallum (son of Josiah) will not return to Jerusalem, that Jehoiakim is condemned for building in luxury and oppressing the poor and will receive a shameful end, and that Coniah (Jeconiah/Jehoiachin) will be removed despite any honors and will be exiled to die abroad. The chapter concludes with a dramatic declaration that Coniah is to be written childless—no descendant of his will sit on David's throne. The overarching emphasis ties the fate of kings and the nation to covenantal obligations of justice and fidelity to God.",
+  "externalContext": "This oracle belongs to the late-monarchic period of Judah (late 7th–early 6th century BCE) when Assyrian power waned and Babylon rose under Nebuchadnezzar, culminating in sieges and deportations of Jerusalem. In ancient Near Eastern royal ideology a king's legitimacy was linked to justice and care for the poor; prophetic critiques often hold rulers accountable to covenantal standards rather than merely foreign military outcomes. Luxury imagery (cedars of Lebanon, painted chambers) signals elite ostentation widely criticized by prophetic writers of the period.",
+  "externalReferences": "The historical fates of these kings are recounted in the Deuteronomistic histories: Shallum (also called Jehoahaz) being taken to Egypt appears in 2 Kings 23:31–34; the exile of Jehoiachin (Coniah/Jeconiah) to Babylon and the deportations are reported in 2 Kings 24:8–17 and 2 Kings 24:10–16. The theme that royal failure leads to loss of throne and exile echoes other prophetic passages that link covenant unfaithfulness to national catastrophe (e.g., Jeremiah 21; Ezekiel 19:4–9).",
+  "seeAlso": [
+    "2 Kings 23:31-34",
+    "2 Kings 24:8-17",
+    "2 Kings 24:10-16",
+    "Jeremiah 21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Call to Justice"
+    },
+    {
+      "range": "6-10",
+      "title": "Warning of Desolation"
+    },
+    {
+      "range": "11-30",
+      "title": "Oracles Against Kings"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Judgment",
+    "Kingship",
+    "Exile"
+  ],
+  "practicalQuestions": [
+    "How should contemporary leaders balance wealth, comfort, and responsibility toward the vulnerable in light of this call to 'execute judgment and righteousness'?",
+    "What institutional or personal practices can communities adopt to prevent exploitation of the stranger, fatherless, and widow?",
+    "How ought communities to interpret and respond to prophetic warnings about national wrongdoing today?",
+    "What does the contrast between royal display (cedar, painted chambers) and ethical failure teach about assessing leadership legitimacy?"
+  ],
+  "uncertainAreas": "Some identifications and historical details are ambiguous in the text — for example, the exact historical sequence and fates of Shallum, Jehoiakim, and Coniah are treated briefly and reflect the prophet’s theological judgment rather than precise biography. Verse 30's statement that Coniah shall be 'childless' is theologically forceful but is complicated by other biblical genealogies that list his offspring, so the meaning may be rhetorical (no enduring royal line) rather than strictly biological.",
+  "createdAt": "2025-11-04T01:44:41.264Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

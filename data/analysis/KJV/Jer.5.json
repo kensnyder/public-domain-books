@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.5",
+  "briefOverview": "Jeremiah exposes widespread social and religious corruption in Jerusalem and announces divine judgment through a foreign nation while lamenting false prophets and unrepentant hearts.",
+  "summary": "Jeremiah is commanded to search Jerusalem for anyone practicing justice and seeking truth, but finds none; the people swear by the LORD yet live deceptively and refuse correction (1–5). The prophet contrasts the unfaithful populace with the leaders who have cast off the covenant, predicting violent losses to predators as metaphor and announcing that a powerful nation from far away will ravage their land and consume its resources (6–18). God declares that this punishment is a consequence of the people's idolatry, social injustice, and failure to fear him; yet he withholds complete annihilation (18–19). The chapter closes with an indictment of spiritual blindness and deafness, the withholding of rain and harvest as judgment, and a harsh condemnation of deceitful wealthy and ruling classes; false prophets and compliant priests are identified as part of the problem (20–31).",
+  "externalContext": "Jeremiah prophesied in the late 7th and early 6th centuries BCE during a period of political turmoil in Judah leading up to and including the Babylonian invasions. Prophetic warnings about covenant disobedience and foreign conquest were common in this period and reflect long-standing Deuteronomic theology connecting national prosperity to faithfulness and disaster to covenant violation. The “nation from far” is commonly understood in historical scholarship to refer to the Neo-Babylonian (Chaldean) empire, which later besieged and deported Judah.",
+  "externalReferences": "The theme that exile follows covenant unfaithfulness echoes Deuteronomy’s curses (see Deuteronomy 28:64 on being scattered and serving other gods). The denunciation of false prophets and priests who lead the people astray parallels Jeremiah 7:8–15 and Jeremiah 11:11, where similar complaints and the coming of a foreign nation are predicted. Social-justice indictments here (neglect of the needy, prospering wicked) are comparable to Amos 5:11–12 and Ezekiel 22:26, which also condemn corrupt leaders and false prophecy.",
+  "seeAlso": [
+    "Deuteronomy 28:64",
+    "Jeremiah 7:8-15",
+    "Jeremiah 11:11",
+    "Amos 5:11-12",
+    "Ezekiel 22:26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Search for the Righteous"
+    },
+    {
+      "range": "10-18",
+      "title": "Pronounced Judgment"
+    },
+    {
+      "range": "19-31",
+      "title": "Rebuke and False Prophets"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Social injustice",
+    "Idolatry",
+    "False prophecy"
+  ],
+  "practicalQuestions": [
+    "Where in our communities are systems or leaders allowing injustice to prosper, and what concrete steps can we take to defend the vulnerable?",
+    "How should communities respond when religious leaders or teachers promote comforting messages that contradict moral accountability?",
+    "What practices help individuals and societies remain open to correction rather than hardening their hearts as described in the chapter?",
+    "In what ways does national or communal prosperity obscure moral failure, and how can that be discerned and addressed today?"
+  ],
+  "uncertainAreas": "Identification of the 'nation from far' is historically plausible as Babylon/Chaldeans but not named in the text; the degree of finality in phrases like 'make not a full end' involves interpretive nuance about mercy amid judgment. The metaphorical language about predators and quivers is vivid and partly open to literary rather than strictly literal reading.",
+  "createdAt": "2025-11-04T01:37:06.593Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

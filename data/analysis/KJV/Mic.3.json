@@ -1,0 +1,37 @@
+{
+  "chapterOsisID": "Mic.3",
+  "briefOverview": "Micah denounces the civic, priestly, and prophetic leaders for injustice and falsehood and warns that their corruption will bring divine judgment on Jerusalem.",
+  "summary": "The prophet addresses the heads and princes, accusing them of perverting justice and violently exploiting the people (vv.1–4). He condemns prophets who mislead by promising peace for pay and predicts that genuine revelation will be withdrawn from them (vv.5–7). Micah then asserts his own prophetic authority—empowered by the Spirit—to declare Israel’s transgressions (v.8). He again warns the leaders, priests, and prophets for taking bribes and failing the people, even as they presume that God's presence protects them (vv.9–11). The chapter closes with a stark oracle of judgment: because of their conduct Zion and Jerusalem will be plowed and become ruins (v.12).",
+  "externalContext": "Micah is traditionally placed in the 8th century BCE in the kingdom of Judah, a period marked by social stratification and disputes over land, leadership, and religious authority. Prophets in this era commonly functioned as social critics who confronted elites—rulers, judges, priests, and prophets—when they abused power or betrayed covenantal duties. Accusations of bribery, false prophecy, and judicial corruption recur across the prophetic books as characteristic social-religious concerns.",
+  "externalReferences": "The charge that leaders love bribes and pervert justice resembles Isaiah 1:21–23, where Zion’s leaders are condemned for corrupting justice and accepting pay. The complaint about prophets prophesying for profit echoes Jeremiah 5:30–31, which criticizes false prophets who tell lies and promote peace for gain. Ezekiel 22:12–13 and 25–29 likewise portray a city whose officials, priests, and prophets are complicit in violence and deceit, bringing about divine judgment. These passages show a shared prophetic vocabulary for denouncing institutional corruption and forecasting punitive consequences.",
+  "seeAlso": [
+    "Isaiah 1:21-23",
+    "Jeremiah 5:30-31",
+    "Ezekiel 22:12-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Corrupt Leaders and False Prophets"
+    },
+    {
+      "range": "8-12",
+      "title": "Prophetic Authority and Judgment"
+    }
+  ],
+  "themes": [
+    "Corruption",
+    "False prophecy",
+    "Justice",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities identify and check leaders who bias justice for personal gain?",
+    "What criteria and practices help distinguish genuine spiritual guidance from self-interested religious claims?",
+    "How can institutions build accountability to prevent bribery and judicial corruption?",
+    "How do we hold hope in divine justice while working for immediate social reform?"
+  ],
+  "uncertainAreas": "Uncertainty about specific historical referents (which exact leaders or events are intended) and whether violent imagery (e.g., plucking skin) is literal or metaphorical for exploitation. Also some ambiguity in the scope of terms like 'house of Israel'—whether Micah addresses northern Israel, Judah, or Israel as a whole.",
+  "createdAt": "2025-11-04T14:08:11.053Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Jer.42",
+  "briefOverview": "A remnant asks Jeremiah to intercede and receive divine guidance; Jeremiah relays God's command to remain in Judah and warns that going to Egypt will bring death and exile.",
+  "summary": "Captains, Johanan son of Kareah, and the people ask Jeremiah to pray for them and to report whatever the LORD declares; they vow to obey whatever God commands. Jeremiah agrees to pray and ten days later reports the LORD's answer: if they remain in the land God will build and plant them, deliver them from the Babylonians, and show mercy so they may return to their land. Conversely, if they decide to go into Egypt to escape war and famine, God declares that the very calamities they flee—sword, famine, and pestilence—will overtake them there, and they will become a curse and never see this place again. Jeremiah accuses them of having already decided to go and of dissembling when they sought his counsel; because they refuse to obey, the LORD pronounces the coming death and destruction on those who go to Egypt.",
+  "externalContext": "This episode occurs after the fall of Jerusalem (586 BCE) when a small Judean remnant remained in the land under the fragile governance of figures like Johanan son of Kareah. Many Judeans feared Babylonian reprisals and historically viewed Egypt as a refuge, so some leaders sought to flee south despite prophetic warnings. The narrative fits the post-exilic prophetic context in which obedience to YHWH, not geopolitical alliances, is presented as the proper response to imperial threats.",
+  "externalReferences": "This story continues immediately in Jeremiah 43, where the people ignore Jeremiah's warning, go to Egypt, and Jeremiah repeats the judgment against them there (see Jeremiah 43:1–13). The language of death by \"sword, famine, and pestilence\" echoes the covenant curses listed in Deuteronomy 28:15–22 that link disobedience to exile and national disaster. The confrontation also ties into the wider Jeremiah corpus that consistently warns against seeking refuge in foreign powers (cf. earlier and later Jeremiah warnings about Egypt).",
+  "seeAlso": [
+    "Jeremiah 43:1-13",
+    "Jeremiah 40:1-16",
+    "Jeremiah 41:1-18",
+    "Deuteronomy 28:15-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Request and Promise to Pray"
+    },
+    {
+      "range": "7-22",
+      "title": "Divine Answer: Stay or Go"
+    }
+  ],
+  "themes": [
+    "Obedience",
+    "Divine guidance",
+    "Exile and judgment",
+    "Leadership decisions"
+  ],
+  "practicalQuestions": [
+    "When we ask for guidance, are we prepared to accept commands that conflict with our plans or fears?",
+    "How should communities weigh political/physical safety against moral or spiritual directives?",
+    "Do leaders model honesty when they seek counsel, and how should we respond to counsel we find politically inconvenient?",
+    "What steps can modern communities take to trust long-term well-being over short-term security?"
+  ],
+  "uncertainAreas": "The Hebrew phrase rendered \"I repent me of the evil\" raises questions about the nature of divine \"repentance\" (change of action or rhetorical accommodation). The motives of the leaders—whether cynical manipulation or sincere but weak resolve—are described as \"dissembling,\" but the precise mixture of fear, political calculation, and religious belief is not fully specified in the text.",
+  "createdAt": "2025-11-04T01:55:02.148Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Obad.1",
+  "briefOverview": "A prophetic oracle condemning Edom for pride and violent betrayal of Israel, announcing Edom’s downfall and Israel’s restoration.",
+  "summary": "The prophet declares a vision against Edom, accusing the nation of pride, secure dwelling in rocky strongholds, and overconfidence that none could bring it down. Edom’s leaders and warriors will be destroyed; the nation is faulted for searching out Esau’s hidden things and for rejoicing and collaborating when Jerusalem fell. Specific charges include passive observation of Judah’s calamity, active robbery and handing over fugitives, and treachery by neighbors and allies. The prophet pronounces reciprocal judgment—“as you have done, it shall be done to you”—and depicts Edom’s complete defeat while promising deliverance and holiness for Zion. The closing verses foresee Israel (Jacob) possessing former Edomite territories, exiles regaining lands, and saviors coming up on Mount Zion as the LORD’s kingdom is established.",
+  "externalContext": "Edom (associated with Esau) lay southeast of Judah in rugged, defensible terrain—hence the repeated imagery of clefts and high habitations (e.g., Teman). Prophetic oracles against neighboring nations were a common prophetic genre in ancient Israel. The historical setting of Obadiah is debated: many scholars link the oracle to events around the Babylonian destruction of Jerusalem (6th century BCE), when Edom is accused of siding with or taking advantage of the conquerors; other proposals place the prophet earlier. The phrase “day of the LORD” is a standard prophetic term for impending divine judgment shared across the Hebrew prophets.",
+  "externalReferences": "The kinship background between Israel and Edom assumes the Genesis narrative of Jacob and Esau (e.g., Genesis 25–27), which frames the “brother” language and long-standing rivalry. Other prophetic texts addressing Edom and Mount Seir include Jeremiah 49:7–22 and Ezekiel 35, which similarly accuse Edom of violence against Israel and predict its ruin. The charge about casting lots on Jerusalem resonates with descriptions of the Babylonian sack (see Jeremiah and Lamentations), while the concept of reciprocal judgment (“as you have done, it shall be done unto you”) is found elsewhere in prophetic literature (e.g., Isaiah and Amos).",
+  "seeAlso": [
+    "Genesis 25:19-34",
+    "Jeremiah 49:7-22",
+    "Ezekiel 35",
+    "Isaiah 34:5-6",
+    "Psalm 137:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Judgment on Edom's Pride"
+    },
+    {
+      "range": "10-14",
+      "title": "Charges of Betrayal"
+    },
+    {
+      "range": "15-21",
+      "title": "Reversal and Restoration"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Pride",
+    "Betrayal",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "When we see neighbors or competitors prosper, how can we guard against pride and self-sufficiency like Edom’s?",
+    "What responsibilities do individuals and communities have to aid those in crisis rather than exploit their misfortune?",
+    "How should claims of 'security' (economic, military, social) be tested in light of moral accountability?",
+    "In seeking justice for wrongdoing, how do we balance desire for retribution with commands toward mercy and restoration?"
+  ],
+  "uncertainAreas": "The precise historical occasion of the oracle (e.g., which conquest of Jerusalem and whether Edom actively aided the conquerors) is debated; the identity of the “saviours” who come up on Mount Zion and whether territorial promises are meant literally or symbolically are also uncertain.",
+  "createdAt": "2025-11-04T14:04:44.369Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

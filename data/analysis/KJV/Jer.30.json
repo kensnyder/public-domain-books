@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.30",
+  "briefOverview": "A prophetic message promising both severe judgment for Israel's sins and a future restoration—deliverance from exile, healing, and a renewed relationship with God.",
+  "summary": "God commands Jeremiah to write a message of consolation that after a time of great distress—called \"the time of Jacob's trouble\"—Israel and Judah will be saved and brought back to their land. The prophecy balances stern words: Israel's wounds are described as grievous because of increased iniquity, and God permits chastisement and judgment on their adversaries. Yet God promises to break the yoke of exile, restore the people, raise up \"David their king,\" and reestablish settled cities, families, and leaders drawn from among the people. The divine purpose includes both correction (measured punishment) and enduring commitment: God will not utterly destroy Israel but will enact decisive judgment on oppressors before bringing healing and flourishing in the latter days.",
+  "externalContext": "Jeremiah prophesied in the late 7th/early 6th century BCE against the background of Assyrian decline, rising Babylonian power, and the eventual Babylonian conquest and exile of Judah (ca. 597–586 BCE). Promises of return and restoration reflect hopes that emerged among exilic and post‑exilic communities for return to the land and national renewal. The language of a future \"David\"-figure and the \"latter days\" participates in wider ancient Near Eastern and Israelite expectations about a restored monarchy and eschatological renewal.",
+  "externalReferences": "The promise to raise up \"David their king\" echoes other prophetic assurances of a Davidic figure who will shepherd the restored people (see Jeremiah 23:5–6 and Ezekiel 37:24–25). The phrase \"Jacob's trouble\" may recall Jacob's wrestling and distress in Genesis 32:22–32 as well as later apocalyptic usages of national crisis (compare Daniel 12:1 where distress is linked with end-time deliverance).",
+  "seeAlso": [
+    "Jeremiah 23:5-6",
+    "Ezekiel 37:21-25",
+    "Genesis 32:22-32",
+    "Daniel 12:1",
+    "Jeremiah 31:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Announcement of Restoration"
+    },
+    {
+      "range": "12-16",
+      "title": "Lament and Punishment"
+    },
+    {
+      "range": "17-24",
+      "title": "Healing and Final Judgment"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Judgment",
+    "Covenant",
+    "Hope"
+  ],
+  "practicalQuestions": [
+    "How should communities hold together hope for restoration while honestly acknowledging the consequences of collective wrongdoing?",
+    "In what ways can leaders imitate the text's balance of discipline and mercy when addressing systemic failures today?",
+    "How does the image of a future \"Davidic\" leader shape expectations for political or spiritual renewal in our context?",
+    "What practices help individuals and communities receive correction without losing hope in God's faithful commitment?"
+  ],
+  "uncertainAreas": "The text's reference to \"David their king\" is ambiguous between a literal restored monarchy and a symbolic/messianic figure. \"Jacob's trouble\" and \"the latter days\" are also imprecise—readers can see either near‑term references to exile and return or broader eschatological fulfillment. The prophetic oracle's original siting in Jeremiah's career (pre- or post-exile layers) and later editorial shaping remain matters of scholarly debate.",
+  "createdAt": "2025-11-04T01:48:33.473Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Amos.8",
+  "briefOverview": "Amos presents a prophetic vision announcing imminent judgment on Israel for social and religious corruption. The chapter portrays vivid images of disaster and a 'famine' of God's word as consequences of exploitation and idolatry.",
+  "summary": "Amos is shown a basket of summer fruit as a symbol that the end has come for Israel (1–3). He pronounces God’s judgment against those who exploit the poor—manipulating weights and measures, cheating on market days and desecrating sacred times for profit (4–7). God swears not to forget their deeds and predicts widespread mourning and catastrophe, using flood and darkness imagery to describe national collapse (8–10). Religious festivals and songs will be turned to lamentation, and there will be a \"famine\" not of food but of hearing the word of the LORD, so that people will search widely and not find prophetic guidance (11–13). The chapter closes with a warning that those who swear by idols associated with Samaria, Dan, and Beer-sheba will fall and not rise (14).",
+  "externalContext": "Amos is a prophet active in the 8th century BCE, addressing the northern kingdom of Israel at a time of relative prosperity and increasing social inequality. Market malpractice—dishonest weights and measures—was a well-known social grievance in the ancient Near East and is legally condemned elsewhere in the Hebrew law code. Public religious festivals (new moon, sabbath) were central communal institutions, so exploiting their timing for economic gain both violated social ethics and profaned religious practice.",
+  "externalReferences": "The idea that lack of God’s word brings disaster resembles Hosea 4:6 (“My people are destroyed for lack of knowledge”). Legal condemnation of false weights and measures appears in Deuteronomy 25:13–16. The imagery of cosmic signs—darkness at noon—has parallels in prophetic and apocalyptic texts such as Joel 2:31, where celestial phenomena signal divine intervention.",
+  "seeAlso": [
+    "Amos 5:11-12",
+    "Hosea 4:6",
+    "Deuteronomy 25:13-16",
+    "Joel 2:31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Vision of Ripeness"
+    },
+    {
+      "range": "4-7",
+      "title": "Indictment of Exploiters"
+    },
+    {
+      "range": "8-14",
+      "title": "Judgment and Famine"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Social injustice",
+    "Religious hypocrisy",
+    "Famine of hearing"
+  ],
+  "practicalQuestions": [
+    "In what modern ways do economic systems \"shrink the ephah and inflate the shekel\"—what contemporary practices exploit the vulnerable?",
+    "How can religious communities ensure that worship and ritual do not become covers for injustice?",
+    "What responsibilities do leaders and citizens have to maintain honest public measures (legal, economic, informational) today?",
+    "How should communities respond when access to reliable spiritual or moral teaching is limited or silenced?"
+  ],
+  "uncertainAreas": "The precise symbolic scope of the ‘‘basket of summer fruit’’ is unclear—whether it signifies immediate near-future judgment or a more extended eschatological crisis. ‘‘Famine of hearing’’ may mean prophetic silence from God, a refusal of the people to listen, or the removal of authoritative instruction; the text supports multiple related readings. The reference to those who ‘swear by the sin of Samaria’ and place-names like Dan and Beer-sheba is somewhat opaque—likely rhetorical indictments of idolatry and national scope, but the specifics are not detailed.",
+  "createdAt": "2025-11-04T14:03:49.014Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

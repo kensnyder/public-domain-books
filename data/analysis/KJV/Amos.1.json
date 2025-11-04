@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Amos.1",
+  "briefOverview": "Amos declares a series of oracles of judgment against Israel's neighboring nations for violent and treacherous acts, introduced by a summons from the LORD.",
+  "summary": "The chapter opens identifying Amos, a shepherd from Tekoa, and situating his message in the reigns of Uzziah and Jeroboam II shortly before an earthquake (1:1–2). Verse 2 frames the LORD’s proclamation as a divine roar from Zion. Verses 3–15 contain a repeating formula—“For three transgressions... and for four...” —as Amos announces punishment on Damascus, Gaza (and other Philistine cities), Tyre, Edom, and the Ammonites for crimes such as violence, betrayal, and mutilation of pregnant women. Each oracle gives a brief reason for guilt and a promised judgment (fires, destruction, exile), with the Ammonites singled out in verses 13–15 and their king destined for captivity. The chapter functions as an introduction to Amos’s larger theme that God holds all nations accountable for injustice and brutality.",
+  "externalContext": "Amos is generally dated to the 8th century BCE and is set in a period when the northern kingdom of Israel (under Jeroboam II) enjoyed territorial expansion and relative prosperity while social injustices were rife. Tekoa was a small Judean town south of Jerusalem, so Amos is an unusual prophet because he comes from Judah but prophesies primarily against Israel and neighboring states. The rhetorical formula “for three transgressions... and for four” is a common prophetic device in the Hebrew Bible used to assert complete guilt. Names and place-names (Hazael, Ben-hadad, Kir, Rabbah) reflect the wider Near Eastern political map—Aram (Damascus), Philistia, Tyre, Edom, and Ammon were important regional players interacting with Israel by trade, warfare, and diplomacy.",
+  "externalReferences": "The motif of God’s voice or roar from Zion appears elsewhere (e.g., Joel 3:16) as a summons for divine intervention. Oracles against Edom and the accusation of pursuing a brother with the sword are echoed in Obadiah 1:10–14, which likewise condemns Edom for violence against Israel. Ezekiel contains similaracles of judgment against Philistia and Tyre (see Ezekiel 25:15–17; Ezekiel 26–28 addresses Tyre more fully), showing a shared prophetic concern for these coastal powers and their conduct.",
+  "seeAlso": [
+    "Joel 3:16",
+    "Obadiah 1:10-14",
+    "Ezekiel 25:15-17",
+    "Ezekiel 26:1-21",
+    "Amos 1:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Introduction and Summons"
+    },
+    {
+      "range": "3-15",
+      "title": "Oracles Against Neighbors"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Violence",
+    "Covenant accountability",
+    "Prophetic denunciation"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when national or corporate power enables violence and betrays vulnerable peoples?",
+    "What does collective culpability mean for modern nations and institutions that profit from or tolerate injustice?",
+    "How can contemporary readers balance calls for accountability with compassion for individuals within condemned communities?",
+    "In what ways should religious communities acknowledge and resist practices that mirror the crimes Amos condemns?"
+  ],
+  "uncertainAreas": "Identities and precise historical incidents behind some accusations (e.g., the specific event of Gilead women being mutilated) are not recorded elsewhere in the biblical text, and locations such as Kir have multiple proposed identifications. The rhetorical formula “for three transgressions... for four” signals completeness of guilt but does not give a literal chronological meaning. Whether the imagery of fire and captivity should be read as immediate historical predictions, symbolic language for defeat, or subsequent historical fulfillment is not specified in the chapter.",
+  "createdAt": "2025-11-04T14:00:24.293Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

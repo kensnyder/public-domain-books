@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ezek.22",
+  "briefOverview": "Ezekiel pronounces a comprehensive divine indictment against Jerusalem for widespread violence, religious profanation, and social corruption, and announces purging judgment to come.",
+  "summary": "The prophet is commissioned to judge the 'bloody city,' listing crimes including murder, idolatry, sexual violations, oppression of the vulnerable, bribery, and Sabbath profanation (verses 2–16). God declares He will scatter the city among the nations and make its shame visible so they will know the LORD (13–16). A second oracle compares Israel to dross in a furnace—God will gather and melt them in anger to purge impurity (17–22). Finally, Ezekiel catalogs the failures of prophets, priests, princes, and people: false prophecy, desecration of holy things, exploitation of the poor, and the absence of any intercessor to 'stand in the gap'—so judgment is poured out (23–31).",
+  "externalContext": "Ezekiel prophesied in Babylon to Judean exiles in the late 7th–early 6th century BCE, addressing the moral and religious causes of Jerusalem's impending fall (traditionally 587 BCE). The imagery of metallurgical purification (furnace, dross) and courtroom accusation reflects common ancient Near Eastern rhetorical and symbolic motifs for divine judgment and refinement.",
+  "externalReferences": "The denunciation of corrupt leaders and profane worship parallels Isaiah's indictment of Jerusalem's princes and priests (Isaiah 1:21–23) and Jeremiah's criticism of false prophets and social injustice (Jeremiah 5:30–31). The lament that God 'sought for a man... that should stand in the gap' echoes Isaiah 59:16's theme of a lack of intercessors and finds a close procedural parallel in Ezekiel 9's enactment of selective judgment on the city (Ezekiel 9:4–6).",
+  "seeAlso": [
+    "Isaiah 1:21-23",
+    "Isaiah 59:16",
+    "Jeremiah 5:30-31",
+    "Ezekiel 9:4-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Accusation of Bloodshed"
+    },
+    {
+      "range": "17-22",
+      "title": "Dross and Furnace"
+    },
+    {
+      "range": "23-31",
+      "title": "Leaders' Corruption"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Corruption",
+    "Intercession",
+    "Purification"
+  ],
+  "practicalQuestions": [
+    "How should communities today hold leaders (political, religious, economic) accountable in ways that prevent oppression and exploitation?",
+    "What does 'standing in the gap' (interceding on behalf of a community) look like in contemporary faith or civic practice?",
+    "How can religious communities guard against practices that profane what they consider holy (ritual, Sabbath, sacraments) without becoming merely legalistic?",
+    "In what ways might calls for 'purification' be applied constructively (reform, accountability) rather than destructively (shame, exclusion)?"
+  ],
+  "uncertainAreas": "Some charges (specific sexual abuses, the detailed practices of false prophets) may function as rhetorical exemplars of pervasive corruption rather than strictly literal reports; the text does not identify specific individuals by name, so linking these accusations to particular historical figures or a precise chronology involves interpretation beyond the chapter itself.",
+  "createdAt": "2025-11-04T02:11:11.191Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

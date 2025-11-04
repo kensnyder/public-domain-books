@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Hos.1",
+  "briefOverview": "Hosea is commissioned to enact Israel’s unfaithfulness through a symbolic marriage; his children’s names dramatize coming judgment and a future reversal of rejection into restoration.",
+  "summary": "God commands Hosea to marry a woman of promiscuity to symbolize Israel’s spiritual adultery. Hosea marries Gomer and they bear three children whose names—Jezreel, Lo-ruhamah (not pitied), and Lo-ammi (not my people)—serve as prophetic signs announcing imminent judgment on Israel, a break in national power, and withdrawal of divine mercy. The book balances these warnings with a future promise that the people once called \"not my people\" will become \"the sons of the living God,\" and that Israel and Judah will be gathered together in a day of reckoning called Jezreel.",
+  "externalContext": "Hosea prophesied in the northern kingdom of Israel during the 8th century BCE, in the period of Jeroboam II and overlapping Judean kings (Uzziah to Hezekiah). Symbolic or enacted prophecy—using dramatic actions to embody a prophetic message—was an established prophetic practice in ancient Israel. The reference to the house of Jehu recalls the violent dynastic history recorded in 2 Kings (Jehu’s purge of Baal worshippers and the complexities of his legacy).",
+  "externalReferences": "The judgment on the house of Jehu resonates with the narrative in 2 Kings 9–10, where Jehu’s purge and subsequent evaluation of his dynasty occurs (see especially 2 Kings 10:30). Hosea’s themes of covenant unfaithfulness and restoration are continued and expanded in the following chapters of Hosea (chapters 2–3), which develop the themes of punishment and eventual reconciliation. The reversal from “not my people” to “sons of the living God” is later cited in the New Testament (Romans 9:25–26) in discussion of inclusion and calling.",
+  "seeAlso": [
+    "2 Kings 9:1-10:36",
+    "Hosea 2:1-23",
+    "Hosea 3:1-5",
+    "Romans 9:25-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Commission and Marriage"
+    },
+    {
+      "range": "4-9",
+      "title": "Children as Signs"
+    },
+    {
+      "range": "10-11",
+      "title": "Judgment and Promise"
+    }
+  ],
+  "themes": [
+    "Symbolic prophecy",
+    "Judgment",
+    "Mercy and restoration",
+    "Covenant identity"
+  ],
+  "practicalQuestions": [
+    "How should modern preachers and teachers use symbolic actions responsibly to communicate moral or spiritual truths?",
+    "When communities experience failure or exclusion, how can Hosea’s promise of reversal inform pastoral care and hope?",
+    "What does it mean today to be called “not my people,” and how might communities respond to a call toward restored relationship?",
+    "How do warnings of collective responsibility and mercy shape our understanding of communal ethics and repentance?"
+  ],
+  "uncertainAreas": "The text leaves ambiguous the precise historical timing and scope of some promises (immediate restoration versus long-term/eschatological reversal). The reference to avenging the blood of Jezreel could point specifically to Jehu’s dynasty (as 2 Kings describes) but the prophecy’s target and timeline are not spelled out in detail.",
+  "createdAt": "2025-11-04T13:51:36.575Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Jer.35",
+  "briefOverview": "Jeremiah presents the Rechabites' faithful obedience to their ancestor's command as a living parable that rebukes Judah's disobedience and prompts divine judgment and a promise.",
+  "summary": "God instructs Jeremiah to invite the Rechabites into the temple and offer them wine. The Rechabites refuse, explaining that they follow Jonadab son of Rechab’s command to abstain from wine, not build houses, and live in tents, a practice they have kept across generations. Jeremiah reports that even when Nebuchadnezzar’s army threatened, the Rechabites continued to observe these commands. God uses their steadfast obedience to contrast with Judah’s failure to heed God’s prophets and calls the people to receive instruction and return from evil ways. Because the people did not listen, God announces the bringing of predicted calamity on Judah and Jerusalem. As a reward for the Rechabites’ faithfulness, God promises that Jonadab’s line will always have a representative standing before God.",
+  "externalContext": "The episode occurs during the reign of Jehoiakim (late 7th/early 6th century BCE), a period of escalating Assyrian/Babylonian pressure that culminated in Nebuchadrezzar’s campaigns. The Rechabites are a clan known from 2 Kings 10 as followers of Jonadab (Jehonadab), and they represent a conservative, nomadic or ascetic counterculture that rejected settled life and wine. Prophets in the Hebrew Bible sometimes used enacted demonstrations or symbolic acts to illustrate messages (e.g., Ezekiel’s and Isaiah’s symbolic actions).",
+  "externalReferences": "Jonadab (Jehonadab) and his association with a distinct clan appear in 2 Kings 10:15–23, where Jehu allies with Jehonadab; the Rechabite customs likely originate there. Jeremiah’s contrast between prophets sent repeatedly and a people who refuse to listen echoes Jeremiah 7:25–26 and Jeremiah 25:4–7, where God laments the persistent rejection of prophetic warning. The use of a visible, concrete example to communicate prophetic teaching is comparable to other prophetic symbolic acts such as Ezekiel 4:1–3 and Isaiah 20:2–4.",
+  "seeAlso": [
+    "2 Kings 10:15-23",
+    "Jeremiah 7:25-26",
+    "Jeremiah 25:4-7",
+    "Ezekiel 4:1-3",
+    "Isaiah 20:2-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Rechabite Testimony"
+    },
+    {
+      "range": "12-19",
+      "title": "Divine Rebuke and Promise"
+    }
+  ],
+  "themes": [
+    "Obedience",
+    "Prophetic rebuke",
+    "Faithful witness",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "What family or communal commitments shape my willingness to obey ethical or spiritual commands, and how do they compare to obedience to God?",
+    "How should communities respond when prophetic warnings call for change—what practical steps can we take to 'receive instruction'?",
+    "In what ways can small acts of consistent faithfulness serve as a rebuke or witness to broader societal disobedience?",
+    "How do we discern when to honor ancestral traditions and when to prioritize prophetic or ethical demands?"
+  ],
+  "uncertainAreas": "The precise meaning of verse 19's promise that 'Jonadab ... shall not want a man to stand before me for ever' is ambiguous: it could mean perpetual remembrance, continual representation before God, or an ongoing honored lineage, and the text does not specify the exact form of that divine favor. Also, the Rechabites’ motivations (religious, social, or political) are not fully explained in this chapter, leaving room for interpretation about why their practice was established and maintained.",
+  "createdAt": "2025-11-04T01:50:56.300Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

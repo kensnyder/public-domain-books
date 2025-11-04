@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Jer.11",
+  "briefOverview": "Jeremiah is commanded to proclaim the covenant and warns Judah that their covenant-breaking and idolatry will bring inescapable judgment; he also learns of a plot against his life and receives a divine pronouncement against the men of Anathoth.",
+  "summary": "God tells Jeremiah to proclaim the words of the covenant originally given when Israel left Egypt and to warn Judah and Jerusalem that failure to obey will bring the covenant's curses. The people have returned to the sins of their ancestors, worshipping other gods (notably Baal) and setting up many altars, so God declares He will bring disaster that will not be averted by prayer. Jeremiah is told not to pray for the people because God will not hear them in their time of trouble. The prophet uses the image of a once-fair olive tree now kindled by fire to describe Israel's ruin, and Jeremiah reports that God has revealed a conspiracy among men who seek his death. Jeremiah appeals to God for righteous judgment, and God pronounces punishment on the men of Anathoth: death by sword and famine, with no remnant in the year of their visitation.",
+  "externalContext": "Jeremiah prophesied in late-7th/early-6th century BCE Judah, a period of political instability and religious syncretism before the Babylonian exile. Appeals to the covenant recall Mosaic treaty language (Exodus–Deuteronomy) in which obedience brings blessing and disobedience brings curses; prophetic pronouncements often took the form of covenant lawsuits or covenant-restatement. Prophets in this era commonly faced hostility from local leaders and residents, especially when condemning widely practiced idolatry and social injustices.",
+  "externalReferences": "The chapter's covenant language echoes the Sinai covenant statements and the curses of Deuteronomy (see Deuteronomy 27–28) and generally parallels Jeremiah's earlier Temple/house-sermon material in Jeremiah 7, which also warns that ritual observance without obedience will not avert disaster. The report of persecution and local plots against Jeremiah connects with later episodes such as Jeremiah 20:1–6 (Pashhur of Anathoth) where an official opposes and punishes the prophet.",
+  "seeAlso": [
+    "Deuteronomy 27:15-28:68",
+    "Exodus 19:1-8; 24:3-8",
+    "Jeremiah 7:1-15",
+    "Jeremiah 20:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Covenant Restated; Judgment"
+    },
+    {
+      "range": "16-23",
+      "title": "Conspiracy and Punishment"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Idolatry",
+    "Judgment",
+    "Persecution"
+  ],
+  "practicalQuestions": [
+    "How should communities today weigh ritual practice against ethical obedience when the two appear in tension?",
+    "What responsibilities do individuals have to speak truth when that may provoke social opposition or personal danger?",
+    "When Scripture seems to forbid intercession for a people, how should modern readers understand prayer and prophetic lament in contexts of communal judgment?",
+    "How do we identify and dismantle patterns of syncretism or divided loyalties in contemporary faith communities?"
+  ],
+  "uncertainAreas": "The command 'pray not thou for this people' is ambiguous in scope and duration—whether it is a temporary, rhetorical statement tied to imminent judgment or a broader prohibition is debated. The exact identity and social status of the conspirators (men of Anathoth) is not fully detailed; they may be neighbors, priests, or local officials, which affects interpretation of the political dynamics. The olive-tree image is clearly Israelic but allows multiple shades of meaning (fertility, chosenness, ruin).",
+  "createdAt": "2025-11-04T01:39:56.231Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

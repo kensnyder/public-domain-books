@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jer.49",
+  "briefOverview": "A series of prophetic oracles announcing God’s judgment against neighboring nations of Judah, with vivid images of destruction and occasional notes of future restoration.",
+  "summary": "Jeremiah 49 contains discrete pronouncements against Ammon, Edom, Damascus, Kedar and the kingdoms of Hazor, and Elam. The oracle against Ammon (1–6) predicts Rabbah’s devastation and Israel inheriting Ammonite lands. Verses 7–21 denounce Edom (Teman, Bozrah) for pride and promise its humiliation and desolation—language explicitly likens the fate to Sodom and Gomorrah. Damascus and allied cities are portrayed as panic-stricken, with young men cut off and palaces consumed by fire. Nebuchadrezzar is named as the agent against Kedar and Hazor (28–33), whose tents, flocks, and cities will be plundered and left desolate. The chapter closes with an oracle against Elam (34–39): a decisive defeat and scattering are foretold, followed by a promise that in the “latter days” Elam’s captivity will be reversed.",
+  "externalContext": "Jeremiah ministered in the late 7th and early 6th centuries BCE, a period marked by the collapse of Assyria and the rise of Babylon under Nebuchadrezzar II; Babylonian military campaigns affected many of the nations named. The cities and peoples named (Rabbah of the Ammonites east of the Jordan; Edom south/southeast of Judah with Bozrah as a principal city; Damascus as the Aramean capital; Kedar and Hazor associated with Arabian/dependent desert tribes; Elam in what is now southwestern Iran) were real geopolitical neighbors frequently involved in regional conflict. Oracles against the nations are a common prophetic genre, used to assert divine sovereignty over history and to explain the reversal of fortunes caused by imperial movements.",
+  "externalReferences": "The devastation of Sodom and Gomorrah is invoked as a paradigmatic catastrophe (see Genesis 19:24–25). Other prophetic books issue similar judgments against Edom and the surrounding nations—compare Isaiah 34:5–6 and the short prophetic treatment in Obadiah 1:1–21. Ezekiel also contains oracles against Ammon, Edom, Damascus, and Elam (e.g., Ezekiel 25; Ezekiel 35), and Jeremiah elsewhere identifies Nebuchadrezzar as God’s instrument (see Jeremiah 27–28).",
+  "seeAlso": [
+    "Genesis 19:24-25",
+    "Isaiah 34:5-6",
+    "Obadiah 1:1-21",
+    "Ezekiel 25:1-7",
+    "Ezekiel 35",
+    "Jeremiah 27-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Oracle on Ammon"
+    },
+    {
+      "range": "7-21",
+      "title": "Judgment on Edom"
+    },
+    {
+      "range": "23-39",
+      "title": "Damascus, Kedar, Hazor, Elam"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Sovereignty",
+    "Imperial agency",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How should communities address civic or national pride that the text identifies as leading to downfall?",
+    "What does the idea of God using foreign powers to enact justice mean for our understanding of political events?",
+    "How can contemporary societies care for vulnerable groups (fatherless, widows) named in the text in times of conflict?",
+    "How do we read prophetic pronouncements of collective judgment in a way that balances justice with mercy?"
+  ],
+  "uncertainAreas": "Uncertainty about the precise historical settings and agents for every oracle (e.g., whether all attacks are by Babylon/Nebuchadrezzar) and the scope/timing of the promised restorations (vv. 6, 39) which are expressed in broad prophetic language.",
+  "createdAt": "2025-11-04T01:58:11.111Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

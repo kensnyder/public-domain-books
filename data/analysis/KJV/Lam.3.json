@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Lam.3",
+  "briefOverview": "A first-person lament that moves from intense suffering and complaint to renewed trust in God's steadfast mercy, concluding with calls to repentance and requests for vindication.",
+  "summary": "The speaker describes prolonged, overwhelming affliction—physical, emotional, and social—portraying God as the agent of suffering (verses 1–18). Remembering this distress prompts reflection, but that remembrance leads paradoxically to hope: God’s mercies are new every morning and the LORD is the speaker’s portion (19–24). The poem encourages patient waiting, humility, and bearing the yoke of suffering (25–30). It insists that God does not afflict willingly or approve injustice and urges self-examination and return to the LORD (31–40). The voice confesses communal transgression, laments Jerusalem’s destruction with persistent tears (41–51), and then reports that cries for help have been heard (52–58). The chapter closes with an appeal for God to judge enemies and execute recompense (59–66).",
+  "externalContext": "Lamentations is traditionally set in the aftermath of Jerusalem’s destruction (late 7th–6th century BCE) and reflects themes of exile, loss, and covenantal consequences familiar in that historical crisis. Chapter 3 is structurally distinctive in Hebrew: it is an alphabetic composition of 66 verses (three lines for each Hebrew letter), and the concentrated first-person voice often stands for an individual lament that represents communal suffering. The genre draws on ancient Near Eastern lament conventions—honest complaint to a deity combined with appeal and hope.",
+  "externalReferences": "The theme of divine discipline and covenantal curses resembles Deuteronomy’s warnings about punishment for covenant unfaithfulness (e.g., Deuteronomy 28:45–68). The movement from lament to trust echoes patterns in the Psalms (for example, Psalm 13 and Psalm 42), where complaint is turned into renewed confidence in God. The historical setting and tone are also consonant with prophetic warnings and judgments found in Jeremiah (e.g., Jeremiah’s prophecies about exile in Jeremiah 25), which are often associated with the Book of Lamentations.",
+  "seeAlso": [
+    "Deuteronomy 28:45-68",
+    "Psalm 13:1-6",
+    "Psalm 42:5-11",
+    "Jeremiah 25:8-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Sharp Personal Lament"
+    },
+    {
+      "range": "19-30",
+      "title": "Memory and Hope"
+    },
+    {
+      "range": "31-66",
+      "title": "Repentance, Prayer, Vindication"
+    }
+  ],
+  "themes": [
+    "Suffering",
+    "Hope",
+    "Divine mercy",
+    "Repentance"
+  ],
+  "practicalQuestions": [
+    "When I face prolonged hardship, what practices help me hold honest lament while maintaining hope?",
+    "How can communities balance acknowledging collective guilt with seeking restoration and justice?",
+    "What does 'waiting quietly for the salvation of the LORD' look like in daily life and community action?",
+    "How should one pray for justice without endorsing personal vengeance?"
+  ],
+  "uncertainAreas": "Whether the 'I' is an individual or representative of the community; how to reconcile verses that depict God as the direct agent of affliction with verses that deny God’s willing intent to do evil (verses 31–33); the proper ethical stance toward the imprecatory language in verses 64–66 (vengeance vs. plea for divine justice).",
+  "createdAt": "2025-11-04T02:00:28.989Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

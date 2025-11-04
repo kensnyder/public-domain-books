@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ezek.20",
+  "briefOverview": "Ezekiel confronts Israel’s leaders with a historical indictment of national idolatry and Sabbath-breaking, then pronounces both judgment and a future purifying restoration. The chapter closes with a symbolic prophecy of unquenchable fire on the southern forest.",
+  "summary": "Ezekiel rebukes the elders who have come to enquire of the LORD, refusing their ritual queries and calling them to account for Israel’s recurrent rebellion beginning in Egypt. God recounts delivering Israel, giving statutes and sabbaths, and Israel’s persistent idolatry in the wilderness and in the land—polluting the sabbath and practicing abominable rites. Repeatedly God restrained destruction \"for my name's sake,\" yet warned of scattering, discipline, and exclusion from the promised land for persistent rebels. God then promises to act with a mighty hand: to gather the people, bring them into the wilderness to plead face-to-face, pass them under the rod, purge out rebels, and bring the faithful into the covenant and into the holy mountain to serve him. The people will remember and loathe their former evils; God will sanctify himself in them. The chapter ends with a prophecy to the southern forest that a fire kindled by God will devour it unquenchably, and Ezekiel’s remark that some call his speech parables.",
+  "externalContext": "Ezekiel prophesied among Judean exiles during the Babylonian period; his audience includes elders and exiles who have experienced the fall and deportations. The chapter’s rhetoric presumes Israelite covenant concepts (land promise, sabbath as a sign) and ancient Near Eastern practices such as high-place worship (bamah) and child sacrifice or rites \"passing through fire,\" which were condemned in Israel’s law. The image of being brought \"under the rod\" uses shepherd-discipline language common in prophetic literature.",
+  "externalReferences": "The chapter explicitly recalls Israel’s deliverance from Egypt and the giving of the law (compare Exodus 1–20 for deliverance and law-giving and Exodus 20:8–11 for Sabbath language). The condemnation of \"causing to pass through the fire\" echoes Leviticus 18:21 and Deuteronomy 12:31, which prohibit child sacrifice and foreign cultic practices. The theme of God gathering the scattered people resonates with other prophetic promises of restoration (e.g., Ezekiel 36–37).",
+  "seeAlso": [
+    "Exodus 3-14",
+    "Exodus 20:8-11",
+    "Leviticus 18:21",
+    "Deuteronomy 12:2",
+    "Ezekiel 36:22-32",
+    "Ezekiel 37:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-31",
+      "title": "Recounting Israel's Rebellion"
+    },
+    {
+      "range": "32-44",
+      "title": "Judgment and Promise of Restoration"
+    },
+    {
+      "range": "45-49",
+      "title": "Prophecy against South Forest"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Idolatry",
+    "Judgment",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How should communities balance religious ritual and ethical obedience so worship does not become hypocrisy, as condemned here?",
+    "In what ways does the idea of God acting \"for my name's sake\" shape how we understand corporate responsibility and reputation today?",
+    "How can a community genuinely repent of collective past wrongs and be prepared for renewal and restored service?",
+    "What contemporary practices might parallel the \"high places\" or \"passing through the fire,\" and how should they be addressed?"
+  ],
+  "uncertainAreas": "Verse 25's claim that God \"gave them also statutes that were not good\" is ambiguous about agency—whether God permitted harmful practices as judgment or actively gave such regulations. The precise referent and full meaning of the \"forest of the south\" and the scope of the burning image are symbolic and open to interpretation (literal destruction, a symbol of judgment, or an enacted parable).",
+  "createdAt": "2025-11-04T02:10:21.001Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

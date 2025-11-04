@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.9",
+  "briefOverview": "A prophet's anguished lament over Israel's deceit and unfaithfulness, followed by God's announcement of judgment and a call to true relationship with God rather than worldly boastings.",
+  "summary": "The chapter opens with Jeremiah's deep personal lament, expressing a desire to weep continually for the slain among his people and even to remove himself from them because of widespread unfaithfulness (vv.1–2). He condemns pervasive deceit: people speak lies, betray neighbors, and refuse to know the LORD (vv.3–6). God announces that he will test and melt the people and bring destructive judgment on the land—cities burned, Jerusalem made a desolation, and the people scattered (vv.7–16). Jeremiah calls for professional mourners and wide lamentation for the losses and expulsions, describing the devastation in vivid, mournful images (vv.17–22). The chapter closes with a moral admonition: do not boast in wisdom, strength, or riches, but boast in knowing the LORD who practices steadfast love, justice, and righteousness; God will punish the circumcised along with the uncircumcised because Israel is 'uncircumcised in the heart' (vv.23–26).",
+  "externalContext": "Jeremiah prophesied in the late 7th and early 6th centuries BCE during the final decades of the Judahite monarchy, a period that culminated in the Babylonian conquest and the destruction of Jerusalem (587/586 BCE). Professional mourners and public lament traditions were common in the ancient Near East; the prophet's call to summon women who wail reflects that cultural practice. The language of 'wormwood' and 'water of gall' uses well-established metaphors for bitter suffering and judgment in the Hebrew prophetic tradition.",
+  "externalReferences": "The theme of a people needing inner transformation—'circumcision of the heart'—recalls Deuteronomy 10:16 and is developed elsewhere (e.g., Ezekiel 36:25–27) where God promises cleansing and a new heart. Jeremiah's lamenting tone and calls for weeping echo other prophetic laments in Jeremiah itself (cf. Jeremiah 4:19–21). The injunction not to boast in human wisdom but to glory in knowing the Lord is later echoed in the New Testament (compare 1 Corinthians 1:31).",
+  "seeAlso": [
+    "Deuteronomy 10:16",
+    "Ezekiel 36:25-27",
+    "Jeremiah 4:19-21",
+    "1 Corinthians 1:31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Prophetic Lament and Condemnation"
+    },
+    {
+      "range": "7-16",
+      "title": "Divine Judgment Announced"
+    },
+    {
+      "range": "17-26",
+      "title": "Public Lament and Moral Exhortation"
+    }
+  ],
+  "themes": [
+    "Mourning",
+    "Deceit/Unfaithfulness",
+    "Judgment",
+    "Circumcision of Heart"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when patterns of deceit and betrayal become widespread among neighbors?",
+    "In what ways can individuals cultivate inward integrity (a 'circumcised heart') rather than relying on external markers of identity or success?",
+    "How can public lament or communal grieving be practiced constructively today when social or moral failures produce harm?",
+    "What does it mean to 'glory' in knowing God (or in moral character) instead of boasting in wisdom, power, or wealth in contemporary life?"
+  ],
+  "uncertainAreas": "Some images carry cultural or lexical ambiguity (e.g., 'dragons' may mean jackals or mythic creatures in translation). The exact scope of verse 25's phrase about punishing 'all them which are circumcised with the uncircumcised' is open to interpretation—whether it anticipates the fall of Judah alongside foreign nations or stresses moral equivalence is debated. The identity and role of the 'cunning women' is assumed to be professional mourners but could also refer to ritual specialists with ambiguous standing.",
+  "createdAt": "2025-11-04T01:39:08.123Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

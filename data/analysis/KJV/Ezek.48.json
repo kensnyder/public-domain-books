@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ezek.48",
+  "briefOverview": "Ezekiel 48 describes a final, ideal distribution of the land to Israel’s tribes and the arrangement of the holy district and city, ending the temple-vision sequence with the affirmation of God's presence.",
+  "summary": "The chapter gives a sequential listing of tribal portions from the north to the south and specifies the central placement of the sanctuary and a holy oblation reserved for the priests (identified as the sons of Zadok). Detailed measurements are provided for the priests’ and Levites’ allotments, a central city and its suburbs, and the surrounding portions reserved for the prince. The text prohibits selling or alienating the holy land and explains that those who serve the city will be drawn from all the tribes. It closes with the city gates named for the tribes and the city’s name: \"The LORD is there.\"\n\nThese instructions function as the final administrative and theological ordering of the restored land and community in Ezekiel’s temple vision, emphasizing holiness, sacred inheritance, and the renewed presence of God among the people.",
+  "externalContext": "Ezekiel was an exilic prophet (6th century BCE) addressing a community displaced from Judah; these chapters present an idealized blueprint for restoration rather than a recorded historical settlement. References to the sons of Zadok invoke a specific Jerusalem priestly lineage associated in other texts with legitimate temple service. Ancient measurements (reeds, measures) reflect Mesopotamian/Levantine standards and may not convert precisely to modern units. The scheme echoes and reinterprets earlier Israelite land-distribution traditions (e.g., Joshua) within a cultic/eschatological vision.",
+  "externalReferences": "This chapter is the culmination of the temple and land-vision material found in Ezekiel 40–47, which sets out the measurements and cultic rules leading up to this final division. The identification of the Zadokite priests as those who keep God’s charge echoes Ezekiel 44:15–16, where exclusive temple service is assigned to the Zadok line. The non-possessing role of the Levites and the centrality of a sacred city recall the tribal allotments and Levitical arrangements in Joshua 13–21, even as Ezekiel reconfigures them around a central sanctuary.",
+  "seeAlso": [
+    "Ezekiel 40:1-48:35",
+    "Ezekiel 44:15-16",
+    "Joshua 13:1-21:45",
+    "Joshua 21:1-45"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Tribal Boundaries Listed"
+    },
+    {
+      "range": "8-22",
+      "title": "Holy Oblation and City"
+    },
+    {
+      "range": "23-35",
+      "title": "Remaining Tribes and Gates"
+    }
+  ],
+  "themes": [
+    "Land allotment",
+    "Sacred center",
+    "Priestly privilege",
+    "Divine presence"
+  ],
+  "practicalQuestions": [
+    "How should communities today think about allocating resources for religious service while protecting common goods?",
+    "What does the central placement of the sanctuary teach about the relationship between worship and communal life?",
+    "How do we honor and support those who serve religious institutions without creating exclusive privilege?",
+    "What might the name \"The LORD is there\" suggest for practices that cultivate a sense of God’s presence in daily life?"
+  ],
+  "uncertainAreas": "Exact modern equivalents for the measurements (reeds, measures) are uncertain; the chapter’s intended status (literal future territorial plan vs. symbolic/ideal blueprint) is debated; the precise role and political status of the \"prince\" in this scheme is not fully defined in this chapter alone.",
+  "createdAt": "2025-11-04T13:44:53.697Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

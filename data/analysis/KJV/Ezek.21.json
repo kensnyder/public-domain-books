@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ezek.21",
+  "briefOverview": "Ezekiel prophesies imminent, comprehensive judgment on Judah and surrounding nations, using pervasive sword imagery and ritualized signs. The chapter emphasizes that a foreign army (Babylon) functions as God's instrument while final authority remains with the LORD.",
+  "summary": "God instructs Ezekiel to pronounce a coming, inescapable judgment on Israel: a sword drawn from its sheath that will cut off righteous and wicked alike, causing widespread fear and collapse (1–7). Ezekiel is told to dramatize the warning—sigh, cry, and strike his thigh—while repeatedly portraying the sword as sharpened and furbished for slaughter, an instrument given into the hand of the destroyer (8–17). The prophet is then to picture two roads where the king of Babylon seeks omens, choosing one path that leads to Rabbath of the Ammonites and to fortified Jerusalem, signaling Babylon’s military decisions and preparations (19–23). God declares that because Israel’s iniquities are remembered, they will be seized; a profane prince will lose his crown and the nation’s leadership will be overturned until the rightful ruler comes (24–27). The chapter closes with a pronounced oracle against the Ammonites: Babylon will be used to pour out wrath, destroy them, and leave them unremembered (28–32).",
+  "externalContext": "Ezekiel prophesied during the early sixth century BCE exile in Babylon; the historical backdrop includes Nebuchadnezzar’s campaigns that culminated in Jerusalem’s fall (586 BCE) and military actions against neighboring states like Ammon. The reference to inspecting the liver and casting arrows reflects known Mesopotamian divination practices (hepatoscopy and arrow-casting) used by Near Eastern rulers to discern military outcomes.",
+  "externalReferences": "The theme of a foreign power used as God’s instrument parallels passages that describe Assyria or Babylon as an instrument of divine judgment (e.g., Isaiah 10:5–6). Jeremiah similarly portrays Nebuchadnezzar and Babylon as raised by God against the nations (see Jeremiah 27:6). Within Ezekiel, the image of a divinely authorized sword and sweeping judgment echoes earlier oracles of punishment (cf. Ezekiel 5:12; Ezekiel 7:17–19).",
+  "seeAlso": [
+    "Isaiah 10:5-6",
+    "Jeremiah 27:6",
+    "Ezekiel 5:12",
+    "Ezekiel 7:17-19"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Announcement of Judgment"
+    },
+    {
+      "range": "8-17",
+      "title": "Sword Imagery and Lament"
+    },
+    {
+      "range": "19-32",
+      "title": "Babylon's Advance and Ammon"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Sword/siege",
+    "Divine agency",
+    "Overthrow"
+  ],
+  "practicalQuestions": [
+    "How should communities interpret and respond when their leaders or institutions are criticized as responsible for collective wrongdoing?",
+    "What does it mean for a people to 'make their iniquity remembered,' and how can individuals and societies address public and communal sin today?",
+    "In what ways can ritualized mourning or symbolic action (like Ezekiel’s signs) inform contemporary practices of lament and prophetic witness?",
+    "How do we reconcile the idea of God using foreign powers for judgment with beliefs about moral agency and responsibility for violence?"
+  ],
+  "uncertainAreas": "Some pronouns and images are ambiguous (e.g., ownership of the sword in vv.3–5 and the practical referent of 'he' in v.3). The identity of the Babylonian king is not named in the chapter (traditionally read as Nebuchadnezzar), and the phrase 'until he come whose right it is' (v.27) is open to competing readings—restoration to a rightful dynast or a more distant messianic hope.",
+  "createdAt": "2025-11-04T02:10:45.413Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

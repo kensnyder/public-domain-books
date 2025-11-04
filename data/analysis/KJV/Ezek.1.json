@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ezek.1",
+  "briefOverview": "Ezekiel's inaugural vision presents a spectacular theophany: four living creatures, wheels within wheels, and a throne bearing a humanlike figure that represents the glory of the LORD.",
+  "summary": "The chapter opens with a dated setting: Ezekiel among the exiles by the river Chebar when the heavens open and he receives a vision. A storm from the north appears, described with cloud, fire, and brightness, and from its center Ezekiel sees four living creatures with human likenesses but four faces and four wings each. Their feet, hands, movements, and sounds are described in detail, emphasizing both mobility and disciplined order. Beside them are wheels “a wheel within a wheel,” full of eyes, whose motion is directed by the creatures' spirit. Above the creatures is a firmament, and above that a throne on which sits a being like a man, radiant with amber and fire; the vision is identified as the glory of the LORD. Overwhelmed, Ezekiel falls on his face and hears a voice speaking.",
+  "externalContext": "Ezekiel was a Judean priest living among exiles in Babylonia; the Chebar (Kebar) was a canal system in that region and the historical setting is the Babylonian exile. The dating formula (“in the thirtieth year… fifth year of King Jehoiachin’s captivity”) reflects ancient chronological practice and situates the vision in the early sixth century BCE, though the exact meaning of “thirtieth year” is debated (it may refer to Ezekiel’s age or a regnal/prophetic dating system). The elaborate throne-chariot imagery later became central to Jewish mystical traditions (Merkavah literature) and influenced subsequent prophetic and apocalyptic writings.",
+  "externalReferences": "The vision shares features with Isaiah 6:1–4, where a prophet sees the LORD enthroned with heavenly attendants and reacts in fear and awe. Ezekiel himself returns to similar cherubic and glory-departure imagery in Ezekiel 10, where the living creatures/cherubim and the movement of God’s glory play a central role. Revelation 4:6–8 in the New Testament echoes the motif of four living creatures around a throne, each with distinctive faces and constant praise.",
+  "seeAlso": [
+    "Isaiah 6:1-4",
+    "Ezekiel 10",
+    "Revelation 4:6-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Setting and Call"
+    },
+    {
+      "range": "4-14",
+      "title": "The Living Creatures"
+    },
+    {
+      "range": "15-28",
+      "title": "Wheels and Throne"
+    }
+  ],
+  "themes": [
+    "Divine glory",
+    "Heavenly beings",
+    "Throne-chariot",
+    "Prophetic vision"
+  ],
+  "practicalQuestions": [
+    "How should an awareness of God's overwhelming holiness shape personal humility and communal worship today?",
+    "What does the image of a mobile divine presence (wheels that move with the creatures) say about God's nearness to people in displacement or suffering?",
+    "When encountering vivid or strange religious imagery, how can communities discern spiritual meaning without forcing literalism?",
+    "How can leaders balance reverence and responsibility after experiencing a profound religious commissioning?"
+  ],
+  "uncertainAreas": "Identification of the creatures (cherubim, seraphim, or another class) is ambiguous and debated; the symbolic meaning of elements like the wheels-within-wheels and the eyes is not explicitly explained in the text. The precise reference of the dating formula “thirtieth year” (age, regnal count, or other) is uncertain. Finally, whether the figure on the throne should be read strictly as God, a theophany, or a symbolic representation involves interpretive judgment beyond the chapter's plain description.",
+  "createdAt": "2025-11-04T02:01:47.935Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

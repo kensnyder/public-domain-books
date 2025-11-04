@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ezek.31",
+  "briefOverview": "A prophetic lament that compares a mighty empire to a majestic cedar that is felled because of pride, then applies the image to Pharaoh and Egypt’s impending downfall.",
+  "summary": "The prophet presents a sustained metaphor in which the Assyrian is likened to a great cedar of Lebanon nourished by many waters, whose size and sheltering branches made it the envy and refuge of other nations (1–9). Because of its pride and exalted heart, God says he delivered that cedar into the hands of foreign powers who cut it down and left it ruined (10–14). The passage describes mourning at its fall, the descent of the tree to the nether parts (Sheol), and the consolation of other trees that drink water in the underworld (15–17). The oracle closes by directly applying the whole lament to Pharaoh and his multitude: though great in glory, he too will be brought low and lie among the slain (18).",
+  "externalContext": "Ezekiel prophesied during the Babylonian exile (6th century BCE), a time when imperial politics—Assyria, Egypt, and Babylon—shaped the Near East. The cedars of Lebanon were a standard ancient Near Eastern symbol of great kingship, wealth, and prosperity; rivers and waters commonly symbolize sustaining power and influence. Prophetic oracles often use royal-tree imagery to portray the rise and fall of empires and to emphasize divine sovereignty over nations.",
+  "externalReferences": "This chapter’s cedar imagery resembles other prophetic uses of trees to symbolize empires (compare Ezekiel 17:22–24). The theme of an imperial instrument turned aside and punished recalls Isaiah’s treatment of Assyria as both God’s instrument and a proud power subject to judgment (Isaiah 10:5–12). The oracle also fits within Ezekiel’s broader set of pronouncements against Egypt (see the lament/acles in Ezekiel 32).",
+  "seeAlso": [
+    "Ezekiel 17:22-24",
+    "Ezekiel 32",
+    "Isaiah 10:5-12",
+    "Isaiah 14:12-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "The Assyrian Cedar"
+    },
+    {
+      "range": "10-18",
+      "title": "Judgment on Pharaoh"
+    }
+  ],
+  "themes": [
+    "Pride and downfall",
+    "Divine judgment",
+    "Imperial symbolism",
+    "Mourning"
+  ],
+  "practicalQuestions": [
+    "In what ways does the text challenge contemporary leaders who rely on power and prosperity for security?",
+    "How should communities respond when powerful institutions or nations collapse?",
+    "What practices cultivate humility in individuals and societies to avoid the kind of pride criticized here?",
+    "How does the image of divine sovereignty over empires affect modern understandings of justice and international events?"
+  ],
+  "uncertainAreas": "The text ambiguously uses 'the Assyrian' as the figure of the cedar—whether this refers to a specific historical Assyrian ruler, to Assyria generically, or functions primarily as a typological example for Pharaoh is open to interpretation. The precise identity of the Pharaoh addressed is not named here, and metaphors like \"the nether parts\" (Sheol) allow figurative and literal readings.",
+  "createdAt": "2025-11-04T02:15:16.461Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

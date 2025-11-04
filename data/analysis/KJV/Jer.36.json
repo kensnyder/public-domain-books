@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jer.36",
+  "briefOverview": "Jeremiah commissions a written record of his prophecies, Baruch reads it publicly, King Jehoiakim rejects and burns the scroll, and God commands the scroll to be rewritten with added judgment against the king.",
+  "summary": "God instructs Jeremiah to dictate all his prophecies to Baruch on a scroll so Judah might hear and repent. Baruch reads the scroll publicly in the temple on a fast day; officials hear it, report it to King Jehoiakim, and Jehudi reads portions of the scroll to the king. Jehoiakim angrily cuts and burns the roll before the royal court while others stand by without lament. The king orders Jeremiah and Baruch arrested, but God hides them. God then tells Jeremiah to take another scroll, re-write the burned words, and add further denunciation, explicitly pronouncing that Jehoiakim will have no descendant sit on David's throne and predicting an ignominious fate for him and punishment for Judah. Baruch obeys and copies the words with additional material.",
+  "externalContext": "Jehoiakim reigned during the rising dominance of Babylon under Nebuchadnezzar (late 7th–early 6th century BCE), a period when prophetic warnings about foreign conquest and exile were politically sensitive. Public fasts and temple assemblies were regular occasions for communal repentance and prophetic address. Scribes like Baruch were professional literate aides who preserved and transmitted prophetic oracles; possessing and reading a roll in the temple made Jeremiah's words widely known. Acts like burning a prophetic scroll would function both as censorship and a public repudiation of the prophet's claim.",
+  "externalReferences": "The judgment against Babylon and its role in punishing Judah appears elsewhere in Jeremiah (e.g., Jeremiah 25:9). The specific condemnation of Jehoiakim and the prediction of his disgraceful end are anticipated in other Jeremianic passages condemning Judah’s rulers (see Jeremiah 22:18–19). The role of Baruch as Jeremiah's scribe and the theme of threatened imprisonment or persecution of prophets is reflected elsewhere in Jeremiah (compare Jeremiah 45 where Baruch is addressed).",
+  "seeAlso": [
+    "Jeremiah 25:9",
+    "Jeremiah 22:18-19",
+    "Jeremiah 45:1-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Dictation and Temple Reading"
+    },
+    {
+      "range": "12-26",
+      "title": "Royal Hearing and Rejection"
+    },
+    {
+      "range": "27-32",
+      "title": "Rewrite and Pronounced Judgment"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Rejection",
+    "Divine judgment",
+    "Scripture preservation"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when authoritative warnings make them uncomfortable?",
+    "What responsibilities do literate aides, journalists, or record-keepers have when leaders try to suppress inconvenient truths?",
+    "When a leader publicly rejects moral or prophetic critique, what constructive avenues exist for accountability and witness today?",
+    "How can religious communities preserve and transmit difficult teachings without enabling despair or cynicism?"
+  ],
+  "uncertainAreas": "Precise historical details (exact circumstances of Jehoiakim's death and the later additions to the scroll) and the identities or motives of some court figures are not fully determinable from the chapter alone. It is also ambiguous whether the burning was primarily symbolic or fully literal and how much later editing influenced the final text.",
+  "createdAt": "2025-11-04T01:51:33.492Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Mic.6",
+  "briefOverview": "God brings a legal-style charge against Israel, recounting past deliverance and demanding ethical faithfulness rather than ritual. The chapter contrasts rightful worship (justice, mercy, humility) with social corruption and announces consequences for injustice.",
+  "summary": "The LORD summons the mountains as witnesses and announces a controversy with his people, asking rhetorically what he has done to them and reminding Israel of deliverance from Egypt and of leaders sent on their behalf (vv. 1–5). The people ask what offerings might placate God—sacrifices, wealth, even a child—but God answers that he requires ethical behavior: act justly, love mercy, and walk humbly with God (vv. 6–8). A public warning follows: the city's leaders and merchants practice deceit and violence—corrupt weights, lies, and oppression—and so God will bring sickness, scarcity, and desolation as judgment (vv. 9–16). The chapter links covenant memory and prophetic indictment: past salvation heightens the obligation to social righteousness, and persistent emulation of the sinful policies of Omri and Ahab brings judgment.",
+  "externalContext": "Micah is an 8th-century BCE prophet from Judah speaking in the same broad era as Isaiah and Amos; prophetic 'covenant lawsuit' (rib, or ’rib-type’) rhetoric—where God summons witnesses and accuses Israel—was a common prophetic literary form. The references to deliverance from Egypt and to Moses, Aaron, and Miriam invoke the foundational Exodus covenant memory that legitimizes God’s claim on Israel. Omri and Ahab were northern Israelite kings (1 Kings 16–22) associated in the prophets with idolatry and oppressive policies, making them negative exemplars.",
+  "externalReferences": "The chapter alludes directly to the Exodus tradition (e.g., Exodus accounts of deliverance under Moses and Aaron) when recalling God’s redemption of Israel from Egypt. The Balaam–Balak episode (Numbers 22–24) is explicitly invoked as part of Israel’s remembered history of God’s saving acts and protection.\n\nThe ethical demand in verse 8—'do justly, love mercy, walk humbly'—resonates with other prophetic critiques of empty ritual in favor of justice and steadfast love (compare Hosea 6:6; Isaiah 1:11–17; Amos 5:21–24). The mention of 'statutes of Omri' points to traditions about northern Israel’s policies under Omri/Ahab recorded in 1 Kings 16 and later prophetic denunciations of those dynasties.",
+  "seeAlso": [
+    "Numbers 22:1-24:25",
+    "Exodus 3:7-10",
+    "1 Kings 16:21-33",
+    "Amos 5:24",
+    "Isaiah 1:17",
+    "Hosea 6:6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Divine Lawsuit and Reminders"
+    },
+    {
+      "range": "6-8",
+      "title": "What God Requires"
+    },
+    {
+      "range": "9-16",
+      "title": "Indictment and Judgment"
+    }
+  ],
+  "themes": [
+    "Justice",
+    "Mercy",
+    "Covenant faithfulness",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "In what ways might religious practice today substitute ritual for justice and compassion, and how should communities correct that?",
+    "How can we address modern equivalents of 'deceitful weights'—economic practices that exploit the vulnerable—in local and national policy?",
+    "What does 'walking humbly with your God' look like in daily life and public leadership?",
+    "When remembering past good deeds or collective identity, how should that memory inform present social responsibility?"
+  ],
+  "uncertainAreas": "The phrase 'hear ye the rod, and who hath appointed it' (v.9) and the reference to 'thy name' are somewhat obscure in their immediate referents; interpretations vary whether they indicate divine disciplinary authority, prophetic instruction, or civic reputation. The scope and timing of the announced judgments (whether immediate/local or pointing to later historical collapse) are not specified in the chapter and require correlation with historical records to determine fulfillment.",
+  "createdAt": "2025-11-04T14:09:47.731Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ezek.12",
+  "briefOverview": "Ezekiel performs a symbolic act predicting the imminent exile of Jerusalem’s leadership and warns that God’s warnings will be fulfilled without delay.",
+  "summary": "God commands Ezekiel to enact a public sign: pack belongings by day, dig through a wall at dusk, carry his goods on his shoulder while covering his face. Ezekiel obeys, and God explains the sign represents the prince and many inhabitants being taken into captivity to Babylon, with their supporters scattered and a few left as witnesses to proclaim Israel’s abominations. The people are told they will eat and drink in fear as the land becomes desolate. God confronts a common proverb, declaring that prophetic visions will no longer be delayed but will occur in the people's days—God’s word will be spoken and swiftly acted upon.",
+  "externalContext": "Ezekiel prophesied during the late 7th / early 6th century BCE amid the political collapse of Judah and the Babylonian campaigns under Nebuchadnezzar. Prophetic sign-acts (dramatic symbolic actions) were an established prophetic method in the Hebrew prophets to communicate imminent judgment (compare prophets like Jeremiah and Hosea). The audience includes both those in the land and exilic communities concerned about the timing of Jerusalem’s fall.",
+  "externalReferences": "Ezekiel’s use of symbolic action parallels his earlier enactments (for example Ezekiel 4:1–3, where he lies on his side and models siege conditions). The theme of submitting to Babylon as divine judgment appears alongside warnings in Jeremiah, especially Jeremiah 27:12–15, which urges acceptance of Babylonian yoke. Historical narratives about the deportations (e.g., 2 Kings 24:10–16) describe royal deportees taken to Babylon and provide historical context for Ezekiel’s references to the prince being carried off.",
+  "seeAlso": [
+    "Ezekiel 4:1-3",
+    "Jeremiah 27:12-15",
+    "2 Kings 24:10-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Prophetic Sign Enacted"
+    },
+    {
+      "range": "8-16",
+      "title": "Interpretation: Exile Foretold"
+    },
+    {
+      "range": "17-28",
+      "title": "Fear, Desolation, and Immediacy"
+    }
+  ],
+  "themes": [
+    "Exile",
+    "Prophetic sign",
+    "Divine judgment",
+    "Immediacy of prophecy"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when leaders' failures risk collective harm?",
+    "What role can symbolic actions or tangible warnings play in persuading people today?",
+    "How do we live responsibly when warned of foreseeable consequences?",
+    "When a promised change seems delayed, how should we interpret and respond to prophetic or ethical warnings?"
+  ],
+  "uncertainAreas": "The precise identity of the \"prince\" (specific king, governor, or leadership class) is not explicitly defined, and whether some statements address exiles already in Babylon versus people still in the land can be ambiguous. The scope and timing of \"a few men\" left and the exact nuance of \"shall not see it, though he shall die there\" also leave interpretive room.",
+  "createdAt": "2025-11-04T02:06:45.181Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

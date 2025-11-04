@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Joel.2",
+  "briefOverview": "Joel 2 contrasts a terrifying arrival called the \"day of the LORD\"—portrayed as destructive invasion and cosmic signs—with a summons to heartfelt repentance and a promise of restoration, including an outpouring of God's Spirit.",
+  "summary": "The chapter opens with an urgent alarm: a devastating force approaches, described in vivid military and cosmic imagery as the \"day of the LORD\" (verses 1–11). God then calls the people to wholehearted repentance—fasting, weeping, and internal contrition rather than mere external show—and summons a solemn assembly (12–17). In response to genuine turning, God promises pity and restoration: agricultural blessing, removal of the invading force, and recompense for losses (18–27). The book concludes with a forward-looking promise that God will pour out his Spirit on all people, accompanied by signs in the heavens and the assurance that those who call on the LORD will be saved (28–32).",
+  "externalContext": "Prophetic warnings about a \"day of the LORD\" and invaders fit the historical milieu of ancient Israel and Judah, where prophets addressed both natural disasters and foreign military threats. Agricultural imagery (rain, former and latter rains) reflects an agrarian society dependent on seasonal rains for crops; appeals to communal fasting and assemblies were established religious responses to crisis. The promise of a Spirit poured out on \"all flesh\" anticipates a broadened, inclusive work of God that later Jewish and Christian interpreters read in light of eschatological renewal.",
+  "externalReferences": "Joel 2:28–32 is explicitly quoted by Peter in Acts 2:17–21 as being fulfilled in the Pentecost outpouring of the Spirit. The theme of cosmic signs accompanying a divine day echoes Isaiah 13:10 (sun and moon darkened) and other prophetic texts about the day of the LORD (cf. Amos 5:18–20). The chapter also resumes themes from Joel 1, which describes the locust devastation that this chapter interprets as or foreshadows by linking the disaster to God's action and the need for repentance.",
+  "seeAlso": [
+    "Acts 2:17-21",
+    "Amos 5:18-20",
+    "Isaiah 13:10",
+    "Joel 1:1-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "The Terrifying Invasion"
+    },
+    {
+      "range": "12-17",
+      "title": "Call to Repentance"
+    },
+    {
+      "range": "18-32",
+      "title": "Restoration and Outpouring"
+    }
+  ],
+  "themes": [
+    "Day of the LORD",
+    "Judgment",
+    "Repentance",
+    "Spirit-outpouring"
+  ],
+  "practicalQuestions": [
+    "When a community faces disaster, how can we prioritize inward repentance and concrete communal practices over merely outward displays?",
+    "What does 'rending the heart, not the garments' look like in contemporary religious or civic life?",
+    "How should the promise of future restoration shape responses to current loss and ecological or social crises?",
+    "In what ways does the promise of a Spirit poured out on all flesh challenge exclusive ideas about who may speak for God today?"
+  ],
+  "uncertainAreas": "The text is ambiguous about whether the destructive force is primarily an actual army, a swarm (as in Joel 1), or a symbolic representation of divine judgment; the scope and timing of the cosmic signs are also open to both near-term and eschatological readings. The precise identity of the \"northern army\" mentioned in verse 20 is not specified in the chapter.",
+  "createdAt": "2025-11-04T13:59:13.819Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

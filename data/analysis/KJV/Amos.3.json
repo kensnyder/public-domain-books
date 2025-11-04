@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Amos.3",
+  "briefOverview": "A prophetic indictment linking Israel's covenant privilege to accountability and announcing imminent judgment for injustice and corrupt worship.",
+  "summary": "Amos opens by addressing Israel as the special people of God and asserts that that special relationship increases their responsibility (vv.1–2). Through a series of rhetorical questions and images (lion, trumpet, bird in a snare) the prophet argues that calamity will not come without divine purpose and that God reveals his intentions to the prophets (vv.3–8). Amos then summons attention to the turmoil in Samaria and condemns the elite who 'store up violence and robbery in their palaces,' announcing that an enemy will surround the land and plunder it (vv.9–12). The chapter closes with a promise that God will punish religious and social structures of Israel—altars at Bethel will be struck down and the rich houses will perish (vv.13–15).",
+  "externalContext": "Amos is generally placed in the 8th century BCE and directed primarily at the northern kingdom of Israel (Samaria) during a period of relative prosperity and social stratification. The reference to Bethel alludes to a recognized cultic center where alternative worship (golden calves) had been established under Jeroboam I. The prophetic tradition frequently links covenant election with moral responsibility: being 'known' by God entails accountability.",
+  "externalReferences": "The claim that God 'only has I known' resonates with covenant language such as Deuteronomy 7:6, where Israel's chosenness implies special obligations. The condemnation of worship at Bethel recalls the establishment of alternative sanctuaries and calves in 1 Kings 12:28-30, which set the stage for later prophetic critique.",
+  "seeAlso": [
+    "Deuteronomy 7:6",
+    "1 Kings 12:28-30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Election and Accountability"
+    },
+    {
+      "range": "3-8",
+      "title": "Signs and Revelation"
+    },
+    {
+      "range": "9-15",
+      "title": "Judgment on Samaria and Bethel"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Covenant responsibility",
+    "Prophetic revelation",
+    "Social injustice"
+  ],
+  "practicalQuestions": [
+    "If privilege brings greater responsibility, how should communities today respond when their prosperity is accompanied by injustice?",
+    "What contemporary roles correspond to the 'prophet'—how should leaders communicate warnings and what is our responsibility to heed them?",
+    "Which modern institutions function like the 'altars' and 'palaces' Amos criticizes, and how should they be held accountable?",
+    "How do we discern whether communal suffering is a consequence of collective actions and what steps of repentance or reform are appropriate?"
+  ],
+  "uncertainAreas": "The text's statements about God bringing 'evil' or calamity raise theological questions about direct divine causation versus permissive judgment that are debated in interpretation. The address in v.9 to Ashdod and Egypt could be a literal summons to other nations to witness Israel's downfall or a rhetorical device—its precise implication is not explicit. Some images (e.g., 'two legs, or a piece of an ear') are idiomatic and their full cultural nuance is uncertain.",
+  "createdAt": "2025-11-04T14:01:23.316Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Dan.5",
+  "briefOverview": "A royal feast degenerates into sacrilege and an uncanny handwriting on the wall announces divine judgment that leads to the fall of Belshazzar's reign.",
+  "summary": "Belshazzar holds a great banquet and uses vessels taken from the Jerusalem temple to drink and praise idol-gods. A disembodied hand appears and writes an enigmatic Aramaic message on the palace wall: MENE, MENE, TEKEL, UPHARSIN. The king's wise men cannot interpret it, but the queen recommends Daniel, who recounts Nebuchadnezzar's humbling and declares that God has numbered and weighed Belshazzar's kingdom and found it wanting; the kingdom will be divided and given to the Medes and Persians. Belshazzar honors Daniel, but that same night Belshazzar is killed and Darius the Mede takes the kingdom.",
+  "externalContext": "The narrative is set in the Babylonian imperial court during the Judean exile and is told in Aramaic (chapters 2–7 of Daniel are in Aramaic). The story presumes the earlier account of Nebuchadnezzar’s humiliation (cf. Daniel 4) and echoes historical memories that Nebuchadnezzar carried off temple vessels from Jerusalem (see 2 Kings 25:13–17). Historically, the figures of Belshazzar and Darius the Mede are debated: Belshazzar is attested as a son or regent of Nabonidus in some inscriptions, while the precise identity of Darius the Mede in extra-biblical records is uncertain.",
+  "externalReferences": "The chapter explicitly recalls Nebuchadnezzar’s humiliation and restoration (see Daniel 4:28–37), using that episode to accuse Belshazzar of failing to learn humility. The theft and use of Jerusalem's temple vessels echoes the account of Nebuchadnezzar removing sacred items in 2 Kings 25:13–17. The theme that God determines the rise and fall of empires links to other Daniel passages that present successive world powers as under divine sovereignty (compare Daniel 2:31–45 and Daniel 7:1–14).",
+  "seeAlso": [
+    "Daniel 4:28-37",
+    "2 Kings 25:13-17",
+    "Daniel 2:31-45",
+    "Daniel 7:1-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Sacrilegious Feast"
+    },
+    {
+      "range": "10-29",
+      "title": "Daniel Interprets Judgment"
+    },
+    {
+      "range": "30-31",
+      "title": "Fall and Succession"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Judgment",
+    "Hubris",
+    "Imperial transition"
+  ],
+  "practicalQuestions": [
+    "How should leaders and communities respond when pride and ritual disrespect erode moral legitimacy?",
+    "What symbolic acts or objects in our culture could blind people to justice and accountability?",
+    "How can those in positions of influence be held accountable without resorting to vengeful or immediate reprisals?",
+    "In what ways does acknowledging a higher moral standard affect public and private decision-making?"
+  ],
+  "uncertainAreas": "The historical identification of Belshazzar and Darius the Mede is debated outside the biblical text; the immediacy and details of Belshazzar’s death as reported may reflect theological storytelling. The exact linguistic nuance of 'UPHARSIN/Peres' and its play on Persian/Parsin is interpretive, though the text provides an interpretation.",
+  "createdAt": "2025-11-04T13:47:38.494Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

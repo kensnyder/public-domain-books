@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Dan.9",
+  "briefOverview": "Daniel confesses Israel’s corporate sin in fervent prayer and receives an angelic revelation (the ‘seventy weeks’) outlining a timetable for Jerusalem’s restoration, atonement for sin, and future desolations tied to a coming prince and the Messiah.",
+  "summary": "In the first year of Darius the author recalls Jeremiah’s prophecy of seventy years and responds with intense prayer, fasting, sackcloth, and ashes, offering a detailed confession on behalf of Israel and asking God to turn away anger and restore Jerusalem. While Daniel is praying, the angel Gabriel appears to give understanding and delivers a prophetic schedule: ‘seventy weeks’ are decreed for Daniel’s people and holy city to finish transgression, make an end of sins, make reconciliation for iniquity, bring in everlasting righteousness, seal vision and prophecy, and anoint the Most Holy. Gabriel specifies that from the issuing of a decree to rebuild Jerusalem until the ‘Messiah the Prince’ there will be seven weeks plus sixty-two weeks; after the sixty-two weeks the Messiah will be cut off. The vision also foretells that a coming prince’s people will destroy the city and sanctuary, and that in a final week a covenant will be confirmed but in its midpoint sacrifices will cease and an ‘abomination’ will make the place desolate until a determined consummation.",
+  "externalContext": "The chapter presumes the Babylonian exile and the prophetic tradition of Jeremiah, who predicted a seventy‑year period of desolation for Judah (e.g., Jeremiah 25:11–12; 29:10). The narrative setting in the reign of a Persian‑period ruler (named here as Darius son of Ahasuerus) places Daniel in the era after Babylon’s fall when decrees to restore Jerusalem and the temple were issued under Persian kings (e.g., Cyrus, and later rebuilding efforts associated with Ezra and Nehemiah). Public acts of mourning and petition—fasting, sackcloth, ashes—are standard Israelite expressions of corporate repentance. The Hebrew phrase translated “weeks” (shabu'im) literally means “sevens,” which many interpreters understand as units of seven years, though that interpretation involves later chronological calculation.",
+  "externalReferences": "The chapter explicitly builds on Jeremiah’s prediction of seventy years of desolation (see Jeremiah 25:11–12; 29:10). Gabriel’s appearance here echoes an earlier angelic visit in Daniel 8 (see Daniel 8:16–26), and the themes of cessation of sacrifice and an ‘abomination’ that makes desolate recur in Daniel 12:11 and in the phrase later quoted by Jesus in Matthew 24:15 (the ‘abomination of desolation’).",
+  "seeAlso": [
+    "Jeremiah 25:11-12",
+    "Jeremiah 29:10",
+    "Daniel 8:16-26",
+    "Daniel 8:14",
+    "Daniel 12:11",
+    "Matthew 24:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "Confession and Petition"
+    },
+    {
+      "range": "20-27",
+      "title": "Gabriel's Seventy Weeks"
+    }
+  ],
+  "themes": [
+    "Confession",
+    "Restoration",
+    "Prophecy",
+    "Covenant"
+  ],
+  "practicalQuestions": [
+    "How does communal confession (rather than private confession) affect efforts to seek reconciliation and renewal in a modern religious community?",
+    "In what ways should promises tied to historical restoration (e.g., rebuilding, return from exile) shape contemporary hopes for communal repair and justice?",
+    "How can communities discern between literal, symbolic, and typological readings of prophetic timeframes like the ‘seventy weeks’?",
+    "What responsibilities do religious leaders and communities have when interpreting texts that predict destruction or desolation?"
+  ],
+  "uncertainAreas": "Several key elements are debated: the precise identity of ‘Darius the son of Ahasuerus’ in the historical record; whether the ‘seventy weeks’ are literal weeks, periods of seven years each (the common scholarly reading), or symbolic figures; the exact referent of ‘Messiah the Prince’ and whether the ‘he’ who confirms the covenant in v.27 is the same as the Messiah or a different future ruler; and which historical events (e.g., the destruction by Rome in 70 CE, the persecutions under Antiochus IV, or eschatological future events) the vision intends to predict. These ambiguities permit multiple, historically grounded interpretations.",
+  "createdAt": "2025-11-04T13:49:41.759Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

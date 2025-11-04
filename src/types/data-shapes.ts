@@ -1,3 +1,5 @@
+import { Merge } from 'type-fest';
+
 export type RawBookShape = {
   workOsisID: string;
   bookOsisID: string;
@@ -11,37 +13,22 @@ export type RawBookShape = {
   dateLatest: string;
   chapterLabel: string;
   verseLabel: string;
+  traditions: string[];
   hasData: boolean;
 };
-export type BookShape = {
-  workOsisID: string;
-  bookOsisID: string;
-  bookName: string;
-  bookSubtitle: string;
-  paratext: string;
-  aliases: string[];
-  groups: string[];
-  authors: string[];
-  dateEarliest: string;
-  dateLatest: string;
-  chapterLabel: string;
-  verseLabel: string;
+export type BookShape = Merge<RawBookShape, {
   chapterCount: number;
   verseCounts: number[];
-};
+}>;
 export type RawWorkShape = {
   workOsisID: string;
   workTitle: string;
   workSubtitle: string;
   aliases: string[];
 };
-export type WorkShape = {
-  workOsisID: string;
-  workTitle: string;
-  workSubtitle: string;
-  aliases: string[];
+export type WorkShape = Merge<RawWorkShape, {
   chapterCount: number;
-};
+}>;
 export type VerseShape = {
   workOsisID: string;
   bookOsisID: string;

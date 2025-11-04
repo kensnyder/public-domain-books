@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Dan.6",
+  "briefOverview": "Daniel's obedience to God in the face of a royal edict leads to miraculous deliverance from a lions' den and a public proclamation of God's sovereignty.",
+  "summary": "King Darius organizes his realm under 120 satraps and three presidents, placing Daniel above the others because of his exceptional qualities. Jealous officials conspire to trap Daniel by persuading the king to issue a decree forbidding petitions to any god or man except the king for thirty days. Daniel continues his established practice of praying three times daily toward Jerusalem and is reported, arrested, and cast into the lions' den when Darius, bound by his own decree, cannot revoke it. God sends an angel to shut the lions' mouths; Daniel emerges unharmed, while his accusers (with their families) are thrown to the lions and destroyed. King Darius then issues a wide-reaching decree honoring the living God who rescues and performs signs and wonders, and Daniel prospers under Darius and Cyrus.\n",
+  "externalContext": "The narrative is set in the Persian imperial period after the Babylonian exile; Persian court administration used satraps or provincial officials and highly formalized royal decrees. The phrase \"law of the Medes and Persians\" reflects ancient Near Eastern notions that certain royal edicts were irrevocable, a feature attested elsewhere in Persian-period literature. Scholarly debates exist about the precise historical identity of \"Darius\" in this chapter (e.g., Darius the Mede vs. Darius I), and the book mixes court-tale genres with theological proclamation common in exilic and post-exilic Jewish writings.",
+  "externalReferences": "The story builds on earlier motifs in Daniel: Daniel's favor and promotion (cf. Daniel 1) and his role in interpreting dreams and asserting God's rule (cf. Daniel 2). The theme of faithful resistance to imperial pressure parallels Daniel 3 (the fiery furnace) where God vindicates those who refuse idolatry. The irrevocable royal-decree motif is also important in Esther (e.g., Esther 3–8) where Persian law plays a decisive role, and Cyrus is mentioned later in Isaiah 45:1 as an instrument of God's purposes.\n",
+  "seeAlso": [
+    "Daniel 1:1-21",
+    "Daniel 2:1-49",
+    "Daniel 3:1-30",
+    "Esther 3:1-15",
+    "Isaiah 45:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Officials and Decree"
+    },
+    {
+      "range": "10-18",
+      "title": "Prayer and Accusation"
+    },
+    {
+      "range": "19-28",
+      "title": "Deliverance and Proclamation"
+    }
+  ],
+  "themes": [
+    "Faithfulness",
+    "Divine deliverance",
+    "Court intrigue",
+    "Sovereignty of God"
+  ],
+  "practicalQuestions": [
+    "When civic laws conflict with personal conscience or religious duty, how should individuals respond in a way that balances integrity and responsibility?",
+    "What practices (like Daniel's regular prayer) help sustain faithfulness under pressure in modern workplaces or institutions?",
+    "How should leaders respond when their own policies lead to injustice—what responsibilities do they have to correct or mitigate harm?",
+    "What safeguards can communities put in place to prevent malicious use of legal or bureaucratic processes against vulnerable people?"
+  ],
+  "uncertainAreas": "Uncertainty exists about the historical identity of \"Darius\" and the precise historical setting; the narrative's miraculous elements and the dramatic fate of the accusers raise questions about genre (historical report vs. theological court tale) and the degree to which details are literal or theological constructs.",
+  "createdAt": "2025-11-04T13:48:04.381Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ezek.30",
+  "briefOverview": "A prophetic oracle announcing Yahweh’s imminent judgment on Egypt and its allied peoples, executed through the power of Babylon, with a specific taunt against Pharaoh’s weakening rule.",
+  "summary": "The prophet announces that the ‘day of the LORD’ is near and calls for lamentation as Egypt and its partners will suffer a violent defeat. A list of Egyptian regions and allied peoples will fall; cities will be desolate, idols destroyed, and foreign invaders will make the land waste. Yahweh declares that messengers from him will go by ships to terrify Ethiopia, and explicitly names Nebuchadrezzar king of Babylon as the instrument who will bring destruction. The oracle promises dried rivers, dispersion of Egyptians among the nations, and the end of a prince in the land. A dated message then portrays Pharaoh as having a broken arm that will not be healed and again says Babylon’s arm will be strengthened while Egypt’s power is broken and dispersed.",
+  "externalContext": "Ezekiel is an exilic prophet active in the sixth century BCE addressing communities in Babylon after the Judean elite were deported. The Babylonian empire under Nebuchadrezzar rose to dominate the Near East during this period, and prophetic oracles often interpret shifting imperial fortunes as demonstrations of Yahweh’s sovereignty over nations. Many of the place names (Noph, No, Pathros, Tehaphnehes) correspond to major Egyptian cities or regions known in ancient Egyptian and Near Eastern geography, often rendered in Hebrew transliteration.",
+  "externalReferences": "This oracle is part of a consecutive set of Ezekiel prophecies against Egypt (cf. Ezekiel 29–32) that similarly portray Babylon as God’s instrument of judgment. Comparable prophetic denunciations of Egyptian power appear in Isaiah 19:1–4 and Jeremiah 46:25–28, and the theme of the ‘day of the LORD’ as divine judgment also occurs in Joel 2:31 and Amos 5:18.",
+  "seeAlso": [
+    "Ezekiel 29:1-16",
+    "Ezekiel 31:1-18",
+    "Ezekiel 32:1-32",
+    "Isaiah 19:1-4",
+    "Jeremiah 46:25-28",
+    "Joel 2:31",
+    "Amos 5:18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "Oracle against Egypt"
+    },
+    {
+      "range": "20-26",
+      "title": "Pharaoh and Babylon"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Divine sovereignty",
+    "Imperial conflict",
+    "Destruction of idols"
+  ],
+  "practicalQuestions": [
+    "How should communities today interpret political or military upheaval in theological terms without simplifying complex causes?",
+    "What are modern equivalents of the ‘idols’ of national power the text condemns, and how should believers respond?",
+    "When a religious text predicts the downfall of nations, how can readers balance compassion for affected peoples with theological claims of justice?",
+    "How can communities maintain identity and hope when displacement and dispersion (as predicted for Egypt here) are experienced?"
+  ],
+  "uncertainAreas": "Some place names (e.g., Sin, No, Noph) have debated identifications in modern scholarship; the exact historical timing and scope of Nebuchadrezzar’s campaign into Egypt is not fully detailed here; phrases like ‘messengers in ships’ may be literal or metaphorical; the scope of ‘day of the LORD’ (immediate historical judgment vs. eschatological) is open to interpretation.",
+  "createdAt": "2025-11-04T02:14:50.660Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

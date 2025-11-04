@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Dan.3",
+  "briefOverview": "Three Jewish courtiers refuse to worship King Nebuchadnezzar’s golden image and are miraculously preserved from a fiery furnace. The episode highlights faithfulness under coercion and divine deliverance.",
+  "summary": "King Nebuchadnezzar erects a massive golden image and issues a public command that all peoples must bow when musical instruments sound, on pain of being cast into a blazing furnace. When Shadrach, Meshach, and Abed‑nego refuse to worship the image, colleagues (identified as Chaldeans) accuse them and the king, enraged, orders the furnace heated seven times hotter and the three men thrown in bound. The executioners who cast them in are killed by the furnace, but the king observes four men walking unharmed in the fire, the fourth having a form 'like the Son of God.' Nebuchadnezzar summons the three out; they emerge unscorched, praise God, and the king issues a decree honoring their God and promotes them in the province.",
+  "externalContext": "The story is set in the context of the Babylonian imperial court where rulers often required public acts of homage that could take religious form; images and ritual obeisance were part of ancient Near Eastern royal ideology. The king named is traditionally identified with Nebuchadnezzar II (r. c. 605–562 BCE), who presided over exiled Judeans in Babylon. The use of a furnace as capital punishment and the ritual dimensions of public worship reflect known Near Eastern practices, though the narrative also functions theologically to affirm uncompromising loyalty to Israel’s God under imperial pressure.",
+  "externalReferences": "This episode follows the introduction of Daniel and his three friends in Daniel 1 (their Babylonian names and positions) and contrasts with Nebuchadnezzar’s dream about a great statue in Daniel 2, where an image also figures prominently, linking imperial imagery and divine sovereignty. The motif of a faithful figure delivered from lethal danger recurs later in Daniel 6 (Daniel in the lions’ den) and echoes biblical injunctions against idolatry such as Deuteronomy 5:7–9 and Exodus 20:3–5, which command exclusive worship of YHWH and forbid serving other gods.",
+  "seeAlso": [
+    "Daniel 1",
+    "Daniel 2",
+    "Daniel 6",
+    "Daniel 7:13",
+    "Deuteronomy 5:7-9",
+    "Exodus 20:3-5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "The Golden Image"
+    },
+    {
+      "range": "8-18",
+      "title": "Accusation and Defiance"
+    },
+    {
+      "range": "19-30",
+      "title": "Fiery Deliverance"
+    }
+  ],
+  "themes": [
+    "Faithfulness",
+    "Divine deliverance",
+    "Idolatry",
+    "Persecution"
+  ],
+  "practicalQuestions": [
+    "When civic demands conflict with conscience or religious conviction, how should one balance obedience to law and fidelity to faith?",
+    "What risks are we willing to accept to maintain integrity in beliefs, and how do communities prepare to support those who take such stands?",
+    "How does the possibility of miraculous deliverance shape ethical decisions—should expectation of divine rescue affect willingness to resist injustice?",
+    "In what ways do political rituals or symbols function as tests of loyalty today, and how should individuals respond?"
+  ],
+  "uncertainAreas": "The identity and significance of the 'fourth' figure described as 'like the Son of God' are open to varying interpretations (angel, divine attendant, or later Christological reading). Also uncertain are questions of historicity and precise dating/composition of the narrative; scholars differ on whether the account records a literal event or a theological tale composed to address later concerns.",
+  "createdAt": "2025-11-04T13:46:43.840Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

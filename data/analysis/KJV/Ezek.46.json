@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ezek.46",
+  "briefOverview": "Ezekiel 46 provides detailed regulations for temple worship—gates, offerings, priestly facilities—and rules about the prince's rights and limitations.",
+  "summary": "The chapter prescribes that the inner east gate remain shut on weekdays but be opened on the Sabbath and new moon, where both the prince and the people present specific burnt and peace offerings with defined numbers and accompanying grain and oil offerings. It sets procedures for the prince's entrance and exit, the orderly movement of worshipers during festivals, and allows the prince to make voluntary offerings under the same gate protocol. A perpetual daily morning burnt offering is commanded with precise measures for the accompanying grain and oil. The text states inheritance rules: gifts the prince gives to his sons remain their inheritance, but gifts to servants revert at the year of liberty; the prince must not dispossess the people's inherited land. Finally, the chapter describes priestly rooms for boiling and baking offerings and four corner courts with built-in boiling places for preparing communal sacrifices.",
+  "externalContext": "Ezekiel 46 is part of Ezekiel’s larger temple-vision sequence (chapters 40–48), a post-exilic, idealized plan for cultic life rather than a description of an existing Second Temple. Terms like 'prince' (Hebrew: nagid or sar) reflect a post-monarchical leadership figure in visions and prophetic literature rather than necessarily the Davidic king on the throne. Measures and units (ephah, hin, cubit) are standard cultic measures in ancient Israelite law texts and would have been familiar to the intended audience.",
+  "externalReferences": "The requirement of daily burnt offerings echoes earlier legislation such as Exodus 29:38–42 which prescribes continual burnt offerings each morning and evening. Sabbath and new moon offerings align with Numbers 28:9–15, which lists additional sacrifices for those occasions. The inheritance and year-of-liberty language resonates with Leviticus 25:10–13 (jubilee and return of property), and laws about priests preparing sacrificial food recall Leviticus 6:9–11 and Leviticus 7 where priests are instructed about cooking and portions.",
+  "seeAlso": [
+    "Ezekiel 40:1-46:24",
+    "Exodus 29:38-42",
+    "Numbers 28:9-15",
+    "Leviticus 25:10-13",
+    "Leviticus 6:9-11",
+    "Ezekiel 45:13-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Gates and Offerings"
+    },
+    {
+      "range": "16-18",
+      "title": "Prince and Inheritance"
+    },
+    {
+      "range": "19-24",
+      "title": "Priestly Chambers and Boiling Places"
+    }
+  ],
+  "themes": [
+    "Temple worship",
+    "Ritual regulation",
+    "Leadership ethics",
+    "Sacred space"
+  ],
+  "practicalQuestions": [
+    "How should contemporary religious leaders balance honorific ritual roles with respect for communal property and rights?",
+    "What can the discipline of daily, regular worship practices teach modern communities about spiritual formation and consistency?",
+    "In what ways do limits placed on leaders' economic authority in this text inform modern conversations about power, privilege, and stewardship?",
+    "How can the attention to sacred space and orderly worship inform current practices of communal worship and hospitality?"
+  ],
+  "uncertainAreas": "The exact identity and political status of the 'prince' (ceremonial leader, governor, or idealized Davidic figure) is not explicit in the chapter. It is also uncertain whether the prescriptions are intended as practical law for a real community or as an idealized, symbolic temple vision. Some ritual quantities and architectural details are precise yet their practical application in a historical setting remains interpretively debated.",
+  "createdAt": "2025-11-04T02:22:32.317Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

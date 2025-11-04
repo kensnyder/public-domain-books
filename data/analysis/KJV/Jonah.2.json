@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Jonah.2",
+  "briefOverview": "Jonah prays from the belly of the fish, confessing distress and acknowledging God's deliverance; God then commands the fish to release him onto dry land.",
+  "summary": "Jonah offers a prayer of lament and thanksgiving while inside the fish, describing overwhelming waters, darkness, and a sense of being cast out from God's presence. In the prayer he remembers the LORD, vows thanksgiving and sacrifice, and declares \"Salvation is of the LORD.\" The chapter closes with God commanding the fish, which vomits Jonah onto dry land, marking his deliverance.",
+  "externalContext": "The Book of Jonah is part of the Twelve Minor Prophets in the Hebrew Bible and draws on Israelite prophetic and psalmic prayer traditions. The narrative engages themes important in the ancient Near East—divine control over sea and life, lament-form prayers, and the temple as the locus of God's presence—even while the speaker is at sea. The historical setting involves Israel's relationship with Assyria (Nineveh), though this chapter focuses on Jonah's personal prayer rather than the prophetic mission itself.",
+  "externalReferences": "Jonah's imagery and phrases echo psalmic laments about being overwhelmed by waters and delivered by God (see Psalm 18:16–17; Psalm 69:1–2). The declaration \"Salvation is of the LORD\" resonates with liturgical refrains like Psalm 3:8. In the New Testament Jesus cites the Jonah episode (three days in the fish) as a typological sign (Matthew 12:40), showing how later interpreters read Jonah as prefiguring other salvific events.",
+  "seeAlso": [
+    "Psalms 18:16-17",
+    "Psalms 69:1-2",
+    "Psalms 3:8",
+    "Matthew 12:40"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Prayer from the Depths"
+    },
+    {
+      "range": "10",
+      "title": "Divine Deliverance"
+    }
+  ],
+  "themes": [
+    "Prayer",
+    "Repentance",
+    "Deliverance",
+    "Salvation"
+  ],
+  "practicalQuestions": [
+    "When facing overwhelming circumstances, how can I shape my prayer to move from complaint to remembrance and thanksgiving as Jonah does?",
+    "What does it look like today to \"sacrifice with the voice of thanksgiving\"—how can gratitude be a practical response after a crisis?",
+    "How do we recognize and turn away from \"lying vanities\" (false hopes or idols) in our lives so we do not forfeit mercy?",
+    "In what ways does the claim \"Salvation is of the LORD\" affect how we understand personal responsibility and divine action in times of distress?"
+  ],
+  "uncertainAreas": "It is ambiguous whether the fish narrative is meant as a literal historical report or as poetic/parable material; the text itself presents the prayer as a poetic unit which can be read either way. The phrase \"lying vanities\" is terse and could mean idolatry, false trust, or empty pursuits; the degree and sincerity of Jonah's repentance before being vomited out is also open to interpretation from this chapter alone.",
+  "createdAt": "2025-11-04T14:05:47.443Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

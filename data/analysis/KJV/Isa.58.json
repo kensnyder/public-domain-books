@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Isa.58",
+  "briefOverview": "A prophetic rebuke of ritual fasting that is unaccompanied by justice; the chapter prescribes concrete acts of mercy as true worship and promises restoration for obedience.",
+  "summary": "The prophet is commanded to call out Israel’s sins: people maintain outward religious practices yet exploit others and pursue selfish ends (1–5). God rejects such fasting and defines the fast he chooses as loosening injustice, freeing the oppressed, feeding the hungry, sheltering the homeless, and caring for kin (6–7). If the community practices these righteous deeds, light, healing, guidance, and restoration will follow, and they will rebuild what was ruined (8–12). The chapter closes with a call to honor the Sabbath properly—delighting in the LORD rather than pursuing personal pleasures—and a promise of blessing for those who do so (13–14).",
+  "externalContext": "Many scholars place chapters 56–66 of Isaiah in a post-exilic context (after the Babylonian exile), a period when temple worship and social structures were being reestablished and social inequalities persisted. The prophetic critique fits a broader prophetic tradition that contrasts ritual observance with ethical behavior, addressing communities that observe religious rites while neglecting covenantal obligations to the poor and oppressed.",
+  "externalReferences": "The critique of empty ritual aligns closely with Isaiah 1:10–17 where God rejects sacrifices without justice, and with Amos 5:21–24 which demands justice and righteousness rather than mere festivals. The demand to free the oppressed and release burdens echoes Jubilee and debt-release laws (e.g., Leviticus 25; Deuteronomy 15). The New Testament records Jesus’ warnings against hypocritical fasting (Matthew 6:16–18) and emphasizes mercy over external piety, reflecting a similar ethical priority.",
+  "seeAlso": [
+    "Isaiah 1:10-17",
+    "Amos 5:21-24",
+    "Leviticus 25",
+    "Matthew 6:16-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Rebuke for Hollow Worship"
+    },
+    {
+      "range": "6-12",
+      "title": "True Fast: Justice and Mercy"
+    },
+    {
+      "range": "13-14",
+      "title": "Sabbath and Promise"
+    }
+  ],
+  "themes": [
+    "True Worship",
+    "Social Justice",
+    "Fasting",
+    "Sabbath Observance"
+  ],
+  "practicalQuestions": [
+    "In what ways might our religious practices become ritualistic while neglecting concrete help for the vulnerable?",
+    "How can a community structurally ‘loose the bands of wickedness’ and relieve burdens today (e.g., debt relief, legal reform, charity)?",
+    "What would honoring a communal day of rest look like in our current social and economic context?",
+    "How should promises of spiritual and material restoration shape priorities in ministry, charity, and public policy?"
+  ],
+  "uncertainAreas": "Authorship and precise historical setting: Isaiah 58 is commonly assigned to the later Isaian material (post-exilic), but the text itself does not state a date. Some phrases (e.g., exact nature of the fast criticized) admit interpretive nuance about whether the complaint targets hypocrisy, oppressive economic practices, or specific cult behaviors.",
+  "createdAt": "2025-11-04T01:31:01.471Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

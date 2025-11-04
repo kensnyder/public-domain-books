@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Dan.11",
+  "briefOverview": "A detailed prophetic sequence of rival kings and wars between the 'king of the north' and 'king of the south,' culminating in a blasphemous ruler who desecrates the sanctuary and meets a violent end.",
+  "summary": "The chapter begins with transition from Persian rule to a succession that culminates in a mighty Greek king whose empire is broken and divided. It then traces recurrent conflict between the 'king of the south' (Egypt/Ptolemaic sphere) and the 'king of the north' (Syria/Seleucid sphere), including marriages, campaigns, captures, and shifting fortunes. A series of specific developments follows: a rise of dishonourable rulers, deceitful leagues, taxation, and military surprise tactics that victimize many. Verses 31–35 describe a profanation of the sanctuary, removal of the daily sacrifice, persecution of those faithful to the covenant, and both martyrdoms and endurance among the people. The chapter closes by portraying a proud, self-exalting king who magnifies himself above gods, prospers for a time, spreads power into Egypt and beyond, is troubled by news from the east and north, establishes his palace 'between the seas' on a holy mountain, and finally falls with no helper remaining.",
+  "externalContext": "The chapter is widely read against the background of the Hellenistic era after Alexander the Great (d. 323 BCE), when his empire fragmented into successor kingdoms, most notably the Ptolemaic dynasty in Egypt and the Seleucid dynasty in Syria. Many scholars understand much of the chapter as reflecting concrete events in the 3rd–2nd centuries BCE, especially the conflicts between Ptolemaic and Seleucid rulers and the persecutions under Antiochus IV Epiphanes (c. 175–164 BCE). The identity of earlier figures named in Daniel (for example 'Darius the Mede') and the precise referent of some imagery (e.g., 'ships of Chittim') remain debated among historians.",
+  "externalReferences": "This chapter parallels material elsewhere in Daniel that describes a blasphemous little horn taking away the daily sacrifice (Daniel 8:9–14) and the vision of successive empires (Daniel 2:40–45; Daniel 7:6–8). The New Testament records Jesus referring to Daniel’s ‘abomination of desolation’ as a future sign (Matthew 24:15), drawing on this tradition. Historical accounts of the temple’s desecration and the Maccabean resistance are found in the intertestamental histories, for example 1 Maccabees 1:54 and 2 Maccabees 5–7, which describe actions commonly associated with Antiochus IV.",
+  "seeAlso": [
+    "Daniel 2:40-45",
+    "Daniel 7:6-8",
+    "Daniel 8:9-14",
+    "Daniel 9:26-27",
+    "Matthew 24:15",
+    "1 Maccabees 1:54"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Persia to Greece"
+    },
+    {
+      "range": "5-30",
+      "title": "North–South Conflicts"
+    },
+    {
+      "range": "31-45",
+      "title": "Desecration and End"
+    }
+  ],
+  "themes": [
+    "Geopolitical conflict",
+    "Hellenistic rulers",
+    "Persecution",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "How should a community retain faithfulness and moral clarity when political powers demand conformity or collaboration?",
+    "What can modern readers learn from the accounts of resistance and compromise about the costs and limits of religious accommodation?",
+    "How might the theme of rulers who 'exalt themselves' inform our discernment of political leadership today?",
+    "When interpreting prophetic or apocalyptic texts, how do we balance attention to historical referents with possible broader or future applications?"
+  ],
+  "uncertainAreas": "Identifications of many figures (e.g., 'Darius the Mede,' specific kings of north/south) are debated; several images (ships of Chittim, the precise location of the final palace) are ambiguous; chronological sequencing and whether some verses have later editorial layers are scholarly questions not settled by the text itself.",
+  "createdAt": "2025-11-04T13:50:42.278Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

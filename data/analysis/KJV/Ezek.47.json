@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ezek.47",
+  "briefOverview": "A visionary river flows from the restored temple, bringing life and healing; the chapter concludes with a renewed territorial allotment for the twelve tribes, including resident foreigners.",
+  "summary": "Ezekiel is shown water issuing from beneath the temple threshold that grows deeper as it flows eastward until it becomes a river too deep to cross. The river’s banks are lined with abundant trees, and where the waters reach the sea they make the waters fresh so that fish and other life flourish; marshy places remain salt. Trees along the river yield perennial food and leaves used for healing because the waters originate in the sanctuary. The vision shifts to a prophetic description of the land’s borders and instructs that the land be divided among the twelve tribes of Israel, with Joseph receiving a double portion. Resident foreigners who bear children among the tribes are to receive inheritance by lot within the tribe where they reside.",
+  "externalContext": "Ezekiel was an exilic prophet in 6th-century BCE Babylon; chapters 40–48 form a late vision of a renewed temple and land that responds to the trauma of exile with hopes for restoration. River and fertility imagery were common in ancient Near Eastern texts to signify divine blessing and the return of agricultural prosperity; a flowing river from a sanctuary would signal divine presence and life. The inclusion of resident foreigners in inheritance reflects concerns about community composition and social order in post-exilic or idealized restoration thought.",
+  "externalReferences": "This river and temple motif connects directly with the broader temple-vision sequence in Ezekiel 40–48, where the sanctuary is the source of life and purity. The water-in-the-desert and restoration theme resonates with Isaiah 35:1–7, which also promises streams in the desert and renewed abundance. The declaration that God 'lifted up mine hand' to give the land echoes covenantal land promises (cf. Genesis 15:18), and the formal division of territory recalls Israel’s allotments in Joshua (see Joshua 13–21).",
+  "seeAlso": [
+    "Ezekiel 40:1-4",
+    "Ezekiel 47:1-12",
+    "Isaiah 35:1-7",
+    "Genesis 15:18",
+    "Joshua 13:1-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "River from the Temple"
+    },
+    {
+      "range": "13-23",
+      "title": "Tribal Land Inheritance"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Life and Healing",
+    "Sanctuary Source",
+    "Land Inheritance"
+  ],
+  "practicalQuestions": [
+    "How can the image of life-giving water from a sacred source shape contemporary attitudes toward communal sources of spiritual and material renewal?",
+    "What responsibilities might a community have to steward natural resources (rivers, trees) so they provide food and healing for present and future generations?",
+    "How should religious communities understand and practice inclusion of long-term resident strangers or immigrants in questions of belonging and inheritance?",
+    "In what ways can the text’s hope for ecological restoration inform modern environmental ethics and efforts to 'heal' damaged waters and lands?"
+  ],
+  "uncertainAreas": "It is unclear whether Ezekiel’s river and the healed 'sea' are meant primarily as literal future geography or as symbolic imagery for spiritual and communal restoration. Some place names and precise border markers are difficult to map conclusively to known locations, leaving exact territorial boundaries open to interpretation.",
+  "createdAt": "2025-11-04T02:23:30.013Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

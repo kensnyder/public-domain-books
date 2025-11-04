@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Mic.1",
+  "briefOverview": "Micah 1 announces imminent divine judgment on Israel (Samaria) and Judah (Jerusalem) for idolatry and transgression, using vivid cosmic imagery and local laments.",
+  "summary": "The chapter opens with Micah's prophetic call in the reigns of Jotham, Ahaz, and Hezekiah and portrays the LORD coming down from his holy place with earth-shaking, molten-mountain imagery. The prophet declares that the catastrophe is due to the transgressions of Jacob and the sins of Israel, identifying Samaria as the focus of punishment. Samaria will be destroyed, its idols and cultic goods laid waste, and its foundations exposed. The speaker responds with personal and communal lament—stripping, wailing, and a mourning like wild creatures—because the wound is incurable and Judah too will feel the blow at Jerusalem's gates. Micah then directs specific laments and taunts to several towns (Gath/Aphrah, Saphir, Zaanan, Maroth, Lachish, Moresheth-gath, Achzib, Mareshah, Adullam), warning of shame, captivity, failed hopes, and exile, and ends with the image of baldness as a mark of mourning for children taken away.",
+  "externalContext": "Micah is generally dated to the late eighth century BCE; naming Jotham, Ahaz, and Hezekiah places him in the period of rising Assyrian power. The prophet is called a Morasthite (from Moresheth/Moresheth-gath), locating him in southwestern Judah on the border of Philistine territory. The chapter reflects a prophetic tradition that links cultic idolatry and social/political corruption with divine punishment, a concern shared by other eighth-century prophets facing the real threat that Assyria posed to the northern kingdom (Israel/Samaria) and to Judah.",
+  "externalReferences": "The fate pronounced against Samaria fits the historical destruction and exile described in 2 Kings 17:6, 23, where Assyria captures Samaria and deports many Israelites. The theophanic, mountain-melting imagery resembles passages like Isaiah 64:1–3, which also petitions God to rend the heavens and come down so that mountains flow. Comparable apocalyptic/poetic imagery of trembling mountains and overflow of waters appears in Habakkuk 3:6, showing a shared prophetic vocabulary for divine intervention and judgment.",
+  "seeAlso": [
+    "2 Kings 17:6-23",
+    "Isaiah 64:1-3",
+    "Habakkuk 3:6",
+    "Micah 3:9-12",
+    "Micah 6:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Proclamation and Vision"
+    },
+    {
+      "range": "6-7",
+      "title": "Judgment on Samaria"
+    },
+    {
+      "range": "8-16",
+      "title": "Laments for Towns"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Idolatry",
+    "Lament",
+    "Urban destruction"
+  ],
+  "practicalQuestions": [
+    "How should modern communities acknowledge and respond when communal practices have ethical or spiritual harms analogous to the 'transgressions of Jacob'?",
+    "What forms of public lament and mourning are constructive when a society faces collective failure or loss?",
+    "In what ways do ritual or religious practices become substitutes for justice, and how should leaders be held accountable?",
+    "How can awareness of historical causes of communal suffering (e.g., political alliances, neglect of covenantal duties) shape present choices to avoid similar outcomes?"
+  ],
+  "uncertainAreas": "Some place-names (e.g., Aphrah, Zaanan, Beth-ezel) and allusions (\"hire of a harlot\") are difficult to pin down precisely—whether they refer mainly to cultic prostitution, political alliances, or economic corruption is debated. The chapter does not name Assyria explicitly, so attributing the instrument of judgment to Assyria is historically likely but not stated within the text itself.",
+  "createdAt": "2025-11-04T14:07:14.614Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

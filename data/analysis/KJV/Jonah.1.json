@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jonah.1",
+  "briefOverview": "God commissions Jonah to prophesy against Nineveh, but Jonah flees; a divine storm, the sailors' crisis, and a great fish intervene to stop his escape.",
+  "summary": "The LORD commands Jonah son of Amittai to go to Nineveh and cry out against its wickedness. Jonah instead boards a ship at Joppa bound for Tarshish, attempting to flee from God's presence. God sends a violent storm; the frightened sailors cast lots, which point to Jonah. Jonah admits he is a Hebrew who fears the LORD and tells them to throw him into the sea so the storm will cease. The sailors try to row ashore but, failing, pray to the LORD and cast Jonah into the sea; the sea calms, and the sailors fear and worship God, offering sacrifices and making vows. The chapter concludes with God appointing a 'great fish' to swallow Jonah, in whose belly Jonah remains three days and three nights.",
+  "externalContext": "Nineveh was a major Assyrian capital associated in Israelite memory with imperial power and violence; being sent there meant confronting a powerful foreign city. Tarshish is likely a distant western port (traditionally associated with Spain or other far western locations), so Jonah's destination symbolizes an attempt to go as far away as possible. Ancient seafaring practices included casting lots to determine divine will, and offering sacrifices/vows after deliverance was a common religious response in the ancient Near East.",
+  "externalReferences": "The sailors' peril and God's calming of the sea echoes Psalm 107:23–30, which depicts sailors crying to the LORD in storms and being brought to safety. Jesus later cites Jonah's three days in the fish as a typological sign in Matthew 12:40, connecting Jonah's experience to a broader interpretive tradition about 'three days' motifs.",
+  "seeAlso": [
+    "Psalm 107:23-30",
+    "Matthew 12:40",
+    "Jonah 2:1-10",
+    "Jonah 3:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call and Flight"
+    },
+    {
+      "range": "4-16",
+      "title": "Storm and Sailors' Crisis"
+    },
+    {
+      "range": "17",
+      "title": "Divine Deliverance"
+    }
+  ],
+  "themes": [
+    "Disobedience",
+    "Divine sovereignty",
+    "Judgment and mercy",
+    "Call to mission"
+  ],
+  "practicalQuestions": [
+    "When you perceive a difficult or unwelcome calling, how do you discern whether to obey or avoid it?",
+    "How do you respond to crises—do you seek help from familiar sources or acknowledge a larger sovereignty?",
+    "What does it mean today to 'offer a sacrifice' or 'make vows' after being rescued or helped?",
+    "How should communities respond when an individual's choices endanger the group?"
+  ],
+  "uncertainAreas": "The precise location of Tarshish is debated, Jonah's motives for fleeing (beyond 'from the presence of the LORD') are not explained here, and whether 'great fish' should be read literally, symbolically, or typologically is open to interpretation.",
+  "createdAt": "2025-11-04T14:05:11.404Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

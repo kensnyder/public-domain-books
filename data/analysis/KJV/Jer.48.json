@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.48",
+  "briefOverview": "A prophetic oracle announcing the LORD’s coming judgment on Moab for pride, complacency, and idolatry, delivered in vivid images of destruction and lament with a final note of future restoration.",
+  "summary": "Jeremiah proclaims that Moab’s towns and strongholds will be devastated: cities will be captured, the young men slaughtered, inhabitants exiled, and the national god Chemosh taken into captivity. The prophecy names many Moabite centers (Heshbon, Dibon, Nebo, Kerioth, etc.) and depicts communal suffering — weeping, baldness, sackcloth, ruined vineyards, and the cessation of worship in high places. God gives reasons for the judgment: Moab’s pride, self-sufficiency, trust in wealth and military strength, and its derision of Israel. Despite the harsh oracles and detailed lament, the chapter closes with a promise that God will restore the captivity of Moab in the “latter days.”",
+  "externalContext": "Moab was a Transjordanian kingdom east of the Dead Sea that appears frequently in Israel’s historical narratives and prophetic pronouncements. Its chief deity was Chemosh, often invoked in biblical texts, and prophetic oracles against foreign nations commonly cataloged cities and agricultural losses as signs of total defeat. Although this chapter does not name the invader, similar oracles are usually associated with the advance of regional imperial powers (e.g., Assyria or Babylon) that reshaped the political map in the first millennium BCE.",
+  "externalReferences": "Isaiah 15–16 contains another extended oracle against Moab with similar themes of desolation and lament, showing that Moab attracted sustained prophetic attention in the Hebrew Bible. Ezekiel 25:8–11 also pronounces judgment on Moab, and Numbers 21:21–35 recounts earlier conflicts involving Heshbon and Sihon (both named here), providing background for the geographical references. For structural comparison, Jeremiah’s other oracles against nations are collected in Jeremiah 46–51 and share the genre’s features of judgment, city lists, and poetic lamentation.",
+  "seeAlso": [
+    "Isaiah 15:1-16:14",
+    "Ezekiel 25:8-11",
+    "Numbers 21:21-35",
+    "Jeremiah 46:1-28",
+    "Jeremiah 49:1-39"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Announcement of Judgment"
+    },
+    {
+      "range": "16-39",
+      "title": "Lament and Details"
+    },
+    {
+      "range": "40-47",
+      "title": "Destruction and Hope"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Pride",
+    "Lamentation",
+    "Idolatry"
+  ],
+  "practicalQuestions": [
+    "In what ways do communities today risk the same complacency and trust in wealth or power that this oracle condemns?",
+    "How can individuals and congregations practice communal lament in response to collective suffering as modeled here?",
+    "What does it mean for a people to be held accountable for mocking or diminishing others, and how should that shape our public speech?",
+    "How should the promise of future restoration affect pastoral care for communities that have experienced devastation?"
+  ],
+  "uncertainAreas": "The text does not specify the historical agent of conquest (Assyria, Babylon, or another power), so exact dating and political context are uncertain. Phrases like \"Chemosh shall go forth into captivity\" could be literal cultic rhetoric or metaphorical; the intended level of literalness is ambiguous. The scope and timing of the promised restoration in verse 47 are also vague (who will return, when, and under what conditions).",
+  "createdAt": "2025-11-04T01:57:47.267Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

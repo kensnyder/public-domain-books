@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Amos.7",
+  "briefOverview": "Amos reports three visions of impending judgment on Israel and recounts a confrontation with the priest Amaziah at Bethel.",
+  "summary": "Amos describes three successive visions: a swarm of locust-like grasshoppers that consume the crops, a consuming fire that eats part of the deep, and the Lord standing with a plumbline announcing judgment on Israel. In the first two visions Amos pleads with God for mercy on the small nation of Jacob, and the text twice says the LORD 'repented' and withheld the judgment. The plumbline vision signals that God will no longer overlook Israel’s religious and moral failures and threatens desolation of high places and sanctuaries and judgment on the house of Jeroboam. After the visions, Amaziah the priest at Bethel accuses Amos of conspiring against the king, urges him to prophesy in Judah, and forbids prophecy at Bethel because it is the king’s chapel. Amos answers by affirming his nonprofessional origin (herdsman and dresser of sycamore fruit), his divine commissioning, and delivers a severe oracle against Amaziah: personal disaster for the priest and exile for Israel.",
+  "externalContext": "Amos is active in the 8th century BCE during the northern kingdom of Israel’s prosperity under a royal house often identified with Jeroboam II; Bethel functioned as a royal shrine associated with the dynasty (see 1 Kings 12:26–33). Prophets in this period often used agricultural and military disaster imagery (locusts, fire) to symbolize divine judgment. The plumbline is a common ancient construction tool and metaphor for testing correctness or straightness; here it symbolizes God’s standard and imminent measurement of Israel.",
+  "externalReferences": "The locust/grasshopper motif and its association with divine judgment appear in Joel 1–2, where swarms signal devastation and call for repentance. The characterization of Bethel as a royal sanctuary echoes the establishment of cultic centers by Jeroboam (1 Kings 12:26–33), which later prophetic critiques frequently target. Amos’s description of being called from ordinary trades (verses 14–15) parallels other prophetic call motifs where divine commission comes abruptly to a lay person (cf. Jeremiah 1:4–10 for the theme of divine calling, though the particulars differ).",
+  "seeAlso": [
+    "Joel 1:4",
+    "Joel 2:1-11",
+    "1 Kings 12:26-33",
+    "Jeremiah 1:4-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Locusts and Fire Visions"
+    },
+    {
+      "range": "7-9",
+      "title": "Plumbline: Imminent Judgment"
+    },
+    {
+      "range": "10-17",
+      "title": "Confrontation at Bethel"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Prophetic Call",
+    "Divine Mercy",
+    "Religious Corruption"
+  ],
+  "practicalQuestions": [
+    "When confronted with prophetic warnings today, how should communities balance repentance and resilience?",
+    "How should people respond when religious leaders or institutions resist internal critique?",
+    "What does it mean to discern a genuine calling versus self-appointed activism in moral and religious speech?",
+    "How do we interpret and apply metaphors of measurement and standard (like the plumbline) to personal and communal ethics?"
+  ],
+  "uncertainAreas": "The text does not identify which Jeroboam is meant (the dynasty is implied but the historical king is not named), and the precise theological meaning of 'the LORD repented' is debated (literal change of mind versus rhetorical expression of withheld judgment). The full implications of the plumbline image for later prophetic literature are also not explicit within this chapter.",
+  "createdAt": "2025-11-04T14:03:22.508Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

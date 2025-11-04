@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Jer.1",
+  "briefOverview": "Jeremiah receives his prophetic call and commission from God, including visions that symbolize coming judgment from the north and a promise of divine protection despite opposition.",
+  "summary": "The chapter opens with an introduction to Jeremiah’s background and the timeframe of his ministry (verses 1–3). God calls Jeremiah before his birth, appointing him as a prophet to the nations; Jeremiah protests that he is a child, but God insists he speak whatever is commanded (4–10). God touches Jeremiah’s mouth to place words in it and declares his mission both to uproot and to plant. Two visions follow: an almond rod, interpreted as hastening of God’s word, and a boiling pot facing north, symbolizing an impending calamity from the north (11–16). God charges Jeremiah to be courageous and promises to make him like a fortified city, an iron pillar, and bronze walls so that opponents will fight him but not prevail, for God will be with and deliver him (17–19).",
+  "externalContext": "Jeremiah’s call is dated to the reign of King Josiah (late 7th century BCE) and continues through subsequent kings up to the exile; the historical context includes the rise of Babylon and the political turmoil that led to Jerusalem’s eventual fall. Anathoth, Jeremiah’s hometown, was a Levitical priestly village in Benjamin, situating him within a priestly family though his role is prophetic. The motif of a prophetic call vision (commission, protest, assurance, sign) fits wider ancient Near Eastern and biblical patterns.",
+  "externalReferences": "The pattern of prophetic commissioning here resembles Isaiah’s call vision (Isaiah 6:1–8) in its elements of divine commissioning and changed speech, and the phrase about being known before birth recalls Isaiah 49:1–5’s prenatal calling language. The reference to the calamity coming from the north echoes the historical invasions recorded in 2 Kings 24–25 (Babylonian conquest) and Jeremiah elsewhere where the north frequently denotes enemy powers (e.g., Jeremiah 4:6).",
+  "seeAlso": [
+    "Isaiah 6:1-8",
+    "Isaiah 49:1-5",
+    "Ezekiel 2:1-7",
+    "2 Kings 24:10-25:30",
+    "Jeremiah 4:5-7",
+    "Jeremiah 20:7-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Call and Commission"
+    },
+    {
+      "range": "11-19",
+      "title": "Visions and Assurance"
+    }
+  ],
+  "themes": [
+    "Divine calling",
+    "Judgment and restoration",
+    "Prophetic authority",
+    "Divine protection"
+  ],
+  "practicalQuestions": [
+    "When you feel inadequate for a task, how might the example of Jeremiah inform your response to a sense of calling or responsibility?",
+    "What does the paired language of uprooting/destroying and building/planting suggest about how corrective justice and renewal can coexist in community life?",
+    "How can promises of accompaniment and protection (\"I am with thee\") shape approaches to speaking truth under pressure in contemporary settings?",
+    "In what ways should warnings about communal wrongdoing be balanced with hope for restoration in pastoral or civic leadership?"
+  ],
+  "uncertainAreas": "The precise identification of the northern power (Assyria, Babylon, or a broader coalition) is not explicit in this chapter; the term \"nations\" and scope of Jeremiah’s mission to them also leave room for interpretive variation.",
+  "createdAt": "2025-11-04T01:35:10.944Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

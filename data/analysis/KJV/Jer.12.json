@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jer.12",
+  "briefOverview": "Jeremiah complains to God about the prosperity of the wicked and the suffering of the land; God replies with warnings of greater trials and announces judgment and a conditional restoration for surrounding nations.",
+  "summary": "The prophet opens with a personal complaint: God is righteous, so why do the wicked prosper and live securely (1–4)? Jeremiah asks God to judge them and remove them like sheep for slaughter, and God answers with a warning that Jeremiah’s present trials foreshadow far greater testing (5–6). Jeremiah laments that even his own kin and his heritage have been betrayed and ruined, describing his inheritance as a lion and a speckled bird beset by enemies (7–13). He portrays the land as desolate because of neglect and announces pervasive violence and famine: no flesh shall have peace and those who toil will reap nothing but shame (10–13). Finally the LORD declares judgment on the prophet’s \"evil neighbours,\" promising to pluck them out but also saying that after their removal God will have compassion and restore each to his land if they learn the ways of Israel and swear by Yahweh; if not, they will be utterly destroyed (14–17).",
+  "externalContext": "Jeremiah prophesied in late 7th–early 6th century BCE Judah during the rise of Babylon and the collapse of local political order; threats of invasion, social disorder, and exile shape his laments. The book often places prophetic complaint poems (a 'confession' or lament) alongside divine responses, reflecting a legal/ covenantal framework in which prophets argue with God about justice and punishment.",
+  "externalReferences": "Psalm 73 presents a similar wrestle with the prosperity of the wicked and arrives at trust in God after reflection (see Psalm 73:3–12). Habakkuk also records a prophet’s complaint about injustice and God’s unsettling reply that he will use a violent nation as instrument of judgment (Habakkuk 1:5–11). In Jeremiah 11:18–23 the prophet earlier laments betrayal by kinsmen and neighbors, language that echoes the present chapter’s themes of treachery and personal endangerment.",
+  "seeAlso": [
+    "Psalm 73:3-12",
+    "Habakkuk 1:5-11",
+    "Jeremiah 11:18-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Complaint and Reproof"
+    },
+    {
+      "range": "7-13",
+      "title": "Lament over Heritage"
+    },
+    {
+      "range": "14-17",
+      "title": "Judgment and Conditional Restoration"
+    }
+  ],
+  "themes": [
+    "Divine justice",
+    "Prophetic lament",
+    "Betrayal and loss",
+    "Conditional restoration"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when unjust people appear to prosper—what practices foster hope and discernment?",
+    "When trusted friends or family betray us, how can we hold grief and prophetic (truthful) speech together?",
+    "What does it mean today to 'learn the ways' of a faith community before being welcomed back—what practices demonstrate genuine change?",
+    "How do we interpret warnings of escalating trials in a way that encourages preparedness rather than despair?"
+  ],
+  "uncertainAreas": "It is not always clear whether verse 5 is a direct promise of impending greater persecution or a rhetorical challenge urging Jeremiah to prepare; the precise referent of 'mine heritage' (personal family inheritance, the people of Israel, or the land) is ambiguous. The identity of the \"evil neighbours\" in verses 14–17 is not named here, so the scope of God’s promised plucking and return is open to interpretation.",
+  "createdAt": "2025-11-04T01:40:16.946Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

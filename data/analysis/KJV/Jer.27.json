@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.27",
+  "briefOverview": "Jeremiah is instructed to present symbolic yokes and to proclaim that God has placed the nations under Babylonian rule; the chapter warns Judah to submit to Nebuchadnezzar and rejects optimistic prophets who promise otherwise.",
+  "summary": "At the start of Jehoiakim’s reign Jeremiah is commanded to make bonds and yokes and send them with messengers to surrounding kings and to Zedekiah in Jerusalem, proclaiming that the LORD has given the lands into the hand of Nebuchadnezzar, his servant. The prophet declares that nations must serve Babylon until God’s appointed time, and that any nation refusing the yoke will be punished with sword, famine, and pestilence. Jeremiah explicitly warns the people not to listen to prophets, diviners, dreamers, enchanters, or sorcerers who promise freedom from Babylon, calling their words lies sent to drive the people from their land. He tells Zedekiah to submit to Babylon to live, and reiterates that those who submit may remain in their land to till it. The chapter concludes by addressing false hopes about the immediate return of temple vessels: the remaining temple objects that were not taken earlier will go to Babylon and remain there until the day God visits and restores them.",
+  "externalContext": "This material is set in the late 7th/early 6th century BCE during the rise of the Neo-Babylonian empire under Nebuchadnezzar II and the period when Judah became a vassal state and then faced deportations. Prophetic sign-acts (like making yokes) were a recognized prophetic technique in the Hebrew prophetic tradition to dramatize divine messages (cf. other prophetic symbolic actions in Jeremiah and Ezekiel). The chapter reflects a historical situation of competing political options and competing prophetic voices in Jerusalem.",
+  "externalReferences": "This chapter connects closely with the subsequent prophetic confrontation in Jeremiah 28, where the prophet Hananiah opposes Jeremiah by breaking a yoke sign, and where the charge of false prophecy becomes explicit. The exile of Jeconiah (Jehoiachin) and the carrying off of goods by Nebuchadnezzar is recorded elsewhere (2 Kings 24:10–17 and Jeremiah 52:28–30), which the chapter alludes to when mentioning vessels already taken and those yet to be carried to Babylon.",
+  "seeAlso": [
+    "Jeremiah 28",
+    "2 Kings 24:10-17",
+    "Jeremiah 52:17-23",
+    "Jeremiah 13:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Yoke and Sovereignty"
+    },
+    {
+      "range": "12-15",
+      "title": "Call to Submit"
+    },
+    {
+      "range": "16-22",
+      "title": "False Prophets and Vessels"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Submission to Babylon",
+    "False prophecy",
+    "Exile and restoration"
+  ],
+  "practicalQuestions": [
+    "When is submission to political authority prudent for communal survival, and when might resistance be justified?",
+    "How can communities today discern between comforting messages and prophets whose counsel contradicts clear facts?",
+    "What role should religious leaders play in advising political decisions, especially under threat or occupation?",
+    "How should communities care for and remember cultural or religious artifacts displaced in times of crisis?"
+  ],
+  "uncertainAreas": "Exact identification and number of the 'prophets' criticized is unclear; the text condemns a range of figures (prophets, diviners, dreamers, enchanters, sorcerers) without naming individuals except later in Jeremiah 28. The phrase 'my servant' applied to Nebuchadnezzar raises theological questions about divine agency and responsibility that the chapter asserts but does not fully explain. The timing of 'the day that I visit them' (the return of the vessels) is left unspecified.",
+  "createdAt": "2025-11-04T01:47:05.808Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

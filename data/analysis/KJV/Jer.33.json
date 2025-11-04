@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.33",
+  "briefOverview": "God speaks to Jeremiah from prison with promises of future healing and national restoration, reaffirming the Davidic and priestly covenants.",
+  "summary": "While Jeremiah is confined, God summons him and offers reassurance: call to God will bring revelation (v.3) and God will restore Jerusalem and Judah after judgment (vv.4–13). God promises healing, pardon, return from captivity, renewed prosperity, and joyful worship in the desolated cities (vv.6–13). The Lord announces a future 'Branch of righteousness' from David who will govern with justice and gives Jerusalem the name 'The LORD our righteousness' (vv.14–16). God guarantees the continuance of Davidic rule and the Levitical priesthood, comparing these promises to the regularity of day and night and the innumerable host of heaven (vv.17–22). Finally, God answers the complaint that Israel has been rejected by affirming that the covenant remains and God will restore the people and have mercy on them (vv.23–26).",
+  "externalContext": "Jeremiah ministered in late 7th/early 6th century BCE amid the Babylonian threat; 'Chaldeans' refers to Babylon. The book records prophecies given during the fall of Jerusalem and the deportations (c. 605–586 BCE). Promises of restoration reflect a common prophetic pattern: announcement of judgment followed by future hope tied to covenantal promises (especially the Davidic covenant) and cultic/temple concerns.",
+  "externalReferences": "The 'Branch' language and the promise of a righteous Davidic ruler closely parallel Jeremiah 23:5–6 and Isaiah 11:1, both of which present a messianic scion from David's line. The assurance that God will not break his covenant with David resembles Psalm 89:3–4, 34–37, where God affirms his everlasting covenant, and Ezekiel 37:24–25 which also speaks of a future Davidic leader and unified Israel returning to the land.",
+  "seeAlso": [
+    "Jeremiah 23:5-6",
+    "Isaiah 11:1",
+    "Ezekiel 37:24-25",
+    "Psalm 89:3-4",
+    "Psalm 89:34-37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Divine Summons and Promise"
+    },
+    {
+      "range": "4-13",
+      "title": "Restoration of City and Land"
+    },
+    {
+      "range": "14-26",
+      "title": "Davidic and Priestly Covenant"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Covenant",
+    "Davidic kingship",
+    "Priesthood"
+  ],
+  "practicalQuestions": [
+    "How does the promise of covenantal faithfulness shape trust in times of communal loss or exile today?",
+    "In what ways can communities cultivate hope and restoration amid devastation, as the text envisions joyful worship returning?",
+    "How should modern readers balance the vision of impending judgment with the strong promises of mercy and renewal found here?",
+    "What practices in contemporary religious life correspond to the text's emphasis on priests, sacrifices, and public worship as signs of communal restoration?"
+  ],
+  "uncertainAreas": "The precise referent of the 'Branch of righteousness' (whether a single future king, a dynastic line, or a symbolic ideal) is open to interpretation. The phrase about David 'never want a man to sit upon the throne' raises historical-theological questions given the interruption of monarchy by exile; the text appears to promise ultimate, perhaps eschatological, continuity rather than uninterrupted historical rule. The dating and specific circumstances of Jeremiah's 'second' word while imprisoned are tied to the book's complex editorial history and are not fully specified within the chapter.",
+  "createdAt": "2025-11-04T01:49:51.701Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

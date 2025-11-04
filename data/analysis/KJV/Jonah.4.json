@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jonah.4",
+  "briefOverview": "Jonah reacts with anger when God spares Nineveh, and God teaches him a lesson about compassion using a plant and a worm.",
+  "summary": "After Nineveh repents and God relents, Jonah is furious and prays that he might die, citing his expectation that God is gracious and merciful. God questions Jonah’s anger, and Jonah withdraws outside the city to watch what will happen. God provides a plant to shade Jonah, then appoints a worm to wither it and a hot wind to discomfort Jonah, provoking him again to wish for death. God challenges Jonah’s outrage over the plant and contrasts Jonah’s pity for a transient gourd with God’s concern for the many people (and animals) of Nineveh, highlighting divine compassion for the ignorant and vulnerable.\n\n",
+  "externalContext": "Nineveh was the capital of the Assyrian empire, known historically as a powerful and often violent foreign enemy of Israel; the book reflects a context in which mercy toward a traditional enemy would be startling to an Israelite audience. The language that describes God as \"gracious and merciful, slow to anger\" echoes older covenantal formulae in Israelite tradition (e.g., Exodus 34:6) and shapes readers’ expectations about divine character. The book’s final chapter fits ancient prophetic narrative conventions that combine theological teaching with a dramatic, didactic episode.",
+  "externalReferences": "The description of God as \"gracious and merciful, slow to anger\" is closely paralleled in Exodus 34:6 and Numbers 14:18, where similar attributes are ascribed to YHWH. Jesus later cites Jonah as a sign in Matthew 12:39–41 (see especially 12:41), using the book’s narrative to challenge his contemporaries and to point to themes of repentance and judgment. These references position Jonah 4 within ongoing biblical conversations about divine mercy, repentance, and prophetic witness.\n\n",
+  "seeAlso": [
+    "Exodus 34:6",
+    "Numbers 14:18",
+    "Matthew 12:39-41",
+    "Jonah 1:1-4:3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Jonah’s Anger and Prayer"
+    },
+    {
+      "range": "5-9",
+      "title": "Booth, Gourd, and Calamity"
+    },
+    {
+      "range": "10-11",
+      "title": "God’s Lesson on Compassion"
+    }
+  ],
+  "themes": [
+    "Divine mercy",
+    "Prophetic anger",
+    "Compassion",
+    "Divine instruction"
+  ],
+  "practicalQuestions": [
+    "How do I respond when mercy is offered to people I dislike or consider undeserving?",
+    "When have I preferred petty comforts over engaging with broader needs, as Jonah cared for the plant more than Nineveh?",
+    "How should communities reconcile a desire for justice with the possibility of repentance and forgiveness?",
+    "What practices help reshape our emotions so they align with a broader, compassionate view of others?"
+  ],
+  "uncertainAreas": "The genre of Jonah (historical report, parable, or satire) affects interpretation but is debated; the text’s claim that God 'repents' or 'relents' raises theological questions about divine immutability versus responsive action; the phrase about those who 'cannot discern between their right hand and their left hand' is ambiguous—possibly referring to children, the infirm, or general ignorance.",
+  "createdAt": "2025-11-04T14:06:40.611Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Lam.2",
+  "briefOverview": "A communal lament over Jerusalem’s destruction that emphasizes divine anger and the collapse of religious and civic life.",
+  "summary": "The poem depicts God as having attacked and abandoned Zion in fierce anger: the city, its palace, temple, and leaders lie desolate. Temples, altars, and sacred festivals are profaned or forgotten, prophets have no vision, and civic structures and laws are overturned. The people—elders, virgins, children, priests, and kings—sit in mourning or lie dead in the streets; enemies mock Jerusalem’s former renown. The speaker alternates between depicting the scale of devastation, its theological meaning (God’s enacted judgment), and urgent appeals for crying out to the Lord on behalf of suffering children and the community.",
+  "externalContext": "Traditionally placed in the aftermath of the Babylonian destruction of Jerusalem and the First Temple (usually dated to 586 BCE), this poem reflects the cultural reality of temple-central Israelite religion and the trauma of exile. Public mourning customs like casting dust on the head and wearing sackcloth are attested in other ancient Near Eastern and biblical texts and are used here to signal communal grief. The lament genre in the Hebrew Bible often pairs vivid descriptions of disaster with direct address to God and pleas for attention.",
+  "externalReferences": "The historical fall of Jerusalem and the temple is narrated in 2 Kings 25:8–10 and Jeremiah 52:12–16, passages that describe the burning of the temple and the exile of inhabitants. Ezekiel 10:18–19 and 11:23 depict the departure of God’s glory from the temple—a theological motif similar to the sense that God has 'cast off his altar' in this chapter. Psalm 74:3–9 likewise laments the profaning and devastation of sacred spaces by hostile peoples.",
+  "seeAlso": [
+    "2 Kings 25:8-10",
+    "Jeremiah 52:12-16",
+    "Ezekiel 10:18-19",
+    "Psalm 74:3-9",
+    "Lamentations 1:1-22",
+    "Lamentations 3:1-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Divine Assault on Zion"
+    },
+    {
+      "range": "9-17",
+      "title": "Public Ruin and Mockery"
+    },
+    {
+      "range": "18-22",
+      "title": "Call to Lament and Plea"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Destruction",
+    "Lament",
+    "Exile"
+  ],
+  "practicalQuestions": [
+    "How should communities bring their grief and anger to God when institutions that gave them meaning collapse?",
+    "In what ways can public mourning practices (listening, lamenting, bearing witness) be preserved or adapted today?",
+    "How do we care for and advocate on behalf of the most vulnerable (children, the elderly) in times of communal crisis?",
+    "How do we interpret calamity theologically without silencing the concrete suffering of people?"
+  ],
+  "uncertainAreas": "Attribution and viewpoint: it’s not always clear whether the speaker is an individual prophet, a communal voice, or a liturgical persona. The text presents God both as active agent and as abandoned object—whether this indicates theological certainty about divine intent or a rhetorical way to express experience of catastrophe is open to interpretation. Precise historical dating is traditionally linked to 586 BCE but is not stated in the poem itself.",
+  "createdAt": "2025-11-04T02:00:05.145Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

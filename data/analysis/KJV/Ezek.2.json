@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ezek.2",
+  "briefOverview": "Ezekiel is commissioned as a prophet to a stubborn, rebellious Israel and commanded to receive and proclaim God's message despite hostility.",
+  "summary": "A divine voice addresses Ezekiel as 'son of man,' empowering him by spirit and setting him on his feet to hear God's words. God sends him specifically to the Israelites, a rebellious people whose ancestors have continually transgressed, and warns Ezekiel not to be afraid of their hostility. Ezekiel is told to speak God's words whether the people listen or refuse, so they will know a prophet has been among them. God commands Ezekiel not to be rebellious like the people but to open his mouth and 'eat' what is given him. A hand presents a scroll written on both sides, containing lamentations, mourning, and woe, symbolizing the content Ezekiel must internalize and proclaim.",
+  "externalContext": "Ezekiel prophesied during the Babylonian exile (early 6th century BCE) to Jews taken from Judah, and many of his visions and commands reflect the crisis of a displaced community facing judgment. The address 'son of man' is a common Ezekielic title emphasizing the prophet's human status before God. Prophetic commissioning scenes—visions, being spoken to by God, and warnings about a hostile audience—are a recurring feature in the prophetic literature of the Hebrew Bible.",
+  "externalReferences": "The motif of a prophet commissioned and warned not to be afraid resembles Jeremiah 1:17–19, where Jeremiah is told to stand and not fear. The instruction to be sent to a people who will resist and be hardened echoes Isaiah 6:8–13. The image of 'eating' God's word appears in Jeremiah 15:16 and is developed further for Ezekiel himself in Ezekiel 3:1–3; the symbolic eating of a book also appears later in Revelation 10:9–10.",
+  "seeAlso": [
+    "Isaiah 6:8-13",
+    "Jeremiah 1:17-19",
+    "Jeremiah 15:16",
+    "Ezekiel 3:1-3",
+    "Revelation 10:9-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Commission and Mission"
+    },
+    {
+      "range": "8-10",
+      "title": "Receive the Scroll"
+    }
+  ],
+  "themes": [
+    "Divine commission",
+    "Rebellion",
+    "Prophetic obedience",
+    "Judgment warnings"
+  ],
+  "practicalQuestions": [
+    "How should one speak difficult truths to a community that is resistant or hostile?",
+    "What practices help internalize challenging messages so they can be conveyed faithfully (the meaning of 'eat the scroll')?",
+    "How can leaders avoid becoming rebellious or discouraged when their audience rejects correction?",
+    "In what ways might contemporary communities recognize and respond to warnings of moral or communal decline?"
+  ],
+  "uncertainAreas": "The text uses vivid imagery (briers, scorpions, writing 'within and without') whose precise historical or symbolic referents are not fully specified here. It is also ambiguous whether the 'roll of a book' is meant as a literal object or primarily a symbolic portrayal of the message; later passages (Ezekiel 3) expand the eating motif, but that elaboration is outside this chapter.",
+  "createdAt": "2025-11-04T02:02:13.116Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

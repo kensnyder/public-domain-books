@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ezek.19",
+  "briefOverview": "A dirge lamenting failed royal leaders and the downfall of Israel's ruling house, using lion and vine imagery to portray capture, loss, and devastation.",
+  "summary": "The chapter is presented as a lament for the princes of Israel. Verses 2–9 picture two royal 'whelps' reared by a lioness who become dangerous rulers, only to be trapped by surrounding nations and taken away—one to Egypt and another ultimately bound and delivered to the king of Babylon. Verses 10–14 shift to a vine image for the mother (the nation or royal house), once planted by abundant waters and yielding strong scepters, but violently uprooted: an east wind dries her, fire consumes her branches, and she is replanted in a barren wilderness. The poem closes by reiterating that this composition is a lamentation over that ruin.",
+  "externalContext": "Ezekiel prophesied during the Babylonian exile (early 6th century BCE), addressing a community dislocated from Judah and mourning the collapse of its institutions. Royal and horticultural metaphors (lions for princes, vines for the nation) were common in ancient Near Eastern royal rhetoric and in Israelite prophetic literature to express political failure and divine judgment. The chapter reflects concerns about leadership accountability and the consequences of political entanglements with neighboring powers.",
+  "externalReferences": "The poem parallels Ezekiel's other royal-judgment material, notably the parable of the two eagles in Ezekiel 17, which also treats rulers turning to foreign powers and consequent downfall. The vine imagery recalls Isaiah's 'Song of the Vineyard' (Isaiah 5:1–7) and other prophetic lament/vine motifs (e.g., Psalm 80). The historical background to the captures alludes to the events recorded in the historical books regarding Judah's fall and deportations (see 2 Kings 24–25).",
+  "seeAlso": [
+    "Ezekiel 17:1-10",
+    "Isaiah 5:1-7",
+    "Psalm 80",
+    "2 Kings 24-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Lament for Princes"
+    },
+    {
+      "range": "10-14",
+      "title": "Vine of the Nation"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Leadership Failure",
+    "Exile",
+    "Lament"
+  ],
+  "practicalQuestions": [
+    "How should communities hold leaders accountable when their actions bring harm to the whole?",
+    "In what ways can collective mourning help a community recover after political collapse or displacement?",
+    "What contemporary 'vine' or institutions need honest assessment for roots and resilience?",
+    "How do we interpret metaphors of divine judgment today without minimizing human responsibility?"
+  ],
+  "uncertainAreas": "The precise historical identity of the two princes is not specified and is debated; verses mentioning Egypt and Babylon could refer to different incidents or a stylized summary of multiple losses. The extent to which 'mother' denotes Israel, the Davidic house, or Jerusalem is implied but not explicit. Symbolic elements like the 'east wind' and 'fire' are standard motifs for judgment but are not tied to a single, clear historical event in the poem.",
+  "createdAt": "2025-11-04T02:09:52.956Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

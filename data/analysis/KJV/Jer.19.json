@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Jer.19",
+  "briefOverview": "Jeremiah performs a symbolic act and proclaims God's judgment on Jerusalem for idolatry and child sacrifice, using the potter's broken vessel and Tophet imagery to announce destruction.",
+  "summary": "God instructs Jeremiah to take a potter's earthen bottle and the elders and priests to the Valley of Hinnom (Tophet) and to pronounce judgment on Jerusalem for abandoning Yahweh, burning incense to foreign gods, and shedding innocent blood. Jeremiah warns that the place will be renamed \"the valley of slaughter,\" the city will be made desolate, and inhabitants will die by sword, beasts, and birds; siege famine will bring cannibalistic horrors. Jeremiah then breaks the bottle as a dramatized sign that the people and city will be broken beyond repair and buried in Tophet until there is no space to bury. He returns to the temple court to reiterate that all the evils previously pronounced will come because the people have hardened their necks and would not listen.",
+  "externalContext": "Jeremiah prophesied in late 7th/early 6th century BCE, during the final decades of Judah before the Babylonian conquest (c. 627–586 BCE). The Valley of Hinnom (Gehenna/Tophet) near Jerusalem was associated in Israelite tradition with cultic practices condemned by the prophets and law codes; later Jewish and Christian literature uses Gehenna as a symbol of judgment. The prophetic use of dramatic symbolic acts (e.g., actions by Ezekiel, Isaiah, and earlier in Jeremiah 18) was a recognized way to make an oral oracle memorable and demonstrative.",
+  "externalReferences": "The theme of child sacrifice and Tophet is treated elsewhere in Jeremiah (notably Jeremiah 7:31–34 and Jeremiah 32:35) where the practice is condemned and linked to Tophet/Gehenna. The potter imagery and the idea of God shaping and destroying like a potter’s vessel recall Jeremiah 18:1–6, where the potter’s work illustrates divine sovereignty over nations. Mosaic law explicitly forbids child sacrifice (Deuteronomy 12:31; Leviticus 18:21), which provides a legal background to the prophet’s indictment.",
+  "seeAlso": [
+    "Jeremiah 7:31-34",
+    "Jeremiah 18:1-6",
+    "Jeremiah 32:35",
+    "Deuteronomy 12:31",
+    "Leviticus 18:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Symbolic Judgment Act"
+    },
+    {
+      "range": "14-15",
+      "title": "Proclamation and Warning"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Idolatry",
+    "Child sacrifice",
+    "Symbolic action"
+  ],
+  "practicalQuestions": [
+    "What contemporary practices or policies might prophets critique today as putting vulnerable lives at risk?",
+    "How can symbolic actions or public demonstrations be used responsibly to communicate moral urgency?",
+    "When a community persists in harmful practices, how should leaders balance warning with pastoral care?",
+    "How does confronting the reality of communal wrongdoing shape personal and corporate repentance?"
+  ],
+  "uncertainAreas": "Degree of literalness regarding child sacrifice and cannibalism: while the text condemns child sacrifice explicitly, some imagery (eating children in siege) may be prophetic hyperbole describing siege horrors rather than routine practice. Also uncertain are details about the precise historical participants present at Jeremiah’s enacted prophecy (which elders/priestly figures were involved) and the chronology relative to other Jeremianic oracles.",
+  "createdAt": "2025-11-04T01:43:21.193Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

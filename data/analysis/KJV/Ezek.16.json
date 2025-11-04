@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ezek.16",
+  "briefOverview": "A prophetic allegory portrays Jerusalem as an abandoned infant whom God adopts, adorns, and marries, but who becomes unfaithful through idolatry and alliances; God announces harsh judgment yet promises to remember the covenant and ultimately restore her.",
+  "summary": "The prophet recounts Jerusalem's origins as a neglected foundling whom God rescues, beautifies, and enters into covenant with, providing clothing, food, and honors (verses 3–14). Despite these mercies, Jerusalem becomes proud and 'plays the harlot'—adorning her high places, practicing idolatry, offering God's gifts to idols, and even sacrificing her children (15–22). God pronounces judgment: her lovers (foreign allies and idolaters) will be gathered against her, her sanctuaries and adornments stripped, her houses burned, and she will suffer public humiliation and violent punishment (35–42). The prophet compares Jerusalem unfavorably with Samaria and Sodom, declaring her sins greater though those cities were also punished (44–52). Yet the chapter closes with a note of hope: God will remember the covenant of her youth, establish an everlasting covenant, and ultimately be pacified toward her, though she will be ashamed and humbled for her deeds (59–63).",
+  "externalContext": "Ezekiel prophesied to Judean exiles in Babylon in the early sixth century BCE after the destruction of Jerusalem (586 BCE). Marriage and prostitution metaphors were common prophetic devices (notably in Hosea and Jeremiah) to depict Israel’s relationship with Yahweh and her unfaithfulness through idolatry and foreign alliances. Accusations like child sacrifice and sacrilegious offerings reflect real cultic and syncretistic practices criticized in the Hebrew Bible and in ancient Near Eastern religious contexts.",
+  "externalReferences": "The marriage-as-infidelity motif parallels Hosea (e.g., Hosea 1–3; Hosea 2:2–13) and Jeremiah's denunciations of Israel's adultery (e.g., Jeremiah 3:1–10). The punishments for Sodom and the exile of Samaria are evoked elsewhere (Genesis 19:24–25; 2 Kings 17:6,23), and prohibitions and condemnations of child sacrifice appear in Leviticus 18:21 and narrative reforms such as 2 Kings 23:10.",
+  "seeAlso": [
+    "Hosea 1:2-3:5",
+    "Jeremiah 3:1-10",
+    "Genesis 19:24-25",
+    "2 Kings 17:6,23",
+    "Leviticus 18:21",
+    "2 Kings 23:10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Foundling Rescued and Adorned"
+    },
+    {
+      "range": "15-34",
+      "title": "Harlotry and Idolatry"
+    },
+    {
+      "range": "35-63",
+      "title": "Judgment and Covenant Promise"
+    }
+  ],
+  "themes": [
+    "Covenant",
+    "Infidelity/Idolatry",
+    "Judgment",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How does gratitude for past mercy shape present faithfulness in communities that have received privileges or status?",
+    "In what ways can cultural prestige or prosperity lead to spiritual complacency or syncretism today?",
+    "How should communities address practices that harm the vulnerable, in light of the text’s condemnation of neglect and child sacrifice?",
+    "What does the tension between divine judgment and the promise to remember the covenant suggest about accountability and hope for restoration?"
+  ],
+  "uncertainAreas": "The text uses intense metaphor and rhetorical hyperbole; it's sometimes unclear whether certain charges (e.g., 'sacrificing children') are literal historical claims or polemical descriptions of cultic practices. The precise nature and scope of the 'everlasting covenant' promised at the end—whether fully restorative, conditional, or partly rhetorical—remains open to interpretive debate.",
+  "createdAt": "2025-11-04T02:08:27.711Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

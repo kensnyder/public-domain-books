@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Hos.6",
+  "briefOverview": "Hosea 6 calls Israel to repent with a promise of healing while condemning shallow religious practices and social corruption, especially among leaders and priests.",
+  "summary": "Verses 1–3 open with a communal plea to return to the LORD, promising that after affliction God will heal and revive his people and that deeper knowledge of God will follow. Verse 4–6 rebuke Israel and Judah for fleeting loyalty, contrasting God’s desire for steadfast mercy and knowledge of God with mere ritual sacrifice. Verses 7–11 accuse the people of breaking the covenant, describe widespread sin and violent corruption—naming Gilead and priests as complicit—and portray Ephraim’s spiritual adultery; the chapter ends with a note about Judah and an appointed harvest tied to the restoration of the people.",
+  "externalContext": "Hosea was active in the northern kingdom of Israel (often called Ephraim) in the 8th century BCE, a period marked by political instability, Assyrian pressure, and religious syncretism. Prophetic criticism frequently targeted not just ritual observance but social injustice and leaders who failed to uphold covenantal ethics.",
+  "externalReferences": "The declaration “I desired mercy, and not sacrifice” (v. 6) is later cited by Jesus as authoritative in Matthew 9:13 and 12:7 to critique empty ritual apart from compassion. The theme of God rejecting mere sacrifices when justice and mercy are absent resonates with Isaiah 1:11–17 and with Micah 6:6–8, which likewise emphasizes doing justice, loving mercy, and walking humbly with God.",
+  "seeAlso": [
+    "Matthew 9:13",
+    "Matthew 12:7",
+    "Micah 6:6-8",
+    "Isaiah 1:11-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Call and Promise"
+    },
+    {
+      "range": "4-6",
+      "title": "Rebuke of False Piety"
+    },
+    {
+      "range": "7-11",
+      "title": "Corruption and Condemnation"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Mercy over Ritual",
+    "Restoration",
+    "Corruption"
+  ],
+  "practicalQuestions": [
+    "How should communities balance ritual observance with acts of mercy and knowledge of God today?",
+    "What concrete steps can leaders take to prevent and address institutional corruption comparable to the priests’ misconduct here?",
+    "When facing communal failure, what does genuine repentance look like beyond words or brief enthusiasm?",
+    "How can the promise of restoration shape responses to social and spiritual brokenness in our context?"
+  ],
+  "uncertainAreas": "The timeframe in vv. 1–2 (“after two days… third day”) is ambiguous—whether literal, symbolic, or prophetic shorthand is debated. It is also unclear whether some accusations (e.g., the ‘company of priests murder’) should be read as literal criminal acts by specific temple personnel or as figurative language denoting priestly complicity in systemic violence and immorality.",
+  "createdAt": "2025-11-04T13:54:25.964Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

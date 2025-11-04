@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Mic.7",
+  "briefOverview": "A prophet laments social corruption, expresses personal repentance and trust in God, and looks forward to divine vindication, covenantal restoration, and mercy.",
+  "summary": "The chapter opens with a lament over pervasive moral collapse: honest people are gone, leaders are corrupt, and family bonds are broken (1–6). The speaker resolves to wait on the Lord, anticipating personal vindication and light amid darkness, and declares willingness to endure divine anger because of sin until God judges and vindicates (7–10). Verses 11–17 envision a future rebuilding and the movement of peoples, mention Assyria and fortified cities, and predict the nations' humiliation before Israel. The closing verses (18–20) praise God's unique mercy: he pardons iniquity, delights in steadfast love, will have compassion, forgive the remnant, and fulfill the covenant promises to Jacob and Abraham.",
+  "externalContext": "Micah is generally placed in the 8th century BCE, contemporaneous with prophets like Isaiah and Amos, a period marked by social inequality and impending Assyrian expansion. Assyria threatened both the northern kingdom (Israel/Samaria) and later Judah; historical narratives in Kings record Assyrian campaigns and the fall of Samaria (2 Kings 17) and Sennacherib's attack on Judah (2 Kings 18–19). The language of covenant restoration and Exodus allusion reflects longstanding Israelite theological categories—deliverance from Egypt and ancestral promises to Abraham—as frames for understanding national crisis and hope.",
+  "externalReferences": "The theme of God pardoning iniquity and not retaining anger forever echoes Numbers 14:18, which describes the LORD as merciful and forgiving. The reference to \"days of thy coming out of the land of Egypt\" invokes the Exodus tradition (see Exodus 12 and related Exodus passages) as a pattern for future marvelous acts.\n\nThe mention of coming from Assyria and fortified cities aligns with historical accounts of Assyrian pressure recorded in 2 Kings 17 and 18–19 (the fall of the northern kingdom and later siege events), providing a likely historical backdrop for the prophet's imagery about nations and military movement.",
+  "seeAlso": [
+    "Numbers 14:18",
+    "Exodus 12:31-42",
+    "Genesis 12:1-3",
+    "2 Kings 17:6",
+    "2 Kings 18:13-19:37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Lament over Corruption"
+    },
+    {
+      "range": "7-13",
+      "title": "Trust and Vindication"
+    },
+    {
+      "range": "14-20",
+      "title": "Restoration and Mercy"
+    }
+  ],
+  "themes": [
+    "Social corruption",
+    "Trust in God",
+    "Divine mercy",
+    "Covenant restoration"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when social and political leaders act unjustly, as described here?",
+    "What does it mean to 'wait for the LORD' in practical terms when facing personal or communal crisis?",
+    "How can confession and patience (bearing divine indignation) coexist with hope for vindication and restoration in our lives?",
+    "How might the memory of past deliverances (e.g., Exodus, covenant promises) shape present trust and action?"
+  ],
+  "uncertainAreas": "The chapter mixes national imagery (Assyria, fortified cities) and future restoration in a way that leaves timing ambiguous: it is not always clear whether the prophet expects near-term deliverance, a long-term messianic-style vindication, or theological reflection after crisis. The identity of \"she that is mine enemy\" and the precise referent of some geographic phrases (e.g., specific fortified cities) are not specified and allow multiple interpretations.",
+  "createdAt": "2025-11-04T14:10:16.358Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

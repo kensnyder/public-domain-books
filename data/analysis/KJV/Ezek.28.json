@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Ezek.28",
+  "briefOverview": "Ezekiel 28 pronounces judgment on the proud ruler of Tyre and the city of Sidon, contrasting human arrogance with God's sovereign authority and promising restoration for Israel.",
+  "summary": "The chapter opens with a denunciation of the prince of Tyre for claiming divine status and boasting of wisdom and wealth; God promises that foreign invaders will bring him low and that he will die as a man. A subsequent lament addresses the king of Tyre in exalted, mythic language—placing him in Eden and calling him an anointed cherub who was once perfect but fell through pride and corrupt commerce, and who will be cast out and consumed. The oracle then moves to Sidon (Zidon), announcing pestilence, sword, and blood as judgment, and declares that when God judges these surrounding nations Israel will be gathered, sanctified, and restored to dwell securely in the land, building and planting with confidence.",
+  "externalContext": "Tyre and Sidon were wealthy Phoenician city-states on the Mediterranean coast known for maritime trade, luxury goods, and political influence during the first millennium BCE. Ezekiel prophesied from exile in Babylon (6th century BCE), addressing both Israel’s circumstances and the surrounding nations whose actions affected Israel’s fortunes. The rhetoric of a human ruler described with cosmic or Edenic imagery reflects a common ancient Near Eastern practice of pairing historical judgment with mythic motifs.",
+  "externalReferences": "The Edenic language and the figure described as a cherub recall Genesis 2–3 (the garden and human/angelic imagery) and broader biblical themes of a fall from a once-exalted state. The motif of a proud ruler cast down echoes Isaiah 14:12–15, which similarly portrays hubris and downfall in exalted language. Ezekiel’s wider set of prophecies against Tyre appears earlier and later in this book (see Ezekiel 26–27), where Tyre’s maritime power and downfall are also the focus.",
+  "seeAlso": [
+    "Ezekiel 26:1-21",
+    "Ezekiel 27:1-36",
+    "Isaiah 14:12-15",
+    "Genesis 2:8-3:7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Denouncing Tyre's Prince"
+    },
+    {
+      "range": "11-19",
+      "title": "Lament: Cherub in Eden"
+    },
+    {
+      "range": "21-26",
+      "title": "Judgment on Sidon; Israel's Hope"
+    }
+  ],
+  "themes": [
+    "Pride",
+    "Divine judgment",
+    "Fall",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "How can wealth and success lead to spiritual or moral pride in contemporary contexts, and how should communities address that?",
+    "In what ways does the text challenge leaders who equate power with divinity, and how can modern leaders practice humility?",
+    "What does ‘restoration’ look like for displaced or marginalized communities today, and what role does justice play in that restoration?",
+    "How should a community interpret and respond to the suffering caused by neighboring powers or economic systems that exploit them?"
+  ],
+  "uncertainAreas": "The passage’s shift from a human king to exalted, Edenic/cherubic imagery is ambiguous: scholars disagree whether verses 11–19 portray only the historical king of Tyre, a symbolic heavenly being, or a conflation of both. The reference to being ‘wiser than Daniel’ (v.3) is also debated in meaning and background; the text provides no explanatory detail.",
+  "createdAt": "2025-11-04T02:13:53.152Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

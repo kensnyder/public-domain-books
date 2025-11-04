@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.29",
+  "briefOverview": "A letter from Jeremiah to Judean exiles in Babylon instructs them to settle and prosper there, warns against false prophets, and promises eventual restoration after seventy years.",
+  "summary": "Jeremiah’s letter, delivered by Elasah and Gemariah to the Judean captives in Babylon, tells the exiles to build houses, plant gardens, marry, and increase so their community will thrive. They are commanded to seek the welfare of the city where they live and to pray for it, because their peace is tied to the city’s peace. Jeremiah warns them not to trust prophets or dreams that encourage false hope, since those prophets speak falsely in God’s name. The letter announces that after seventy years God will visit the exiles and bring them back, promising God’s attentive care for those who seek him wholeheartedly. The chapter then pronounces judgment on false prophets who remained in Judah or deceived the exiles (named Ahab and Zedekiah), and concludes with a specific denunciation and promised punishment of Shemaiah the Nehelamite for prophesying lies and encouraging rebellion.",
+  "externalContext": "The letter reflects the historical context of the Babylonian exile (late 7th–6th century BCE) after Nebuchadnezzar’s deportations, which removed many leaders and craftsmen from Jerusalem (see accounts in 2 Kings 24–25). Life in diaspora raised practical and theological questions about identity, survival, and hope for return. The “seventy years” figure appears elsewhere in the prophetic tradition and was later associated with the period up to the Persian king Cyrus’s decree permitting the return (late 6th century BCE).",
+  "externalReferences": "The deportation of Jeconiah (Jehoiachin) and other Jerusalem leaders is narrated in 2 Kings 24:10–17 and 2 Kings 25:8–11, which provides background to the exiles addressed here. Jeremiah himself earlier links exile to a seventy-year period in Jeremiah 25:11–12. The eventual permission to return under Cyrus is recorded in Ezra 1:1–4, often read as the historical fulfillment of prophetic promises about return. The book of Ezekiel likewise contains prophecies addressed to Judeans in Babylon (e.g., Ezekiel 1:1), showing multiple prophetic voices engaging the exilic community.",
+  "seeAlso": [
+    "Jeremiah 25:11-12",
+    "2 Kings 24:10-17",
+    "2 Kings 25:8-11",
+    "Ezra 1:1-4",
+    "Ezekiel 1:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Instructions to Exiles"
+    },
+    {
+      "range": "15-23",
+      "title": "Warnings and Judgment"
+    },
+    {
+      "range": "24-32",
+      "title": "Condemnation of Shemaiah"
+    }
+  ],
+  "themes": [
+    "Exile",
+    "Restoration",
+    "False prophecy",
+    "Community responsibility"
+  ],
+  "practicalQuestions": [
+    "How should displaced individuals and communities invest in the long-term welfare of the places where they live?",
+    "What criteria can we use today to discern between trustworthy spiritual guidance and leaders who offer false reassurance?",
+    "In what concrete ways can people pray for and seek the 'peace' or welfare of their host city or nation?",
+    "How do we hold hope for a future restoration while committing responsibly to present community life?"
+  ],
+  "uncertainAreas": "Uncertainties include whether the seventy years is meant as a literal chronological prediction or a symbolic period, the precise identities and histories of the named false prophets (Ahab, Zedekiah, Shemaiah), and how widely this particular letter circulated among all exiles. The text’s relationship to later return events (e.g., under Cyrus) is supported by later scripture but not spelled out in this chapter.",
+  "createdAt": "2025-11-04T01:48:13.423Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

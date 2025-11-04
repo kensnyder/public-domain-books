@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ezek.11",
+  "briefOverview": "Ezekiel confronts corrupt Jerusalem leaders with imminent judgment, then receives God's promise to regather and renew the exiled remnant while the divine glory departs the city.",
+  "summary": "Ezekiel is taken to the east gate of the temple and identifies twenty-five leaders who are giving wicked counsel and advocating complacency amid the city's danger. God accuses them of plotting mischief, multiplying the slain, and trusting in the city as a refuge; he announces sword, exile, and judgment upon them. As Ezekiel prophesies, Pelatiah son of Benaiah dies, prompting Ezekiel’s anguished cry that God would destroy the remnant. God answers by distinguishing between those exiled (who have been told by Jerusalem inhabitants to \"get you far from the LORD\") and the guilty in Jerusalem, promising to be a sanctuary for the scattered, to gather them, cleanse the land of abominations, and give them one heart and a new spirit. The chapter closes with the cherubim lifting their wings as the glory of the LORD rises from the city to the east mountain, and Ezekiel is brought in vision to the exiles in Chaldea to report all he has seen.",
+  "externalContext": "Ezekiel prophesied in the early sixth century BCE among Judean exiles in Babylon (referred to here as Chaldea) after the destruction and sieges surrounding Jerusalem. Ritual language (the east gate, cherubim, glory departing) reflects temple imagery and the conviction that God's presence was associated with the temple complex; the loss of that presence signals serious theological and communal crisis. The political backdrop includes the Babylonian siege and deportations, which provide the historical setting for warnings about exile and judgments.",
+  "externalReferences": "The promise of God giving a \"new heart\" and \"new spirit\" closely parallels the later, fuller statement in Ezekiel 36:26–27 where God declares he will replace a heart of stone with a heart of flesh and put his Spirit within. The departure of the divine glory here echoes the earlier series of visions in Ezekiel 8–10 and the more immediate account in Ezekiel 10:18–19, where the glory of the LORD departs the temple because of the people's idolatry.",
+  "seeAlso": [
+    "Ezekiel 36:26-27",
+    "Ezekiel 10:18-19",
+    "Ezekiel 8:6-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Corrupt Counsel Judged"
+    },
+    {
+      "range": "14-21",
+      "title": "Promise of Renewal"
+    },
+    {
+      "range": "22-25",
+      "title": "Glory Departs; Vision Reported"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Restoration",
+    "Inner Transformation",
+    "Divine Presence"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when leaders promote complacency or self-preserving counsel in the face of moral crisis?",
+    "In what concrete ways can one seek the 'new heart' and 'new spirit' the text describes in contemporary spiritual practice?",
+    "What does the withdrawal of divine presence mean for worshiping communities today, and how can they address practices that might drive that withdrawal?",
+    "How can those outside a dominant center (the 'exiles') find reassurance and community when told they are rejected by the center?"
+  ],
+  "uncertainAreas": "The precise identity and historical roles of Jaazaniah and Pelatiah are not detailed in the text, and the \"caldron/flesh\" metaphor allows multiple readings (siege imagery, false security, or selfish exploitation). It is also ambiguous whether the \"remnant\" refers primarily to the deported exiles, to a restored Israel, or to another subgroup; the text promises restoration but does not specify the timing or full scope.",
+  "createdAt": "2025-11-04T02:06:16.448Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

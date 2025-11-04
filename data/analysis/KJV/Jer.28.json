@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jer.28",
+  "briefOverview": "A public clash between Jeremiah and the prophet Hananiah over whether Babylonian domination will end and exiles be restored; Hananiah's symbolic breaking of Jeremiah's yoke is followed by a divine rebuke and Hananiah's sudden death.",
+  "summary": "In the early reign of Zedekiah, Hananiah proclaims in the temple that the LORD will break the yoke of Babylon and return the temple vessels and Jeconiah within two years. Jeremiah initially responds “Amen,” but then warns the people that prophets must be tested by the fulfillment of their words and that prophets who promise peace must have their words come true. Hananiah dramatically breaks the wooden yoke from Jeremiah’s neck as a sign that Babylon’s oppression will soon end. God then tells Jeremiah to tell Hananiah that he has replaced wooden yokes with iron ones—signifying lasting Babylonian dominance—and declares that Hananiah has led the people into false hope. Jeremiah pronounces that Hananiah will die for his rebellion against the LORD, and the chapter reports that Hananiah dies later that year.",
+  "externalContext": "This episode takes place during the Babylonian exile crisis (late 7th/early 6th century BCE), when Judah faced military defeat, deportations (notably Jeconiah/Jehoiachin’s exile in 597 BCE), and debates about whether to resist or submit to Babylon. The prophetic sphere included both voices urging submission to Babylon as God’s instrument and competing prophets offering immediate consolation and promises of restoration. Symbolic actions (yokes, signs) were a common prophetic technique in the ancient Near East.",
+  "externalReferences": "This chapter echoes Jeremiah 27, where Jeremiah is instructed to make yokes and tell nations to serve Nebuchadnezzar—providing the broader context for the image of yokes and submission (see Jeremiah 27:1–11). The testing of prophets by the fulfillment of their words recalls the criterion in Deuteronomy 18:20–22, which says that a prophet whose word does not come to pass is not sent by God. The historical situation connects to the narrative of Jehoiachin’s (Jeconiah’s) exile in 2 Kings 24:10–17, which explains why a promise to restore him would be momentous.",
+  "seeAlso": [
+    "Jeremiah 27:1-11",
+    "Deuteronomy 18:20-22",
+    "2 Kings 24:10-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Hananiah's Promise"
+    },
+    {
+      "range": "5-11",
+      "title": "Confrontation and Symbol"
+    },
+    {
+      "range": "12-17",
+      "title": "Divine Rebuke and Death"
+    }
+  ],
+  "themes": [
+    "False prophecy",
+    "Divine sovereignty",
+    "Yoke/subjection",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "How should communities evaluate hopeful religious promises that conflict with sobering political realities?",
+    "What tests or criteria should we use today to discern trustworthy prophetic or spiritual claims?",
+    "When, if ever, are symbolic actions appropriate in religious leadership, and how should they be interpreted?",
+    "How can leaders pastorally balance offering hope with the responsibility to speak uncomfortable truths?"
+  ],
+  "uncertainAreas": "Ambiguities include Jeremiah’s initial ‘Amen’ (whether sincere assent or a cautious formula), whether Hananiah’s death is narrated as direct divine retribution or historical coincidence, and how literally to take the ‘two full years’ timetable and the wood/iron yoke imagery (symbolic versus strictly chronological).",
+  "createdAt": "2025-11-04T01:47:38.587Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

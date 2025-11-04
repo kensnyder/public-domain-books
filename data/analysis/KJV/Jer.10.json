@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.10",
+  "briefOverview": "Jeremiah denounces idolatry and contrasts lifeless idols with the living, sovereign God, then shifts to a prophetic warning of judgment and a personal lament over Judah's ruin.",
+  "summary": "The chapter opens with a denunciation of pagan customs and carved idols—wooden images decorated by craftsmen that cannot speak or act—and warns Israel not to imitate or fear the signs of the nations. Jeremiah proclaims Yahweh’s uniqueness and power as the living Creator, who controls the heavens and the elements, and asserts that made gods will perish. The prophet contrasts Israel (Jacob) as the LORD’s chosen portion and announces forthcoming displacement and distress for the land. The tone then becomes personal and mournful: the speaker laments ruined habitation, scattered children, and failed leaders. The chapter closes with an appeal for God’s corrective discipline rather than ruinous anger, and a plea that God pour out fury on nations and families who have destroyed Jacob.",
+  "externalContext": "Jeremiah prophesied in late 7th/early 6th century BCE Judah during rising Babylonian power and widespread religious syncretism; prophetic critiques of idols and calls for faithfulness respond to popular adoption of foreign gods. References to distant trade centers (Tarshish) and to skilled metalwork reflect an ancient Near Eastern economy in which luxury imports and artisan-produced cult images were common. The ‘north’ (v.22) typically signals invading forces—historically associated here with the looming threat from Mesopotamian powers.",
+  "externalReferences": "This denunciation of idols parallels passages like Isaiah 44:9–20 and Psalm 115:4–8, which likewise portray carved images as powerless and absurd. The warning not to be alarmed by heavenly signs echoes Deuteronomy 4:15–19, which cautions Israel against idolatry and astral worship. The poem’s emphasis on God as Creator and controller of weather and cosmic forces resonates with Genesis 1 (creation themes) and other prophetic texts that stress divine sovereignty.",
+  "seeAlso": [
+    "Isaiah 44:9-20",
+    "Psalm 115:4-8",
+    "Deuteronomy 4:15-19",
+    "Genesis 1:1-2:4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Idolatry and Divine Uniqueness"
+    },
+    {
+      "range": "16-18",
+      "title": "Jacob's Portion and Warning"
+    },
+    {
+      "range": "19-25",
+      "title": "Lament and Petition"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Divine sovereignty",
+    "Judgment",
+    "Lament"
+  ],
+  "practicalQuestions": [
+    "What cultural or religious practices today function like the 'lifeless idols' criticized here, and how should a faith community respond?",
+    "How does belief in God as Creator affect how we interpret natural disasters or political upheaval?",
+    "When leaders fail (v.21), what structures or practices can a community put in place to seek restoration rather than collapse?",
+    "How can we ask for correction (v.24) in a way that seeks constructive change rather than provoking destructive consequences?"
+  ],
+  "uncertainAreas": "The precise identification of places like Tarshish and Uphaz is debated and not fixed in the text. The phrase 'the stock is a doctrine of vanities' and some syntactical features are obscure, making exact nuance difficult. It is also not always explicit whether the lamenting voice (vv.19–20) is Jeremiah personally or a prophetic persona representing Judah; both readings are possible.",
+  "createdAt": "2025-11-04T01:39:32.493Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

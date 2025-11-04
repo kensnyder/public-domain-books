@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Isa.66",
+  "briefOverview": "Isaiah 66 contrasts God's transcendence with the value of humble, contrite worship and moves from promises of comfort for Jerusalem to fierce eschatological judgment and a universal restoration.",
+  "summary": "The chapter opens by asserting God's transcendence—heaven is his throne, earth his footstool—and declares that God values the contrite and humble more than external ritual. It condemns sacrificial hypocrisy and warns that those who refused God's call will experience delusion and retribution. God promises sudden restoration and rejoicing for Jerusalem, using birth and maternal imagery to describe a surprising, rapid deliverance and abundant consolation. Powerful judgment imagery follows: the LORD comes with fire and sword to punish the nations and the unfaithful. Yet alongside judgment is a vision of gathering the nations, inclusion of Gentiles, and the taking of some foreigners as priests and Levites. The chapter concludes with eschatological language of an enduring new heavens and new earth, regular universal worship, and a final scene of everlasting punishment where the corpses of the transgressors are an abhorrence to all flesh.",
+  "externalContext": "Scholars commonly place Isaiah 56–66 in a late (likely exilic or post‑exilic) context concerned with the restored community, the temple, purity, and the inclusion of foreigners. Themes here reflect debates in post‑exilic Judah about proper worship, social justice, and how Israel’s restoration relates to the nations. The chapter’s mix of consolation and stern eschatological judgment fits prophetic patterns used to encourage the faithful and rebuke syncretism.",
+  "externalReferences": "The attack on empty sacrifices and preference for right conduct echoes Isaiah 1:11–17, where Yahweh rejects mere ritual without justice. The emphasis on the humble, contrite attitude recalls Isaiah 57:15’s exaltation of those who are lowly and repentant. The new heavens and new earth language parallels Isaiah 65:17 and is later echoed in New Testament passages that use similar renewal imagery (e.g., Revelation 21:1–4). The grim image of unending worm and fire is later quoted by Jesus in Mark 9:48, applying Isaiah’s judgmental imagery in a different ethical context.",
+  "seeAlso": [
+    "Isaiah 1:11-17",
+    "Isaiah 57:15",
+    "Isaiah 65:17-25",
+    "Mark 9:48",
+    "Revelation 21:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Transcendence and True Worship"
+    },
+    {
+      "range": "5-14",
+      "title": "Comfort and Sudden Restoration"
+    },
+    {
+      "range": "15-24",
+      "title": "Judgment, Nations, New Creation"
+    }
+  ],
+  "themes": [
+    "Divine transcendence",
+    "True worship",
+    "Judgment and restoration",
+    "Inclusion of nations"
+  ],
+  "practicalQuestions": [
+    "How should communities balance ritual observance with attention to humility, justice, and inward repentance?",
+    "In what ways can those who feel marginalized find comfort in promises of communal restoration and consolation?",
+    "How ought modern readers interpret and respond to the chapter’s harsh imagery of judgment while holding to its promise of renewal?",
+    "What responsibilities do worshiping communities have toward outsiders, given the text’s inclusion of Gentiles and foreigners in sacred roles?"
+  ],
+  "uncertainAreas": "Dating and precise historical setting are debated (pre‑, exilic, or post‑exilic layers). The identity and practices of those condemned in verse 17 (’sanctify themselves… in the gardens’) are ambiguous—possibly syncretists, false piety, or specific cultic practices. The sequence and literal versus symbolic meaning of childbirth, gathering of nations, and end‑time images allow multiple interpretations (immediate restoration, future eschatology, or a mix).",
+  "createdAt": "2025-11-04T01:34:51.441Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

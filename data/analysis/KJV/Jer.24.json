@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jer.24",
+  "briefOverview": "A prophetic vision contrasts two groups of Judah—those taken to Babylon and those left behind or fleeing to Egypt—using two baskets of figs to symbolize restoration for some and judgment for others.",
+  "summary": "Jeremiah is shown two baskets of figs placed before the temple: one basket with very good figs and one with very bad (inedible) figs. God interprets the vision: the good figs represent the Judahites carried captive to Babylon (after Nebuchadrezzar’s deportation), whom God will watch over, restore to the land, rebuild, and give a heart to know the LORD so they return whole-heartedly. The bad figs represent Zedekiah, the leaders, the people remaining in the land, and those who dwell in Egypt; they will be taken into exile to suffer reproach and calamity. God declares he will send sword, famine, and pestilence until they are consumed from the land given to their ancestors.",
+  "externalContext": "The chapter refers to the historical deportation of King Jeconiah (Jehoiachin) and others to Babylon (commonly dated to 597 BCE) under Nebuchadrezzar. Jeremiah prophesied during the final decades of Judah’s monarchy when Babylonian pressure, successive deportations, and political flight to Egypt were reality for many Judeans. Figs are a common Near Eastern agricultural image and here function as a clear prophetic symbol distinguishing fate based on God’s verdict.",
+  "externalReferences": "The theme of exile-as-discipline and eventual restoration appears elsewhere in Jeremiah, notably the letters and promises to the exiles (e.g., Jeremiah 29:4–14, which addresses those settled in Babylon and contains a future restoration promise). Jeremiah later describes and interprets the flight to Egypt and judgment on those who go there in Jeremiah 43–44. Historical accounts of Jeconiah’s exile and the fall of Jerusalem are recorded in 2 Kings 24–25 and Jeremiah 52, which provide the background events that this vision addresses.",
+  "seeAlso": [
+    "Jeremiah 29:4-14",
+    "Jeremiah 30:3",
+    "Jeremiah 43:1-7",
+    "Jeremiah 44:1-30",
+    "2 Kings 24:8-16",
+    "2 Kings 25:1-21",
+    "Jeremiah 52:31-34"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Vision of Two Figs"
+    },
+    {
+      "range": "4-7",
+      "title": "Promise to the Exiles"
+    },
+    {
+      "range": "8-10",
+      "title": "Judgment on the Remaining"
+    }
+  ],
+  "themes": [
+    "Exile",
+    "Restoration",
+    "Judgment",
+    "Heart/Conversion"
+  ],
+  "practicalQuestions": [
+    "How should communities care for and encourage those who are displaced or in exile today in light of the promise that God 'sets eyes' on them for good?",
+    "What does returning to God 'with the whole heart' look like in personal and communal practice in our context?",
+    "How can leaders and citizens respond to collective failures that bring social or political consequences?",
+    "How do we interpret prophetic warnings of judgment today without losing sight of the restorational promises that accompany them?"
+  ],
+  "uncertainAreas": "The text is explicit about which groups the figs represent, but it is less specific about the timing and scope of the promised restoration (e.g., whether it applies to all deportees or primarily to a repentant remnant). The prophetic language about being 'consumed from off the land' may be hyperbolic judgment language rather than a literal, uniform outcome for every individual.",
+  "createdAt": "2025-11-04T01:45:38.968Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

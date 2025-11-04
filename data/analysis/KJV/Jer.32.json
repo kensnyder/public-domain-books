@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.32",
+  "briefOverview": "Jeremiah buys a family field while imprisoned as a prophetic sign that, despite imminent destruction by Babylon, God will ultimately restore the people and their land.",
+  "summary": "During the Babylonian siege of Jerusalem (the tenth year of King Zedekiah) Jeremiah is confined to the palace prison. God tells him to buy a field in Anathoth from his relative Hanameel, which Jeremiah does publicly, sealing the purchase and placing the deed with Baruch in an earthen vessel. Jeremiah prays a hymn of praise recounting God's mighty acts and justice. God reiterates that Jerusalem will be handed to Nebuchadnezzar because of the people's idolatry and continual disobedience, but immediately promises that after exile he will bring the people back, give them one heart and one way, make an everlasting covenant, and restore fields and normal life in the land.",
+  "externalContext": "The scene fits the late 7th/early 6th century BCE context of Judah's fall to Babylon under Nebuchadrezzar (traditionally 587/586 BCE). Buying and redeeming family land echoes Israelite land laws (e.g., Leviticus 25) and the idea that land is integral to Israelite identity and covenant promises. Prophets of the period often used symbolic actions (sign-acts) to communicate God's message; Jeremiah's legal purchase functions as both a legal act and a sign of future restoration.",
+  "externalReferences": "The language of a future, inner transformation and an enduring covenant resembles Jeremiah 31:31–34, which explicitly promises a new covenant written on hearts. Jeremiah 33 contains parallel promises of restoration and references to buying fields and reestablishing normal life, closely related to the material here. The legal background for redeeming ancestral land is set out in Leviticus 25, which governs redemption and the jubilee principle.",
+  "seeAlso": [
+    "Jeremiah 31:31-34",
+    "Jeremiah 33:14-26",
+    "Leviticus 25",
+    "Ezekiel 36:24-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Setting and Imprisonment"
+    },
+    {
+      "range": "6-15",
+      "title": "Purchase of Family Field"
+    },
+    {
+      "range": "16-44",
+      "title": "Prayer, Judgment, Restoration"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Restoration",
+    "Covenant",
+    "Land/Redemption"
+  ],
+  "practicalQuestions": [
+    "How does owning or stewarding land (or other lasting responsibilities) function as an expression of hope in times of crisis?",
+    "In what ways can symbolic actions (public, legal, or ritual) communicate conviction and shape communal memory today?",
+    "How should communities balance honest recognition of wrongdoing with trust in promises of restoration?",
+    "What does the promise of a changed heart (one heart, one way) imply for ethics and reconciliation in modern contexts?"
+  ],
+  "uncertainAreas": "Uncertainty remains about how contemporary readers should weigh the literal versus primarily symbolic aspects of the land purchase (the text presents it as both a real legal transaction and a prophetic sign). The precise legal implications of putting deeds in an 'earthen vessel' (preservation, testimony, or other ritual meaning) are not fully explained in the chapter. Dating conventions (exact year of the siege) are conventional but may vary by scholarly chronology.",
+  "createdAt": "2025-11-04T01:49:21.302Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

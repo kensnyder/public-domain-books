@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Ezek.25",
+  "briefOverview": "A series of prophetic oracles announcing divine judgment on neighboring nations that rejoiced over or attacked Judah; each oracle promises punishment so that the nations will know YHWH's sovereignty.",
+  "summary": "Ezekiel is commanded to prophesy against the Ammonites for rejoicing over Israel’s devastation; God promises to deliver them to eastern peoples, make Rabbah a camel-stable, and reduce the Ammonites to spoil (2–7). Moab and Seir are condemned for treating Judah like other nations; specific Moabite towns (Beth-jeshimoth, Baal-meon, Kiriathaim) will be opened to invaders and given over so the Ammonites will be forgotten (8–11). Edom is judged for taking vengeance on Judah; Teman and Dedan will suffer, and Israel will enact vengeance there by God’s direction (12–14). The Philistines are likewise denounced for hostile revenge; God will cut off the Cherethims and the remaining coastal peoples and execute fierce retribution so they will know that He is the LORD (15–17).",
+  "externalContext": "Ezekiel prophesied during the Babylonian exile (early 6th century BCE), when Judah had been conquered and neighboring states had varied reactions—some mocked or took advantage of Judah’s weakness. Rabbah (modern Amman) was the Ammonite capital; Teman and Dedan are traditional centers in Edom and Arabia. Prophetic oracles against surrounding nations are a common Near Eastern prophetic form used to explain Judah’s fall and assert divine justice.",
+  "externalReferences": "These oracles parallel other prophetic judgments in the Hebrew Bible: Jeremiah contains directed judgments against Moab (Jeremiah 48), Ammon (Jeremiah 49:1–6), Edom (Jeremiah 49:7–22), and the Philistines (Jeremiah 47). Obadiah also focuses on Edom’s downfall (Obadiah 1). Within Ezekiel, later chapters (for example Ezekiel 35) revisit Edom’s guilt and punishment, using similar language about divine vengeance.",
+  "seeAlso": [
+    "Jeremiah 48:1-47",
+    "Jeremiah 49:1-6",
+    "Jeremiah 49:7-22",
+    "Jeremiah 47:1-7",
+    "Obadiah 1:1-21",
+    "Ezekiel 35:1-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "2-7",
+      "title": "Oracle against Ammon"
+    },
+    {
+      "range": "8-14",
+      "title": "Moab and Edom Judgment"
+    },
+    {
+      "range": "15-17",
+      "title": "Oracle against Philistines"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Retribution",
+    "Sovereignty",
+    "Interstate enmity"
+  ],
+  "practicalQuestions": [
+    "How should communities today respond when others rejoice at their suffering, as the Ammonites did?",
+    "How can readers balance calls for divine justice with ethical commitments to mercy and reconciliation?",
+    "What does the repeated phrase 'they shall know that I am the LORD' mean for personal and communal faith now?",
+    "How should modern interpreters handle vivid images of national violence in prophetic texts—literally, metaphorically, or both?"
+  ],
+  "uncertainAreas": "Ambiguities include whether the punishments are intended as immediate historical events or as broader/theological judgments, the precise identity of groups like the 'Cherethims' (possibly Philistine subgroups or Cretans), and how literally to take the statement that Israel will exact vengeance on Edom. The text’s prophetic rhetoric mixes concrete place-names and symbolic language, leaving room for multiple readings.",
+  "createdAt": "2025-11-04T02:12:47.818Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

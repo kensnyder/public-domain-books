@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ezek.44",
+  "briefOverview": "Ezekiel 44 reallocates temple access and defines who may serve at the sanctuary, prescribing purity rules, duties, and privileges for priests and Levites in the restored cultic order.",
+  "summary": "The chapter begins with a visionary detail: the east gate through which the LORD entered is to remain shut, while a designated prince may enter by its porch for meals. The prophet is charged to observe and report all ordinances of the house of the LORD. God condemns those who brought \"strangers, uncircumcised in heart and flesh\" into the sanctuary, polluting it, and declares that Levites who abandoned proper worship will bear guilt though they will serve in subsidiary roles (gatekeeping and slaughtering sacrifices). By contrast, the sons of Zadok—priests faithful when Israel went astray—are granted full priestly access and duties. The chapter sets detailed priestly regulations: linen vestments (no wool), hairstyle and marriage restrictions, prohibition of wine in the inner court, rules about defilement for close kin, sacrificial procedures on reentry, and the priests' inheritance in offerings and firstfruits; priests may not eat carrion or torn animals.",
+  "externalContext": "Ezekiel is a sixth-century BCE prophet writing during the Babylonian exile; much of chapters 40–48 depict an idealized, restored temple and cult after the exile. The mention of the sons of Zadok reflects an interest in a legitimate priestly line (Zadok was an important priestly ancestor in pre-exilic tradition). Many rules here echo and refine older Mosaic legislation found in Leviticus and Numbers, showing continuity with the broader Israelite sacrificial and purity system.",
+  "externalReferences": "The scene of the glory filling the temple echoes the earlier temple-vision material in Ezekiel 43:4–5 and the broader architectural vision in Ezekiel 40–42. Specific priestly prohibitions parallel Mosaic commands: prohibition of wine for priests in the sanctuary recalls Leviticus 10:9, marriage restrictions and requirements find close parallels in Leviticus 21:7 and 21:13–14, and rules about who may eat holy things resemble Leviticus 22:10–16.",
+  "seeAlso": [
+    "Ezekiel 40:1-4",
+    "Ezekiel 43:4-5",
+    "Leviticus 10:9",
+    "Leviticus 21:7",
+    "Leviticus 22:10-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "East Gate and Prince"
+    },
+    {
+      "range": "4-12",
+      "title": "Vision Charge and Condemnation"
+    },
+    {
+      "range": "13-31",
+      "title": "Priestly Rules and Inheritance"
+    }
+  ],
+  "themes": [
+    "Temple Access",
+    "Priestly Purity",
+    "Covenant Faithfulness",
+    "Ritual Law"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities balance safeguarding sacred practices with openness to outsiders?",
+    "What qualities should leaders model to avoid the kind of 'pollution' condemned here?",
+    "How do ritual rules (dress, food, behavior) shape group identity and responsibility today?",
+    "In what ways can a religious community hold leaders accountable without excluding them from service?"
+  ],
+  "uncertainAreas": "Ambiguities include the exact civic or cultic role of the \"prince,\" whether \"strangers uncircumcised in heart and flesh\" refers to ethnic foreigners, unfaithful Israelites, or both, and the precise meaning of terms like \"poll their heads\" (exact haircut) and how strictly ancient marriage restrictions are meant to be applied in the envisioned community.",
+  "createdAt": "2025-11-04T02:21:31.121Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

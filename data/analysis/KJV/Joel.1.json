@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Joel.1",
+  "briefOverview": "A prophetic account of a sudden, devastating plague (portrayed as locusts) that destroys the land and temple provisions, followed by a communal call to lament and fasting and an urgent warning about the coming Day of the LORD.",
+  "summary": "The prophet announces a calamity and summons older and younger generations to take note (1–3). He describes a sequence of devouring pests that leave nothing, using vivid agricultural imagery to show total loss (4–7). The loss prompts cries for mourning: drunkards, farmers, and priests are told to weep and don sackcloth because offerings and religious joy have been cut off (5, 8–13). The prophet calls for a public fast and solemn assembly, gathering elders and people to cry out to God (14). He frames the disaster as a sign that the \"day of the LORD\" is near, coming as destruction from the Almighty (15). The chapter closes with descriptions of ruined harvests, distressed livestock, burned pastures, and drying rivers, and with the prophet’s cry to the LORD (16–20).",
+  "externalContext": "Joel addresses an agrarian society in which annual harvests, wine, and oil determine communal survival; loss of these commodities meant famine and social crisis. Scholars debate Joel’s precise historical date (ancient estimates range widely), but the book clearly uses the familiar Near Eastern image of locusts and agricultural catastrophe as both an ecological reality and theological sign. Public fasts and solemn assemblies were established means for Israelite communities to seek divine mercy in times of disaster.",
+  "externalReferences": "The image of a catastrophic swarm recalls the locust plague motif in Exodus 10:12–15, where locusts are dispatched as a divine judgment. The prophetic theme of an approaching \"day of the LORD\" that brings judgment and upheaval appears elsewhere, notably in Amos 5:18–20 and in Isaiah 24:4–6, which also depicts the earth mourning and languishing.\nThe call for a fast and assembly parallels other cultic responses to national crisis found in the prophetic corpus (e.g., Joel 2:12–17 and similar calls in Jeremiah and Jonah).",
+  "seeAlso": [
+    "Exodus 10:12-15",
+    "Amos 5:18-20",
+    "Isaiah 24:4-6",
+    "Joel 2:12-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Introduction and Summons"
+    },
+    {
+      "range": "4-12",
+      "title": "Locust Devastation Described"
+    },
+    {
+      "range": "13-20",
+      "title": "Call to Fast and Lament"
+    }
+  ],
+  "themes": [
+    "Locust devastation",
+    "Lament and mourning",
+    "Day of the LORD",
+    "Cultic crisis"
+  ],
+  "practicalQuestions": [
+    "How should a faith community respond practically and spiritually to ecological or economic disaster?",
+    "What does collective fasting and public lament look like today, and when is it an appropriate response?",
+    "How do we care for the most vulnerable (farmers, herders, the poor) when essential livelihoods collapse?",
+    "How can the language of \"day of the LORD\" shape ethical urgency without promoting fear or fatalism?"
+  ],
+  "uncertainAreas": "Dating and historical setting of Joel are debated; the text mixes literal agricultural imagery and symbolic language, so it is uncertain whether the \"nation\" of verse 6 is a literal invading army or a figurative description of the locusts; likewise, the balance between ecological description and theological interpretation is open to different readings.",
+  "createdAt": "2025-11-04T13:58:46.249Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

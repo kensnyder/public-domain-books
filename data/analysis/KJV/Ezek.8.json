@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ezek.8",
+  "briefOverview": "A visionary tour in which Ezekiel is shown hidden idolatry inside Jerusalem's temple precincts and warned of imminent divine judgment. The chapter emphasizes religious corruption that provokes God to withdraw favor.",
+  "summary": "The prophet Ezekiel, in a vision, sees a figure like fire and is transported to Jerusalem, where he is shown the \"image of jealousy\" at the north gate and the presence of God's glory. He is led to a secret chamber in the temple wall filled with painted idols and finds seventy elders offering incense, apparently confident that the LORD does not see them. He is shown women mourning for Tammuz and a group of about twenty-five men who turn their backs on the temple to worship the sun toward the east. Each revelation is introduced with the refrain that greater abominations remain to be seen, underscoring escalating guilt. The chapter closes with God declaring that, because they have filled the land with violence and provoked him, he will act in fury and will not be moved by their cries.",
+  "externalContext": "Ezekiel prophesied from exile in Babylon in the late 7th/early 6th century BCE; the book reflects concerns about Jerusalem's temple cult and how its corruption justified the coming judgment (the historical fall of Jerusalem in 586 BCE). \"Tammuz\" is a Mesopotamian fertility/death-and-resurrection deity, and sun-worship and other foreign cultic elements were known features of Near Eastern religious life that could infiltrate Israelite religion. The presence of censers and incense in the vision suggests the involvement—actual or symbolic—of community leaders, not merely popular folk practices, indicating institutionalized syncretism.",
+  "externalReferences": "This chapter's motif of women performing foreign cultic rites has resonances with Jeremiah's denunciations of women's offerings and foreign cultic practices (see Jeremiah 7:17–20; Jeremiah 44:17–19). The specific charge of sun-worship echoes reforms described elsewhere in the Deuteronomistic history, e.g., the removal of horses or objects associated with sun-cults in 2 Kings 23:11. Ezekiel 8 functions as the narrative lead-in to the punitive scenes that follow in Ezekiel 9–11, where the prophet witnesses judgment executed in the city and the departure of God's glory from the temple.",
+  "seeAlso": [
+    "Jeremiah 7:17-20",
+    "Jeremiah 44:17-19",
+    "2 Kings 23:11",
+    "Ezekiel 9:1-11",
+    "Ezekiel 10:18-11:23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Vision and Arrival"
+    },
+    {
+      "range": "7-13",
+      "title": "Hidden Idols Revealed"
+    },
+    {
+      "range": "14-18",
+      "title": "Fertility/Sun Worship & Judgment"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Divine Presence",
+    "Judgment",
+    "Hypocrisy"
+  ],
+  "practicalQuestions": [
+    "Where might contemporary religious communities compromise core commitments in ways analogous to the temple syncretism Ezekiel condemns?",
+    "How should leaders respond when private or 'hidden' practices of a community contradict its public professions of faith?",
+    "What are modern equivalents of worshiping 'toward the east' or 'weeping for Tammuz'—rituals or loyalties that displace primary devotion?",
+    "How can awareness of communal injustice (\"they have filled the land with violence\") shape religious accountability today?"
+  ],
+  "uncertainAreas": "The precise identity of the \"image of jealousy\" is debated (possible Asherah pole or other cult-object), as is the exact nature of the Tammuz ritual described. It is not fully clear whether the elders' use of censers represents official temple rites or a parallel, tolerated cult. Some details (e.g., the symbolism of the north gate) admit multiple interpretations in scholarship.",
+  "createdAt": "2025-11-04T02:05:03.583Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

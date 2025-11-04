@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ezek.7",
+  "briefOverview": "Ezekiel announces the imminent, comprehensive judgment of God on Israel for widespread violence and idolatry, portraying disaster, exile, and the loss of sanctuary and wealth.",
+  "summary": "God tells Ezekiel that “the end” has come for the land of Israel and that divine anger will be poured out as recompense for the nation's abominations. The prophet depicts sudden and total calamity—violence, sword, pestilence, and famine—with people dying in field and city and survivors fleeing to the mountains in mourning. Social collapse is emphasized: hands and knees fail, people wear sackcloth, silver and gold cannot save them, and idolatrous ornaments and holy places are defiled. Foreigners will seize houses and spoil the land; leaders and priests lose authority and counsel; the people will seek peace and prophetic visions in vain. The chapter closes by affirming that God will judge them according to their ways so that they shall know that he is the LORD.",
+  "externalContext": "Ezekiel prophesied during the Babylonian exile (early sixth century BCE) after the Babylonian campaigns against Judah culminated in the destruction of Jerusalem and the temple (around 587 BCE). Prophets of this period commonly interpreted military defeat and exile as divine judgment for covenant unfaithfulness, especially idolatry and social injustice. Ezekiel himself is presented as a priest-prophet whose messages often link sacrilege in the sanctuary and societal violence to impending foreign invasion and loss of the cultic center.",
+  "externalReferences": "The themes of immediate punitive divine judgment and exile echo earlier and contemporary prophetic warnings, for example Jeremiah's announcements of Babylonian exile (Jeremiah 25:8–11) and the covenant curses listed in Deuteronomy (e.g., Deuteronomy 28:15–68) that tie national catastrophe to covenant breach. Within Ezekiel's own book, similar proclamations of destruction and the reasons for them appear in chapters 5–6 (see Ezekiel 5:11–17; 6:11–14), where judgment is likewise linked to idolatry and bloodshed.",
+  "seeAlso": [
+    "Ezekiel 5:11-17",
+    "Ezekiel 6:11-14",
+    "Jeremiah 25:8-11",
+    "Deuteronomy 28:15-68",
+    "Isaiah 13:6-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Announcement of the End"
+    },
+    {
+      "range": "11-22",
+      "title": "Calamity and Its Effects"
+    },
+    {
+      "range": "23-27",
+      "title": "Invasion and Collapse"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Idolatry",
+    "Exile",
+    "Destruction"
+  ],
+  "practicalQuestions": [
+    "What practices or possessions do modern communities treat as security that the text warns can fail in crisis?",
+    "How should communal leaders respond when social injustice and ritual corruption are identified as causes of public harm?",
+    "In what ways can communities nurture accountability without turning warnings into fatalism?",
+    "How ought members of a community to care for those who suffer when collective failures lead to disaster?"
+  ],
+  "uncertainAreas": "Some metaphors are ambiguous—phrases like “the rod hath blossomed,” “not the sounding again of the mountains,” and the precise identity of “the worst of the heathen” leave room for interpretation about whether the vision is strictly historical (Babylonian conquest) or has broader/eschatological application.",
+  "createdAt": "2025-11-04T02:04:25.866Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

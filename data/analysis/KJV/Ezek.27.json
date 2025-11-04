@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ezek.27",
+  "briefOverview": "A poetic lament over the wealthy maritime city of Tyre, cataloguing its riches and trading partners and announcing its catastrophic destruction and the mourning that will follow.",
+  "summary": "Ezekiel is commanded to pronounce a lamentation for Tyre, portrayed as a beautiful, island-based merchant power whose construction, materials, and artisans are described in detail. The chapter lists Tyre’s extensive trade network and the exotic goods and craftsmen that made it prosperous and famed among nations. The narrative then prophesies Tyre’s violent breaking by the sea and the sinking of its wealth, people, and ships in the day of its ruin. Finally, the text pictures widespread mourning: mariners, merchants, and kings will lament, rend garments and cast dust on their heads, and declare that no city like Tyre remains.",
+  "externalContext": "Tyre was a major Phoenician city-state on the eastern Mediterranean renowned in the first millennium BCE for shipbuilding, long-distance trade, and production of luxury goods such as timber, ivory, and purple dye (Tyrian purple). The prophet Ezekiel was active in the early sixth century BCE during the Babylonian exile; many biblical oracles against cities reflect geopolitical shifts of that period, especially the expansion of Babylonian power under Nebuchadnezzar II. Some place-names in the poem (e.g., Chittim, Tarshish, Elishah) reflect Mediterranean trade networks whose precise geographic identifications remain debated among scholars.",
+  "externalReferences": "This lament connects with other biblical oracles against Tyre and its ruler: Ezekiel 26 contains a related prophecy of siege and destruction, and Ezekiel 28 presents a lament and a pronouncement against the 'king of Tyre' with language about pride and downfall. Isaiah 23 is another prophetic oracle that depicts Tyre’s commercial prominence and eventual humiliation, showing that multiple prophetic traditions in the Hebrew Bible address Tyre’s wealth and vulnerability.",
+  "seeAlso": [
+    "Ezekiel 26",
+    "Ezekiel 28:12-19",
+    "Isaiah 23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Invocation and Charge"
+    },
+    {
+      "range": "4-25",
+      "title": "Catalogue of Riches"
+    },
+    {
+      "range": "26-36",
+      "title": "Destruction and Lament"
+    }
+  ],
+  "themes": [
+    "Judgment of nations",
+    "Pride and fall",
+    "Commerce and wealth",
+    "Lamentation"
+  ],
+  "practicalQuestions": [
+    "How should communities whose identity depends on wealth and trade prepare for sudden economic or political disruption?",
+    "In what ways can pride in material success blind a society to moral or structural weaknesses?",
+    "How can communities and individuals engage in communal mourning and rebuilding after economic collapse or catastrophe?",
+    "What ethical responsibilities do trading partners have toward communities that suffer decline or disaster?"
+  ],
+  "uncertainAreas": "Identification of some place-names (e.g., Gammadim, Chittim, Elishah, Tarshish) and precise historical referent(s) for the prophecy (e.g., the Babylonian siege(s) vs. later events) are uncertain; the poem also mixes literal and figurative language (ship imagery for a city), leaving room for interpretive variation.",
+  "createdAt": "2025-11-04T02:13:28.093Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

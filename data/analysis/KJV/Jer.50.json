@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.50",
+  "briefOverview": "An extended oracle pronouncing the LORD’s judgment on Babylon for its pride and oppression and promising the return and restoration of Israel and Judah.",
+  "summary": "The chapter opens with a public proclamation that Babylon (and its gods) will be overthrown by a force from the north; the prophet is commanded to announce this openly and to summon the nations against Babylon. The text links Babylon’s punishment to its violence and oppression of Israel and Judah, portraying God’s action as vindication for the exiled people and framing Israel as ‘lost sheep’ who will seek the LORD and be gathered again. Detailed imagery describes military siege, plunder, desertion, and complete desolation—walls fallen, treasures seized, waters dried up—and compares Babylon’s fate to Sodom and Gomorrah. The LORD promises to punish Babylon as he punished Assyria, to restore Israel to their lands, and to forgive the people’s sins. The chapter closes with a vision of the earth trembling at Babylon’s fall and the LORD’s purposes accomplished by even the least of the flock.",
+  "externalContext": "Jeremiah prophesied in the late 7th and early 6th centuries BCE during the rise of Babylonian power and the exile of Judah (the destruction of Jerusalem and the temple occurred in 586 BCE under Nebuchadnezzar). Babylon was the imperial center with a state cult that included gods such as Bel/Marduk, invoked in the text. Ancient Near Eastern military movements frequently came from northern regions (here often understood to point to the Medo-Persian coalition in later historiography), and prophetic oracles often pair announcements of foreign judgment with promises of future restoration for Israel.",
+  "externalReferences": "This oracle closely parallels and complements Jeremiah 51, which contains a related and overlapping denunciation of Babylon and similar imagery of plunder, idols broken, and complete desolation. Isaiah 13–14 contains an earlier prophetic oracle against Babylon that likewise depicts a violent overthrow and humiliation of Babylon’s king. The ‘lost sheep’ and shepherd imagery resonates with passages like Ezekiel 34:11–16, where God promises to seek and gather his scattered flock. The comparison to Sodom and Gomorrah echoes Genesis 19:24–25 as a canonical analogy for total divine destruction.",
+  "seeAlso": [
+    "Jeremiah 51",
+    "Isaiah 13:1-14:23",
+    "Ezekiel 34:11-16",
+    "Genesis 19:24-25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Proclaim Babylon's Fall"
+    },
+    {
+      "range": "17-33",
+      "title": "Reason: Oppression and Promise"
+    },
+    {
+      "range": "34-46",
+      "title": "Siege, Desolation, Restoration"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Restoration",
+    "Idolatry",
+    "Imperial pride"
+  ],
+  "practicalQuestions": [
+    "How should communities today interpret prophetic condemnations of empire and use them to assess contemporary political power and economic exploitation?",
+    "In what ways does the text link justice for the oppressed with communal repentance and seeking God, and how might that inform modern faith communities’ priorities?",
+    "What does the imagery of idols being broken and gods confounded suggest about confronting contemporary forms of ‘idolatry’ (e.g., wealth, nationalism)?",
+    "How can the promise of restoration for a scattered people shape pastoral care for refugees, exiles, and those recovering from trauma?"
+  ],
+  "uncertainAreas": "The precise identification of the invading ‘people from the north’ is not named in the chapter (historically various readers have seen Medes/Persians), and some images (total desolation, ‘no more inhabited for ever’) may be hyperbolic prophetic language rather than strictly literal forecasts. Names like Merathaim and Pekod are ancient place/people names whose exact geographic referents are debated.",
+  "createdAt": "2025-11-04T01:58:36.810Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

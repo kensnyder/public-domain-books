@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jer.26",
+  "briefOverview": "Jeremiah delivers a public temple prophecy warning of destruction unless the people repent; he is nearly executed but spared through legal debate and the protection of a royal official.",
+  "summary": "At the start of Jehoiakim’s reign Jeremiah is commanded to stand in the temple and pronounce Yahweh’s warning: if the people do not heed the prophets and return from their evil ways, the temple and city will be made like Shiloh. After speaking the full message the crowd—priests, prophets, and people—seize him and demand his death for prophesying the city’s destruction. Jeremiah appeals to the assembly to amend their ways and accepts their authority over his life, while warning that killing him would bring innocent blood upon the city because he was sent by the LORD. The leaders pause and declare he is not worthy of death. Elders recall Micah’s similar prophecy in Hezekiah’s time, noting that Hezekiah’s plea led God to relent, and they warn of bringing guilt on themselves. The chapter concludes by contrasting Urijah’s fate (seized and killed by Jehoiakim after fleeing to Egypt) with Jeremiah’s protection by Ahikam son of Shaphan.",
+  "externalContext": "Jehoiakim reigned in the late 7th/early 6th century BCE (after Josiah) during a period of political instability and increasing threat from Babylon. The reference to Shiloh evokes an older Israelite sanctuary that suffered ruin (narratives in Judges/1 Samuel associate Shiloh with the loss of the ark and divine judgment). Prophets regularly confronted kings and people in public spaces such as the temple; their fate often depended on political factions and the protection of influential patrons.",
+  "externalReferences": "The elders quote language similar to Micah 3:12, which predicts Zion will be plowed like a field and Jerusalem become heaps, a prophecy associated with the period of Hezekiah. The episode’s comparison to Hezekiah’s response and divine relenting resonates with narratives about Hezekiah’s plea and God’s reversal recorded in 2 Kings 20:1–6 (and Isaiah 38). The judgmental image of Shiloh recalls the earlier destruction/capture narratives found in 1 Samuel 4–7.",
+  "seeAlso": [
+    "Micah 3:12",
+    "2 Kings 20:1-6",
+    "1 Samuel 4:1-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Temple Judgment Pronounced"
+    },
+    {
+      "range": "7-15",
+      "title": "Arrest and Defense"
+    },
+    {
+      "range": "16-24",
+      "title": "Precedents and Protection"
+    }
+  ],
+  "themes": [
+    "Prophetic warning",
+    "Repentance",
+    "Judgment",
+    "Persecution"
+  ],
+  "practicalQuestions": [
+    "How should modern communities respond when voices warn of consequences for collective wrongdoing?",
+    "What practices can leaders adopt to protect truth-tellers who challenge popular or institutional interests?",
+    "In what ways might admitting wrongdoing and seeking reform change perceived or actual outcomes for a community?",
+    "How do we weigh calls for punishment against the possibility of repentance and restoration?"
+  ],
+  "uncertainAreas": "Motives behind the crowd’s initial call for execution (religious zeal, political rivalry, or fear) are not explicit. It is not fully clear whether the later rejection of execution reflects genuine repentance, political caution, or respect for legal procedure. Details surrounding Urijah’s flight to and retrieval from Egypt are summarized briefly and might be expanded in other sources.",
+  "createdAt": "2025-11-04T01:46:41.254Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

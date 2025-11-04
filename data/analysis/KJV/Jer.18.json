@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.18",
+  "briefOverview": "Jeremiah uses a potter’s workshop vision to teach that God shapes nations, with divine action responding to human repentance or sin. The chapter closes with Jeremiah confronting his opponents and praying for vindictive justice.",
+  "summary": "Jeremiah is sent to a potter’s house and watches a marred vessel remade, a vision used to teach that God, like a potter, has sovereign authority to shape or reshape nations (1–6). God declares that pronouncements of judgment or blessing are conditional: if a nation repents after a warning, God will relent; if a nation given blessing turns to evil, God will withdraw it (7–10). Jeremiah is commanded to warn Judah and Jerusalem to abandon evil ways, but the people stubbornly resolve to follow their own devices (11–12). Jeremiah accuses Israel of grievous idolatry and forgetting God, warning of desolation and scattering as the consequences (13–17). Finally, leaders conspire against Jeremiah for his message, and he pleads with God to remember their plots and execute severe judgment rather than pardon them (18–23).",
+  "externalContext": "The potter metaphor is a common image in the Ancient Near East for deity-human relations and appears elsewhere in Israelite literature; it communicates craft, authority, and contingency. Jeremiah prophesied during the late monarchic period of Judah (late 7th–early 6th century BCE), a time of political instability and looming imperial threats (Assyria, then Babylon), when prophetic warnings about covenant unfaithfulness were socially and politically contentious.",
+  "externalReferences": "The potter-theme echoes other biblical passages that reflect on divine sovereignty over creation and destiny (e.g., Isaiah 29:16; Romans 9:20–21 explicitly uses the potter/clay image). The chapter’s conditional language about God relenting when a people repent is paralleled by Jonah 3:10 and Ezekiel 18:23, 32, which present divine judgment as responsive to human turning. Jeremiah’s complaint about plots against him and his imprecatory plea find parallels elsewhere in the book (e.g., Jeremiah 20) and in prophetic laments where prophets ask God for vindication.",
+  "seeAlso": [
+    "Isaiah 29:16",
+    "Romans 9:20-21",
+    "Jonah 3:10",
+    "Ezekiel 18:23",
+    "Jeremiah 20:10-13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Potter's House Parable"
+    },
+    {
+      "range": "11-17",
+      "title": "Warning to Judah"
+    },
+    {
+      "range": "18-23",
+      "title": "Conspiracy and Plea"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Repentance and conditionality",
+    "Judgment",
+    "Prophetic persecution"
+  ],
+  "practicalQuestions": [
+    "How should the idea that divine action can respond to human repentance shape our approach to communal restoration and reform?",
+    "When facing leaders or institutions that resist correction, how can communities heed prophetic warnings without becoming fatalistic?",
+    "How do we balance calls for justice (including strong imprecations) with commitments to mercy and forgiveness today?",
+    "What responsibilities do bystanders have when a truth-teller is maligned or persecuted in public life?"
+  ],
+  "uncertainAreas": "The text uses anthropomorphic language about God 'repenting' or 'relenting,' which raises interpretive questions about whether these are literal descriptions of divine change or rhetorical/human ways of speaking about contingent divine responses. The identity and nuance of the phrase 'virgin of Israel' and some cultural references (e.g., snow of Lebanon imagery) allow multiple readings about who is addressed and the rhetorical force of the accusation. Jeremiah’s imprecatory prayers can be read as prophetic calls for deserved judgment or as anguished personal petitions; the text does not fully settle which reading is primary.",
+  "createdAt": "2025-11-04T01:43:02.960Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

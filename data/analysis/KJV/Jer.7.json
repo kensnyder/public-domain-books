@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jer.7",
+  "briefOverview": "Jeremiah confronts Judah for trusting the temple while practicing injustice and idolatry, warning that ritual without repentance will bring destruction.",
+  "summary": "Jeremiah is instructed to stand at the temple gate and proclaim that God demands genuine moral reform: justice between neighbors and protection of the stranger, widow, and orphan. He forbids relying on the temple’s name as a guarantee of safety and condemns the people for stealing, murdering, committing adultery, perjury, and worshiping other gods. God recalls the fate of Shiloh as a precedent and declares that because the people have ignored prophets and persisted in evil, the temple and the land will be treated as Shiloh was and the people will be cast out. Jeremiah is told not to intercede for the people because their sins—especially making offerings to the “queen of heaven” and burning children in Tophet—have provoked God’s anger. The chapter closes with graphic predictions of slaughter, corpses for birds and beasts, and the end of joy in the cities of Judah and streets of Jerusalem.",
+  "externalContext": "Jeremiah prophesied in the late 7th and early 6th centuries BCE, during the political turmoil that led to the Babylonian conquest and exile; many Israelites clung to the Jerusalem temple as a political and religious safeguard. Tophet (the valley of the son of Hinnom) was associated in ancient texts with child sacrifice and later rabbinic thought with the place of punishment (Gehenna). The “queen of heaven” reference likely points to a popular female deity (e.g., Astarte/Asherah) whose veneration coexisted with Yahwistic worship in some households.",
+  "externalReferences": "The comparison with Shiloh recalls the loss of Israel’s sanctuary and the capture of the ark in 1 Samuel 4:1–11 as a precedent for divine judgment against a misplaced trust in a shrine. The critique that ritual without obedience is worthless echoes covenant themes found in Deuteronomy (e.g., the blessings/curses framework of Deuteronomy 28) and prophetic calls for justice over sacrifice such as Micah 6:6–8. The “queen of heaven” cult is treated elsewhere in Jeremiah (see Jeremiah 44:17–19), and Tophet/Valley of Hinnom as a site connected with child sacrifice also appears in 2 Kings 23:10 and later in Jeremiah 19.",
+  "seeAlso": [
+    "1 Samuel 4:1-11",
+    "Jeremiah 44:17-19",
+    "Jeremiah 19",
+    "2 Kings 23:10",
+    "Deuteronomy 28:15-68",
+    "Micah 6:6-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Temple Gate Rebuke"
+    },
+    {
+      "range": "12-16",
+      "title": "Shiloh as Example"
+    },
+    {
+      "range": "17-34",
+      "title": "Idolatry and Doom"
+    }
+  ],
+  "themes": [
+    "False trust",
+    "Social justice",
+    "Idolatry",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "In what ways might we trust institutions or rituals as guarantees while neglecting ethical behavior, and how should that shape our practice?",
+    "How can communities ensure that worship is accompanied by justice for the vulnerable (strangers, widows, orphans) today?",
+    "When is it appropriate to stop interceding for a community that persists in harmful practices, and what alternatives remain for faithful protest or reform?",
+    "How should modern readers understand and respond to religious practices that coexist with harmful social behaviors?"
+  ],
+  "uncertainAreas": "Uncertainty remains about the precise historical forms of the “queen of heaven” cult in Jeremiah’s setting and whether references to child burning reflect systematic child sacrifice or polemical exaggeration of certain rites; dating the specific incidents behind the chapter’s denunciations and the exact judicial process by which Jeremiah was instructed not to pray are also open to scholarly debate.",
+  "createdAt": "2025-11-04T01:38:08.406Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Hos.10",
+  "briefOverview": "A prophetic indictment of Israel’s idolatry and misplaced trust, forecasting military defeat and urging return to God with an agricultural image of repentance.",
+  "summary": "The prophet describes Israel (Ephraim) as a vain, self-fruiting vine whose prosperity has produced more altars and images, and whose heart is divided, so divine judgment will break down their cult sites (1–8). Samaria and Bethel (Beth-aven) are singled out, with humiliation and gifts to Assyria promised and the king’s power likened to foam cut off (5–8). Historical sin from Gibeah is recalled, and a coming chastisement is announced as peoples gather against Israel (9–11). An imperative appears: 'Sow to yourselves in righteousness... break up your fallow ground' — a call to repentance and seeking the LORD so he may 'rain righteousness' — contrasted with the consequences of trusting military strength and lies (12–13). The chapter closes with graphic warnings of spoil and massacre like earlier Assyrian destructions, and a specific threat to Bethel because of great wickedness (14–15).",
+  "externalContext": "Hosea addresses the northern kingdom of Israel (often called Ephraim or Samaria) in the 8th century BCE, a period of political instability, competing cult centers (notably Bethel and Dan), and rising Assyrian pressure that culminated in the fall of Samaria (c. 740–722 BCE). The mention of calves and Bethel alludes to the rival sanctuary program begun under Jeroboam (1 Kings 12). Prophetic rhetoric here assumes a Near Eastern context where military defeats and deportations were read as divine punishment.",
+  "externalReferences": "The chapter echoes the golden-calf episode and rival sanctuaries described in 1 Kings 12:26–33 (calves at Bethel and Dan). The reference to violence at Gibeah recalls the atrocity and civil conflict narrated in Judges 19–21, used here as emblematic of longstanding moral failure. The Assyrian conquest and exile of Israel is discussed in 2 Kings 17 and provides historical background for the threats of spoil and deportation; the verse about 'Shalman' may allude to Assyrian campaigns (cf. inscriptions mentioning Shalmaneser), though the identification is debated.",
+  "seeAlso": [
+    "1 Kings 12:26-33",
+    "Judges 19-21",
+    "2 Kings 17",
+    "Hosea 6:1-3"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Idolatry and Political Collapse"
+    },
+    {
+      "range": "9-12",
+      "title": "Past Sins and Call to Repentance"
+    },
+    {
+      "range": "13-15",
+      "title": "Judgment and Destruction"
+    }
+  ],
+  "themes": [
+    "Idolatry",
+    "Judgment",
+    "Repentance",
+    "Leadership"
+  ],
+  "practicalQuestions": [
+    "In what ways do communities today 'increase altars'—that is, prioritize means of security or identity over ethical faithfulness?",
+    "How should leaders be held accountable when their counsel leads to communal harm, and what structures help prevent such failures?",
+    "What concrete practices correspond to 'sow to yourselves in righteousness' in a modern communal or personal context?",
+    "How ought communities to remember past atrocities (like Gibeah) so they inform present ethical commitments without becoming paralyzing guilt?"
+  ],
+  "uncertainAreas": "Identifications of named figures/events (e.g., 'Jareb', 'Shalman', 'Beth-arbel') are historically uncertain and debated among scholars. Some agricultural and legal metaphors (e.g., 'bind themselves in their two furrows') are difficult to interpret precisely and admit multiple plausible readings.",
+  "createdAt": "2025-11-04T13:56:29.779Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

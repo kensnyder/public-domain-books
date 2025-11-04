@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Jer.37",
+  "briefOverview": "The chapter contrasts popular political hope (Egyptic intervention) with Jeremiah’s divine warning of inevitable Babylonian victory, and records Jeremiah’s arrest, mistreatment, and reimprisonment under King Zedekiah.",
+  "summary": "King Zedekiah reigns in Judah but neither he nor the people heed Jeremiah. When Pharaoh’s army comes up from Egypt, the Babylonian besiegers temporarily lift the siege, prompting many to hope for rescue. God tells Jeremiah to announce that the Egyptian force will return to Egypt and that the Chaldeans (Babylonians) will return, capture, and burn Jerusalem; he warns against self-deception about Babylon’s departure. After the break in the siege, Jeremiah goes out among the people in Benjamin but is seized by a military captain (Irijah), accused of defecting to the Chaldeans, beaten, and imprisoned in the house of Jonathan the scribe. King Zedekiah secretly questions Jeremiah and receives confirmation that Jerusalem will fall to Babylon; Jeremiah pleads not to be returned to the dungeon. Zedekiah orders him transferred to the prison courtyard and given daily bread until the city’s supplies run out, where Jeremiah remains.",
+  "externalContext": "Historically this episode fits the late-7th/early-6th century BCE struggle between Egypt and Babylon for influence in the Levant; Babylon (under Nebuchadrezzar) had installed Zedekiah as a vassal after deposing Jehoiachin (Coniah). Egyptian intervention was a recurring hope among Judah’s leaders and populace, but Babylon ultimately completed the conquest of Jerusalem (c. 587–586 BCE). The term “Chaldeans” here refers to the Babylonian forces. Using a private official’s house as a detention place reflects ancient Near Eastern administrative practice rather than a formal prison system.",
+  "externalReferences": "The conflict between prophetic warnings about submission to Babylon and rival assurances appears elsewhere in Jeremiah, notably Jeremiah 28 where the false prophet Hananiah proclaims Babylon’s yoke will be broken. The eventual fall of Jerusalem and the fate of Zedekiah are narrated in Jeremiah 39 and in the historical account 2 Kings 24–25, which describe Babylon’s capture and the exile.",
+  "seeAlso": [
+    "Jeremiah 28:1-17",
+    "Jeremiah 38:6-28",
+    "Jeremiah 39:1-10",
+    "2 Kings 24:18-25:21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Egyptic Hope and Prophecy"
+    },
+    {
+      "range": "12-21",
+      "title": "Arrest and Imprisonment"
+    }
+  ],
+  "themes": [
+    "Prophetic warning",
+    "False security",
+    "Persecution",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "When leaders offer hopeful political solutions that conflict with moral or prophetic warnings, how should communities discern which counsel to follow?",
+    "How ought communities treat those who speak unwelcome truths—what protections or listening practices can prevent abuse and wrongful imprisonment?",
+    "What does it mean today to avoid ‘self-deception’ in assessing threats and relying on short-term relief?",
+    "How can individuals reconcile loyalty to political authorities with faithfulness to prophetic or ethical convictions?"
+  ],
+  "uncertainAreas": "Identities and motives of some actors (e.g., which Pharaoh intervened, the precise motivations of Irijah and the princes) are not specified in the text and rely on broader historical reconstruction. The phrase about Jeremiah ‘separating himself’ in Benjamin is somewhat ambiguous—possibly indicating voluntary movement among people or seeking safety—and the exact nature of the prison facility (house of Jonathan/the court) is open to interpretation.",
+  "createdAt": "2025-11-04T01:52:42.978Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

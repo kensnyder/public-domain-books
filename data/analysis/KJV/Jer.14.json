@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.14",
+  "briefOverview": "Jeremiah 14 depicts a severe drought and its social effects, paired with prophetic judgment against Judah and condemnation of false prophets. The chapter moves between communal lament, divine refusal of their supplication, and Jeremiah’s own griefful intercession.",
+  "summary": "Verses 1–6 describe a crippling drought: parched land, ashamed plowmen, and starving animals. In verses 7–9 the people plead with God, confessing sin yet appealing to God’s reputation as Israel’s hope. God replies (vv. 10–16) that because the people persist in wandering, he will not accept their fasts or offerings; Jeremiah is told not to pray for them, and false prophets who promise peace are denounced and judged. Verses 17–18 instruct Jeremiah to weep continually over the devastation—sword and famine—and to proclaim the widespread death and displacement. In verses 19–22 Jeremiah laments, asks whether God has utterly rejected Judah, confesses national sin, and urges God not to break his covenant, ending with a plea that God, who controls the rains, be their hope.",
+  "externalContext": "Jeremiah prophesied in late 7th/early 6th century BCE as Judah faced political collapse and eventual exile to Babylon; droughts and famines were real hazards that could also be read theologically as signs of divine judgment. The prophetic office at this time often involved confronting competing voices: court or popular 'prophets' promising peace versus critics like Jeremiah warning of judgment. Appeals to God’s name and covenant reflect longstanding Israelite treaty imagery where a deity’s reputation and promises shape ethical and cultic life.",
+  "externalReferences": "The theme of drought as divine judgment appears elsewhere (see Deuteronomy 28:23–24, which links agricultural curse to covenant disobedience). The narrative of prophetic control over rain and its reversal recalls Elijah’s drought and later prayer for rain (1 Kings 17; 18:41–46), though Jeremiah’s context and theological point differ. Jeremiah’s denunciation of false prophets parallels his later material in Jeremiah 23:16–22, where prophets who promise peace without repentance are condemned.",
+  "seeAlso": [
+    "Deuteronomy 28:23-24",
+    "1 Kings 17:1",
+    "1 Kings 18:41-46",
+    "Jeremiah 23:16-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Famine and Plea"
+    },
+    {
+      "range": "10-16",
+      "title": "Judgment on Prophets"
+    },
+    {
+      "range": "17-22",
+      "title": "Lament and Covenant Plea"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "False prophecy",
+    "Lament",
+    "Covenant"
+  ],
+  "practicalQuestions": [
+    "When a community faces disaster, how should confession and repentance be balanced with seeking practical relief?",
+    "How can we discern and respond to leaders or voices that promise easy peace in situations requiring accountability?",
+    "What does it mean today to appeal to the character or ‘name’ of a tradition or institution when asking for mercy?",
+    "How do we hold together lament (honest grief) and trust in a moral framework during collective suffering?"
+  ],
+  "uncertainAreas": "Uncertainty exists about whether the drought is intended primarily as a literal climatic event, a symbolic expression of judgment, or both. The specific identities and settings of the false prophets criticized are not given, making their social role and motivations partly ambiguous.",
+  "createdAt": "2025-11-04T01:41:07.864Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

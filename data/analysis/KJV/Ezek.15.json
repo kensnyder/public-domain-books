@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Ezek.15",
+  "briefOverview": "Ezekiel uses the image of a vine—worthless for timber and fit only for fuel—to illustrate God's verdict against Jerusalem and announce its destruction.",
+  "summary": "God asks rhetorically whether a vine is any better than other trees for making useful timber, then answers that it is not: when cast into the fire it is consumed and useless for work. By this simile God declares that the inhabitants of Jerusalem will be given over to fire and destruction; their city will pass from one consuming fire to another. The prophet presents this outcome as a direct act of God’s opposition—\"I will set my face against them\"—and concludes that the land will be made desolate because of their trespass.",
+  "externalContext": "Ezekiel prophesied during the early sixth century BCE in the context of the Babylonian exile; many of his oracles address Jerusalem’s impending fall and the reasons for exile. The vine or vineyard was a common agricultural and symbolic image in the ancient Near East and in Israelite prophetic literature, frequently used to represent the nation, its leaders, or its fruitfulness (or lack thereof). Fire as a motif commonly symbolizes judgment and destruction in this period.",
+  "externalReferences": "Isaiah 5:1–7 uses a vineyard metaphor to indict Israel for failing to produce justice and righteousness and announces its removal; the imagery and theme of a planted vine that fails God’s expectations is similar. Jeremiah 2:21 and Psalm 80:8–16 also use vine imagery to describe Israel’s origins and decline. In the New Testament Jesus reworks the vine image positively in John 15:1–6 (the true vine and abiding in the vine), a striking theological contrast to Ezekiel’s use of the vine as useless wood for burning.",
+  "seeAlso": [
+    "Isaiah 5:1-7",
+    "Jeremiah 2:21",
+    "Psalm 80:8-16",
+    "John 15:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Vine as Useless Wood"
+    },
+    {
+      "range": "6-8",
+      "title": "Judgment on Jerusalem"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Metaphor",
+    "Desolation",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "How does the image of being 'useful' or 'useless' apply to contemporary communities and institutions?",
+    "When a text speaks of God 'setting his face against' a people, how should modern readers balance warning and the call to repentance?",
+    "What practical steps can communities take to avoid the moral or social failures that prophetic literature links to divine judgment?",
+    "How does contrasting uses of the vine image (Ezekiel’s negative use vs. John 15’s positive use) affect our interpretation of religious metaphors?"
+  ],
+  "uncertainAreas": "The brief chapter leaves some ambiguity about whether the vine refers specifically to the city, its inhabitants collectively, or particular leaders; the text does not detail the precise offences beyond 'trespass.' The relationship of this short oracle to surrounding Ezekiel prophecies (its placement and function in the larger argument) is not explicit here.",
+  "createdAt": "2025-11-04T02:07:58.708Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

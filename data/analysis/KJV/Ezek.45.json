@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Ezek.45",
+  "briefOverview": "Ezekiel 45 prescribes the allotment of land and holy precincts, sets fair commercial measures, and specifies the offerings and festival duties of the prince and people in the restored cultic order.",
+  "summary": "The chapter gives precise dimensions for a holy portion of land containing the sanctuary and suburbs, and allocates adjacent parcels to priests, Levites, the city, and the prince. It admonishes Israel's leaders to cease oppression and prescribes honest weights and measures (ephah, bath, shekel). The text lists the required oblations from the people (grain, oil, and one lamb per two hundred) and assigns to the prince responsibility for providing sin, burnt, meal, and drink offerings at festivals, new moons, and sabbaths. Ritual instructions follow for cleansing the sanctuary on the first day of the first month and for Passover and a seven-day festival at the appointed times, specifying numbers and portions for daily offerings during the feasts.",
+  "externalContext": "Ezekiel's temple and land-division material appears in chapters 40–48, a distinctive exilic vision that reimagines temple cult and social order after the Babylonian destruction. The units named (cubit, reed, homer, ephah, bath, shekel, gerah) are ancient Near Eastern measures; modern equivalencies are debated among scholars. The figure called the \"prince\" in Ezekiel functions as a civic or cultic leader within the envisioned new order rather than necessarily matching Israel's earlier monarchic models.",
+  "externalReferences": "The temple and measurement material connects directly to Ezekiel 40–48, where similar plans and priestly rules reappear (see Ezekiel 40:1–4; 44:10–31). The chapter's prescriptions for Passover and festival offerings correspond to earlier legislation about Passover and appointed festivals (Exodus 12; Leviticus 23), while the injunction against dishonest weights and measures echoes Leviticus 19:35–36 and Deuteronomy 25:13–15.",
+  "seeAlso": [
+    "Ezekiel 40:1-4",
+    "Ezekiel 44:10-31",
+    "Exodus 12:1-20",
+    "Leviticus 23:4-8",
+    "Leviticus 19:35-36",
+    "Deuteronomy 25:13-15",
+    "Ezekiel 43:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Holy Land Allocation"
+    },
+    {
+      "range": "8-16",
+      "title": "Justice and Standard Measures"
+    },
+    {
+      "range": "17-25",
+      "title": "Princely Duties and Festivals"
+    }
+  ],
+  "themes": [
+    "Temple restoration",
+    "Justice",
+    "Ritual obligation",
+    "Sacred space"
+  ],
+  "practicalQuestions": [
+    "How should contemporary communities guard against leaders who exploit or exact unfair burdens, as warned in verse 9?",
+    "What lessons about economic fairness (honest weights and measures) can be applied to modern commerce and consumer protection?",
+    "In what ways can a religious community allocate resources to support clergy and communal worship today in light of the priestly and Levite provisions?",
+    "What does the chapter imply about the role of civic leaders in supporting public worship and reconciliation?"
+  ],
+  "uncertainAreas": "Exact modern equivalents for the ancient units (reed, homer, ephah, bath, shekel, gerah) and the literal versus symbolic status of Ezekiel's land-and-temple schema are debated. The precise social identity and political scope of the \"prince\" in this vision (cultic official, civic leader, or revived monarch) is also ambiguous in the text.",
+  "createdAt": "2025-11-04T02:21:54.630Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Jer.43",
+  "briefOverview": "A group of Judeans reject Jeremiah's warning and flee to Egypt; God then pronounces judgment on Egypt through a symbolic prophetic act about Nebuchadnezzar's coming invasion.",
+  "summary": "After Jeremiah finishes relaying all the LORD's words, several military leaders and prominent men accuse him of false prophecy and blame Baruch for urging them not to go to Egypt. Johanan and the soldiers ignore Jeremiah's warning and lead the remnant of Judah, including royal family members and those left by Nebuzar-adan, into Egypt, settling at Tahpanhes. While Jeremiah is in Tahpanhes the LORD instructs him to hide great stones in clay at the entry of Pharaoh's house as a sign. Jeremiah is to proclaim that God will send Nebuchadnezzar, his servant, who will set his throne on those stones and devastate Egypt—bringing death, captivity, and destruction, burning the houses of Egyptian gods and breaking their images. The oracle emphasizes total humiliation of Egyptian religion and political domination, concluding that Nebuchadnezzar will depart in peace after subjugating the land.",
+  "externalContext": "This episode is set in the aftermath of Jerusalem's fall (587/586 BCE) when some Judean survivors were left under Gedaliah's administration; historical pressure and fear of Babylonian vengeance drove many to seek refuge in Egypt. Tahpanhes (often identified with Daphnae in the northeastern Nile Delta) appears elsewhere in late biblical and extra-biblical sources as a refuge for fugitives. Jeremiah's scribe Baruch and the military leader Johanan are recurring figures in Jeremiah's narrative (Baruch as his recorder; Johanan as a commander who opposed Babylonian rule).",
+  "externalReferences": "This chapter is closely connected to the account in Jeremiah 42–44, where the remnant ask Jeremiah for guidance and then disobey the LORD by going to Egypt (cf. Jeremiah 42:1–22; 44:1–30). The judgment oracle against Egypt here echoes other Jeremiah oracles about Nebuchadnezzar's role as God's instrument (e.g., Jeremiah 25:9) and parallels broader prophetic denunciations of Egypt found in Jeremiah 46 and Isaiah 19. Baruch's role as Jeremiah's scribe is introduced earlier (Jeremiah 36), and Johanan appears in the narratives of chapters 40–41 as a military leader.",
+  "seeAlso": [
+    "Jeremiah 42:1-22",
+    "Jeremiah 44:1-30",
+    "Jeremiah 25:9",
+    "Jeremiah 46:13-28",
+    "Isaiah 19:1-4",
+    "Jeremiah 36:1-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Rejection and Flight"
+    },
+    {
+      "range": "8-13",
+      "title": "Prophecy Against Egypt"
+    }
+  ],
+  "themes": [
+    "Disobedience",
+    "Divine Judgment",
+    "Prophetic Sign",
+    "Exile"
+  ],
+  "practicalQuestions": [
+    "When leaders or peers dismiss warnings, how should one weigh prophetic or ethical counsel against political expediency?",
+    "What are the consequences—practical and moral—of seeking refuge elsewhere rather than facing responsibilities in one's community?",
+    "How do symbolic prophetic acts (like hiding stones) shape public understanding of political events today?",
+    "In what ways should religious communities respond when cultural or religious practices of their host society conflict with their commitments?"
+  ],
+  "uncertainAreas": "The precise nature and later historical fulfillment of the 'stones hidden in the clay' and the specific chronology of Nebuchadnezzar's actions at Tahpanhes are debated; the text is clear about the sign's meaning but historic links and archaeological confirmation are not specified here.",
+  "createdAt": "2025-11-04T01:55:22.837Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

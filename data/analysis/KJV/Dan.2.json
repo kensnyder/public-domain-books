@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Dan.2",
+  "briefOverview": "Nebuchadnezzar has a troubling dream that none of his court magicians can recount or interpret; Daniel receives the revelation from God, interprets the vision of successive empires, and proclaims the coming everlasting divine kingdom.",
+  "summary": "King Nebuchadnezzar demands his counselors both recount and interpret a dream; when they cannot, he orders the wise men killed. Daniel asks for time, prays with his three friends, and receives the secret in a night vision. He tells the king of a great image made of successive materials (head of gold, chest/arms of silver, belly/thighs of bronze, legs of iron, feet part iron/part clay) and of a stone cut without hands that destroys the image and becomes a mountain filling the earth. Daniel interprets the head of gold as Nebuchadnezzar's kingdom and the following parts as successive kingdoms, culminating in a divided kingdom (iron mixed with clay). He announces that ",
+  "externalContext": "Daniel is set in the Babylonian court (traditionally Nebuchadnezzar II, 6th century BCE) and reflects an ancient Near Eastern royal context in which rulers consulted court astronomers/wise men about omens and dreams. The court 'Chaldeans' and magicians functioned as interpreters of signs but typically required the dream itself to offer an interpretation; that expectation explains the king’s demand. The motif of divine revelation through dreams and the idea that foreign gods or seers cannot disclose certain secrets belong to longstanding Near Eastern religious practice; the narrative also functions as a court tale that affirms the God of Israel's sovereignty over imperial history.",
+  "externalReferences": "Daniel 7 presents a related vision using four beasts to symbolize successive empires and likewise culminates in an everlasting divine dominion (see Daniel 7:13–14). Daniel 4 recounts Nebuchadnezzar’s later humbling and his praise of God (Daniel 4:34–37), which echoes the king’s worship and confession here. Revelation 11:15 and other New Testament passages echo the theme of earthly kingdoms giving way to God's eternal rule, a theme Christians frequently link back to Daniel's vision.",
+  "seeAlso": [
+    "Daniel 4:34-37",
+    "Daniel 7:13-14",
+    "Revelation 11:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "The King's Demand"
+    },
+    {
+      "range": "14-23",
+      "title": "Prayer and Revelation"
+    },
+    {
+      "range": "24-49",
+      "title": "Dream Interpretation and Reward"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Empire succession",
+    "Revelation",
+    "Faithful prayer"
+  ],
+  "practicalQuestions": [
+    "When leaders demand impossible knowledge or solutions, how should advisors balance honesty, courage, and prudence?",
+    "How can a community practice corporate prayer and discernment when facing situations beyond their control?",
+    "What priorities follow from the claim that earthly powers are temporary compared with God's enduring rule?",
+    "How should recognition or rewards from authorities shape a believer's conduct and responsibilities in public service?"
+  ],
+  "uncertainAreas": "The text does not name the successor kingdoms; identifying the metals with specific historical empires (e.g., Medo-Persia, Greece, Rome) is a later interpretive tradition rather than an explicit claim in the chapter. There is also broader scholarly uncertainty about the book's date of composition and historical versus theological aims; I therefore avoided asserting later historical identifications as definitive.",
+  "createdAt": "2025-11-04T13:46:12.894Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

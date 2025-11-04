@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ezek.3",
+  "briefOverview": "Ezekiel is commissioned as a prophet among the exiles: he ingests a divinely given scroll, is appointed a watchman responsible to warn Israel, and is then constrained to silence until God permits speech.",
+  "summary": "God commands Ezekiel to eat a scroll, which tastes as sweet as honey, symbolizing internalizing God's message. He is sent expressly to the house of Israel (the exiles) who will resist and be hardhearted, and God fortifies Ezekiel against their opposition. Ezekiel is appointed a watchman charged with warning the wicked and the righteous alike: failure to warn makes the prophet culpable, while warning preserves the prophet's own responsibility. After a vision and seven days of stunned silence, God tells Ezekiel to shut himself in; he will be bound and made temporarily mute so he cannot speak to the people except when God opens his mouth to deliver messages. The chapter thus emphasizes prophetic vocation, the heavy responsibility of warning, and the paradox of speaking only when divinely enabled amid widespread stubbornness.",
+  "externalContext": "Ezekiel prophesied during the Babylonian exile (6th century BCE), among Judean captives living by the Kebar/Chebar canals in Babylon. Prophets often used symbolic actions (e.g., symbolic eats, sign-acts) to dramatize their message, and Mesopotamian settings and imagery (wheels, beasts) inform Ezekiel's visionary language. The role of a 'watchman' was an established Near Eastern image for one who warns a community of danger.",
+  "externalReferences": "The motif of 'eating a scroll' appears earlier in Ezekiel 2:8–3:3 and is echoed in the New Testament in Revelation 10:9–10, where John eats a little book that is sweet then bitter. The specific watchman instruction and its moral logic are developed later in Ezekiel 33:1–9, where failure to warn is reiterated. Jeremiah also confronts prophetic hardship and the consequences of delivering or withholding words of warning (see Jeremiah 15:19–21 for similar concerns about speaking and divine enablement).",
+  "seeAlso": [
+    "Ezekiel 2:8-3:3",
+    "Ezekiel 33:1-9",
+    "Revelation 10:9-10",
+    "Jeremiah 15:19-21",
+    "Isaiah 6:8-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Eating the Scroll"
+    },
+    {
+      "range": "17-21",
+      "title": "Watchman Responsibility"
+    },
+    {
+      "range": "24-27",
+      "title": "Bound and Silent"
+    }
+  ],
+  "themes": [
+    "Prophetic commission",
+    "Responsibility",
+    "Resistance",
+    "Divine sovereignty"
+  ],
+  "practicalQuestions": [
+    "When and how should I speak difficult truths to others in love, especially if they resist?",
+    "How do I discern responsibility for warning or intervening versus respecting another's freedom to refuse change?",
+    "What practices help internalize a message so it shapes words and actions (the 'eating the scroll' image)?",
+    "How should leaders respond when their calling involves speaking hard things but they are constrained or not permitted to speak?"
+  ],
+  "uncertainAreas": "Uncertainties include whether the bindings and muteness are meant as literal actions or purely symbolic sign-acts, the full extent of the 'house of Israel' intended (only the exiles or Israel broadly), and nuances of how contemporaries would have understood the 'watchman' juridical language without later Ezekiel 33 development.",
+  "createdAt": "2025-11-04T02:02:33.768Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

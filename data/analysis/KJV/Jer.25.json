@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jer.25",
+  "briefOverview": "Jeremiah proclaims that because Judah has persistently ignored prophetic warnings, God will use Nebuchadrezzar and the nations of the north to execute catastrophic judgment, bringing a period of desolation and exile. The chapter frames that judgment with the image of a divine 'cup' of wrath and universal disaster language.",
+  "summary": "Jeremiah opens with a dated oracle (Jehoiakim's fourth year) and reminds Judah that prophets have warned them from the reign of Josiah onward, but were ignored. Because of that persistent disobedience, God announces he will summon Nebuchadrezzar king of Babylon and the northern peoples to destroy the land and surrounding nations, bringing desolation and silencing ordinary life.\nThe exile is quantified as seventy years, after which God says he will punish Babylon for its iniquity. Jeremiah is commanded to present a 'cup of fury' for many nations to drink; the prophet complies and a long list of nations is named as recipients of this cup. The oracle closes with vivid images of nationwide and worldwide devastation—widespread slaughter, unburied corpses, shepherds and leaders cut down, and the land left desolate by the LORD's fierce anger.",
+  "externalContext": "The oracle fits the late monarchic period of Judah (early 6th century BCE) when Babylon under Nebuchadrezzar was ascending and made major incursions into Judah (notably 605 and 597 BCE), events that culminated in Jerusalem's fall in 586 BCE. Jeremiah's ministry spans the reigns of several Judean kings and addresses the social, religious, and political failures that prophets traditionally link to divine punishment. The notion of 'seventy years' becomes a central interpretive framework in later Jewish texts about the exile and return.",
+  "externalReferences": "The seventy-year exile is treated elsewhere in the Hebrew Bible (see Jeremiah 29:10 and 2 Chronicles 36:20–21), and Daniel 9:2 later uses a similar figure when reflecting on Jeremiah's prophecy. The cryptic name 'Sheshach' appears elsewhere as a cipher for Babylon (cf. Jeremiah 51:41), which helps explain the reference in verse 26. The 'cup' of divine wrath also echoes imagery elsewhere in the prophets and psalms where nations drink God's judgment (compare Isaiah 51:17; Psalm 75:8).",
+  "seeAlso": [
+    "Jeremiah 29:10",
+    "Jeremiah 51:41",
+    "2 Chronicles 36:20-21",
+    "Daniel 9:2",
+    "Isaiah 51:17",
+    "Psalm 75:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Warning and Sentence"
+    },
+    {
+      "range": "13-26",
+      "title": "Cup of Wrath; Nations"
+    },
+    {
+      "range": "27-38",
+      "title": "Universal Desolation Imagery"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Exile",
+    "Prophetic warning",
+    "Nations"
+  ],
+  "practicalQuestions": [
+    "How should a community respond today when long-standing warnings about moral or social failures go unheeded?",
+    "What does it mean theologically and ethically to say a foreign power is 'an instrument' of judgment, and how should that shape attitudes toward war and empire?",
+    "How can leaders be held accountable in ways that prevent the kinds of systemic failure described in the chapter?",
+    "In what ways might the 'seventy years' motif shape modern understandings of repentance, restoration, and historical responsibility?"
+  ],
+  "uncertainAreas": "The precise dating and scope of the 'seventy years' (when they begin and end) is debated; 'Sheshach' is commonly read as an Atbash cipher for Babylon but the text does not itself explain it; the extent to which the cataclysmic language (e.g., 'from one end of the earth to the other') is literal universal judgment or hyperbolic prophetic rhetoric is ambiguous.",
+  "createdAt": "2025-11-04T01:46:10.401Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

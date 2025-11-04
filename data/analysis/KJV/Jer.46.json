@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Jer.46",
+  "briefOverview": "A prophetic oracle announcing Babylon's defeat of Egypt and the coming humiliation of Pharaoh Necho, followed by a brief promise of preservation for Israel.",
+  "summary": "Jeremiah delivers a word against the army of Pharaoh-necho, picturing Egypt as mustering for battle but being routed by the north (Babylon) near the Euphrates. The oracle uses vivid military imagery—shields, chariots, floods, and axes—to describe overwhelming defeat, widespread flight, and the cutting down of Egypt's strength. Specific Egyptian cities (Migdol, Noph, Tahpanhes) are named as places to be warned, and the prophecy declares that Egypt and its gods and kings will be handed over to Babylon. The prophet says the day is one of the LORD's vengeance and that Egypt will be taken into captivity, although the land will later be inhabited as before. The chapter closes by addressing Israel directly: do not fear, for God will save Jacob from afar, correct but not utterly destroy Israel, and ultimately bring them rest.",
+  "externalContext": "Historically this oracle relates to the early 6th century BCE context in which Nebuchadrezzar of Babylon campaigned in the Levant and defeated Egyptian-affiliated forces (the battle at Carchemish is associated with this period). Pharaoh Necho II was the Egyptian ruler involved in conflicts over influence in Syria-Palestine; cities named in the text (Noph = Memphis, Tahpanhes = Daphnae) were important Egyptian centers. Prophetic speeches of this type often mix military description with theological interpretation—portraying political events as acts of divine judgment.",
+  "externalReferences": "This oracle echoes other prophetic judgments against Egypt, for example Isaiah 19:1–4 which announces the LORD riding on a swift cloud against Egypt, and Ezekiel 29:17–20 where Babylon is used as an instrument against Egypt and will receive spoil. Jeremiah himself returns to Egyptian themes in Jeremiah 43–44, where Tahpanhes is also mentioned in relation to Jewish fugitives who went to Egypt. The phrase \"day of the LORD\" and the combination of foreign conquest with divine vengeance is a common prophetic motif across these texts.",
+  "seeAlso": [
+    "Isaiah 19:1-4",
+    "Ezekiel 29:17-20",
+    "Jeremiah 43:8-13",
+    "Jeremiah 44:1-30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-26",
+      "title": "Oracle Against Egypt"
+    },
+    {
+      "range": "27-28",
+      "title": "Comfort for Israel"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "War and conquest",
+    "Divine sovereignty",
+    "Hope for Israel"
+  ],
+  "practicalQuestions": [
+    "How should communities interpret political upheaval in theological terms without excusing injustice?",
+    "When a text presents national punishment, how can individuals today balance acknowledgement of sin and the call to compassion for those who suffer?",
+    "What practices help a community maintain hope and identity when surrounded by more powerful forces?",
+    "How can the motif of corrective discipline (\"not a full end but correction in measure\") inform contemporary pastoral responses to suffering and reform?"
+  ],
+  "uncertainAreas": "Identification of some place-names (e.g., \"No\"/\"Noph\") and precise historical dating (the exact campaign sequence of Nebuchadrezzar and Pharaoh Necho) can be debated. The text's reference to \"their gods\" leaves open whether the focus is literal idols, foreign religious systems, or a rhetorical way of denouncing political-religious structures. The scope and timing of the promised restoration for Israel are stated briefly and leave room for interpretive variation.",
+  "createdAt": "2025-11-04T01:56:47.665Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

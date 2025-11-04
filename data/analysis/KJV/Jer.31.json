@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.31",
+  "briefOverview": "Jeremiah 31 promises Israel's restoration, comfort for mourners, and announces a future 'new covenant' in which God's law is internalized. The chapter balances images of divine compassion with concrete assurances about the restored city and land.",
+  "summary": "The LORD promises to be God to all Israel and to gather the remnant from exile, bringing them back with comfort, provision, and joy (1–14). Rachel's lament over her scattered children is acknowledged, but God commands consolation and promises return and restoration (15–18). Ephraim's repentance and God's tender, parental compassion are affirmed, calling Israel to return to its cities (19–23). God declares a decisive shift: after judgment He will both discipline and rebuild, ending the proverb about children suffering for their fathers' sins and instituting a new covenant in which God's law will be written on hearts and sins forgiven (24–34). The chapter concludes with cosmic-level assurances of Israel's enduring status before God and a vision of a permanently holy, measured Jerusalem and valley (35–40).",
+  "externalContext": "Jeremiah prophesied during the late 7th and early 6th centuries BCE, a time that included the fall of Jerusalem (586 BCE) and the Babylonian exile. Promises of return reflect the post-exilic hope for restoration common to prophetic literature and the real experience of displaced communities attempting to reestablish life and worship.",
+  "externalReferences": "The reference to the covenant \"in the day that I took them by the hand to bring them out of the land of Egypt\" alludes to the Sinai covenant traditions (see Exodus 19–24, especially covenant ceremonies in Exodus 24). Jeremiah's image of Rachel weeping is later quoted in Matthew 2:18 in connection with the massacre of infants; Genesis 35:19 recounts Rachel's death and burial and is the older narrative identifying Rachel with Israel's motherhood. The New Testament explicitly cites Jeremiah 31:31–34 (Hebrews 8:8–12) when discussing the promised new covenant, and Jesus' words at the Last Supper (Luke 22:20) connect to the theme of a \"new covenant.\"",
+  "seeAlso": [
+    "Exodus 19-24",
+    "Genesis 35:19",
+    "Matthew 2:18",
+    "Hebrews 8:8-12",
+    "Luke 22:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Restoration and Joy"
+    },
+    {
+      "range": "15-22",
+      "title": "Rachel's Lament and Hope"
+    },
+    {
+      "range": "23-40",
+      "title": "New Covenant and Jerusalem"
+    }
+  ],
+  "themes": [
+    "Restoration",
+    "Covenant",
+    "Compassion",
+    "Hope"
+  ],
+  "practicalQuestions": [
+    "How can communities today embody the reassurance and practical care (provision, comfort) promised in this chapter to those who are displaced or grieving?",
+    "What does the idea of God's law written on the heart (internalized ethics) suggest about the balance between external religious instruction and personal moral formation?",
+    "How should readers understand and respond to images of communal punishment and individual responsibility (vv. 29–30) in contemporary contexts?",
+    "In what ways can the promise of God remembering sins no more inform practices of forgiveness and reconciliation in church or civic life?"
+  ],
+  "uncertainAreas": "Interpretive uncertainties include the precise meaning of the phrase \"A woman shall compass a man\" (v. 22) and whether certain promises are immediate (post-exilic restoration) or eschatological/ultimate. The geographic-symbolic use of Ramah and Rachel raises questions about literal versus symbolic identification of locations and persons.",
+  "createdAt": "2025-11-04T01:48:59.019Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

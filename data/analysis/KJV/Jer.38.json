@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.38",
+  "briefOverview": "Jeremiah is arrested and thrown into a muddy dungeon for pro-Babylonian prophecies, rescued by Ebed-melech the Ethiopian, and privately counsels King Zedekiah to surrender to Babylon to save his life and the city.",
+  "summary": "Leading officials accuse Jeremiah of undermining the city's morale because he proclaims that those who stay will die while those who surrender to the Chaldeans will live; the king yields custody to them and Jeremiah is cast into a waterless, muddy dungeon. Ebed-melech the Ethiopian, a eunuch in the king's house, appeals to Zedekiah, and with thirty men lowers rags by rope to lift Jeremiah out and place him in the prison court. Zedekiah then secretly summons Jeremiah, swears he will not hand him over, and Jeremiah repeats the LORD's conditional message: if Zedekiah goes out to the Babylonian princes he will live and the city will not be burned; if he refuses, the city will be handed over and burned and Zedekiah will be captured. Zedekiah asks Jeremiah to keep this private; when the princes question Jeremiah he follows the king's direction, and he remains in the prison court until Jerusalem falls.",
+  "externalContext": "This episode is set during the final years of Judah (late 7th/early 6th century BCE) under siege by Nebuchadnezzar's Babylonian forces; Zedekiah was a vassal king whose reign was marked by competing political factions (those favoring resistance or alliance with Egypt versus submission to Babylon). Cisterns and dungeon-pits were common improvised prisons in ancient Near Eastern cities. Eunuchs and foreign officials like Ebed-melech (a Cushite) sometimes held trusted positions in royal households.",
+  "externalReferences": "The narrative connects with earlier detention scenes (see Jeremiah 37:15–21, where Jeremiah is questioned by officials and held in Jonathan son of Shaphan's custody) and with Jeremiah's repeated call to accept Babylonian rule (cf. Jeremiah 21:9; Jeremiah 27:12–15). The fate and reward of Ebed-melech are revisited after the fall of Jerusalem in Jeremiah 39:15–18, where Jeremiah assures him he will be spared for trusting the prophet.",
+  "seeAlso": [
+    "Jeremiah 37:15-21",
+    "Jeremiah 21:9-10",
+    "Jeremiah 27:12-15",
+    "Jeremiah 39:15-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Accusation and Imprisonment"
+    },
+    {
+      "range": "7-13",
+      "title": "Rescue by Ebed-melech"
+    },
+    {
+      "range": "14-28",
+      "title": "Zedekiah's Counsel"
+    }
+  ],
+  "themes": [
+    "Prophetic persecution",
+    "Surrender to Babylon",
+    "Compassionate intervention",
+    "Leadership hesitation"
+  ],
+  "practicalQuestions": [
+    "How should communities treat voices that warn unpopular truths about collective danger?",
+    "What responsibilities do insiders in positions of influence have to protect vulnerable truth-tellers today?",
+    "When is prudence (fear of political fallout) unjustifiable in the face of moral or prophetic counsel?",
+    "How can leaders balance personal safety, public opinion, and obedience to what they judge as right or divinely commanded?"
+  ],
+  "uncertainAreas": "The text leaves open Zedekiah's true intentions (whether he planned to obey or merely promise), the full motives of the princes who sought Jeremiah's death beyond 'weakening morale,' and some background details about Jonathan and the earlier custody that are only partially referenced here.",
+  "createdAt": "2025-11-04T01:53:25.516Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Ezek.40",
+  "briefOverview": "Ezekiel receives a detailed visionary tour of an idealized temple complex, with precise measurements and descriptions of gates, chambers, and ritual spaces.",
+  "summary": "In a dated vision the prophet is brought to a high place in the land of Israel where he meets a man with a measuring reed who commissions him to observe and report everything to the house of Israel. The man measures the outer walls, gates (especially the east gate), and a series of chambers and porches, giving exact dimensions in cubits and reeds. Ezekiel describes the layout of outer and inner courts, numbered chambers, windows, arches, steps, palm-tree ornamentation on posts, and areas for washing and slaughtering offerings. The text singles out the singers’ chambers and designates priestly areas for the sons of Zadok, and it concludes with measurements of the central court and the porch of the house. The focus is on order, symmetry, and specific priestly functions rather than on narrative action.",
+  "externalContext": "Ezekiel prophesied during the Babylonian exile; his visions are dated according to years of captivity and relative to Jerusalem’s fall. Temple descriptions here come after the prophetic denunciations of the destroyed Jerusalem temple and form part of a larger closing section (chapters 40–48) depicting a restored cultic center. Measurements use ancient units (cubit, reed); the exact length of these units varied, so precise modern dimensions are debated. The mention of the sons of Zadok points to a priestly lineage associated with legitimate temple service in postexilic priestly thought.",
+  "externalReferences": "This chapter begins the extended temple vision continued in Ezekiel 41–48, which develops the building’s interior (see Ezekiel 41) and regulations for priestly service (see Ezekiel 44). The return of divine glory to the temple is described later in Ezekiel 43:1–5, which helps interpret this architectural vision as connected to restoration. The temple’s architectural concern echoes earlier biblical temple descriptions such as Solomon’s temple in 1 Kings 6:2–38. The specific role and privilege of the Zadokite priests is developed further in Ezekiel 44:15–16.",
+  "seeAlso": [
+    "Ezekiel 41:1-26",
+    "Ezekiel 43:1-5",
+    "Ezekiel 44:15-16",
+    "1 Kings 6:2-38",
+    "Ezekiel 40:1-49"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Vision and Commission"
+    },
+    {
+      "range": "5-31",
+      "title": "Gates and Outer Courts"
+    },
+    {
+      "range": "32-49",
+      "title": "Inner Court and Porches"
+    }
+  ],
+  "themes": [
+    "Temple architecture",
+    "Divine order",
+    "Priestly service",
+    "Measurement"
+  ],
+  "practicalQuestions": [
+    "How does attention to ordered space in worship shape our understanding of holiness and communal life today?",
+    "In what ways can precise ritual roles (like those of the sons of Zadok) inform contemporary conversations about leadership and responsibility in religious communities?",
+    "What does valuing measurement and proportion teach about the relationship between material form and spiritual meaning?",
+    "How should readers balance a literal versus symbolic reading of elaborate sacred architecture when applying this vision to modern faith practice?"
+  ],
+  "uncertainAreas": "The text leaves uncertain whether the temple vision is meant primarily as a literal blueprint for a future building, an idealized symbolic construct, or a mixture of both. The exact lengths of the 'cubit' and 'reed' are historically variable, affecting attempts to convert dimensions into modern units. The identity of the measuring 'man' (angelic guide, cultic official, or visionary figure) is not explicitly defined in this chapter.",
+  "createdAt": "2025-11-04T02:19:42.415Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

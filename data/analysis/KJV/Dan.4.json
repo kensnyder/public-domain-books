@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Dan.4",
+  "briefOverview": "Nebuchadnezzar recounts a dream warning of divine judgment for pride, Daniel interprets it, and the king experiences humiliating punishment followed by restoration when he acknowledges God's sovereignty.",
+  "summary": "King Nebuchadnezzar has a terrifying dream about a great tree that feeds all and reaches heaven. Daniel (Belteshazzar) interprets the tree as the king himself and announces a divine decree: Nebuchadnezzar will be driven from men, live like an animal, and lose his reason for 'seven times' to learn that the Most High rules over human kingdoms. Daniel advises the king to repent—practice righteousness and mercy—to prolong his prosperity. About a year later the king boasts of Babylon’s greatness; a voice pronounces the judgment and it is immediately fulfilled. Nebuchadnezzar endures the predicted humiliation until, at the end of the period, he lifts his eyes to heaven, his sanity and status are restored, and he praises and honors God.",
+  "externalContext": "Nebuchadnezzar II was a historical Neo-Babylonian king (late 7th–early 6th century BCE) known from both biblical accounts and Babylonian inscriptions; the book frames events in a royal court setting where dreams and court interpreters were culturally significant. The concept of divine beings (watchers/holy ones) issuing decrees reflects ancient Near Eastern interest in celestial intermediaries and divine legitimization of kingship. The phrase 'seven times' likely functions as a symbolic period (often interpreted as years) in ancient literature, though its precise length is debated.",
+  "externalReferences": "This chapter links back to Daniel 2, where Daniel previously interprets Nebuchadnezzar’s dream about empires and divine sovereignty (Daniel 2:1–49), continuing the theme of God directing earthly kingdoms. The 'watchers' and the heavenly judgment motif are also present in Daniel 7 (see especially 7:9–10), and the theme of a proud ruler brought low echoes passages criticizing the king of Babylon such as Isaiah 14:12–15 and the account of Belshazzar in Daniel 5.",
+  "seeAlso": [
+    "Daniel 2:1-49",
+    "Daniel 7:9-14",
+    "Daniel 5:1-31",
+    "Isaiah 14:12-15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Dream and Vision"
+    },
+    {
+      "range": "19-27",
+      "title": "Interpretation and Warning"
+    },
+    {
+      "range": "28-37",
+      "title": "Judgment and Restoration"
+    }
+  ],
+  "themes": [
+    "Divine sovereignty",
+    "Pride and humbling",
+    "Repentance and restoration",
+    "Prophetic interpretation"
+  ],
+  "practicalQuestions": [
+    "In positions of power today, how can leaders guard against pride and recognize limits to their authority?",
+    "What concrete acts of righteousness and mercy (as Daniel advises) might help prevent or repair abuses of power in our communities?",
+    "How should communities respond when a public figure shows genuine repentance and change?",
+    "What practices help individuals 'lift their eyes'—turn to larger moral or spiritual realities—during times of personal failure?"
+  ],
+  "uncertainAreas": "The exact meaning and duration of the 'seven times' is ambiguous (literal years vs. symbolic period). The identity and precise role of the 'watcher' and 'holy ones' blend biblical and broader Near Eastern imagery and are open to interpretation. The chapter’s historical presentation (whether a firsthand royal inscription or theological reflection) cannot be settled from the text alone.",
+  "createdAt": "2025-11-04T13:47:09.738Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jer.23",
+  "briefOverview": "Jeremiah condemns failed leaders and false prophets while promising a future, righteous Davidic shepherd who will gather and protect the scattered people.",
+  "summary": "The chapter opens with a denunciation of Israel’s leaders—pastors, prophets, and priests—who have scattered and failed to care for God's flock, and it promises that God will regather the remnant and raise up faithful shepherds. A future 'righteous Branch' from David is foretold who will reign, bring justice, and secure the people, called 'The LORD our Righteousness.' Jeremiah laments the prevalence of corrupt and deceitful prophets whose false assurances have misled the people and compares their conduct to the moral ruin of Sodom and Gomorrah. God disavows the unauthorized prophets, declares that their messages are self-originated dreams or stolen words, and pronounces judgment on them. The chapter closes with an indictment of those who claim to speak 'the burden of the LORD,' announcing that God will forget and forsake the city and bring perpetual reproach as punishment.",
+  "externalContext": "Jeremiah prophesied in the late 7th and early 6th centuries BCE during Judah’s final decades before the Babylonian exile (circa 627–586 BCE). The imagery of shepherds and a Davidic 'Branch' draws on long-standing royal and prophetic motifs in Israelite religion that associate the Davidic line with legitimate leadership. False prophecy was a real social problem in ancient Near Eastern courts and communities; Deuteronomic law provided procedures for testing prophets (e.g., Deut. 18:20–22). The reference to bringing back people 'out of the north country' echoes historical dispersions of Israel and Judah under Assyrian and Babylonian dominance.",
+  "externalReferences": "The promise of a 'Branch' from David echoes Isaiah 11:1–5’s image of a righteous shoot from Jesse and other texts that foresee a future righteous ruler. The shepherd motif and God’s role in seeking and feeding the flock are strongly parallel to Ezekiel 34:11–16, where God condemns bad shepherds and promises to shepherd his people himself. Jeremiah’s claim that God will be remembered as the one who led people from the north and regathered them recalls the Exodus motif of God bringing Israel out of Egypt (e.g., Exodus 12) and uses that language to describe future restoration; the denunciation of false prophets also connects with Deuteronomy 18:20–22’s criteria for discerning true prophecy.",
+  "seeAlso": [
+    "Isaiah 11:1-5",
+    "Ezekiel 34:11-16",
+    "Deuteronomy 18:20-22",
+    "Jeremiah 33:15-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Condemnation and Promise"
+    },
+    {
+      "range": "9-15",
+      "title": "Lament over Prophets"
+    },
+    {
+      "range": "16-40",
+      "title": "False Prophecy and Judgment"
+    }
+  ],
+  "themes": [
+    "False prophecy",
+    "Leadership failure",
+    "Divine judgment",
+    "Messianic hope"
+  ],
+  "practicalQuestions": [
+    "How should religious and civic communities today hold leaders accountable to prevent harm like the 'scattering' described here?",
+    "What criteria can individuals and congregations use to discern faithful teaching versus self-serving or 'dream'-based messages?",
+    "How does the promise of future restoration shape responses to communal trauma or exile in contemporary contexts?",
+    "When leaders give false reassurance, what constructive steps can communities take to restore trust and pursue justice?"
+  ],
+  "uncertainAreas": "The precise referent of 'the north country' can be read historically (Assyrian/Babylonian exile) or more broadly as any place of dispersion. The extent to which the 'righteous Branch' is meant as an immediate post-exilic leader versus a distant/eschatological figure is debated; the text supports both a near restoration hope and a larger messianic expectation. It is also not always clear whether the condemned prophets were self-deceived or deliberately deceitful; Jeremiah attributes both false speech and theft of words.",
+  "createdAt": "2025-11-04T01:45:08.243Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jer.52",
+  "briefOverview": "A historical appendix recounting Jerusalem’s fall, the fate of its last king and priests, the carrying off of temple treasures, and the eventual release of Jehoiachin from Babylonian prison.",
+  "summary": "The chapter records Zedekiah’s eleven-year reign and his rebellion against Babylon, followed by Nebuchadnezzar’s siege of Jerusalem, the city’s starvation, and Zedekiah’s capture after fleeing. His sons and principal officials are executed before him, and Zedekiah is blinded and taken in chains to Babylon. Nebuzar‑adan burns the temple, the royal palace, and many houses, levels Jerusalem’s walls, and carries off the temple’s bronze and precious vessels and many captives while leaving some poor people to work the land. The chapter gives numbers for successive deportations and concludes with the release and elevation of Jehoiachin (Jeconiah) by Evil‑merodach, who provides him a regular allowance for the remainder of his life.",
+  "externalContext": "Historically this material reflects the late 7th/early 6th century BCE Babylonian conquest of Judah under Nebuchadnezzar II and the common imperial practices of deportation and appropriation of temple treasuries. Riblah, where judgments were executed, was a Babylonian military center in the Orontes valley; Nebuzar‑adan is known in biblical sources as the Babylonian captain of the guard. The destruction of Jerusalem, traditionally dated to 586 BCE, is the watershed event behind the Judean exile and shapes subsequent prophetic and priestly literature.",
+  "externalReferences": "This chapter closely parallels the account in 2 Kings 25:1–12 and 25:27–30, which give the same core events and the note about Jehoiachin’s release. Jeremiah 39:1–14 contains an earlier version of the account of Zedekiah’s capture and Nebuchadnezzar’s actions against Jerusalem. Ezekiel’s opening chapters and Ezekiel 24 also situate the exile and the siege in Babylonian dating formulas and reflect the communal trauma of the destruction.",
+  "seeAlso": [
+    "Jeremiah 39:1-14",
+    "2 Kings 25:1-12",
+    "2 Kings 25:27-30",
+    "Ezekiel 24:1-2",
+    "2 Chronicles 36:17-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Zedekiah's Reign Condemned"
+    },
+    {
+      "range": "4-27",
+      "title": "Siege, Capture, and Destruction"
+    },
+    {
+      "range": "28-34",
+      "title": "Deportations and Jehoiachin's Release"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Exile",
+    "Temple destruction",
+    "Leadership accountability"
+  ],
+  "practicalQuestions": [
+    "How should communities remember and respond to institutional failure or moral leadership collapse today?",
+    "What practical steps can be taken to care for those displaced or impoverished after communal trauma, in light of the text’s concern for the poor left behind?",
+    "How do we balance justice and mercy in dealing with leaders who have brought harm on a community, considering Zedekiah’s severe punishment and Jehoiachin’s later restoration?",
+    "What is the significance of sacred objects and symbols for a community when the institutions that housed them are destroyed, and how should modern communities preserve or reinterpret such heritage?"
+  ],
+  "uncertainAreas": "Dating and exact regnal-year correlations depend on external chronological assumptions; the relationship between this chapter and parallel accounts (e.g., 2 Kings) raises questions about redactional layering and whether this chapter functions as a historical appendix rather than original prophetic material. Exact tallies of deportees may reflect literary conventions rather than comprehensive census data.",
+  "createdAt": "2025-11-04T01:59:23.286Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

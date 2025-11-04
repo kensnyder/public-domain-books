@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Ezek.32",
+  "briefOverview": "Ezekiel 32 pronounces a harsh oracle against Pharaoh and Egypt, using striking images of slaughter and burial to depict the nation's downfall. It concludes with a funeral-lament that places Pharaoh among the slain nations in Sheol.",
+  "summary": "God commands Ezekiel to lament for Pharaoh, who is portrayed as a proud predator and a whale that fouled the waters. The LORD promises to entrap and cast him out, leaving his carcass to the birds and beasts and turning waters red with blood; cosmic imagery (darkened stars, sun and moon obscured) underscores the scale of judgment. The prophet identifies Babylon’s sword as the instrument of this destruction and declares the devastation of Egypt’s military and animals. The oracle shifts into a lament that catalogs nations in the netherworld—Asshur, Elam, Meshech, Tubal, Edom, the princes of the north, and the Zidonians—emphasizing that these mighty fallen now lie uncircumcised and ashamed among the slain. Pharaoh is pictured as finding a grim consolation in seeing other defeated armies, yet he is still laid among the uncircumcised, showing that his power is ended and that the LORD’s terror has been wielded in the land of the living.",
+  "externalContext": "Ezekiel is an exilic prophet whose oracles are dated by years spent in Babylon; many scholars connect these prophecies to late 7th–early 6th century BCE conflicts when Babylonian power overwhelmed Egypt-influenced states. The prophetic genre here draws on funeral-lament (qinah) language and common ancient Near Eastern motifs of kings cast down and given over to scavengers. The motif of being ‘uncircumcised’ functions as a marker of foreignness and shame from an Israelite perspective.",
+  "externalReferences": "This chapter continues a sequence of Ezekiel oracles against Egypt (see especially Ezekiel 29–31) and echoes other prophetic judgments on Egypt such as Isaiah 19 and Jeremiah 46. The depiction of rulers lying in Sheol with other kings recalls Isaiah 14:9–11, where the fallen king of Babylon is addressed as among the shades; the explicit naming of Babylon’s sword points historically to Babylonian campaigns (e.g., Nebuchadnezzar) though the text itself treats the event with poetic and theological emphasis rather than precise historical narration.",
+  "seeAlso": [
+    "Ezekiel 29:1-16",
+    "Ezekiel 31:1-18",
+    "Isaiah 19:1-5",
+    "Jeremiah 46:25-28",
+    "Isaiah 14:9-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Oracle Against Pharaoh"
+    },
+    {
+      "range": "17-32",
+      "title": "Lament: Descent to Sheol"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Imperial Pride",
+    "Sheol/Death",
+    "Divine Sovereignty"
+  ],
+  "practicalQuestions": [
+    "How should communities respond when national or corporate pride leads to harm—what forms of communal lament or accountability are appropriate?",
+    "In what ways does the image of powerful leaders laid low inform our thinking about the limits of political power and moral responsibility?",
+    "How can ritual lament (public grieving) help societies process collective loss or injustice today?",
+    "What does the text’s emphasis on God bringing foreign powers to account suggest for contemporary understandings of justice and international ethics?"
+  ],
+  "uncertainAreas": "Uncertainty about the precise historical referent—which Pharaoh or specific campaign is intended—and how literally to read the catalogue of fallen nations (historical report versus poetic assembly). Also ambiguous is the theological nuance of Pharaoh being \"comforted\" by others' defeat even as he remains shamed; the text mixes historical, symbolic, and liturgical elements.",
+  "createdAt": "2025-11-04T02:15:47.983Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

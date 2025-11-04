@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Ezek.43",
+  "briefOverview": "Ezekiel 43 describes the return of YHWH’s glory to a future temple and gives detailed instructions for the altar’s dimensions and its purification, emphasizing divine dwelling among a purified Israel.",
+  "summary": "The prophet is brought to the east gate where the glory of the LORD returns into the temple, filling the house and declaring it the place of his throne and permanent dwelling among Israel. God rebukes Israel for previously defiling his name by idolatry and the corpses of their kings, calls them to put away these abominations, and commands Ezekiel to show the temple plan to shame them into repentance. The chapter then shifts to technical cultic instructions: it gives precise measurements for the altar (using cubits and spans), prescribes procedures for cleansing and consecrating the altar, and assigns sacrificial rites over a seven-day period. The priests of Zadok are designated to minister, and after the seven days normal offerings may resume with God’s acceptance on the eighth day.",
+  "externalContext": "Ezekiel was a priest-prophet among exiles in Babylon (6th century BCE) after the Jerusalem temple’s destruction (586 BCE). Chapters 40–48 present an idealized temple vision, often read by scholars as both a liturgical/architectural program and a theological statement about divine presence and communal purity during/after exile. The Zadokite priesthood reflects a tradition of priests associated with Jerusalem’s legitimate cult (cf. 1 Kings 1–2) and later Second Temple priestly concerns.",
+  "externalReferences": "The motif of the divine glory departing and later returning relates to earlier Ezekiel visions where the glory leaves the temple (Ezekiel 10:18–11:23) and to the promise of God dwelling among his people in Ezekiel 37:27. The cultic consecration and purification rites recall priestly instructions in Leviticus (e.g., Leviticus 8–9 for priestly consecration and Leviticus 16 for purification rites), while the special role given to the Zadokites echoes 1 Kings 1–2 where Zadok appears as the legitimate priestly figure.",
+  "seeAlso": [
+    "Ezekiel 10:18-11:23",
+    "Ezekiel 37:27",
+    "Ezekiel 40:1-4",
+    "Ezekiel 44:15-16",
+    "Leviticus 8:1-36",
+    "Leviticus 16:1-34",
+    "1 Kings 1:32-40"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Return of Divine Glory"
+    },
+    {
+      "range": "13-27",
+      "title": "Altar Measurements and Purification"
+    }
+  ],
+  "themes": [
+    "Divine presence",
+    "Purity and holiness",
+    "Cultic order",
+    "Restoration"
+  ],
+  "practicalQuestions": [
+    "What practical steps can a community take to remove practices that profane its core commitments and thus make space for renewed communal life?",
+    "How should contemporary religious communities balance concern for proper forms of worship with the deeper aim of moral and spiritual repentance?",
+    "What leadership structures and standards (like the Zadokite role here) help protect communal integrity, and how can they be applied responsibly today?",
+    "How can symbolic or architectural practices (sacred space, ritual patterns) serve as pedagogical tools to call people to accountability and transformation?"
+  ],
+  "uncertainAreas": "The text’s intention—whether these temple dimensions and cultic rules are meant as literal, buildable architecture for a post-exilic temple or as a symbolic/theological blueprint—remains debated. Precise measurements depend on the ancient cubit’s length, which is uncertain. The exact historical identity and continuity of the 'sons of Zadok' as a distinct priestly group in the exilic/post-exilic period is also not fully determinable from this chapter alone.",
+  "createdAt": "2025-11-04T02:21:02.069Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

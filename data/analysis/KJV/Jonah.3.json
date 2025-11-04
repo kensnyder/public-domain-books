@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Jonah.3",
+  "briefOverview": "God renews Jonah’s commission to preach to Nineveh; Jonah obeys, the city repents, and God withholds the threatened judgment.",
+  "summary": "God speaks to Jonah a second time and commands him to go to Nineveh and announce the message God gives him. Jonah obeys and enters the very large city, proclaiming, “Yet forty days, and Nineveh shall be overthrown.” The people of Nineveh believe God: from the greatest to the least they fast, put on sackcloth, and the king issues a decree calling all people (and even animals) to abstain and to turn from violence. The king’s proclamation urges prayer and humble repentance, asking whether God might relent. God sees their turning from evil and ‘repents’ of the planned punishment, choosing not to bring the disaster he had threatened.",
+  "externalContext": "Nineveh was the capital of the Neo-Assyrian empire and a major ancient Near Eastern metropolis; its size and political power made it a natural object of prophetic pronouncements and a traditional enemy of Israel. Rituals like fasting, wearing sackcloth, and sitting in ashes were common ancient Near Eastern and Israelite gestures of mourning, humility, and penitence. The episode’s focus on a foreign city’s repentance and on God’s relenting fits wider prophetic concerns about covenantal behavior, justice, and divine responsiveness to human turning.",
+  "externalReferences": "The language of God relenting or ‘repenting’ of judgment parallels other biblical passages where divine intentions change in response to human action, for example Exodus 32:14 (God relents after Moses' intercession) and Jeremiah 18:7–10 (God declaring that he will change his mind if a nation repents). The call to communal fasting and return to God echoes prophetic summonses such as Joel 2:12–13. The later prophetic book Nahum explicitly announces Nineveh’s destruction, showing that this reprieve in Jonah is not the final word about the city.",
+  "seeAlso": [
+    "Jonah 1:1-3",
+    "Exodus 32:14",
+    "Jeremiah 18:7-10",
+    "Joel 2:12-13",
+    "Nahum 1:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Renewed Commission"
+    },
+    {
+      "range": "4-10",
+      "title": "Preaching and Repentance"
+    }
+  ],
+  "themes": [
+    "Repentance",
+    "Divine Mercy",
+    "Prophetic Obedience",
+    "Judgment"
+  ],
+  "practicalQuestions": [
+    "How should communities today demonstrate genuine repentance for violence and injustice in ways that mirror the Ninevites’ communal action?",
+    "When called to speak difficult truths to others (especially outsiders), how can we balance courage and humility as Jonah eventually does?",
+    "What does it mean for leaders to model repentance, and how can leaders set a tone that encourages communal change?",
+    "How ought we to understand or respond to the biblical idea that God can change course in response to human repentance?"
+  ],
+  "uncertainAreas": "The text’s anthropomorphic phrasing that God ‘repented’ raises theological questions about divine immutability versus responsiveness; the sincerity and completeness of Nineveh’s repentance are not spelled out beyond the public actions; the decree’s inclusion of animals may be hyperbolic or ritualistic rather than literal.",
+  "createdAt": "2025-11-04T14:06:19.117Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

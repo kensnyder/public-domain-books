@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Ezek.4",
+  "briefOverview": "Ezekiel performs dramatic sign-acts portraying Jerusalem’s siege and the coming punishment: enforced starvation, exile, and ritual defilement as consequences of Israel’s sin.",
+  "summary": "God instructs Ezekiel to model the siege of Jerusalem by drawing the city on a tile, building siege works, and positioning an iron barrier between himself and the model. He is told to lie on his left side 390 days for the iniquity of Israel and then on his right side 40 days for Judah, with each day representing a year. Ezekiel is bound so he cannot turn, symbolizing the fixed nature of the siege, and is commanded to eat a severely rationed diet and drink measured water. He is ordered to bake bread using human dung to demonstrate how Israelites will eat defiled food among the nations to which they are driven. When Ezekiel objects on grounds of ritual purity, God permits cow’s dung instead. The chapter closes with the announcement that God will break the “staff of bread,” causing scarcity and mutual dread because of their iniquity.",
+  "externalContext": "Ezekiel prophesied during the early Babylonian exile (early 6th century BCE) after the first deportations from Judah; his messages frequently use symbolic, performative acts. Ancient Near Eastern siege warfare—building ramps, camps, and battering rams—was a familiar reality, and the book’s imagery echoes the historical Babylonian threat that culminated in Jerusalem’s fall in 587/586 BCE. Measurements such as the shekel (weight) and hin (liquid measure) reflect contemporaneous units for rationing food and water. Ritual purity laws in the Torah prohibited eating animals that died of themselves or were torn by beasts, so the order to use human excrement as fuel touches a culturally sharp taboo.",
+  "externalReferences": "The day-for-a-year principle appears elsewhere in the Hebrew Bible, most explicitly in Numbers 14:34 (Israel’s punishment counted by a year for each day). Laws forbidding eating animals that die of themselves or are torn by beasts are set out in Leviticus (see Leviticus 17:15 and Leviticus 11 for the general purity framework), which helps explain Ezekiel’s protest about being defiled. The motif of siege, famine, and exile is narrated historically in 2 Kings 25:1–12 and Jeremiah 52:4–11, which recount the Babylonian siege and fall of Jerusalem and the resulting deportations.",
+  "seeAlso": [
+    "Numbers 14:34",
+    "Leviticus 17:15",
+    "Leviticus 11:39-40",
+    "Ezekiel 5:1-17",
+    "2 Kings 25:1-12",
+    "Jeremiah 52:4-11"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Enacting Jerusalem's Siege"
+    },
+    {
+      "range": "9-17",
+      "title": "Rations, Defilement, Famine"
+    }
+  ],
+  "themes": [
+    "Judgment",
+    "Prophetic sign-acts",
+    "Siege and exile",
+    "Ritual purity"
+  ],
+  "practicalQuestions": [
+    "How should modern communities interpret prophetic symbolic actions—are there contemporary equivalents that communicate moral or social warnings?",
+    "What responsibilities do societies have to prevent the social consequences (famine, displacement) that result from collective wrongdoing?",
+    "How do ritual purity concerns shape responses to crisis, and what does the text suggest about negotiating ethical limits under duress?",
+    "When a text depicts harsh divine judgment, how can readers balance justice, mercy, and pastoral care in applying its lessons today?"
+  ],
+  "uncertainAreas": "The precise historical referent and dating for the 390 and 40 years is debated (whether strictly chronological or symbolic). The substitution of cow’s dung for human dung may reflect a legal concession or a narrative device; its practical and cultic implications are not spelled out. The chapter’s symbolic actions are vivid but leave open exactly how they were received by contemporaries and how literally they were meant to be taken.",
+  "createdAt": "2025-11-04T02:03:09.774Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

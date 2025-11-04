@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Dan.7",
+  "briefOverview": "Daniel records an apocalyptic vision of four beasts rising from the sea, a heavenly courtroom scene, and the vindication of God's people through the coming of a divine 'Son of man.' The chapter focuses on the rise and fall of oppressive kingdoms and the eventual transfer of everlasting dominion to the saints.",
+  "summary": "Daniel dreams of four great, distinct beasts arising from the sea (vv. 2–8): a winged lion, a bear with three ribs, a four‑winged four‑headed leopard, and a terrifying fourth beast with iron teeth and ten horns. Among the ten horns a little horn grows, uproots three horns, speaks arrogantly, and persecutes the holy people (vv. 8, 20–22). The scene shifts to a heavenly courtroom where the Ancient of Days takes his seat, thousands serve him, books are opened, and judgment is pronounced (vv. 9–12). The violent fourth beast is destroyed by fire, though the other beasts have their dominion temporarily taken away (vv. 11–12, 23–26). Daniel then sees “one like a son of man” approaching the Ancient of Days and receiving everlasting dominion and a universal kingdom for the saints (vv. 13–14, 18, 27). Disturbed by the visions, Daniel asks for interpretation and is told the beasts represent four kings/kingdoms and that, despite temporary oppression, the saints will ultimately possess an eternal kingdom (vv. 15–17, 24–27).",
+  "externalContext": "Daniel is written in apocalyptic genre, using vivid symbolic imagery (beasts, horns, heavenly court) familiar to ancient Near Eastern prophetic literature. Many modern scholars date the final composition of Daniel to the 2nd century BCE, during the Hellenistic period, when Jewish communities faced persecution under Seleucid rule, which influences readings that connect the 'little horn' with Antiochus IV Epiphanes. Within the literary setting the book presents its material as coming from the Babylonian exile (6th century BCE), a technique that lends authority and historical framing to later prophetic-apocalyptic concerns.",
+  "externalReferences": "The vision resonates with Daniel 2:31–45, where four successive kingdoms are symbolized by parts of a statue and likewise end in God’s everlasting kingdom. Daniel 8:9–12 and Daniel 11:36–45 contain parallel hostile‑king imagery and more specific historical detail about a blasphemous ruler who persecutes the holy ones, often linked to the little horn. The title 'one like a son of man' is later picked up in the Gospels (e.g., Mark 14:61–62) where Jesus uses it in a heavenly/eschatological context.",
+  "seeAlso": [
+    "Daniel 2:31-45",
+    "Daniel 8:9-12",
+    "Daniel 11:36-45",
+    "Mark 14:61-62",
+    "Revelation 13:1-10",
+    "Ezekiel 1:4-28"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Beasts from the Sea"
+    },
+    {
+      "range": "9-12",
+      "title": "Heavenly Courtroom"
+    },
+    {
+      "range": "13-28",
+      "title": "Son of Man and Interpretation"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Oppressive kingdoms",
+    "Messianic vindication",
+    "Persecution and hope"
+  ],
+  "practicalQuestions": [
+    "How does the promise that the saints will ultimately possess the kingdom shape responses to present political or social oppression?",
+    "In what ways can symbolic, apocalyptic language help contemporary communities articulate hope under persecution?",
+    "What does the image of the 'Ancient of Days' teach about divine authority and governance in contrast to earthly rulers?",
+    "How should modern readers discern when to interpret prophetic images historically, theologically, or symbolically?"
+  ],
+  "uncertainAreas": "Identification of the four beasts and especially the 'little horn' is debated (ancient Israelite kingdoms, successive empires, or a specific Hellenistic ruler such as Antiochus IV). The exact meaning of the time phrase 'a time and times and the dividing of time' is ambiguous and has multiple interpretive traditions. The nature and full significance of the 'son of man' figure raises Christological and messianic questions that vary by religious tradition.",
+  "createdAt": "2025-11-04T13:48:33.161Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}
