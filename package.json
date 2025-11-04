@@ -1,9 +1,24 @@
 {
-  "name": "public-domain-books",
+  "name": "scripture-tools",
   "version": "1.0.0",
-  "description": "Repository of Public Domain book-chapter-verse texts",
-  "main": "dist/index.js",
+  "description": "Functions for working with scripture OSIS Identifiers and citations",
   "type": "module",
+  "engines": {
+    "bun": ">=1.2.0"
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.cjs",
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.mjs"
+      }
+    }
+  },
   "scripts": {
     "lint": "biome lint .",
     "format": "biome format .",
@@ -16,20 +31,24 @@
     "build:cjs": "bun build ./index.ts --bundle --platform=node --format=cjs --outfile=dist/index.cjs",
     "build:gzip-size": "echo 'gzipped savings and size:' && gzip -cv dist/index.mjs | wc -c"
   },
-  "tags": ["Bible", "Apocrypha", "Scripture", "Open Source Books", "Public Domain Books"],
-  "dependencies": {
+  "files": [
+    "README.md",
+    "dist",
+    "data/compiled"
+  ],
+  "tags": ["OSIS","Bible", "Apocrypha", "Scripture", "Open Source Books", "Public Domain Books"],
+  "devDependencies": {
     "@ai-sdk/openai": "2.0.53",
     "@ai-sdk/provider": "2.0.0",
     "@biomejs/biome": "2.2.6",
     "@xmldom/xmldom": "0.8.11",
     "ai": "5.0.76",
     "bun-types": "1.3.0",
-    "lru-cache": "11.2.2",
-    "zod": "4.1.12"
-  },
-  "devDependencies": {
     "jszip": "3.10.1",
-    "typescript": "5.9.3"
+    "lru-cache": "11.2.2",
+    "type-fest": "5.2.0",
+    "typescript": "5.9.3",
+    "zod": "4.1.12"
   },
   "private": true
 }

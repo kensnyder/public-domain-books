@@ -6,8 +6,6 @@ import KJV from '../../data/verses/KJV.json' with { type: 'json' };
 import KJVA from '../../data/verses/KJVA.json' with { type: 'json' };
 import PGP from '../../data/verses/PGP.json' with { type: 'json' };
 import works from '../../data/works/works.json' with { type: 'json' };
-import getChapterCount from '../../src/lib/getChapterCount.ts';
-import getVerseCounts from '../../src/lib/getVerseCounts.ts';
 import type { RawBookShape, VerseShape } from '../../src/types/data-shapes.ts';
 
 const verses = {
@@ -19,8 +17,12 @@ const verses = {
   PGP: PGP.verses as VerseShape[],
 };
 
-const tsDest = Bun.file(`${import.meta.dir}/../../src/data/allData.ts`);
-const jsonDest = Bun.file(`${import.meta.dir}/../../data/metadata.json`);
+const tsDest = Bun.file(
+  `${import.meta.dir}/../../src/data/compiled/books-and-works.ts`,
+);
+const jsonDest = Bun.file(
+  `${import.meta.dir}/../../data/compiled/books-and-works.json`,
+);
 const s = (v: any) => JSON.stringify(v, null, 2);
 
 const booksWithData = (books as unknown as RawBookShape[])
@@ -39,8 +41,8 @@ const booksWithData = (books as unknown as RawBookShape[])
     traditions: [], //b.traditions,
     dateEarliest: b.dateEarliest,
     dateLatest: b.dateLatest,
-    chapterCount: getChapterCount(b.bookOsisID, verses[b.workOsisID]),
-    verseCounts: getVerseCounts(b.bookOsisID, verses[b.workOsisID]),
+    chapterCount: b.chapterCount,
+    verseCounts: b.verseCounts,
   }));
 
 const jsonData = {
@@ -128,11 +130,16 @@ for (const [nameUpper, bookIdxs] of Object.entries(groups)) {
   output.push(`  ],`);
 }
 output.push(`};`);
+output.push(`
+for (const book of books) {
+  const work = worksLookup[book.workOsisID];
+  if (!work.books) {
+    work.books = [];
+  }
+  work.books.push(book);
+  books.work = work;
+}
+`);
 // write it all
 await tsDest.write(output.join('\n'));
-await jsonDest.write(
-  s({
-    books,
-    works,
-  }),
-);
+await jsonDest.write(s(jsonData));

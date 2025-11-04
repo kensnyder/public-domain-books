@@ -4,14 +4,14 @@ export { default as parseCitation } from 'src/tools/parseCitation.ts';
 export { default as parseVerseRange } from 'src/tools/parseVerseRange.ts';
 export { default as parseVerseRangeWithContext } from 'src/tools/parseVerseRangeWithContext.ts';
 export { default as verseOsisIDToCitation } from 'src/tools/verseOsisIDToCitation.ts';
+export { default as osisToHuman } from 'src/tools/osisToHuman.ts';
 export type {
   BookShape,
   WorkShape,
   VerseShape,
   AnalysisShape,
-  ChapterShape,
   VerseDataFileShape,
 } from 'src/types/data-shapes.ts';
 export {
   works, worksLookup, books, booksLookup, groupsLookup
-} from 'src/data/allData.ts';
+} from 'data/compiled/books-and-works.ts';

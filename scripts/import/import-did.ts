@@ -1,32 +1,22 @@
 import { DOMParser } from '@xmldom/xmldom';
-import books from '../../data/books/books.json' with { type: 'json' };
-
-const ymd = new Date().toISOString().slice(0, 10);
-
-const ourData: OurData[] = [];
-type OurData = {
-  workOsisID: string;
-  bookOsisID: string;
-  bookGroups: string[];
-  chapterNumber: number;
-  chapterTitle: string;
-  chapterOsisID: string;
-  verseNumber: number;
-  verseOsisID: string;
-  verseText: string;
-  verseLanguage: string;
-  verseSequence: number;
-  importDate: string;
-};
+import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
+import getJsonWorkByName from '../../src/lib/getJsonWorkByName.ts';
+import type {
+  VerseDataFileShape,
+  VerseShape,
+} from '../../src/types/data-shapes.ts';
 
 main().catch(console.error);
 async function main() {
   const start = Date.now();
+  const verses: VerseShape[] = [];
 
-  const res = await fetch(
-    'https://www.pseudepigrapha.com/LostBooks/didache.html',
-  );
-  const workOsisID = 'Didache';
+  const work = getJsonWorkByName('Didache');
+  if (!work) {
+    throw new Error('Unable to find "Didache" in our works list');
+  }
+  const url = 'https://www.pseudepigrapha.com/LostBooks/didache.html';
+  const res = await fetch(url);
   if (!res.ok) {
     throw new Error(`Failed to fetch didache: HTTP ${res.status}`);
   }
@@ -37,29 +27,38 @@ async function main() {
     b.textContent = '----';
     return title.trim().replace(/\s+/g, ' ');
   });
-  Array.from(doc.getElementsByTagName('CENTER')).forEach((c) =>
-    c.parentNode!.removeChild(c),
-  );
+  Array.from(doc.getElementsByTagName('CENTER')).forEach((c) => {
+    c.parentNode!.removeChild(c);
+  });
   const allText = doc.getElementsByTagName('body')[0].textContent;
-  const verses = allText
+  const textSections = allText
     .split('----')
     .map((t) => t.trim())
     .filter(Boolean)
     .map((t) => t.replace(/\s+/g, ' '));
 
-  const did = books.find((book) => book.osisID === 'Did');
-  const bookOsisID = 'Did';
-  const bookGroups = did!.groups;
-  for (let i = 0, len = verses.length; i < len; i++) {
+  const book = getJsonBookByName('Did');
+  if (!book) {
+    throw new Error(`Unable to find the "Did" in our books list`);
+  }
+  const workOsisID = work.workOsisID;
+  const bookOsisID = book.bookOsisID;
+  const bookGroups = book.groups;
+  const traditions = book.traditions;
+  const authors = book.authors;
+  for (let i = 0, len = textSections.length; i < len; i++) {
+    if (!titles[i]) {
+      throw new Error(`Unable to find a title for Chapter ${i}`);
+    }
     const chapterNumber = i + 1;
     const verseNumber = 1;
     const chapterTitle = titles[i];
     const chapterOsisID = `Did.${i + 1}`;
     const verseOsisID = `Did.${i + 1}.1`;
-    const verseText = verses[i];
+    const verseText = textSections[i];
     const verseLanguage = 'en';
     const verseSequence = i + 1;
-    ourData.push({
+    verses.push({
       workOsisID,
       bookOsisID,
       bookGroups,
@@ -71,15 +70,32 @@ async function main() {
       verseText,
       verseLanguage,
       verseSequence,
-      importDate: ymd,
+      authors,
+      traditions,
     });
   }
 
+  const data: VerseDataFileShape = {
+    work: {
+      ...work,
+      bookCount: 1,
+    },
+    compiledAt: new Date().toISOString().slice(0, 10),
+    sources: [url],
+    books: [
+      {
+        ...book,
+        chapterCount: 16,
+        verseCounts: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      },
+    ],
+    verses,
+  };
   await Bun.file(`${import.meta.dir}/../../data/verses/Didache.json`).write(
-    JSON.stringify(ourData, null, 2),
+    JSON.stringify(data, null, 2),
   );
   console.log(
-    `Wrote ${ourData.length} Didache verses to data/verses/Didache.json`,
+    `Wrote ${verses.length} Didache verses to data/verses/Didache.json`,
   );
   console.log(`Took ${Date.now() - start}ms`);
 }

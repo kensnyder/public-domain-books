@@ -5,7 +5,7 @@ export type RawBookShape = {
   bookOsisID: string;
   bookName: string;
   bookSubtitle: string;
-  paratext: string;
+  paratext: string | null;
   aliases: string[];
   groups: string[];
   authors: string[];
@@ -17,6 +17,7 @@ export type RawBookShape = {
   hasData: boolean;
 };
 export type BookShape = Merge<RawBookShape, {
+  work: WorkShape;
   chapterCount: number;
   verseCounts: number[];
 }>;
@@ -27,7 +28,8 @@ export type RawWorkShape = {
   aliases: string[];
 };
 export type WorkShape = Merge<RawWorkShape, {
-  chapterCount: number;
+  books: BookShape[];
+  bookCount: number;
 }>;
 export type VerseShape = {
   workOsisID: string;
@@ -41,6 +43,8 @@ export type VerseShape = {
   verseText: string;
   verseLanguage: string;
   verseSequence: number;
+  authors: string[];
+  traditions: string[];
 };
 export type AnalysisShape = {
   briefOverview: string;
@@ -51,10 +55,6 @@ export type AnalysisShape = {
   sectionTitles: string[];
   themes: string[];
   practicalQuestions: string[];
-};
-export type ChapterShape = {
-  chapterNumber: number;
-  chapterLabel: string;
 };
 export type VerseDataFileShape = {
   work: WorkShape;

@@ -1,8 +1,10 @@
 import process from 'node:process';
-import getBookByName from '~/lib/getBookByName.ts';
 import getChapterCount from '~/lib/getChapterCount.ts';
-import getWorkByName from '~/lib/getWorkByName.ts';
+import getBookByName from '~/lib/getJsonBookByName.ts';
+import getWorkByName from '~/lib/getJsonWorkByName.ts';
 import books from '../../data/books/books.json' with { type: 'json' };
+import getVerseCounts from '../../src/lib/getVerseCounts.ts';
+import type { VerseShape } from '../../src/types/data-shapes.ts';
 
 main().catch(console.error);
 
@@ -12,20 +14,6 @@ type RemoteData = {
   verse_number: string;
   book_title: string;
   scripture_text: string;
-};
-
-type OurData = {
-  workOsisID: string;
-  bookOsisID: string;
-  bookGroups: string[];
-  chapterNumber: number;
-  chapterTitle: string;
-  chapterOsisID: string;
-  verseNumber: number;
-  verseOsisID: string;
-  verseText: string;
-  verseLanguage: string;
-  verseSequence: number;
 };
 
 async function main() {
@@ -47,7 +35,7 @@ async function main() {
   let verseSequence = -1;
   let lastWorkTitle = '';
   let workOsisID = '';
-  const data: OurData[] = [];
+  const data: VerseShape[] = [];
   for (const verse of verses) {
     const ourTitle =
       verse.volume_long_title === 'The Old Testament' ||
@@ -97,6 +85,8 @@ async function main() {
       verseText,
       verseLanguage,
       verseSequence,
+      authors: book.authors,
+      traditions: book.traditions,
     });
 
     verseSequence++;
@@ -105,7 +95,7 @@ async function main() {
   console.log('Done writing data to ../data/verses/*.json');
   console.log(`Took ${Date.now() - start}ms`);
 
-  async function writeJson(workOsisID: string, verses: OurData[]) {
+  async function writeJson(workOsisID: string, verses: VerseShape[]) {
     const ymd = new Date().toISOString().slice(0, 10);
 
     const writeTo = `${import.meta.dir}/../../data/verses/${workOsisID}.json`;
@@ -125,6 +115,7 @@ async function main() {
         chapterLabel: b.chapterLabel,
         verseLabel: b.verseLabel,
         chapterCount: getChapterCount(b.bookOsisID, verses),
+        verseCounts: getVerseCounts(b.bookOsisID, verses),
       }));
     const data = {
       work,

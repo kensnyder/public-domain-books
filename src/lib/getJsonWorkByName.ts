@@ -1,5 +1,5 @@
 import { LRUCache } from 'lru-cache';
-import works from '../../data/works/works.json';
+import works from '../../data/works/works.json' with { type: 'json' };
 
 type Work = (typeof works)[number];
 
@@ -7,7 +7,7 @@ const cache = new LRUCache<string, Work>({
   max: 5000,
 });
 
-export default function getWorkByName(name: string) {
+export default function getJsonWorkByName(name: string) {
   const lowerName = name.toLowerCase();
 
   const cached = cache.get(lowerName);

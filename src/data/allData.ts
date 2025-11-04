@@ -2660,7 +2660,7 @@ export const booksLookup : Record<string, (typeof b)[number]> = {
   "DOCTRINE & COVENANTS": b[101],
   "THE DOCTRINE AND COVENANTS": b[101],
 };
-export const groupsLookup : Record<string, typeof b> = {f
+export const groupsLookup : Record<string, typeof b> = {
   "OLD TESTAMENT": [
     b[0],
     b[1],

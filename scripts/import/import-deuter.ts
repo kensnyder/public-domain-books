@@ -1,4 +1,12 @@
-import metadata from '../../data/books/books.json' with { type: 'json' };
+import process from 'node:process';
+import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
+import getBookByName from '../../src/tools/getBookByName.ts';
+import getWorkByName from '../../src/tools/getWorkByName.ts';
+import type {
+  BookShape,
+  RawBookShape,
+  VerseShape,
+} from '../../src/types/data-shapes.ts';
 
 const baseUrl =
   'https://raw.githubusercontent.com/rodolfoapps/Deuter-Apocrypha/4e4ecb3da87fb736e2a18a10463664b487bcb5d9';
@@ -16,7 +24,7 @@ const flatHandler = (item: any) => ({
 const flatFinder = (root: any) => root;
 
 // biome-ignore format: be compact
-const works = [
+const bookHandlers = [
   { url: `${baseUrl}/1-esdras-flat.json`, name: '1 Esdras', handler: refTextHandler, finder: refTextFinder },
   { url: `${baseUrl}/2-esdras-flat.json`, name: '2 Esdras', handler: refTextHandler, finder: refTextFinder  },
   { url: `${baseUrl}/1-maccabees-flat.json`, name: '1 Maccabees', handler: flatHandler, finder: flatFinder },
@@ -33,40 +41,32 @@ const works = [
   { url: `${baseUrl}/wisdom-of-solomon-flat.json`, name: 'Wisdom', handler: refTextHandler, finder: refTextFinder  },
 ]
 
-const ymd = new Date().toISOString().slice(0, 10);
-
-const ourData: OurData[] = [];
-type OurData = {
-  workOsisID: string;
-  bookOsisID: string;
-  bookGroups: string[];
-  chapterTitle: string;
-  chapterNumber: number;
-  chapterOsisID: string;
-  verseNumber: number;
-  verseOsisID: string;
-  verseText: string;
-  verseLanguage: string;
-  verseSequence: number;
-  importDate: string;
-};
+const ourData: VerseShape[] = [];
+const books: RawBookShape[] = [];
 
 main().catch(console.error);
 async function main() {
   const start = Date.now();
-  for (const work of works) {
-    console.log(`Fetching data from ${work.url.split('/').pop()}`);
-    const res = await fetch(work.url);
-    console.log(`Processing ${work.name}...`);
+  for (const bookHandler of bookHandlers) {
+    const book = getJsonBookByName(bookHandler.name);
+    if (!book) {
+      throw new Error(
+        `Unable to find book "${bookHandler.name}" in our book list`,
+      );
+    }
+    books.push(book);
+    console.log(`Fetching data from ${bookHandler.url.split('/').pop()}`);
+    const res = await fetch(bookHandler.url);
+    console.log(`Processing ${bookHandler.name}...`);
     if (!res.ok) {
       console.error(res);
       return;
     }
     const data = await res.json();
-    const verses = work.finder(data);
+    const verses = bookHandler.finder(data);
     let verseSequence = 1;
     for (const verse of verses) {
-      const { ref, text } = work.handler(verse);
+      const { ref, text } = bookHandler.handler(verse);
       const parts = ref.split(/[ :]/);
       if (parts[1] === 'Prologue') {
         parts[0] = 'Sirach Prologue';
@@ -75,18 +75,14 @@ async function main() {
       const verseNumber = parseInt(parts.pop(), 10);
       const chapterNumber = parseInt(parts.pop(), 10);
       const givenName = parts.join(' ');
-      const meta = metadata.find(
-        (m) => m.name === givenName || m.aliases.includes(givenName),
-      );
-      if (!meta) {
-        console.log(`Unable to find bookName=${givenName}`);
-        process.exit(1);
-      }
-      const bookOsisID = meta.osisID;
-      const bookGroups = meta.groups;
+      const bookOsisID = book.bookOsisID;
+      const bookGroups = book.groups;
       const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
       const verseOsisID = `${bookOsisID}.${chapterNumber}.${verseNumber}`;
-      const chapterTitle = parts[0] === 'Sirach Prologue' ? 'Prologue' : `Chapter ${chapterNumber}`;
+      const chapterTitle =
+        parts[0] === 'Sirach Prologue'
+          ? 'Prologue'
+          : `Chapter ${chapterNumber}`;
       const verseText = text;
       const verseLanguage = 'en';
       ourData.push({
@@ -101,15 +97,28 @@ async function main() {
         verseText,
         verseLanguage,
         verseSequence,
-        importDate: ymd,
       });
 
       verseSequence++;
     }
   }
-  await Bun.file(`${import.meta.dir}/../../data/verses/KJVA.json`).write(
-    JSON.stringify(ourData, null, 2),
-  );
+  writeJson(ourData);
   console.log(`Wrote ${ourData.length} Deuterocanon verses to KJVA.json`);
   console.log(`Took ${Date.now() - start}ms`);
+
+  async function writeJson(verses: VerseShape[]) {
+    const ymd = new Date().toISOString().slice(0, 10);
+
+    const writeTo = `${import.meta.dir}/../../data/verses/KJVA.json`;
+    const work = getWorkByName(workOsisID);
+    const data = {
+      work,
+      compiledAt: ymd,
+      sources: bookHandlers.map((w) => w.url),
+      books: Array.from(bookHandlers),
+      verses,
+    };
+    await Bun.file(writeTo).write(JSON.stringify(data, null, 2));
+    console.log(`Wrote ${workOsisID} to ${workOsisID}.json`);
+  }
 }

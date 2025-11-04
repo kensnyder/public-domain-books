@@ -126,6 +126,7 @@ export async function aiAnalyzeChapter(chapterText: string) {
       model: openai(Bun.env.AI_MODEL_ID),
       prompt,
       schema,
+      maxRetries: 1,
     });
     // Apply normalization post-generation to avoid using Zod transforms in JSON Schema
     return { ...result, object: normalize(result.object as ChapterAnalysis) };

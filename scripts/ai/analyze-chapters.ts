@@ -1,17 +1,59 @@
 import process from 'node:process';
 import { aiAnalyzeChapter } from '~/lib/aiAnalyzeChapter.ts';
-import getBookByName from '~/lib/getBookByName.ts';
+import getBookByName from '~/lib/getJsonBookByName.ts';
 import { updateTokenCounts } from '~/lib/updateTokenCounts.ts';
 import type { VerseDataFileShape } from '~/types/data-shapes.ts';
 import data from '../../data/verses/KJV.json' with { type: 'json' };
 
 const workData = data as VerseDataFileShape;
-const toAnalyze = ['Matt', 'Mark', 'Luke', 'John'];
+const toAnalyze = `
+Gen
+Exod
+Lev
+Num
+Deut
+Josh
+Judg
+Ruth
+1Sam
+2Sam
+1Kgs
+2Kgs
+1Chr
+2Chr
+Ezra
+Neh
+Esth
+Job
+Ps
+Prov
+Eccl
+Song
+Isa
+Jer
+Lam
+Ezek
+Dan
+Hos
+Joel
+Amos
+Obad
+Jonah
+Mic
+Nah
+Hab
+Zeph
+Hag
+Zech
+Mal
+`
+  .trim()
+  .split('\n');
 
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters().slice(0, 200);
+  const allChapters = getAllChapters();
   let idx = 1;
   for (const osisID of allChapters) {
     const path = `${import.meta.dir}/../../data/analysis/KJV/${osisID}.json`;
