@@ -60,12 +60,44 @@ async function main() {
     }
     const data = await res.json();
     const verses = bookHandler.finder(data);
+    if (verses[0].reference === 'Prayer of Azariah 1:2') {
+      // from https://sacred-texts.com/bib/apo/aza001.htm but missing in json
+      verses.unshift({
+        reference: 'Prayer of Azariah 1:1',
+        text: 'And they walked in the midst of the fire, praising God, and blessing the Lord.',
+      });
+    }
+    if (verses[0].reference === 'Susanna 1:2') {
+      // from https://sacred-texts.com/bib/apo/aza001.htm but missing in json
+      verses.unshift({
+        reference: 'Susanna 1:1',
+        text: 'There dwelt a man in Babylon, called Joacim:',
+      });
+    } else if (verses[0].book === '1 Maccabees') {
+      // from https://www.kingjamesbibleonline.org/1-Maccabees-Chapter-1/ but missing in json
+      verses.unshift({
+        book: '1 Maccabees',
+        chapter: 1,
+        verse: 1,
+        text: 'And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,',
+      });
+    } else if (verses[0].book === '2 Maccabees') {
+      // from https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/ but missing in json
+      verses.unshift({
+        book: '2 Maccabees',
+        chapter: 1,
+        verse: 1,
+        text: 'The brethren, the Jews that be at Jerusalem and in the land of Judea, wish unto the brethren, the Jews that are throughout Egypt health and peace:',
+      });
+    } else if (String(verses[0].reference).endsWith(':2')) {
+      throw new Error(`Unable to find verse 1 of ${bookHandler.name}`);
+    }
     let verseSequence = 1;
     for (const verse of verses) {
       const { ref, text } = bookHandler.handler(verse);
       const match = ref.match(/^(.+?) (Prologue|\d+):(\d+)/);
       if (match[2] === 'Prologue') {
-        match[2] = '0'; // We say Prologue is chapter 0
+        match[2] = '0'; // We consider Prologue as chapter 0
       }
       const chapterNumber = parseInt(match[2], 10);
       const verseNumber = parseInt(match[3], 10);
@@ -73,7 +105,7 @@ async function main() {
       const bookGroups = book.groups;
       const chapterOsisID =
         chapterNumber === 0
-          ? `${bookOsisID}P.1`
+          ? `${bookOsisID}.P`
           : `${bookOsisID}.${chapterNumber}`;
       const verseOsisID = `${chapterOsisID}.${verseNumber}`;
       const chapterTitle =

@@ -1,5 +1,6 @@
-import { worksLookup } from '../data/allData.ts';
+import type { WorkShape } from '~/types/data-shapes.ts';
+import { worksLookup } from '../../data/compiled/books-and-works.ts';
 
-export default function getWorkByName(name: string) {
+export default function getWorkByName(name: string): WorkShape | undefined {
   return worksLookup[String(name || '').toUpperCase()];
 }

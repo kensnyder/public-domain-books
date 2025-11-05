@@ -17,7 +17,7 @@ export type RawBookShape = {
   hasData: boolean;
 };
 export type BookShape = Merge<RawBookShape, {
-  work: WorkShape;
+  work: WorkShape | null;
   chapterCount: number;
   verseCounts: number[];
 }>;
@@ -26,6 +26,7 @@ export type RawWorkShape = {
   workTitle: string;
   workSubtitle: string;
   aliases: string[];
+  hasData: boolean;
 };
 export type WorkShape = Merge<RawWorkShape, {
   books: BookShape[];
