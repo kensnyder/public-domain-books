@@ -1,3 +1,6 @@
+import getBookByName from '~/tools/getBookByName.ts';
+import { getWorkByName } from '../../index.ts';
+
 const trim = (s: string) => s.trim();
 
 export default function parseVerseRange(givenVerseOsisIDs: string[]) {
@@ -14,11 +17,17 @@ export default function parseVerseRange(givenVerseOsisIDs: string[]) {
     verseOsisIDs.push(`${chapterOsisID}.${i}`);
     verseNumbers.push(i);
   }
+  const book = getBookByName(bookOsisID) || null;
+  const work = book ? getWorkByName(book.workOsisID) || null : null;
+  const workOsisID = book ? book.workOsisID : null;
   return {
+    workOsisID,
     bookOsisID,
     chapterOsisID,
     chapterNumber,
     verseNumbers,
     verseOsisIDs,
+    book,
+    work,
   };
 }

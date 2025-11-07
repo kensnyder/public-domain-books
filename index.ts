@@ -5,6 +5,7 @@ export { default as parseVerseRange } from 'src/tools/parseVerseRange.ts';
 export { default as parseVerseRangeWithContext } from 'src/tools/parseVerseRangeWithContext.ts';
 export { default as verseOsisIDToCitation } from 'src/tools/verseOsisIDToCitation.ts';
 export { default as osisToHuman } from 'src/tools/osisToHuman.ts';
+export { default as getChapterList } from 'src/tools/getChapterList.ts';
 export type {
   BookShape,
   WorkShape,
