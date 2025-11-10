@@ -3872,7 +3872,6 @@
         0,
         0,
         0,
-        0,
         10,
         12,
         6,
@@ -4019,6 +4018,42 @@
     },
     {
       "workOsisID": "KJVA",
+      "bookName": "Epistle of Jeremiah",
+      "bookSubtitle": "The Epistle of Jeremiah",
+      "bookOsisID": "EpJer",
+      "paratext": "LJE",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Epj",
+        "The Epistle of Jeremiah",
+        "The Letter of Jeremiah",
+        "Letter of Jeremiah"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Jeremiah"
+      ],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
+      "dateEarliest": "-0200-01-01",
+      "dateLatest": "-0100-12-31",
+      "chapterCount": 1,
+      "verseCounts": [
+        0,
+        73
+      ],
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
       "bookName": "Prayer of Azariah",
       "bookSubtitle": "Song of the Three Holy Children",
       "bookOsisID": "PrAzar",
@@ -4082,6 +4117,37 @@
       "verseCounts": [
         0,
         64
+      ],
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
+      "bookName": "Bel and the Dragon",
+      "bookSubtitle": "",
+      "bookOsisID": "Bel",
+      "paratext": "BEL",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Daniel"
+      ],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
+      "dateEarliest": "-0100-01-01",
+      "dateLatest": "-0050-12-31",
+      "chapterCount": 1,
+      "verseCounts": [
+        0,
+        42
       ],
       "hasData": true
     },
@@ -5096,8 +5162,8 @@
       "traditions": [
         "lds"
       ],
-      "dateEarliest": "06-01-1830",
-      "dateLatest": "02-01-1831",
+      "dateEarliest": "1830-06-01",
+      "dateLatest": "1831-02-01",
       "chapterCount": 8,
       "verseCounts": [
         0,
@@ -5137,8 +5203,8 @@
       "traditions": [
         "lds"
       ],
-      "dateEarliest": "07-01-1835",
-      "dateLatest": "07-01-1842",
+      "dateEarliest": "1835-07-01",
+      "dateLatest": "1842-07-01",
       "chapterCount": 5,
       "verseCounts": [
         0,
@@ -5172,8 +5238,8 @@
       "traditions": [
         "lds"
       ],
-      "dateEarliest": "03-01-1842",
-      "dateLatest": "03-01-1842",
+      "dateEarliest": "1842-03-01",
+      "dateLatest": "1842-03-01",
       "chapterCount": 1,
       "verseCounts": [
         0,
@@ -5209,8 +5275,8 @@
       "traditions": [
         "lds"
       ],
-      "dateEarliest": "04-01-1838",
-      "dateLatest": "04-30-1838",
+      "dateEarliest": "1838-04-01",
+      "dateLatest": "1838-04-30",
       "chapterCount": 1,
       "verseCounts": [
         0,
@@ -5246,8 +5312,8 @@
       "traditions": [
         "lds"
       ],
-      "dateEarliest": "03-07-1831",
-      "dateLatest": "03-10-1831",
+      "dateEarliest": "1831-03-07",
+      "dateLatest": "1831-03-10",
       "chapterCount": 1,
       "verseCounts": [
         0,
@@ -5726,7 +5792,9 @@
       74,
       75,
       76,
-      77
+      77,
+      78,
+      79
     ],
     "APOCRYPHA": [
       66,
@@ -5742,17 +5810,17 @@
       76,
       77,
       78,
-      79
+      79,
+      80,
+      81
     ],
     "VULGATE": [
-      78
+      80
     ],
     "APOSTOLIC FATHERS": [
-      79
+      81
     ],
     "BOOK OF MORMON": [
-      80,
-      81,
       82,
       83,
       84,
@@ -5765,19 +5833,19 @@
       91,
       92,
       93,
-      94
+      94,
+      95,
+      96
     ],
     "SMALL PLATES OF NEPHI": [
-      80,
-      81,
       82,
       83,
       84,
-      85
+      85,
+      86,
+      87
     ],
     "LDS": [
-      80,
-      81,
       82,
       83,
       84,
@@ -5796,73 +5864,75 @@
       97,
       98,
       99,
-      100
+      100,
+      101,
+      102
     ],
     "MORMON": [
-      86,
-      87,
       88,
       89,
       90,
       91,
       92,
       93,
-      94
+      94,
+      95,
+      96
     ],
     "LARGE PLATES OF NEPHI": [
-      87,
-      88,
       89,
       90,
       91,
       92,
       93,
-      94
+      94,
+      95,
+      96
     ],
     "ABRIDGEMENT": [
-      87,
-      88,
       89,
       90,
       91,
       92,
       93,
-      94
+      94,
+      95,
+      96
     ],
     "PEARL OF GREAT PRICE": [
-      95,
-      96,
       97,
       98,
-      99
+      99,
+      100,
+      101
     ],
     "INSPIRED TRANSLATION": [
-      95,
-      96,
-      98,
-      99
-    ],
-    "JOSEPH SMITH TRANSLATION": [
-      95,
-      96,
-      98,
-      99
-    ],
-    "JST": [
-      95,
-      96,
-      98,
-      99
-    ],
-    "JOSEPH SMITH": [
-      95,
-      96,
       97,
       98,
-      99
+      100,
+      101
+    ],
+    "JOSEPH SMITH TRANSLATION": [
+      97,
+      98,
+      100,
+      101
+    ],
+    "JST": [
+      97,
+      98,
+      100,
+      101
+    ],
+    "JOSEPH SMITH": [
+      97,
+      98,
+      99,
+      100,
+      101
     ],
     "DOCTRINE AND COVENANTS": [
-      100
+      102
     ]
   }
 }

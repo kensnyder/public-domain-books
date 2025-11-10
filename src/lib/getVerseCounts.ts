@@ -23,7 +23,7 @@ export default function getVerseCounts(
   }
   if (bookOsisID === 'AddEsth') {
     // Additions to Esther starts at chapter 10
-    final.unshift(0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+    final.unshift(0, 0, 0, 0, 0, 0, 0, 0, 0);
   }
   return final;
 }

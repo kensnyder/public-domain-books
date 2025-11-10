@@ -2,61 +2,6 @@
 
 import { Merge } from 'type-fest';
 
-export function getBookByName(name: string): {
-	workOsisID: string;
-	bookName: string;
-	bookSubtitle: string;
-	bookOsisID: string;
-	paratext: string;
-	groups: string[];
-	aliases: string[];
-	chapterLabel: string;
-	verseLabel: string;
-	authors: string[];
-	dateEarliest: string;
-	dateLatest: string;
-	hasData: boolean;
-} | {
-	workOsisID: string;
-	bookName: string;
-	bookSubtitle: string;
-	bookOsisID: string;
-	paratext: null;
-	groups: string[];
-	aliases: string[];
-	chapterLabel: string;
-	verseLabel: string;
-	authors: string[];
-	dateEarliest: string;
-	dateLatest: string;
-	hasData: boolean;
-};
-export function getWorkByName(name: string): {
-	workOsisID: string;
-	workTitle: string;
-	workSubtitle: string;
-	aliases: string[];
-};
-export function parseCitation(citation: string): string[];
-export function parseVerseRange(givenVerseOsisIDs: string[]): {
-	bookOsisID: string;
-	chapterOsisID: string;
-	chapterNumber: string;
-	verseNumbers: number[];
-	verseOsisIDs: string[];
-};
-export function parseVerseRangeWithContext(givenVerseOsisIDs: string[]): {
-	bookOsisID: string;
-	chapterOsisID: string;
-	chapterNumber: string;
-	verseNumbers: number[];
-	verseOsisIDs: string[];
-};
-export function verseOsisIDToCitation(osis: string): {
-	short: string;
-	long: string;
-} | null;
-export function osisToHuman(osis: string): string;
 export type RawBookShape = {
 	workOsisID: string;
 	bookOsisID: string;
@@ -74,6 +19,7 @@ export type RawBookShape = {
 	hasData: boolean;
 };
 export type BookShape = Merge<RawBookShape, {
+	work: WorkShape;
 	chapterCount: number;
 	verseCounts: number[];
 }>;
@@ -82,8 +28,10 @@ export type RawWorkShape = {
 	workTitle: string;
 	workSubtitle: string;
 	aliases: string[];
+	hasData: boolean;
 };
 export type WorkShape = Merge<RawWorkShape, {
+	books: BookShape[];
 	bookCount: number;
 }>;
 export type VerseShape = {
@@ -118,78 +66,88 @@ export type VerseDataFileShape = {
 	books: BookShape[];
 	verses: VerseShape[];
 };
-export declare const works: {
-	workOsisID: string;
-	workTitle: string;
-	workSubtitle: string;
-	aliases: string[];
-}[];
-declare const w: {
-	workOsisID: string;
-	workTitle: string;
-	workSubtitle: string;
-	aliases: string[];
-}[];
-export declare const worksLookup: Record<string, (typeof w)[number]>;
-export declare const books: ({
-	workOsisID: string;
-	bookName: string;
-	bookSubtitle: string;
+export function getBookByName(name: string): BookShape | undefined;
+export function getWorkByName(name: string): WorkShape | undefined;
+export function parseCitation(citation: string): string[];
+export function parseVerseRange(givenVerseOsisIDs: string[]): {
+	workOsisID: string | null;
 	bookOsisID: string;
-	paratext: string;
-	groups: string[];
-	aliases: string[];
-	chapterLabel: string;
-	verseLabel: string;
-	authors: string[];
-	dateEarliest: string;
-	dateLatest: string;
-	hasData: boolean;
-} | {
-	workOsisID: string;
-	bookName: string;
-	bookSubtitle: string;
+	chapterOsisID: string;
+	chapterNumber: string;
+	verseNumbers: number[];
+	verseOsisIDs: string[];
+	book: {
+		workOsisID: string;
+		bookOsisID: string;
+		bookName: string;
+		bookSubtitle: string;
+		paratext: string | null;
+		aliases: string[];
+		groups: string[];
+		authors: string[];
+		dateEarliest: string;
+		dateLatest: string;
+		chapterLabel: string;
+		verseLabel: string;
+		traditions: string[];
+		hasData: boolean;
+		work: WorkShape;
+		chapterCount: number;
+		verseCounts: number[];
+	} | null;
+	work: {
+		workOsisID: string;
+		workTitle: string;
+		workSubtitle: string;
+		aliases: string[];
+		hasData: boolean;
+		books: BookShape[];
+		bookCount: number;
+	} | null;
+};
+export function parseVerseRangeWithContext(givenVerseOsisIDs: string[]): {
 	bookOsisID: string;
-	paratext: null;
-	groups: string[];
-	aliases: string[];
+	chapterOsisID: string;
+	chapterNumber: string;
+	verseNumbers: number[];
+	verseOsisIDs: string[];
+};
+export function osisToCitation(osis: string): {
+	short: string;
+	long: string;
+} | null;
+export type ListedChapter = {
+	chapterNumber: number;
 	chapterLabel: string;
-	verseLabel: string;
-	authors: string[];
-	dateEarliest: string;
-	dateLatest: string;
-	hasData: boolean;
-})[];
-declare const b: ({
+	chapterAbbr: string;
+	verseCount: number;
+};
+export function getChapterList(bookOsisID: string): ListedChapter[];
+export declare function getRelativeChapter(bookOsisID: string, chapterNumber: number, add: number): {
 	workOsisID: string;
-	bookName: string;
-	bookSubtitle: string;
 	bookOsisID: string;
-	paratext: string;
-	groups: string[];
-	aliases: string[];
-	chapterLabel: string;
-	verseLabel: string;
-	authors: string[];
-	dateEarliest: string;
-	dateLatest: string;
-	hasData: boolean;
-} | {
+	chapterOsisID: string;
+	chapterNumber: number;
+	chapterTitle: string;
+} | null;
+export declare function getNextChapter(bookOsisID: string, chapterNumber: number): {
 	workOsisID: string;
-	bookName: string;
-	bookSubtitle: string;
 	bookOsisID: string;
-	paratext: null;
-	groups: string[];
-	aliases: string[];
-	chapterLabel: string;
-	verseLabel: string;
-	authors: string[];
-	dateEarliest: string;
-	dateLatest: string;
-	hasData: boolean;
-})[];
-export declare const booksLookup: Record<string, (typeof b)[number]>;
-export declare const groupsLookup: Record<string, typeof b>;
+	chapterOsisID: string;
+	chapterNumber: number;
+	chapterTitle: string;
+} | null;
+export declare function getPreviousChapter(bookOsisID: string, chapterNumber: number): {
+	workOsisID: string;
+	bookOsisID: string;
+	chapterOsisID: string;
+	chapterNumber: number;
+	chapterTitle: string;
+} | null;
+export declare const works: WorkShape[];
+export declare const worksLookup: Record<string, WorkShape>;
+export declare const books: BookShape[];
+export declare const booksLookup: Record<string, BookShape>;
+export declare const groupsLookup: Record<string, BookShape[]>;
 
 export {};

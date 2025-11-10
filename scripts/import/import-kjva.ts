@@ -10,12 +10,8 @@ main().then(console.error);
 async function main() {
   const zipUrl = 'https://sacred-texts.com/bib/osrc/apodat.zip';
   console.log(`Fetching data ${zipUrl}`);
-  let text = await fetchText(zipUrl);
+  const text = await fetchText(zipUrl);
   console.log(`Got ${text.length.toLocaleString()} bytes`);
-  text = text.replace(
-    /Sir\|1\|1\|\[.+](.+?)(All wisdom cometh .+)$/,
-    'Sir|0|1|$1\nSir|1|1$2',
-  );
   const lines = text.split('\n').filter(Boolean);
   console.log('First 4 lines:', lines.slice(0, 4).join('\n'));
   const verses: VerseShape[] = [];
