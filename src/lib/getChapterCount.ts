@@ -18,5 +18,10 @@ export default function getChapterCount(
     }
     count++;
   }
+  if (bookOsisID === 'AddEsth') {
+    // Additions to Esther starts at chapter 10:4
+    // So we must add one because it doesn't have a verse 1
+    count++;
+  }
   return count;
 }

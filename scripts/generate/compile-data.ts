@@ -23,6 +23,10 @@ const versesByWorkName = {
   PGP: PGP.verses as VerseShape[],
 };
 
+// const dummyWork = {
+//
+// }
+
 const s = (v: any) => JSON.stringify(v, null, 2);
 
 main().catch(console.error);
@@ -71,7 +75,7 @@ async function main() {
         chapterLabel: b.chapterLabel,
         verseLabel: b.verseLabel,
         authors: b.authors,
-        traditions: [], //b.traditions,
+        traditions: b.traditions,
         dateEarliest: b.dateEarliest,
         dateLatest: b.dateLatest,
         chapterCount,
@@ -84,7 +88,7 @@ async function main() {
     works: worksWithData,
     worksLookup: {} as Record<string, number>,
     booksLookup: {} as Record<string, number>,
-    groupsLookup: {} as Record<string, number>,
+    groupsLookup: {} as Record<string, number[]>,
   };
   const output = [];
 
@@ -168,7 +172,7 @@ import type {
       groups[groupUpper].push(i);
     }
   }
-  jsonData.groupsLookups = groups;
+  jsonData.groupsLookup = groups;
   output.push(`export const groupsLookup : Record<string, BookShape[]> = {`);
   for (const [nameUpper, bookIdxs] of Object.entries(groups)) {
     output.push(`  ${s(nameUpper)}: [`);
@@ -191,8 +195,7 @@ for (const book of books) {
     work.books = [];
   }
   work.books.push(book);
-  // @ts-expect-error Cyclical structure
-  books.work = work;
+  book.work = work;
 }
 for (const work of works) {
   work.bookCount = work.books.length;

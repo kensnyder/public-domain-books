@@ -23,7 +23,14 @@
       "authors": [
         "Moses"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-1000-01-01",
       "dateLatest": "-0400-12-31",
       "chapterCount": 50,
@@ -104,7 +111,14 @@
       "authors": [
         "Moses"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-1000-01-01",
       "dateLatest": "-0400-12-31",
       "chapterCount": 40,
@@ -175,7 +189,14 @@
       "authors": [
         "Moses"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0600-01-01",
       "dateLatest": "-0400-12-31",
       "chapterCount": 27,
@@ -235,7 +256,14 @@
       "authors": [
         "Moses"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0800-01-01",
       "dateLatest": "-0400-12-31",
       "chapterCount": 36,
@@ -302,7 +330,14 @@
       "authors": [
         "Moses"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0620-01-01",
       "dateLatest": "-0500-12-31",
       "chapterCount": 34,
@@ -364,7 +399,14 @@
       "authors": [
         "Joshua"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0620-01-01",
       "dateLatest": "-0520-12-31",
       "chapterCount": 24,
@@ -419,7 +461,14 @@
       "authors": [
         "Samuel"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0620-01-01",
       "dateLatest": "-0520-12-31",
       "chapterCount": 21,
@@ -469,7 +518,14 @@
       "authors": [
         "Samuel"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0600-01-01",
       "dateLatest": "-0300-12-31",
       "chapterCount": 4,
@@ -515,7 +571,14 @@
         "Gad",
         "Nathan"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0620-01-01",
       "dateLatest": "-0520-12-31",
       "chapterCount": 31,
@@ -587,7 +650,14 @@
         "Gad",
         "Nathan"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0620-01-01",
       "dateLatest": "-0520-12-31",
       "chapterCount": 24,
@@ -649,7 +719,14 @@
       "authors": [
         "Jeremiah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0620-01-01",
       "dateLatest": "-0520-12-31",
       "chapterCount": 22,
@@ -709,7 +786,14 @@
       "authors": [
         "Jeremiah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0620-01-01",
       "dateLatest": "-0520-12-31",
       "chapterCount": 25,
@@ -775,7 +859,14 @@
       "authors": [
         "Ezra"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0400-01-01",
       "dateLatest": "-0300-12-31",
       "chapterCount": 29,
@@ -845,7 +936,14 @@
       "authors": [
         "Ezra"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0400-01-01",
       "dateLatest": "-0300-12-31",
       "chapterCount": 36,
@@ -910,7 +1008,14 @@
       "authors": [
         "Ezra"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0450-01-01",
       "dateLatest": "-0390-12-31",
       "chapterCount": 10,
@@ -950,7 +1055,14 @@
         "Nehemiah",
         "Ezra"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0445-01-01",
       "dateLatest": "-0390-12-31",
       "chapterCount": 13,
@@ -991,7 +1103,14 @@
       "authors": [
         "Mordecai"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0400-01-01",
       "dateLatest": "-0250-12-31",
       "chapterCount": 10,
@@ -1030,7 +1149,14 @@
         "Job",
         "Moses"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0700-01-01",
       "dateLatest": "-0300-12-31",
       "chapterCount": 42,
@@ -1109,7 +1235,14 @@
         "Ethan",
         "Heman"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-1000-01-01",
       "dateLatest": "-0100-12-31",
       "chapterCount": 150,
@@ -1290,7 +1423,14 @@
         "Agur",
         "Lemuel"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0900-01-01",
       "dateLatest": "-0300-12-31",
       "chapterCount": 31,
@@ -1349,7 +1489,14 @@
       "authors": [
         "Solomon"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0300-01-01",
       "dateLatest": "-0200-12-31",
       "chapterCount": 12,
@@ -1392,7 +1539,14 @@
       "authors": [
         "Solomon"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0700-01-01",
       "dateLatest": "-0200-12-31",
       "chapterCount": 8,
@@ -1428,7 +1582,14 @@
       "authors": [
         "Isaiah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0740-01-01",
       "dateLatest": "-0400-12-31",
       "chapterCount": 66,
@@ -1523,7 +1684,14 @@
       "authors": [
         "Jeremiah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0627-01-01",
       "dateLatest": "-0550-12-31",
       "chapterCount": 52,
@@ -1603,7 +1771,14 @@
       "authors": [
         "Jeremiah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0586-01-01",
       "dateLatest": "-0520-12-31",
       "chapterCount": 5,
@@ -1636,7 +1811,14 @@
       "authors": [
         "Ezekiel"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0593-01-01",
       "dateLatest": "-0530-12-31",
       "chapterCount": 48,
@@ -1713,7 +1895,14 @@
       "authors": [
         "Daniel"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0200-01-01",
       "dateLatest": "-0164-12-31",
       "chapterCount": 12,
@@ -1753,7 +1942,14 @@
       "authors": [
         "Hosea"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0750-01-01",
       "dateLatest": "-0500-12-31",
       "chapterCount": 14,
@@ -1795,7 +1991,14 @@
       "authors": [
         "Joel"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0500-01-01",
       "dateLatest": "-0300-12-31",
       "chapterCount": 3,
@@ -1826,7 +2029,14 @@
       "authors": [
         "Amos"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0760-01-01",
       "dateLatest": "-0500-12-31",
       "chapterCount": 9,
@@ -1863,7 +2073,14 @@
       "authors": [
         "Obadiah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0586-01-01",
       "dateLatest": "-0450-12-31",
       "chapterCount": 1,
@@ -1890,7 +2107,14 @@
       "authors": [
         "Jonah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0400-01-01",
       "dateLatest": "-0250-12-31",
       "chapterCount": 4,
@@ -1922,7 +2146,14 @@
       "authors": [
         "Micah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0737-01-01",
       "dateLatest": "-0500-12-31",
       "chapterCount": 7,
@@ -1958,7 +2189,14 @@
       "authors": [
         "Nahum"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0650-01-01",
       "dateLatest": "-0612-12-31",
       "chapterCount": 3,
@@ -1989,7 +2227,14 @@
       "authors": [
         "Habakkuk"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0625-01-01",
       "dateLatest": "-0587-12-31",
       "chapterCount": 3,
@@ -2020,7 +2265,14 @@
       "authors": [
         "Zephaniah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0630-01-01",
       "dateLatest": "-0625-12-31",
       "chapterCount": 3,
@@ -2053,7 +2305,14 @@
       "authors": [
         "Haggai"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0520-01-01",
       "dateLatest": "-0519-12-31",
       "chapterCount": 2,
@@ -2083,7 +2342,14 @@
       "authors": [
         "Zechariah"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0520-01-01",
       "dateLatest": "-0440-12-31",
       "chapterCount": 14,
@@ -2125,7 +2391,14 @@
       "authors": [
         "Malachi"
       ],
-      "traditions": [],
+      "traditions": [
+        "jewish",
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "-0450-01-01",
       "dateLatest": "-0400-12-31",
       "chapterCount": 4,
@@ -2162,7 +2435,13 @@
       "authors": [
         "St. Matthew"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0070-01-01",
       "dateLatest": "0100-12-31",
       "chapterCount": 28,
@@ -2223,7 +2502,13 @@
       "authors": [
         "St. Mark"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0065-01-01",
       "dateLatest": "0075-12-31",
       "chapterCount": 16,
@@ -2272,7 +2557,13 @@
       "authors": [
         "St. Luke"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0080-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 24,
@@ -2329,7 +2620,13 @@
       "authors": [
         "St. John"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0090-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 21,
@@ -2377,7 +2674,13 @@
       "authors": [
         "Luke"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0080-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 28,
@@ -2434,7 +2737,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0056-01-01",
       "dateLatest": "0058-12-31",
       "chapterCount": 16,
@@ -2487,7 +2796,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0053-01-01",
       "dateLatest": "0055-12-31",
       "chapterCount": 16,
@@ -2540,7 +2855,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0055-01-01",
       "dateLatest": "0057-12-31",
       "chapterCount": 13,
@@ -2581,7 +2902,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0048-01-01",
       "dateLatest": "0055-12-31",
       "chapterCount": 6,
@@ -2616,7 +2943,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0060-01-01",
       "dateLatest": "0100-12-31",
       "chapterCount": 6,
@@ -2650,7 +2983,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0054-01-01",
       "dateLatest": "0062-12-31",
       "chapterCount": 4,
@@ -2682,7 +3021,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0060-01-01",
       "dateLatest": "0090-12-31",
       "chapterCount": 4,
@@ -2728,7 +3073,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0049-01-01",
       "dateLatest": "0051-12-31",
       "chapterCount": 5,
@@ -2775,7 +3126,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0050-01-01",
       "dateLatest": "0100-12-31",
       "chapterCount": 3,
@@ -2817,7 +3174,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0065-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 6,
@@ -2862,7 +3225,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0065-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 4,
@@ -2895,7 +3264,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0065-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 3,
@@ -2926,7 +3301,13 @@
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0054-01-01",
       "dateLatest": "0062-12-31",
       "chapterCount": 1,
@@ -2950,7 +3331,13 @@
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0060-01-01",
       "dateLatest": "0095-12-31",
       "chapterCount": 13,
@@ -2990,7 +3377,13 @@
       "authors": [
         "James the brother of Jesus"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0048-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 5,
@@ -3036,7 +3429,13 @@
       "authors": [
         "Peter"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0060-01-01",
       "dateLatest": "0090-12-31",
       "chapterCount": 5,
@@ -3082,7 +3481,13 @@
       "authors": [
         "Peter"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0080-01-01",
       "dateLatest": "0150-12-31",
       "chapterCount": 3,
@@ -3128,7 +3533,13 @@
       "authors": [
         "The Apostle John"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0090-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 5,
@@ -3176,7 +3587,13 @@
       "authors": [
         "The Apostle John"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0090-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 1,
@@ -3220,7 +3637,13 @@
       "authors": [
         "The Apostle John"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0090-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 1,
@@ -3248,7 +3671,13 @@
       "authors": [
         "Jude"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0060-01-01",
       "dateLatest": "0110-12-31",
       "chapterCount": 1,
@@ -3277,7 +3706,13 @@
       "authors": [
         "John the Revelator"
       ],
-      "traditions": [],
+      "traditions": [
+        "protestant",
+        "lds",
+        "catholic",
+        "eastern orthodox",
+        "oriental orthodox"
+      ],
       "dateEarliest": "0068-01-01",
       "dateLatest": "0096-12-31",
       "chapterCount": 22,
@@ -3324,7 +3759,12 @@
       "authors": [
         "Tobit"
       ],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0225-01-01",
       "dateLatest": "-0175-12-31",
       "chapterCount": 14,
@@ -3363,7 +3803,12 @@
       "authors": [
         "Judith"
       ],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0150-01-01",
       "dateLatest": "-0100-12-31",
       "chapterCount": 16,
@@ -3398,21 +3843,38 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [],
+      "aliases": [
+        "Aes"
+      ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
         "Mordecai",
         "Esther"
       ],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0116-01-01",
       "dateLatest": "-0048-12-31",
       "chapterCount": 7,
       "verseCounts": [
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         10,
-        1,
+        12,
         6,
         18,
         19,
@@ -3439,7 +3901,12 @@
       "authors": [
         "Solomon"
       ],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0100-01-01",
       "dateLatest": "0010-12-31",
       "chapterCount": 19,
@@ -3485,63 +3952,68 @@
       "authors": [
         "Jesus son of Sirach"
       ],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0196-01-01",
       "dateLatest": "-0175-12-31",
-      "chapterCount": 52,
+      "chapterCount": 51,
       "verseCounts": [
-        9,
-        40,
-        23,
-        34,
-        36,
+        0,
+        30,
         18,
+        31,
+        31,
+        15,
         37,
-        40,
-        22,
-        25,
-        34,
         36,
         19,
-        32,
+        18,
+        31,
+        34,
+        18,
+        26,
         27,
-        22,
-        31,
-        31,
-        33,
-        28,
-        33,
-        31,
-        33,
-        38,
-        47,
-        36,
-        28,
+        20,
+        30,
+        32,
         33,
         30,
-        34,
-        27,
-        42,
-        28,
-        33,
-        31,
-        26,
-        28,
-        34,
-        39,
-        41,
         32,
         28,
-        26,
-        37,
         27,
-        31,
-        23,
-        31,
         28,
-        19,
+        34,
+        26,
+        29,
+        30,
+        26,
+        28,
+        25,
         31,
-        38
+        24,
+        31,
+        26,
+        20,
+        26,
+        31,
+        34,
+        35,
+        30,
+        24,
+        25,
+        33,
+        22,
+        26,
+        20,
+        25,
+        25,
+        16,
+        29,
+        30
       ],
       "hasData": true
     },
@@ -3559,14 +4031,20 @@
         "Song of the Three Children",
         "Song of the Three Holy Children",
         "PrAzar",
-        "S3Y"
+        "S3Y",
+        "Aza"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
         "Azariah"
       ],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0160-01-01",
       "dateLatest": "-0140-12-31",
       "chapterCount": 1,
@@ -3592,7 +4070,12 @@
       "authors": [
         "Daniel"
       ],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0100-01-01",
       "dateLatest": "-0050-12-31",
       "chapterCount": 1,
@@ -3612,32 +4095,39 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [],
+      "aliases": [
+        "Ma1"
+      ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0100-01-01",
       "dateLatest": "-0090-12-31",
-      "chapterCount": 1,
+      "chapterCount": 16,
       "verseCounts": [
         0,
         64,
-        69,
-        59,
+        70,
         60,
-        67,
-        62,
-        49,
-        31,
-        72,
-        88,
+        61,
+        68,
+        63,
+        50,
+        32,
         73,
-        52,
-        52,
-        48,
-        40,
-        23
+        89,
+        74,
+        53,
+        53,
+        49,
+        41,
+        24
       ],
       "hasData": true
     },
@@ -3651,31 +4141,38 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [],
+      "aliases": [
+        "Ma2"
+      ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
-      "traditions": [],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0124-01-01",
       "dateLatest": "-0120-12-31",
-      "chapterCount": 1,
+      "chapterCount": 15,
       "verseCounts": [
         0,
         36,
+        32,
+        40,
+        50,
+        27,
         31,
-        39,
-        49,
-        26,
-        30,
-        41,
-        35,
-        28,
-        37,
-        37,
-        44,
-        25,
+        42,
+        36,
+        29,
+        38,
+        38,
         45,
-        38
+        26,
+        46,
+        39
       ],
       "hasData": true
     },
@@ -3695,13 +4192,17 @@
       "authors": [
         "Manasseh"
       ],
-      "traditions": [],
+      "traditions": [
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
       "dateEarliest": "-0200-01-01",
       "dateLatest": "0000-12-31",
       "chapterCount": 1,
       "verseCounts": [
         0,
-        15
+        1
       ],
       "hasData": true
     },
@@ -3715,13 +4216,17 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [],
+      "aliases": [
+        "Es1"
+      ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
         "Ezra"
       ],
-      "traditions": [],
+      "traditions": [
+        "eastern orthodox"
+      ],
       "dateEarliest": "-0200-01-01",
       "dateLatest": "-0100-12-31",
       "chapterCount": 9,
@@ -3749,13 +4254,17 @@
         "Deuterocannon",
         "Apocrypha"
       ],
-      "aliases": [],
+      "aliases": [
+        "Es2"
+      ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
         "Ezra"
       ],
-      "traditions": [],
+      "traditions": [
+        "eastern orthodox"
+      ],
       "dateEarliest": "0070-01-01",
       "dateLatest": "0120-12-31",
       "chapterCount": 16,
@@ -3767,7 +4276,7 @@
         52,
         56,
         59,
-        105,
+        70,
         63,
         47,
         59,
@@ -3793,14 +4302,17 @@
       "aliases": [
         "EpLao",
         "LAO",
-        "Laodiceans"
+        "Laodiceans",
+        "Paul's Epistle to the Laodiceans"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
         "Paul"
       ],
-      "traditions": [],
+      "traditions": [
+        "academic"
+      ],
       "dateEarliest": "0080-01-01",
       "dateLatest": "0140-12-31",
       "chapterCount": 1,
@@ -3824,7 +4336,9 @@
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [],
-      "traditions": [],
+      "traditions": [
+        "academic"
+      ],
       "dateEarliest": "0080-01-01",
       "dateLatest": "0100-12-31",
       "chapterCount": 16,
@@ -3872,7 +4386,9 @@
       "authors": [
         "Nephi"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0600-01-01",
       "dateLatest": "-0570-01-01",
       "chapterCount": 22,
@@ -3926,7 +4442,9 @@
       "authors": [
         "Nephi"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0588-01-01",
       "dateLatest": "-0545-01-01",
       "chapterCount": 33,
@@ -3985,7 +4503,9 @@
       "authors": [
         "Jacob"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0544-01-01",
       "dateLatest": "-0421-01-01",
       "chapterCount": 7,
@@ -4018,7 +4538,9 @@
       "authors": [
         "Enos"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0420-01-01",
       "dateLatest": "-0420-01-01",
       "chapterCount": 1,
@@ -4045,7 +4567,9 @@
       "authors": [
         "Jarom"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0399-01-01",
       "dateLatest": "-0361-01-01",
       "chapterCount": 1,
@@ -4075,7 +4599,9 @@
         "Abinadom",
         "Amaleki"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0323-01-01",
       "dateLatest": "-0130-01-01",
       "chapterCount": 1,
@@ -4102,7 +4628,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "0385-01-01",
       "dateLatest": "0385-01-01",
       "chapterCount": 1,
@@ -4131,7 +4659,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0130-01-01",
       "dateLatest": "-0091-01-01",
       "chapterCount": 29,
@@ -4188,7 +4718,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0091-01-01",
       "dateLatest": "-0052-01-01",
       "chapterCount": 63,
@@ -4283,7 +4815,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-0052-01-01",
       "dateLatest": "-0001-01-01",
       "chapterCount": 16,
@@ -4332,7 +4866,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "0005-01-01",
       "dateLatest": "0035-01-01",
       "chapterCount": 30,
@@ -4395,7 +4931,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "0035-01-01",
       "dateLatest": "0321-01-01",
       "chapterCount": 1,
@@ -4426,7 +4964,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "0321-01-01",
       "dateLatest": "0421-01-01",
       "chapterCount": 9,
@@ -4463,7 +5003,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "-2200-01-01",
       "dateLatest": "-0350-01-01",
       "chapterCount": 15,
@@ -4508,7 +5050,9 @@
       "authors": [
         "Mormon"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "0401-01-01",
       "dateLatest": "0401-01-01",
       "chapterCount": 10,
@@ -4549,7 +5093,9 @@
       "authors": [
         "Moses"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "06-01-1830",
       "dateLatest": "02-01-1831",
       "chapterCount": 8,
@@ -4588,7 +5134,9 @@
       "authors": [
         "Abraham"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "07-01-1835",
       "dateLatest": "07-01-1842",
       "chapterCount": 5,
@@ -4621,7 +5169,9 @@
       "authors": [
         "Joseph Smith"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "03-01-1842",
       "dateLatest": "03-01-1842",
       "chapterCount": 1,
@@ -4656,7 +5206,9 @@
       "authors": [
         "Joseph Smith"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "04-01-1838",
       "dateLatest": "04-30-1838",
       "chapterCount": 1,
@@ -4691,7 +5243,9 @@
       "authors": [
         "St. Matthew"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "03-07-1831",
       "dateLatest": "03-10-1831",
       "chapterCount": 1,
@@ -4722,7 +5276,9 @@
       "authors": [
         "Joseph Smith"
       ],
-      "traditions": [],
+      "traditions": [
+        "lds"
+      ],
       "dateEarliest": "1823-09-21",
       "dateLatest": "1841-01-19",
       "chapterCount": 138,
@@ -4935,8 +5491,7 @@
   ],
   "worksLookup": {},
   "booksLookup": {},
-  "groupsLookup": {},
-  "groupsLookups": {
+  "groupsLookup": {
     "OLD TESTAMENT": [
       0,
       1,
