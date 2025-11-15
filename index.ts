@@ -1,11 +1,3 @@
-export { default as getBookByName } from 'src/tools/getBookByName.ts';
-export { default as getWorkByName } from 'src/tools/getWorkByName.ts';
-export { default as parseCitation } from 'src/tools/parseCitation.ts';
-export { default as parseVerseRange } from 'src/tools/parseVerseRange.ts';
-export { default as parseVerseRangeWithContext } from 'src/tools/parseVerseRangeWithContext.ts';
-export { default as osisToCitation } from 'src/tools/osisToCitation.ts';
-export { default as getChapterList } from 'src/tools/getChapterList.ts';
-export { getRelativeChapter, getNextChapter, getPreviousChapter } from 'src/tools/getRelativeChapter.ts';
 export type {
   BookShape,
   WorkShape,
@@ -16,3 +8,15 @@ export type {
 export {
   works, worksLookup, books, booksLookup, groupsLookup
 } from 'data/compiled/books-and-works.ts';
+export { default as getBookByName } from 'src/tools/getBookByName.ts';
+export { default as getChapterList } from 'src/tools/getChapterList.ts';
+export { getRelativeChapter, getNextChapter, getPreviousChapter } from 'src/tools/getRelativeChapter.ts';
+export { default as getRelativeVerse, getNextVerse, getPreviousVerse } from 'src/tools/getRelativeVerse.ts';
+export { default as getVerseSiblings } from 'src/tools/getVerseSiblings.ts';
+export { default as getWorkByName } from 'src/tools/getWorkByName.ts';
+export { default as osisToCitation } from 'src/tools/osisToCitation.ts';
+export { default as parseCitation } from 'src/tools/parseCitation.ts';
+export { default as parseOsisID, parseVerseOsisID } from 'src/tools/parseOsisID.ts';
+export { default as parseVerseRange } from 'src/tools/parseVerseRange.ts';
+export { default as parseVerseReference } from 'src/tools/parseVerseReference.ts';
+export { default as validateOsisID, isValidOsisID, isValidVerseOsisID } from 'src/tools/validateOsisID.ts';

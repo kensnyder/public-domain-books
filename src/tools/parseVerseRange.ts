@@ -1,18 +1,22 @@
-import getBookByName from '~/tools/getBookByName.ts';
-import { getWorkByName } from '../../index.ts';
-
-const trim = (s: string) => s.trim();
+import getBookByName from './getBookByName.ts';
+import getWorkByName from './getWorkByName.ts';
+import parseOsisID from './parseOsisID.ts';
 
 export default function parseVerseRange(givenVerseOsisIDs: string[]) {
-  const [bookOsisID, chapterNumber] = givenVerseOsisIDs[0].split('.').map(trim);
+  const parsed = givenVerseOsisIDs.map(parseOsisID).filter(Boolean);
+  if (parsed.length === 0) {
+    return undefined;
+  }
+  const givenVerseNumbers = parsed.map((v) => v.verseNumber!);
+  const { bookOsisID, chapterNumber } = parsed[0];
   const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
-  const givenVerseNumbers = givenVerseOsisIDs
-    .map((v) => Number(v.split('.').pop()))
-    .filter(Boolean);
   const startNumber = givenVerseNumbers[0];
-  const endNumber = givenVerseNumbers[givenVerseNumbers.length - 1];
+  let endNumber = givenVerseNumbers[givenVerseNumbers.length - 1];
   const verseOsisIDs: string[] = [];
   const verseNumbers: number[] = [];
+  if (startNumber > endNumber) {
+    endNumber = startNumber;
+  }
   for (let i = startNumber; i <= endNumber; i++) {
     verseOsisIDs.push(`${chapterOsisID}.${i}`);
     verseNumbers.push(i);

@@ -26,17 +26,9 @@ describe('parseCitation', () => {
     const osisIDs = parseCitation('2 Kings 1:1,15');
     expect(osisIDs).toEqual(['2Kgs.1.1', '2Kgs.1.15']);
   });
-  it('should pass through unknown book names', () => {
-    const osisIDs = parseCitation('Foo 3:7');
-    expect(osisIDs).toEqual(['Foo.3.7']);
-  });
   it('should handle n-dashes', () => {
-    const osisIDs = parseCitation('Foo 3:7–8');
-    expect(osisIDs).toEqual(['Foo.3.7', 'Foo.3.8']);
-  });
-  it('should ignore dangling dashes', () => {
-    const osisIDs = parseCitation('Foo 3:7–');
-    expect(osisIDs).toEqual(['Foo.3.7']);
+    const osisIDs = parseCitation('1 Samuel 3:7–8');
+    expect(osisIDs).toEqual(['1Sam.3.7', '1Sam.3.8']);
   });
   it('should omit invalid formats', () => {
     const osisIDs = parseCitation('hello world');

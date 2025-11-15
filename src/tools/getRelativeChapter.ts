@@ -1,5 +1,5 @@
-import getBookByName from '~/tools/getBookByName.ts';
 import type { BookShape } from '~/types/data-shapes.ts';
+import getBookByName from './getBookByName.ts';
 
 export function getRelativeChapter(
   bookOsisID: string,
@@ -59,10 +59,11 @@ function toObject(book: BookShape, chapterNumber: number) {
     workOsisID: book.workOsisID,
     bookOsisID: book.bookOsisID,
     chapterOsisID: `${book.bookOsisID}.${chapterNumber}`,
+    verseOsisID: `${book.bookOsisID}.${chapterNumber}`,
     chapterNumber,
     chapterTitle:
       chapterNumber === 0
         ? 'Prologue'
-        : `${book.chapterCount} ${chapterNumber}`,
+        : `${book.chapterLabel} ${chapterNumber}`,
   };
 }

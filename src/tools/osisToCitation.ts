@@ -1,24 +1,21 @@
-import getBookByName from '~/tools/getBookByName.ts';
-
-const trim = (s: string) => s.trim();
+import parseOsisID from './parseOsisID.ts';
 
 export default function osisToCitation(osis: string) {
   if (!osis) {
     return null;
   }
-  const [rawBook, chapter, verse] = osis.split('.').map(trim);
-  const book = getBookByName(rawBook);
-  const shortName = book?.bookOsisID || rawBook;
-  const fullName = book?.bookName || rawBook;
-  if (chapter && verse) {
+  const { bookOsisID, chapterNumber, verseNumber, book } = parseOsisID(osis);
+  const shortName = book?.bookOsisID || bookOsisID;
+  const fullName = book?.bookName || bookOsisID;
+  if (chapterNumber && verseNumber) {
     return {
-      short: `${shortName} ${chapter}:${verse}`,
-      long: `${fullName} ${chapter}:${verse}`,
+      short: `${shortName} ${chapterNumber}:${verseNumber}`,
+      long: `${fullName} ${chapterNumber}:${verseNumber}`,
     };
-  } else if (chapter) {
+  } else if (chapterNumber) {
     return {
-      short: `${shortName} ${chapter}`,
-      long: `${fullName} ${chapter}`,
+      short: `${shortName} ${chapterNumber}`,
+      long: `${fullName} ${chapterNumber}`,
     };
   } else {
     return {

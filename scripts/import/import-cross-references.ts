@@ -5,13 +5,15 @@ export type ReferenceShape = {
   to: string;
   thru: string | null;
   votes: number;
-}
+};
 
 main().catch(console.error);
 
 async function main() {
   console.log('Fetching data from a.openbible.info');
-  const text = await fetchText('https://a.openbible.info/data/cross-references.zip');
+  const text = await fetchText(
+    'https://a.openbible.info/data/cross-references.zip',
+  );
   console.log(`Got ${text.length.toLocaleString()} bytes`);
   const lines = text.split('\n').filter(Boolean);
   console.log('First 4 lines:', lines.slice(0, 4).join('\n'));
@@ -20,8 +22,10 @@ async function main() {
   if (!header || !comment) {
     throw new Error('Invalid file format: Missing or malformed header');
   }
-  console.log(`Importing ${lines.length.toLocaleString()} cross-references from OpenBible.info`);
-  const references : ReferenceShape[] = [];
+  console.log(
+    `Importing ${lines.length.toLocaleString()} cross-references from OpenBible.info`,
+  );
+  const references: ReferenceShape[] = [];
   const license = comment[1]?.trim();
   const date = comment[2]?.trim();
   for (const line of lines) {
@@ -44,11 +48,15 @@ async function main() {
     date,
     references,
   };
-  const file = Bun.file(`${import.meta.dir}/../../data/crossReferences/KJV.json`);
+  const file = Bun.file(
+    `${import.meta.dir}/../../data/crossReferences/KJV.json`,
+  );
   console.log('writing data...');
   await file.write(JSON.stringify(data, null, 2));
 
-  console.log(`Saved ${lines.length.toLocaleString()} cross-references into ${file.size.toLocaleString()} bytes`);
+  console.log(
+    `Saved ${lines.length.toLocaleString()} cross-references into ${file.size.toLocaleString()} bytes`,
+  );
 }
 
 async function fetchText(url: string): Promise<string> {

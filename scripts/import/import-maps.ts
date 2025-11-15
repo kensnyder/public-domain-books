@@ -7,5 +7,5 @@ const toGet = [
   {
     title: '',
     url: 'https://biblesnet.com/images/005L.jpg',
-  }
-]
+  },
+];

@@ -1,4 +1,4 @@
-import getBookByName from '~/tools/getBookByName.ts';
+import getBookByName from './getBookByName.ts';
 
 export type ListedChapter = {
   chapterNumber: number;
