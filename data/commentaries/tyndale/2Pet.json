@@ -1,0 +1,518 @@
+{
+  "author": "William Tyndale",
+  "title": "Tyndale Open Study Notes",
+  "copyright": "© 2022 by Tyndale House Publishers",
+  "attribution": "CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0 and http://www.tyndaleopenresources.com",
+  "source": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+  "bookOsisID": "2Pet",
+  "bookName": "2 Peter",
+  "importedAt": "2025-11-25",
+  "commentary": [
+    {
+      "sequence": 16408,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.1",
+      "citation": {
+        "short": "2Pet 1:1",
+        "long": "2 Peter 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.1\">1:1</a></span> <span class=\"sn-excerpt\">Simon</span> was one of the most common Jewish names in the first century. Jesus gave him the name <span class=\"sn-excerpt\">Peter</span> (<a href=\"?bref=Matt.16.17-18\">Matt 16:17-18</a>). Many people in the Greco-Roman world would use both their given name in their native language and also a Greek name, since Greek was the <span class=\"ital\">lingua franca</span> (see <a href=\"?item=Acts.7.58_StudyNote_Filament\">study note on Acts 7:58</a>). • <span class=\"sn-excerpt\">a slave . . . of Jesus Christ:</span> In the Old Testament, important leaders of God’s people are called servants of the Lord (<a href=\"?bref=Josh.14.7\">Josh 14:7</a>; <a href=\"?bref=Josh.24.29\">24:29</a>; <a href=\"?bref=2Kgs.10.10\">2 Kgs 10:10</a>). The title underscores Peter’s submission to Christ and suggests that he had an important role in God’s plan. • <span class=\"sn-excerpt\">We</span> probably refers to Jewish Christians; the recipients were mostly Gentile Christians. In the new covenant, Gentile and Jewish Christians <span class=\"sn-excerpt\">share the same precious faith</span> and are on an equal footing as God’s people (see <a href=\"?bref=Gal.3.26-29\">Gal 3:26-29</a>). • This is one of the few places in the New Testament where <span class=\"sn-excerpt\">Jesus Christ</span> is called <span class=\"sn-excerpt\">God</span> (see also <a href=\"?bref=John.1.1\">John 1:1</a>; <a href=\"?bref=John.20.28\">20:28</a>; <a href=\"?bref=Rom.9.5\">Rom 9:5</a>; <a href=\"?bref=Titus.2.13\">Titus 2:13</a>; <a href=\"?bref=Heb.1.8\">Heb 1:8</a>; <a href=\"?bref=1Jn.5.20\">1 Jn 5:20</a>).</p>"
+    },
+    {
+      "sequence": 16409,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.3",
+      "citation": {
+        "short": "2Pet 1:3",
+        "long": "2 Peter 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.3-11\">1:3-11</a></span> An explanation of all that <span class=\"sn-excerpt\">God has given us</span> in Christ (<a href=\"?bref=2Pet.1.3-4\">1:3-4</a>) forms the basis for an urgent exhortation to grow in the knowledge of Christ (<a href=\"?bref=2Pet.1.5-11\">1:5-11</a>).</p>"
+    },
+    {
+      "sequence": 16410,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.3",
+      "citation": {
+        "short": "2Pet 1:3",
+        "long": "2 Peter 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.3\">1:3</a></span> <span class=\"sn-excerpt\">By his divine power, God has</span> (literally <span class=\"ital\">His divine power has</span>): The name of <span class=\"sn-excerpt\">God</span> does not occur in the Greek text; Peter could be referring to the <span class=\"ital\">divine power</span> of “Jesus our Lord” (<a href=\"?bref=2Pet.1.2\">1:2</a>).</p>"
+    },
+    {
+      "sequence": 16411,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.4",
+      "citation": {
+        "short": "2Pet 1:4",
+        "long": "2 Peter 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.4\">1:4</a></span> <span class=\"sn-excerpt\">enable you to share his divine nature:</span> Peter probably did not mean that our souls are merged with God but that believers share God’s qualities (cp. <a href=\"?bref=Lev.11.44\">Lev 11:44</a>; <a href=\"?bref=Matt.5.43-48\">Matt 5:43-48</a>; <a href=\"?bref=Eph.4.24\">Eph 4:24</a>; <a href=\"?bref=Eph.5.1\">5:1</a>).</p>"
+    },
+    {
+      "sequence": 16412,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.5",
+      "citation": {
+        "short": "2Pet 1:5",
+        "long": "2 Peter 1:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.5-7\">1:5-7</a></span> The stair-step structure of these verses, with each virtue leading to another, is a common literary device called a <span class=\"ital\">sorites</span>. The sequence in such passages is not stressed—e.g., Peter does not imply that <span class=\"sn-excerpt\">moral excellence</span> must come before <span class=\"sn-excerpt\">knowledge</span>. Yet <span class=\"sn-excerpt\">love</span> is the pinnacle of the virtues (<a href=\"?bref=2Pet.1.7\">1:7</a>).</p>"
+    },
+    {
+      "sequence": 16413,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.10",
+      "citation": {
+        "short": "2Pet 1:10",
+        "long": "2 Peter 1:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.10\">1:10</a></span> <span class=\"sn-excerpt\">dear brothers and sisters:</span> This Greek term (<span class=\"greek\">adelphoi</span>) refers to people, both male and female, who are members of the same family. • <span class=\"sn-excerpt\">Work hard to prove</span> (literally <span class=\"ital\">Be zealous to make certain</span>): Peter did not mean that our being <span class=\"sn-excerpt\">chosen</span> by God for salvation depends on what we do, but that our zeal to grow in Christian virtue confirms that we have, indeed, been chosen by God.</p>"
+    },
+    {
+      "sequence": 16414,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.12",
+      "citation": {
+        "short": "2Pet 1:12",
+        "long": "2 Peter 1:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.12-15\">1:12-15</a></span> Peter was writing at the end of his life, and 2 Peter is similar to works that belong to a popular Jewish genre called the <span class=\"ital\">testament,</span> in which an old and respected leader gives final instructions to his children or others on his deathbed (cp. <a href=\"?bref=Deut.31.1-33.29\">Deut 31–33</a>; <a href=\"?bref=Josh.24.1-33\">Josh 24</a>). This genre is especially well known from a Jewish work called <span class=\"ital\">The Testaments of the Twelve Patriarchs.</span></p>"
+    },
+    {
+      "sequence": 16415,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.14",
+      "citation": {
+        "short": "2Pet 1:14",
+        "long": "2 Peter 1:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.14\">1:14</a></span> This prophecy might have come in a vision, but it is more likely that Peter was recalling Jesus’ prophecy about his death (<a href=\"?bref=John.21.18-19\">John 21:18-19</a>).</p>"
+    },
+    {
+      "sequence": 16416,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.16",
+      "citation": {
+        "short": "2Pet 1:16",
+        "long": "2 Peter 1:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.16-21\">1:16-21</a></span> Peter’s denunciation of the false teachers (ch <a href=\"?bref=2Pet.2.1-22\">2</a>) is framed by this teaching about the certainty of Jesus’ return (see also <a href=\"?bref=2Pet.3.1-13\">3:1-13</a>). The false teachers were probably denying the reality of Christ’s return and judgment. Peter’s eyewitness experience (<a href=\"?bref=2Pet.1.16-18\">1:16-18</a>) and the intrinsic reliability of scriptural prophecy (<a href=\"?bref=2Pet.1.19-21\">1:19-21</a>) make Christ’s return a certainty.</p>"
+    },
+    {
+      "sequence": 16417,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.16",
+      "citation": {
+        "short": "2Pet 1:16",
+        "long": "2 Peter 1:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.16-18\">1:16-18</a></span> <span class=\"sn-excerpt\">clever stories</span> (literally <span class=\"ital\">cleverly invented myths</span>): The false teachers were probably charging that the message of Christ’s return was just an edifying fable with no factual truth. • <span class=\"sn-excerpt\">We saw his majestic splendor with our own eyes:</span> At Jesus’ transfiguration (<a href=\"?bref=Matt.17.1-9\">Matt 17:1-9</a>; <a href=\"?bref=Mark.9.2-8\">Mark 9:2-8</a>; <a href=\"?bref=Luke.9.28-36\">Luke 9:28-36</a>), which prefigured Christ’s return by revealing Jesus as the glorious King. Peter’s confidence was not based on human speculation but on eyewitness experience.</p>"
+    },
+    {
+      "sequence": 16418,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.19",
+      "citation": {
+        "short": "2Pet 1:19",
+        "long": "2 Peter 1:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.19\">1:19</a></span> The word <span class=\"sn-excerpt\">Day</span> is capitalized because it is shorthand for <span class=\"ital\">the day of the Lord,</span> the time when God intervenes in history to save his people and judge his enemies (see <a href=\"?bref=Isa.13.4-12\">Isa 13:4-12</a>; <a href=\"?bref=Joel.2.1-32\">Joel 2:1-32</a>; <a href=\"?bref=Zeph.2.1-3\">Zeph 2:1-3</a>). The first coming of Christ inaugurated the day of the Lord’s salvation for his people. A future day of the Lord’s judgment on his enemies is yet to come. • <span class=\"sn-excerpt\">Christ the Morning Star:</span> The planet Venus, known as the “morning star,” often appears above the eastern horizon just before dawn. Peter reverses the order of natural events: The dawning of the day of the Lord leads to the Morning Star’s shining in the hearts of believers.</p>"
+    },
+    {
+      "sequence": 16419,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.1",
+      "verseOsisID": "2Pet.1.20",
+      "citation": {
+        "short": "2Pet 1:20",
+        "long": "2 Peter 1:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.1.20-21\">1:20-21</a></span> <span class=\"sn-excerpt\">came from the prophet’s own understanding</span> (or <span class=\"ital\">is a matter of one’s own interpretation</span>): The point is probably that the prophets were not left on their own to interpret the visions that God gave them. God made the meaning clear to the prophets, so that they could prophesy clearly and reliably.</p>"
+    },
+    {
+      "sequence": 16420,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.1",
+      "citation": {
+        "short": "2Pet 2:1",
+        "long": "2 Peter 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.1-3\">2:1-3</a></span> Alongside authentic prophets (<a href=\"?bref=2Pet.1.20-21\">1:20-21</a>), there have always been <span class=\"sn-excerpt\">false</span> prophets who receive God’s judgment.</p>"
+    },
+    {
+      "sequence": 16421,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.1",
+      "citation": {
+        "short": "2Pet 2:1",
+        "long": "2 Peter 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.1\">2:1</a></span> <span class=\"sn-excerpt\">They will:</span> Peter’s use of the future tense in <a href=\"?bref=2Pet.2.1-3\">2:1-3</a> does not imply that false prophets had not yet come, but it alludes to Jesus’ prediction that false teachers would arise (<a href=\"?bref=Matt.24.11\">Matt 24:11</a>, <a href=\"?bref=Matt.24.24\">24</a>; <a href=\"?bref=Mark.13.22\">Mark 13:22</a>; cp. <a href=\"?bref=Acts.20.29-31\">Acts 20:29-31</a>; <a href=\"?bref=2Tim.3.1-6\">2 Tim 3:1-6</a>). The false teachers who had arisen fulfilled that prediction. • <span class=\"sn-excerpt\">deny the Master who bought them:</span> The false teachers might have been overtly renouncing Christ, but it is more likely that their immoral conduct constituted a denial of Christ (cp. <a href=\"?bref=Titus.1.16\">Titus 1:16</a>).</p>"
+    },
+    {
+      "sequence": 16422,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.2",
+      "citation": {
+        "short": "2Pet 2:2",
+        "long": "2 Peter 2:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.2\">2:2</a></span> One of the saddest effects of false teaching is that <span class=\"sn-excerpt\">the way of truth will be slandered</span> by a watching world. By their immoral and greedy conduct, false teachers bring shame on Christ.</p>"
+    },
+    {
+      "sequence": 16423,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.4",
+      "citation": {
+        "short": "2Pet 2:4",
+        "long": "2 Peter 2:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.4-10\">2:4-10</a></span> Three Old Testament examples of judgment show that God will vindicate those who remain faithful to him and will condemn those who deny him, including the false teachers (see <a href=\"?bref=2Pet.2.3\">2:3</a>).</p>"
+    },
+    {
+      "sequence": 16424,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.4",
+      "citation": {
+        "short": "2Pet 2:4",
+        "long": "2 Peter 2:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.4\">2:4</a></span> The first example of judgment is <span class=\"sn-excerpt\">the angels who sinned:</span> The widespread Jewish tradition was that “the sons of God” in <a href=\"?bref=Gen.6.1-5\">Gen 6:1-5</a> (understood as angels) had intercourse with women and were therefore judged by God at that time (see <span class=\"ital\">1 Enoch</span> 6–10; cp. <a href=\"?bref=1Pet.3.19-20\">1 Pet 3:19-20</a>; <a href=\"?bref=Jude.1.6\">Jude 1:6</a>). • <span class=\"sn-excerpt\">in gloomy pits of darkness:</span> This description of the underworld was popular in the ancient world and is probably metaphorical.</p>"
+    },
+    {
+      "sequence": 16425,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.5",
+      "citation": {
+        "short": "2Pet 2:5",
+        "long": "2 Peter 2:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.5\">2:5</a></span> The second example of judgment is that <span class=\"sn-excerpt\">God did not spare the ancient world</span> at the time of <span class=\"sn-excerpt\">Noah</span>. In the flood, God destroyed all human life apart from Noah and <span class=\"sn-excerpt\">his family</span> (see <a href=\"?bref=Gen.6.1-8.22\">Gen 6–8</a>).</p>"
+    },
+    {
+      "sequence": 16426,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.6",
+      "citation": {
+        "short": "2Pet 2:6",
+        "long": "2 Peter 2:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.6\">2:6</a></span> The third example of judgment is that <span class=\"sn-excerpt\">God condemned the cities of Sodom and Gomorrah</span>. The people of these cities were so immoral that God rained down sulfur from heaven to destroy them (<a href=\"?bref=Gen.19.24\">Gen 19:24</a>). Peter focuses on the result of this action: The cities were turned into <span class=\"sn-excerpt\">heaps of ashes</span>.</p>"
+    },
+    {
+      "sequence": 16427,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.7",
+      "citation": {
+        "short": "2Pet 2:7",
+        "long": "2 Peter 2:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.7-8\">2:7-8</a></span> Even though the Old Testament does not portray <span class=\"sn-excerpt\">Lot</span> as a particularly <span class=\"sn-excerpt\">righteous man</span> (see “<a href=\"?item=Lot_Profile_Filament\">Lot</a>” Profile), he remained basically faithful to the Lord; Jewish tradition also portrays him as righteous (see <span class=\"ital\">Wisdom of Solomon</span> 10:6; 19:17).</p>"
+    },
+    {
+      "sequence": 16428,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.9",
+      "citation": {
+        "short": "2Pet 2:9",
+        "long": "2 Peter 2:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.9\">2:9</a></span> <span class=\"sn-excerpt\">the Lord knows how to rescue godly people from their trials:</span> As illustrated by Noah’s family (<a href=\"?bref=2Pet.2.5\">2:5</a>) and Lot (<a href=\"?bref=2Pet.2.7\">2:7</a>), the Lord is faithful to his own people. Peter’s readers needed assurance that their struggles to live godly lives in the face of false teaching and the world’s scorn would be rewarded.</p>"
+    },
+    {
+      "sequence": 16429,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.10",
+      "citation": {
+        "short": "2Pet 2:10",
+        "long": "2 Peter 2:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.10\">2:10a</a></span> <span class=\"sn-excerpt\">twisted sexual desire:</span> The reference is to illicit sexual desire generally and possibly to homosexuality in particular (cp. reference to Sodom and Gomorrah, <a href=\"?bref=2Pet.2.6\">2:6</a>). • The false teachers were so arrogant that they refused to listen to any <span class=\"sn-excerpt\">authority</span> but their own.</p>"
+    },
+    {
+      "sequence": 16430,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.10",
+      "citation": {
+        "short": "2Pet 2:10",
+        "long": "2 Peter 2:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.10-16\">2:10b-16</a></span> This profile of the false teachers focuses more on how they were living than on what they were teaching.</p>"
+    },
+    {
+      "sequence": 16431,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.10",
+      "citation": {
+        "short": "2Pet 2:10",
+        "long": "2 Peter 2:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.10\">2:10b</a></span> <span class=\"sn-excerpt\">supernatural beings:</span> Probably evil angels, in contrast to the angels of <a href=\"?bref=2Pet.2.11\">2:11</a>. It is wrong to <span class=\"sn-excerpt\">scoff</span> even at evil angels, because they bear the mark of their glorious origin—they have real power and pose a real threat to humans.</p>"
+    },
+    {
+      "sequence": 16432,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.11",
+      "citation": {
+        "short": "2Pet 2:11",
+        "long": "2 Peter 2:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.11\">2:11</a></span> Even <span class=\"sn-excerpt\">angels</span> <span class=\"ital\">. . .</span> <span class=\"sn-excerpt\">do not dare</span> to charge evil <span class=\"sn-excerpt\">supernatural beings</span> with blasphemy, but the false teachers were so arrogant that they did not hesitate to do so.</p>"
+    },
+    {
+      "sequence": 16433,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.13",
+      "citation": {
+        "short": "2Pet 2:13",
+        "long": "2 Peter 2:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.13\">2:13</a></span> <span class=\"sn-excerpt\">They delight in deception even as they eat with you in your fellowship meals:</span> Cp. <a href=\"?bref=Jude.1.12\">Jude 1:12</a>. Christians often ate fellowship meals together in celebration of the Lord (see <a href=\"?bref=Acts.2.46\">Acts 2:46</a>; <a href=\"?bref=Acts.6.1\">6:1</a>). The false teachers were using these mealtimes as opportunities to deceive true believers. Some manuscripts read <span class=\"ital\">They delight</span> (or <span class=\"ital\">revel,</span> or <span class=\"ital\">carouse</span>) <span class=\"ital\">in their fellowship meals as they eat with you.</span> If this reading is correct, they were using the fellowship meals for self-indulgence (cp. <a href=\"?bref=1Cor.11.20-22\">1 Cor 11:20-22</a>).</p>"
+    },
+    {
+      "sequence": 16434,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.15",
+      "citation": {
+        "short": "2Pet 2:15",
+        "long": "2 Peter 2:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.15\">2:15</a></span> <span class=\"sn-excerpt\">who loved to earn money by doing wrong:</span> Despite consulting with God about what he should do, Balaam was determined to go his own way in hopes of receiving Balak’s money (see <a href=\"?bref=Num.22.1-24.25\">Num 22–24</a>). The Old Testament account hints at Balaam’s greed, and Jewish tradition developed this theme (see <span class=\"ital\">Numbers Rabbah</span> 20:10; <span class=\"ital\">Mishnah Avot</span> 5:22; Philo, <span class=\"ital\">Moses</span> 1:266-268).</p>"
+    },
+    {
+      "sequence": 16435,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.17",
+      "citation": {
+        "short": "2Pet 2:17",
+        "long": "2 Peter 2:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.17-22\">2:17-22</a></span> Peter continues his description of the false teachers by explaining their effect on other people.</p>"
+    },
+    {
+      "sequence": 16436,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.18",
+      "citation": {
+        "short": "2Pet 2:18",
+        "long": "2 Peter 2:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.18\">2:18</a></span> <span class=\"sn-excerpt\">those who have barely escaped:</span> The false teachers cleverly targeted new converts, people who had only recently committed themselves to Christ.</p>"
+    },
+    {
+      "sequence": 16437,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.19",
+      "citation": {
+        "short": "2Pet 2:19",
+        "long": "2 Peter 2:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.19\">2:19</a></span> One of the great lures of false teaching through the centuries has been the <span class=\"sn-excerpt\">promise</span> of <span class=\"sn-excerpt\">freedom</span> from authority, but such freedom is illusory (<a href=\"?bref=Rom.6.16\">Rom 6:16</a>). The false teachers, while reveling in their freedom from authority (see <a href=\"?bref=2Pet.2.10\">2 Pet 2:10</a>), were in fact <span class=\"sn-excerpt\">slaves</span> to <span class=\"sn-excerpt\">sin and corruption</span>.</p>"
+    },
+    {
+      "sequence": 16438,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.20",
+      "citation": {
+        "short": "2Pet 2:20",
+        "long": "2 Peter 2:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.20\">2:20</a></span> <span class=\"sn-excerpt\">they are worse off than before:</span> The false teachers or their followers had known the truth, but their deliberate rejection of that truth put them in a far worse situation than when they ignorantly lived in sin.</p>"
+    },
+    {
+      "sequence": 16439,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.2",
+      "verseOsisID": "2Pet.2.22",
+      "citation": {
+        "short": "2Pet 2:22",
+        "long": "2 Peter 2:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.2.22\">2:22</a></span> <span class=\"sn-excerpt\">“A dog returns to its vomit”:</span> Dogs were not seen as friendly family pets but as wild and filthy beasts. • <span class=\"sn-excerpt\">“A washed pig returns to the mud”:</span> This proverb might go back to a popular book of sayings called <span class=\"ital\">Ahiqar</span> from around 500 <span class=\"era\">BC</span>, which reads, “My son, you have been to me like the pig who went into the hot bath with people of quality, and when it came out of the hot bath, it saw a filthy hole and went down and wallowed in it” (<span class=\"ital\">Ahiqar</span> 8:18).</p>"
+    },
+    {
+      "sequence": 16440,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.1",
+      "citation": {
+        "short": "2Pet 3:1",
+        "long": "2 Peter 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.1-13\">3:1-13</a></span> Peter shifts from denunciation of false teachers to exhortation of believers. The false teachers’ skepticism about Christ’s return required clear teaching. Christians need to hold onto the apostolic message about the day of judgment and live godly lives in anticipation of that day.</p>"
+    },
+    {
+      "sequence": 16441,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.1",
+      "citation": {
+        "short": "2Pet 3:1",
+        "long": "2 Peter 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.1\">3:1</a></span> <span class=\"sn-excerpt\">This is my second letter to you:</span> The previous letter was probably 1 Peter.</p>"
+    },
+    {
+      "sequence": 16442,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.2",
+      "citation": {
+        "short": "2Pet 3:2",
+        "long": "2 Peter 3:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.2\">3:2</a></span> <span class=\"sn-excerpt\">The holy prophets</span> of the Old Testament predicted the day of the Lord, when God would judge his enemies (see <a href=\"?item=IIPet.1.19_StudyNote_Filament\">study note on 1:19</a>). • <span class=\"sn-excerpt\">what our Lord and Savior commanded:</span> Jesus had taught the church <span class=\"sn-excerpt\">through</span> the <span class=\"sn-excerpt\">apostles</span>.</p>"
+    },
+    {
+      "sequence": 16443,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.3",
+      "citation": {
+        "short": "2Pet 3:3",
+        "long": "2 Peter 3:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.3\">3:3</a></span> <span class=\"sn-excerpt\">in the last days:</span> Peter was not merely predicting an event in the future; he was speaking about his readers’ situation. In the New Testament, <span class=\"ital\">the last days</span> refers to the period from Jesus’ first coming to his second coming (see <a href=\"?bref=Acts.2.17\">Acts 2:17</a>; <a href=\"?bref=Heb.1.2\">Heb 1:2</a>). It is the time when God’s promises are fulfilled. • <span class=\"sn-excerpt\">scoffers will come:</span> See <a href=\"?bref=Pr.1.22\">Prov 1:22</a>; <a href=\"?bref=Pr.9.7-8\">9:7-8</a>; <a href=\"?bref=Pr.13.1\">13:1</a>. Rather than using evidence and logic to argue, scoffers belittle and make fun of the truth.</p>"
+    },
+    {
+      "sequence": 16444,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.4",
+      "citation": {
+        "short": "2Pet 3:4",
+        "long": "2 Peter 3:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.4\">3:4</a></span> <span class=\"sn-excerpt\">From before the times of our ancestors:</span> The false teachers were probably claiming that, for all of God’s promises to intervene in history, things had not really changed and never would.</p>"
+    },
+    {
+      "sequence": 16445,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.5",
+      "citation": {
+        "short": "2Pet 3:5",
+        "long": "2 Peter 3:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.5\">3:5</a></span> Creation is the first evidence that the false teachers were wrong: Change does happen. If God made the world, he certainly can destroy it. • <span class=\"sn-excerpt\">brought the earth out from the water:</span> See <a href=\"?bref=Gen.1.2\">Gen 1:2</a>, <a href=\"?bref=Gen.1.6-10\">6-10</a>.</p>"
+    },
+    {
+      "sequence": 16446,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.7",
+      "citation": {
+        "short": "2Pet 3:7",
+        "long": "2 Peter 3:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.7\">3:7</a></span> The Old Testament associates <span class=\"sn-excerpt\">fire</span> with the day of the Lord (see <a href=\"?bref=Isa.30.30\">Isa 30:30</a>; <a href=\"?bref=Isa.66.15-16\">66:15-16</a>).</p>"
+    },
+    {
+      "sequence": 16447,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.8",
+      "citation": {
+        "short": "2Pet 3:8",
+        "long": "2 Peter 3:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.8\">3:8</a></span> Peter alludes to <a href=\"?bref=Ps.90.4\">Ps 90:4</a>. God operates according to his time scale. He will send his Son in his own good time.</p>"
+    },
+    {
+      "sequence": 16448,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.10",
+      "citation": {
+        "short": "2Pet 3:10",
+        "long": "2 Peter 3:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.10\">3:10</a></span> The <span class=\"sn-excerpt\">very elements themselves</span> might refer to the basic components of the physical universe or to the sun, moon, and stars. • <span class=\"sn-excerpt\">will be found to deserve judgment:</span> The Greek text here is difficult; the reading followed by the NLT probably means that creation <span class=\"ital\">will appear before</span> God at the time of judgment, and he will find it to deserve his judgment.</p>"
+    },
+    {
+      "sequence": 16449,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.12",
+      "citation": {
+        "short": "2Pet 3:12",
+        "long": "2 Peter 3:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.12\">3:12</a></span> <span class=\"sn-excerpt\">looking forward to the day of God and hurrying it along:</span> God’s people can hasten the end by their repentance and godly living (cp. <a href=\"?bref=Acts.3.19-20\">Acts 3:19-20</a>). • <span class=\"sn-excerpt\">the elements will melt away:</span> Cp. <a href=\"?bref=Mic.1.3-4\">Mic 1:3-4</a>; see also <a href=\"?bref=Isa.63.19-64.1\">Isa 63:19–64:1</a>.</p>"
+    },
+    {
+      "sequence": 16450,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.13",
+      "citation": {
+        "short": "2Pet 3:13",
+        "long": "2 Peter 3:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.13\">3:13</a></span> <span class=\"sn-excerpt\">the new heavens and new earth:</span> See <a href=\"?bref=Isa.65.17\">Isa 65:17</a>; <a href=\"?bref=Isa.66.22\">66:22</a>; <a href=\"?bref=Rev.21.1-27\">Rev 21</a>.</p>"
+    },
+    {
+      "sequence": 16451,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.15",
+      "citation": {
+        "short": "2Pet 3:15",
+        "long": "2 Peter 3:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.15\">3:15</a></span> <span class=\"sn-excerpt\">our beloved brother Paul:</span> The New Testament tells us little about the relationship between Peter and Paul. Because of the dispute in Antioch (<a href=\"?bref=Gal.2.11-14\">Gal 2:11-14</a>), it is sometimes thought that the two were hostile to one another, but the New Testament paints a different picture. Peter and Paul essentially agreed about the Good News for the Gentiles (<a href=\"?bref=Acts.11.2-18\">Acts 11:2-18</a>; <a href=\"?bref=Acts.15.7-11\">15:7-11</a>). Silas and Mark were associates of both Paul and Peter (see <a href=\"?bref=1Pet.5.12-13\">1 Pet 5:12-13</a>). According to tradition, both apostles were martyred in Rome during the same persecution by Nero in the mid-60s <span class=\"era\">AD</span>.</p>"
+    },
+    {
+      "sequence": 16452,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.16",
+      "citation": {
+        "short": "2Pet 3:16",
+        "long": "2 Peter 3:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.16\">3:16</a></span> Peter probably knew of <span class=\"sn-excerpt\">all</span> but one or two of Paul’s <span class=\"sn-excerpt\">letters</span> by this time. Peter’s language implies that he considered the letters of Paul to belong in the category of <span class=\"sn-excerpt\">Scripture</span>.</p>"
+    },
+    {
+      "sequence": 16453,
+      "bookOsisID": "2Pet",
+      "chapterOsisID": "2Pet.3",
+      "verseOsisID": "2Pet.3.17",
+      "citation": {
+        "short": "2Pet 3:17",
+        "long": "2 Peter 3:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=2Pet.3.17-18\">3:17-18</a></span> Peter restates his purpose: to protect his readers from false teachers so that they can <span class=\"sn-excerpt\">grow</span> in <span class=\"sn-excerpt\">grace</span>. He ends with a doxology to <span class=\"sn-excerpt\">our Lord and Savior Jesus Christ</span>.</p>"
+    }
+  ]
+}

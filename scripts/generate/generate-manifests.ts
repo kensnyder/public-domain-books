@@ -49,6 +49,20 @@ type ManifestFormat = {
     modelId: string;
     createdAt: string;
   }>;
+  commentaries: Array<{
+    dataPath: string;
+    commentaryID: string;
+    workOsisID: string;
+    bookOsisID: string;
+    compiledAt: string;
+  }>;
+  dictionaries: Array<{
+    dataPath: string;
+    dictionaryID: string;
+    workOsisID: string;
+    sectionLetter: string;
+    compiledAt: string;
+  }>;
 };
 
 main().catch(console.error);
@@ -66,6 +80,8 @@ async function main() {
     geocoding: [],
     maps: [],
     artwork: [],
+    commentaries: await getCommentaries(),
+    dictionaries: [],
   };
   const file = Bun.file(`${import.meta.dir}/../../data/compiled/manifest.json`);
   await file.write(JSON.stringify(manifest, null, 2));
@@ -110,6 +126,27 @@ async function getVerses() {
   }
   return verses;
 }
+
+async function getCommentaries() {
+  const commentaries: ManifestFormat['commentaries'] = [];
+  const glob = new Glob('**/*.json');
+  const baseDir = `${import.meta.dir}/../../data/commentaries`;
+  for await (const dataPath of glob.scan(baseDir)) {
+    const workOsisID = 'KJV';
+    const [commentaryID, bookOsisID] = dataPath.split(/[/.]/);
+    const file = Bun.file(`${baseDir}/${dataPath}`);
+    const data = await file.json();
+    commentaries.push({
+      dataPath: `data/verses/${dataPath}`,
+      workOsisID,
+      commentaryID,
+      bookOsisID,
+      compiledAt: data.importedAt,
+    });
+  }
+  return commentaries;
+}
+
 async function getAnalysisFiles() {
   const glob = new Glob('**/*.json');
   const baseDir = `${import.meta.dir}/../../data/analysis`;

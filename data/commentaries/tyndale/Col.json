@@ -1,0 +1,793 @@
+{
+  "author": "William Tyndale",
+  "title": "Tyndale Open Study Notes",
+  "copyright": "© 2022 by Tyndale House Publishers",
+  "attribution": "CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0 and http://www.tyndaleopenresources.com",
+  "source": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+  "bookOsisID": "Col",
+  "bookName": "Colossians",
+  "importedAt": "2025-11-25",
+  "commentary": [
+    {
+      "sequence": 15550,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.1",
+      "citation": {
+        "short": "Col 1:1",
+        "long": "Colossians 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.1\">1:1</a></span> <span class=\"sn-excerpt\">Timothy</span> was one of Paul’s closest co-workers. So close was their relationship and so significant Timothy’s ministry that Paul included him as one of the senders of this letter as well as of 2 Corinthians, Philippians, 1 and 2 Thessalonians, and Philemon.</p>"
+    },
+    {
+      "sequence": 15551,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.2",
+      "citation": {
+        "short": "Col 1:2",
+        "long": "Colossians 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.2\">1:2</a></span> <span class=\"sn-excerpt\">Colosse</span> was situated in the Lycus River valley in western Asia Minor, about 120 miles (193 kilometers) east of Ephesus and 10 miles (16 kilometers) southeast of Laodicea. Its location on an important Roman road meant that it was influenced by the social and religious currents of the time. • <span class=\"sn-excerpt\">brothers and sisters:</span> Greek <span class=\"greek\">adelphoi,</span> a generic term commonly used to refer to members of the same family, both male and female.</p>"
+    },
+    {
+      "sequence": 15552,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.3",
+      "citation": {
+        "short": "Col 1:3",
+        "long": "Colossians 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.3-14\">1:3-14</a></span> This opening section begins with a thanksgiving, typical of New Testament letters. Paul thanks God for the Colossians’ progress in the faith and prays that they might understand it even better. With this prayer, Paul hints at his concern about the influence of false teachers.</p>"
+    },
+    {
+      "sequence": 15553,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.4",
+      "citation": {
+        "short": "Col 1:4",
+        "long": "Colossians 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.4\">1:4</a></span> <span class=\"sn-excerpt\">God’s people</span> (literally <span class=\"ital\">holy ones,</span> or <span class=\"ital\">saints</span>): In the New Testament, all Christians are <span class=\"ital\">saints,</span> people who have been specially set apart by God as his own holy people (<a href=\"?bref=Col.3.12\">3:12</a>).</p>"
+    },
+    {
+      "sequence": 15554,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.5",
+      "citation": {
+        "short": "Col 1:5",
+        "long": "Colossians 1:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.5\">1:5</a></span> The Colossian Christians’ <span class=\"sn-excerpt\">confident hope</span> gives them a secure foundation for their faith and love (<a href=\"?bref=Col.1.4\">1:4</a>). • <span class=\"sn-excerpt\">What God has reserved</span> for believers has not yet been fully revealed, but it already exists <span class=\"sn-excerpt\">in heaven</span>.</p>"
+    },
+    {
+      "sequence": 15555,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.6",
+      "citation": {
+        "short": "Col 1:6",
+        "long": "Colossians 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.6\">1:6</a></span> <span class=\"sn-excerpt\">bearing fruit everywhere by changing lives:</span> The <span class=\"sn-excerpt\">Good News</span> is effective to change lives and bring about spiritual growth (cp. <a href=\"?bref=Col.1.10\">1:10</a>).</p>"
+    },
+    {
+      "sequence": 15556,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.7",
+      "citation": {
+        "short": "Col 1:7",
+        "long": "Colossians 1:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.7\">1:7</a></span> <span class=\"sn-excerpt\">Epaphras</span> (see also <a href=\"?bref=Col.4.12-13\">4:12-13</a>; <a href=\"?bref=Phlm.1.23\">Phlm 1:23</a>) was probably converted when Paul ministered in Ephesus (see <a href=\"?bref=Acts.19.10\">Acts 19:10</a>) and then returned to Colosse to bring the <span class=\"sn-excerpt\">Good News</span> to his own town.</p>"
+    },
+    {
+      "sequence": 15557,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.9",
+      "citation": {
+        "short": "Col 1:9",
+        "long": "Colossians 1:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.9-10\">1:9-10</a></span> Paul prays that God would grant his readers deeper understanding of the Good News and its full expression in their lives. Spiritual growth yields a clearer and deeper comprehension of Christian truth and conduct that pleases the Lord, through which a believer will have the endurance and patience to stand firm against evil (<a href=\"?bref=Col.1.11\">1:11</a>).</p>"
+    },
+    {
+      "sequence": 15558,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.12",
+      "citation": {
+        "short": "Col 1:12",
+        "long": "Colossians 1:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.12-13\">1:12-13</a></span> <span class=\"sn-excerpt\">always thanking the Father:</span> Humble gratitude to God for salvation is a powerful antidote to the lure of false teaching (see also <a href=\"?bref=Col.2.7\">2:7</a>; <a href=\"?bref=Col.3.17\">3:17</a>; <a href=\"?bref=Col.4.2\">4:2</a>). • The <span class=\"sn-excerpt\">inheritance</span> is what God has promised his people (e.g., see <a href=\"?bref=Deut.3.28\">Deut 3:28</a>; <a href=\"?bref=Ps.33.12\">Ps 33:12</a>; <a href=\"?bref=Ezek.44.28\">Ezek 44:28</a>). In the New Testament, <span class=\"ital\">the inheritance</span> consists of salvation and final deliverance (see also <a href=\"?bref=Eph.1.11\">Eph 1:11</a>; <a href=\"?bref=Titus.3.7\">Titus 3:7</a>; <a href=\"?bref=Heb.9.15\">Heb 9:15</a>).</p>"
+    },
+    {
+      "sequence": 15559,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.15",
+      "citation": {
+        "short": "Col 1:15",
+        "long": "Colossians 1:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.15-20\">1:15-20</a></span> Paul presents Jesus as the supreme creator (<a href=\"?bref=Col.1.15-17\">1:15-17</a>) and redeemer (<a href=\"?bref=Col.1.18-20\">1:18-20</a>). The series of short statements, the exalted conceptions of Christ, and the parallelism in language and thought strongly suggest that these verses quote an early Christian hymn about Jesus that Paul applied to the situation of the Colossian Christians.</p>"
+    },
+    {
+      "sequence": 15560,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.15",
+      "citation": {
+        "short": "Col 1:15",
+        "long": "Colossians 1:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.15\">1:15</a></span> <span class=\"sn-excerpt\">visible image:</span> In the Greek translation of the Old Testament, <span class=\"greek\">eikōn</span> (“image, representation”) is used to refer to human beings having been made in the image of God (<a href=\"?bref=Gen.1.26-27\">Gen 1:26-27</a>) and also to the wisdom figure in Jewish writings (see <span class=\"ital\">Wisdom of Solomon</span> 7:25-26). The New Testament writers speak about <span class=\"sn-excerpt\">Christ</span> as God’s wisdom to help explain his significance (cp. <a href=\"?bref=1Cor.1.24\">1 Cor 1:24</a>, <a href=\"?bref=1Cor.1.30\">30</a>). • <span class=\"sn-excerpt\">He existed before anything was created and is supreme over all creation</span> (or <span class=\"ital\">He is the firstborn of all creation</span>): This phrase figured prominently in early Christian debates about the nature of Christ. <span class=\"ital\">Firstborn</span> does not mean he was created; it is a title, drawn from the Old Testament, indicating supremacy of rank and priority in time (see, e.g., <a href=\"?bref=Ps.89.27\">Ps 89:27</a>).</p>"
+    },
+    {
+      "sequence": 15561,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.16",
+      "citation": {
+        "short": "Col 1:16",
+        "long": "Colossians 1:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.16\">1:16</a></span> <span class=\"sn-excerpt\">Thrones, kingdoms, rulers, and authorities in the unseen world</span> refer to various spiritual powers. This line emphasizes Christ’s supremacy over these beings who were getting so much attention from the false teachers (see <a href=\"?bref=Col.2.18\">2:18</a>). • <span class=\"sn-excerpt\">Everything was created through him and for him:</span> Christ is both the one through whom all things were created and the goal of all creation.</p>"
+    },
+    {
+      "sequence": 15562,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.18",
+      "citation": {
+        "short": "Col 1:18",
+        "long": "Colossians 1:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.18\">1:18</a></span> <span class=\"sn-excerpt\">head of the church:</span> The Greek word <span class=\"greek\">kephalē</span> (head) usually has the sense of <span class=\"ital\">authority over</span> or <span class=\"ital\">chief</span> when Paul uses it as a metaphor (see also <a href=\"?bref=Col.2.10\">2:10</a>, <a href=\"?bref=Col.2.19\">19</a>; <a href=\"?bref=1Cor.11.3-10\">1 Cor 11:3-10</a>; <a href=\"?bref=Eph.4.15\">Eph 4:15</a>; <a href=\"?bref=Eph.5.23\">5:23</a>). • <span class=\"sn-excerpt\">which is his body:</span> The metaphor of the church as Christ’s body expresses the essential unity of Christ and the church (see also <a href=\"?bref=Col.1.24\">Col 1:24</a>; <a href=\"?bref=Col.2.19\">2:19</a>; <a href=\"?bref=Col.3.15\">3:15</a>; <a href=\"?bref=Eph.1.23\">Eph 1:23</a>; <a href=\"?bref=Eph.2.16\">2:16</a>; <a href=\"?bref=Eph.4.4\">4:4</a>, <a href=\"?bref=Eph.4.12\">12</a>; <a href=\"?bref=Eph.5.23\">5:23</a>, <a href=\"?bref=Eph.5.30\">30</a>). • <span class=\"sn-excerpt\">supreme over all who rise from the dead</span> (or <span class=\"ital\">the firstborn from the dead</span>): See <a href=\"?item=Col.1.15_StudyNote_Filament\">study note on Col 1:15</a>.</p>"
+    },
+    {
+      "sequence": 15563,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.19",
+      "citation": {
+        "short": "Col 1:19",
+        "long": "Colossians 1:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.19\">1:19</a></span> <span class=\"sn-excerpt\">God in all his fullness</span> emphasizes that God has chosen to reveal himself fully in Jesus Christ. Seeing Jesus and understanding him therefore means seeing and understanding God (see <a href=\"?bref=John.14.6-11\">John 14:6-11</a>). The false teachers seemed to be saying that Christians needed to look to other spiritual beings to find out more about God (see <a href=\"?bref=Col.1.16\">Col 1:16</a>, <a href=\"?bref=Col.1.20\">20</a>). But Christ is sufficient for all our knowledge of God (cp. <a href=\"?bref=Col.2.8-9\">2:8-9</a>).</p>"
+    },
+    {
+      "sequence": 15564,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.20",
+      "citation": {
+        "short": "Col 1:20",
+        "long": "Colossians 1:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.20\">1:20</a></span> Through Christ, God has <span class=\"sn-excerpt\">reconciled everything to himself</span><span class=\"ital\">,</span> reestablishing his rule over all creation, including both the spiritual and the earthly realms.</p>"
+    },
+    {
+      "sequence": 15565,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.21",
+      "citation": {
+        "short": "Col 1:21",
+        "long": "Colossians 1:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.21-23\">1:21-23</a></span> Paul applies the truth of <a href=\"?bref=Col.1.15-20\">1:15-20</a> to the Colossian Christians. As people who have been reconciled to God, they enjoy a new spiritual status and need to stand firm in the truth they have been taught.</p>"
+    },
+    {
+      "sequence": 15566,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.21",
+      "citation": {
+        "short": "Col 1:21",
+        "long": "Colossians 1:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.21\">1:21</a></span> The phrase <span class=\"sn-excerpt\">once far away from God</span> probably refers to their condition as Gentiles (see <a href=\"?bref=Eph.2.12\">Eph 2:12</a>).</p>"
+    },
+    {
+      "sequence": 15567,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.22",
+      "citation": {
+        "short": "Col 1:22",
+        "long": "Colossians 1:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.22\">1:22</a></span> The Colossians, like all believers, were <span class=\"sn-excerpt\">holy and blameless</span> in God’s sight not because of their own perfection but because they had been <span class=\"sn-excerpt\">reconciled</span> with God through Christ’s <span class=\"sn-excerpt\">death</span>.</p>"
+    },
+    {
+      "sequence": 15568,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.23",
+      "citation": {
+        "short": "Col 1:23",
+        "long": "Colossians 1:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.23\">1:23</a></span> <span class=\"sn-excerpt\">preached all over the world</span> (literally <span class=\"ital\">preached to every creature under heaven</span>): The point of Paul’s hyperbole (exaggeration for emphasis) is that centers for preaching the Good News had been established in key cities throughout the Roman world (see also <a href=\"?bref=Col.1.6\">1:6</a>).</p>"
+    },
+    {
+      "sequence": 15569,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.24",
+      "citation": {
+        "short": "Col 1:24",
+        "long": "Colossians 1:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.24-2.5\">1:24–2:5</a></span> Paul considers his own role in the widespread preaching of the Good News (<a href=\"?bref=Col.1.23\">1:23</a>).</p>"
+    },
+    {
+      "sequence": 15570,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.24",
+      "citation": {
+        "short": "Col 1:24",
+        "long": "Colossians 1:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.24\">1:24</a></span> <span class=\"sn-excerpt\">I am participating in the sufferings of Christ</span> (literally <span class=\"ital\">I am filling up what is lacking in the sufferings of Christ</span>): While the redemptive suffering of Christ is unique and completely finished, Christ still suffers through his people in a world hostile to the message of redemption. Christ and his church will continue to suffer until God’s purposes in this world are complete (see also <a href=\"?bref=Mark.13.19-23\">Mark 13:19-23</a>; <a href=\"?bref=Rom.8.17-18\">Rom 8:17-18</a>; <a href=\"?bref=1Thes.3.3\">1 Thes 3:3</a>).</p>"
+    },
+    {
+      "sequence": 15571,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.1",
+      "verseOsisID": "Col.1.26",
+      "citation": {
+        "short": "Col 1:26",
+        "long": "Colossians 1:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.1.26\">1:26</a></span> The concept of a <span class=\"sn-excerpt\">secret</span>, hidden at one time and then revealed, is based upon Jewish apocalyptic ideas. Jewish thinkers conceived of God’s entire plan as already existing in heaven, hidden until God should draw back the curtain and reveal it. The Good News, especially for the Gentiles, had been kept secret until it was revealed in Christ.</p>"
+    },
+    {
+      "sequence": 15572,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.1",
+      "citation": {
+        "short": "Col 2:1",
+        "long": "Colossians 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.1-5\">2:1-5</a></span> Paul introduces his concern to strengthen his relationship with the Colossians, whom he had not met, and to counter the heretical ideas which threatened their Christian community. • Laodicea was located 10 miles northwest of Colosse.</p>"
+    },
+    {
+      "sequence": 15573,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.2",
+      "citation": {
+        "short": "Col 2:2",
+        "long": "Colossians 2:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.2\">2:2</a></span> <span class=\"sn-excerpt\">God’s mysterious plan:</span> See <a href=\"?bref=Col.1.26\">1:26</a>; <span class=\"sn-excerpt\">Christ himself</span> personifies this plan.</p>"
+    },
+    {
+      "sequence": 15574,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.3",
+      "citation": {
+        "short": "Col 2:3",
+        "long": "Colossians 2:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.3\">2:3</a></span> Paul builds on <a href=\"?bref=Col.1.15-20\">1:15-20</a>: Christ alone is sufficient for our spiritual understanding.</p>"
+    },
+    {
+      "sequence": 15575,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.6",
+      "citation": {
+        "short": "Col 2:6",
+        "long": "Colossians 2:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.6-15\">2:6-15</a></span> In the face of the false teachers’ enticing arguments, Paul exhorts the Colossians to stand firm in their faith in Christ, for <span class=\"sn-excerpt\">in Christ lives all the fullness of God</span><span class=\"ital\">,</span> and their spiritual experience is complete in him.</p>"
+    },
+    {
+      "sequence": 15576,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.8",
+      "citation": {
+        "short": "Col 2:8",
+        "long": "Colossians 2:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.8\">2:8</a></span> The Greek word <span class=\"greek\">philosophia</span> referred to everything from the metaphysics of Plato to the religious teaching of cults. Paul does not condemn philosophy per se, but only <span class=\"sn-excerpt\">empty</span> philosophical speculation that stands opposed to the Good News. • <span class=\"sn-excerpt\">the spiritual powers of this world:</span> or <span class=\"ital\">the spiritual principles of the world;</span> also in <a href=\"?bref=Col.2.20\">2:20</a>): This phrase may refer to elementary teaching that is characteristic of this world (see <a href=\"?bref=Heb.5.12\">Heb 5:12</a>), or to spiritual beings who were thought to have a decisive influence on the course of events (see also <a href=\"?bref=Col.2.15\">Col 2:15</a>, <a href=\"?bref=Col.2.20\">20</a>; <a href=\"?bref=Gal.4.3\">Gal 4:3</a>).</p>"
+    },
+    {
+      "sequence": 15577,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.11",
+      "citation": {
+        "short": "Col 2:11",
+        "long": "Colossians 2:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.11\">2:11</a></span> <span class=\"sn-excerpt\">Christ performed a spiritual circumcision:</span> Spiritual conversion to Christ is the Christian counterpart to physical circumcision. • <span class=\"sn-excerpt\">the cutting away of your sinful nature</span> (literally <span class=\"ital\">the cutting away of the body of the flesh</span>): Just as Jewish boys have the flesh of their foreskin cut off to mark their initiation into the people of God, so believers have metaphorical <span class=\"ital\">flesh</span> (translated <span class=\"ital\">sinful nature</span>) cut off when they come to Christ.</p>"
+    },
+    {
+      "sequence": 15578,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.12",
+      "citation": {
+        "short": "Col 2:12",
+        "long": "Colossians 2:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.12\">2:12</a></span> <span class=\"sn-excerpt\">you were buried with Christ when you were baptized:</span> As in a roughly parallel passage (<a href=\"?bref=Rom.6.3-6\">Rom 6:3-6</a>), Paul assumes a strong identity between believers and Christ. In God’s sight, we really were <span class=\"ital\">with Christ</span> when he was buried and <span class=\"sn-excerpt\">raised</span>, so we experience the benefits of what Christ did for us. Paul can link that identification with Christ to baptism because water baptism was so closely related to conversion in the early church.</p>"
+    },
+    {
+      "sequence": 15579,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.14",
+      "citation": {
+        "short": "Col 2:14",
+        "long": "Colossians 2:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.14\">2:14</a></span> <span class=\"sn-excerpt\">the record of the charges against us:</span> The Greek phrase suggests an IOU that we have all signed. Since we are unable to pay what we owe, it stands <span class=\"ital\">against us.</span> The law of God required obedience that people are unable to give, but God has forgiven our debt through the work of Christ (<a href=\"?bref=Col.2.13\">2:13</a>).</p>"
+    },
+    {
+      "sequence": 15580,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.15",
+      "citation": {
+        "short": "Col 2:15",
+        "long": "Colossians 2:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.15\">2:15</a></span> <span class=\"sn-excerpt\">He shamed them publicly by his victory</span> (literally <span class=\"ital\">he led [them] in triumphal procession</span>): The Roman army would celebrate a great victory with a triumphal procession. The victorious Roman general would lead the humiliated captives from his campaign into the conquered city. The image vividly captures the glorious victory that God, through the cross of Christ, has won over all hostile spiritual powers (see also <a href=\"?bref=Eph.4.7-11\">Eph 4:7-11</a>).</p>"
+    },
+    {
+      "sequence": 15581,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.16",
+      "citation": {
+        "short": "Col 2:16",
+        "long": "Colossians 2:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.16-23\">2:16-23</a></span> Paul repudiates the false teachers and their demands, explaining why their appeal comes from <span class=\"sn-excerpt\">human teachings</span> (see <a href=\"?bref=Col.2.8\">2:8</a>). They advocated various rules of conduct that had no basis in Christ.</p>"
+    },
+    {
+      "sequence": 15582,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.16",
+      "citation": {
+        "short": "Col 2:16",
+        "long": "Colossians 2:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.16\">2:16</a></span> <span class=\"sn-excerpt\">what you eat or drink:</span> Religious teachings that prohibited certain kinds of food and drink were widespread in the ancient world. The Old Testament does not prohibit drinking alcohol, but many pious Jews who lived in pagan cultures did abstain (cp. <a href=\"?bref=Dan.1.8-16\">Dan 1:8-16</a>). • Many ancient religious groups, including the Jews, celebrated the <span class=\"sn-excerpt\">new moon</span> with various <span class=\"sn-excerpt\">ceremonies</span> (see <a href=\"?bref=Num.10.10\">Num 10:10</a>; <a href=\"?bref=Ps.81.3\">Ps 81:3</a>; <a href=\"?bref=Isa.1.13\">Isa 1:13</a>). • Jewish <span class=\"sn-excerpt\">Sabbaths</span> were set forth in the law of Moses and celebrated by Jews as an essential part of their religion. Christians could continue to observe the Sabbath if they wanted to, but Paul asserts that Christians have liberty on this matter (see <a href=\"?bref=Rom.14.5\">Rom 14:5</a>) and that it is wrong for anyone to insist on Sabbath observance as a necessary expression of Christian piety.</p>"
+    },
+    {
+      "sequence": 15583,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.17",
+      "citation": {
+        "short": "Col 2:17",
+        "long": "Colossians 2:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.17\">2:17</a></span> The <span class=\"sn-excerpt\">reality</span> of Christ was anticipated by the Old Testament rituals, which Paul calls <span class=\"sn-excerpt\">shadows</span> (see also <a href=\"?bref=Heb.10.1\">Heb 10:1</a>).</p>"
+    },
+    {
+      "sequence": 15584,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.18",
+      "citation": {
+        "short": "Col 2:18",
+        "long": "Colossians 2:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.18\">2:18</a></span> <span class=\"sn-excerpt\">the worship of angels:</span> People in the first century were fascinated with spiritual beings. Some Jews believed that angels were present during their times of worship, and some might even have worshiped them. • The false teachers were evidently <span class=\"sn-excerpt\">saying</span> they had <span class=\"sn-excerpt\">had visions</span> that established certain rituals as requirements for the community.</p>"
+    },
+    {
+      "sequence": 15585,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.20",
+      "citation": {
+        "short": "Col 2:20",
+        "long": "Colossians 2:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.20\">2:20</a></span> <span class=\"sn-excerpt\">You have died with Christ:</span> Christ’s death on the cross marked his victory over the spiritual powers (<a href=\"?bref=Col.2.15\">2:15</a>), so we who participate in his death have likewise been set <span class=\"sn-excerpt\">free from the</span> evil <span class=\"sn-excerpt\">spiritual powers of this world</span> (see <a href=\"?bref=Col.2.8\">2:8</a>).</p>"
+    },
+    {
+      "sequence": 15586,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.2",
+      "verseOsisID": "Col.2.23",
+      "citation": {
+        "short": "Col 2:23",
+        "long": "Colossians 2:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.2.23\">2:23</a></span> <span class=\"sn-excerpt\">they provide no help: </span>Not only are such rules rooted in the world rather than in Christ (<a href=\"?bref=Col.2.19\">2:19</a>), they are also ineffective <span class=\"sn-excerpt\">in conquering a person’s evil desires</span>.</p>"
+    },
+    {
+      "sequence": 15587,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.1",
+      "citation": {
+        "short": "Col 3:1",
+        "long": "Colossians 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.1-11\">3:1-11</a></span> Paul summons the Colossians to a new way of thinking that results in a new lifestyle.</p>"
+    },
+    {
+      "sequence": 15588,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.1",
+      "citation": {
+        "short": "Col 3:1",
+        "long": "Colossians 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.1\">3:1</a></span> <span class=\"sn-excerpt\">set your sights on the realities of heaven:</span> Christians live on earth, but because they have been raised with Christ, their true being is oriented to the spiritual realm over which Christ rules. In contrast, the rules and regulations of the false teachers focused on the earthly realm (<a href=\"?bref=Col.2.22\">2:22</a>). </p>"
+    },
+    {
+      "sequence": 15589,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.3",
+      "citation": {
+        "short": "Col 3:3",
+        "long": "Colossians 3:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.3-4\">3:3-4</a></span> <span class=\"sn-excerpt\">you died to this life:</span> See <a href=\"?bref=Col.2.20\">2:20</a>. • What is now <span class=\"sn-excerpt\">hidden</span> will one day be <span class=\"sn-excerpt\">revealed</span> (cp. <a href=\"?bref=Col.1.26\">1:26</a>). We cannot now see that Christ is enthroned at the right hand of God and that we have been raised to new life with Christ. But by faith in the Good News, we know that these things are true. When Christ returns in glory, his supremacy will be evident to all and our relationship to him will be a direct experience.</p>"
+    },
+    {
+      "sequence": 15590,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.5",
+      "citation": {
+        "short": "Col 3:5",
+        "long": "Colossians 3:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.5\">3:5</a></span> <span class=\"sn-excerpt\">So put to death:</span> Our death to this life (<a href=\"?bref=Col.3.3\">3:3</a>) must be made real in the way that we live day by day. • <span class=\"sn-excerpt\">a greedy person is an idolater:</span> Greedy people pursue the objects of their greed—money, sex, power, possessions—in the place of God, with the hope of finding satisfaction in those things.</p>"
+    },
+    {
+      "sequence": 15591,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.6",
+      "citation": {
+        "short": "Col 3:6",
+        "long": "Colossians 3:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.6\">3:6</a></span> <span class=\"sn-excerpt\">coming:</span> Some manuscripts read <span class=\"ital\">coming on all who disobey him.</span> In the Greek text, these words occur verbatim in <a href=\"?bref=Eph.5.6\">Eph 5:6</a>, so it is possible that an early scribe added them here, either intentionally or accidentally.</p>"
+    },
+    {
+      "sequence": 15592,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.8",
+      "citation": {
+        "short": "Col 3:8",
+        "long": "Colossians 3:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.8\">3:8</a></span> <span class=\"sn-excerpt\">get rid of</span> (literally <span class=\"ital\">take off</span>): Taking off clothes is a metaphor for ridding our lives of practices that interfere with our walk with the Lord (see <a href=\"?bref=Rom.13.12\">Rom 13:12</a>; <a href=\"?bref=Eph.4.22\">Eph 4:22</a>, <a href=\"?bref=Eph.4.25\">25</a>; <a href=\"?bref=Heb.12.1\">Heb 12:1</a>; <a href=\"?bref=Jas.1.21\">Jas 1:21</a>; <a href=\"?bref=1Pet.2.1\">1 Pet 2:1</a>).</p>"
+    },
+    {
+      "sequence": 15593,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.9",
+      "citation": {
+        "short": "Col 3:9",
+        "long": "Colossians 3:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.9-10\">3:9-10</a></span> <span class=\"sn-excerpt\">your old sinful nature . . . your new nature:</span> Paul contrasts old and new identities (see also <a href=\"?bref=Rom.5.12-21\">Rom 5:12-21</a>; <a href=\"?bref=Rom.6.6\">6:6</a>; <a href=\"?bref=Eph.4.22-24\">Eph 4:22-24</a>). Believers strip off their old life and put on Christ’s new life, allowing him to be Lord and to guide the way they live.</p>"
+    },
+    {
+      "sequence": 15594,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.11",
+      "citation": {
+        "short": "Col 3:11",
+        "long": "Colossians 3:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.11\">3:11</a></span> <span class=\"sn-excerpt\">barbaric, uncivilized:</span> Literally <span class=\"ital\">Barbarian, Scythian.</span> The Greeks mocked people from other cultures for their inability to speak Greek well, claiming they could only say “bar bar” (hence the word <span class=\"ital\">barbarian</span>). The Scythians were tribes that had settled on the north coast of the Black Sea and were widely viewed as fierce and crude (see Josephus, <span class=\"ital\">Against Apion</span> 2.38). All such distinctions do not <span class=\"sn-excerpt\">matter</span> in our relationship with God through <span class=\"sn-excerpt\">Christ</span>.</p>"
+    },
+    {
+      "sequence": 15595,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.12",
+      "citation": {
+        "short": "Col 3:12",
+        "long": "Colossians 3:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.12-17\">3:12-17</a></span> Paul describes the nature of the new life of people who have been raised with Christ (<a href=\"?bref=Col.3.1\">3:1</a>). Their virtues and activities contribute to the peace and strength of the Christian community.</p>"
+    },
+    {
+      "sequence": 15596,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.15",
+      "citation": {
+        "short": "Col 3:15",
+        "long": "Colossians 3:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.15\">3:15</a></span> Just as Christ is one, so there can be only <span class=\"sn-excerpt\">one body</span> of Christ (see <a href=\"?bref=Col.1.18\">1:18</a>; <a href=\"?bref=Eph.4.4-6\">Eph 4:4-6</a>). Allegiance to Jesus as Lord must transcend differences and will result in <span class=\"sn-excerpt\">peace</span> (harmonious relationships).</p>"
+    },
+    {
+      "sequence": 15597,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.16",
+      "citation": {
+        "short": "Col 3:16",
+        "long": "Colossians 3:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.16\">3:16</a></span> <span class=\"sn-excerpt\">Psalms and hymns and spiritual songs</span> are songs of praise and worship (see <a href=\"?bref=1Cor.14.26\">1 Cor 14:26</a>; <a href=\"?bref=Eph.5.19\">Eph 5:19</a>). The prototype is the book of Psalms.</p>"
+    },
+    {
+      "sequence": 15598,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.17",
+      "citation": {
+        "short": "Col 3:17",
+        "long": "Colossians 3:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.17\">3:17</a></span> <span class=\"sn-excerpt\">as a representative of the Lord Jesus</span> (literally <span class=\"ital\">in the name of the Lord Jesus</span>): In the Bible, a person’s name represents that person. To do something <span class=\"ital\">in the name</span> <span class=\"ital\">of the Lord Jesus</span> is therefore to act in a way that is in harmony with his identity and under his authority.</p>"
+    },
+    {
+      "sequence": 15599,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.18",
+      "citation": {
+        "short": "Col 3:18",
+        "long": "Colossians 3:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.18-4.1\">3:18–4:1</a></span> This series of exhortations is called a <span class=\"ital\">household code.</span> Paul gives instructions to wives (<a href=\"?bref=Col.3.18\">3:18</a>), husbands (<a href=\"?bref=Col.3.19\">3:19</a>), children (<a href=\"?bref=Col.3.20\">3:20</a>), fathers (<a href=\"?bref=Col.3.21\">3:21</a>), slaves (<a href=\"?bref=Col.3.22-25\">3:22-25</a>), and masters (<a href=\"?bref=Col.4.1\">4:1</a>). Such codes appear in Greco-Roman writers and elsewhere in the New Testament (see <a href=\"?bref=Eph.5.22-6.9\">Eph 5:22–6:9</a>; <a href=\"?bref=1Pet.2.18-3.7\">1 Pet 2:18–3:7</a>).</p>"
+    },
+    {
+      "sequence": 15600,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.18",
+      "citation": {
+        "short": "Col 3:18",
+        "long": "Colossians 3:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.18\">3:18</a></span> To <span class=\"sn-excerpt\">submit</span> is to recognize one’s place under someone else in a social order. Such submission always implies that God is at the top and that his will is paramount (cp. <a href=\"?bref=Acts.4.19-20\">Acts 4:19-20</a>; <a href=\"?bref=Acts.5.29\">5:29</a>).</p>"
+    },
+    {
+      "sequence": 15601,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.19",
+      "citation": {
+        "short": "Col 3:19",
+        "long": "Colossians 3:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.19\">3:19</a></span> The exhortation to wives to submit to their <span class=\"sn-excerpt\">husbands</span> is immediately followed by a command to the husbands to <span class=\"sn-excerpt\">love</span> their <span class=\"sn-excerpt\">wives</span> (see also <a href=\"?bref=Eph.5.25-30\">Eph 5:25-30</a>; <a href=\"?bref=1Pet.3.7\">1 Pet 3:7</a>).</p>"
+    },
+    {
+      "sequence": 15602,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.3",
+      "verseOsisID": "Col.3.22",
+      "citation": {
+        "short": "Col 3:22",
+        "long": "Colossians 3:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.3.22-24\">3:22-24</a></span> <span class=\"sn-excerpt\">Slaves</span> have <span class=\"sn-excerpt\">earthly masters</span> whom they must obey. Slavery was central to the life and economy of the ancient world, and the New Testament never attacks the practice as such. However, Christian faith establishes relationships that change the nature of the social structure (see <a href=\"?bref=Phlm.1.15-16\">Phlm 1:15-16</a>). • <span class=\"sn-excerpt\">and that the Master you are serving is Christ:</span> All Christians, both slave and free, serve a higher Master, whose will is paramount.</p>"
+    },
+    {
+      "sequence": 15603,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.1",
+      "citation": {
+        "short": "Col 4:1",
+        "long": "Colossians 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.1\">4:1</a></span> <span class=\"sn-excerpt\">Masters:</span> Christian slave owners had to recognize that they, too, were slaves bound to obey Jesus Christ, their Master <span class=\"sn-excerpt\">in heaven</span> who treats all people with dignity and grace.</p>"
+    },
+    {
+      "sequence": 15604,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.2",
+      "citation": {
+        "short": "Col 4:2",
+        "long": "Colossians 4:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.2-6\">4:2-6</a></span> New Testament letters often end with an exhortation to pray, along with requests for prayer.</p>"
+    },
+    {
+      "sequence": 15605,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.2",
+      "citation": {
+        "short": "Col 4:2",
+        "long": "Colossians 4:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.2\">4:2</a></span> <span class=\"sn-excerpt\">with an alert mind:</span> The Greek verb behind this phrase is used in the New Testament to portray the need for Christians to be watchful in light of Christ’s return (<a href=\"?bref=Matt.24.42\">Matt 24:42</a>; <a href=\"?bref=Matt.25.13\">25:13</a>; <a href=\"?bref=Mark.13.35\">Mark 13:35</a>, <a href=\"?bref=Mark.13.37\">37</a>; <a href=\"?bref=1Thes.5.6\">1 Thes 5:6</a>; <a href=\"?bref=Rev.3.3\">Rev 3:3</a>; <a href=\"?bref=Rev.16.15\">16:15</a>).</p>"
+    },
+    {
+      "sequence": 15606,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.3",
+      "citation": {
+        "short": "Col 4:3",
+        "long": "Colossians 4:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.3\">4:3</a></span> <span class=\"sn-excerpt\">that God will give us many opportunities</span> (literally <span class=\"ital\">that God might open for us a door</span>): An open door is a metaphor for an opportunity to proclaim the Good News (see also <a href=\"?bref=Acts.14.27\">Acts 14:27</a>; <a href=\"?bref=1Cor.16.9\">1 Cor 16:9</a>; <a href=\"?bref=2Cor.2.12\">2 Cor 2:12</a>). • <span class=\"sn-excerpt\">his mysterious plan concerning Christ:</span> See <a href=\"?bref=Col.1.26-27\">Col 1:26-27</a>; <a href=\"?bref=Col.2.2\">2:2</a>. • <span class=\"sn-excerpt\">That is why I am here in chains:</span> Paul’s dedication to preaching the Good News had led to his imprisonment (see <a href=\"?item=Col_BookIntro_Filament\">Colossians Book Introduction</a>, “Date and Occasion of Writing”).</p>"
+    },
+    {
+      "sequence": 15607,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.5",
+      "citation": {
+        "short": "Col 4:5",
+        "long": "Colossians 4:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.5\">4:5</a></span> <span class=\"sn-excerpt\">make the most of every opportunity</span> (literally <span class=\"ital\">buy up the time</span>): Like people who are buying up a product offered at a good price, Christians are to “buy up” every opportunity God gives them to share the Good News and to serve others.</p>"
+    },
+    {
+      "sequence": 15608,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.6",
+      "citation": {
+        "short": "Col 4:6",
+        "long": "Colossians 4:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.6\">4:6</a></span> <span class=\"sn-excerpt\">attractive</span> (literally <span class=\"ital\">seasoned with salt</span>): Salt is both a seasoning and a preservative (see <a href=\"?bref=Matt.5.13\">Matt 5:13</a>). Paul might be encouraging Christians to speak to unbelievers in words that are well chosen and winsome. The rabbis occasionally referred to wisdom as <span class=\"ital\">salt,</span> so Paul might also be exhorting Christians to speak wisely.</p>"
+    },
+    {
+      "sequence": 15609,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.7",
+      "citation": {
+        "short": "Col 4:7",
+        "long": "Colossians 4:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.7-18\">4:7-18</a></span> Most New Testament letters end with a series of greetings and references to co-workers and travel plans, but this part of Colossians is longer than normal. Paul, being unable to travel, might have been seeking to ensure that the Colossians maintain connections with his co-workers. This would help them not to fall for the enticements of the false teachers.</p>"
+    },
+    {
+      "sequence": 15610,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.7",
+      "citation": {
+        "short": "Col 4:7",
+        "long": "Colossians 4:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.7\">4:7</a></span> <span class=\"sn-excerpt\">Tychicus</span> was from the province of Asia, where Colosse was located (<a href=\"?bref=Acts.20.4\">Acts 20:4</a>). He worked with Paul especially in that province (<a href=\"?bref=Eph.6.21\">Eph 6:21</a>; <a href=\"?bref=2Tim.4.12\">2 Tim 4:12</a>). He was later sent to work with Titus in Crete (<a href=\"?bref=Titus.3.12\">Titus 3:12</a>). Tychicus probably carried this letter along with the letters known as Ephesians and Philemon.</p>"
+    },
+    {
+      "sequence": 15611,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.9",
+      "citation": {
+        "short": "Col 4:9",
+        "long": "Colossians 4:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.9\">4:9</a></span> <span class=\"sn-excerpt\">Onesimus</span> was the runaway slave whom Paul was sending back to his master Philemon (see the book of Philemon).</p>"
+    },
+    {
+      "sequence": 15612,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.10",
+      "citation": {
+        "short": "Col 4:10",
+        "long": "Colossians 4:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.10-14\">4:10-14</a></span> Of the six people named, five are also mentioned in <a href=\"?bref=Phlm.1.23-24\">Phlm 1:23-24</a>.</p>"
+    },
+    {
+      "sequence": 15613,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.10",
+      "citation": {
+        "short": "Col 4:10",
+        "long": "Colossians 4:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.10\">4:10</a></span> <span class=\"sn-excerpt\">Aristarchus</span> was a common name, but he was probably the same man from Thessalonica (<a href=\"?bref=Acts.19.29\">Acts 19:29</a>; <a href=\"?bref=Acts.20.4\">20:4</a>) who accompanied Paul on his voyage to Rome (<a href=\"?bref=Acts.27.2\">Acts 27:2</a>). Acts does not suggest that <span class=\"ital\">Aristarchus</span> was also under arrest, so perhaps he was <span class=\"sn-excerpt\">in prison with</span> Paul voluntarily, sharing his confinement in order to encourage him and assist him in ministry. • <span class=\"sn-excerpt\">Mark, Barnabas’s cousin,</span> had gone with Barnabas and Paul on their first missionary journey but had left them before the journey was finished (<a href=\"?bref=Acts.13.13\">Acts 13:13</a>). That desertion led to a split between Paul and Barnabas as the second journey was about to begin (<a href=\"?bref=Acts.15.37-40\">Acts 15:37-40</a>). Paul and Mark were apparently now reconciled (see also <a href=\"?bref=2Tim.4.11\">2 Tim 4:11</a>; <a href=\"?bref=Phlm.1.24\">Phlm 1:24</a>). • <span class=\"sn-excerpt\">As you were instructed before:</span> There is no other record of this communication.</p>"
+    },
+    {
+      "sequence": 15614,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.11",
+      "citation": {
+        "short": "Col 4:11",
+        "long": "Colossians 4:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.11\">4:11</a></span> <span class=\"sn-excerpt\">Jesus (the one we call Justus)</span> is mentioned only here in the New Testament. The surname <span class=\"ital\">Justus</span> is included because <span class=\"ital\">Jesus</span> (which means <span class=\"ital\">the Lord saves</span>) was a common name among Jews in the first century.</p>"
+    },
+    {
+      "sequence": 15615,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.13",
+      "citation": {
+        "short": "Col 4:13",
+        "long": "Colossians 4:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.13\">4:13</a></span> <span class=\"sn-excerpt\">Laodicea and Hierapolis</span> were the two most important cities in the Lycus River valley. The fact that Epaphras prayed for the believers in Colosse and in these nearby cities suggests that he was the pioneering evangelist in all three cities.</p>"
+    },
+    {
+      "sequence": 15616,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.14",
+      "citation": {
+        "short": "Col 4:14",
+        "long": "Colossians 4:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.14\">4:14</a></span> <span class=\"sn-excerpt\">Luke, the beloved doctor,</span> is well known as the author of Acts and the Gospel bearing his name. This verse is the sole evidence for two facts about Luke: He was a doctor, and he was not a Jewish believer (see <a href=\"?bref=Col.4.10-11\">Col 4:10-11</a>). • In contrast to the other people mentioned in this passage, no details are given about <span class=\"sn-excerpt\">Demas</span>. Perhaps Paul did not know him well. Demas later deserted Paul (<a href=\"?bref=2Tim.4.10\">2 Tim 4:10</a>).</p>"
+    },
+    {
+      "sequence": 15617,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.15",
+      "citation": {
+        "short": "Col 4:15",
+        "long": "Colossians 4:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.15\">4:15</a></span> <span class=\"sn-excerpt\">Nympha and the church that meets in her house:</span> In the first two centuries of the Christian church, almost all believers met for worship in private homes. Nothing else is known of Nympha.</p>"
+    },
+    {
+      "sequence": 15618,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.16",
+      "citation": {
+        "short": "Col 4:16",
+        "long": "Colossians 4:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.16\">4:16</a></span> <span class=\"sn-excerpt\">you should read the letter I wrote to them:</span> Various attempts have been made over the years to identify the letter to the Laodiceans with a New Testament letter or fragment, but it is most likely that Paul’s letter to the Laodicean church has been lost.</p>"
+    },
+    {
+      "sequence": 15619,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.17",
+      "citation": {
+        "short": "Col 4:17",
+        "long": "Colossians 4:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.17\">4:17</a></span> <span class=\"sn-excerpt\">Archippus:</span> See also <a href=\"?bref=Phlm.1.2\">Phlm 1:2</a>. We have no way of knowing more about <span class=\"sn-excerpt\">the ministry the Lord gave</span> him.</p>"
+    },
+    {
+      "sequence": 15620,
+      "bookOsisID": "Col",
+      "chapterOsisID": "Col.4",
+      "verseOsisID": "Col.4.18",
+      "citation": {
+        "short": "Col 4:18",
+        "long": "Colossians 4:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Col.4.18\">4:18</a></span> <span class=\"sn-excerpt-sc\">Here is my greeting in my own handwriting—Paul:</span> Like most ancient letters, Colossians was probably dictated by Paul to a scribe, or <span class=\"ital\">amanuensis,</span> who would have been trained to write neatly and compactly. As a way of authenticating the letter, Paul added his own handwritten greeting at the end (cp. Paul’s comment in <a href=\"?bref=2Thes.2.2\">2 Thes 2:2</a>).</p>"
+    }
+  ]
+}

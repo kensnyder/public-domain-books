@@ -1,0 +1,1937 @@
+{
+  "author": "William Tyndale",
+  "title": "Tyndale Open Study Notes",
+  "copyright": "© 2022 by Tyndale House Publishers",
+  "attribution": "CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0 and http://www.tyndaleopenresources.com",
+  "source": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+  "bookOsisID": "Neh",
+  "bookName": "Nehemiah",
+  "importedAt": "2025-11-25",
+  "commentary": [
+    {
+      "sequence": 5288,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.1",
+      "citation": {
+        "short": "Neh 1:1",
+        "long": "Nehemiah 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.1-2.20\">1:1–2:20</a></span> Upon hearing about Jerusalem’s ruined condition, Nehemiah prayed for God’s grace (<a href=\"?bref=Neh.1.1-11\">1:1-11</a>) and asked the king to send him to Jerusalem (<a href=\"?bref=Neh.2.1-8\">2:1-8</a>). When he arrived, he challenged the people to rebuild the city’s wall (<a href=\"?bref=Neh.2.11-20\">2:11-20</a>).</p>"
+    },
+    {
+      "sequence": 5289,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.1",
+      "citation": {
+        "short": "Neh 1:1",
+        "long": "Nehemiah 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.1\">1:1</a></span> <span class=\"sn-excerpt\">Artaxerxes</span> I reigned over Persia from 465 to 424 <span class=\"era\">BC</span>. • <span class=\"sn-excerpt\">The fortress of Susa</span> was the Persian king’s winter palace.</p>"
+    },
+    {
+      "sequence": 5290,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.2",
+      "citation": {
+        "short": "Neh 1:2",
+        "long": "Nehemiah 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.2\">1:2</a></span> <span class=\"sn-excerpt\">Hanani</span> might have been one of Nehemiah’s blood <span class=\"sn-excerpt\">brothers</span><span class=\"ital\">;</span> this word in Hebrew can also mean “fellow countryman” (e.g., <a href=\"?bref=Deut.1.16\">Deut 1:16</a>, “fellow Israelite”). • <span class=\"sn-excerpt\">the Jews who had returned:</span> See <a href=\"?bref=Ezra.2.64-65\">Ezra 2:64-65</a>; <a href=\"?bref=Ezra.8.1-14\">8:1-14</a>.</p>"
+    },
+    {
+      "sequence": 5291,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.3",
+      "citation": {
+        "short": "Neh 1:3",
+        "long": "Nehemiah 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.3\">1:3</a></span> <span class=\"sn-excerpt\">The wall of Jerusalem has been torn down:</span> This probably refers to a recent setback in Jerusalem (see <a href=\"?bref=Ezra.4.6-23\">Ezra 4:6-23</a>), not to the Babylonian conquest in 586 <span class=\"era\">BC</span>. • <span class=\"sn-excerpt\">disgrace:</span> Foreigners could gloat about the destroyed city, using it as evidence that Israel’s God was too weak to protect it (cp. <a href=\"?bref=Joel.2.17\">Joel 2:17</a>; <a href=\"?bref=Mic.7.8-10\">Mic 7:8-10</a>).</p>"
+    },
+    {
+      "sequence": 5292,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.4",
+      "citation": {
+        "short": "Neh 1:4",
+        "long": "Nehemiah 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.4\">1:4</a></span> Nehemiah fervently <span class=\"sn-excerpt\">mourned, fasted, and prayed</span> for about four months (cp. <a href=\"?bref=Neh.1.1\">1:1</a>; <a href=\"?bref=Neh.2.1\">2:1</a>), deeply concerned for Jerusalem.</p>"
+    },
+    {
+      "sequence": 5293,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.5",
+      "citation": {
+        "short": "Neh 1:5",
+        "long": "Nehemiah 1:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.5-11\">1:5-11</a></span> Nehemiah’s prayer includes praise (<a href=\"?bref=Neh.1.5\">1:5</a>), confession (<a href=\"?bref=Neh.1.6-7\">1:6-7</a>), remembrance of God’s promises (<a href=\"?bref=Neh.1.8-9\">1:8-9</a>), and petition (<a href=\"?bref=Neh.1.10-11\">1:10-11</a>). Nehemiah recognized that Israel’s current situation was not a failure of God’s <span class=\"sn-excerpt\">covenant of unfailing love</span>. Israel’s persistent sin had brought about the punishments entailed in the covenant.</p>"
+    },
+    {
+      "sequence": 5294,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.6",
+      "citation": {
+        "short": "Neh 1:6",
+        "long": "Nehemiah 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.6\">1:6</a></span> <span class=\"sn-excerpt\">I confess that we have sinned:</span> Like Ezra (<a href=\"?bref=Ezra.9.5-15\">Ezra 9:5-15</a>) and Daniel (<a href=\"?bref=Dan.9.4-19\">Dan 9:4-19</a>), Nehemiah identified with the sins of his people, made no excuses, and accepted both his individual responsibility and the responsibility of the larger covenant group that had sinned against God.</p>"
+    },
+    {
+      "sequence": 5295,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.8",
+      "citation": {
+        "short": "Neh 1:8",
+        "long": "Nehemiah 1:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.8-9\">1:8-9</a></span> Nehemiah recalls God’s curse on sin and his promise of restoration (<a href=\"?bref=Deut.4.25-31\">Deut 4:25-31</a>; <a href=\"?bref=Deut.30.1-5\">30:1-5</a>). • <span class=\"sn-excerpt\">The place . . . for my name to be honored</span> was Jerusalem.</p>"
+    },
+    {
+      "sequence": 5296,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.10",
+      "citation": {
+        "short": "Neh 1:10",
+        "long": "Nehemiah 1:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.10\">1:10</a></span> Nehemiah alludes to God’s long-standing covenant relationship with the Israelites: He had <span class=\"sn-excerpt\">rescued</span> them in the Exodus (<a href=\"?bref=Deut.9.29\">Deut 9:29</a>) and made them his <span class=\"sn-excerpt\">servants</span>.</p>"
+    },
+    {
+      "sequence": 5297,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.1",
+      "verseOsisID": "Neh.1.11",
+      "citation": {
+        "short": "Neh 1:11",
+        "long": "Nehemiah 1:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.1.11\">1:11</a></span> <span class=\"sn-excerpt\">making the king favorable to me:</span> Nehemiah knew God could influence the king’s <span class=\"sn-excerpt\">heart</span> to <span class=\"sn-excerpt\">be kind</span> to Nehemiah. • As <span class=\"sn-excerpt\">cup-bearer</span> Nehemiah tasted the king’s wine to make sure it was not poisoned, which provided him daily access to King Artaxerxes.</p>"
+    },
+    {
+      "sequence": 5298,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.1",
+      "citation": {
+        "short": "Neh 2:1",
+        "long": "Nehemiah 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.1\">2:1</a></span> <span class=\"sn-excerpt\">never . . . sad in his presence:</span> A servant was not to let his personal life interfere with serving the king.</p>"
+    },
+    {
+      "sequence": 5299,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.2",
+      "citation": {
+        "short": "Neh 2:2",
+        "long": "Nehemiah 2:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.2\">2:2</a></span> Nehemiah <span class=\"sn-excerpt\">was terrified</span> because he had let his sadness show, and he did not know how the king would respond if he told him the reason for his sorrow (King Artaxerxes had previously ordered that Jerusalem not be rebuilt, <a href=\"?bref=Ezra.4.21-22\">Ezra 4:21-22</a>). Nehemiah was not putting on an act; his deep mourning showed despite his best efforts to conceal it.</p>"
+    },
+    {
+      "sequence": 5300,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.3",
+      "citation": {
+        "short": "Neh 2:3",
+        "long": "Nehemiah 2:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.3\">2:3</a></span> Nehemiah affirmed his loyalty with the customary <span class=\"sn-excerpt\">long live the king</span> (cp. <a href=\"?bref=Dan.2.4\">Dan 2:4</a>), yet he did not deny his sadness.</p>"
+    },
+    {
+      "sequence": 5301,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.4",
+      "citation": {
+        "short": "Neh 2:4",
+        "long": "Nehemiah 2:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.4\">2:4</a></span> <span class=\"sn-excerpt\">With a prayer:</span> The king was subject to <span class=\"sn-excerpt\">the God of heaven</span><span class=\"ital\">,</span> and Nehemiah needed God’s guidance and provision as he made his request.</p>"
+    },
+    {
+      "sequence": 5302,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.5",
+      "citation": {
+        "short": "Neh 2:5",
+        "long": "Nehemiah 2:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.5\">2:5</a></span> <span class=\"sn-excerpt\">send me to Judah to rebuild the city:</span> Artaxerxes’ openness to this proposal seems surprising in light of Jerusalem’s history of rebellions against Persia (<a href=\"?bref=Ezra.4.17-23\">Ezra 4:17-23</a>). The king might have viewed Nehemiah’s plan as a way to solidify his own control over a troubled area of his empire.</p>"
+    },
+    {
+      "sequence": 5303,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.6",
+      "citation": {
+        "short": "Neh 2:6",
+        "long": "Nehemiah 2:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.6\">2:6</a></span> <span class=\"sn-excerpt\">How long will you be gone?</span> (see <a href=\"?bref=Neh.5.14\">5:14</a>): Nehemiah probably requested a short period of time initially, later asking for an extension.</p>"
+    },
+    {
+      "sequence": 5304,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.8",
+      "citation": {
+        "short": "Neh 2:8",
+        "long": "Nehemiah 2:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.8\">2:8</a></span> <span class=\"sn-excerpt\">Temple fortress</span> might refer to the Tower of Hananel or the Tower of the Hundred. • <span class=\"sn-excerpt\">the gracious hand of God was on me:</span> Nehemiah knew that <span class=\"sn-excerpt\">the king granted these requests</span> because God was sovereignly guiding the king to do so.</p>"
+    },
+    {
+      "sequence": 5305,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.9",
+      "citation": {
+        "short": "Neh 2:9",
+        "long": "Nehemiah 2:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.9\">2:9</a></span> Because Nehemiah was a government official, he had an armed escort of <span class=\"sn-excerpt\">officers and horsemen</span> for his trip to Jerusalem (cp. <a href=\"?bref=Ezra.8.22\">Ezra 8:22</a>).</p>"
+    },
+    {
+      "sequence": 5306,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.10",
+      "citation": {
+        "short": "Neh 2:10",
+        "long": "Nehemiah 2:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.10\">2:10</a></span> Some of the local, non-Jewish officials <span class=\"sn-excerpt\">were very displeased</span> because rebuilding the walls of Jerusalem would change the balance of political power in favor of the Jews. • <span class=\"sn-excerpt\">Sanballat</span> was the main leader of opposition to Nehemiah’s rebuilding efforts. • <span class=\"sn-excerpt\">the Horonite:</span> He was probably from Upper or Lower Horon (Beth-horon, <a href=\"?bref=Josh.16.3\">Josh 16:3</a>), approximately 12 miles (19 kilometers) northwest of Jerusalem. Sanballat’s name might indicate that he was a descendant of the Assyrian people imported by Sargon II after the fall of Samaria (<a href=\"?bref=2Kgs.17.24\">2 Kgs 17:24</a>). A document discovered in Egypt indicates that he eventually became governor of Samaria in 408 <span class=\"era\">BC</span>.</p>"
+    },
+    {
+      "sequence": 5307,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.12",
+      "citation": {
+        "short": "Neh 2:12",
+        "long": "Nehemiah 2:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.12-15\">2:12-15</a></span> Nehemiah needed firsthand knowledge of the condition of the walls to present credible <span class=\"sn-excerpt\">plans</span> for their reconstruction and to rally the labor he would need. He conducted his survey secretly <span class=\"sn-excerpt\">after dark</span> to avoid detection by his opponents. His inspection covered only the southern part of the city.</p>"
+    },
+    {
+      "sequence": 5308,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.13",
+      "citation": {
+        "short": "Neh 2:13",
+        "long": "Nehemiah 2:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.13\">2:13</a></span> <span class=\"sn-excerpt\">Jackal’s Well</span> might have been En-rogel, a water source located about 400 yards [365 meters] south of the city, or the pool of Siloam, which is filled by water flowing through Hezekiah’s meandering, serpentine tunnel. • The <span class=\"sn-excerpt\">Dung Gate</span> (called the “Gate of Broken Pots” in <a href=\"?bref=Jer.19.2\">Jer 19:2</a>) at the southern end of the western wall (see <a href=\"?bref=Neh.3.13\">Neh 3:13</a>) led to the Hinnom Valley, where inhabitants of the city threw their garbage.</p>"
+    },
+    {
+      "sequence": 5309,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.14",
+      "citation": {
+        "short": "Neh 2:14",
+        "long": "Nehemiah 2:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.14\">2:14</a></span> The <span class=\"sn-excerpt\">King’s Pool</span> was either the pool of Siloam or another pool southeast of the city; both were created from the overflow of the Gihon Spring (see <a href=\"?bref=2Kgs.20.20\">2 Kgs 20:20</a>).</p>"
+    },
+    {
+      "sequence": 5310,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.16",
+      "citation": {
+        "short": "Neh 2:16",
+        "long": "Nehemiah 2:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.16-17\">2:16-17</a></span> Nehemiah kept his inspection and rebuilding plans secret from both the Persian and <span class=\"sn-excerpt\">Jewish leaders</span> to prevent opposition from being organized.<span class=\"sn-excerpt\"> But now</span> Nehemiah was effectively positioned to lead the rebuilding effort. • <span class=\"sn-excerpt\">what trouble we are in:</span> The broken walls brought <span class=\"sn-excerpt\">disgrace</span> on the city and reflected negatively on God; Jerusalem certainly did not look like the “city of the great King” (<a href=\"?bref=Ps.48.2\">Ps 48:2</a>).</p>"
+    },
+    {
+      "sequence": 5311,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.18",
+      "citation": {
+        "short": "Neh 2:18",
+        "long": "Nehemiah 2:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.18\">2:18</a></span> Evidence of God’s clear involvement (<a href=\"?bref=Neh.2.8\">2:8</a>) is a strong motivator in any project. Nehemiah had God’s guidance, the king’s permission, the necessary letters to procure lumber, and a plan to lead the project. So the people enthusiastically agreed to begin working.</p>"
+    },
+    {
+      "sequence": 5312,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.19",
+      "citation": {
+        "short": "Neh 2:19",
+        "long": "Nehemiah 2:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.19\">2:19</a></span> Nehemiah’s enemies immediately <span class=\"sn-excerpt\">scoffed</span> and tried to stop progress. These opponents were dangerous because of their potential ability to discourage the people and undermine Nehemiah’s credibility. • <span class=\"sn-excerpt\">Are you rebelling against the king?</span> This serious charge could bring death (see also <a href=\"?bref=Ezra.4.6-23\">Ezra 4:6-23</a>).</p>"
+    },
+    {
+      "sequence": 5313,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.2",
+      "verseOsisID": "Neh.2.20",
+      "citation": {
+        "short": "Neh 2:20",
+        "long": "Nehemiah 2:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.2.20\">2:20</a></span> The title <span class=\"sn-excerpt\">God of heaven</span> communicated to Persian audiences that Israel’s true God was not a minor local deity. Nehemiah remained focused on obeying his sovereign by building the walls.</p>"
+    },
+    {
+      "sequence": 5314,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.1",
+      "citation": {
+        "short": "Neh 3:1",
+        "long": "Nehemiah 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.1-32\">3:1-32</a></span> This summary of the people who rebuilt the walls of Jerusalem moves in a circle around the city, starting at the northeast corner and moving west, then south, east, and north.</p>"
+    },
+    {
+      "sequence": 5315,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.1",
+      "citation": {
+        "short": "Neh 3:1",
+        "long": "Nehemiah 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.1-5\">3:1-5</a></span> The rebuilding of the walls and gates around the northern section of the city was divided into eight work groups.</p>"
+    },
+    {
+      "sequence": 5316,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.1",
+      "citation": {
+        "short": "Neh 3:1",
+        "long": "Nehemiah 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.1\">3:1</a></span> <span class=\"sn-excerpt\">Eliashib the high priest</span><span class=\"ital\">,</span> the grandson of Jeshua (<a href=\"?bref=Neh.12.10\">12:10</a>), led the priests in working on the northern wall around the Temple. • <span class=\"sn-excerpt\">The Sheep Gate</span> was where the people brought in their sheep on their way to sacrifice at the Temple. • <span class=\"sn-excerpt\">The Tower of the Hundred</span> and <span class=\"sn-excerpt\">the Tower of Hananel</span> were two major military towers along the northern wall (<a href=\"?bref=Neh.12.39\">12:39</a>; <a href=\"?bref=Jer.31.38\">Jer 31:38</a>; <a href=\"?bref=Zech.14.10\">Zech 14:10</a>).</p>"
+    },
+    {
+      "sequence": 5317,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.3",
+      "citation": {
+        "short": "Neh 3:3",
+        "long": "Nehemiah 3:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.3\">3:3</a></span> At the <span class=\"sn-excerpt\">Fish Gate</span><span class=\"ital\">,</span> people sold fish from the Sea of Galilee and the Mediterranean Sea.</p>"
+    },
+    {
+      "sequence": 5318,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.4",
+      "citation": {
+        "short": "Neh 3:4",
+        "long": "Nehemiah 3:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.4\">3:4</a></span> <span class=\"sn-excerpt\">Meremoth:</span> See <a href=\"?bref=Ezra.8.33\">Ezra 8:33</a>. • <span class=\"sn-excerpt\">Meshullam</span> had given his daughter in marriage to a son of Tobiah (<a href=\"?bref=Neh.6.18\">Neh 6:18</a>; see also <a href=\"?bref=Neh.10.20\">10:20</a>).</p>"
+    },
+    {
+      "sequence": 5319,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.5",
+      "citation": {
+        "short": "Neh 3:5",
+        "long": "Nehemiah 3:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.5\">3:5</a></span> The <span class=\"sn-excerpt\">leaders</span> of <span class=\"sn-excerpt\">Tekoa</span> might have been influenced by Geshem (<a href=\"?bref=Neh.2.19\">2:19</a>), who controlled the area south of Tekoa.</p>"
+    },
+    {
+      "sequence": 5320,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.6",
+      "citation": {
+        "short": "Neh 3:6",
+        "long": "Nehemiah 3:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.6-8\">3:6-8</a></span> These verses describe work done on the walls and gates on the western side of Jerusalem. Even people from outside the city and people having wealth or more delicate occupations participated.</p>"
+    },
+    {
+      "sequence": 5321,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.6",
+      "citation": {
+        "short": "Neh 3:6",
+        "long": "Nehemiah 3:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.6\">3:6</a></span> <span class=\"sn-excerpt\">The Old City Gate:</span> The oldest part of Jerusalem sat on an eastern hill that ran north to the Temple Mount.</p>"
+    },
+    {
+      "sequence": 5322,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.7",
+      "citation": {
+        "short": "Neh 3:7",
+        "long": "Nehemiah 3:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.7\">3:7</a></span> <span class=\"sn-excerpt\">Gibeon</span> and <span class=\"sn-excerpt\">Mizpah</span> were about six miles (10 kilometers) north of Jerusalem.</p>"
+    },
+    {
+      "sequence": 5323,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.8",
+      "citation": {
+        "short": "Neh 3:8",
+        "long": "Nehemiah 3:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.8\">3:8</a></span> The <span class=\"sn-excerpt\">Broad Wall</span> was located in the newer, western section of the city.</p>"
+    },
+    {
+      "sequence": 5324,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.9",
+      "citation": {
+        "short": "Neh 3:9",
+        "long": "Nehemiah 3:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.9-13\">3:9-13</a></span> Nehemiah wisely assigned people to work near their homes both to motivate them to do good work and to save them traveling time.</p>"
+    },
+    {
+      "sequence": 5325,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.11",
+      "citation": {
+        "short": "Neh 3:11",
+        "long": "Nehemiah 3:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.11\">3:11</a></span> The <span class=\"sn-excerpt\">Tower of the Ovens</span> on the western wall of the city might have been a place to bake bread or to burnish pottery (<a href=\"?bref=Jer.19.1-2\">Jer 19:1-2</a>).</p>"
+    },
+    {
+      "sequence": 5326,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.13",
+      "citation": {
+        "short": "Neh 3:13",
+        "long": "Nehemiah 3:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.13\">3:13</a></span> <span class=\"sn-excerpt\">Zanoah</span> was a village about thirteen miles (21 kilometers) southwest of Jerusalem.</p>"
+    },
+    {
+      "sequence": 5327,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.14",
+      "citation": {
+        "short": "Neh 3:14",
+        "long": "Nehemiah 3:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.14-15\">3:14-15</a></span> These verses focus on the reconstruction of the southern tip of the city where the Hinnom Valley and Kidron Valley meet.</p>"
+    },
+    {
+      "sequence": 5328,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.14",
+      "citation": {
+        "short": "Neh 3:14",
+        "long": "Nehemiah 3:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.14\">3:14</a></span> The <span class=\"sn-excerpt\">Beth-hakkerem district</span> might have been about two miles (3.2 kilometers) south of Jerusalem (at modern Ramat Rachel) or five miles (8 kilometers) west (at modern Ain Karem).</p>"
+    },
+    {
+      "sequence": 5329,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.15",
+      "citation": {
+        "short": "Neh 3:15",
+        "long": "Nehemiah 3:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.15\">3:15</a></span> The <span class=\"sn-excerpt\">Mizpah district</span> was about six miles (10 kilometers) north of Jerusalem. • The <span class=\"sn-excerpt\">king’s garden</span> was a lush area east of the pool of Siloam near where the Kidron and Hinnom Valleys meet, possibly at the King’s Pool (<a href=\"?bref=Neh.2.14\">2:14</a>).</p>"
+    },
+    {
+      "sequence": 5330,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.16",
+      "citation": {
+        "short": "Neh 3:16",
+        "long": "Nehemiah 3:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.16-32\">3:16-32</a></span> These verses describe the building of the new eastern wall.</p>"
+    },
+    {
+      "sequence": 5331,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.16",
+      "citation": {
+        "short": "Neh 3:16",
+        "long": "Nehemiah 3:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.16\">3:16</a></span> The <span class=\"sn-excerpt\">district of Beth-zur</span> was located just north of Hebron. • The <span class=\"sn-excerpt\">tombs of David’s family</span> might refer to where King David was buried (<a href=\"?bref=1Kgs.2.10\">1 Kgs 2:10</a>; <a href=\"?bref=1Kgs.11.43\">11:43</a>; <a href=\"?bref=2Chr.21.20\">2 Chr 21:20</a>; <a href=\"?bref=Acts.2.29\">Acts 2:29</a>), and the <span class=\"sn-excerpt\">House of the Warriors</span> might have been a tomb for David’s mighty men (<a href=\"?bref=2Sam.23.8-39\">2 Sam 23:8-39</a>).</p>"
+    },
+    {
+      "sequence": 5332,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.24",
+      "citation": {
+        "short": "Neh 3:24",
+        "long": "Nehemiah 3:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.24\">3:24</a></span> The <span class=\"sn-excerpt\">angle and the corner</span> refers to an unidentified turn in the wall.</p>"
+    },
+    {
+      "sequence": 5333,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.25",
+      "citation": {
+        "short": "Neh 3:25",
+        "long": "Nehemiah 3:25"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.25-26\">3:25-26</a></span> The <span class=\"sn-excerpt\">tower that projects up from the king’s upper house</span> and <span class=\"sn-excerpt\">the court of the guard</span> might refer to a royal complex on the <span class=\"sn-excerpt\">hill of Ophel</span><span class=\"ital\">,</span> just south of the Temple area.</p>"
+    },
+    {
+      "sequence": 5334,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.3",
+      "verseOsisID": "Neh.3.28",
+      "citation": {
+        "short": "Neh 3:28",
+        "long": "Nehemiah 3:28"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.3.28-32\">3:28-32</a></span> This final group of workers connected the repairs to the <span class=\"sn-excerpt\">Sheep Gate</span>, where the work had started (<a href=\"?bref=Neh.3.1\">3:1</a>). • <span class=\"sn-excerpt\">Horse Gate:</span> See also <a href=\"?bref=2Chr.23.15\">2 Chr 23:15</a>; <a href=\"?bref=Jer.31.40\">Jer 31:40</a>. • <span class=\"sn-excerpt\">East Gate:</span> See also <a href=\"?bref=1Chr.26.14\">1 Chr 26:14</a>, <a href=\"?bref=1Chr.26.17\">17</a>; <a href=\"?bref=2Chr.31.14\">2 Chr 31:14</a>; <a href=\"?bref=Ezek.10.19\">Ezek 10:19</a>; <a href=\"?bref=Ezek.40.21-22\">40:21-22</a>.</p>"
+    },
+    {
+      "sequence": 5335,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.2",
+      "citation": {
+        "short": "Neh 4:2",
+        "long": "Nehemiah 4:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.2\">4:2</a></span> The Persians had stationed <span class=\"sn-excerpt\">Samarian army officers</span> in Jerusalem to keep peace. • <span class=\"sn-excerpt\">poor, feeble Jews:</span> Sanballat’s mockery had an element of truth: The Jews were not rich, powerful, or many in number. However, Sanballat failed to realize the strength of the God whom the Jews served. • <span class=\"sn-excerpt\">Do they think . . . by just offering a few sacrifices?</span> Sanballat might have been mocking a sudden increase in sacrifices at the Temple as the Israelites dedicated their work to the Lord. • <span class=\"sn-excerpt\">rubbish . . . charred:</span> When fire destroyed Jerusalem (586 <span class=\"era\">BC</span>), it heated the stones, causing some to crack and crumble. The people used these stones to restore the walls.</p>"
+    },
+    {
+      "sequence": 5336,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.4",
+      "citation": {
+        "short": "Neh 4:4",
+        "long": "Nehemiah 4:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.4\">4:4</a></span> Nehemiah prayed intensely for God to stop those who opposed God’s will. Nehemiah’s practice was to cry out to God in times of need (<a href=\"?bref=Neh.2.4\">2:4</a>; <a href=\"?bref=Neh.5.19\">5:19</a>; <a href=\"?bref=Neh.6.14\">6:14</a>; <a href=\"?bref=Neh.13.14\">13:14</a>, <a href=\"?bref=Neh.13.22\">22</a>, <a href=\"?bref=Neh.13.29\">29</a>, <a href=\"?bref=Neh.13.31\">31</a>).</p>"
+    },
+    {
+      "sequence": 5337,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.5",
+      "citation": {
+        "short": "Neh 4:5",
+        "long": "Nehemiah 4:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.5\">4:5</a></span> <span class=\"sn-excerpt\">Do not ignore their guilt:</span> See also “<a href=\"?item=PrayersForVengeance_ThemeNote_Filament\">Prayers for Vengeance</a>” Theme Note.</p>"
+    },
+    {
+      "sequence": 5338,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.6",
+      "citation": {
+        "short": "Neh 4:6",
+        "long": "Nehemiah 4:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.6\">4:6</a></span> <span class=\"sn-excerpt\">half its height:</span> Perhaps 10–12 feet (3.0–3.7 meters) tall, since some scholars speculate that the original wall was 20–24 feet (6.0–7.3 meters) high.</p>"
+    },
+    {
+      "sequence": 5339,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.7",
+      "citation": {
+        "short": "Neh 4:7",
+        "long": "Nehemiah 4:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.7\">4:7</a></span> Israel’s enemies from the north (<span class=\"sn-excerpt\">Sanballat</span>), the south (<span class=\"sn-excerpt\">Arabs</span>), the east (<span class=\"sn-excerpt\">Ammonites</span>), and the west (<span class=\"sn-excerpt\">Ashdodites</span>) were enraged by the speed and success of Jerusalem’s reconstruction, which threatened these opponents’ political power in the region.</p>"
+    },
+    {
+      "sequence": 5340,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.9",
+      "citation": {
+        "short": "Neh 4:9",
+        "long": "Nehemiah 4:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.9\">4:9</a></span> <span class=\"sn-excerpt\">we prayed . . . and guarded:</span> This wise approach to the threat involved both relying on God and doing what was needed.</p>"
+    },
+    {
+      "sequence": 5341,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.11",
+      "citation": {
+        "short": "Neh 4:11",
+        "long": "Nehemiah 4:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.11\">4:11</a></span> The relentless psychological attack of Israel’s <span class=\"sn-excerpt\">enemies</span> was having a negative effect on morale.</p>"
+    },
+    {
+      "sequence": 5342,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.12",
+      "citation": {
+        "short": "Neh 4:12",
+        "long": "Nehemiah 4:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.12\">4:12</a></span> <span class=\"sn-excerpt\">They will come from all directions and attack us!</span> Jews from the surrounding areas might have been exhorting the people working in Jerusalem to return to their villages to avoid being killed in an attack.</p>"
+    },
+    {
+      "sequence": 5343,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.13",
+      "citation": {
+        "short": "Neh 4:13",
+        "long": "Nehemiah 4:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.13\">4:13</a></span> Nehemiah countered by positioning <span class=\"sn-excerpt\">armed guards</span> near the most vulnerable <span class=\"sn-excerpt\">parts of the wall</span>. He also made sure opponents outside the wall could see the forces ready to defend the city.</p>"
+    },
+    {
+      "sequence": 5344,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.14",
+      "citation": {
+        "short": "Neh 4:14",
+        "long": "Nehemiah 4:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.14\">4:14</a></span> The strongest motivation for hope was Israel’s <span class=\"sn-excerpt\">great and glorious</span> God, who had delivered his people from mighty nations before (cp. <a href=\"?bref=2Chr.32.7-8\">2 Chr 32:7-8</a>; see <a href=\"?bref=Exod.14.13-14\">Exod 14:13-14</a>; <a href=\"?bref=Deut.8.1-3\">Deut 8:1-3</a>; <a href=\"?bref=Deut.20.3\">20:3</a>; <a href=\"?bref=Josh.10.25\">Josh 10:25</a>). Another motivation was to protect their own families and properties.</p>"
+    },
+    {
+      "sequence": 5345,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.15",
+      "citation": {
+        "short": "Neh 4:15",
+        "long": "Nehemiah 4:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.15\">4:15</a></span> Nehemiah gave the credit to <span class=\"sn-excerpt\">God</span> (see also <a href=\"?bref=Neh.2.20\">2:20</a>; <a href=\"?bref=Neh.6.16\">6:16</a>), who <span class=\"sn-excerpt\">had frustrated them</span> through the prayers of the people, the 24-hour patrol, the open display of force, and the confidence in God’s protection.</p>"
+    },
+    {
+      "sequence": 5346,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.18",
+      "citation": {
+        "short": "Neh 4:18",
+        "long": "Nehemiah 4:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.18-19\">4:18-19</a></span> Through the <span class=\"sn-excerpt\">trumpeter</span><span class=\"ital\">,</span> Nehemiah could <span class=\"sn-excerpt\">sound the alarm</span> to direct workers to any portion of the wall that might be attacked.</p>"
+    },
+    {
+      "sequence": 5347,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.20",
+      "citation": {
+        "short": "Neh 4:20",
+        "long": "Nehemiah 4:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.20\">4:20</a></span> <span class=\"sn-excerpt\">our God will fight for us!</span> Drawing on Israel’s ancient holy war tradition (<a href=\"?bref=Exod.14.14\">Exod 14:14</a>; <a href=\"?bref=Deut.1.30\">Deut 1:30</a>; <a href=\"?bref=Deut.20.4\">20:4</a>; <a href=\"?bref=Josh.10.14\">Josh 10:14</a>; <a href=\"?bref=Josh.23.10\">23:10</a>), Nehemiah encouraged the people that victory was certain if they trusted in the Lord.</p>"
+    },
+    {
+      "sequence": 5348,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.4",
+      "verseOsisID": "Neh.4.23",
+      "citation": {
+        "short": "Neh 4:23",
+        "long": "Nehemiah 4:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.4.23\">4:23</a></span> Nehemiah and the other leaders were not elitists who relaxed while others toiled.</p>"
+    },
+    {
+      "sequence": 5349,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.1",
+      "citation": {
+        "short": "Neh 5:1",
+        "long": "Nehemiah 5:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.1-13\">5:1-13</a></span> Although severe financial problems threatened to derail the wall’s completion (<a href=\"?bref=Neh.5.1-5\">5:1-5</a>), Nehemiah worked out a solution (<a href=\"?bref=Neh.5.6-13\">5:6-13</a>).</p>"
+    },
+    {
+      "sequence": 5350,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.2",
+      "citation": {
+        "short": "Neh 5:2",
+        "long": "Nehemiah 5:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.2\">5:2</a></span> Some farmers had diverted their efforts from raising crops to building the wall, leaving their <span class=\"sn-excerpt\">large families</span> in need of <span class=\"sn-excerpt\">food to survive</span>. Someone had to feed their families, or they would have to stop work on the wall and go home to work in their fields.</p>"
+    },
+    {
+      "sequence": 5351,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.3",
+      "citation": {
+        "short": "Neh 5:3",
+        "long": "Nehemiah 5:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.3\">5:3</a></span> Some small landowners had <span class=\"sn-excerpt\">mortgaged</span> everything to survive. The <span class=\"sn-excerpt\">famine</span> made the problem worse because grain was scarce and the price of food naturally increased.</p>"
+    },
+    {
+      "sequence": 5352,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.4",
+      "citation": {
+        "short": "Neh 5:4",
+        "long": "Nehemiah 5:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.4\">5:4</a></span> <span class=\"sn-excerpt\">to pay our taxes:</span> Despite the famine, the Persians did not cancel the onerous royal tribute due at harvest time.</p>"
+    },
+    {
+      "sequence": 5353,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.5",
+      "citation": {
+        "short": "Neh 5:5",
+        "long": "Nehemiah 5:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.5\">5:5</a></span> <span class=\"sn-excerpt\">we must sell our children into slavery:</span> See <a href=\"?bref=Exod.21.1-11\">Exod 21:1-11</a>. These families were desperate to survive.</p>"
+    },
+    {
+      "sequence": 5354,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.6",
+      "citation": {
+        "short": "Neh 5:6",
+        "long": "Nehemiah 5:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.6-7\">5:6-7</a></span> Nehemiah was <span class=\"sn-excerpt\">very angry</span><span class=\"ital\">,</span> but he controlled himself, thought it over, and then <span class=\"sn-excerpt\">spoke out</span> in order to resolve the conflict rather than make it worse (see <a href=\"?bref=Jas.1.19-20\">Jas 1:19-20</a>).</p>"
+    },
+    {
+      "sequence": 5355,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.9",
+      "citation": {
+        "short": "Neh 5:9",
+        "long": "Nehemiah 5:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.9\">5:9</a></span> <span class=\"sn-excerpt\">walk in the fear of our God:</span> See <a href=\"?bref=Lev.25.35-43\">Lev 25:35-43</a>. • <span class=\"sn-excerpt\">avoid being mocked:</span> See also <a href=\"?bref=Neh.1.3\">Neh 1:3</a>; <a href=\"?bref=Neh.2.19\">2:19</a>; <a href=\"?bref=Neh.4.1-3\">4:1-3</a>.</p>"
+    },
+    {
+      "sequence": 5356,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.10",
+      "citation": {
+        "short": "Neh 5:10",
+        "long": "Nehemiah 5:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.10\">5:10</a></span> <span class=\"sn-excerpt\">I myself . . . have been lending:</span> Nehemiah and his associates were evidently making loans without burdening people. Nehemiah’s example was the solution: to give financial help without pushing people further into debt by <span class=\"sn-excerpt\">charging interest</span> (see <a href=\"?bref=Deut.15.7-11\">Deut 15:7-11</a>).</p>"
+    },
+    {
+      "sequence": 5357,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.11",
+      "citation": {
+        "short": "Neh 5:11",
+        "long": "Nehemiah 5:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.11\">5:11</a></span> Nehemiah demanded that the rich lenders <span class=\"sn-excerpt\">restore their fields</span> and <span class=\"sn-excerpt\">repay the interest</span> (literally <span class=\"ital\">the hundredth part</span>), which they should not have collected (see also <a href=\"?bref=Exod.22.25\">Exod 22:25</a>; <a href=\"?bref=Lev.25.35-37\">Lev 25:35-37</a>). The literal <span class=\"ital\">hundredth part</span> suggests that the interest was one percent per month, lower than the twenty percent annual rate found in some documents of that time, or the sixty percent annual rate charged at Elephantine in Egypt. But even a relatively low rate of interest violated God’s covenant.</p>"
+    },
+    {
+      "sequence": 5358,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.12",
+      "citation": {
+        "short": "Neh 5:12",
+        "long": "Nehemiah 5:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.12\">5:12</a></span> <span class=\"sn-excerpt\">made the nobles and officials swear:</span> Both God and the community would hold them accountable.</p>"
+    },
+    {
+      "sequence": 5359,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.14",
+      "citation": {
+        "short": "Neh 5:14",
+        "long": "Nehemiah 5:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.14-19\">5:14-19</a></span> This section describes Nehemiah’s consistent policy of servant leadership and personal generosity.</p>"
+    },
+    {
+      "sequence": 5360,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.14",
+      "citation": {
+        "short": "Neh 5:14",
+        "long": "Nehemiah 5:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.14\">5:14</a></span> This is the first mention of Nehemiah’s status as <span class=\"sn-excerpt\">governor</span><span class=\"ital\">,</span> a position not mentioned when the king first sent Nehemiah to Jerusalem. • Persia’s government officials usually <span class=\"sn-excerpt\">drew</span> an <span class=\"sn-excerpt\">official food allowance</span> from the local population, but Nehemiah and his associates instead purchased food out of their regular pay.</p>"
+    },
+    {
+      "sequence": 5361,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.15",
+      "citation": {
+        "short": "Neh 5:15",
+        "long": "Nehemiah 5:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.15\">5:15</a></span> <span class=\"sn-excerpt\">The former governors</span> were probably Nehemiah’s immediate predecessors, not Sheshbazzar (<a href=\"?bref=Ezra.1.8\">Ezra 1:8</a>, about ninety years earlier) or Zerubbabel (<a href=\"?bref=Hagg.1.1\">Hag 1:1</a>, about eighty years earlier).</p>"
+    },
+    {
+      "sequence": 5362,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.5",
+      "verseOsisID": "Neh.5.19",
+      "citation": {
+        "short": "Neh 5:19",
+        "long": "Nehemiah 5:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.5.19\">5:19</a></span> Nehemiah’s prayer for God to <span class=\"sn-excerpt\">remember</span> and <span class=\"sn-excerpt\">bless</span> him was a sign of his dependence on God.</p>"
+    },
+    {
+      "sequence": 5363,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.6",
+      "verseOsisID": "Neh.6.1",
+      "citation": {
+        "short": "Neh 6:1",
+        "long": "Nehemiah 6:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.6.1-19\">6:1-19</a></span> With the financial crisis solved (ch <a href=\"?bref=Neh.5.1-19\">5</a>), the narrative returns to how the enemies of rebuilding tried to intimidate or eliminate Nehemiah.</p>"
+    },
+    {
+      "sequence": 5364,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.6",
+      "verseOsisID": "Neh.6.2",
+      "citation": {
+        "short": "Neh 6:2",
+        "long": "Nehemiah 6:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.6.2\">6:2</a></span> The <span class=\"sn-excerpt\">plain of Ono</span><span class=\"ital\">,</span> located near Lod (<a href=\"?bref=Ezra.2.33\">Ezra 2:33</a>), was probably a neutral site west of Jerusalem, where Nehemiah would have been unprotected.</p>"
+    },
+    {
+      "sequence": 5365,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.6",
+      "verseOsisID": "Neh.6.6",
+      "citation": {
+        "short": "Neh 6:6",
+        "long": "Nehemiah 6:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.6.6-7\">6:6-7</a></span> <span class=\"sn-excerpt\">planning to rebel . . . you plan to be their king:</span> Those who had opposed the restoration of the Temple had used similar tactics (see <a href=\"?bref=Ezra.4.1-24\">Ezra 4</a>). • At times in Israel’s history, <span class=\"sn-excerpt\">prophets</span> did play a role in establishing a new king (cp. <a href=\"?bref=1Sam.9.16\">1 Sam 9:16</a>; <a href=\"?bref=2Kgs.9.1-37\">2 Kgs 9</a>).</p>"
+    },
+    {
+      "sequence": 5366,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.6",
+      "verseOsisID": "Neh.6.11",
+      "citation": {
+        "short": "Neh 6:11",
+        "long": "Nehemiah 6:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.6.11\">6:11</a></span> A good leader would not <span class=\"sn-excerpt\">run from danger</span> but would stand as an example to his people.</p>"
+    },
+    {
+      "sequence": 5367,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.6",
+      "verseOsisID": "Neh.6.15",
+      "citation": {
+        "short": "Neh 6:15",
+        "long": "Nehemiah 6:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.6.15-16\">6:15-16</a></span> <span class=\"sn-excerpt\">just fifty-two days:</span> Everyone realized that <span class=\"sn-excerpt\">the help of our God</span> was what made such success possible (see also <a href=\"?bref=Neh.1.11\">1:11</a>; <a href=\"?bref=Neh.2.8\">2:8</a>, <a href=\"?bref=Neh.2.18\">18</a>, <a href=\"?bref=Neh.2.20\">20</a>; <a href=\"?bref=Neh.4.15\">4:15</a>, <a href=\"?bref=Neh.4.20\">20</a>).</p>"
+    },
+    {
+      "sequence": 5368,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.1",
+      "citation": {
+        "short": "Neh 7:1",
+        "long": "Nehemiah 7:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.1\">7:1</a></span> <span class=\"sn-excerpt\">the wall was finished:</span> The actual dedication of the wall is reported in <a href=\"?bref=Neh.12.27-34\">12:27-34</a>. • The <span class=\"sn-excerpt\">Levites</span> usually assisted with caring for the Temple area, including guarding its gates.</p>"
+    },
+    {
+      "sequence": 5369,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.2",
+      "citation": {
+        "short": "Neh 7:2",
+        "long": "Nehemiah 7:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.2\">7:2</a></span> <span class=\"sn-excerpt\">a faithful man who feared God:</span> Hanani displayed two leadership characteristics favored by Nehemiah and God (see also <a href=\"?bref=Neh.5.9\">5:9</a>, <a href=\"?bref=Neh.5.15\">15</a>; <a href=\"?bref=Dan.6.4\">Dan 6:4</a>; <a href=\"?bref=Luke.16.10-12\">Luke 16:10-12</a>; <a href=\"?bref=1Pet.5.12\">1 Pet 5:12</a>).</p>"
+    },
+    {
+      "sequence": 5370,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.3",
+      "citation": {
+        "short": "Neh 7:3",
+        "long": "Nehemiah 7:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.3\">7:3</a></span> The <span class=\"sn-excerpt\">gatekeepers</span> were apparently supposed to close the gates during the time in the afternoon when people were resting and were not prepared to defend the city from attack. Elsewhere, similar language refers to the portion of the day when the sun is the hottest and people retreat inside (<a href=\"?bref=Gen.18.1\">Gen 18:1</a>; <a href=\"?bref=2Sam.4.5\">2 Sam 4:5</a>).</p>"
+    },
+    {
+      "sequence": 5371,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.4",
+      "citation": {
+        "short": "Neh 7:4",
+        "long": "Nehemiah 7:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.4-5\">7:4-5</a></span> Most people lived in the country near their fields, so <span class=\"sn-excerpt\">the population</span> of Jerusalem <span class=\"sn-excerpt\">was small</span>. Apparently, a <span class=\"sn-excerpt\">registration</span> would encourage more people to settle in and near Jerusalem (<a href=\"?bref=Neh.7.73\">7:73</a>).</p>"
+    },
+    {
+      "sequence": 5372,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.6",
+      "citation": {
+        "short": "Neh 7:6",
+        "long": "Nehemiah 7:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.6\">7:6</a></span> <span class=\"sn-excerpt\">Jewish exiles . . . returned to Jerusalem and the other towns:</span> These lists were not complete (the individual numbers do not add up to the total number in <a href=\"?bref=Neh.7.66\">7:66</a>), but they were the best records available to verify who truly was a Jew.</p>"
+    },
+    {
+      "sequence": 5373,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.7",
+      "citation": {
+        "short": "Neh 7:7",
+        "long": "Nehemiah 7:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.7\">7:7</a></span> <span class=\"sn-excerpt\">Their leaders:</span> Sheshbazzar (see <a href=\"?bref=Ezra.1.8\">Ezra 1:8</a>) is omitted here and in <a href=\"?bref=Ezra.2.2\">Ezra 2:2</a>, suggesting that both lists were developed after the people had settled in their towns and after Sheshbazzar had died.</p>"
+    },
+    {
+      "sequence": 5374,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.8",
+      "citation": {
+        "short": "Neh 7:8",
+        "long": "Nehemiah 7:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.8-38\">7:8-38</a></span> <span class=\"sn-excerpt\">the family of:</span> This list is similar to that in <a href=\"?bref=Ezra.2.3-35\">Ezra 2:3-35</a>, with some differences in names and the number of people in each family. People were listed by family (<a href=\"?bref=Neh.7.8-25\">Neh 7:8-25</a>) and by the town where they settled (<a href=\"?bref=Neh.7.26-38\">7:26-38</a>). Most of the towns were north of Jerusalem.</p>"
+    },
+    {
+      "sequence": 5375,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.39",
+      "citation": {
+        "short": "Neh 7:39",
+        "long": "Nehemiah 7:39"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.39-60\">7:39-60</a></span> Nehemiah wanted to be sure that only legitimate <span class=\"sn-excerpt\">priests</span> and <span class=\"sn-excerpt\">Levites</span> served in God’s Temple.</p>"
+    },
+    {
+      "sequence": 5376,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.60",
+      "citation": {
+        "short": "Neh 7:60",
+        "long": "Nehemiah 7:60"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.60\">7:60</a></span> The <span class=\"sn-excerpt\">descendants of Solomon’s servants</span> apparently assisted the Levites by carrying wood or sweeping the floor (cp. <a href=\"?bref=Ezra.2.55-58\">Ezra 2:55-58</a>). They might have been Gibeonites (<a href=\"?bref=Josh.9.23-27\">Josh 9:23-27</a>; <a href=\"?bref=1Chr.9.35-44\">1 Chr 9:35-44</a>) or war captives (<a href=\"?bref=Num.31.30-47\">Num 31:30-47</a>).</p>"
+    },
+    {
+      "sequence": 5377,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.61",
+      "citation": {
+        "short": "Neh 7:61",
+        "long": "Nehemiah 7:61"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.61-62\">7:61-62</a></span> <span class=\"sn-excerpt\">they could not prove that they . . . were descendants of Israel:</span> They had no genealogical records.</p>"
+    },
+    {
+      "sequence": 5378,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.65",
+      "citation": {
+        "short": "Neh 7:65",
+        "long": "Nehemiah 7:65"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.65\">7:65</a></span> <span class=\"sn-excerpt\">Urim and Thummim . . . sacred lots:</span> See study notes on <a href=\"?item=Exod.28.30_StudyNote_Filament\">Exod 28:30</a>; <a href=\"?item=Lev.8.8_StudyNote_Filament\">Lev 8:8</a>.</p>"
+    },
+    {
+      "sequence": 5379,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.66",
+      "citation": {
+        "short": "Neh 7:66",
+        "long": "Nehemiah 7:66"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.66\">7:66</a></span> The total number <span class=\"sn-excerpt\">42,360</span> agrees with <a href=\"?bref=Ezra.2.64\">Ezra 2:64</a>, but the numbers for the families listed total only 31,089. The individual numbers for each family might not include young children, or the list might simply be incomplete.</p>"
+    },
+    {
+      "sequence": 5380,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.70",
+      "citation": {
+        "short": "Neh 7:70",
+        "long": "Nehemiah 7:70"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.70-72\">7:70-72</a></span> <span class=\"sn-excerpt\">Some of the family leaders gave gifts</span> as their forefathers had done when sacred buildings were built (<a href=\"?bref=Exod.25.2-7\">Exod 25:2-7</a>; <a href=\"?bref=Exod.35.4-9\">35:4-9</a>; <a href=\"?bref=2Kgs.12.1-21\">2 Kgs 12:1-21</a>). This money supplemented gifts by Israelites who stayed in Babylon (<a href=\"?bref=Ezra.1.6\">Ezra 1:6</a>) and by the Persian kings (<a href=\"?bref=Ezra.6.8\">Ezra 6:8</a>).</p>"
+    },
+    {
+      "sequence": 5381,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.73",
+      "citation": {
+        "short": "Neh 7:73",
+        "long": "Nehemiah 7:73"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.73-10.39\">7:73–10:39</a></span> This section, perhaps originally a part of Ezra’s personal memoirs, describes how Ezra’s teaching of God’s law brought renewal of the people’s commitment to serve God and follow his instructions. Spiritual revival accompanied the civic work of Ezra and Nehemiah.</p>"
+    },
+    {
+      "sequence": 5382,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.7",
+      "verseOsisID": "Neh.7.73",
+      "citation": {
+        "short": "Neh 7:73",
+        "long": "Nehemiah 7:73"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.7.73\">7:73</a></span> <span class=\"sn-excerpt\">their own towns throughout Israel:</span> Each family settled in the land that had been inhabited by their ancestors before the Exile.</p>"
+    },
+    {
+      "sequence": 5383,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.1",
+      "citation": {
+        "short": "Neh 8:1",
+        "long": "Nehemiah 8:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.1\">8:1</a></span> The <span class=\"sn-excerpt\">Water Gate</span> was located toward the middle of the eastern wall of Jerusalem, south of the Temple and east of the palace ruins (<a href=\"?bref=Neh.3.26\">3:26</a>; <a href=\"?bref=Neh.12.37\">12:37</a>). There was plenty of open space so no one would be excluded.</p>"
+    },
+    {
+      "sequence": 5384,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.2",
+      "citation": {
+        "short": "Neh 8:2",
+        "long": "Nehemiah 8:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.2\">8:2</a></span> <span class=\"sn-excerpt\">on October 8:</span> The people came together on this day to celebrate the Festival of Trumpets (<a href=\"?bref=Lev.23.24-25\">Lev 23:24-25</a>), which marked the beginning of a new year in the postexilic calendar.</p>"
+    },
+    {
+      "sequence": 5385,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.3",
+      "citation": {
+        "short": "Neh 8:3",
+        "long": "Nehemiah 8:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.3\">8:3</a></span> The timeframe <span class=\"sn-excerpt\">from early morning until noon</span> provided about six hours for reading and interpreting (<a href=\"?bref=Neh.8.7-8\">8:7-8</a>). • <span class=\"sn-excerpt\">understand</span> (see also <a href=\"?bref=Neh.8.2\">8:2</a>, <a href=\"?bref=Neh.8.8\">8</a>, <a href=\"?bref=Neh.8.12\">12</a>): This was not just a ritual reading of the law. It included explanations, insight, and application.</p>"
+    },
+    {
+      "sequence": 5386,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.4",
+      "citation": {
+        "short": "Neh 8:4",
+        "long": "Nehemiah 8:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.4\">8:4</a></span> These thirteen people were apparently community leaders. Some might have helped Ezra roll the scroll as he read.</p>"
+    },
+    {
+      "sequence": 5387,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.5",
+      "citation": {
+        "short": "Neh 8:5",
+        "long": "Nehemiah 8:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.5\">8:5</a></span> The people <span class=\"sn-excerpt\">all rose to their feet</span> out of respect for God’s word (<a href=\"?bref=Job.29.8\">Job 29:8</a>). Apparently, they stood the whole time Ezra was reading.</p>"
+    },
+    {
+      "sequence": 5388,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.6",
+      "citation": {
+        "short": "Neh 8:6",
+        "long": "Nehemiah 8:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.6\">8:6</a></span> <span class=\"sn-excerpt\">Ezra praised the</span> <span class=\"sn-excerpt-divine-name\">Lord</span><span class=\"sn-excerpt\">:</span> See also <a href=\"?bref=Neh.1.5\">1:5</a>; <a href=\"?bref=Neh.9.32\">9:32</a>; <a href=\"?bref=Deut.10.17\">Deut 10:17</a>; <a href=\"?bref=Jer.32.18\">Jer 32:18</a>; <a href=\"?bref=Dan.9.4\">Dan 9:4</a>. • <span class=\"sn-excerpt\">Amen!</span> A statement of agreement (see <a href=\"?bref=Neh.5.13\">Neh 5:13</a>). Lifting hands (<a href=\"?bref=Ps.28.2\">Ps 28:2</a>) and bowing in humble worship were signs of reverence for God and submission to his word.</p>"
+    },
+    {
+      "sequence": 5389,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.7",
+      "citation": {
+        "short": "Neh 8:7",
+        "long": "Nehemiah 8:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.7-9\">8:7-9</a></span> The <span class=\"sn-excerpt\">Levites</span> always had the role of teaching people God’s word (<a href=\"?bref=Deut.33.10\">Deut 33:10</a>; <a href=\"?bref=Mal.2.5-6\">Mal 2:5-6</a>). In this case, they probably <span class=\"sn-excerpt\">explained the meaning</span> of the Hebrew Scriptures to smaller groups of people in Aramaic. Most of the people spoke Aramaic, the language of Babylon, rather than Hebrew as their first language. Jewish leaders eventually translated large portions of the Hebrew Bible into Aramaic, allowing people to hear and study the Bible in a language they understood.</p>"
+    },
+    {
+      "sequence": 5390,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.9",
+      "citation": {
+        "short": "Neh 8:9",
+        "long": "Nehemiah 8:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.9-10\">8:9-10</a></span> <span class=\"sn-excerpt\">Ezra the priest and scribe:</span> See <a href=\"?item=Ezra.7.6_StudyNote_Filament\">study note on Ezra 7:6</a>. • <span class=\"sn-excerpt\">Don’t mourn or weep . . . today is a sacred day:</span> God touched the people’s hearts, prompting them to regret their failures to keep God’s laws. While weeping is an appropriate response to sin (see <a href=\"?bref=Ezek.9.4\">Ezek 9:4</a>; <a href=\"?bref=Luke.6.21\">Luke 6:21</a>), Ezra and Nehemiah encouraged the people to rejoice at what God had done. Because this New Year’s festival was to be a time of joy (<a href=\"?bref=Num.29.1-6\">Num 29:1-6</a>), weeping would have destroyed the spirit of the day.</p>"
+    },
+    {
+      "sequence": 5391,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.10",
+      "citation": {
+        "short": "Neh 8:10",
+        "long": "Nehemiah 8:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.10\">8:10</a></span> <span class=\"sn-excerpt\">Rich foods</span> such as meat were eaten only on a special occasion. • <span class=\"sn-excerpt\">Sweet drinks</span> referred to unfermented juice, in contrast to the vinegar of the common laborer (see <a href=\"?bref=Ruth.2.14\">Ruth 2:14</a>). • It is right to <span class=\"sn-excerpt\">share</span> with those who have need (see <a href=\"?bref=Deut.15.11\">Deut 15:11</a>; <a href=\"?bref=Job.29.16\">Job 29:16</a>; <a href=\"?bref=Pr.31.20\">Prov 31:20</a>; <a href=\"?bref=Matt.6.2-3\">Matt 6:2-3</a>; <a href=\"?bref=Acts.4.34-35\">Acts 4:34-35</a>).</p>"
+    },
+    {
+      "sequence": 5392,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.15",
+      "citation": {
+        "short": "Neh 8:15",
+        "long": "Nehemiah 8:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.15\">8:15</a></span> <span class=\"sn-excerpt\">make shelters in which they would live during the festival:</span> The Festival of Shelters commemorated that the people of Israel had lived in tents during their wilderness journey (<a href=\"?bref=Lev.23.33-43\">Lev 23:33-43</a>; see also <a href=\"?bref=Num.29.12-39\">Num 29:12-39</a>; <a href=\"?bref=Deut.16.13-15\">Deut 16:13-15</a>).</p>"
+    },
+    {
+      "sequence": 5393,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.16",
+      "citation": {
+        "short": "Neh 8:16",
+        "long": "Nehemiah 8:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.16\">8:16</a></span> <span class=\"sn-excerpt\">The Ephraim Gate</span> might have been located on the north side of Jerusalem, facing toward the territory of the tribe of Ephraim (see <a href=\"?bref=Neh.12.39\">12:39</a>).</p>"
+    },
+    {
+      "sequence": 5394,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.17",
+      "citation": {
+        "short": "Neh 8:17",
+        "long": "Nehemiah 8:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.17\">8:17</a></span> <span class=\"sn-excerpt\">since the days of Joshua:</span> Although Israel had observed this festival on numerous occasions (<a href=\"?bref=1Kgs.8.2\">1 Kgs 8:2</a>; <a href=\"?bref=2Kgs.23.22\">2 Kgs 23:22</a>; <a href=\"?bref=2Chr.7.8-10\">2 Chr 7:8-10</a>; <a href=\"?bref=2Chr.30.26\">30:26</a>; <a href=\"?bref=2Chr.35.18\">35:18</a>; <a href=\"?bref=Ezra.3.4\">Ezra 3:4</a>), this was an exceptional celebration.</p>"
+    },
+    {
+      "sequence": 5395,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.8",
+      "verseOsisID": "Neh.8.18",
+      "citation": {
+        "short": "Neh 8:18",
+        "long": "Nehemiah 8:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.8.18\">8:18</a></span> <span class=\"sn-excerpt\">Ezra read from the Book of the Law of God:</span> The law was to be read every seven years at the Festival of Shelters (<a href=\"?bref=Deut.31.10-12\">Deut 31:10-12</a>). It reminded the people of the covenant stipulations and of God’s past acts of grace.</p>"
+    },
+    {
+      "sequence": 5396,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.2",
+      "citation": {
+        "short": "Neh 9:2",
+        "long": "Nehemiah 9:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.2\">9:2</a></span> <span class=\"sn-excerpt\">Those of Israelite descent separated themselves from all foreigners as they confessed their own sins:</span> This sentence might allude to the problem of intermarriage with foreigners, as narrated in <a href=\"?bref=Ezra.9.1-10.44\">Ezra 9–10</a>.</p>"
+    },
+    {
+      "sequence": 5397,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.3",
+      "citation": {
+        "short": "Neh 9:3",
+        "long": "Nehemiah 9:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.3\">9:3</a></span> <span class=\"sn-excerpt\">They confessed their sins</span> after hearing God’s word (cp. <a href=\"?bref=Neh.8.1-9\">8:1-9</a>, <a href=\"?bref=Neh.8.13-14\">13-14</a>, <a href=\"?bref=Neh.8.18\">18</a>).</p>"
+    },
+    {
+      "sequence": 5398,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.5",
+      "citation": {
+        "short": "Neh 9:5",
+        "long": "Nehemiah 9:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.5-37\">9:5-37</a></span> This long prayer confesses the nation’s sins and praises God for his compassion throughout history (cp. <a href=\"?bref=Ps.105.1-106.48\">Pss 105–106</a>; <a href=\"?bref=Ps.135.1-136.26\">135–136</a>). It prompted listeners to confess their own unfaithfulness and to call on God to be compassionate and forgive their sins.</p>"
+    },
+    {
+      "sequence": 5399,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.5",
+      "citation": {
+        "short": "Neh 9:5",
+        "long": "Nehemiah 9:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.5-6\">9:5-6</a></span> The Levites’ prayer praised God for his <span class=\"sn-excerpt\">glorious</span> reputation, his sole divinity, his creation of the universe, his providential care for life on <span class=\"sn-excerpt\">earth,</span> and his worship by <span class=\"sn-excerpt\">angels.</span> Putting the focus on God brought Israel’s present circumstances into proper perspective.</p>"
+    },
+    {
+      "sequence": 5400,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.7",
+      "citation": {
+        "short": "Neh 9:7",
+        "long": "Nehemiah 9:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.7-8\">9:7-8</a></span> God’s actions with <span class=\"sn-excerpt\">Abram</span>—calling him (<a href=\"?bref=Gen.12.1-3\">Gen 12:1-3</a>; <a href=\"?bref=Gen.15.7\">15:7</a>), giving him a new name and identity (<a href=\"?bref=Gen.17.5\">Gen 17:5</a>), making a covenant with him (<a href=\"?bref=Gen.15.6-21\">Gen 15:6-21</a>; <a href=\"?bref=Gen.17.4-5\">17:4-5</a>), and fulfilling his promises of land and descendants (<a href=\"?bref=Gen.15.18-21\">Gen 15:18-21</a>)—demonstrated God’s faithfulness and inspired confidence about what God would do in the future.</p>"
+    },
+    {
+      "sequence": 5401,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.9",
+      "citation": {
+        "short": "Neh 9:9",
+        "long": "Nehemiah 9:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.9\">9:9</a></span> God had paid attention to his people’s <span class=\"sn-excerpt\">misery</span> under foreign domination (<a href=\"?bref=Exod.2.23-25\">Exod 2:23-25</a>; <a href=\"?bref=Exod.3.7\">3:7</a>; <a href=\"?bref=Exod.14.10-14\">14:10-14</a>), which was analogous to their present situation (<a href=\"?bref=Neh.9.32-37\">Neh 9:32-37</a>).</p>"
+    },
+    {
+      "sequence": 5402,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.10",
+      "citation": {
+        "short": "Neh 9:10",
+        "long": "Nehemiah 9:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.10-11\">9:10-11</a></span> <span class=\"sn-excerpt\">You have a glorious reputation:</span> In the Exodus, God had demonstrated his character with plagues, parting the sea, and defeating the arrogant Egyptian army (<a href=\"?bref=Exod.15.5\">Exod 15:5</a>, <a href=\"?bref=Exod.15.9-10\">9-10</a>, <a href=\"?bref=Exod.15.19\">19</a>).</p>"
+    },
+    {
+      "sequence": 5403,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.12",
+      "citation": {
+        "short": "Neh 9:12",
+        "long": "Nehemiah 9:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.12-21\">9:12-21</a></span> This prayer reminded the people of God’s miraculous direction of Israel in the wilderness (<a href=\"?bref=Exod.13.21-22\">Exod 13:21-22</a>), his personal appearance at <span class=\"sn-excerpt\">Mount Sinai</span> to reveal his covenant laws through Moses (see <a href=\"?bref=Exod.19.1-20.26\">Exod 19–20</a>), and his faithfulness in providing <span class=\"sn-excerpt\">bread . . . and water</span> (see <a href=\"?bref=Exod.16.4\">Exod 16:4</a>; <a href=\"?bref=Exod.17.1-6\">17:1-6</a>). Despite all of that, Israel’s <span class=\"sn-excerpt\">ancestors</span> had been <span class=\"sn-excerpt\">proud and stubborn</span> and <span class=\"sn-excerpt\">refused to obey</span> (see <a href=\"?bref=Exod.32.1-35\">Exod 32</a>; <a href=\"?bref=Num.14.4\">Num 14:4</a>). Yet in his grace, God remained faithful and had compassion (see <a href=\"?bref=Exod.34.6\">Exod 34:6</a>) and provided his Spirit to direct and teach them (cp. <a href=\"?bref=Exod.33.2\">Exod 33:2</a>; <a href=\"?bref=Num.11.17\">Num 11:17</a>).</p>"
+    },
+    {
+      "sequence": 5404,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.24",
+      "citation": {
+        "short": "Neh 9:24",
+        "long": "Nehemiah 9:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.24\">9:24</a></span> <span class=\"sn-excerpt\">You subdued whole nations:</span> See <a href=\"?bref=Josh.6.1-12.24\">Josh 6–12</a>.</p>"
+    },
+    {
+      "sequence": 5405,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.25",
+      "citation": {
+        "short": "Neh 9:25",
+        "long": "Nehemiah 9:25"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.25\">9:25</a></span> Cp. <a href=\"?bref=Deut.6.10-11\">Deut 6:10-11</a>; <a href=\"?bref=Deut.8.6-10\">8:6-10</a>. • <span class=\"sn-excerpt\">they were full and grew fat:</span> Prosperity proved to include spiritual danger (see <a href=\"?bref=Deut.8.11-20\">Deut 8:11-20</a>).</p>"
+    },
+    {
+      "sequence": 5406,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.26",
+      "citation": {
+        "short": "Neh 9:26",
+        "long": "Nehemiah 9:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.26-27\">9:26-27</a></span> The prayer recounts the pattern in the book of Judges (see <a href=\"?bref=Judg.2.11-23\">Judg 2:11-23</a>).</p>"
+    },
+    {
+      "sequence": 5407,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.28",
+      "citation": {
+        "short": "Neh 9:28",
+        "long": "Nehemiah 9:28"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.28-31\">9:28-31</a></span> The people did not learn from mistakes made in the period of the judges (<a href=\"?bref=Neh.9.26-27\">9:26-27</a>), and the same pattern of disobedience emerged during the subsequent monarchy (cp. <a href=\"?bref=2Kgs.17.1-41\">2 Kgs 17</a>). Despite the nation’s persistent disobedience (<a href=\"?bref=Neh.9.29\">Neh 9:29</a>), God was persistent in his <span class=\"sn-excerpt\">love</span><span class=\"ital\">,</span> patience, compassion, and guidance through the <span class=\"sn-excerpt\">Spirit</span> and <span class=\"sn-excerpt\">through the prophets</span>.</p>"
+    },
+    {
+      "sequence": 5408,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.32",
+      "citation": {
+        "short": "Neh 9:32",
+        "long": "Nehemiah 9:32"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.32-37\">9:32-37</a></span> <span class=\"sn-excerpt\">And now:</span> The prayer moves to the current situation, petitioning <span class=\"sn-excerpt\">the great . . . God</span>—who has <span class=\"sn-excerpt\">unfailing love</span>—for continued love and mercy to his people in their present difficult situation (<a href=\"?bref=Neh.9.32\">9:32</a>). The leaders recognized God’s justice in punishing them for their sins (<a href=\"?bref=Neh.9.33-35\">9:33-35</a>), and they lamented their enslavement under the Persians (<a href=\"?bref=Neh.9.36-37\">9:36-37</a>).</p>"
+    },
+    {
+      "sequence": 5409,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.38",
+      "citation": {
+        "short": "Neh 9:38",
+        "long": "Nehemiah 9:38"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.38-10.39\">9:38–10:39</a></span> <span class=\"sn-excerpt\">The people</span><span class=\"ital\">,</span> embracing the prayer, renewed their dedication to God and his word. They signed their names to indicate their commitment (<a href=\"?bref=Neh.9.38-10.27\">9:38–10:27</a>) and took an oath to live by the covenant (<a href=\"?bref=Neh.10.28-39\">10:28-39</a>).</p>"
+    },
+    {
+      "sequence": 5410,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.9",
+      "verseOsisID": "Neh.9.38",
+      "citation": {
+        "short": "Neh 9:38",
+        "long": "Nehemiah 9:38"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.9.38\">9:38</a></span> <span class=\"sn-excerpt\">making a solemn promise . . . putting it in writing:</span> These actions indicate a serious vow of faithfulness to the covenant. The <span class=\"sn-excerpt\">sealed document</span> had legal standing.</p>"
+    },
+    {
+      "sequence": 5411,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.1",
+      "citation": {
+        "short": "Neh 10:1",
+        "long": "Nehemiah 10:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.1-27\">10:1-27</a></span> The eighty-four names included <span class=\"sn-excerpt\">the governor: Nehemiah</span> (<a href=\"?bref=Neh.10.1\">10:1</a>), and a group of <span class=\"sn-excerpt\">priests</span> (<a href=\"?bref=Neh.10.2-8\">10:2-8</a>; cp. <a href=\"?bref=Neh.12.1-7\">12:1-7</a>), <span class=\"sn-excerpt\">Levites</span> (<a href=\"?bref=Neh.10.9-13\">10:9-13</a>; cp. <a href=\"?bref=Neh.9.4-5\">9:4-5</a>; <a href=\"?bref=Neh.12.8-9\">12:8-9</a>), and <span class=\"sn-excerpt\">leaders</span> (<a href=\"?bref=Neh.10.14-27\">10:14-27</a>; cp. <a href=\"?bref=Neh.3.4-31\">3:4-31</a>).</p>"
+    },
+    {
+      "sequence": 5412,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.28",
+      "citation": {
+        "short": "Neh 10:28",
+        "long": "Nehemiah 10:28"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.28\">10:28</a></span> <span class=\"sn-excerpt\">separated themselves from the pagan people:</span> See <a href=\"?bref=Neh.9.2\">9:2</a>; cp. <a href=\"?bref=Ezra.9.1-10.44\">Ezra 9–10</a>.</p>"
+    },
+    {
+      "sequence": 5413,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.29",
+      "citation": {
+        "short": "Neh 10:29",
+        "long": "Nehemiah 10:29"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.29\">10:29</a></span> <span class=\"sn-excerpt\">swore a curse on themselves if they failed to obey the Law:</span> Cp. <a href=\"?bref=Lev.26.14-35\">Lev 26:14-35</a>; <a href=\"?bref=Deut.28.15-62\">Deut 28:15-62</a>.</p>"
+    },
+    {
+      "sequence": 5414,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.30",
+      "citation": {
+        "short": "Neh 10:30",
+        "long": "Nehemiah 10:30"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.30-39\">10:30-39</a></span> Although the community had committed itself broadly to all the instructions in the law of Moses, some specific issues were being addressed in this commitment. These issues related to maintaining the purity of the community and worship at the Temple.</p>"
+    },
+    {
+      "sequence": 5415,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.30",
+      "citation": {
+        "short": "Neh 10:30",
+        "long": "Nehemiah 10:30"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.30\">10:30</a></span> Cp. <a href=\"?bref=Ezra.9.1-10.44\">Ezra 9–10</a>.</p>"
+    },
+    {
+      "sequence": 5416,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.31",
+      "citation": {
+        "short": "Neh 10:31",
+        "long": "Nehemiah 10:31"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.31\">10:31</a></span> Ceasing trade on the Sabbath was necessary for covenant faithfulness (cp. <a href=\"?bref=Neh.13.15-22\">13:15-22</a>; see <a href=\"?bref=Exod.16.29\">Exod 16:29</a>; <a href=\"?bref=Exod.20.8-11\">20:8-11</a>; <a href=\"?bref=Exod.31.15\">31:15</a>; <a href=\"?bref=Num.15.32-36\">Num 15:32-36</a>; <a href=\"?bref=Amos.8.5\">Amos 8:5</a>). • <span class=\"sn-excerpt\">Every seventh year:</span> See <a href=\"?bref=Exod.23.10-11\">Exod 23:10-11</a>; <a href=\"?bref=Lev.25.2-7\">Lev 25:2-7</a>; <a href=\"?bref=Deut.15.1-3\">Deut 15:1-3</a>.</p>"
+    },
+    {
+      "sequence": 5417,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.33",
+      "citation": {
+        "short": "Neh 10:33",
+        "long": "Nehemiah 10:33"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.33\">10:33</a></span> <span class=\"sn-excerpt\">Bread of the Presence:</span> See <a href=\"?bref=Lev.24.5-9\">Lev 24:5-9</a>; <a href=\"?bref=Num.28.1-8\">Num 28:1-8</a>. • <span class=\"sn-excerpt\">everything necessary:</span> With the money from the annual tax, priests could purchase the animals for daily sacrifices and maintain the <span class=\"sn-excerpt\">Temple</span> complex (cp. <a href=\"?bref=2Kgs.12.11-12\">2 Kgs 12:11-12</a>; see also <a href=\"?bref=Exod.30.11-16\">Exod 30:11-16</a>).</p>"
+    },
+    {
+      "sequence": 5418,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.34",
+      "citation": {
+        "short": "Neh 10:34",
+        "long": "Nehemiah 10:34"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.34\">10:34</a></span> Because the fire <span class=\"sn-excerpt\">on the altar</span> burned continually (<a href=\"?bref=Lev.6.12\">Lev 6:12</a>), a good deal of wood was used. The Gibeonites provided it at an earlier time (<a href=\"?bref=Josh.9.27\">Josh 9:27</a>), but now it was a joint responsibility.</p>"
+    },
+    {
+      "sequence": 5419,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.35",
+      "citation": {
+        "short": "Neh 10:35",
+        "long": "Nehemiah 10:35"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.35-37\">10:35-37</a></span> Offerings from the community provided food for <span class=\"sn-excerpt\">the priests</span> and <span class=\"sn-excerpt\">Levites</span><span class=\"ital\">,</span> who had no allocations of agricultural land and no means of providing for themselves. These provisions came from <span class=\"sn-excerpt\">the first part of every harvest</span> (see <a href=\"?bref=Exod.23.19\">Exod 23:19</a>; <a href=\"?bref=Exod.34.26\">34:26</a>; <a href=\"?bref=Num.18.12-13\">Num 18:12-13</a>; <a href=\"?bref=Deut.26.1-11\">Deut 26:1-11</a>), the redemption money of five shekels paid for the <span class=\"sn-excerpt\">oldest sons</span> and the <span class=\"sn-excerpt\">firstborn</span> of all the <span class=\"sn-excerpt\">herds and flocks</span> (see <a href=\"?bref=Exod.13.13\">Exod 13:13</a>; <a href=\"?bref=Exod.34.20\">34:20</a>; <a href=\"?bref=Num.18.15-17\">Num 18:15-17</a>), as well as <span class=\"sn-excerpt\">a tenth of everything</span> (see <a href=\"?bref=Num.18.21-24\">Num 18:21-24</a>; <a href=\"?bref=Deut.14.22-29\">Deut 14:22-29</a>).</p>"
+    },
+    {
+      "sequence": 5420,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.10",
+      "verseOsisID": "Neh.10.37",
+      "citation": {
+        "short": "Neh 10:37",
+        "long": "Nehemiah 10:37"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.10.37-39\">10:37-39</a></span> The <span class=\"sn-excerpt\">Levites</span> collected the tithes <span class=\"sn-excerpt\">in all . . . rural towns</span> and sent a tenth of that collection to the Temple in Jerusalem (see <a href=\"?bref=Num.18.25-32\">Num 18:25-32</a>).</p>"
+    },
+    {
+      "sequence": 5421,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.1",
+      "citation": {
+        "short": "Neh 11:1",
+        "long": "Nehemiah 11:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.1-36\">11:1-36</a></span> The narrative returns to the issue of repopulating the secure city of Jerusalem (see <a href=\"?bref=Neh.7.1-5\">7:1-5</a>). The list of names roughly parallels the list in <a href=\"?bref=1Chr.9.2-17\">1 Chr 9:2-17</a>.</p>"
+    },
+    {
+      "sequence": 5422,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.1",
+      "citation": {
+        "short": "Neh 11:1",
+        "long": "Nehemiah 11:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.1-2\">11:1-2</a></span> <span class=\"sn-excerpt\">Sacred lots</span> were probably the Urim and Thummim (<a href=\"?bref=Neh.10.34\">10:34</a>; <a href=\"?bref=Josh.7.14\">Josh 7:14</a>, <a href=\"?bref=Josh.7.16-18\">16-18</a>; <a href=\"?bref=Josh.14.2\">14:2</a>).</p>"
+    },
+    {
+      "sequence": 5423,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.4",
+      "citation": {
+        "short": "Neh 11:4",
+        "long": "Nehemiah 11:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.4\">11:4</a></span> <span class=\"sn-excerpt\">Perez</span> was one of Judah’s sons (<a href=\"?bref=Gen.38.29\">Gen 38:29</a>).</p>"
+    },
+    {
+      "sequence": 5424,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.16",
+      "citation": {
+        "short": "Neh 11:16",
+        "long": "Nehemiah 11:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.16\">11:16</a></span> <span class=\"sn-excerpt\">The work outside the Temple</span> probably included collecting tithes from people and caring for the tithes in storehouses (<a href=\"?bref=Neh.10.37-39\">10:37-39</a>; see also <a href=\"?bref=1Chr.26.29\">1 Chr 26:29</a>).</p>"
+    },
+    {
+      "sequence": 5425,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.17",
+      "citation": {
+        "short": "Neh 11:17",
+        "long": "Nehemiah 11:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.17\">11:17</a></span> <span class=\"sn-excerpt\">a descendant of Asaph:</span> David had chosen Asaph and his sons to provide music for the Temple worship (<a href=\"?bref=1Chr.25.1-8\">1 Chr 25:1-8</a>). Asaph’s descendants took up this role again when the new Temple was built.</p>"
+    },
+    {
+      "sequence": 5426,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.21",
+      "citation": {
+        "short": "Neh 11:21",
+        "long": "Nehemiah 11:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.21\">11:21</a></span> <span class=\"sn-excerpt\">The hill of Ophel</span> was high ground just south of the Temple (<a href=\"?bref=Neh.3.26\">3:26</a>). It provided an ideal location to house those who worked in the Temple.</p>"
+    },
+    {
+      "sequence": 5427,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.24",
+      "citation": {
+        "short": "Neh 11:24",
+        "long": "Nehemiah 11:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.24\">11:24</a></span> The <span class=\"sn-excerpt\">royal adviser</span> informed the king of events in Jerusalem and notified Jewish officials of the king’s <span class=\"sn-excerpt\">public administration</span> of Persian policies.</p>"
+    },
+    {
+      "sequence": 5428,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.11",
+      "verseOsisID": "Neh.11.30",
+      "citation": {
+        "short": "Neh 11:30",
+        "long": "Nehemiah 11:30"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.11.30\">11:30</a></span> <span class=\"sn-excerpt\">all the way from Beersheba . . . to the valley of Hinnom:</span> Earlier descriptions of places where people settled concentrated on areas north of Jerusalem (ch <a href=\"?bref=Neh.3.1-32\">3</a>; <a href=\"?bref=Neh.11.31-36\">11:31-36</a>); this list (<a href=\"?bref=Neh.11.25-30\">11:25-30</a>) reflects progressive expansion of places where Jewish people lived as they occupied many of their preexilic towns, both north and south of Jerusalem.</p>"
+    },
+    {
+      "sequence": 5429,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.1",
+      "citation": {
+        "short": "Neh 12:1",
+        "long": "Nehemiah 12:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.1-26\">12:1-26</a></span> These lists of priests and Levites include a list of those who originally returned from exile with Zerubabbel (<a href=\"?bref=Neh.12.1-9\">12:1-9</a>), a chronological list of high priests (<a href=\"?bref=Neh.12.10-11\">12:10-11</a>), and the priests and Levites who served at the time of Joiakim, the high priest at the time of Nehemiah and Ezra (<a href=\"?bref=Neh.12.12-26\">12:12-26</a>).</p>"
+    },
+    {
+      "sequence": 5430,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.1",
+      "citation": {
+        "short": "Neh 12:1",
+        "long": "Nehemiah 12:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.1-9\">12:1-9</a></span> <span class=\"sn-excerpt\">priests and Levites who returned with Zerubabbel . . . and Jeshua:</span> See <a href=\"?bref=Ezra.1.1-5\">Ezra 1:1-5</a>. Only those who could prove their priestly lineage could serve at the Temple, so it was important to maintain an accurate genealogical record of these families.</p>"
+    },
+    {
+      "sequence": 5431,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.7",
+      "citation": {
+        "short": "Neh 12:7",
+        "long": "Nehemiah 12:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.7\">12:7</a></span> <span class=\"sn-excerpt\">leaders of the priests:</span> Cp. <a href=\"?bref=Ezra.2.36-39\">Ezra 2:36-39</a>. • <span class=\"sn-excerpt\">Jeshua</span> was the high priest in Jerusalem when the people returned from captivity shortly after 538 <span class=\"era\">BC</span> (<a href=\"?bref=Ezra.2.2\">Ezra 2:2</a>; <a href=\"?bref=Ezra.3.2\">3:2</a>, <a href=\"?bref=Ezra.3.8\">8</a>; <a href=\"?bref=Ezra.4.3\">4:3</a>). He was still serving in 520 <span class=\"era\">BC</span> when Haggai and Zechariah encouraged the people to finish building the Temple (<a href=\"?bref=Ezra.5.1\">Ezra 5:1</a>; <a href=\"?bref=Hagg.1.1\">Hag 1:1</a>; <a href=\"?bref=Zech.3.1\">Zech 3:1</a>).</p>"
+    },
+    {
+      "sequence": 5432,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.8",
+      "citation": {
+        "short": "Neh 12:8",
+        "long": "Nehemiah 12:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.8-9\">12:8-9</a></span> <span class=\"sn-excerpt\">Their associates . . . stood opposite:</span> To provide antiphonal singing (<a href=\"?bref=Neh.12.24\">12:24</a>; <a href=\"?bref=Ezra.3.1-11\">Ezra 3:1-11</a>).</p>"
+    },
+    {
+      "sequence": 5433,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.10",
+      "citation": {
+        "short": "Neh 12:10",
+        "long": "Nehemiah 12:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.10-11\">12:10-11</a></span> <span class=\"sn-excerpt\">Joiakim</span> probably served in the early years of Ezra’s service. • <span class=\"sn-excerpt\">Eliashib</span> and <span class=\"sn-excerpt\">Joiada</span> served during Nehemiah’s time (<a href=\"?bref=Neh.3.1\">3:1</a>; <a href=\"?bref=Neh.13.4\">13:4</a>, <a href=\"?bref=Neh.13.28\">28</a>). • <span class=\"sn-excerpt\">Johanan:</span> An Aramaic papyrus document from a Jewish colony that settled in Elephantine, Egypt (about 410 <span class=\"era\">BC</span>) and Josephus (<span class=\"ital\">Antiquities</span> 11.5.4, <span class=\"era\">AD</span> 93) both mention Johanan serving after Nehemiah’s time.</p>"
+    },
+    {
+      "sequence": 5434,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.12",
+      "citation": {
+        "short": "Neh 12:12",
+        "long": "Nehemiah 12:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.12-21\">12:12-21</a></span> This list was probably compiled <span class=\"sn-excerpt\">when Joiakim was high priest</span> (<a href=\"?bref=Neh.12.12\">12:12</a>) to verify the legitimacy of the priests and Levites who were in office. Except for the omission of Hattush (see <a href=\"?bref=Neh.12.2\">12:2</a>), this list contains the same names as <a href=\"?bref=Neh.12.1-7\">12:1-7</a>.</p>"
+    },
+    {
+      "sequence": 5435,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.27",
+      "citation": {
+        "short": "Neh 12:27",
+        "long": "Nehemiah 12:27"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.27-43\">12:27-43</a></span> <span class=\"sn-excerpt\">The dedication of the new wall</span> probably happened shortly after its completion (<a href=\"?bref=Neh.6.15-19\">6:15-19</a>). This account probably came from Nehemiah’s personal memoirs.</p>"
+    },
+    {
+      "sequence": 5436,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.27",
+      "citation": {
+        "short": "Neh 12:27",
+        "long": "Nehemiah 12:27"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.27-29\">12:27-29</a></span> Since few <span class=\"sn-excerpt\">Levites</span> had returned to live in Jerusalem (see <a href=\"?bref=Ezra.2.40-42\">Ezra 2:40-42</a>; <a href=\"?bref=Ezra.8.15-19\">8:15-19</a>), all those <span class=\"sn-excerpt\">throughout the land</span> were recruited to create two impressive choirs and orchestras. • <span class=\"sn-excerpt\">Netophathites</span> were from near Bethlehem (<a href=\"?bref=1Chr.2.54\">1 Chr 2:54</a>). • <span class=\"sn-excerpt\">Beth-gilgal</span> was near Jericho. • <span class=\"sn-excerpt\">Geba</span> and <span class=\"sn-excerpt\">Azmaveth</span> were in the territory of Benjamin.</p>"
+    },
+    {
+      "sequence": 5437,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.30",
+      "citation": {
+        "short": "Neh 12:30",
+        "long": "Nehemiah 12:30"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.30\">12:30</a></span> The dedication ceremony required that <span class=\"sn-excerpt\">the priests and Levites</span> be <span class=\"sn-excerpt\">purified</span> and ready to enter the Temple area (see <a href=\"?bref=Exod.19.10\">Exod 19:10</a>; <a href=\"?bref=Num.8.5-7\">Num 8:5-7</a>).</p>"
+    },
+    {
+      "sequence": 5438,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.31",
+      "citation": {
+        "short": "Neh 12:31",
+        "long": "Nehemiah 12:31"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.31-37\">12:31-37</a></span> This impressive march <span class=\"sn-excerpt\">proceeded southward along the top of the wall to the Dung Gate</span> at the southern end of the city (<a href=\"?bref=Neh.3.13-14\">3:13-14</a>). Then the procession continued north on the wall along the east side of the city, past the ruins of <span class=\"sn-excerpt\">the house of David</span> and up to the <span class=\"sn-excerpt\">Water Gate</span> (<a href=\"?bref=Neh.3.26\">3:26</a>; <a href=\"?bref=Neh.8.1\">8:1</a>) near the Temple.</p>"
+    },
+    {
+      "sequence": 5439,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.35",
+      "citation": {
+        "short": "Neh 12:35",
+        "long": "Nehemiah 12:35"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.35\">12:35</a></span> Long, slender, metal <span class=\"sn-excerpt\">trumpets</span> were played for festive, joyous occasions (<a href=\"?bref=1Chr.13.8\">1 Chr 13:8</a>; <a href=\"?bref=1Chr.15.23\">15:23</a>; <a href=\"?bref=1Chr.16.6\">16:6</a>, <a href=\"?bref=1Chr.16.42\">42</a>; <a href=\"?bref=Ezra.3.10\">Ezra 3:10</a>) by the descendants <span class=\"sn-excerpt\">of Asaph.</span></p>"
+    },
+    {
+      "sequence": 5440,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.38",
+      "citation": {
+        "short": "Neh 12:38",
+        "long": "Nehemiah 12:38"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.38-39\">12:38-39</a></span> <span class=\"sn-excerpt\">The second choir . . . went northward,</span> up the western wall past the <span class=\"sn-excerpt\">Broad Wall</span> (<a href=\"?bref=Neh.3.8\">3:8</a>), the <span class=\"sn-excerpt\">Old City Gate</span> (<a href=\"?bref=Neh.3.6\">3:6</a>), and the <span class=\"sn-excerpt\">Fish Gate</span> (<a href=\"?bref=Neh.3.3\">3:3</a>), then across the northern side of the wall until it came to the <span class=\"sn-excerpt\">Sheep Gate</span> (<a href=\"?bref=Neh.3.1\">3:1</a>) on the northeast corner of the Temple. • The <span class=\"sn-excerpt\">Guard Gate</span> might be the Inspection Gate (<a href=\"?bref=Neh.3.31\">3:31</a>).</p>"
+    },
+    {
+      "sequence": 5441,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.43",
+      "citation": {
+        "short": "Neh 12:43",
+        "long": "Nehemiah 12:43"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.43\">12:43</a></span> This community celebration included everyone. God was the true source of their <span class=\"sn-excerpt\">great joy</span> because his power had enabled them to accomplish the huge task of rebuilding the walls. <a href=\"?bref=Ps.147.1-20\">Psalm 147</a> might have been written for this occasion.</p>"
+    },
+    {
+      "sequence": 5442,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.44",
+      "citation": {
+        "short": "Neh 12:44",
+        "long": "Nehemiah 12:44"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.44-47\">12:44-47</a></span> <span class=\"sn-excerpt\">On that day</span><span class=\"ital\">,</span> the day of the dedication of the wall (<a href=\"?bref=Neh.12.44\">12:44</a>; <a href=\"?bref=Neh.13.1\">13:1</a>), <span class=\"sn-excerpt\">men were appointed</span> to take care of the tithes and gifts given for the physical needs of the priests and Levites. Their duties were <span class=\"sn-excerpt\">to collect</span> the gifts of the people for the priests and Levites (<a href=\"?bref=Neh.10.32-39\">10:32-39</a>; see also <a href=\"?bref=Exod.30.11-16\">Exod 30:11-16</a>; <a href=\"?bref=Exod.38.25-26\">38:25-26</a>), to perform <span class=\"sn-excerpt\">the service of their God</span> (probably sacrifices; see <a href=\"?bref=Lev.1.1-5.19\">Lev 1–5</a>), and to oversee <span class=\"sn-excerpt\">the service of purification</span> of those people who were unclean. They also purified pans, knives, and clothing used in Temple worship as described in <a href=\"?bref=Lev.11.1-15.33\">Lev 11–15</a> (see also <a href=\"?bref=1Chr.23.28\">1 Chr 23:28</a>).</p>"
+    },
+    {
+      "sequence": 5443,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.46",
+      "citation": {
+        "short": "Neh 12:46",
+        "long": "Nehemiah 12:46"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.46\">12:46</a></span> <span class=\"sn-excerpt\">David</span> had given instructions for ordering the music at the Temple (<a href=\"?bref=1Chr.23.1-26.32\">1 Chr 23–26</a>), and he had put <span class=\"sn-excerpt\">Asaph</span><span class=\"ital\">,</span> along with Heman and Jeduthun, in charge of the music (<a href=\"?bref=1Chr.25.2-5\">1 Chr 25:2-5</a>).</p>"
+    },
+    {
+      "sequence": 5444,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.12",
+      "verseOsisID": "Neh.12.47",
+      "citation": {
+        "short": "Neh 12:47",
+        "long": "Nehemiah 12:47"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.12.47\">12:47</a></span> From the time of the first returnees to Jerusalem <span class=\"sn-excerpt\">in the days of Zerubbabel</span> in 538 <span class=\"era\">BC</span> (<a href=\"?bref=Ezra.3.1\">Ezra 3:1</a>) until the time of <span class=\"sn-excerpt\">Nehemiah</span> around 445 <span class=\"era\">BC</span>, Israelites brought food for those working at the Temple. Most of the <span class=\"sn-excerpt\">Levites</span> lived in cities around the country; they collected the tithe and brought a tenth of what they received to the Temple in Jerusalem to support its ministry (see <a href=\"?bref=Neh.10.38-39\">Neh 10:38-39</a>).</p>"
+    },
+    {
+      "sequence": 5445,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.1",
+      "citation": {
+        "short": "Neh 13:1",
+        "long": "Nehemiah 13:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.1-3\">13:1-3</a></span> On the <span class=\"sn-excerpt\">same day</span> the Temple workers were appointed (<a href=\"?bref=Neh.12.44\">12:44</a>), the text from <a href=\"?bref=Deut.23.3-6\">Deut 23:3-6</a> was read. It said that <span class=\"sn-excerpt\">no Ammonite or Moabite should ever be permitted to enter the assembly of God.</span> Nehemiah later discovered (<a href=\"?bref=Neh.13.4-14\">Neh 13:4-14</a>) that these teachings were no longer being observed.</p>"
+    },
+    {
+      "sequence": 5446,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.4",
+      "citation": {
+        "short": "Neh 13:4",
+        "long": "Nehemiah 13:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.4-14\">13:4-14</a></span> <span class=\"sn-excerpt\">Eliashib the priest</span> (see <a href=\"?bref=Neh.12.10\">12:10</a>, <a href=\"?bref=Neh.12.22\">22</a>; <a href=\"?bref=Neh.13.28\">13:28</a>) had stopped following the practice of excluding the Ammonites and Moabites (<a href=\"?bref=Neh.13.1\">13:1</a>), and the people quit giving their tithes to the Levites (<a href=\"?bref=Neh.13.10-12\">13:10-12</a>). Now, Nehemiah corrected these problems.</p>"
+    },
+    {
+      "sequence": 5447,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.4",
+      "citation": {
+        "short": "Neh 13:4",
+        "long": "Nehemiah 13:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.4-5\">13:4-5</a></span> <span class=\"sn-excerpt\">Eliashib</span>’s family intermarried with the families of Sanballat (<a href=\"?bref=Neh.13.28\">13:28</a>) and <span class=\"sn-excerpt\">Tobiah</span>. Both of these men were enemies of the Jewish community (<a href=\"?bref=Neh.2.10\">2:10</a>, <a href=\"?bref=Neh.2.19\">19</a>; <a href=\"?bref=Neh.4.1\">4:1</a>). Tobiah’s use of the storeroom meant there was less room to store tithes and gifts for the Temple workers (cp. <a href=\"?bref=Neh.10.39\">10:39</a>; <a href=\"?bref=Neh.13.10-12\">13:10-12</a>; <a href=\"?bref=2Chr.31.11\">2 Chr 31:11</a>) and less space for supplies needed to conduct regular worship at the Temple (<a href=\"?bref=Lev.2.1-16\">Lev 2</a>).</p>"
+    },
+    {
+      "sequence": 5448,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.6",
+      "citation": {
+        "short": "Neh 13:6",
+        "long": "Nehemiah 13:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.6\">13:6</a></span> Nehemiah had returned to Persia after twelve years of service in Jerusalem (445–433 <span class=\"era\">BC</span>). The text does not say how long he stayed there, but it was probably no longer than a year or two. When he arrived back in Jerusalem, he found Tobiah living in the Temple storeroom (<a href=\"?bref=Neh.13.1-5\">13:1-5</a>).</p>"
+    },
+    {
+      "sequence": 5449,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.8",
+      "citation": {
+        "short": "Neh 13:8",
+        "long": "Nehemiah 13:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.8-9\">13:8-9</a></span> <span class=\"sn-excerpt\">I became very upset. . . . I demanded:</span> When people rejected God’s instructions, Nehemiah refused to be silent. • Everything associated with the Temple had to be <span class=\"sn-excerpt\">purified</span> and consecrated to God. The clothes that the priests and Levites wore (<a href=\"?bref=Exod.29.1-46\">Exod 29</a>), the priests themselves (<a href=\"?bref=Lev.8.1-9.24\">Lev 8–9</a>), the Temple building and altars (<a href=\"?bref=Lev.16.15-33\">Lev 16:15-33</a>), and all the holy things (<a href=\"?bref=1Chr.23.28\">1 Chr 23:28</a>) were purified (cp. <a href=\"?bref=2Chr.29.5\">2 Chr 29:5</a>, <a href=\"?bref=2Chr.29.15-19\">15-19</a>).</p>"
+    },
+    {
+      "sequence": 5450,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.10",
+      "citation": {
+        "short": "Neh 13:10",
+        "long": "Nehemiah 13:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.10-12\">13:10-12</a></span> With Tobiah using the storeroom, there had been no place to store tithes to feed the Levites and Temple singers (<a href=\"?bref=Num.18.21-24\">Num 18:21-24</a>; see <a href=\"?bref=Neh.12.44\">Neh 12:44</a>, <a href=\"?bref=Neh.12.47\">47</a>). They had to farm outside of Jerusalem (<a href=\"?bref=Neh.12.28-29\">12:28-29</a>) to support themselves and could not serve in the Temple.</p>"
+    },
+    {
+      "sequence": 5451,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.13",
+      "citation": {
+        "short": "Neh 13:13",
+        "long": "Nehemiah 13:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.13\">13:13</a></span> <span class=\"sn-excerpt\">These men had an excellent reputation:</span> Cp. <a href=\"?bref=Acts.6.1-6\">Acts 6:1-6</a>.</p>"
+    },
+    {
+      "sequence": 5452,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.14",
+      "citation": {
+        "short": "Neh 13:14",
+        "long": "Nehemiah 13:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.14\">13:14</a></span> Because he stood up for God, Nehemiah asked God to <span class=\"sn-excerpt\">remember</span> his deeds and not abandon him in his time of need. Perhaps he experienced opposition from those he had corrected. See similar refrains in <a href=\"?bref=Neh.13.22\">13:22</a>, <a href=\"?bref=Neh.13.29\">29</a>, <a href=\"?bref=Neh.13.31\">31</a>.</p>"
+    },
+    {
+      "sequence": 5453,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.15",
+      "citation": {
+        "short": "Neh 13:15",
+        "long": "Nehemiah 13:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.15-31\">13:15-31</a></span> Nehemiah instituted two additional reforms to restore proper Sabbath observance (<a href=\"?bref=Neh.13.15-22\">13:15-22</a>) and proper marriage practices (<a href=\"?bref=Neh.13.23-31\">13:23-31</a>). These two sections have similar structures: Nehemiah discovered a problem, corrected the problem, and asked God for his blessing.</p>"
+    },
+    {
+      "sequence": 5454,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.15",
+      "citation": {
+        "short": "Neh 13:15",
+        "long": "Nehemiah 13:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.15-16\">13:15-16</a></span> Normal work was to cease <span class=\"sn-excerpt\">on the Sabbath</span> in order to keep it holy (<a href=\"?bref=Exod.20.8-11\">Exod 20:8-11</a>; <a href=\"?bref=Exod.31.14-17\">31:14-17</a>; <a href=\"?bref=Exod.35.2-3\">35:2-3</a>; <a href=\"?bref=Jer.17.19-27\">Jer 17:19-27</a>).</p>"
+    },
+    {
+      "sequence": 5455,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.19",
+      "citation": {
+        "short": "Neh 13:19",
+        "long": "Nehemiah 13:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.19\">13:19</a></span> The Sabbath began at sunset on <span class=\"sn-excerpt\">Friday evening</span> and lasted until sunset on Saturday evening.</p>"
+    },
+    {
+      "sequence": 5456,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.22",
+      "citation": {
+        "short": "Neh 13:22",
+        "long": "Nehemiah 13:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.22\">13:22</a></span> <span class=\"sn-excerpt\">Have compassion on me:</span> Nehemiah’s prayer implies that he felt the pressure of this unpopular decision. He knew that God’s <span class=\"sn-excerpt\">unfailing love</span><span class=\"ital\">,</span> not his own popularity, would sustain him.</p>"
+    },
+    {
+      "sequence": 5457,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.23",
+      "citation": {
+        "short": "Neh 13:23",
+        "long": "Nehemiah 13:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.23-24\">13:23-24</a></span> The earlier marriage reforms (<a href=\"?bref=Neh.9.2\">9:2</a>; <a href=\"?bref=Neh.10.28\">10:28</a>; <a href=\"?bref=Ezra.9.1-10.44\">Ezra 9:1–10:44</a>) had not lasted. The children’s inability to speak Hebrew (<span class=\"sn-excerpt\">the language of Judah</span>) was disastrous because they could not read or understand the Scriptures.</p>"
+    },
+    {
+      "sequence": 5458,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.25",
+      "citation": {
+        "short": "Neh 13:25",
+        "long": "Nehemiah 13:25"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.25\">13:25</a></span> When Nehemiah <span class=\"sn-excerpt\">called down curses on them</span><span class=\"ital\">,</span> it was because the parents avoided Hebrew and did not teach their children the language of the Hebrew Bible. A curse called on God to remove his blessing on people. • <span class=\"sn-excerpt\">I beat some of them and pulled out their hair:</span> Apparently, some of the men did not accept Nehemiah’s rebuke at first, so he <span class=\"sn-excerpt\">made them swear in the name of God</span> not to intermarry with pagans.</p>"
+    },
+    {
+      "sequence": 5459,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.26",
+      "citation": {
+        "short": "Neh 13:26",
+        "long": "Nehemiah 13:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.26-27\">13:26-27</a></span> <span class=\"sn-excerpt\">King Solomon</span> had led the nation <span class=\"sn-excerpt\">into sin by his foreign wives</span> (<a href=\"?bref=1Kgs.11.1-43\">1 Kgs 11</a>). If intermarriage with pagans was allowed to continue, the same apostasy would overtake the community. Nehemiah would not let that happen.</p>"
+    },
+    {
+      "sequence": 5460,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.28",
+      "citation": {
+        "short": "Neh 13:28",
+        "long": "Nehemiah 13:28"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.28\">13:28</a></span> Even the family of <span class=\"sn-excerpt\">the high priest</span><span class=\"ital\">,</span> who were supposed to be Israel’s spiritual leaders, had participated in the sin of intermarriage with unbelieving foreigners (cp. <a href=\"?bref=Lev.21.14\">Lev 21:14</a>). Nehemiah <span class=\"sn-excerpt\">banished</span> the offender, stripping him of status and removing his rights in the Jewish community.</p>"
+    },
+    {
+      "sequence": 5461,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.29",
+      "citation": {
+        "short": "Neh 13:29",
+        "long": "Nehemiah 13:29"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.29\">13:29</a></span> <span class=\"sn-excerpt\">Remember them, O my God:</span> Many would probably resent Nehemiah’s aggressive attack on intermarriage in the family of the high priest. So he prayed for God’s judgment to fall on these spiritual leaders who <span class=\"sn-excerpt\">defiled the priesthood</span>.</p>"
+    },
+    {
+      "sequence": 5462,
+      "bookOsisID": "Neh",
+      "chapterOsisID": "Neh.13",
+      "verseOsisID": "Neh.13.30",
+      "citation": {
+        "short": "Neh 13:30",
+        "long": "Nehemiah 13:30"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Neh.13.30-31\">13:30-31</a></span> These final verses summarize Nehemiah’s reform. The emphasis on <span class=\"sn-excerpt\">making certain</span> and making <span class=\"sn-excerpt\">sure</span> shows that Nehemiah checked to see that the people did what they agreed to. He held people accountable for their commitments and did not allow for half-hearted reform.</p>"
+    }
+  ]
+}

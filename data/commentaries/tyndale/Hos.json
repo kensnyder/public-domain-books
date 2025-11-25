@@ -1,0 +1,1596 @@
+{
+  "author": "William Tyndale",
+  "title": "Tyndale Open Study Notes",
+  "copyright": "© 2022 by Tyndale House Publishers",
+  "attribution": "CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0 and http://www.tyndaleopenresources.com",
+  "source": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+  "bookOsisID": "Hos",
+  "bookName": "Hosea",
+  "importedAt": "2025-11-25",
+  "commentary": [
+    {
+      "sequence": 10855,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.1",
+      "citation": {
+        "short": "Hos 1:1",
+        "long": "Hosea 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.1\">1:1</a></span> <span class=\"sn-excerpt\">The</span> <span class=\"sn-excerpt-divine-name\">Lord</span><span class=\"sn-excerpt\"> gave this message:</span> The book of Hosea begins by declaring that these are not merely human words but a message from the only true God (cp. <a href=\"?bref=Joel.1.1\">Joel 1:1</a>; <a href=\"?bref=Mic.1.1\">Mic 1:1</a>; <a href=\"?bref=Zeph.1.1\">Zeph 1:1</a>). • <span class=\"sn-excerpt\">Hosea son of Beeri:</span> Several other important people in the Old Testament are also named Hosea (or Hoshea; both are spelled the same in Hebrew; <a href=\"?bref=Num.13.8\">Num 13:8</a>; <a href=\"?bref=2Kgs.17.1\">2 Kgs 17:1</a>). Hosea means “the Lord saves,” an appropriate name for this prophet. • <span class=\"sn-excerpt\">Jeroboam . . . king of Israel:</span> Hosea prophesied to the northern kingdom of Israel during the reigns of its last seven kings, though only one of them, Jeroboam II, is listed here (see <a href=\"?item=Hos_BookIntro_Filament\">Hosea Book Introduction</a>, “Setting”).</p>"
+    },
+    {
+      "sequence": 10856,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.2",
+      "citation": {
+        "short": "Hos 1:2",
+        "long": "Hosea 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.2-3.5\">1:2–3:5</a></span> This section describes a small segment of the prophet’s life, focusing on his unhappy marriage and illuminating God’s painful relationship with Israel, his chosen people.</p>"
+    },
+    {
+      "sequence": 10857,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.2",
+      "citation": {
+        "short": "Hos 1:2",
+        "long": "Hosea 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.2-3\">1:2-3</a></span> <span class=\"sn-excerpt\">a prostitute:</span> Some have found it impossible to believe that God would command a prophet to marry a prostitute. As a result, there is a long tradition of interpreting this passage symbolically. Many in the early church believed that the marriage did not actually take place. They thought that this passage was an allegory in which Hosea represented the Lord and Gomer represented Israel. Today, most interpreters regard the marriage as a real one, but they differ in their ideas about Gomer’s occupation prior to the marriage. Some suggest that Gomer was an ordinary prostitute, while others suggest that she was one of the sacred prostitutes involved in Canaanite fertility worship. Another possibility is that Gomer was a young woman who had not previously participated in illicit sexual activity, but whom God knew to be predisposed toward adultery and prostitution.</p>"
+    },
+    {
+      "sequence": 10858,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.4",
+      "citation": {
+        "short": "Hos 1:4",
+        "long": "Hosea 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.4\">1:4</a></span> <span class=\"sn-excerpt\">Jezreel</span> is a fertile valley in north central Israel. • <span class=\"sn-excerpt\">The murders</span> Jehu <span class=\"sn-excerpt\">committed at Jezreel</span> are described in <a href=\"?bref=2Kgs.9.1-10.36\">2 Kgs 9–10</a>.</p>"
+    },
+    {
+      "sequence": 10859,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.5",
+      "citation": {
+        "short": "Hos 1:5",
+        "long": "Hosea 1:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.5\">1:5</a></span> King Tiglath-pileser III of Assyria fulfilled this prophecy in 733 <span class=\"era\">BC</span> when he defeated Israelite forces and captured the Valley of Jezreel.</p>"
+    },
+    {
+      "sequence": 10860,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.6",
+      "citation": {
+        "short": "Hos 1:6",
+        "long": "Hosea 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.6\">1:6</a></span> <span class=\"sn-excerpt\">Lo-ruhamah:</span> The names of Hosea’s children were part of his prophetic message (cp. <a href=\"?bref=Isa.7.10-8.8\">Isa 7:10–8:8</a>).</p>"
+    },
+    {
+      "sequence": 10861,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.7",
+      "citation": {
+        "short": "Hos 1:7",
+        "long": "Hosea 1:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.7\">1:7</a></span> For many years, the kingdom of Israel had depended upon its <span class=\"sn-excerpt\">armies</span> and <span class=\"sn-excerpt\">horses and charioteers</span> for security, but its confidence was completely misplaced. Safety and security are only to be found in God’s <span class=\"sn-excerpt\">power as the</span> <span class=\"sn-excerpt-divine-name\">Lord</span>.</p>"
+    },
+    {
+      "sequence": 10862,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.9",
+      "citation": {
+        "short": "Hos 1:9",
+        "long": "Hosea 1:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.9\">1:9</a></span> The name <span class=\"sn-excerpt\">Lo-ammi</span> carries the harshest judgment of all, because it seems to announce the end of Israel’s covenant relationship with the Lord. The cherished title <span class=\"sn-excerpt\">my people</span>—bestowed upon Israel when they lived obediently in covenant with the Lord their God (<a href=\"?bref=Lev.26.12\">Lev 26:12</a>; see also <a href=\"?bref=Exod.6.7\">Exod 6:7</a>)—was now withdrawn due to their blatant unfaithfulness. • <span class=\"sn-excerpt\">I am not their God:</span> The Hebrew behind this declaration can be translated <span class=\"ital\">I am not ‘</span><span class=\"divine-name-ital\">I Am</span><span class=\"ital\">’ for you</span> (cp. <a href=\"?bref=Exod.3.14\">Exod 3:14</a>). The third child’s name prophetically announces that the Israelites stand outside the covenant and are no longer privileged to call upon the <span class=\"divine-name-ital\">I Am</span>.</p>"
+    },
+    {
+      "sequence": 10863,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.10",
+      "citation": {
+        "short": "Hos 1:10",
+        "long": "Hosea 1:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.10-11\">1:10-11</a></span> These verses mark an abrupt shift in Hosea’s prophecy from judgment to hope. In the next three verses, Hosea transforms the names of Gomer’s three children from names of divine punishment on Israel into names of blessing and hope. This dramatically demonstrates God’s sovereign power of reversal from darkness to light, judgment to hope, and even death to life.</p>"
+    },
+    {
+      "sequence": 10864,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.10",
+      "citation": {
+        "short": "Hos 1:10",
+        "long": "Hosea 1:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.10\">1:10</a></span> <span class=\"sn-excerpt\">sands of the seashore:</span> This promise of future population growth for God’s people echoes the promise given to the patriarchs Abraham and Jacob (<a href=\"?bref=Gen.22.17\">Gen 22:17</a>; <a href=\"?bref=Gen.32.12\">32:12</a>). • <span class=\"sn-excerpt\">You are children of the living God:</span> This expression is found nowhere else in the Old Testament, but Paul quoted this verse (<a href=\"?bref=Rom.9.26\">Rom 9:26</a>) to establish that God had also called the Gentiles to salvation.</p>"
+    },
+    {
+      "sequence": 10865,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.1",
+      "verseOsisID": "Hos.1.11",
+      "citation": {
+        "short": "Hos 1:11",
+        "long": "Hosea 1:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.1.11\">1:11</a></span> <span class=\"sn-excerpt\">Judah and Israel will unite together:</span> For almost 200 years, Israel and Judah had been divided into separate kingdoms by political rivalry. When God restores his people, he will reunite the divided kingdoms under a single leader as in the time of David, and he will reverse the curse of exile (see also <a href=\"?bref=Ezek.37.15-28\">Ezek 37:15-28</a>). • <span class=\"sn-excerpt\">The day of Jezreel:</span> Hosea announced that in a coming time, God would restore the original meaning of Jezreel. It would signify blessing and growth rather than judgment.</p>"
+    },
+    {
+      "sequence": 10866,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.1",
+      "citation": {
+        "short": "Hos 2:1",
+        "long": "Hosea 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.1\">2:1</a></span> <span class=\"sn-excerpt\">Ammi—‘My people’:</span> God will also restore the name of the third child to its covenantal meaning. • <span class=\"sn-excerpt\">Ruhamah—‘The ones I love’:</span> Israel will once again be the object of God’s love and compassion.</p>"
+    },
+    {
+      "sequence": 10867,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.2",
+      "citation": {
+        "short": "Hos 2:2",
+        "long": "Hosea 2:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.2-23\">2:2-23</a></span> <span class=\"sn-excerpt\">bring charges against Israel:</span> At first glance, the Lord, as the aggrieved husband, appears to be issuing a bill of divorce against his unfaithful spouse, Israel (see <a href=\"?bref=Deut.24.1\">Deut 24:1</a>). As the passage continues, however, it becomes clear that God’s purpose in this lawsuit is not divorce, but reconciliation (<a href=\"?bref=Hos.2.14-23\">Hos 2:14-23</a>). God’s case against Israel is intended to awaken Israel to her sin and offer her a chance to return to her true husband. The Lord’s desire for reconciliation with Israel is all the more surprising inasmuch as the law stipulated the death penalty for an adulterous spouse (<a href=\"?bref=Deut.22.22\">Deut 22:22</a>; see also <a href=\"?bref=Gen.38.24\">Gen 38:24</a>; <a href=\"?bref=Lev.21.9\">Lev 21:9</a>).</p>"
+    },
+    {
+      "sequence": 10868,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.3",
+      "citation": {
+        "short": "Hos 2:3",
+        "long": "Hosea 2:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.3\">2:3</a></span> The Lord warns unfaithful Israel that unless she repents and returns to her covenant partner, he will <span class=\"sn-excerpt\">strip her . . . naked</span> (see also <a href=\"?bref=Hos.2.10\">2:10</a>). Ezekiel also employs this image of judgment and shame (<a href=\"?bref=Ezek.16.36-37\">Ezek 16:36-37</a>).</p>"
+    },
+    {
+      "sequence": 10869,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.5",
+      "citation": {
+        "short": "Hos 2:5",
+        "long": "Hosea 2:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.5\">2:5</a></span> The only evidence needed to prove Israel’s unfaithfulness comes from her own words: <span class=\"sn-excerpt\">I’ll run after other lovers</span>. Israel’s lovers were the Canaanite fertility deities, especially the baals (local representations of Baal). The Israelites worshiped them because they believed that these gods controlled the reproductive forces in nature. The Israelites attributed to them the basic necessities of life, <span class=\"sn-excerpt\">food and water</span><span class=\"ital\">,</span> their <span class=\"sn-excerpt\">clothing of wool and linen</span><span class=\"ital\">,</span> and <span class=\"sn-excerpt\">oil</span><span class=\"ital\">,</span> used for both sacred and secular purposes.</p>"
+    },
+    {
+      "sequence": 10870,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.6",
+      "citation": {
+        "short": "Hos 2:6",
+        "long": "Hosea 2:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.6-7\">2:6-7</a></span> <span class=\"sn-excerpt\">For this reason</span> (literally <span class=\"ital\">Therefore</span>): The initial Hebrew word of <a href=\"?bref=Hos.2.6\">2:6</a> (also of <a href=\"?bref=Hos.2.9\">2:9</a> and <a href=\"?bref=Hos.2.14\">2:14</a>) introduces God’s judgment on Israel. Because of her idolatry, the Lord would restrict Israel’s access to the Canaanite fertility gods. Like an aggressive prostitute, she will pursue <span class=\"sn-excerpt\">her lovers</span>; but she will <span class=\"sn-excerpt\">not find them</span>. In the end, Israel will conclude that it is <span class=\"sn-excerpt\">better</span> to <span class=\"sn-excerpt\">return to</span> her rightful <span class=\"sn-excerpt\">husband</span>.</p>"
+    },
+    {
+      "sequence": 10871,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.8",
+      "citation": {
+        "short": "Hos 2:8",
+        "long": "Hosea 2:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.8\">2:8</a></span> <span class=\"sn-excerpt\">She doesn’t realize</span> (literally <span class=\"ital\">she doesn’t know</span>): Israel needs to know God personally and experientially. Had the Israelites known the Lord in this way, they would have realized that every good thing in their lives came from him, not from the baals.</p>"
+    },
+    {
+      "sequence": 10872,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.9",
+      "citation": {
+        "short": "Hos 2:9",
+        "long": "Hosea 2:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.9-13\">2:9-13</a></span> God’s first judgment (<a href=\"?bref=Hos.2.6-7\">2:6-7</a>) was to restrict the Israelites; this second judgment would be to remove and destroy what he alone had given them.</p>"
+    },
+    {
+      "sequence": 10873,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.11",
+      "citation": {
+        "short": "Hos 2:11",
+        "long": "Hosea 2:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.11\">2:11</a></span> From the context (<a href=\"?bref=Hos.2.13\">2:13</a>, <a href=\"?bref=Hos.2.16-17\">16-17</a>), as well as from similar passages in <a href=\"?bref=Isa.1.12-17\">Isa 1:12-17</a> and <a href=\"?bref=Amos.5.21-24\">Amos 5:21-24</a>, it seems clear that the Israelites had defiled the legitimate <span class=\"sn-excerpt\">festivals</span>, <span class=\"sn-excerpt\">new moon celebrations</span>, and <span class=\"sn-excerpt\">Sabbath days</span> by combining worship of the Lord with worship of the Canaanite fertility god, Baal. God rejects such <span class=\"ital\">syncretism</span> (mixing of different faiths) and declared that he would remove these unholy days from Israel’s calendar.</p>"
+    },
+    {
+      "sequence": 10874,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.13",
+      "citation": {
+        "short": "Hos 2:13",
+        "long": "Hosea 2:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.13\">2:13</a></span> While the Israelites were worshiping Canaanite gods, they <span class=\"sn-excerpt\">forgot</span> the Lord. For Hosea, <span class=\"ital\">to forget</span> is not a lapse of memory, but the opposite of <span class=\"ital\">knowing</span> the Lord (see <a href=\"?bref=Hos.8.14\">8:14</a>; <a href=\"?bref=Hos.13.6\">13:6</a>; <a href=\"?bref=Job.8.12-13\">Job 8:12-13</a>). Had Israel truly known the Lord, they would never have indulged in Baal worship.</p>"
+    },
+    {
+      "sequence": 10875,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.14",
+      "citation": {
+        "short": "Hos 2:14",
+        "long": "Hosea 2:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.14-15\">2:14-15</a></span> The third judgment (see note on <a href=\"?bref=Hos.2.6-7\">2:6-7</a>) is completely unexpected. The Lord, who had innocently suffered Israel’s repeated unfaithfulness, announces that he will take the initiative in wooing Israel in order to <span class=\"sn-excerpt\">win her back once again</span>. He will <span class=\"sn-excerpt\">lead her into the desert</span> where he first entered into covenant with her, away from the seductive influences of Canaanite religion. • The <span class=\"sn-excerpt\">Valley of Trouble</span> was the scene of Israel’s first act of disobedience after they entered the Promised Land (<a href=\"?bref=Josh.7.24-26\">Josh 7:24-26</a>). The Lord had both the will and the power to grant Israel a new beginning after their sin and trouble (<a href=\"?bref=Josh.8.1-22\">Josh 8:1-22</a>), so Israel would again be offered a <span class=\"sn-excerpt\">gateway of hope</span>.</p>"
+    },
+    {
+      "sequence": 10876,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.16",
+      "citation": {
+        "short": "Hos 2:16",
+        "long": "Hosea 2:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.16\">2:16</a></span> <span class=\"sn-excerpt\">that day:</span> This seemingly unremarkable phrase is actually quite important in the prophets. It refers to the coming day of the Lord (see <a href=\"?bref=Joel.1.15\">Joel 1:15</a>; <a href=\"?bref=Joel.2.1\">2:1</a>; <a href=\"?bref=Amos.5.18\">Amos 5:18</a>), when the Lord will act decisively in human history on behalf of his people. • <span class=\"sn-excerpt\">‘my husband’ instead of ‘my master’:</span> In this coming day, Israel will enter into a new relationship with her God. No longer will Israel call God “master” (Hebrew <span class=\"hebrew\">ba‘al</span>), which connotes subservience and was also the name of the chief Canaanite fertility god. Instead, she will address the Lord as “husband,” implying partnership and companionship (<a href=\"?bref=Gen.2.23-24\">Gen 2:23-24</a>).</p>"
+    },
+    {
+      "sequence": 10877,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.17",
+      "citation": {
+        "short": "Hos 2:17",
+        "long": "Hosea 2:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.17\">2:17</a></span> To avoid any possible syncretism between the Lord and Baal, God would <span class=\"sn-excerpt\">wipe the many names of Baal from</span> Israel’s <span class=\"sn-excerpt\">lips</span>.</p>"
+    },
+    {
+      "sequence": 10878,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.18",
+      "citation": {
+        "short": "Hos 2:18",
+        "long": "Hosea 2:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.18\">2:18</a></span> <span class=\"sn-excerpt\">On that day</span> the Lord would make a <span class=\"sn-excerpt\">covenant</span> with his creation and his people, a covenant of <span class=\"sn-excerpt\">peace and safety</span>.</p>"
+    },
+    {
+      "sequence": 10879,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.19",
+      "citation": {
+        "short": "Hos 2:19",
+        "long": "Hosea 2:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.19-20\">2:19-20</a></span> <span class=\"sn-excerpt\">I will make you my wife:</span> This Hebrew verb, used three times in these verses, can be translated with our seldom-used word <span class=\"ital\">betroth</span>. In the ancient world, betrothal entailed all the legal steps of a marriage, including the payment of a bride price by the groom. The only thing missing was the marriage ceremony and sexual consummation. The Lord vowed to betroth Israel to himself <span class=\"sn-excerpt\">forever</span>. To ensure the eternal nature of this new marriage, God provided a bride price that included five priceless qualities: <span class=\"sn-excerpt\">righteousness and justice, unfailing love and compassion</span><span class=\"ital\">,</span> and faithfulness. As a result, the Lord said, Israel <span class=\"sn-excerpt\">will finally know me</span> (cp. <a href=\"?bref=Hos.2.13\">2:13</a>).</p>"
+    },
+    {
+      "sequence": 10880,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.21",
+      "citation": {
+        "short": "Hos 2:21",
+        "long": "Hosea 2:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.21-22\">2:21-22</a></span> Unfaithful Israel thought her food and clothing were gifts from her lovers, the baals (<a href=\"?bref=Hos.2.5\">2:5</a>), but <span class=\"sn-excerpt\">in that day</span> they will know that the Lord alone is the source of all fertility and blessing. He will <span class=\"sn-excerpt\">answer the sky</span><span class=\"ital\">,</span> the <span class=\"sn-excerpt\">clouds</span><span class=\"ital\">,</span> and <span class=\"sn-excerpt\">the earth</span><span class=\"ital\">,</span> initiating the true cycle of fertility for the land. When the Lord is recognized as the only source of life, then the name <span class=\"sn-excerpt\">Jezreel</span> will regain its true meaning: <span class=\"sn-excerpt\">God plants!</span></p>"
+    },
+    {
+      "sequence": 10881,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.2",
+      "verseOsisID": "Hos.2.23",
+      "citation": {
+        "short": "Hos 2:23",
+        "long": "Hosea 2:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.2.23\">2:23</a></span> As God has promised (<a href=\"?bref=Hos.2.1\">2:1</a>), on the coming day of the Lord he will reverse the names of Gomer’s children. He <span class=\"sn-excerpt\">will show love</span> to <span class=\"sn-excerpt\">‘Not loved.’</span> To <span class=\"sn-excerpt\">‘Not my people,’</span> he will say, <span class=\"sn-excerpt\">‘Now you are my people.’</span> The only fitting response from God’s people is <span class=\"sn-excerpt\">“You are our God!”</span></p>"
+    },
+    {
+      "sequence": 10882,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.3",
+      "verseOsisID": "Hos.3.1",
+      "citation": {
+        "short": "Hos 3:1",
+        "long": "Hosea 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.3.1\">3:1</a></span> <span class=\"sn-excerpt\">Go and love your wife again, even though she:</span> The Lord commanded Hosea to restore his marriage as testimony that the Lord had promised to restore wayward Israel. • <span class=\"sn-excerpt\">love to worship them:</span> Literally <span class=\"ital\">love their raisin cakes.</span> The worship of Asherah, a Canaanite fertility goddess, often included offerings of raisin cakes.</p>"
+    },
+    {
+      "sequence": 10883,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.3",
+      "verseOsisID": "Hos.3.2",
+      "citation": {
+        "short": "Hos 3:2",
+        "long": "Hosea 3:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.3.2\">3:2</a></span> <span class=\"sn-excerpt\">So I bought her back:</span> The biblical text does not indicate why the prophet needed to purchase his wife. Most interpreters have assumed that the unfaithful Gomer had fallen into debt and become a slave. The meager price Hosea paid for her may indicate that Gomer was considered a slave of little value (see <a href=\"?bref=Exod.21.32\">Exod 21:32</a>; <a href=\"?bref=Lev.27.4\">Lev 27:4</a>).</p>"
+    },
+    {
+      "sequence": 10884,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.3",
+      "verseOsisID": "Hos.3.3",
+      "citation": {
+        "short": "Hos 3:3",
+        "long": "Hosea 3:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.3.3-4\">3:3-4</a></span> Just as Hosea’s wife was required to live <span class=\"sn-excerpt\">many days</span> without <span class=\"sn-excerpt\">sexual relations</span><span class=\"ital\">,</span> Israel would be deprived of the institutions (<span class=\"sn-excerpt\">king or prince</span>), practices (<span class=\"sn-excerpt\">sacrifices</span>), and objects (<span class=\"sn-excerpt\">sacred pillars . . . or even idols</span>) that had been foundational to its life and worship.</p>"
+    },
+    {
+      "sequence": 10885,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.3",
+      "verseOsisID": "Hos.3.5",
+      "citation": {
+        "short": "Hos 3:5",
+        "long": "Hosea 3:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.3.5\">3:5</a></span> The Lord’s purpose for depriving the Israelites of these things was to get them to <span class=\"sn-excerpt\">return</span> to him in reverential <span class=\"sn-excerpt\">awe</span> and recognize him alone as the source of all <span class=\"sn-excerpt\">goodness</span>.</p>"
+    },
+    {
+      "sequence": 10886,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.1",
+      "citation": {
+        "short": "Hos 4:1",
+        "long": "Hosea 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.1-14.9\">4:1–14:9</a></span> This diverse collection of Hosea’s prophecies is presented in roughly chronological order, from early in his ministry during the reign of Jeroboam II until just before the destruction of Israel in 722 <span class=\"era\">BC</span>. Hosea presents God’s charges against Israel, tells them of the severe consequences for their sin, and concludes with a divine promise of future restoration.</p>"
+    },
+    {
+      "sequence": 10887,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.1",
+      "citation": {
+        "short": "Hos 4:1",
+        "long": "Hosea 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.1\">4:1</a></span> <span class=\"sn-excerpt\">The</span> <span class=\"sn-excerpt-divine-name\">Lord</span><span class=\"sn-excerpt\"> has brought charges against you:</span> Hosea issued a divine indictment against Israel for breaking their covenant with the Lord (see also <a href=\"?bref=Isa.3.13\">Isa 3:13</a>; <a href=\"?bref=Mic.6.2\">Mic 6:2</a>). The charges first focus on sins of omission, the qualities that should characterize the people of Israel but were absent. In Israel <span class=\"sn-excerpt\">there is no faithfulness, no kindness, no knowledge of God</span>. These theologically rich words describe the inward trust and devotion from which godly lives should spring.</p>"
+    },
+    {
+      "sequence": 10888,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.2",
+      "citation": {
+        "short": "Hos 4:2",
+        "long": "Hosea 4:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.2\">4:2</a></span> The prophet also charged the Israelites for their sins of commission. The crimes listed here are all prohibited in the Ten Commandments (<a href=\"?bref=Exod.20.3-17\">Exod 20:3-17</a>; <a href=\"?bref=Deut.5.7-21\">Deut 5:7-21</a>), the fundamental list of covenant responsibilities. Because the Israelites did not know the Lord, they did not practice even the most basic standards of covenant life.</p>"
+    },
+    {
+      "sequence": 10889,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.3",
+      "citation": {
+        "short": "Hos 4:3",
+        "long": "Hosea 4:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.3\">4:3</a></span> God’s judgment inevitably falls upon sinful people. Because of the Israelites’ sin, their <span class=\"sn-excerpt\">land</span> and all of nature would suffer.</p>"
+    },
+    {
+      "sequence": 10890,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.4",
+      "citation": {
+        "short": "Hos 4:4",
+        "long": "Hosea 4:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.4-5\">4:4-5</a></span> When we are accused of a crime, our human inclination is to <span class=\"sn-excerpt\">blame</span> someone else, but God makes it clear that the blame for Israel’s apostasy lay with her religious leaders,<span class=\"sn-excerpt\"> priests</span><span class=\"ital\">,</span> and <span class=\"sn-excerpt\">false prophets</span>. • God’s judgment on the priests and prophets was that they would <span class=\"sn-excerpt\">stumble</span> and <span class=\"sn-excerpt\">fall</span> (the same word in Hebrew), both professionally and personally.</p>"
+    },
+    {
+      "sequence": 10891,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.6",
+      "citation": {
+        "short": "Hos 4:6",
+        "long": "Hosea 4:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.6\">4:6</a></span> Because the <span class=\"sn-excerpt\">priests</span> refused <span class=\"sn-excerpt\">to know</span> the Lord, neither did the people know their God. As a result, the people were <span class=\"sn-excerpt\">being destroyed</span>. • A primary function of the priests of Israel was to know, practice, and teach <span class=\"sn-excerpt\">the laws of . . . God</span>. Ironically, these guardians of the law had <span class=\"sn-excerpt\">forgotten</span> it.</p>"
+    },
+    {
+      "sequence": 10892,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.9",
+      "citation": {
+        "short": "Hos 4:9",
+        "long": "Hosea 4:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.9\">4:9</a></span> The people followed the evil example of their religious leaders; as a result, God would <span class=\"sn-excerpt\">punish both priests and people for their wicked deeds</span>.</p>"
+    },
+    {
+      "sequence": 10893,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.10",
+      "citation": {
+        "short": "Hos 4:10",
+        "long": "Hosea 4:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.10\">4:10</a></span> God’s judgment matches the punishment to the crime. The Israelites worshiped Canaanite fertility deities with the expectation of bountiful crops and herds, but God’s judgment was that they would <span class=\"sn-excerpt\">still be hungry</span> and their religious prostitution would <span class=\"sn-excerpt\">gain</span> them <span class=\"sn-excerpt\">nothing</span>.</p>"
+    },
+    {
+      "sequence": 10894,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.12",
+      "citation": {
+        "short": "Hos 4:12",
+        "long": "Hosea 4:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.12\">4:12</a></span> <span class=\"sn-excerpt\">They ask a piece of wood for advice!</span> For millennia, people have worshiped natural objects such as wood and stones that they believed embodied spirits and gods (<a href=\"?bref=Jer.2.27\">Jer 2:27</a>). Biblical religion completely rejects such practices and beliefs (<a href=\"?bref=Exod.20.4-5\">Exod 20:4-5</a>; <a href=\"?bref=Isa.44.19\">Isa 44:19</a>).</p>"
+    },
+    {
+      "sequence": 10895,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.13",
+      "citation": {
+        "short": "Hos 4:13",
+        "long": "Hosea 4:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.13\">4:13</a></span> Many Canaanite religious rites were practiced <span class=\"sn-excerpt\">on the mountaintops</span> and <span class=\"sn-excerpt\">hills</span>. On these pagan “high places,” sacred trees were usually used in fertility worship (<a href=\"?bref=1Kgs.14.23\">1 Kgs 14:23</a>; <a href=\"?bref=Jer.2.20\">Jer 2:20</a>). • Israelite <span class=\"sn-excerpt\">daughters</span> and brides also committed sexual acts in the worship of Baal; they were possibly forced to do so by their fathers and husbands.</p>"
+    },
+    {
+      "sequence": 10896,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.14",
+      "citation": {
+        "short": "Hos 4:14",
+        "long": "Hosea 4:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.14\">4:14</a></span> God declared that he would not single out the young women for their prostitution. This declaration contrasts with double standards that were common in ancient cultures. • <span class=\"sn-excerpt\">shrine prostitutes:</span> The Hebrew word refers to female prostitutes who were dedicated to the service of Baal and Asherah in the temples of Baal (<a href=\"?bref=Deut.23.18\">Deut 23:18</a>).</p>"
+    },
+    {
+      "sequence": 10897,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.4",
+      "verseOsisID": "Hos.4.15",
+      "citation": {
+        "short": "Hos 4:15",
+        "long": "Hosea 4:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.4.15\">4:15</a></span> <span class=\"sn-excerpt\">Beth-aven</span> refers to the wickedness being practiced at Bethel, the most important worship center in the northern kingdom of Israel (see <a href=\"?bref=Amos.7.13\">Amos 7:13</a>; cp. <a href=\"?bref=Hos.5.8\">Hos 5:8</a>; <a href=\"?bref=Hos.10.5\">10:5</a>).</p>"
+    },
+    {
+      "sequence": 10898,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.1",
+      "citation": {
+        "short": "Hos 5:1",
+        "long": "Hosea 5:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.1\">5:1</a></span> Hosea again condemns the religious and political <span class=\"sn-excerpt\">leaders of Israel</span>. They <span class=\"sn-excerpt\">have led the people into</span> idolatry as hunters trap wild animals in <span class=\"sn-excerpt\">a snare</span>. • The specific sins at <span class=\"sn-excerpt\">Mizpah and Tabor</span> are not known.</p>"
+    },
+    {
+      "sequence": 10899,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.2",
+      "citation": {
+        "short": "Hos 5:2",
+        "long": "Hosea 5:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.2\">5:2</a></span> <span class=\"sn-excerpt\">I will settle with you:</span> God’s judgment (Hebrew <span class=\"hebrew\">musar</span><span class=\"ital\">,</span> “discipline”) would inevitably fall upon Israel’s leaders. God did not judge Israel simply to punish them, but to correct them so that his people would return to him.</p>"
+    },
+    {
+      "sequence": 10900,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.3",
+      "citation": {
+        "short": "Hos 5:3",
+        "long": "Hosea 5:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.3\">5:3</a></span> <span class=\"sn-excerpt\">you are utterly defiled:</span> The word translated <span class=\"ital\">defiled</span> is used frequently in the Pentateuch to describe ritual uncleanness, a physical condition that disqualified a person from worshiping God in the Temple (<a href=\"?bref=Lev.11.1-15.33\">Lev 11–15</a>). The prophets used the concept as a metaphor for Israel’s moral uncleanness as the result of her idolatry (<a href=\"?bref=Isa.6.5\">Isa 6:5</a>; <a href=\"?bref=Mic.2.10\">Mic 2:10</a>).</p>"
+    },
+    {
+      "sequence": 10901,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.4",
+      "citation": {
+        "short": "Hos 5:4",
+        "long": "Hosea 5:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.4\">5:4</a></span> Israel’s idolatrous practices were so ingrained that they were apparently powerless to <span class=\"sn-excerpt\">return</span> to the Lord. • <span class=\"sn-excerpt\">You are a prostitute through and through</span> (literally <span class=\"ital\">the spirit of prostitution is within them</span>): Israel’s sin was not simply a behavior; it was the nation’s essential nature. They instinctively preferred the corrupt to the pure. Only through God’s work of salvation could Israel escape.</p>"
+    },
+    {
+      "sequence": 10902,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.6",
+      "citation": {
+        "short": "Hos 5:6",
+        "long": "Hosea 5:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.6-7\">5:6-7</a></span> The people might think that they could win God’s favor with their <span class=\"sn-excerpt\">sacrifices</span>, but Hosea warned them that <span class=\"sn-excerpt\">they</span> would <span class=\"sn-excerpt\">not find him</span><span class=\"ital\">;</span> God had left them to the consequences of their sin.</p>"
+    },
+    {
+      "sequence": 10903,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.8",
+      "citation": {
+        "short": "Hos 5:8",
+        "long": "Hosea 5:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.8-9\">5:8-9</a></span> Hosea sounded the <span class=\"sn-excerpt\">alarm</span> to warn the Israelites of God’s coming judgment. Because of their sins, the Lord had become Israel’s enemy and would punish them. • <span class=\"sn-excerpt\">Gibeah</span>, <span class=\"sn-excerpt\">Ramah</span>, and <span class=\"sn-excerpt\">Beth-aven</span> (Bethel) are all cities in the tribal territory of <span class=\"sn-excerpt\">Benjamin</span>.</p>"
+    },
+    {
+      "sequence": 10904,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.10",
+      "citation": {
+        "short": "Hos 5:10",
+        "long": "Hosea 5:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.10\">5:10</a></span> <span class=\"sn-excerpt\">thieves</span> (literally <span class=\"ital\">those who move a boundary marker</span>): The Lord was the owner of the land, which he entrusted to the tribes following the conquest (see <a href=\"?bref=Josh.13.8-19.51\">Josh 13:8–19:51</a>). To move a boundary marker and change God’s allotted boundaries was to steal from God (<a href=\"?bref=Deut.19.14\">Deut 19:14</a>). Such an act rightly invoked divine punishment (<a href=\"?bref=Deut.27.17\">Deut 27:17</a>).</p>"
+    },
+    {
+      "sequence": 10905,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.12",
+      "citation": {
+        "short": "Hos 5:12",
+        "long": "Hosea 5:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.12\">5:12</a></span> <span class=\"sn-excerpt\">as a moth . . . rotten wood:</span> Sin can destroy the very fabric and foundation of a people while leaving them unaware that the destruction has taken place.</p>"
+    },
+    {
+      "sequence": 10906,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.13",
+      "citation": {
+        "short": "Hos 5:13",
+        "long": "Hosea 5:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.13\">5:13</a></span> In a final effort to avoid complete destruction, the Israelites overthrew King Pekah and placed a new king, Hoshea, on the throne. Hoshea then appealed to the Assyrian king Shalmaneser for peace (<a href=\"?bref=2Kgs.15.29-30\">2 Kgs 15:29-30</a>; <a href=\"?bref=2Kgs.17.3\">17:3</a>), but these diplomatic maneuvers could <span class=\"sn-excerpt\">neither help nor cure</span> Israel—they would soon be destroyed by Assyria.</p>"
+    },
+    {
+      "sequence": 10907,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.5",
+      "verseOsisID": "Hos.5.15",
+      "citation": {
+        "short": "Hos 5:15",
+        "long": "Hosea 5:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.5.15\">5:15</a></span> Hosea again reminded Israel that divine judgment was not merely punitive. God’s purpose was to convince Israel to <span class=\"sn-excerpt\">admit their guilt</span> and return to the Lord (see <a href=\"?bref=Hos.2.2\">2:2</a>, <a href=\"?bref=Hos.2.14\">14</a>).</p>"
+    },
+    {
+      "sequence": 10908,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.6",
+      "verseOsisID": "Hos.6.1",
+      "citation": {
+        "short": "Hos 6:1",
+        "long": "Hosea 6:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.6.1-3\">6:1-3</a></span> In response to God’s acts of judgment on Israel, the religious leaders called the people to <span class=\"sn-excerpt\">return to the</span> <span class=\"sn-excerpt-divine-name\">Lord</span> in repentance and urged everyone to <span class=\"sn-excerpt\">know the</span> <span class=\"sn-excerpt-divine-name\">Lord</span>. • The <span class=\"sn-excerpt\">rains in early spring</span> were essential to the agricultural cycle of the land.</p>"
+    },
+    {
+      "sequence": 10909,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.6",
+      "verseOsisID": "Hos.6.4",
+      "citation": {
+        "short": "Hos 6:4",
+        "long": "Hosea 6:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.6.4\">6:4</a></span> The response of <span class=\"sn-excerpt\">Israel</span> was inadequate; God lamented that their <span class=\"sn-excerpt\">love</span> disappeared like <span class=\"sn-excerpt\">morning mist</span> and <span class=\"sn-excerpt\">dew</span>.</p>"
+    },
+    {
+      "sequence": 10910,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.6",
+      "verseOsisID": "Hos.6.6",
+      "citation": {
+        "short": "Hos 6:6",
+        "long": "Hosea 6:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.6.6\">6:6</a></span> In one of Hosea’s key verses, God names the most important qualities that should characterize the Israelites’ covenant lives with him. First, the Lord wants his people <span class=\"sn-excerpt\">to show love</span> more than he wants <span class=\"sn-excerpt\">sacrifices</span>. Love (Hebrew <span class=\"hebrew\">khesed</span>) includes faithfulness (see <a href=\"?bref=Hos.4.1\">4:1</a>; <a href=\"?bref=Hos.6.4\">6:4</a>). God is always faithful (<a href=\"?bref=Ps.136.1-26\">Ps 136</a>), and he requires the same of his people. Second, the Lord wants Israel <span class=\"sn-excerpt\">to know</span> him more than he wants <span class=\"sn-excerpt\">burnt offerings</span>. Knowing God is much more than simply knowing facts about God (see “<a href=\"?item=KnowingGod_ThemeNote_Filament\">Knowing God</a>” Theme Note). An intimate personal relationship with God is characterized by complete trust and integrity. Sacrifice still had a proper place in Israelite religion, but only when it was offered by a people who truly knew and loved God (see <a href=\"?bref=Isa.1.10-17\">Isa 1:10-17</a>; <a href=\"?bref=Amos.5.21-24\">Amos 5:21-24</a>; <a href=\"?bref=Mic.6.6-8\">Mic 6:6-8</a>).</p>"
+    },
+    {
+      "sequence": 10911,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.6",
+      "verseOsisID": "Hos.6.7",
+      "citation": {
+        "short": "Hos 6:7",
+        "long": "Hosea 6:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.6.7-11\">6:7-11</a></span> Hosea traces the way that human rebellion against God began with Adam and spread through the cities of Israel to the land of Judah.</p>"
+    },
+    {
+      "sequence": 10912,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.6",
+      "verseOsisID": "Hos.6.9",
+      "citation": {
+        "short": "Hos 6:9",
+        "long": "Hosea 6:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.6.9\">6:9</a></span> <span class=\"sn-excerpt\">Priests form bands of robbers:</span> Hosea again condemns the religious leaders for their crimes (see <a href=\"?bref=Hos.4.4-8\">4:4-8</a>).</p>"
+    },
+    {
+      "sequence": 10913,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.6",
+      "verseOsisID": "Hos.6.10",
+      "citation": {
+        "short": "Hos 6:10",
+        "long": "Hosea 6:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.6.10\">6:10</a></span> <span class=\"sn-excerpt\">something horrible:</span> The prophet uses this rare word (also in <a href=\"?bref=Jer.18.13\">Jer 18:13</a>) to describe the depth of Israel’s sin in breaking God’s covenant and betraying his trust.</p>"
+    },
+    {
+      "sequence": 10914,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.1",
+      "citation": {
+        "short": "Hos 7:1",
+        "long": "Hosea 7:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.1-2\">7:1-2</a></span> <span class=\"sn-excerpt\">I want to heal Israel:</span> God’s overwhelming desire was to heal Israel’s harlotry (see <a href=\"?bref=Hos.14.4\">14:4</a>) and restore her to right relationship with him, but she was <span class=\"sn-excerpt\">filled with liars</span>, <span class=\"sn-excerpt\">thieves</span>, <span class=\"sn-excerpt\">and bandits</span>. • The Israelites might have thought that the Lord was unaware of their sins, but he was <span class=\"sn-excerpt\">watching them</span><span class=\"ital\">,</span> and he saw everything they did.</p>"
+    },
+    {
+      "sequence": 10915,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.3",
+      "citation": {
+        "short": "Hos 7:3",
+        "long": "Hosea 7:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.3-7\">7:3-7</a></span> The northern kingdom of Israel saw a succession of seven different <span class=\"sn-excerpt\">kings</span> during the final twenty-five years of its existence, four of whom were assassinated by usurpers. This passage refers to the vicious and bloody political <span class=\"sn-excerpt\">intrigue</span> that characterized these years.</p>"
+    },
+    {
+      "sequence": 10916,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.3",
+      "citation": {
+        "short": "Hos 7:3",
+        "long": "Hosea 7:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.3\">7:3</a></span> The prophet did not record the name of this <span class=\"sn-excerpt\">king</span><span class=\"ital\">,</span> but many believe he was Hoshea, the northern kingdom’s last monarch.</p>"
+    },
+    {
+      "sequence": 10917,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.4",
+      "citation": {
+        "short": "Hos 7:4",
+        "long": "Hosea 7:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.4\">7:4</a></span> <span class=\"sn-excerpt\">adulterers:</span> Hosea used this term earlier to describe spiritual apostasy (<a href=\"?bref=Hos.3.1\">3:1</a>); it refers here to those who were disloyal to the king.</p>"
+    },
+    {
+      "sequence": 10918,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.6",
+      "citation": {
+        "short": "Hos 7:6",
+        "long": "Hosea 7:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.6\">7:6</a></span> A simile aptly compares the plots and political intrigue during this turbulent time to a red-hot <span class=\"sn-excerpt\">oven</span> that <span class=\"sn-excerpt\">breaks out</span> to ignite the entire land.</p>"
+    },
+    {
+      "sequence": 10919,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.7",
+      "citation": {
+        "short": "Hos 7:7",
+        "long": "Hosea 7:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.7\">7:7</a></span> <span class=\"sn-excerpt\">They kill their kings:</span> The people of Israel assassinated one king after another as they desperately attempted to save their nation and their lives from the invading Assyrian army. Throughout these last years, they relied upon their own plans and plots and never thought to cry out to the Lord, their only true source of help.</p>"
+    },
+    {
+      "sequence": 10920,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.8",
+      "citation": {
+        "short": "Hos 7:8",
+        "long": "Hosea 7:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.8-12\">7:8-12</a></span> Israel ignored the Lord in their international politics as well as in their domestic policies. <span class=\"sn-excerpt\">Like silly, witless doves</span><span class=\"ital\">,</span> they had flown in a frenzy between Assyria and Egypt, the major powers of their day, vainly trying to make treaties and alliances that would save their land.</p>"
+    },
+    {
+      "sequence": 10921,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.8",
+      "citation": {
+        "short": "Hos 7:8",
+        "long": "Hosea 7:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.8\">7:8</a></span> <span class=\"sn-excerpt\">The people of Israel mingle with godless foreigners:</span> By relying upon foreign nations rather than God for security, the Israelites were no longer a pure, holy nation, set apart for the Lord. • Flatbread must be turned over at the proper time to ensure that it is baked on both sides rather than burned on one side and raw on the other. Israel was <span class=\"sn-excerpt\">a half-baked cake</span> and was therefore <span class=\"sn-excerpt\">worthless</span>.</p>"
+    },
+    {
+      "sequence": 10922,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.9",
+      "citation": {
+        "short": "Hos 7:9",
+        "long": "Hosea 7:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.9\">7:9</a></span> <span class=\"sn-excerpt\">foreign gods</span> (literally <span class=\"ital\">foreigners</span>): Israel’s political involvement with foreign nations had harmed their spiritual well-being.</p>"
+    },
+    {
+      "sequence": 10923,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.11",
+      "citation": {
+        "short": "Hos 7:11",
+        "long": "Hosea 7:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.11\">7:11</a></span> When invaded by <span class=\"sn-excerpt\">Assyria</span>, Israel turned to <span class=\"sn-excerpt\">Egypt</span> for help. When Egypt proved powerless, Israel tried to appease Assyria by becoming its <span class=\"ital\">vassal</span> (a subservient kingdom).</p>"
+    },
+    {
+      "sequence": 10924,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.12",
+      "citation": {
+        "short": "Hos 7:12",
+        "long": "Hosea 7:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.12\">7:12</a></span> Like a fowler hunting birds, the Lord would <span class=\"sn-excerpt\">throw</span> his <span class=\"sn-excerpt\">net over</span> silly, witless Israel to punish them.</p>"
+    },
+    {
+      "sequence": 10925,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.13",
+      "citation": {
+        "short": "Hos 7:13",
+        "long": "Hosea 7:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.13\">7:13</a></span> <span class=\"sn-excerpt\">What sorrow:</span> This word (Hebrew <span class=\"hebrew\">’oy</span>) was used at funerals to mourn the dead. In God’s eyes, Israel was as good as dead because <span class=\"sn-excerpt\">they</span> had <span class=\"sn-excerpt\">rebelled against</span> him. Rebellion against a human king was a capital crime; how much more serious it was for God’s people to rebel against their heavenly king. • <span class=\"sn-excerpt\">I wanted to redeem them:</span> This Hebrew word means paying a fee to repatriate someone who has been enslaved. It is often associated with the exodus from Egypt. The Lord desired to do for the Israelites what he did when he brought their ancestors out of their slavery to pagan gods, <span class=\"sn-excerpt\">but they . . . told lies about</span> him.</p>"
+    },
+    {
+      "sequence": 10926,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.14",
+      "citation": {
+        "short": "Hos 7:14",
+        "long": "Hosea 7:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.14\">7:14</a></span> <span class=\"sn-excerpt\">They cut themselves:</span> Self-mutilation was characteristic of Canaanite worship (see <a href=\"?bref=1Kgs.18.28\">1 Kgs 18:28</a>); it was prohibited in Israel (<a href=\"?bref=Deut.14.1\">Deut 14:1</a>).</p>"
+    },
+    {
+      "sequence": 10927,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.7",
+      "verseOsisID": "Hos.7.16",
+      "citation": {
+        "short": "Hos 7:16",
+        "long": "Hosea 7:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.7.16\">7:16</a></span> <span class=\"sn-excerpt\">A crooked</span> (literally <span class=\"ital\">loose</span>) <span class=\"sn-excerpt\">bow</span> cannot propel its arrow to the target; it depicts Israel’s futility apart from God (see <a href=\"?bref=Hos.7.8\">7:8</a>, <a href=\"?bref=Hos.7.11\">11</a>).</p>"
+    },
+    {
+      "sequence": 10928,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.1",
+      "citation": {
+        "short": "Hos 8:1",
+        "long": "Hosea 8:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.1\">8:1</a></span> <span class=\"sn-excerpt\">Sound the alarm:</span> The ram’s horn trumpet (<span class=\"hebrew\">shofar</span>) called the people to worship (<a href=\"?bref=Ps.98.6\">Ps 98:6</a>); it was also (as here) the signal for battle (<a href=\"?bref=2Sam.20.1\">2 Sam 20:1</a>). God was sending an <span class=\"sn-excerpt\">enemy</span><span class=\"ital\">,</span> the Assyrians, to execute his judgment on Israel. • <span class=\"sn-excerpt\">revolted against my law:</span> God’s law (Hebrew <span class=\"hebrew\">torah</span>) is much more than the sum of the individual laws in the Pentateuch. It represents the totality of God’s instruction to his people through his words and his deeds. Loving fulfillment of the Torah was Israel’s part of the covenant. They had broken God’s commandments, and they had turned aside from their covenant relationship with the Lord.</p>"
+    },
+    {
+      "sequence": 10929,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.3",
+      "citation": {
+        "short": "Hos 8:3",
+        "long": "Hosea 8:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.3\">8:3</a></span> Jesus tells us that God alone is <span class=\"sn-excerpt\">good</span> (<a href=\"?bref=Mark.10.18\">Mark 10:18</a>). God is the source of every good thing, yet Israel <span class=\"sn-excerpt\">rejected</span> him.</p>"
+    },
+    {
+      "sequence": 10930,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.4",
+      "citation": {
+        "short": "Hos 8:4",
+        "long": "Hosea 8:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.4\">8:4</a></span> <span class=\"sn-excerpt\">appointed kings without my consent:</span> The Israelites quickly disposed of one king and appointed another if they thought it might save their nation (see <a href=\"?bref=Hos.7.7\">7:7</a>). They did all of this without consulting their true king, the Lord.</p>"
+    },
+    {
+      "sequence": 10931,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.5",
+      "citation": {
+        "short": "Hos 8:5",
+        "long": "Hosea 8:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.5-6\">8:5-6</a></span> <span class=\"sn-excerpt\">this calf:</span> When Jeroboam I (931–910 <span class=\"era\">BC</span>), the first king of the northern kingdom of Israel, ascended the throne, he established places of worship in the cities of Dan and Bethel so that the people would not travel to the Temple in Jerusalem, the capital of the southern kingdom. At each site, he erected a gold calf for the people to worship (<a href=\"?bref=1Kgs.12.26-30\">1 Kgs 12:26-30</a>).</p>"
+    },
+    {
+      "sequence": 10932,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.7",
+      "citation": {
+        "short": "Hos 8:7",
+        "long": "Hosea 8:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.7\">8:7</a></span> When Hosea proclaimed divine judgment, the punishment fit the crime (see <a href=\"?item=Hos.4.10_StudyNote_Filament\">study note on 4:10</a>). Through their idolatry and political intrigue, the Israelites had <span class=\"sn-excerpt\">planted</span> the seeds of their own destruction (see <a href=\"?bref=Gal.6.7\">Gal 6:7</a>).</p>"
+    },
+    {
+      "sequence": 10933,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.9",
+      "citation": {
+        "short": "Hos 8:9",
+        "long": "Hosea 8:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.9\">8:9</a></span> <span class=\"sn-excerpt\">Like a wild donkey:</span> Hosea compared Israel’s worship of the Canaanite fertility gods to an animal in heat that was desperate to mate (see <a href=\"?bref=Jer.2.23-24\">Jer 2:23-24</a>).</p>"
+    },
+    {
+      "sequence": 10934,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.10",
+      "citation": {
+        "short": "Hos 8:10",
+        "long": "Hosea 8:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.10\">8:10</a></span> <span class=\"sn-excerpt\">I will now gather them together:</span> Although God sometimes promises to gather his people for deliverance (<a href=\"?bref=Zech.10.8-10\">Zech 10:8-10</a>), here the Lord would gather them <span class=\"sn-excerpt\">for judgment</span> (<a href=\"?bref=Joel.3.11\">Joel 3:11</a>).</p>"
+    },
+    {
+      "sequence": 10935,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.11",
+      "citation": {
+        "short": "Hos 8:11",
+        "long": "Hosea 8:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.11\">8:11</a></span> <span class=\"sn-excerpt\">Israel has built many altars:</span> As Israel’s idolatry increased, her religious activities increased in an attempt <span class=\"sn-excerpt\">to take away sin</span><span class=\"ital\">;</span> instead, these rites only increased her sin.</p>"
+    },
+    {
+      "sequence": 10936,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.13",
+      "citation": {
+        "short": "Hos 8:13",
+        "long": "Hosea 8:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.13\">8:13</a></span> <span class=\"sn-excerpt\">I do not accept their sacrifices:</span> See <a href=\"?bref=Hos.6.6\">6:6</a>; <a href=\"?bref=Isa.1.10-17\">Isa 1:10-17</a>; <a href=\"?bref=Amos.5.21-24\">Amos 5:21-24</a>; <a href=\"?bref=Mic.6.6-8\">Mic 6:6-8</a>. • <span class=\"sn-excerpt\">They will return to Egypt,</span> the place of slavery (<a href=\"?bref=Deut.28.68\">Deut 28:68</a>). God’s dealings with Israel did not end with judgment. The divine purpose of judgment was to restore Israel to the status they had when they came out of Egypt, so that they could experience a new beginning (see <a href=\"?bref=Hos.2.14-15\">Hos 2:14-15</a>).</p>"
+    },
+    {
+      "sequence": 10937,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.8",
+      "verseOsisID": "Hos.8.14",
+      "citation": {
+        "short": "Hos 8:14",
+        "long": "Hosea 8:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.8.14\">8:14</a></span> <span class=\"sn-excerpt\">Israel has forgotten its Maker:</span> See <a href=\"?bref=Hos.2.13\">2:13</a>. • God’s judgment is often described as <span class=\"sn-excerpt\">fire</span> sent upon the royal <span class=\"sn-excerpt\">palaces</span> and <span class=\"sn-excerpt\">fortresses</span> (see <a href=\"?bref=Amos.1.4\">Amos 1:4</a>, <a href=\"?bref=Amos.1.7\">7</a>).</p>"
+    },
+    {
+      "sequence": 10938,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.1",
+      "citation": {
+        "short": "Hos 9:1",
+        "long": "Hosea 9:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.1\">9:1</a></span> <span class=\"sn-excerpt\">do not rejoice:</span> This is probably a reference to the Festival of Shelters, when Israel celebrated the final harvest of the year. This festival was ordained by God (<a href=\"?bref=Deut.16.13-15\">Deut 16:13-15</a>), but the Israelites had turned it into a wild pagan festival, behaving <span class=\"sn-excerpt\">as other nations</span> did. • <span class=\"sn-excerpt\">hiring yourselves out like prostitutes</span> (literally <span class=\"ital\">you have loved a prostitute’s pay</span>): The Israelites ignorantly believed that their grain and wine were payment for their worship of the Canaanite fertility god.</p>"
+    },
+    {
+      "sequence": 10939,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.2",
+      "citation": {
+        "short": "Hos 9:2",
+        "long": "Hosea 9:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.2\">9:2</a></span> As punishment for their prostitution, the Lord would so reduce the Israelites’ <span class=\"sn-excerpt\">harvests</span> that they would go hungry (cp. <a href=\"?bref=Hagg.1.3-11\">Hag 1:3-11</a>).</p>"
+    },
+    {
+      "sequence": 10940,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.3",
+      "citation": {
+        "short": "Hos 9:3",
+        "long": "Hosea 9:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.3\">9:3</a></span> God would exile the Israelites to Assyria in 722 <span class=\"era\">BC</span>. There, in an unclean land, they would eat <span class=\"sn-excerpt\">ceremonially unclean</span> food, further separating themselves from their covenant with the Lord.</p>"
+    },
+    {
+      "sequence": 10941,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.4",
+      "citation": {
+        "short": "Hos 9:4",
+        "long": "Hosea 9:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.4\">9:4</a></span> In exile, the Israelites could not offer legitimate sacrifices because any sacrifice in a foreign land was <span class=\"sn-excerpt\">unclean</span> and <span class=\"sn-excerpt\">defiled</span>.</p>"
+    },
+    {
+      "sequence": 10942,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.6",
+      "citation": {
+        "short": "Hos 9:6",
+        "long": "Hosea 9:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.6\">9:6</a></span> <span class=\"sn-excerpt\">Even if</span> some Israelites were to <span class=\"sn-excerpt\">escape</span> Assyrian exile by fleeing to <span class=\"sn-excerpt\">Egypt</span>, God’s relentless judgment would reach them there.</p>"
+    },
+    {
+      "sequence": 10943,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.7",
+      "citation": {
+        "short": "Hos 9:7",
+        "long": "Hosea 9:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.7\">9:7</a></span> Apostate Israelites refused to believe God’s words of judgment as delivered by the prophets and mockingly cried that <span class=\"sn-excerpt\">the prophets</span> were <span class=\"sn-excerpt\">crazy</span>.</p>"
+    },
+    {
+      "sequence": 10944,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.8",
+      "citation": {
+        "short": "Hos 9:8",
+        "long": "Hosea 9:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.8\">9:8</a></span> The <span class=\"sn-excerpt\">watchman</span> stood guard on the wall of the city to warn of any threat (e.g., <a href=\"?bref=1Sam.14.16\">1 Sam 14:16</a>). In the same way, a <span class=\"sn-excerpt\">prophet</span> was God’s watchman, stationed to warn Israel of her sin and of the judgment that sin would inevitably bring (see <a href=\"?bref=Jer.6.17\">Jer 6:17</a>; <a href=\"?bref=Ezek.3.17\">Ezek 3:17</a>). Despite his service to the people, all the prophet received was <span class=\"sn-excerpt\">hostility</span>.</p>"
+    },
+    {
+      "sequence": 10945,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.9",
+      "citation": {
+        "short": "Hos 9:9",
+        "long": "Hosea 9:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.9\">9:9</a></span> <span class=\"sn-excerpt\">what they did in Gibeah long ago:</span> See <a href=\"?bref=Judg.19.1-21.25\">Judg 19–21</a>.</p>"
+    },
+    {
+      "sequence": 10946,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.10",
+      "citation": {
+        "short": "Hos 9:10",
+        "long": "Hosea 9:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.10\">9:10</a></span> <span class=\"sn-excerpt\">when I first found you:</span> Hosea, like Ezekiel (<a href=\"?bref=Ezek.16.1-63\">Ezek 16</a>), speaks of the Lord’s finding and adopting chaste, innocent Israel <span class=\"sn-excerpt\">in the desert</span>. But Israel soon <span class=\"sn-excerpt\">deserted</span> God for idols at <span class=\"sn-excerpt\">Baal-peor</span> (<a href=\"?bref=Num.25.1-4\">Num 25:1-4</a>). Participation in idolatry had made the Israelites <span class=\"sn-excerpt\">vile</span>. This strong word can also be translated “detestable” (<a href=\"?bref=Deut.29.17\">Deut 29:17</a>) or “Abominable” (<a href=\"?bref=Jer.7.30\">Jer 7:30</a>). They inevitably resembled what they worshiped.</p>"
+    },
+    {
+      "sequence": 10947,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.11",
+      "citation": {
+        "short": "Hos 9:11",
+        "long": "Hosea 9:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.11\">9:11</a></span> Israel worshiped the baals to ensure that they would have many children, but God would punish them by preventing birth, pregnancy, and even conception.</p>"
+    },
+    {
+      "sequence": 10948,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.13",
+      "citation": {
+        "short": "Hos 9:13",
+        "long": "Hosea 9:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.13\">9:13</a></span> <span class=\"sn-excerpt\">for slaughter:</span> Rather than gaining them more children, the Israelites’ idolatry would backfire, resulting in their children’s deaths.</p>"
+    },
+    {
+      "sequence": 10949,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.15",
+      "citation": {
+        "short": "Hos 9:15",
+        "long": "Hosea 9:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.15\">9:15</a></span> <span class=\"sn-excerpt\">All their wickedness began at Gilgal:</span> Gilgal was the base camp for Joshua’s army (<a href=\"?bref=Josh.5.10\">Josh 5:10</a>; <a href=\"?bref=Josh.10.6\">10:6</a>, <a href=\"?bref=Josh.10.43\">43</a>) and the place where Saul was made king (<a href=\"?bref=1Sam.11.15\">1 Sam 11:15</a>). Saul also disobeyed God and was rejected as king at Gilgal (<a href=\"?bref=1Sam.13.8-15\">1 Sam 13:8-15</a>; <a href=\"?bref=1Sam.15.10-23\">15:10-23</a>). Israel’s leaders, including its first king, had led the nation away from their true king, the Lord. • <span class=\"sn-excerpt\">I will love them no more:</span> Although a different Hebrew word is used here, the prophetic judgment reflects the name of Hosea’s daughter (<a href=\"?bref=Hos.1.6\">Hos 1:6</a>).</p>"
+    },
+    {
+      "sequence": 10950,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.9",
+      "verseOsisID": "Hos.9.17",
+      "citation": {
+        "short": "Hos 9:17",
+        "long": "Hosea 9:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.9.17\">9:17</a></span> <span class=\"sn-excerpt\">wanderers:</span> God’s judgment on the Israelites would cut them off from the land, leaving them with no home.</p>"
+    },
+    {
+      "sequence": 10951,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.1",
+      "citation": {
+        "short": "Hos 10:1",
+        "long": "Hosea 10:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.1\">10:1</a></span> Although Israel was God’s<span class=\"sn-excerpt\"> luxuriant,</span> fruitful vine (see <a href=\"?bref=Isa.5.1-7\">Isa 5:1-7</a>; <a href=\"?bref=Jer.2.21\">Jer 2:21</a>; <a href=\"?bref=Ezek.17.6\">Ezek 17:6</a>), she falsely attributed her prosperity to the Canaanite fertility gods, rather than to the Lord, and she spent the riches God had given her to enhance her worship of idols. • <span class=\"sn-excerpt\">sacred pillars:</span> Stone pillars could be acceptable memorials (<a href=\"?bref=Gen.35.20\">Gen 35:20</a>; <a href=\"?bref=Josh.24.26-27\">Josh 24:26-27</a>), but God prohibited the Israelites from using them in worship as the Canaanites did (<a href=\"?bref=Exod.23.24\">Exod 23:24</a>; <a href=\"?bref=Deut.16.22\">Deut 16:22</a>).</p>"
+    },
+    {
+      "sequence": 10952,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.3",
+      "citation": {
+        "short": "Hos 10:3",
+        "long": "Hosea 10:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.3\">10:3</a></span> <span class=\"sn-excerpt\">We have no king:</span> Some interpreters see these words as an acknowledgement, after the destruction of Israel, that they had been punished and the monarchy had come to an end because they <span class=\"sn-excerpt\">didn’t fear the</span> <span class=\"sn-excerpt-divine-name\">Lord</span>. Others regard this as the Israelites’ arrogant rejection of the Lord’s kingship.</p>"
+    },
+    {
+      "sequence": 10953,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.4",
+      "citation": {
+        "short": "Hos 10:4",
+        "long": "Hosea 10:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.4\">10:4</a></span> The perversion of justice is like bitter, <span class=\"sn-excerpt\">poisonous weeds</span> (<a href=\"?bref=Amos.6.12\">Amos 6:12</a>).</p>"
+    },
+    {
+      "sequence": 10954,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.5",
+      "citation": {
+        "short": "Hos 10:5",
+        "long": "Hosea 10:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.5-6\">10:5-6</a></span> Israel’s gold <span class=\"sn-excerpt\">calf idol</span> (see <a href=\"?bref=Hos.8.5-6\">8:5-6</a>) would become a prize of war for the invading Assyrians.</p>"
+    },
+    {
+      "sequence": 10955,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.8",
+      "citation": {
+        "short": "Hos 10:8",
+        "long": "Hosea 10:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.8\">10:8</a></span> The only response of Israelites who survived the coming catastrophe would be to implore the mountains and hills, <span class=\"sn-excerpt\">“Bury us! . . . Fall on us!”</span></p>"
+    },
+    {
+      "sequence": 10956,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.9",
+      "citation": {
+        "short": "Hos 10:9",
+        "long": "Hosea 10:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.9-10\">10:9-10</a></span> The horrible events at <span class=\"sn-excerpt\">Gibeah</span> (<a href=\"?bref=Judg.19.1-21.25\">Judg 19–21</a>) set the pattern of sin for the people of the northern kingdom of Israel (see <a href=\"?bref=Hos.9.9\">Hos 9:9</a>). God’s punishment was that they would be overwhelmingly defeated in war, just as in the time of the judges (see <a href=\"?bref=Judg.2.10-15\">Judg 2:10-15</a>).</p>"
+    },
+    {
+      "sequence": 10957,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.11",
+      "citation": {
+        "short": "Hos 10:11",
+        "long": "Hosea 10:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.11\">10:11</a></span> Because <span class=\"sn-excerpt\">Israel</span> was not faithful to the covenant, the Lord placed on her <span class=\"sn-excerpt\">a heavy yoke</span>—the divine correction required to bring her back to him.</p>"
+    },
+    {
+      "sequence": 10958,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.12",
+      "citation": {
+        "short": "Hos 10:12",
+        "long": "Hosea 10:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.12\">10:12</a></span> Using metaphors from agriculture, God set forth his requirements for his people and a promise of blessing if they did what he commanded (see <a href=\"?bref=Hos.6.6\">6:6</a>; <a href=\"?bref=Hos.8.7\">8:7</a>). Even as Hosea announced God’s judgment, he offered Israel the chance to repent and receive God’s blessing.</p>"
+    },
+    {
+      "sequence": 10959,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.10",
+      "verseOsisID": "Hos.10.14",
+      "citation": {
+        "short": "Hos 10:14",
+        "long": "Hosea 10:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.10.14\">10:14</a></span> <span class=\"sn-excerpt\">When Shalman destroyed Beth-arbel:</span> This event is not mentioned elsewhere in the Bible or in other available sources, but it was evidently well known to Hosea’s audience.</p>"
+    },
+    {
+      "sequence": 10960,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.1",
+      "citation": {
+        "short": "Hos 11:1",
+        "long": "Hosea 11:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.1-11\">11:1-11</a></span> God agonized over Israel’s unfaithfulness. Despite all he had done, Israel had become a rebel. Justice required severe punishment, but the final sentence for Israel would be determined by God’s tender compassion for his people, not by an abstract principle.</p>"
+    },
+    {
+      "sequence": 10961,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.1",
+      "citation": {
+        "short": "Hos 11:1",
+        "long": "Hosea 11:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.1\">11:1</a></span> <span class=\"sn-excerpt\">my son:</span> The Lord adopted Israel when he delivered him <span class=\"sn-excerpt\">out of Egypt</span>. This verse is quoted in reference to Jesus in <a href=\"?bref=Matt.2.15\">Matt 2:15</a> (see <a href=\"?item=Matt.4.1-11_StudyNote_Filament\">study note on Matt 4:1-11</a>).</p>"
+    },
+    {
+      "sequence": 10962,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.2",
+      "citation": {
+        "short": "Hos 11:2",
+        "long": "Hosea 11:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.2\">11:2</a></span> In spite of God’s love, Israel had become a rebellious child, <span class=\"sn-excerpt\">offering sacrifices to . . . Baal</span>. The penalty for a rebellious son was death (<a href=\"?bref=Deut.21.18-21\">Deut 21:18-21</a>).</p>"
+    },
+    {
+      "sequence": 10963,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.3",
+      "citation": {
+        "short": "Hos 11:3",
+        "long": "Hosea 11:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.3-4\">11:3-4</a></span> God’s nurture of the infant Israel was marked by <span class=\"sn-excerpt\">kindness and love</span>.</p>"
+    },
+    {
+      "sequence": 10964,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.5",
+      "citation": {
+        "short": "Hos 11:5",
+        "long": "Hosea 11:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.5-7\">11:5-7</a></span> Because the Israelites had refused to return to the Lord, <span class=\"sn-excerpt\">they</span> would <span class=\"sn-excerpt\">return to Egypt and . . . serve Assyria</span>. Their past bondage in Egypt was a symbol for their coming exile in Assyria.</p>"
+    },
+    {
+      "sequence": 10965,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.8",
+      "citation": {
+        "short": "Hos 11:8",
+        "long": "Hosea 11:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.8\">11:8</a></span> Though justice demanded Israel’s death, the Lord recoiled at the thought of giving Israel up, of letting them go, of destroying his son. • <span class=\"sn-excerpt\">Admah</span> and <span class=\"sn-excerpt\">Zeboiim</span> were cities near Sodom and Gomorrah that God totally destroyed (<a href=\"?bref=Deut.29.23\">Deut 29:23</a>). • In Hebrew thought, the <span class=\"sn-excerpt\">heart</span> is the center of the intellect and the will.</p>"
+    },
+    {
+      "sequence": 10966,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.9",
+      "citation": {
+        "short": "Hos 11:9",
+        "long": "Hosea 11:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.9\">11:9</a></span> <span class=\"sn-excerpt\">No:</span> The Lord alone would determine Israel’s fate. God repeated the words <span class=\"sn-excerpt\">I will not</span> three times, emphasizing his decision not to <span class=\"sn-excerpt\">completely destroy</span> his people. • The reason for the divine decision is, <span class=\"sn-excerpt\">I am the Holy One living among you</span>. God’s holiness distinguishes him from every created thing (see “<a href=\"?item=GodsAbsoluteHoliness_ThemeNote_Filament\">God’s Absolute Holiness</a>” Theme Note). An offended <span class=\"sn-excerpt\">mortal</span> might very well destroy a rebel out of pique and spite. The Holy One does not operate out of those motives.</p>"
+    },
+    {
+      "sequence": 10967,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.10",
+      "citation": {
+        "short": "Hos 11:10",
+        "long": "Hosea 11:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.10-11\">11:10-11</a></span> Israel’s sin would not have the final word; God, in his holy love, would <span class=\"sn-excerpt\">roar like a lion</span> (see <a href=\"?bref=Amos.1.2\">Amos 1:2</a>; <a href=\"?bref=Amos.3.8\">3:8</a>) to call his people <span class=\"sn-excerpt\">home</span> from exile.</p>"
+    },
+    {
+      "sequence": 10968,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.11",
+      "verseOsisID": "Hos.11.12",
+      "citation": {
+        "short": "Hos 11:12",
+        "long": "Hosea 11:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.11.12-12.14\">11:12–12:14</a></span> Israel had perpetrated <span class=\"sn-excerpt\">lies and deceit</span> since the time of Jacob.</p>"
+    },
+    {
+      "sequence": 10969,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.1",
+      "citation": {
+        "short": "Hos 12:1",
+        "long": "Hosea 12:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.1\">12:1</a></span> <span class=\"sn-excerpt\">alliance with Assyria:</span> In order to save his land, Hoshea became a vassal of King Shalmaneser of Assyria (<a href=\"?bref=2Kgs.17.3\">2 Kgs 17:3</a>). Hoshea soon rebelled against Shalmaneser by withholding tribute and turned to King So of <span class=\"sn-excerpt\">Egypt</span> for <span class=\"sn-excerpt\">support</span> (<a href=\"?bref=2Kgs.17.4\">2 Kgs 17:4</a>). • <span class=\"sn-excerpt\">east wind:</span> See <a href=\"?item=Job.38.24-27_StudyNote_Filament\">study note on Job 38:24-27</a>.</p>"
+    },
+    {
+      "sequence": 10970,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.3",
+      "citation": {
+        "short": "Hos 12:3",
+        "long": "Hosea 12:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.3\">12:3</a></span> <span class=\"sn-excerpt\">Jacob struggled with his brother</span> (literally <span class=\"ital\">he supplanted his brother</span>): This verb (Hebrew <span class=\"hebrew\">‘aqab</span>) forms the root of Jacob’s name. Even before he was born, Jacob acted out the meaning of his name by supplanting his brother Esau (<a href=\"?bref=Gen.25.26\">Gen 25:26</a>). • As an adult, Jacob <span class=\"sn-excerpt\">even fought with God</span> (see <a href=\"?bref=Gen.32.22-30\">Gen 32:22-30</a>) and was renamed “Israel,” meaning “God fights.”</p>"
+    },
+    {
+      "sequence": 10971,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.4",
+      "citation": {
+        "short": "Hos 12:4",
+        "long": "Hosea 12:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.4\">12:4</a></span> <span class=\"sn-excerpt\">at Bethel he met God:</span> See <a href=\"?bref=Gen.28.11-22\">Gen 28:11-22</a>.</p>"
+    },
+    {
+      "sequence": 10972,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.6",
+      "citation": {
+        "short": "Hos 12:6",
+        "long": "Hosea 12:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.6\">12:6</a></span> The Lord admonished Israel to live no longer as Jacob did, but to return to God and <span class=\"sn-excerpt\">act with love and justice</span>.</p>"
+    },
+    {
+      "sequence": 10973,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.7",
+      "citation": {
+        "short": "Hos 12:7",
+        "long": "Hosea 12:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.7-8\">12:7-8</a></span> During the reign of Jeroboam II (793–753 <span class=\"era\">BC</span>), Israelite <span class=\"sn-excerpt\">merchants</span> became fabulously wealthy, often by using deceitful business practices like <span class=\"sn-excerpt\">dishonest scales</span> (see <a href=\"?bref=Amos.8.5-6\">Amos 8:5-6</a>). • The Hebrew term translated <span class=\"sn-excerpt\">merchants</span> is <span class=\"hebrew\">kena‘an</span> (“Canaan”). Canaanite traders were notorious in the ancient world for their crafty dealings. The Israelites had imitated their pagan neighbors not only in religion but also in commerce.</p>"
+    },
+    {
+      "sequence": 10974,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.9",
+      "citation": {
+        "short": "Hos 12:9",
+        "long": "Hosea 12:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.9\">12:9</a></span> <span class=\"sn-excerpt\">I will make you live in tents again:</span> God’s judgment on the wealthy Israelite merchants was for them to return to the humble dwellings of the Exodus. There is also a word of hope here: God’s plan of salvation for Israel would begin anew in the wilderness (see <a href=\"?bref=Hos.2.14-15\">2:14-15</a>).</p>"
+    },
+    {
+      "sequence": 10975,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.11",
+      "citation": {
+        "short": "Hos 12:11",
+        "long": "Hosea 12:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.11\">12:11</a></span> <span class=\"sn-excerpt\">Gilead</span> and <span class=\"sn-excerpt\">Gilgal</span> were Israelite cities in which Baal was worshiped instead of the Lord (see <a href=\"?bref=Hos.4.15\">4:15</a>; <a href=\"?bref=Hos.6.8\">6:8</a>; <a href=\"?bref=Hos.9.15\">9:15</a>).</p>"
+    },
+    {
+      "sequence": 10976,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.12",
+      "verseOsisID": "Hos.12.13",
+      "citation": {
+        "short": "Hos 12:13",
+        "long": "Hosea 12:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.12.13\">12:13</a></span> <span class=\"sn-excerpt\">by a prophet:</span> Moses’ faithful obedience to God contrasts with Israel’s disobedience.</p>"
+    },
+    {
+      "sequence": 10977,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.1",
+      "citation": {
+        "short": "Hos 13:1",
+        "long": "Hosea 13:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.1\">13:1</a></span> At the height of its power, <span class=\"sn-excerpt\">the tribe of Ephraim</span> evoked terror among other Israelites (see <a href=\"?bref=Isa.7.2\">Isa 7:2</a>). • <span class=\"sn-excerpt\">and thus sealed their destruction</span> (literally <span class=\"ital\">and he</span> [Ephraim]<span class=\"ital\"> died</span>): Because of their idolatry, they had cut themselves off from the Lord, the only true source of life.</p>"
+    },
+    {
+      "sequence": 10978,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.2",
+      "citation": {
+        "short": "Hos 13:2",
+        "long": "Hosea 13:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.2\">13:2</a></span> The Hebrew word translated <span class=\"sn-excerpt\">idols</span> is the same one used of the gold calf (<a href=\"?bref=Exod.32.4\">Exod 32:4</a>, <a href=\"?bref=Exod.32.8\">8</a>; see also <a href=\"?bref=Hos.10.5-6\">Hos 10:5-6</a>; <a href=\"?bref=Amos.5.5-6\">Amos 5:5-6</a>). • <span class=\"sn-excerpt\">kiss the calf idols:</span> The Canaanite religious rituals included kissing images of Baal (<a href=\"?bref=1Kgs.19.18\">1 Kgs 19:18</a>).</p>"
+    },
+    {
+      "sequence": 10979,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.3",
+      "citation": {
+        "short": "Hos 13:3",
+        "long": "Hosea 13:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.3\">13:3</a></span> God’s judgment on idolatrous Ephraim was that <span class=\"sn-excerpt\">they</span> would <span class=\"sn-excerpt\">disappear</span> (cp. <a href=\"?bref=Hos.6.4\">6:4</a>). • <span class=\"sn-excerpt\">Mist . . . dew . . . chaff</span> and <span class=\"sn-excerpt\">smoke</span> signify impermanence.</p>"
+    },
+    {
+      "sequence": 10980,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.4",
+      "citation": {
+        "short": "Hos 13:4",
+        "long": "Hosea 13:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.4-5\">13:4-5</a></span> <span class=\"sn-excerpt\">there is no other savior:</span> The Lord had proved this to Israel during the Exodus and the wilderness wandering.</p>"
+    },
+    {
+      "sequence": 10981,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.6",
+      "citation": {
+        "short": "Hos 13:6",
+        "long": "Hosea 13:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.6\">13:6</a></span> <span class=\"sn-excerpt\">you became proud and forgot me:</span> They relied not on the Lord for security, but on their kings, armies, and economic prosperity (see <a href=\"?bref=Hos.2.13\">2:13</a>).</p>"
+    },
+    {
+      "sequence": 10982,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.7",
+      "citation": {
+        "short": "Hos 13:7",
+        "long": "Hosea 13:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.7-8\">13:7-8</a></span> God had executed judgment on Israel through the Assyrian army, his instrument of punishment. The description of God’s <span class=\"sn-excerpt\">attack</span> speaks of the Assyrians’ cruelty to those they conquered.</p>"
+    },
+    {
+      "sequence": 10983,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.9",
+      "citation": {
+        "short": "Hos 13:9",
+        "long": "Hosea 13:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.9\">13:9</a></span> <span class=\"sn-excerpt\">me, your only helper:</span> See <a href=\"?bref=Ps.70.5\">Pss 70:5</a>; <a href=\"?bref=Ps.115.9\">115:9</a>; <a href=\"?bref=Ps.121.2\">121:2</a>; <a href=\"?bref=Ps.124.8\">124:8</a>. Israel’s sin had turned their helper into their destroyer.</p>"
+    },
+    {
+      "sequence": 10984,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.10",
+      "citation": {
+        "short": "Hos 13:10",
+        "long": "Hosea 13:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.10\">13:10</a></span> <span class=\"sn-excerpt\">where is your king?</span> When Hoshea’s alliance with Egypt failed (see <a href=\"?bref=Hos.12.1\">12:1</a>), he tried to make peace with Assyria, but he was captured and imprisoned (<a href=\"?bref=2Kgs.17.4\">2 Kgs 17:4</a>). The Israelites had relied on their armies and kings to save them rather than on the Lord, and now there was no one to save them.</p>"
+    },
+    {
+      "sequence": 10985,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.11",
+      "citation": {
+        "short": "Hos 13:11",
+        "long": "Hosea 13:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.11\">13:11</a></span> Israel had crowned her kings without consulting the Lord, so now he would take them away in <span class=\"sn-excerpt\">fury</span>.</p>"
+    },
+    {
+      "sequence": 10986,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.12",
+      "citation": {
+        "short": "Hos 13:12",
+        "long": "Hosea 13:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.12\">13:12</a></span> God had carefully <span class=\"sn-excerpt\">stored up</span> the record of Israel’s <span class=\"sn-excerpt\">sin</span> and <span class=\"sn-excerpt\">guilt</span>. He could not escape his <span class=\"sn-excerpt\">punishment</span>.</p>"
+    },
+    {
+      "sequence": 10987,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.13",
+      "citation": {
+        "short": "Hos 13:13",
+        "long": "Hosea 13:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.13\">13:13</a></span> Israel was like a child in the womb <span class=\"sn-excerpt\">who resists being born</span> (literally <span class=\"ital\">an unwise son</span>). Incredibly, Israel would rather <span class=\"sn-excerpt\">stay in the womb</span> than receive life from the Lord.</p>"
+    },
+    {
+      "sequence": 10988,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.14",
+      "citation": {
+        "short": "Hos 13:14",
+        "long": "Hosea 13:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.14\">13:14</a></span> The term here translated <span class=\"sn-excerpt\">the grave</span> (Hebrew <span class=\"ital\">Sheol</span>) refers to the realm of the dead (see <a href=\"?bref=Job.3.11-19\">Job 3:11-19</a>; see also <a href=\"?item=Job.7.9_StudyNote_Filament\">study note on Job 7:9</a>). The Lord is sovereign even over Sheol, and he could <span class=\"sn-excerpt\">redeem</span> Israel if he chose to. But he <span class=\"sn-excerpt\">will not take pity</span> on the Israelites, and he calls upon <span class=\"sn-excerpt\">death</span> to punish them.</p>"
+    },
+    {
+      "sequence": 10989,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.13",
+      "verseOsisID": "Hos.13.16",
+      "citation": {
+        "short": "Hos 13:16",
+        "long": "Hosea 13:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.13.16\">13:16</a></span> In 722 <span class=\"era\">BC</span>, Assyria captured <span class=\"sn-excerpt\">Samaria</span>, the capital of the northern kingdom (<a href=\"?bref=2Kgs.17.5-6\">2 Kgs 17:5-6</a>). Thousands died during the three-year siege, and thousands more were sent into exile. This was <span class=\"sn-excerpt\">because they rebelled against their God</span>. • The horrible practice of killing <span class=\"sn-excerpt\">pregnant women</span> is also mentioned in <a href=\"?bref=Amos.1.13\">Amos 1:13</a> and <a href=\"?bref=2Kgs.15.16\">2 Kgs 15:16</a>.</p>"
+    },
+    {
+      "sequence": 10990,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.1",
+      "citation": {
+        "short": "Hos 14:1",
+        "long": "Hosea 14:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.1-9\">14:1-9</a></span> Destruction was not God’s last word to his covenant people. Although judgment must come, God’s healing, restoring grace is always more powerful than human sin.</p>"
+    },
+    {
+      "sequence": 10991,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.2",
+      "citation": {
+        "short": "Hos 14:2",
+        "long": "Hosea 14:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.2-3\">14:2-3</a></span> Hosea composed a model prayer of confession to help his people return to the Lord. God’s prophets not only identified with God in his outrage over Israel’s rebellion; they also identified with the people in their broken condition (see also <a href=\"?bref=Dan.9.4-19\">Dan 9:4-19</a>). • <span class=\"sn-excerpt\">Forgive all our sins:</span> The Israelites should throw themselves upon God’s mercy and grace, freely acknowledging their many sins. • <span class=\"sn-excerpt\">so that we may offer you our praises:</span> Israel’s inclination was to offer animal sacrifices for sin, but the Lord had made it clear that sacrifices were not the solution (see <a href=\"?bref=Hos.6.6\">Hos 6:6</a>). Israel should offer God genuine repentance.</p>"
+    },
+    {
+      "sequence": 10992,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.3",
+      "citation": {
+        "short": "Hos 14:3",
+        "long": "Hosea 14:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.3\">14:3</a></span> The Israelites must renounce their dependence upon <span class=\"sn-excerpt\">idols</span>, foreign alliances, and their own military strength. Although they were God’s own children (<a href=\"?bref=Hos.11.1\">11:1</a>), they made themselves <span class=\"sn-excerpt\">orphans</span> through their rebellion. When they sincerely and completely repented, they could again <span class=\"sn-excerpt\">find mercy</span>.</p>"
+    },
+    {
+      "sequence": 10993,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.4",
+      "citation": {
+        "short": "Hos 14:4",
+        "long": "Hosea 14:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.4\">14:4</a></span> <span class=\"sn-excerpt\">Then I will heal you:</span> Healing by God is the only solution for the disease of sin. The Lord heals all our diseases, both physical and spiritual (<a href=\"?bref=Ps.103.3\">Ps 103:3</a>).</p>"
+    },
+    {
+      "sequence": 10994,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.5",
+      "citation": {
+        "short": "Hos 14:5",
+        "long": "Hosea 14:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.5-7\">14:5-7</a></span> Hosea describes the effect of God’s healing love on repentant Israel. God promises to provide the fertility that Israel had sought from the baals.</p>"
+    },
+    {
+      "sequence": 10995,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.5",
+      "citation": {
+        "short": "Hos 14:5",
+        "long": "Hosea 14:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.5\">14:5</a></span> <span class=\"sn-excerpt\">like a refreshing dew:</span> In the semi-desert climate of Israel, dew was an important source of life-giving moisture (<a href=\"?bref=Gen.27.28\">Gen 27:28</a>; <a href=\"?bref=Deut.33.28\">Deut 33:28</a>). • <span class=\"sn-excerpt\">it will send roots deep:</span> When Israel lived in faithfulness to their covenant with the Lord, they would be solid and stable like the majestic <span class=\"sn-excerpt\">cedars in Lebanon</span> (<a href=\"?bref=Ps.92.12\">Ps 92:12</a>).</p>"
+    },
+    {
+      "sequence": 10996,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.7",
+      "citation": {
+        "short": "Hos 14:7",
+        "long": "Hosea 14:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.7\">14:7</a></span> <span class=\"sn-excerpt\">under my shade:</span> A place of safety and relief (<a href=\"?bref=Ps.91.1\">Ps 91:1</a>; <a href=\"?bref=Isa.25.4\">Isa 25:4</a>).</p>"
+    },
+    {
+      "sequence": 10997,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.8",
+      "citation": {
+        "short": "Hos 14:8",
+        "long": "Hosea 14:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.8\">14:8</a></span> Hosea exhorts <span class=\"sn-excerpt\">Israel</span> one final time to <span class=\"sn-excerpt\">stay away from idols</span>. Their life comes only from the Lord; he is an evergreen <span class=\"sn-excerpt\">tree</span> that always bears <span class=\"sn-excerpt\">fruit</span>.</p>"
+    },
+    {
+      "sequence": 10998,
+      "bookOsisID": "Hos",
+      "chapterOsisID": "Hos.14",
+      "verseOsisID": "Hos.14.9",
+      "citation": {
+        "short": "Hos 14:9",
+        "long": "Hosea 14:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Hos.14.9\">14:9</a></span> This final verse commends Hosea’s words to <span class=\"sn-excerpt\">wise</span> and discerning believers of all generations.</p>"
+    }
+  ]
+}

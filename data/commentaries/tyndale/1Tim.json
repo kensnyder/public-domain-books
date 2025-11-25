@@ -1,0 +1,980 @@
+{
+  "author": "William Tyndale",
+  "title": "Tyndale Open Study Notes",
+  "copyright": "© 2022 by Tyndale House Publishers",
+  "attribution": "CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0 and http://www.tyndaleopenresources.com",
+  "source": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+  "bookOsisID": "1Tim",
+  "bookName": "1 Timothy",
+  "importedAt": "2025-11-25",
+  "commentary": [
+    {
+      "sequence": 15746,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.1",
+      "citation": {
+        "short": "1Tim 1:1",
+        "long": "1 Timothy 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.1-2\">1:1-2</a></span> This opening has the standard components of a letter: sender, recipient, and greeting. Additions to the basic pattern underscore Paul’s authoritative message (see also <a href=\"?bref=Rom.1.1-7\">Rom 1:1-7</a>; <a href=\"?bref=1Cor.1.1-3\">1 Cor 1:1-3</a>; <a href=\"?bref=Gal.1.1-5\">Gal 1:1-5</a>; <a href=\"?bref=Titus.1.1-4\">Titus 1:1-4</a>).</p>"
+    },
+    {
+      "sequence": 15747,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.1",
+      "citation": {
+        "short": "1Tim 1:1",
+        "long": "1 Timothy 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.1\">1:1</a></span> <span class=\"sn-excerpt\">Our Savior</span><span class=\"ital\">,</span> here used of God, applies equally to <span class=\"sn-excerpt\">Christ Jesus</span> (<a href=\"?bref=1Tim.1.15\">1:15</a>; <a href=\"?bref=1Tim.2.3-4\">2:3-4</a>; see <a href=\"?bref=2Tim.1.9-10\">2 Tim 1:9-10</a>; <a href=\"?bref=Titus.1.3-4\">Titus 1:3-4</a>; <a href=\"?bref=Titus.2.10\">2:10</a>, <a href=\"?bref=Titus.2.13\">13</a>). • <span class=\"sn-excerpt\">Hope</span> is based on God in contrast to other objects such as wealth (<a href=\"?bref=1Tim.4.10\">1 Tim 4:10</a>; <a href=\"?bref=1Tim.5.5\">5:5</a>; <a href=\"?bref=1Tim.6.17\">6:17</a>).</p>"
+    },
+    {
+      "sequence": 15748,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.2",
+      "citation": {
+        "short": "1Tim 1:2",
+        "long": "1 Timothy 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.2\">1:2</a></span> <span class=\"sn-excerpt\">Timothy</span> was currently in Ephesus as Paul’s delegate (see <a href=\"?item=ITim_BookIntro_Filament\">1 Timothy Book Introduction</a>, “Setting”). • Timothy was Paul’s <span class=\"sn-excerpt\">true son in the faith</span> (see <a href=\"?bref=Phil.2.20\">Phil 2:20</a>; cp. <a href=\"?bref=Titus.1.4\">Titus 1:4</a>), but probably not Paul’s direct convert (see <a href=\"?bref=Acts.16.1\">Acts 16:1</a>).</p>"
+    },
+    {
+      "sequence": 15749,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.3",
+      "citation": {
+        "short": "1Tim 1:3",
+        "long": "1 Timothy 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.3-11\">1:3-11</a></span> Paul’s greetings are usually followed by thanksgiving or blessing to God; Greco-Roman letters often did the same. First Timothy and Titus probably do not include this because of their character as official letters authorizing a delegate (see <a href=\"?item=ITim_BookIntro_Filament\">1 Timothy Book Introduction</a>, “Literary Genre”). Instead, Paul first addresses his concern to silence the false teachers.</p>"
+    },
+    {
+      "sequence": 15750,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.3",
+      "citation": {
+        "short": "1Tim 1:3",
+        "long": "1 Timothy 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.3\">1:3</a></span> <span class=\"sn-excerpt\">stop those . . . contrary to the truth:</span> Just as Paul had previously warned (<a href=\"?bref=Acts.20.29-31\">Acts 20:29-31</a>), false teachers came into the church <span class=\"sn-excerpt\">in Ephesus</span><span class=\"ital\">;</span> this letter was written to help Timothy to deal with them.</p>"
+    },
+    {
+      "sequence": 15751,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.4",
+      "citation": {
+        "short": "1Tim 1:4",
+        "long": "1 Timothy 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.4\">1:4</a></span> <span class=\"sn-excerpt\">in endless discussion . . . meaningless speculations:</span> Paul might be dismissing their teaching as trivial, or he might be rejecting the fanciful nature of their interpretations (<a href=\"?bref=1Tim.1.7\">1:7</a>; see also <a href=\"?bref=2Tim.4.3-4\">2 Tim 4:3-4</a>; <a href=\"?bref=Titus.1.14\">Titus 1:14</a>; <a href=\"?bref=Titus.3.9\">3:9</a>; <a href=\"?bref=2Pet.1.16\">2 Pet 1:16</a>) and their justification of immoral behavior (<a href=\"?bref=1Tim.1.8-11\">1 Tim 1:8-11</a>; <a href=\"?bref=1Tim.4.1-2\">4:1-2</a>, <a href=\"?bref=1Tim.4.7\">7</a>; see also <a href=\"?bref=Titus.1.15-16\">Titus 1:15-16</a>). • <span class=\"sn-excerpt\">spiritual pedigrees</span> (literally <span class=\"ital\">endless genealogies</span>): In Judaism, one’s genealogy established one’s spiritual pedigree; the false teachers might have been preoccupied with this. They were probably also exploiting Old Testament genealogies (<a href=\"?bref=Gen.2.1-4.26\">Gen 2–4</a>; <a href=\"?bref=Gen.5.1-32\">5:1-32</a>) in fanciful interpretations of the law. • <span class=\"sn-excerpt\">which don’t help people live a life of faith in God</span> (literally <span class=\"ital\">rather than a stewardship of God in faith</span>): The Greek uses an important word (“stewardship,” “household management”) that has to do with the household (see <a href=\"?bref=1Tim.3.15\">1 Tim 3:15</a>); this phrase can be translated in a number of ways, such as faithfulness to God’s household management or faithfulness in managing God’s household.</p>"
+    },
+    {
+      "sequence": 15752,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.5",
+      "citation": {
+        "short": "1Tim 1:5",
+        "long": "1 Timothy 1:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.5\">1:5</a></span> <span class=\"sn-excerpt\">The purpose of my instruction:</span> Paul seeks godliness that flows out of sound faith and renewal (see <a href=\"?bref=Titus.3.5\">Titus 3:5</a>; see also <a href=\"?bref=1Cor.13.1-13\">1 Cor 13:1-13</a>; <a href=\"?bref=Col.3.14\">Col 3:14</a>). • In 1 Timothy and Titus, all allusions to a <span class=\"sn-excerpt\">clear conscience</span> are in contrast to the false teachers’ dead consciences (e.g., <a href=\"?bref=1Tim.1.19\">1 Tim 1:19</a>; <a href=\"?bref=1Tim.4.2\">4:2</a>; <a href=\"?bref=Titus.1.15\">Titus 1:15</a>).</p>"
+    },
+    {
+      "sequence": 15753,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.6",
+      "citation": {
+        "short": "1Tim 1:6",
+        "long": "1 Timothy 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.6-11\">1:6-11</a></span> Paul now elaborates on the false teachers and turns their subject matter against them.</p>"
+    },
+    {
+      "sequence": 15754,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.6",
+      "citation": {
+        "short": "1Tim 1:6",
+        "long": "1 Timothy 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.6\">1:6</a></span> <span class=\"sn-excerpt\">Some people</span> is probably a put-down, demoting the false teachers to a general class of opponents of the Good News (cp. <a href=\"?bref=Rom.3.8\">Rom 3:8</a>; <a href=\"?bref=1Cor.4.18\">1 Cor 4:18</a>; <a href=\"?bref=2Cor.3.1\">2 Cor 3:1</a>; <a href=\"?bref=Gal.1.7\">Gal 1:7</a>). • They were professing believers who had <span class=\"sn-excerpt\">missed</span> the <span class=\"sn-excerpt\">whole point</span> of the Good News and had <span class=\"sn-excerpt\">turned away</span>.</p>"
+    },
+    {
+      "sequence": 15755,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.7",
+      "citation": {
+        "short": "1Tim 1:7",
+        "long": "1 Timothy 1:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.7\">1:7</a></span> Their aspirations to be <span class=\"sn-excerpt\">teachers of the law of Moses</span> were ironic; their handling of the law was deficient in the light of the Good News, and they neither understood nor fulfilled the law (see <a href=\"?bref=1Tim.1.8-11\">1:8-11</a>).</p>"
+    },
+    {
+      "sequence": 15756,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.9",
+      "citation": {
+        "short": "1Tim 1:9",
+        "long": "1 Timothy 1:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.9\">1:9</a></span> <span class=\"sn-excerpt\">the law was not intended for people who do what is right:</span> As a general principle, the virtuous person needs no law. For Christians, a righteous life results from faith apart from the law (see <a href=\"?bref=Gal.5.16-26\">Gal 5:16-26</a>; <a href=\"?bref=Eph.2.11-14\">Eph 2:11-14</a>; <a href=\"?bref=Titus.2.11-14\">Titus 2:11-14</a>; cp. <a href=\"?bref=Rom.8.1-17\">Rom 8:1-17</a>; <a href=\"?bref=Jas.2.14-16\">Jas 2:14-16</a>).</p>"
+    },
+    {
+      "sequence": 15757,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.10",
+      "citation": {
+        "short": "1Tim 1:10",
+        "long": "1 Timothy 1:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.10\">1:10</a></span> This list portrays the ultimate tendencies of the false teachers’ teachings, their underlying spiritual state, and the superior righteousness of the Good News (see <a href=\"?bref=Matt.5.20\">Matt 5:20</a>; <a href=\"?bref=Gal.5.22-23\">Gal 5:22-23</a>). • <span class=\"sn-excerpt\">that contradicts the wholesome</span> (or <span class=\"ital\">sound, healthy</span>) <span class=\"sn-excerpt\">teaching:</span> See also <a href=\"?bref=1Tim.6.3-4\">1 Tim 6:3-4</a>; <a href=\"?bref=2Tim.1.13\">2 Tim 1:13</a>; <a href=\"?bref=2Tim.4.3\">4:3</a>; <a href=\"?bref=Titus.1.9\">Titus 1:9</a>, <a href=\"?bref=Titus.1.13\">13</a>; <a href=\"?bref=Titus.2.1\">2:1</a>, <a href=\"?bref=Titus.2.8\">8</a>. This addition to the list is both a closing generalization and a powerful assertion. Righteousness is now defined more perfectly by the Good News than by the law, but law still speaks to all that is opposed to the Good News. The false teachers’ reliance on the law, therefore, underscores their departure from Paul’s teaching.</p>"
+    },
+    {
+      "sequence": 15758,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.11",
+      "citation": {
+        "short": "1Tim 1:11",
+        "long": "1 Timothy 1:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.11\">1:11</a></span> <a href=\"?bref=Titus.2.11-14\">Titus 2:11-14</a> gives a fuller version of Paul’s idea here.</p>"
+    },
+    {
+      "sequence": 15759,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.12",
+      "citation": {
+        "short": "1Tim 1:12",
+        "long": "1 Timothy 1:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.12-17\">1:12-17</a></span> This expression of gratitude is a parenthesis from Paul’s charge to Timothy (<a href=\"?bref=1Tim.1.3-11\">1:3-11</a>, <a href=\"?bref=1Tim.1.18-20\">18-20</a>). Triggered by the mention of Paul’s role (<a href=\"?bref=1Tim.1.11\">1:11</a>), it gives perspective on the source of Paul’s thankfulness and provides a model for its readers. When talking about his own work, Paul directs glory to God and makes it plain that he is doing God’s work (see also <a href=\"?bref=2Cor.1.21-22\">2 Cor 1:21-22</a>; <a href=\"?bref=2Cor.2.14-17\">2:14-17</a>; <a href=\"?bref=2Cor.3.4-6\">3:4-6</a>; <a href=\"?bref=2Cor.4.7\">4:7</a>; <a href=\"?bref=2Cor.12.9-10\">12:9-10</a>).</p>"
+    },
+    {
+      "sequence": 15760,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.15",
+      "citation": {
+        "short": "1Tim 1:15",
+        "long": "1 Timothy 1:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.15\">1:15</a></span> <span class=\"sn-excerpt\">This is a trustworthy saying:</span> This expression occurs only in the letters to Timothy and Titus (<a href=\"?bref=1Tim.3.1\">1 Tim 3:1</a>; <a href=\"?bref=1Tim.4.8-9\">4:8-9</a>; <a href=\"?bref=2Tim.2.11-13\">2 Tim 2:11-13</a>; <a href=\"?bref=Titus.3.4-8\">Titus 3:4-8</a>). These sayings are probably quotations from tradition that Paul has adapted to the current situation; here, in addition to the way the saying underscores the mercy shown to Paul, it probably corrects the false teachers. The emphasis of this saying falls on Christ’s entrance into history for the salvation of sinners, which was probably being marginalized by the false teachers, who emphasized law (<a href=\"?bref=1Tim.1.7\">1 Tim 1:7</a>), special knowledge (<a href=\"?bref=1Tim.6.20\">6:20</a>; cp. <a href=\"?bref=Titus.1.16\">Titus 1:16</a>), and stipulations such as those in <a href=\"?bref=1Tim.4.3\">1 Tim 4:3</a> (cp. <a href=\"?bref=Col.2.16-23\">Col 2:16-23</a>).</p>"
+    },
+    {
+      "sequence": 15761,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.18",
+      "citation": {
+        "short": "1Tim 1:18",
+        "long": "1 Timothy 1:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.18-20\">1:18-20</a></span> Paul continues his charge to Timothy (<a href=\"?bref=1Tim.1.3-11\">1:3-11</a>), who is to draw upon available resources, remain faithful, and consider two bad examples. The church (also part of the audience; see <a href=\"?item=ITim_BookIntro_Filament\">1 Timothy Book Introduction</a>, “Literary Genre”) should expect Paul’s delegate to do these things.</p>"
+    },
+    {
+      "sequence": 15762,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.18",
+      "citation": {
+        "short": "1Tim 1:18",
+        "long": "1 Timothy 1:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.18\">1:18</a></span> <span class=\"sn-excerpt\">the prophetic words spoken about you earlier:</span> This was probably at Timothy’s commissioning (see <a href=\"?bref=1Tim.4.14\">4:14</a>; <a href=\"?bref=2Tim.1.6\">2 Tim 1:6</a>; cp. <a href=\"?bref=Acts.13.2-3\">Acts 13:2-3</a>).</p>"
+    },
+    {
+      "sequence": 15763,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.19",
+      "citation": {
+        "short": "1Tim 1:19",
+        "long": "1 Timothy 1:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.19\">1:19</a></span> See also <a href=\"?bref=1Tim.1.5-6\">1:5-6</a>; <a href=\"?bref=1Tim.6.20-21\">6:20-21</a>; <a href=\"?bref=2Tim.2.15-18\">2 Tim 2:15-18</a>. <span class=\"sn-excerpt\">Conscience</span> is viewed as a kind of gyroscope; keeping your conscience <span class=\"sn-excerpt\">clear</span> (or <span class=\"ital\">good</span>) means ensuring that it is not destroyed (see <a href=\"?item=ITim.4.2_StudyNote_Filament\">study note on 1 Tim 4:2</a>).</p>"
+    },
+    {
+      "sequence": 15764,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.1",
+      "verseOsisID": "1Tim.1.20",
+      "citation": {
+        "short": "1Tim 1:20",
+        "long": "1 Timothy 1:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.1.20\">1:20</a></span> <span class=\"sn-excerpt\">Hymenaeus and Alexander</span> might have been elders in Ephesus (see also <a href=\"?bref=2Tim.2.17\">2 Tim 2:17</a>; <a href=\"?bref=2Tim.4.14\">4:14</a>; cp. <a href=\"?bref=Acts.19.33\">Acts 19:33</a>; <a href=\"?bref=Acts.20.29-31\">20:29-31</a>). • Paul <span class=\"sn-excerpt\">handed them over to Satan</span> by removing them from the church, the realm of the Spirit’s oversight (see also <a href=\"?bref=2Tim.2.25-26\">2 Tim 2:25-26</a>; <a href=\"?bref=Job.2.6\">Job 2:6</a>; <a href=\"?bref=Matt.18.17-20\">Matt 18:17-20</a>; <a href=\"?bref=1Cor.5.2-5\">1 Cor 5:2-5</a>; <a href=\"?bref=2Cor.2.5-11\">2 Cor 2:5-11</a>). • <span class=\"sn-excerpt\">blaspheme God:</span> They attacked and defamed the true Good News, and thus God himself (see <a href=\"?bref=1Tim.1.13\">1 Tim 1:13</a>; cp. <a href=\"?bref=1Tim.6.1\">6:1</a>; <a href=\"?bref=Titus.2.5\">Titus 2:5</a>; <a href=\"?bref=2Pet.2.2\">2 Pet 2:2</a>).</p>"
+    },
+    {
+      "sequence": 15765,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.1",
+      "citation": {
+        "short": "1Tim 2:1",
+        "long": "1 Timothy 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.1-3.13\">2:1–3:13</a></span> Paul moves to the areas of conduct in God’s household that were affected by the false teachers (<a href=\"?bref=1Tim.3.15\">3:15</a>). Community life had been corrupted in worship and gender roles (<a href=\"?bref=1Tim.2.1-15\">2:1-15</a>) and leadership (<a href=\"?bref=1Tim.3.1-13\">3:1-13</a>).</p>"
+    },
+    {
+      "sequence": 15766,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.1",
+      "citation": {
+        "short": "1Tim 2:1",
+        "long": "1 Timothy 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.1-15\">2:1-15</a></span> This unit deals first with prayer (<a href=\"?bref=1Tim.2.1-7\">2:1-7</a>) and with the deportment of men and women (<a href=\"?bref=1Tim.2.8-10\">2:8-10</a>). It closes with the question of women and teaching (<a href=\"?bref=1Tim.2.11-15\">2:11-15</a>).</p>"
+    },
+    {
+      "sequence": 15767,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.1",
+      "citation": {
+        "short": "1Tim 2:1",
+        "long": "1 Timothy 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.1-7\">2:1-7</a></span> Here, prayer focuses on the church’s mission, which suggests that the false teachers had brought the church into disrepute in the wider society (cp. <a href=\"?bref=1Tim.3.6-7\">3:6-7</a>; <a href=\"?bref=1Tim.6.1\">6:1</a>; <a href=\"?bref=Titus.2.5\">Titus 2:5</a>) and hampered its mission to the <span class=\"sn-excerpt\">Gentiles</span>.</p>"
+    },
+    {
+      "sequence": 15768,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.1",
+      "citation": {
+        "short": "1Tim 2:1",
+        "long": "1 Timothy 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.1\">2:1</a></span> <span class=\"sn-excerpt\">all people:</span> The prayers of the false teachers and their disciples were evidently not consonant with God’s will to save all kinds of people (<a href=\"?bref=1Tim.2.3-4\">2:3-4</a>).</p>"
+    },
+    {
+      "sequence": 15769,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.2",
+      "citation": {
+        "short": "1Tim 2:2",
+        "long": "1 Timothy 2:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.2\">2:2</a></span> <span class=\"sn-excerpt\">all who are in authority:</span> Those who had the power to persecute or to protect the church (see also <a href=\"?bref=Rom.13.1-7\">Rom 13:1-7</a>; <a href=\"?bref=1Pet.2.13-17\">1 Pet 2:13-17</a>). • <span class=\"sn-excerpt\">live peaceful and quiet lives:</span> The point was not for Christians to blend in and be unnoticed, but to display the beauty of the Good News and allow the church’s mission to proceed without unnecessary complications (cp. <a href=\"?bref=2Tim.3.12\">2 Tim 3:12</a>; <a href=\"?bref=1Pet.3.13-17\">1 Pet 3:13-17</a>). • The word <span class=\"sn-excerpt\">godliness</span> and its cognates (also at <a href=\"?bref=1Tim.3.16\">1 Tim 3:16</a>; <a href=\"?bref=1Tim.4.7-8\">4:7-8</a>; <a href=\"?bref=1Tim.5.4\">5:4</a>; <a href=\"?bref=1Tim.6.3\">6:3</a>, <a href=\"?bref=1Tim.6.5-6\">5-6</a>, <a href=\"?bref=1Tim.6.11\">11</a>) sum up the beliefs, attitudes, and lifestyles that accord with right and reverential knowledge of God, obedience, and authentic worship.</p>"
+    },
+    {
+      "sequence": 15770,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.5",
+      "citation": {
+        "short": "1Tim 2:5",
+        "long": "1 Timothy 2:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.5-6\">2:5-6</a></span> Compact teachings, as in this passage, occur throughout the letters to Timothy and Titus (see also <a href=\"?bref=1Tim.3.16\">1 Tim 3:16</a>; <a href=\"?bref=2Tim.1.9-10\">2 Tim 1:9-10</a>; <a href=\"?bref=2Tim.2.8\">2:8</a>, <a href=\"?bref=2Tim.2.11-13\">11-13</a>; <a href=\"?bref=Titus.3.4-7\">Titus 3:4-7</a>). They might be adapted bits of creeds, hymns, or prayers that were known to the churches. The doctrines referenced probably relate to Paul’s trouble with the false teachers; it appears that their teaching undercut the universal appeal of the Good News and the effectiveness of the Gentile mission. The false teachers also had a deficient understanding of Jesus and his salvation.</p>"
+    },
+    {
+      "sequence": 15771,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.5",
+      "citation": {
+        "short": "1Tim 2:5",
+        "long": "1 Timothy 2:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.5\">2:5</a></span> There is <span class=\"sn-excerpt\">one God</span> and therefore one mission encompassing all people (<a href=\"?bref=Rom.3.29-30\">Rom 3:29-30</a>; <a href=\"?bref=Gal.3.26-29\">Gal 3:26-29</a>). Using the phrase <span class=\"ital\">one God</span> suggests a fundamental declaration of Christian faith, analogous to the basics of Jewish faith (<a href=\"?bref=Deut.6.4\">Deut 6:4</a>). • There is <span class=\"sn-excerpt\">one Mediator</span> of God’s covenant, <span class=\"sn-excerpt\">the man Christ Jesus</span>. He is fully human and fully God, and thus able to reconcile <span class=\"sn-excerpt\">God and humanity</span> (see <a href=\"?bref=1Cor.8.6\">1 Cor 8:6</a>; <a href=\"?bref=Eph.4.5-6\">Eph 4:5-6</a>).</p>"
+    },
+    {
+      "sequence": 15772,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.8",
+      "citation": {
+        "short": "1Tim 2:8",
+        "long": "1 Timothy 2:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.8\">2:8</a></span> Genuine prayer had evidently deteriorated among the Ephesians due to the false teachers’ influence (see <a href=\"?bref=1Tim.6.4-5\">1 Tim 6:4-5</a>; <a href=\"?bref=1Tim.1.4\">1:4</a>; cp. <a href=\"?bref=2Tim.3.1-5\">2 Tim 3:1-5</a>; <a href=\"?bref=Titus.3.9-11\">Titus 3:9-11</a>). • <span class=\"sn-excerpt\">holy hands lifted up:</span> Cp. <a href=\"?bref=Isa.1.15-17\">Isa 1:15-17</a>. An ancient posture of praise and supplication (see <a href=\"?bref=Exod.9.29\">Exod 9:29</a>; <a href=\"?bref=1Kgs.8.22\">1 Kgs 8:22</a>, <a href=\"?bref=1Kgs.8.54\">54</a>; <a href=\"?bref=Neh.8.6\">Neh 8:6</a>; <a href=\"?bref=Ps.28.2\">Ps 28:2</a>; <a href=\"?bref=Luke.24.50\">Luke 24:50</a>). • <span class=\"sn-excerpt\">free from anger and controversy:</span> Cp. <a href=\"?bref=Jas.3.8-12\">Jas 3:8-12</a>.</p>"
+    },
+    {
+      "sequence": 15773,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.9",
+      "citation": {
+        "short": "1Tim 2:9",
+        "long": "1 Timothy 2:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.9-10\">2:9-10</a></span> The subject is still community prayer. • <span class=\"sn-excerpt\">to be modest in their appearance:</span> Christian women must praise God rather than seek to be praised by people (cp. <a href=\"?bref=1Pet.3.3-5\">1 Pet 3:3-5</a>). They are to do good deeds for others, not focus on enhancing their appearance or being sexually seductive. Jewelry and <span class=\"sn-excerpt\">expensive clothes</span> imply wealth (see <a href=\"?bref=1Tim.6.5-10\">1 Tim 6:5-10</a>, <a href=\"?bref=1Tim.6.17-19\">17-19</a>), which might have played into the power struggles Timothy had to combat (<a href=\"?bref=1Tim.2.11-15\">2:11-15</a>).</p>"
+    },
+    {
+      "sequence": 15774,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.11",
+      "citation": {
+        "short": "1Tim 2:11",
+        "long": "1 Timothy 2:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.11-15\">2:11-15</a></span> Paul is still talking about women in the assembly—here, in their relationship to public teaching (cp. <a href=\"?bref=1Cor.11.2-16\">1 Cor 11:2-16</a>; <a href=\"?bref=1Cor.14.33-36\">14:33-36</a>; <a href=\"?bref=2Cor.11.3\">2 Cor 11:3</a>).</p>"
+    },
+    {
+      "sequence": 15775,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.12",
+      "citation": {
+        "short": "1Tim 2:12",
+        "long": "1 Timothy 2:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.12\">2:12</a></span> <span class=\"sn-excerpt\">teach men or have authority over them:</span> The relationship between teaching and authority depends on how both are understood. Women did teach (<a href=\"?bref=Titus.2.3-5\">Titus 2:3-5</a>), but there are no clear New Testament examples or endorsements of women teaching men in church meetings (cp. <a href=\"?bref=Acts.18.26\">Acts 18:26</a>; <a href=\"?bref=1Cor.14.34-35\">1 Cor 14:34-35</a>; <a href=\"?bref=Phil.4.3\">Phil 4:3</a>). We know it was happening in some of the churches only by way of Paul’s opposing responses. Women did prophesy (<a href=\"?bref=Acts.2.17-18\">Acts 2:17-18</a>; <a href=\"?bref=Acts.21.9\">21:9</a>; <a href=\"?bref=1Cor.11.5\">1 Cor 11:5</a>), but some types of prophecy might not have been seen as authoritative teaching (<a href=\"?bref=Acts.11.28\">Acts 11:28</a>; <a href=\"?bref=Acts.21.10-11\">21:10-11</a>; <a href=\"?bref=1Cor.14.29\">1 Cor 14:29</a>). • <span class=\"sn-excerpt\">have authority over them</span> (or <span class=\"ital\">usurp their authority</span>): This verb can denote either a domineering attitude or simply the exercise of authority.</p>"
+    },
+    {
+      "sequence": 15776,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.13",
+      "citation": {
+        "short": "1Tim 2:13",
+        "long": "1 Timothy 2:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.13\">2:13</a></span> The most common understanding of this verse is that Paul believes social roles are attached to the man being created <span class=\"sn-excerpt\">first</span> (<a href=\"?bref=Gen.2.7\">Gen 2:7</a>, <a href=\"?bref=Gen.2.22\">22</a>; <a href=\"?bref=1Cor.11.8-12\">1 Cor 11:8-12</a>). Paul’s logic has usually been tied to the leading role of the firstborn son in the Old Testament. However, there are exceptions to the rule of firstborn even in Scripture (see <a href=\"?bref=Gen.27.1-28.22\">Gen 27–28</a>). And while gender retains its distinctions in the New Testament, there is also an element of equality in Christ (<a href=\"?bref=Gal.3.28\">Gal 3:28</a>; see also <a href=\"?bref=1Cor.11.11-12\">1 Cor 11:11-12</a>; <a href=\"?bref=1Cor.12.13\">12:13</a>; <a href=\"?bref=Eph.5.21\">Eph 5:21</a>; <a href=\"?bref=Col.3.11\">Col 3:11</a>). • It is also possible that the heretics asserted a reversal of gender status in Christ relative to the surrounding culture, giving what would have been viewed as objectionable dominance to women. Paul’s allusion would then function to discredit this assertion and reestablish balance.</p>"
+    },
+    {
+      "sequence": 15777,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.2",
+      "verseOsisID": "1Tim.2.15",
+      "citation": {
+        "short": "1Tim 2:15",
+        "long": "1 Timothy 2:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.2.15\">2:15</a></span> <span class=\"sn-excerpt\">will be saved through childbearing</span> (or <span class=\"ital\">will be saved by accepting their role as mothers,</span> or <span class=\"ital\">will be saved by the birth of the Child</span>): The most likely explanation for this statement is that the false teachers had stirred up trouble in households (see <a href=\"?item=ITim_BookIntro_Filament\">1 Timothy Book Introduction</a>, “Setting”), and Paul was calling these women back to proper relations within their homes, in keeping with the truth of the Good News (see <a href=\"?bref=1Tim.1.4-5\">1:4-5</a>; <a href=\"?bref=1Tim.4.1-5\">4:1-5</a>). In so doing they would <span class=\"ital\">be saved</span> in the ultimate sense (see <a href=\"?bref=1Tim.4.16\">4:16</a>; cp. <a href=\"?bref=1Tim.3.13\">3:13</a>). This verse might allude to <a href=\"?bref=Gen.3.15-16\">Gen 3:15-16</a>, suggesting a reversal of the curse, either through normal childbirth or the birth of the Messiah.</p>"
+    },
+    {
+      "sequence": 15778,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.1",
+      "citation": {
+        "short": "1Tim 3:1",
+        "long": "1 Timothy 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.1-13\">3:1-13</a></span> The topic shifts to church leadership by elders (<a href=\"?bref=1Tim.3.1-7\">3:1-7</a>) and deacons (<a href=\"?bref=1Tim.3.8-13\">3:8-13</a>). Timothy’s role in the appointments is less clear than that of Titus (see <a href=\"?bref=1Tim.5.17-22\">5:17-22</a>; <a href=\"?bref=Titus.1.5\">Titus 1:5</a>), possibly because the church in Ephesus was more mature and thus better able to manage the process (cp. <a href=\"?bref=Acts.6.2-6\">Acts 6:2-6</a>). The criteria listed here pertain to character rather than function and are partly a response to the local heretics. Reading this letter in the churches would make the criteria public and demonstrate the unfitness of the heretics for leadership.</p>"
+    },
+    {
+      "sequence": 15779,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.1",
+      "citation": {
+        "short": "1Tim 3:1",
+        "long": "1 Timothy 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.1\">3:1</a></span> <span class=\"sn-excerpt\">trustworthy saying:</span> See <a href=\"?item=ITim.1.15_StudyNote_Filament\">study note on 1:15</a>. • <span class=\"sn-excerpt\">a church leader:</span> The translation assumes that “overseer” and “church leader” (see <a href=\"?item=ITim.5.17-18_StudyNote_Filament\">study note on 5:17-18</a>) are the same office (see <a href=\"?bref=Titus.1.5-7\">Titus 1:5-7</a>). In the Greco-Roman world, an overseer was a religious, civic, or military supervisor.</p>"
+    },
+    {
+      "sequence": 15780,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.2",
+      "citation": {
+        "short": "1Tim 3:2",
+        "long": "1 Timothy 3:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.2\">3:2</a></span> <span class=\"sn-excerpt\">whose life is above reproach:</span> This is the most general prerequisite for a community leader and public representative (see <a href=\"?bref=1Tim.3.7\">3:7</a>, <a href=\"?bref=1Tim.3.10\">10</a>; <a href=\"?bref=1Tim.5.7\">5:7</a>; <a href=\"?bref=1Tim.6.14\">6:14</a>; <a href=\"?bref=Titus.1.6-7\">Titus 1:6-7</a>; <a href=\"?bref=Titus.2.8\">2:8</a>). • <span class=\"sn-excerpt\">must be faithful to his wife</span> (or <span class=\"ital\">must have only one wife,</span> or <span class=\"ital\">must be married only once;</span> literally <span class=\"ital\">must be the husband of one wife;</span> also in <a href=\"?bref=1Tim.3.12\">1 Tim 3:12</a>): This assumes but does not require a married male. It mainly addresses purity and faithfulness in the marriage relationship, something that could not be taken for granted in the surrounding culture; it probably does not prohibit remarriage after the death of a spouse (see <a href=\"?bref=1Tim.5.9\">5:9</a>), nor does it address the issue of polygamy. See also <a href=\"?bref=1Tim.3.12\">3:12</a>; <a href=\"?bref=Titus.1.6\">Titus 1:6</a>; cp. <a href=\"?bref=1Tim.5.9\">1 Tim 5:9</a>. • <span class=\"sn-excerpt\">enjoy having guests in his home</span> (literally <span class=\"ital\">be hospitable</span>): Hospitality was an important duty and a respected virtue in the ancient world. Any traveling Christian would seek out and probably stay with fellow believers (see <a href=\"?bref=2Jn.1.10-11\">2 Jn 1:10-11</a>; <a href=\"?bref=3Jn.1.1\">3 John</a>). In addition, first-century churches often met in private homes (see <a href=\"?bref=Col.4.15\">Col 4:15</a>; <a href=\"?bref=Phlm.1.2\">Phlm 1:2</a>).</p>"
+    },
+    {
+      "sequence": 15781,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.4",
+      "citation": {
+        "short": "1Tim 3:4",
+        "long": "1 Timothy 3:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.4-5\">3:4-5</a></span> The church as a household (<a href=\"?bref=1Tim.3.15\">3:15</a>) overlapped with the family <span class=\"sn-excerpt\">household</span>. An overseer’s capacity to <span class=\"sn-excerpt\">manage</span> in one sphere reflected his capability in the other (see also <a href=\"?bref=1Tim.3.12\">3:12</a>; <a href=\"?bref=1Tim.5.17\">5:17</a>; <a href=\"?bref=Rom.12.8\">Rom 12:8</a>; <a href=\"?bref=1Thes.5.12\">1 Thes 5:12</a>). • The Greco-Roman household was united by familial bonds characterized by mutual responsibilities, roles, and stewardship. The household included the blood relatives living together along with other dependents, such as household servants.</p>"
+    },
+    {
+      "sequence": 15782,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.7",
+      "citation": {
+        "short": "1Tim 3:7",
+        "long": "1 Timothy 3:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.7\">3:7</a></span> Paul expected Christians to live in a way that could be respected by <span class=\"sn-excerpt\">people outside the church</span> (see also <a href=\"?bref=1Tim.6.1\">6:1</a>; <a href=\"?bref=Titus.2.5-10\">Titus 2:5-10</a>). • The <span class=\"sn-excerpt\">trap</span> might pertain to the false teachers (see <a href=\"?bref=1Tim.1.20\">1 Tim 1:20</a>; <a href=\"?bref=1Tim.5.14-15\">5:14-15</a>; <a href=\"?bref=1Tim.6.9\">6:9</a>; <a href=\"?bref=2Tim.2.26\">2 Tim 2:26</a>).</p>"
+    },
+    {
+      "sequence": 15783,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.8",
+      "citation": {
+        "short": "1Tim 3:8",
+        "long": "1 Timothy 3:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.8-13\">3:8-13</a></span> The Greek word translated <span class=\"sn-excerpt\">deacon</span> (“servant, assistant, courier, agent”) and its cognates (“service, to serve”) are commonly used for service of any kind (e.g., <a href=\"?bref=1Tim.4.6\">4:6</a>; <a href=\"?bref=Matt.22.13\">Matt 22:13</a>; <a href=\"?bref=John.2.5\">John 2:5</a>; <a href=\"?bref=John.12.26\">12:26</a>; <a href=\"?bref=Rom.13.4\">Rom 13:4</a>; <a href=\"?bref=1Cor.3.5\">1 Cor 3:5</a>). As designating an office in the church, it occurs only in <a href=\"?bref=1Tim.3.8-13\">1 Tim 3:8-13</a>; <a href=\"?bref=Phil.1.1\">Phil 1:1</a>; and (maybe) <a href=\"?bref=Rom.16.1\">Rom 16:1</a>. This passage concentrates on character rather than activities. See also <a href=\"?item=Acts.6.2-6_StudyNote_Filament\">study note on Acts 6:2-6</a>.</p>"
+    },
+    {
+      "sequence": 15784,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.8",
+      "citation": {
+        "short": "1Tim 3:8",
+        "long": "1 Timothy 3:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.8\">3:8</a></span> <span class=\"sn-excerpt\">must not be . . . dishonest with money</span> (<a href=\"?bref=1Tim.3.3\">3:3</a>): Greed is disreputable and improper (<a href=\"?bref=1Tim.6.6-10\">6:6-10</a>, <a href=\"?bref=1Tim.6.17-19\">17-19</a>; <a href=\"?bref=Eph.5.3\">Eph 5:3</a>; <a href=\"?bref=Col.3.5\">Col 3:5</a>), especially for those who lead in the church (<a href=\"?bref=1Tim.3.9\">1 Tim 3:9</a>; see <a href=\"?bref=Titus.1.7\">Titus 1:7</a>).</p>"
+    },
+    {
+      "sequence": 15785,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.11",
+      "citation": {
+        "short": "1Tim 3:11",
+        "long": "1 Timothy 3:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.11\">3:11</a></span> <span class=\"sn-excerpt\">their wives</span> (or <span class=\"ital\">the women deacons</span>): The Greek word can be translated <span class=\"ital\">women</span> or <span class=\"ital\">wives.</span> In favor of <span class=\"ital\">their wives,</span> <a href=\"?bref=1Tim.3.8-13\">3:8-13</a> is a discussion of male deacons; switching to “women deacons” would disrupt the flow of thought. However, there might have been women deacons in the early church (see <a href=\"?bref=Rom.16.1\">Rom 16:1</a>). In that case, this verse might parallel <a href=\"?bref=1Tim.3.8\">1 Tim 3:8</a>.</p>"
+    },
+    {
+      "sequence": 15786,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.14",
+      "citation": {
+        "short": "1Tim 3:14",
+        "long": "1 Timothy 3:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.14-4.16\">3:14–4:16</a></span> This section addresses how Timothy should occupy himself until Paul arrives (<a href=\"?bref=1Tim.3.14-15\">3:14-15</a>; <a href=\"?bref=1Tim.4.13\">4:13</a>).</p>"
+    },
+    {
+      "sequence": 15787,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.15",
+      "citation": {
+        "short": "1Tim 3:15",
+        "long": "1 Timothy 3:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.15\">3:15</a></span> <span class=\"sn-excerpt\">household of God:</span> The earliest churches were house churches (<a href=\"?bref=Rom.16.5\">Rom 16:5</a>; <a href=\"?bref=1Cor.16.19\">1 Cor 16:19</a>; <a href=\"?bref=Col.4.15\">Col 4:15</a>; <a href=\"?bref=Phlm.1.2\">Phlm 1:2</a>) that reflected the codes of conduct of Greco-Roman households (see <a href=\"?item=ITim.3.4-5_StudyNote_Filament\">study note on 1 Tim 3:4-5</a>). Violating these norms brought disrepute, disgrace, and shame on the entire household and its head. The same is true for the church (cp. <a href=\"?bref=Eph.2.19-22\">Eph 2:19-22</a>; <a href=\"?bref=Heb.3.6\">Heb 3:6</a>; <a href=\"?bref=Heb.10.21\">10:21</a>; <a href=\"?bref=1Pet.4.17\">1 Pet 4:17</a>). • <span class=\"sn-excerpt\">the church . . . is the pillar and foundation of the truth:</span> This idea may anticipate the transition from the time of the apostles to the period after their deaths (cp. <a href=\"?bref=Gal.2.9\">Gal 2:9</a>; <a href=\"?bref=Rev.3.12\">Rev 3:12</a>). The church must be active rather than defensive in upholding <span class=\"sn-excerpt\">the truth</span> in the world (cp. <a href=\"?bref=2Cor.10.3-6\">2 Cor 10:3-6</a>).</p>"
+    },
+    {
+      "sequence": 15788,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.3",
+      "verseOsisID": "1Tim.3.16",
+      "citation": {
+        "short": "1Tim 3:16",
+        "long": "1 Timothy 3:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.3.16\">3:16</a></span> The short hymn or creed in this verse shows the theological richness of early Christian worship. • Jesus <span class=\"sn-excerpt\">Christ</span> is the only source of godliness. • <span class=\"sn-excerpt\">vindicated by the Spirit:</span> Christ’s resurrection (<a href=\"?bref=Rom.1.4\">Rom 1:4</a>) answers the apparent weakness of his life and death as a human, and affirms his teaching. • <span class=\"sn-excerpt\">seen by angels:</span> This emphasizes Jesus’ sovereign rule in the heavenly realm (see also <a href=\"?bref=Eph.1.21\">Eph 1:21</a>; <a href=\"?bref=Phil.2.9-11\">Phil 2:9-11</a>; <a href=\"?bref=Heb.1.3-4\">Heb 1:3-4</a>; <a href=\"?bref=1Pet.3.22\">1 Pet 3:22</a>; <a href=\"?bref=Rev.5.8-14\">Rev 5:8-14</a>). • <span class=\"sn-excerpt\">announced to the nations:</span> Christ’s provision of salvation and sovereign rule must be proclaimed and accepted in the earthly realm as well (cp. <a href=\"?bref=1Tim.2.1-7\">1 Tim 2:1-7</a>). • <span class=\"sn-excerpt\">believed in throughout the world:</span> The mission to the nations is successful, but it does not guarantee universal acceptance. • Christ was <span class=\"sn-excerpt\">taken to heaven</span> (<a href=\"?bref=Luke.24.51\">Luke 24:51</a>; <a href=\"?bref=Acts.1.2\">Acts 1:2</a>, <a href=\"?bref=Acts.1.11\">11</a>, <a href=\"?bref=Acts.1.22\">22</a>) and was exalted <span class=\"sn-excerpt\">in glory</span> (cp. <a href=\"?bref=Acts.7.55-56\">Acts 7:55-56</a>). Christ’s saving work is crowned with success in the world and with glory in heaven.</p>"
+    },
+    {
+      "sequence": 15789,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.1",
+      "citation": {
+        "short": "1Tim 4:1",
+        "long": "1 Timothy 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.1-5\">4:1-5</a></span> Paul’s sound teaching (<a href=\"?bref=1Tim.3.16\">3:16</a>) contrasts with the false teachings that he denounces.</p>"
+    },
+    {
+      "sequence": 15790,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.1",
+      "citation": {
+        "short": "1Tim 4:1",
+        "long": "1 Timothy 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.1\">4:1</a></span> The early church regarded itself as already in <span class=\"sn-excerpt\">the last times</span> (see <a href=\"?bref=Acts.2.16-17\">Acts 2:16-17</a>; <a href=\"?bref=Heb.1.2\">Heb 1:2</a>; cp. <a href=\"?bref=2Thes.2.7\">2 Thes 2:7</a>; <a href=\"?bref=1Jn.2.18-23\">1 Jn 2:18-23</a>).</p>"
+    },
+    {
+      "sequence": 15791,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.2",
+      "citation": {
+        "short": "1Tim 4:2",
+        "long": "1 Timothy 4:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.2\">4:2</a></span> <span class=\"sn-excerpt\">Consciences</span> that <span class=\"sn-excerpt\">are dead</span> either don’t function or function wickedly, rendering judgments that oppose the truth of the gospel (see also <a href=\"?bref=Titus.1.15\">Titus 1:15</a>; <a href=\"?bref=Rom.1.28-32\">Rom 1:28-32</a>).</p>"
+    },
+    {
+      "sequence": 15792,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.6",
+      "citation": {
+        "short": "1Tim 4:6",
+        "long": "1 Timothy 4:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.6-16\">4:6-16</a></span> Timothy must respond to the false teachers (cp. <a href=\"?bref=2Tim.3.1-4.5\">2 Tim 3:1–4:5</a>).</p>"
+    },
+    {
+      "sequence": 15793,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.6",
+      "citation": {
+        "short": "1Tim 4:6",
+        "long": "1 Timothy 4:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.6\">4:6</a></span> <span class=\"sn-excerpt\">brothers and sisters:</span> Greek <span class=\"greek\">adelphoi,</span> a generic term that refers to members of the same family, both male and female. • The training of the <span class=\"sn-excerpt\">worthy servant</span> involves a whole pattern of conduct, modeled by Paul and based on sound doctrine. <span class=\"sn-excerpt\">Good teaching</span> unifies word and deed, belief and behavior (cp. <a href=\"?bref=1Tim.3.10\">3:10</a>, <a href=\"?bref=1Tim.3.14-15\">14-15</a>; <a href=\"?bref=Phil.4.9\">Phil 4:9</a>).</p>"
+    },
+    {
+      "sequence": 15794,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.8",
+      "citation": {
+        "short": "1Tim 4:8",
+        "long": "1 Timothy 4:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.8-9\">4:8-9</a></span> <span class=\"sn-excerpt\">physical training . . . godliness:</span> Cp. <a href=\"?bref=1Cor.9.24-27\">1 Cor 9:24-27</a>; <a href=\"?bref=Col.2.23\">Col 2:23</a>. • <span class=\"sn-excerpt\">benefits in this life . . . the life to come:</span> Cp. <a href=\"?bref=1Tim.4.16\">1 Tim 4:16</a>; <a href=\"?bref=1Tim.6.6-8\">6:6-8</a>; <a href=\"?bref=Mark.10.29-30\">Mark 10:29-30</a>; <a href=\"?bref=Eph.6.2-3\">Eph 6:2-3</a>. • <span class=\"sn-excerpt\">trustworthy saying:</span> See <a href=\"?item=ITim.1.15_StudyNote_Filament\">study note on 1 Tim 1:15</a>.</p>"
+    },
+    {
+      "sequence": 15795,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.12",
+      "citation": {
+        "short": "1Tim 4:12",
+        "long": "1 Timothy 4:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.12\">4:12</a></span> <span class=\"sn-excerpt\">Be an example:</span> Only those whose lives are shaped by the Good News are worthy teachers of it (cp. <a href=\"?bref=2Tim.3.10-11\">2 Tim 3:10-11</a>; <a href=\"?bref=Titus.2.7\">Titus 2:7</a>; <a href=\"?bref=Heb.13.7\">Heb 13:7</a>). The false teachers were not.</p>"
+    },
+    {
+      "sequence": 15796,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.4",
+      "verseOsisID": "1Tim.4.14",
+      "citation": {
+        "short": "1Tim 4:14",
+        "long": "1 Timothy 4:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.4.14\">4:14</a></span> <span class=\"sn-excerpt\">laid their hands on you:</span> The gesture signified recognition, authorization, and blessing (see <a href=\"?bref=Acts.13.1-3\">Acts 13:1-3</a>; <a href=\"?bref=Acts.6.6\">6:6</a>). This was probably the same event as in <a href=\"?bref=2Tim.1.6-7\">2 Tim 1:6-7</a> (see <a href=\"?bref=1Tim.1.18\">1 Tim 1:18</a>; cp. <a href=\"?bref=Rom.12.6-8\">Rom 12:6-8</a>; <a href=\"?bref=1Cor.12.7-11\">1 Cor 12:7-11</a>; <a href=\"?bref=Eph.4.7-13\">Eph 4:7-13</a>). Paul’s ministry and that of his delegates was under the authority of the church.</p>"
+    },
+    {
+      "sequence": 15797,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.1",
+      "citation": {
+        "short": "1Tim 5:1",
+        "long": "1 Timothy 5:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.1-6.2\">5:1–6:2a</a></span> Right conduct in God’s household (see <a href=\"?bref=1Tim.3.15\">3:15</a>) relates to old and young (<a href=\"?bref=1Tim.5.1-2\">5:1-2</a>), widows (<a href=\"?bref=1Tim.5.3-16\">5:3-16</a>), elders (<a href=\"?bref=1Tim.5.17-25\">5:17-25</a>), and slaves (<a href=\"?bref=1Tim.6.1-2\">6:1-2a</a>). Proper honor within the household cuts across social boundaries.</p>"
+    },
+    {
+      "sequence": 15798,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.3",
+      "citation": {
+        "short": "1Tim 5:3",
+        "long": "1 Timothy 5:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.3-16\">5:3-16</a></span> A <span class=\"sn-excerpt\">widow</span> without wealth or family was alone in a world that did not provide for her. The Christian community was expected to care for such widows among its members (see <a href=\"?bref=Deut.10.17-19\">Deut 10:17-19</a>; <a href=\"?bref=Isa.1.17\">Isa 1:17</a>; cp. <a href=\"?bref=Acts.6.1-6\">Acts 6:1-6</a>; <a href=\"?bref=Jas.1.27\">Jas 1:27</a>). Some have argued that this passage suggests a religious order of widows in the first-century church at Ephesus, but there is no certain evidence of such an order in the first-century church, only of a ministry of care for community members without means.</p>"
+    },
+    {
+      "sequence": 15799,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.5",
+      "citation": {
+        "short": "1Tim 5:5",
+        "long": "1 Timothy 5:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.5\">5:5</a></span> The only recourse for a <span class=\"sn-excerpt\">widow</span> who was <span class=\"sn-excerpt\">truly alone</span> was <span class=\"sn-excerpt\">hope in God</span> (<a href=\"?bref=Ps.68.5\">Pss 68:5</a>; <a href=\"?bref=Ps.146.9\">146:9</a>).</p>"
+    },
+    {
+      "sequence": 15800,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.6",
+      "citation": {
+        "short": "1Tim 5:6",
+        "long": "1 Timothy 5:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.6\">5:6</a></span> Some widows in Ephesus were living <span class=\"sn-excerpt\">only for pleasure</span><span class=\"ital\">,</span> more interested in receiving than in giving (see also <a href=\"?bref=1Tim.6.17-19\">6:17-19</a>; <a href=\"?bref=Jas.5.5\">Jas 5:5</a>). They did not need support.</p>"
+    },
+    {
+      "sequence": 15801,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.8",
+      "citation": {
+        "short": "1Tim 5:8",
+        "long": "1 Timothy 5:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.8\">5:8</a></span> <span class=\"sn-excerpt\">Faith</span> is not mere belief but a whole way of life (see <a href=\"?bref=Jas.2.14-26\">Jas 2:14-26</a>).</p>"
+    },
+    {
+      "sequence": 15802,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.9",
+      "citation": {
+        "short": "1Tim 5:9",
+        "long": "1 Timothy 5:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.9\">5:9</a></span> <span class=\"sn-excerpt\">at least sixty:</span> Young widows required a different approach (<a href=\"?bref=1Tim.5.11-15\">5:11-15</a>). Young and old were customarily divided at around forty; elders would probably have been over fifty (see <a href=\"?bref=Titus.2.2\">Titus 2:2</a>). • <span class=\"sn-excerpt\">was faithful to her husband</span> (literally <span class=\"ital\">was the wife of one husband</span>): The grammar is identical in <a href=\"?bref=1Tim.3.2\">1 Tim 3:2</a>, <a href=\"?bref=1Tim.3.12\">12</a>; <a href=\"?bref=Titus.1.6\">Titus 1:6</a>.</p>"
+    },
+    {
+      "sequence": 15803,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.10",
+      "citation": {
+        "short": "1Tim 5:10",
+        "long": "1 Timothy 5:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.10\">5:10</a></span> <span class=\"sn-excerpt\">and served other believers humbly:</span> Cp. <a href=\"?bref=Gen.18.4\">Gen 18:4</a>; <a href=\"?bref=Luke.7.44\">Luke 7:44</a>; <a href=\"?bref=John.13.1-17\">John 13:1-17</a>.</p>"
+    },
+    {
+      "sequence": 15804,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.11",
+      "citation": {
+        "short": "1Tim 5:11",
+        "long": "1 Timothy 5:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.11-15\">5:11-15</a></span> Young widows still in their childbearing years required a different approach. Paul was concerned that the false teachers were leading them <span class=\"sn-excerpt\">astray</span>.</p>"
+    },
+    {
+      "sequence": 15805,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.11",
+      "citation": {
+        "short": "1Tim 5:11",
+        "long": "1 Timothy 5:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.11-12\">5:11-12</a></span> If Paul was concerned about remarriage to unbelievers (cp. <a href=\"?bref=1Tim.5.14\">5:14</a>), <span class=\"sn-excerpt\">their previous pledge</span> would refer to their Christian faith, which they would surrender upon entering a pagan marriage; such a marriage would probably have alienated them from Christ. It is also possible that Paul and the church recognized a special category of “sacred widowhood” (see <a href=\"?bref=1Tim.5.5\">5:5</a>; cp. <a href=\"?bref=Acts.9.36-37\">Acts 9:36-37</a>), entered by a vow that Paul refers to as the <span class=\"ital\">previous pledge.</span></p>"
+    },
+    {
+      "sequence": 15806,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.13",
+      "citation": {
+        "short": "1Tim 5:13",
+        "long": "1 Timothy 5:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.13\">5:13</a></span> Too seldom do those who are fully supported by the church invest their lives in remarkable piety (cp. <a href=\"?bref=1Tim.2.9-10\">2:9-10</a>; <a href=\"?bref=1Tim.5.10\">5:10</a>). Abusing the church’s support does not help them or the Good News (cp. <a href=\"?bref=1Tim.5.14\">5:14</a>). • <span class=\"sn-excerpt\">talking about things they shouldn’t:</span> The wording suggests involvement in the false teaching (<a href=\"?bref=1Tim.5.15\">5:15</a>; cp. <a href=\"?bref=2Thes.3.11-13\">2 Thes 3:11-13</a>; <a href=\"?bref=Titus.1.11\">Titus 1:11</a>).</p>"
+    },
+    {
+      "sequence": 15807,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.14",
+      "citation": {
+        "short": "1Tim 5:14",
+        "long": "1 Timothy 5:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.14\">5:14</a></span> Paul is advising younger widows to remarry—and to marry believers (<a href=\"?bref=1Tim.5.11-12\">5:11-12</a>; cp. <a href=\"?bref=1Tim.2.15\">2:15</a>). • <span class=\"sn-excerpt\">not . . . say anything against them:</span> Their actions were hurting their testimony for the Good News (see <a href=\"?bref=1Thes.4.11-12\">1 Thes 4:11-12</a>; <a href=\"?bref=Titus.2.8\">Titus 2:8</a>).</p>"
+    },
+    {
+      "sequence": 15808,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.15",
+      "citation": {
+        "short": "1Tim 5:15",
+        "long": "1 Timothy 5:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.15\">5:15</a></span> <span class=\"sn-excerpt\">now follow Satan:</span> They had committed apostasy, renouncing Christ, probably in connection with the false teachers (<a href=\"?bref=1Tim.1.6-7\">1:6-7</a>; cp. <a href=\"?bref=1Tim.3.6-7\">3:6-7</a>; <a href=\"?bref=Heb.2.1\">Heb 2:1</a>) and their self-indulgence (<a href=\"?bref=1Tim.5.6\">1 Tim 5:6</a>, <a href=\"?bref=1Tim.5.13\">13</a>).</p>"
+    },
+    {
+      "sequence": 15809,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.16",
+      "citation": {
+        "short": "1Tim 5:16",
+        "long": "1 Timothy 5:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.16\">5:16</a></span> Individual Christian households maintained their function and identity within the church (cp. <a href=\"?bref=1Tim.2.15\">2:15</a>; <a href=\"?bref=1Tim.3.15\">3:15</a>). They were not eclipsed by the church, although the household of God is primary to the identity of the believing community (see <a href=\"?bref=Mark.3.31-35\">Mark 3:31-35</a>).</p>"
+    },
+    {
+      "sequence": 15810,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.17",
+      "citation": {
+        "short": "1Tim 5:17",
+        "long": "1 Timothy 5:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.17-25\">5:17-25</a></span> <span class=\"sn-excerpt\">Elders:</span> As in Judaism, community leaders (see also <a href=\"?bref=1Tim.3.1-7\">3:1-7</a>; <a href=\"?bref=Titus.1.5-9\">Titus 1:5-9</a>) were usually older men who were leaders in the wider community. The letters to Timothy and Titus recognize an office of elders, as here (see also <a href=\"?bref=1Tim.4.14\">1 Tim 4:14</a>; <a href=\"?bref=Titus.1.5\">Titus 1:5</a>), but the word is also used generally for older men in the community (as in <a href=\"?bref=1Tim.5.1\">1 Tim 5:1</a>).</p>"
+    },
+    {
+      "sequence": 15811,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.17",
+      "citation": {
+        "short": "1Tim 5:17",
+        "long": "1 Timothy 5:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.17-18\">5:17-18</a></span> <span class=\"sn-excerpt\">should be respected and paid well</span> (literally <span class=\"ital\">should be worthy of double honor</span>): Cp. <a href=\"?bref=Gal.6.6\">Gal 6:6</a>. There is no evidence of a paid clergy at this time; the word used here is never used for a continuous salary, though it does imply something beyond a show of respect. The quotations from <span class=\"sn-excerpt\">Scripture</span> (<a href=\"?bref=Deut.25.4\">Deut 25:4</a>; <a href=\"?bref=Luke.10.7\">Luke 10:7</a>) suggest gifts of money.</p>"
+    },
+    {
+      "sequence": 15812,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.19",
+      "citation": {
+        "short": "1Tim 5:19",
+        "long": "1 Timothy 5:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.19-21\">5:19-21</a></span> The climate created by the false teachers may have led to spurious charges against the leaders of the community. This passage follows the outline of <a href=\"?bref=Deut.19.15-21\">Deut 19:15-21</a>. • <span class=\"sn-excerpt\">two or three witnesses:</span> See <a href=\"?bref=Deut.17.6\">Deut 17:6</a>; <a href=\"?bref=Deut.19.15\">19:15</a>; <a href=\"?bref=Matt.18.16\">Matt 18:16</a>; <a href=\"?bref=2Cor.13.1\">2 Cor 13:1</a>; <a href=\"?bref=Heb.10.28\">Heb 10:28</a>.</p>"
+    },
+    {
+      "sequence": 15813,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.20",
+      "citation": {
+        "short": "1Tim 5:20",
+        "long": "1 Timothy 5:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.20\">5:20</a></span> <span class=\"sn-excerpt\">Those who sin:</span> This term refers either to one who is (rightly) accused or to one making a (false) accusation (<a href=\"?bref=Deut.19.16-19\">Deut 19:16-19</a>). • The <span class=\"sn-excerpt\">others</span> are either the other elders or the rest of the church (cp. <a href=\"?bref=Deut.19.20\">Deut 19:20</a>; <a href=\"?bref=Acts.5.1-11\">Acts 5:1-11</a>).</p>"
+    },
+    {
+      "sequence": 15814,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.21",
+      "citation": {
+        "short": "1Tim 5:21",
+        "long": "1 Timothy 5:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.21\">5:21</a></span> <span class=\"sn-excerpt\">God and Christ Jesus and the highest angels</span> constitute three witnesses (<a href=\"?bref=1Tim.5.19\">5:19</a>). These witnesses confirm the accusation against leaders who sin (<a href=\"?bref=1Tim.5.20\">5:20</a>). • Angels are associated with God’s judgment (<a href=\"?bref=Dan.7.9-10\">Dan 7:9-10</a>; <a href=\"?bref=Matt.13.49\">Matt 13:49</a>; <a href=\"?bref=Matt.25.31\">25:31</a>, <a href=\"?bref=Matt.25.41\">41</a>; <a href=\"?bref=Luke.9.26\">Luke 9:26</a>; <a href=\"?bref=2Thes.1.7\">2 Thes 1:7</a>).</p>"
+    },
+    {
+      "sequence": 15815,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.22",
+      "citation": {
+        "short": "1Tim 5:22",
+        "long": "1 Timothy 5:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.22\">5:22</a></span> <span class=\"sn-excerpt\">Do not share in the sins of others:</span> Those who commission an elder are responsible for his conduct.</p>"
+    },
+    {
+      "sequence": 15816,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.23",
+      "citation": {
+        "short": "1Tim 5:23",
+        "long": "1 Timothy 5:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.23\">5:23</a></span> Possibly the concern with purity (<a href=\"?bref=1Tim.5.22\">5:22</a>) was being taken too far with respect to <span class=\"sn-excerpt\">wine</span> (see <a href=\"?bref=1Tim.3.3\">3:3</a>; <a href=\"?bref=Num.6.1-21\">Num 6:1-21</a>) or food (<a href=\"?bref=1Cor.10.21\">1 Cor 10:21</a>). Wine may have been considered medicinal.</p>"
+    },
+    {
+      "sequence": 15817,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.5",
+      "verseOsisID": "1Tim.5.24",
+      "citation": {
+        "short": "1Tim 5:24",
+        "long": "1 Timothy 5:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.5.24-25\">5:24-25</a></span> These two proverbial statements summarize <a href=\"?bref=1Tim.5.17-23\">5:17-23</a> and point to God’s <span class=\"sn-excerpt\">judgment</span>.</p>"
+    },
+    {
+      "sequence": 15818,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.1",
+      "citation": {
+        "short": "1Tim 6:1",
+        "long": "1 Timothy 6:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.1\">6:1</a></span> Both unbelieving and believing masters should be treated with <span class=\"sn-excerpt\">respect</span><span class=\"ital\">,</span> which will bring honor rather than <span class=\"sn-excerpt\">shame</span> to God’s <span class=\"sn-excerpt\">name</span> (see <a href=\"?item=ITim.5.1-6.2_StudyNote_Filament\">study note on 5:1–6:2</a>).</p>"
+    },
+    {
+      "sequence": 15819,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.2",
+      "citation": {
+        "short": "1Tim 6:2",
+        "long": "1 Timothy 6:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.2-21\">6:2b-21</a></span> The last major section of the letter returns to the need for Timothy to confront the false teachers. The whole section has a similar structure to <a href=\"?bref=1Tim.1.3-20\">1:3-20</a>.</p>"
+    },
+    {
+      "sequence": 15820,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.2",
+      "citation": {
+        "short": "1Tim 6:2",
+        "long": "1 Timothy 6:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.2-10\">6:2b-10</a></span> This paragraph exposes the false teachers’ desire <span class=\"sn-excerpt\">to become wealthy</span>.</p>"
+    },
+    {
+      "sequence": 15821,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.4",
+      "citation": {
+        "short": "1Tim 6:4",
+        "long": "1 Timothy 6:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.4\">6:4</a></span> <span class=\"sn-excerpt\">This stirs up arguments:</span> This is the same problem as in <a href=\"?bref=1Tim.1.4\">1:4</a> (see also <a href=\"?bref=2Tim.2.23-24\">2 Tim 2:23-24</a>; <a href=\"?bref=Titus.3.9\">Titus 3:9</a>).</p>"
+    },
+    {
+      "sequence": 15822,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.5",
+      "citation": {
+        "short": "1Tim 6:5",
+        "long": "1 Timothy 6:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.5\">6:5</a></span> <span class=\"sn-excerpt\">have turned their backs on the truth:</span> Literally <span class=\"ital\">having been robbed of the truth;</span> see <a href=\"?bref=2Tim.2.18\">2 Tim 2:18</a>; <a href=\"?bref=2Tim.3.7\">3:7</a>, <a href=\"?bref=2Tim.3.8\">8</a>; <a href=\"?bref=2Tim.4.4\">4:4</a>; <a href=\"?bref=Titus.1.14\">Titus 1:14</a>. • <span class=\"sn-excerpt\">a show of godliness is just a way to become wealthy</span> (see <a href=\"?bref=1Tim.2.2\">1 Tim 2:2</a>; <a href=\"?bref=1Tim.3.8\">3:8</a>; <a href=\"?bref=1Tim.4.8\">4:8</a>; <a href=\"?bref=1Tim.6.3\">6:3</a>; see also <a href=\"?bref=2Tim.3.2\">2 Tim 3:2</a>; <a href=\"?bref=Acts.8.9-25\">Acts 8:9-25</a>): Just how these false teachers thought they would profit is not clear. In the wider culture there were many itinerant teachers who taught for pay. Abuse was common and often deserved the accusation that someone’s teaching was for “gain and glory.” Perhaps the false teachers of 1 Timothy were bringing this practice into the church or espousing some version of a prosperity gospel. They appear to have had an influence on wealthy believers (<a href=\"?bref=1Tim.6.17-19\">1 Tim 6:17-19</a>), and possibly on women in particular (<a href=\"?bref=1Tim.2.9\">2:9</a>; <a href=\"?bref=1Tim.5.6\">5:6</a>).</p>"
+    },
+    {
+      "sequence": 15823,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.6",
+      "citation": {
+        "short": "1Tim 6:6",
+        "long": "1 Timothy 6:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.6\">6:6</a></span> <span class=\"sn-excerpt\">with contentment:</span> This is not just a philosophical outlook but real dependence on the sufficiency of Christ. See <a href=\"?bref=1Tim.4.8\">4:8</a>; <a href=\"?bref=2Cor.9.8\">2 Cor 9:8</a>; <a href=\"?bref=2Cor.12.7-10\">12:7-10</a>; <a href=\"?bref=Phil.4.10-13\">Phil 4:10-13</a>; <a href=\"?bref=Heb.13.5\">Heb 13:5</a>.</p>"
+    },
+    {
+      "sequence": 15824,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.11",
+      "citation": {
+        "short": "1Tim 6:11",
+        "long": "1 Timothy 6:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.11-16\">6:11-16</a></span> Before ending the discussion of wealth, Paul exhorts Timothy to live beyond reproach, commanding him to flee from desire for wealth.</p>"
+    },
+    {
+      "sequence": 15825,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.12",
+      "citation": {
+        "short": "1Tim 6:12",
+        "long": "1 Timothy 6:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.12\">6:12</a></span> The promise of <span class=\"sn-excerpt\">eternal life</span> moderates the appeal of wealth (cp. <a href=\"?bref=1Tim.6.19\">6:19</a>). • Paul is probably referring to the time when Timothy <span class=\"sn-excerpt\">declared</span> his faith at baptism.</p>"
+    },
+    {
+      "sequence": 15826,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.13",
+      "citation": {
+        "short": "1Tim 6:13",
+        "long": "1 Timothy 6:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.13\">6:13</a></span> Paul emphasizes the historical nature of Christ’s mediating work (see <a href=\"?bref=1Tim.2.5-6\">2:5-6</a>). The <span class=\"sn-excerpt\">testimony</span> of <span class=\"sn-excerpt\">Christ Jesus</span> at his trial <span class=\"sn-excerpt\">before Pontius Pilate</span> (<a href=\"?bref=Matt.27.11-14\">Matt 27:11-14</a>; <a href=\"?bref=Luke.23.1-4\">Luke 23:1-4</a>; <a href=\"?bref=John.18.33-38\">John 18:33-38</a>; <a href=\"?bref=John.19.9-11\">19:9-11</a>) holds up his example as an incentive for Timothy to remain steadfast under pressure.</p>"
+    },
+    {
+      "sequence": 15827,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.14",
+      "citation": {
+        "short": "1Tim 6:14",
+        "long": "1 Timothy 6:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.14\">6:14</a></span> <span class=\"sn-excerpt\">until our Lord Jesus Christ comes again</span> (literally <span class=\"ital\">until the appearance of our Lord Jesus Christ</span>): Christ’s comings, both past (<a href=\"?bref=2Tim.1.10\">2 Tim 1:10</a>; <a href=\"?bref=Titus.2.11\">Titus 2:11</a>) and future (<a href=\"?bref=2Tim.4.1\">2 Tim 4:1</a>, <a href=\"?bref=2Tim.4.8\">8</a>; <a href=\"?bref=Titus.2.13\">Titus 2:13</a>), are described in the letters to Timothy and Titus as “epiphanies” or “appearances.” An <span class=\"ital\">epiphany</span> is a divine intervention in a particular historical moment. The church is positioned between these past and future appearances of Christ. Christ’s first, saving epiphany made possible a new life; his future epiphany will achieve final salvation. Though the present is evil (the “last times,” <a href=\"?bref=1Tim.4.1-3\">1 Tim 4:1-3</a>; <a href=\"?bref=2Tim.3.1-9\">2 Tim 3:1-9</a>), our anticipation of Christ’s appearance creates accountability for living a godly life in the present. By contrast, the false teachers advocated sinful behaviors because they assumed the resurrection had already occurred (<a href=\"?bref=2Tim.2.18\">2 Tim 2:18</a>). In response, Paul makes clear that salvation has begun but is not yet complete. The conduct of God’s household requires responsible living in the light of Christ’s past, present, and future saving work (<a href=\"?bref=1Tim.3.15-16\">1 Tim 3:15-16</a>; <a href=\"?bref=Titus.2.11-14\">Titus 2:11-14</a>).</p>"
+    },
+    {
+      "sequence": 15828,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.15",
+      "citation": {
+        "short": "1Tim 6:15",
+        "long": "1 Timothy 6:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.15-16\">6:15-16</a></span> <span class=\"sn-excerpt\">At just the right time</span> (cp. <a href=\"?bref=1Tim.2.6\">2:6</a>), God will complete the salvation promised to us before the world began (<a href=\"?bref=2Tim.1.9\">2 Tim 1:9</a>; <a href=\"?bref=Titus.1.2\">Titus 1:2</a>), which Christ enacted in his first appearance (<a href=\"?bref=1Tim.2.6\">1 Tim 2:6</a>; <a href=\"?bref=Titus.1.3\">Titus 1:3</a>). The saving work of Christ is positioned within God’s sovereign and eternal purposes. This thought leads naturally into worship of God our Savior (cp. <a href=\"?bref=1Tim.1.17\">1 Tim 1:17</a>). • This material might be quoted from a baptismal confession (see <a href=\"?item=ITim.6.12_StudyNote_Filament\">study note on 6:12</a>).</p>"
+    },
+    {
+      "sequence": 15829,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.17",
+      "citation": {
+        "short": "1Tim 6:17",
+        "long": "1 Timothy 6:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.17-19\">6:17-19</a></span> In light of <a href=\"?bref=1Tim.6.11-16\">6:11-16</a>, it is folly to treasure the transient wealth of this age (<a href=\"?bref=Jas.5.3\">Jas 5:3</a>). It is better to store up <span class=\"sn-excerpt\">treasure</span> for the coming age through <span class=\"sn-excerpt\">trust</span> in God and by being <span class=\"sn-excerpt\">rich in good works and generous</span> in love for others (see <a href=\"?bref=1Tim.1.5\">1 Tim 1:5</a>).</p>"
+    },
+    {
+      "sequence": 15830,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.17",
+      "citation": {
+        "short": "1Tim 6:17",
+        "long": "1 Timothy 6:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.17-18\">6:17-18</a></span> <span class=\"sn-excerpt\">for our enjoyment:</span> Christian hope does not lead to asceticism or communism but to the management of resources (<a href=\"?bref=Gen.1.28-30\">Gen 1:28-30</a>; <a href=\"?bref=Gen.2.15\">2:15</a>), which we are to use for enjoyment (see <a href=\"?bref=1Tim.4.3-5\">1 Tim 4:3-5</a>; <a href=\"?bref=Ps.145.16\">Ps 145:16</a>; <a href=\"?bref=Acts.14.17\">Acts 14:17</a>) and for sharing Christ’s love with others (see <a href=\"?bref=Luke.12.16-34\">Luke 12:16-34</a>; <a href=\"?bref=2Cor.8.1-9.15\">2 Cor 8:1–9:15</a>).</p>"
+    },
+    {
+      "sequence": 15831,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.20",
+      "citation": {
+        "short": "1Tim 6:20",
+        "long": "1 Timothy 6:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.20-21\">6:20-21</a></span> This brief but pointed exhortation summarizes and shows the importance of Timothy’s task in Ephesus (cp. <a href=\"?bref=1Tim.1.18-20\">1:18-20</a>; <a href=\"?bref=2Tim.1.13-14\">2 Tim 1:13-14</a>).</p>"
+    },
+    {
+      "sequence": 15832,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.20",
+      "citation": {
+        "short": "1Tim 6:20",
+        "long": "1 Timothy 6:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.20\">6:20</a></span> <span class=\"sn-excerpt\">what God has entrusted to you</span> (literally <span class=\"ital\">the deposit</span>): The Good News is a deposit entrusted to the church and its leaders for safekeeping (<a href=\"?bref=1Tim.1.15\">1:15</a>; <a href=\"?bref=1Tim.2.5-6\">2:5-6</a>; <a href=\"?bref=1Tim.3.16\">3:16</a>). It encompasses the whole pattern of conduct that follows from it (<a href=\"?bref=2Tim.1.13-14\">2 Tim 1:13-14</a>; <a href=\"?bref=2Tim.3.10-11\">3:10-11</a>). It stabilizes and purifies the church when it is buffeted by counterfeits in the polluted environment of difficult times (<a href=\"?bref=2Tim.3.1\">2 Tim 3:1</a>). The deposit belongs to the “tradition” of the church (see <a href=\"?bref=2Tim.2.2\">2 Tim 2:2</a>; <a href=\"?bref=1Cor.11.23-25\">1 Cor 11:23-25</a>; <a href=\"?bref=1Cor.15.1-8\">15:1-8</a>; <a href=\"?bref=2Thes.2.15\">2 Thes 2:15</a>; <a href=\"?bref=2Thes.3.6\">3:6</a>). It requires creative and faithful interpretation to meet changing circumstances and problems (see <a href=\"?bref=2Tim.1.12-14\">2 Tim 1:12-14</a>).</p>"
+    },
+    {
+      "sequence": 15833,
+      "bookOsisID": "1Tim",
+      "chapterOsisID": "1Tim.6",
+      "verseOsisID": "1Tim.6.21",
+      "citation": {
+        "short": "1Tim 6:21",
+        "long": "1 Timothy 6:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Tim.6.21\">6:21</a></span> The letter closes abruptly. Evidently there was no need of directions for the mission (cp. <a href=\"?bref=Titus.3.12-14\">Titus 3:12-14</a>) and greetings were unnecessary or unsuitable (cp. <a href=\"?bref=Titus.3.15\">Titus 3:15</a>; <a href=\"?bref=Rom.16.3-16\">Rom 16:3-16</a>). • <span class=\"sn-excerpt\">you all:</span> The letter was sent to Timothy but was intended to be read to the whole church (see <a href=\"?item=ITim_BookIntro_Filament\">1 Timothy Book Introduction</a>, “Literary Genre”).</p>"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 import getBookByName from './getBookByName.ts';
 
 export default function parseVerseReference(verseString: string) {
-  const match = verseString.match(/^(.+?)\s+(\d+)\s*:\s*(\d+)$/);
+  const match = verseString.match(/^(.+?)\s+(\d+|intro)\s*:\s*(\d+|title)$/);
   if (!match) {
     return null;
   }
@@ -12,9 +12,10 @@ export default function parseVerseReference(verseString: string) {
     return null;
   }
   const bookOsisID = book.bookOsisID;
-  const chapterNumber = parseInt(match[2], 10);
-  const verseNumber = parseInt(match[3], 10);
-  if (chapterNumber === 0 || verseNumber === 0) {
+  const chapterNumber =
+    match[2] === 'intro' ? 0 : Number.parseInt(match[2], 10);
+  const verseNumber = match[3] === 'title' ? 0 : Number.parseInt(match[3], 10);
+  if (Number.isNaN(chapterNumber) || Number.isNaN(verseNumber)) {
     return null;
   }
   const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
@@ -25,5 +26,6 @@ export default function parseVerseReference(verseString: string) {
     chapterOsisID,
     verseNumber,
     verseOsisID,
+    book,
   };
 }

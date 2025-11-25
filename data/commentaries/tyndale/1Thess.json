@@ -1,0 +1,892 @@
+{
+  "author": "William Tyndale",
+  "title": "Tyndale Open Study Notes",
+  "copyright": "© 2022 by Tyndale House Publishers",
+  "attribution": "CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0 and http://www.tyndaleopenresources.com",
+  "source": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+  "bookOsisID": "1Thess",
+  "bookName": "1 Thessalonians",
+  "importedAt": "2025-11-25",
+  "commentary": [
+    {
+      "sequence": 15621,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.1",
+      "citation": {
+        "short": "1Thess 1:1",
+        "long": "1 Thessalonians 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.1\">1:1</a></span> Ancient letters began with the name of the author, the name of the recipients, and a salutation. • <span class=\"sn-excerpt\">Paul, Silas, and Timothy</span> were the founders of this church (<a href=\"?bref=Acts.17.1-9\">Acts 17:1-9</a>). • The greeting <span class=\"sn-excerpt\">grace and peace</span> summarizes the believer’s experience of the Good News.</p>"
+    },
+    {
+      "sequence": 15622,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.2",
+      "citation": {
+        "short": "1Thess 1:2",
+        "long": "1 Thessalonians 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.2-10\">1:2-10</a></span> After thanking God for the faith, love, and hope of the Thessalonian believers (<a href=\"?bref=1Thes.1.2-3\">1:2-3</a>), Paul recalls how the Good News was proclaimed to them (<a href=\"?bref=1Thes.1.4-5\">1:4-5</a>) and how they accepted its message (<a href=\"?bref=1Thes.1.6-10\">1:6-10</a>). Paul returns to these themes in <a href=\"?bref=1Thes.2.1-12\">2:1-12</a> and <a href=\"?bref=1Thes.2.13-16\">2:13-16</a>.</p>"
+    },
+    {
+      "sequence": 15623,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.2",
+      "citation": {
+        "short": "1Thess 1:2",
+        "long": "1 Thessalonians 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.2\">1:2</a></span> <span class=\"sn-excerpt\">We always thank God for all of you</span> is the first of three thanksgivings for the church (see <a href=\"?bref=1Thes.2.13\">2:13</a>; <a href=\"?bref=1Thes.3.9\">3:9</a>).</p>"
+    },
+    {
+      "sequence": 15624,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.3",
+      "citation": {
+        "short": "1Thess 1:3",
+        "long": "1 Thessalonians 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.3\">1:3</a></span> The reason for Paul’s gratitude was the Thessalonians’ <span class=\"sn-excerpt\">faithful work</span><span class=\"ital\">,</span> <span class=\"sn-excerpt\">loving deeds</span><span class=\"ital\">,</span> and <span class=\"sn-excerpt\">enduring hope</span> (or <span class=\"ital\">confidence;</span> see <a href=\"?bref=1Thes.3.6\">3:6</a>; <a href=\"?bref=1Thes.5.8\">5:8</a>; <a href=\"?bref=2Thes.1.3-4\">2 Thes 1:3-4</a>).</p>"
+    },
+    {
+      "sequence": 15625,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.4",
+      "citation": {
+        "short": "1Thess 1:4",
+        "long": "1 Thessalonians 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.4\">1:4</a></span> <span class=\"sn-excerpt\">dear brothers and sisters:</span> Greek <span class=\"greek\">adelphoi,</span> a generic term that refers to members of the same family, both male and female.</p>"
+    },
+    {
+      "sequence": 15626,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.5",
+      "citation": {
+        "short": "1Thess 1:5",
+        "long": "1 Thessalonians 1:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.5\">1:5</a></span> God called the Thessalonians through the proclamation of the <span class=\"sn-excerpt\">Good News</span> (<a href=\"?bref=2Thes.2.13-14\">2 Thes 2:13-14</a>). The <span class=\"sn-excerpt\">Holy Spirit</span> convinced the hearers that the message was true (<a href=\"?bref=1Cor.2.4-5\">1 Cor 2:4-5</a>; <a href=\"?bref=1Pet.1.12\">1 Pet 1:12</a>).</p>"
+    },
+    {
+      "sequence": 15627,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.6",
+      "citation": {
+        "short": "1Thess 1:6",
+        "long": "1 Thessalonians 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.6\">1:6</a></span> Because they accepted the Good News, the Thessalonians experienced <span class=\"sn-excerpt\">severe suffering</span> from their contemporaries (<a href=\"?bref=1Thes.2.14\">2:14</a>; <a href=\"?bref=1Thes.3.3-4\">3:3-4</a>). Yet as they followed the model of the apostles and of the Lord himself (<a href=\"?bref=Matt.5.11-12\">Matt 5:11-12</a>; <a href=\"?bref=Rom.8.17\">Rom 8:17</a>; <a href=\"?bref=Rom.12.12\">12:12</a>; <a href=\"?bref=Phil.2.17\">Phil 2:17</a>), they received <span class=\"sn-excerpt\">joy from the Holy Spirit</span> (<a href=\"?bref=1Pet.4.13-14\">1 Pet 4:13-14</a>).</p>"
+    },
+    {
+      "sequence": 15628,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.7",
+      "citation": {
+        "short": "1Thess 1:7",
+        "long": "1 Thessalonians 1:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.7-8\">1:7-8</a></span> <span class=\"sn-excerpt\">ringing out:</span> The example of the Thessalonians’ faith and their proclamation of the Good News was heard throughout the provinces of <span class=\"sn-excerpt\">Macedonia</span> and <span class=\"sn-excerpt\">Achaia</span>.</p>"
+    },
+    {
+      "sequence": 15629,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.9",
+      "citation": {
+        "short": "1Thess 1:9",
+        "long": "1 Thessalonians 1:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.9\">1:9</a></span> Among the Gentiles, the message of the apostles was an exhortation to turn from false idols <span class=\"sn-excerpt\">to serve the living and true God</span><span class=\"ital\">,</span> who created all things (<a href=\"?bref=Acts.14.11-18\">Acts 14:11-18</a>; <a href=\"?bref=Acts.17.22-31\">17:22-31</a>; <a href=\"?bref=Acts.19.23-41\">19:23-41</a>). In a pluralistic religious environment, the call to forsake ancestral gods was unusual (cp. <a href=\"?bref=Jer.10.8-10\">Jer 10:8-10</a>; <a href=\"?bref=1Cor.8.4-6\">1 Cor 8:4-6</a>).</p>"
+    },
+    {
+      "sequence": 15630,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.1",
+      "verseOsisID": "1Thess.1.10",
+      "citation": {
+        "short": "1Thess 1:10",
+        "long": "1 Thessalonians 1:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.1.10\">1:10</a></span> The resurrection of Jesus <span class=\"sn-excerpt\">from the dead</span> was the core of the apostles’ preaching (<a href=\"?bref=1Thes.4.14\">4:14</a>; <a href=\"?bref=Acts.2.32\">Acts 2:32</a>; <a href=\"?bref=Acts.3.15\">3:15</a>; <a href=\"?bref=Acts.10.40\">10:40</a>; <a href=\"?bref=Acts.13.29-30\">13:29-30</a>; <a href=\"?bref=1Cor.15.3-8\">1 Cor 15:3-8</a>) and the foundation for confidence in Jesus’ return (see <a href=\"?bref=1Thes.5.9\">1 Thes 5:9</a>; <a href=\"?bref=2Thes.1.6-10\">2 Thes 1:6-10</a>).</p>"
+    },
+    {
+      "sequence": 15631,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.1",
+      "citation": {
+        "short": "1Thess 2:1",
+        "long": "1 Thessalonians 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.1-3.13\">2:1–3:13</a></span> The body of this letter begins by discussing Paul’s and his associates’ character (<a href=\"?bref=1Thes.2.1-12\">2:1-12</a>) and the way the Thessalonians received the Good News (<a href=\"?bref=1Thes.2.13-16\">2:13-16</a>). It then emphasizes Paul’s sincere care for the church, telling of his attempts to return to visit them (<a href=\"?bref=1Thes.2.17-20\">2:17-20</a>) and his decision to send Timothy to them when he himself could not come (<a href=\"?bref=1Thes.3.1-5\">3:1-5</a>). Finally, it tells of Paul’s joy over Timothy’s good report (<a href=\"?bref=1Thes.3.6-9\">3:6-9</a>) and his prayers to get back to the church himself (<a href=\"?bref=1Thes.3.10-13\">3:10-13</a>). This lengthy defense is Paul’s response to criticisms of his abrupt departure and prolonged absence.</p>"
+    },
+    {
+      "sequence": 15632,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.1",
+      "citation": {
+        "short": "1Thess 2:1",
+        "long": "1 Thessalonians 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.1\">2:1</a></span> The Greek word translated <span class=\"sn-excerpt\">visit</span> often refers to entry into a city. Ancient orators were known for their grand entrances into a town. Paul’s entrance to Thessalonica should be judged by its credible results rather than its lack of pomp or ceremony.</p>"
+    },
+    {
+      "sequence": 15633,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.2",
+      "citation": {
+        "short": "1Thess 2:2",
+        "long": "1 Thessalonians 2:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.2\">2:2</a></span> Despite the dishonor and pain Paul and Silas had suffered in Philippi (<a href=\"?bref=Acts.16.19-40\">Acts 16:19-40</a>), they showed <span class=\"sn-excerpt\">courage</span> by preaching confidently in Thessalonica.</p>"
+    },
+    {
+      "sequence": 15634,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.4",
+      "citation": {
+        "short": "1Thess 2:4",
+        "long": "1 Thessalonians 2:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.4\">2:4</a></span> In the ancient world, those <span class=\"sn-excerpt\">entrusted</span> with a public office had to be tested and <span class=\"sn-excerpt\">approved</span>. The Thessalonians (<a href=\"?bref=1Thes.2.3\">2:3</a>) and <span class=\"sn-excerpt\">God</span> served as two witnesses to the purity of Paul’s <span class=\"sn-excerpt\">motives</span>.</p>"
+    },
+    {
+      "sequence": 15635,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.5",
+      "citation": {
+        "short": "1Thess 2:5",
+        "long": "1 Thessalonians 2:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.5\">2:5</a></span> <span class=\"sn-excerpt\">Flattery</span> was a common means of getting financial gain from others. Paul denies that he flattered the Thessalonians in order to be given <span class=\"sn-excerpt\">money</span>. He again calls both the Thessalonians and <span class=\"sn-excerpt\">God</span> as witnesses (cp. <a href=\"?bref=1Thes.2.10\">2:10</a>; <a href=\"?bref=Deut.19.15\">Deut 19:15</a>; <a href=\"?bref=2Cor.13.1\">2 Cor 13:1</a>; <a href=\"?bref=1Tim.5.19\">1 Tim 5:19</a>).</p>"
+    },
+    {
+      "sequence": 15636,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.7",
+      "citation": {
+        "short": "1Thess 2:7",
+        "long": "1 Thessalonians 2:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.7\">2:7</a></span> <span class=\"sn-excerpt\">we were like children:</span> Some manuscripts read <span class=\"ital\">we were gentle.</span> Paul and his associates did not wield their apostolic authority to make <span class=\"sn-excerpt\">demands</span> (cp. <a href=\"?bref=Matt.20.25-28\">Matt 20:25-28</a>).</p>"
+    },
+    {
+      "sequence": 15637,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.9",
+      "citation": {
+        "short": "1Thess 2:9",
+        "long": "1 Thessalonians 2:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.9\">2:9</a></span> Paul and his associates engaged in manual labor to support themselves while in the city (cp. <a href=\"?bref=Acts.18.1-4\">Acts 18:1-4</a>; <a href=\"?bref=1Cor.9.12-18\">1 Cor 9:12-18</a>) as an example to the Thessalonians (<a href=\"?bref=2Thes.3.8-9\">2 Thes 3:8-9</a>) and to avoid becoming an economic <span class=\"sn-excerpt\">burden</span> to them.</p>"
+    },
+    {
+      "sequence": 15638,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.10",
+      "citation": {
+        "short": "1Thess 2:10",
+        "long": "1 Thessalonians 2:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.10\">2:10</a></span> Both God and the Thessalonians were <span class=\"sn-excerpt\">witnesses</span> (see <a href=\"?bref=1Thes.2.5\">2:5</a>) that Paul’s conduct was <span class=\"sn-excerpt\">devout and honest</span><span class=\"ital\">,</span> terms used in ancient literature to describe obedience to both divine and human laws.</p>"
+    },
+    {
+      "sequence": 15639,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.11",
+      "citation": {
+        "short": "1Thess 2:11",
+        "long": "1 Thessalonians 2:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.11\">2:11</a></span> In the ancient world, the moral instruction of children was a fundamental obligation of fathers. Roman fathers could be harsh, but Plutarch advised Greek fathers to use praise, reason, exhortations, and good counsel when teaching children to avoid vice and embrace virtue. Paul describes himself as this kind of <span class=\"sn-excerpt\">father</span> to the Thessalonians.</p>"
+    },
+    {
+      "sequence": 15640,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.12",
+      "citation": {
+        "short": "1Thess 2:12",
+        "long": "1 Thessalonians 2:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.12\">2:12</a></span> What <span class=\"sn-excerpt\">God would consider worthy</span> is a life lived in harmony with the high standards he expects of those called (<a href=\"?bref=1Thes.4.7\">4:7</a>) to share <span class=\"sn-excerpt\">his Kingdom and glory</span> (<a href=\"?bref=Rom.8.17-18\">Rom 8:17-18</a>; <a href=\"?bref=Col.1.27\">Col 1:27</a>; <a href=\"?bref=2Thes.2.14\">2 Thes 2:14</a>).</p>"
+    },
+    {
+      "sequence": 15641,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.13",
+      "citation": {
+        "short": "1Thess 2:13",
+        "long": "1 Thessalonians 2:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.13\">2:13</a></span> Paul gives thanks a second time (see <a href=\"?bref=1Thes.1.2\">1:2</a>; <a href=\"?bref=1Thes.3.9\">3:9</a>) because the Thessalonians accepted the message of the apostles—not just as a human philosophy, but as <span class=\"sn-excerpt\">the very word of God</span> (<a href=\"?bref=1Thes.1.5\">1:5</a>; <a href=\"?bref=2Thes.2.14\">2 Thes 2:14</a>; <a href=\"?bref=2Cor.5.20\">2 Cor 5:20</a>).</p>"
+    },
+    {
+      "sequence": 15642,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.14",
+      "citation": {
+        "short": "1Thess 2:14",
+        "long": "1 Thessalonians 2:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.14\">2:14</a></span> The evidence that the Thessalonian believers accepted the word of God was that they <span class=\"sn-excerpt\">suffered persecution</span> (<a href=\"?bref=1Thes.1.6\">1:6</a>). This followed the pattern of the apostles, the <span class=\"sn-excerpt\">churches in Judea</span> (<a href=\"?bref=Acts.8.1\">Acts 8:1</a>), and Christ himself.</p>"
+    },
+    {
+      "sequence": 15643,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.15",
+      "citation": {
+        "short": "1Thess 2:15",
+        "long": "1 Thessalonians 2:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.15\">2:15</a></span> Paul was not anti-Jewish; out of love for his own people, he prayed for their salvation (<a href=\"?bref=Rom.9.1-5\">Rom 9:1-5</a>; <a href=\"?bref=Rom.10.1\">10:1</a>). But he was aware of the role <span class=\"sn-excerpt\">some of the Jews</span> had in the deaths of God’s messengers, including Jesus (<a href=\"?bref=1Kgs.19.10\">1 Kgs 19:10</a>; <a href=\"?bref=Acts.7.52\">Acts 7:52</a>). Now they had <span class=\"sn-excerpt\">persecuted</span> the apostolic messengers in Thessalonica (<a href=\"?bref=Acts.17.10\">Acts 17:10</a>; <a href=\"?bref=2Cor.11.26\">2 Cor 11:26</a>).</p>"
+    },
+    {
+      "sequence": 15644,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.16",
+      "citation": {
+        "short": "1Thess 2:16",
+        "long": "1 Thessalonians 2:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.16\">2:16</a></span> The mission to the <span class=\"sn-excerpt\">Gentiles</span> was one of the most important issues in the early church (<a href=\"?bref=Acts.11.18\">Acts 11:18</a>; <a href=\"?bref=Acts.13.46-49\">13:46-49</a>; <a href=\"?bref=Acts.28.28\">28:28</a>; <a href=\"?bref=Rom.1.16\">Rom 1:16</a>). • Judgment comes when sins <span class=\"sn-excerpt\">pile up</span> to their complete measure (<a href=\"?bref=Gen.15.16\">Gen 15:16</a>; <a href=\"?bref=Dan.8.23\">Dan 8:23</a>; cp. <a href=\"?bref=Matt.23.31-36\">Matt 23:31-36</a>).</p>"
+    },
+    {
+      "sequence": 15645,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.17",
+      "citation": {
+        "short": "1Thess 2:17",
+        "long": "1 Thessalonians 2:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.17\">2:17</a></span> <span class=\"sn-excerpt\">separated:</span> Paul describes his unplanned departure from Thessalonica (see <a href=\"?bref=Acts.17.10\">Acts 17:10</a>) as depriving these new believers of their spiritual parents. However, this absence was not neglect. As evidenced by Paul’s attempts to return to the church, the separation was unintentional (cp. <a href=\"?bref=Phil.1.7\">Phil 1:7</a>; <a href=\"?bref=Col.2.5\">Col 2:5</a>).</p>"
+    },
+    {
+      "sequence": 15646,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.18",
+      "citation": {
+        "short": "1Thess 2:18",
+        "long": "1 Thessalonians 2:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.18\">2:18</a></span> <span class=\"sn-excerpt\">again and again:</span> Paul made repeated attempts to return to the Thessalonian church. Despite the opposition of <span class=\"sn-excerpt\">Satan</span> (see <a href=\"?bref=Rom.16.20\">Rom 16:20</a>; <a href=\"?bref=2Cor.2.11\">2 Cor 2:11</a>; <a href=\"?bref=Eph.6.10-12\">Eph 6:10-12</a>), both Timothy (<a href=\"?bref=1Thes.3.2\">1 Thes 3:2</a>, <a href=\"?bref=1Thes.3.5\">5</a>) and Paul (<a href=\"?bref=Acts.20.1-3\">Acts 20:1-3</a>) were eventually able to visit the church again.</p>"
+    },
+    {
+      "sequence": 15647,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.19",
+      "citation": {
+        "short": "1Thess 2:19",
+        "long": "1 Thessalonians 2:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.19\">2:19</a></span> In the Greek and Roman world, a <span class=\"sn-excerpt\">crown</span> was given to those who received great civic honor or who were victorious in athletic games.</p>"
+    },
+    {
+      "sequence": 15648,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.2",
+      "verseOsisID": "1Thess.2.20",
+      "citation": {
+        "short": "1Thess 2:20",
+        "long": "1 Thessalonians 2:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.2.20\">2:20</a></span> Paul views the Thessalonian believers—not his own accomplishments—as the source of his <span class=\"sn-excerpt\">pride</span><span class=\"ital\">,</span> or renown, and his <span class=\"sn-excerpt\">joy</span> (<a href=\"?bref=1Thes.3.9\">3:9</a>).</p>"
+    },
+    {
+      "sequence": 15649,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.1",
+      "citation": {
+        "short": "1Thess 3:1",
+        "long": "1 Thessalonians 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.1-5\">3:1-5</a></span> After preaching in Berea, Paul had departed from Macedonia and sailed to Athens, instructing Silas and Timothy to join him soon (<a href=\"?bref=Acts.17.13-15\">Acts 17:13-15</a>). Timothy returned to Thessalonica (<a href=\"?bref=1Thes.3.2\">1 Thes 3:2</a>), as Paul’s anxiety for the Thessalonian church had intensified (<a href=\"?bref=1Thes.3.1\">3:1</a>, <a href=\"?bref=1Thes.3.5\">5</a>).</p>"
+    },
+    {
+      "sequence": 15650,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.3",
+      "citation": {
+        "short": "1Thess 3:3",
+        "long": "1 Thessalonians 3:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.3\">3:3</a></span> <span class=\"sn-excerpt\">we are destined for such troubles:</span> Suffering for the faith is often part of a Christian’s life (<a href=\"?bref=1Thes.1.6\">1:6</a>; <a href=\"?bref=1Thes.2.14\">2:14</a>; <a href=\"?bref=Phil.1.29\">Phil 1:29</a>; <a href=\"?bref=1Pet.1.6\">1 Pet 1:6</a>; <a href=\"?bref=1Pet.2.21\">2:21</a>; <a href=\"?bref=1Pet.3.17\">3:17</a>; <a href=\"?bref=1Pet.4.19\">4:19</a>).</p>"
+    },
+    {
+      "sequence": 15651,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.5",
+      "citation": {
+        "short": "1Thess 3:5",
+        "long": "1 Thessalonians 3:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.5\">3:5</a></span> Paul was concerned that Satan, <span class=\"sn-excerpt\">the tempter</span> (<a href=\"?bref=Mark.1.13\">Mark 1:13</a>; <a href=\"?bref=1Cor.7.5\">1 Cor 7:5</a>), had undermined the Thessalonians’ <span class=\"sn-excerpt\">faith</span> (<a href=\"?bref=1Thes.3.2\">1 Thes 3:2</a>, <a href=\"?bref=1Thes.3.6\">6</a>, <a href=\"?bref=1Thes.3.8\">8</a>) and rendered his <span class=\"sn-excerpt\">work</span> among them futile (<a href=\"?bref=Gal.2.2\">Gal 2:2</a>; <a href=\"?bref=Phil.2.16\">Phil 2:16</a>).</p>"
+    },
+    {
+      "sequence": 15652,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.6",
+      "citation": {
+        "short": "1Thess 3:6",
+        "long": "1 Thessalonians 3:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.6\">3:6</a></span> Paul wrote 1 Thessalonians from Corinth just after Timothy <span class=\"sn-excerpt\">returned</span> from Thessalonica (<a href=\"?bref=1Thes.3.2\">3:2</a>, <a href=\"?bref=1Thes.3.5\">5</a>; <a href=\"?bref=Acts.18.5\">Acts 18:5</a>). Timothy’s report provided <span class=\"sn-excerpt\">good news</span> about the Thessalonians’ <span class=\"sn-excerpt\">faith and love</span><span class=\"ital\">,</span> steadfastness (<a href=\"?bref=1Thes.3.8\">1 Thes 3:8</a>), and hope (see also <a href=\"?bref=1Thes.5.8\">5:8</a>; <a href=\"?bref=2Thes.1.3-4\">2 Thes 1:3-4</a>).</p>"
+    },
+    {
+      "sequence": 15653,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.8",
+      "citation": {
+        "short": "1Thess 3:8",
+        "long": "1 Thessalonians 3:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.8\">3:8</a></span> Paul was distressed by his present circumstances (<a href=\"?bref=1Thes.3.7\">3:7</a>) and deeply concerned for the church (<a href=\"?bref=1Thes.3.1\">3:1</a>, <a href=\"?bref=1Thes.3.5\">5</a>). He was relieved to learn that the Thessalonians remained strong and were <span class=\"sn-excerpt\">standing firm in the Lord</span> even though they were also suffering (<a href=\"?bref=1Thes.2.14\">2:14</a>; <a href=\"?bref=1Thes.3.3-4\">3:3-4</a>).</p>"
+    },
+    {
+      "sequence": 15654,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.11",
+      "citation": {
+        "short": "1Thess 3:11",
+        "long": "1 Thessalonians 3:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.11\">3:11</a></span> Paul’s prayer to return to Thessalonica <span class=\"sn-excerpt\">very soon</span> (<a href=\"?bref=1Thes.3.10\">3:10</a>) is directed both to the <span class=\"sn-excerpt\">Father</span> and the <span class=\"sn-excerpt\">Lord Jesus</span><span class=\"ital\">,</span> implying Jesus’ divinity.</p>"
+    },
+    {
+      "sequence": 15655,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.12",
+      "citation": {
+        "short": "1Thess 3:12",
+        "long": "1 Thessalonians 3:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.12\">3:12</a></span> A characteristic of this church was their <span class=\"sn-excerpt\">love for one another</span> as members of God’s family (<a href=\"?bref=1Thes.4.9\">4:9</a>; <a href=\"?bref=2Thes.1.3-4\">2 Thes 1:3-4</a>). Paul prays that their love will <span class=\"sn-excerpt\">grow and overflow</span> toward those outside the Christian community (cp. <a href=\"?bref=1Thes.5.15\">1 Thes 5:15</a>; <a href=\"?bref=Gal.6.10\">Gal 6:10</a>; <a href=\"?bref=2Tim.2.24\">2 Tim 2:24</a>; <a href=\"?bref=Titus.3.2\">Titus 3:2</a>) even in the face of persecution.</p>"
+    },
+    {
+      "sequence": 15656,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.3",
+      "verseOsisID": "1Thess.3.13",
+      "citation": {
+        "short": "1Thess 3:13",
+        "long": "1 Thessalonians 3:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.3.13\">3:13</a></span> In the final part of this prayer (<a href=\"?bref=1Thes.3.11-13\">3:11-13</a>), Paul prays that their <span class=\"sn-excerpt\">hearts</span>—their conduct and moral resolve (<a href=\"?bref=Matt.5.8\">Matt 5:8</a>; <a href=\"?bref=Acts.15.9\">Acts 15:9</a>; <a href=\"?bref=Heb.10.22\">Heb 10:22</a>)—might be <span class=\"sn-excerpt\">strong, blameless, and holy</span>. • When Jesus <span class=\"sn-excerpt\">comes</span><span class=\"ital\">,</span> he will be accompanied by <span class=\"sn-excerpt\">all his holy people</span><span class=\"ital\">,</span> possibly a reference to angels (<a href=\"?bref=Deut.33.2\">Deut 33:2</a>; <a href=\"?bref=Ps.89.5\">Ps 89:5</a>, <a href=\"?bref=Ps.89.7\">7</a>; <a href=\"?bref=Dan.4.13\">Dan 4:13</a>; <a href=\"?bref=Dan.8.13\">8:13</a>; <a href=\"?bref=Matt.13.41\">Matt 13:41</a>; <a href=\"?bref=Mark.8.38\">Mark 8:38</a>; <a href=\"?bref=Mark.13.26-27\">13:26-27</a>; <a href=\"?bref=2Thes.1.7\">2 Thes 1:7</a>).</p>"
+    },
+    {
+      "sequence": 15657,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.1",
+      "citation": {
+        "short": "1Thess 4:1",
+        "long": "1 Thessalonians 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.1-5.22\">4:1–5:22</a></span> The second part of the body of the letter concerns Timothy’s news about the church and the questions the believers had for Paul. Paul addresses the problem of sexual immorality (<a href=\"?bref=1Thes.4.3-8\">4:3-8</a>) before responding to the Thessalonians’ questions about love for other Christians (<a href=\"?bref=1Thes.4.9-12\">4:9-12</a>), the destiny of believers who have died (<a href=\"?bref=1Thes.4.13-18\">4:13-18</a>), and the timing of the day of the Lord (<a href=\"?bref=1Thes.5.1-11\">5:1-11</a>). Paul takes up a variety of exhortations on topics such as leadership and community relations (<a href=\"?bref=1Thes.5.12-15\">5:12-15</a>), relationship with the Lord (<a href=\"?bref=1Thes.5.16-18\">5:16-18</a>), and prophecy (<a href=\"?bref=1Thes.5.19-22\">5:19-22</a>).</p>"
+    },
+    {
+      "sequence": 15658,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.1",
+      "citation": {
+        "short": "1Thess 4:1",
+        "long": "1 Thessalonians 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.1-2\">4:1-2</a></span> <span class=\"sn-excerpt\">we urge you:</span> Paul’s exhortation <span class=\"sn-excerpt\">in the name of the Lord Jesus</span> emphasizes the authority of his teaching. • <span class=\"sn-excerpt\">you remember what we taught:</span> Ancient letters frequently included reminders of what the recipients already knew. Paul reminds the Thessalonians of matters that required their obedience (<a href=\"?bref=1Thes.4.11\">4:11</a>; <a href=\"?bref=2Thes.3.4\">2 Thes 3:4</a>, <a href=\"?bref=2Thes.3.6\">6</a>, <a href=\"?bref=2Thes.3.10\">10</a>, <a href=\"?bref=2Thes.3.12\">12</a>).</p>"
+    },
+    {
+      "sequence": 15659,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.3",
+      "citation": {
+        "short": "1Thess 4:3",
+        "long": "1 Thessalonians 4:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.3\">4:3</a></span> <span class=\"sn-excerpt\">God’s will is for you to be holy:</span> The foundation of Christian ethics is not philosophical speculation about virtue but doing God’s will (<a href=\"?bref=Rom.12.1-2\">Rom 12:1-2</a>; <a href=\"?bref=Eph.6.6\">Eph 6:6</a>; <a href=\"?bref=Heb.10.36\">Heb 10:36</a>; <a href=\"?bref=Heb.13.20-21\">13:20-21</a>). Holiness (<a href=\"?bref=1Thes.4.4\">1 Thes 4:4</a>, <a href=\"?bref=1Thes.4.7\">7</a>) embraces all of a person’s life (<a href=\"?bref=1Thes.5.23\">5:23</a>); here it involves staying away from <span class=\"sn-excerpt\">sexual sin</span> (Greek <span class=\"greek\">porneia</span><span class=\"ital\">,</span> any sexual union outside marriage).</p>"
+    },
+    {
+      "sequence": 15660,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.4",
+      "citation": {
+        "short": "1Thess 4:4",
+        "long": "1 Thessalonians 4:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.4\">4:4</a></span> <span class=\"sn-excerpt\">will control his own body:</span> Self-control brings <span class=\"sn-excerpt\">honor</span> from others (<a href=\"?bref=Rom.12.10\">Rom 12:10</a>) and from God (<a href=\"?bref=Rom.2.7\">Rom 2:7</a>; <a href=\"?bref=1Pet.5.4\">1 Pet 5:4</a>, <a href=\"?bref=1Pet.5.6\">6</a>).</p>"
+    },
+    {
+      "sequence": 15661,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.5",
+      "citation": {
+        "short": "1Thess 4:5",
+        "long": "1 Thessalonians 4:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.5\">4:5</a></span> Willful ignorance of <span class=\"sn-excerpt\">God and his ways</span> is the root of moral corruption (<a href=\"?bref=Rom.1.18-32\">Rom 1:18-32</a>; <a href=\"?bref=Eph.4.17-18\">Eph 4:17-18</a>). • <span class=\"sn-excerpt\">lustful passion:</span> Sexual immorality was often tolerated in the Mediterranean world. Prostitution was allowed, but sexual relations with another man’s wife were prohibited. Roman marriage customs barred women, but not men, from extramarital affairs. By contrast, Jewish and Christian authors alike prohibited all sexual involvement outside of marriage (<a href=\"?bref=Acts.15.20\">Acts 15:20</a>; <a href=\"?bref=1Cor.6.12-20\">1 Cor 6:12-20</a>; <a href=\"?bref=Col.3.5-6\">Col 3:5-6</a>).</p>"
+    },
+    {
+      "sequence": 15662,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.7",
+      "citation": {
+        "short": "1Thess 4:7",
+        "long": "1 Thessalonians 4:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.7\">4:7</a></span> <span class=\"sn-excerpt\">holy . . . not impure:</span> Cp. <a href=\"?bref=1Thes.1.4\">1:4</a>; <a href=\"?bref=1Thes.2.12\">2:12</a>; <a href=\"?bref=1Thes.5.23-24\">5:23-24</a>; <a href=\"?bref=2Thes.2.13-14\">2 Thes 2:13-14</a>; <a href=\"?bref=1Pet.1.15-16\">1 Pet 1:15-16</a>.</p>"
+    },
+    {
+      "sequence": 15663,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.8",
+      "citation": {
+        "short": "1Thess 4:8",
+        "long": "1 Thessalonians 4:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.8\">4:8</a></span> Rejecting Paul’s teaching on these matters was the same as <span class=\"sn-excerpt\">rejecting God</span>. • The <span class=\"sn-excerpt\">Holy Spirit</span> empowers Christians to live in accord with God’s will (<a href=\"?bref=Ezek.36.27\">Ezek 36:27</a>; <a href=\"?bref=Rom.8.1-4\">Rom 8:1-4</a>; <a href=\"?bref=Gal.5.16\">Gal 5:16</a>; <a href=\"?bref=1Jn.3.24\">1 Jn 3:24</a>).</p>"
+    },
+    {
+      "sequence": 15664,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.9",
+      "citation": {
+        "short": "1Thess 4:9",
+        "long": "1 Thessalonians 4:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.9-5.11\">4:9–5:11</a></span> Paul responds to a series of questions from the Thessalonians (cp. <a href=\"?bref=1Cor.7.1\">1 Cor 7:1</a>) concerning love for one another (<a href=\"?bref=1Thes.4.9-12\">1 Thes 4:9-12</a>), the destiny of deceased believers (<a href=\"?bref=1Thes.4.13-18\">4:13-18</a>), and when the day of the Lord would come (<a href=\"?bref=1Thes.5.1-11\">5:1-11</a>).</p>"
+    },
+    {
+      "sequence": 15665,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.9",
+      "citation": {
+        "short": "1Thess 4:9",
+        "long": "1 Thessalonians 4:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.9\">4:9</a></span> <span class=\"sn-excerpt\">God himself has taught you to love one another</span> (cp. <a href=\"?bref=Isa.54.13\">Isa 54:13</a>) through the teaching of Jesus (<a href=\"?bref=John.13.34-35\">John 13:34-35</a>), the cross (<a href=\"?bref=Rom.5.8\">Rom 5:8</a>; <a href=\"?bref=Eph.5.1-2\">Eph 5:1-2</a>), and the Holy Spirit (<a href=\"?bref=Rom.5.5\">Rom 5:5</a>; <a href=\"?bref=Gal.5.22\">Gal 5:22</a>).</p>"
+    },
+    {
+      "sequence": 15666,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.10",
+      "citation": {
+        "short": "1Thess 4:10",
+        "long": "1 Thessalonians 4:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.10\">4:10</a></span> The Thessalonian believers demonstrated <span class=\"sn-excerpt\">love</span> toward <span class=\"sn-excerpt\">all the believers</span> in the province of <span class=\"sn-excerpt\">Macedonia</span> (Philippi and Berea; see also <a href=\"?bref=1Thes.1.7-8\">1:7-8</a>) through economic aid (cp. <a href=\"?bref=2Cor.8.1-5\">2 Cor 8:1-5</a>).</p>"
+    },
+    {
+      "sequence": 15667,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.11",
+      "citation": {
+        "short": "1Thess 4:11",
+        "long": "1 Thessalonians 4:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.11\">4:11</a></span> To <span class=\"sn-excerpt\">live a quiet life</span> is to be respectable and not cause problems in the community. • <span class=\"sn-excerpt\">working with your hands:</span> Paul had previously <span class=\"sn-excerpt\">instructed</span> through his teaching (see <a href=\"?bref=2Thes.3.10\">2 Thes 3:10</a>) and personal example (<a href=\"?bref=2Thes.3.7-9\">2 Thes 3:7-9</a>) that they should earn their own living.</p>"
+    },
+    {
+      "sequence": 15668,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.12",
+      "citation": {
+        "short": "1Thess 4:12",
+        "long": "1 Thessalonians 4:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.12\">4:12</a></span> Self-sufficiency and decorum would win the recognition and <span class=\"sn-excerpt\">respect</span> of <span class=\"sn-excerpt\">people who are not believers</span> (see <a href=\"?bref=Rom.13.13\">Rom 13:13</a>; <a href=\"?bref=1Cor.5.12-13\">1 Cor 5:12-13</a>; <a href=\"?bref=Col.4.5\">Col 4:5</a>).</p>"
+    },
+    {
+      "sequence": 15669,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.13",
+      "citation": {
+        "short": "1Thess 4:13",
+        "long": "1 Thessalonians 4:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.13\">4:13</a></span> <span class=\"sn-excerpt\">the believers who have died</span> (literally <span class=\"ital\">those who have fallen asleep;</span> also in <a href=\"?bref=1Thes.4.14\">4:14</a>): Sleep was a common euphemism for death in Greek, Jewish, and Christian literature (<a href=\"?bref=Dan.12.2\">Dan 12:2</a>; <a href=\"?bref=Matt.27.52\">Matt 27:52</a>). Personal existence continues after death (<a href=\"?bref=Luke.23.40-43\">Luke 23:40-43</a>; <a href=\"?bref=Acts.7.55-60\">Acts 7:55-60</a>; <a href=\"?bref=2Cor.5.6-10\">2 Cor 5:6-10</a>; <a href=\"?bref=Phil.1.20-24\">Phil 1:20-24</a>; <a href=\"?bref=Rev.6.9-11\">Rev 6:9-11</a>); those who have died await the resurrection (<a href=\"?bref=1Cor.15.23\">1 Cor 15:23</a>). • <span class=\"sn-excerpt\">grieve like people who have no hope:</span> Ancient letters of comfort exhorted mourners not to be overcome with grief because they could do nothing to avert death. Paul does not prohibit grief (cp. <a href=\"?bref=John.16.6\">John 16:6</a>, <a href=\"?bref=John.16.20\">20</a>; <a href=\"?bref=Phil.2.27\">Phil 2:27</a>) but calls Christian mourners to abandon the kind of grief typical of those who have no hope in God.</p>"
+    },
+    {
+      "sequence": 15670,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.14",
+      "citation": {
+        "short": "1Thess 4:14",
+        "long": "1 Thessalonians 4:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.14\">4:14</a></span> The central Christian creed, <span class=\"sn-excerpt\">that Jesus died and was raised to life again</span><span class=\"ital\">,</span> is the foundation for hope in the face of death, guaranteed by the resurrection of Christ (<a href=\"?bref=1Cor.15.1-58\">1 Cor 15</a>). • <span class=\"sn-excerpt\">God will bring back</span> refers to the resurrection of believers (<a href=\"?bref=1Thes.4.16\">1 Thes 4:16</a>).</p>"
+    },
+    {
+      "sequence": 15671,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.15",
+      "citation": {
+        "short": "1Thess 4:15",
+        "long": "1 Thessalonians 4:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.15\">4:15</a></span> <span class=\"sn-excerpt\">directly from the Lord:</span> Jesus’ own teaching provided the source of Paul’s assurance for the Thessalonians (see <a href=\"?bref=Matt.24.29-31\">Matt 24:29-31</a>, <a href=\"?bref=Matt.24.40-41\">40-41</a>) • <span class=\"sn-excerpt\">not . . . ahead:</span> Paul wants the Thessalonians to know that, <span class=\"sn-excerpt\">when the Lord returns,</span> the dead will not be at a disadvantage but will participate equally in the resurrection. • In referring to Jesus’ coming, Paul uses a Greek term (<span class=\"greek\">parousia</span>) commonly used to describe the coming of the emperor to a city with great pomp and celebration (see <a href=\"?bref=1Thes.4.17\">1 Thes 4:17</a>).</p>"
+    },
+    {
+      "sequence": 15672,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.16",
+      "citation": {
+        "short": "1Thess 4:16",
+        "long": "1 Thessalonians 4:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.16\">4:16</a></span> <span class=\"sn-excerpt\">with the trumpet call of God:</span> God’s trumpet will herald the resurrection, just as it previously announced the rescue of Israel (<a href=\"?bref=Zeph.1.16\">Zeph 1:16</a>; <a href=\"?bref=Zech.9.14\">Zech 9:14</a>). In the future it will announce the gathering of God’s chosen people from the “farthest ends of the earth and heaven” (<a href=\"?bref=Matt.24.31\">Matt 24:31</a>; cp. <a href=\"?bref=1Cor.15.52\">1 Cor 15:52</a>).</p>"
+    },
+    {
+      "sequence": 15673,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.17",
+      "citation": {
+        "short": "1Thess 4:17",
+        "long": "1 Thessalonians 4:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.17\">4:17</a></span> <span class=\"sn-excerpt\">to meet:</span> This alludes to the custom of sending an official delegation to greet a visiting dignitary and accompany him as he enters the city (<a href=\"?bref=Matt.25.6\">Matt 25:6</a>, <a href=\"?bref=Matt.25.10\">10</a>; <a href=\"?bref=Acts.28.15-16\">Acts 28:15-16</a>).</p>"
+    },
+    {
+      "sequence": 15674,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.4",
+      "verseOsisID": "1Thess.4.18",
+      "citation": {
+        "short": "1Thess 4:18",
+        "long": "1 Thessalonians 4:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.4.18\">4:18</a></span> The purpose of Paul’s teaching about the end is so believers will <span class=\"sn-excerpt\">encourage each other</span> in the face of death. He is not promoting speculation about the end times.</p>"
+    },
+    {
+      "sequence": 15675,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.1",
+      "citation": {
+        "short": "1Thess 5:1",
+        "long": "1 Thessalonians 5:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.1\">5:1</a></span> Questions such as <span class=\"sn-excerpt\">how and when all this will happen</span> occupied the thoughts of both Jewish and Christian people (<a href=\"?bref=Dan.12.6\">Dan 12:6</a>; <a href=\"?bref=Matt.24.3\">Matt 24:3</a>; <a href=\"?bref=Luke.17.20\">Luke 17:20</a>; <a href=\"?bref=Acts.1.6\">Acts 1:6</a>; <a href=\"?bref=1Pet.1.10-11\">1 Pet 1:10-11</a>).</p>"
+    },
+    {
+      "sequence": 15676,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.2",
+      "citation": {
+        "short": "1Thess 5:2",
+        "long": "1 Thessalonians 5:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.2\">5:2</a></span> <span class=\"sn-excerpt\">For you know quite well:</span> Paul reminds them of the teaching they had already received (<a href=\"?bref=1Thes.3.3-4\">3:3-4</a>). • The <span class=\"sn-excerpt\">day of the Lord’s return</span> is the time when God will come to judge humanity (<a href=\"?bref=Isa.13.6\">Isa 13:6</a>, <a href=\"?bref=Isa.13.9\">9</a>; <a href=\"?bref=Ezek.30.3\">Ezek 30:3</a>) and save his people (<a href=\"?bref=Joel.2.21-32\">Joel 2:21-32</a>; <a href=\"?bref=Joel.3.18\">3:18</a>; <a href=\"?bref=Zech.14.1-21\">Zech 14</a>). • <span class=\"sn-excerpt\">like a thief in the night:</span> Cp. <a href=\"?bref=Matt.24.43-44\">Matt 24:43-44</a>; <a href=\"?bref=Luke.12.39-40\">Luke 12:39-40</a>; <a href=\"?bref=2Pet.3.10\">2 Pet 3:10</a>; <a href=\"?bref=Rev.3.3\">Rev 3:3</a>; <a href=\"?bref=Rev.16.15\">16:15</a>.</p>"
+    },
+    {
+      "sequence": 15677,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.3",
+      "citation": {
+        "short": "1Thess 5:3",
+        "long": "1 Thessalonians 5:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.3\">5:3</a></span> <span class=\"sn-excerpt\">“Everything is peaceful and secure”:</span> The expression “peace and safety” was common during the era of the <span class=\"ital\">pax Romana</span> (Roman peace). Amid such presumed security, God’s ultimate judgment comes without warning and is inescapable.</p>"
+    },
+    {
+      "sequence": 15678,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.4",
+      "citation": {
+        "short": "1Thess 5:4",
+        "long": "1 Thessalonians 5:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.4\">5:4</a></span> The <span class=\"sn-excerpt\">day of the Lord</span> will not surprise believers—not because they know the date of his coming, but because they are spiritually prepared.</p>"
+    },
+    {
+      "sequence": 15679,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.5",
+      "citation": {
+        "short": "1Thess 5:5",
+        "long": "1 Thessalonians 5:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.5\">5:5</a></span> As <span class=\"sn-excerpt\">children of the light</span><span class=\"ital\">,</span> the Thessalonian believers were saved from darkness (<a href=\"?bref=John.12.36\">John 12:36</a>; <a href=\"?bref=Acts.26.18\">Acts 26:18</a>; <a href=\"?bref=Eph.5.8\">Eph 5:8</a>; <a href=\"?bref=1Pet.2.9\">1 Pet 2:9</a>). • <span class=\"sn-excerpt\">of the day:</span> They belong to God’s new order (<a href=\"?bref=Rom.13.12\">Rom 13:12</a>). • <span class=\"sn-excerpt\">darkness and night:</span> These refer to an immoral life (see <a href=\"?bref=1Thes.5.6-8\">1 Thes 5:6-8</a>).</p>"
+    },
+    {
+      "sequence": 15680,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.6",
+      "citation": {
+        "short": "1Thess 5:6",
+        "long": "1 Thessalonians 5:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.6\">5:6</a></span> <span class=\"sn-excerpt\">Stay alert and be clearheaded</span> echoes Jesus’ call to be morally prepared because the disciples will not know the day of his return (<a href=\"?bref=Matt.24.42\">Matt 24:42</a>, <a href=\"?bref=Matt.24.44\">44</a>; <a href=\"?bref=Matt.25.13\">25:13</a>; cp. <a href=\"?bref=1Pet.1.13\">1 Pet 1:13</a>).</p>"
+    },
+    {
+      "sequence": 15681,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.7",
+      "citation": {
+        "short": "1Thess 5:7",
+        "long": "1 Thessalonians 5:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.7\">5:7</a></span> <span class=\"sn-excerpt\">Sleep</span> refers to moral indifference (<a href=\"?bref=1Thes.5.6\">5:6</a>), and <span class=\"sn-excerpt\">drunk</span> is a metaphor for those who do not exercise self-control; they will be surprised by the day of the Lord (<a href=\"?bref=1Thes.5.4\">5:4</a>; <a href=\"?bref=Matt.24.48-51\">Matt 24:48-51</a>).</p>"
+    },
+    {
+      "sequence": 15682,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.8",
+      "citation": {
+        "short": "1Thess 5:8",
+        "long": "1 Thessalonians 5:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.8\">5:8</a></span> <span class=\"sn-excerpt\">Armor . . . helmet</span> (<a href=\"?bref=Isa.59.17\">Isa 59:17</a>; <a href=\"?bref=Eph.6.11-17\">Eph 6:11-17</a>): The armament is the moral life (<a href=\"?bref=Rom.13.12\">Rom 13:12</a>; <a href=\"?bref=2Cor.6.7\">2 Cor 6:7</a>; <a href=\"?bref=2Cor.10.3-5\">10:3-5</a>; <a href=\"?bref=2Tim.2.3-4\">2 Tim 2:3-4</a>). The Christian soldier is equipped with the virtues of <span class=\"sn-excerpt\">faith</span><span class=\"ital\">,</span> <span class=\"sn-excerpt\">love</span><span class=\"ital\">,</span> and <span class=\"sn-excerpt\">confidence</span> (see <a href=\"?bref=1Thes.1.3\">1 Thes 1:3</a>; <a href=\"?bref=1Thes.3.6\">3:6</a>; <a href=\"?bref=1Cor.13.13\">1 Cor 13:13</a>; <a href=\"?bref=2Thes.1.3-4\">2 Thes 1:3-4</a>).</p>"
+    },
+    {
+      "sequence": 15683,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.9",
+      "citation": {
+        "short": "1Thess 5:9",
+        "long": "1 Thessalonians 5:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.9\">5:9</a></span> God’s <span class=\"sn-excerpt\">anger</span> (<a href=\"?bref=1Thes.1.10\">1:10</a>; <a href=\"?bref=1Thes.2.16\">2:16</a>; <a href=\"?bref=Rom.5.9\">Rom 5:9</a>; cp. <a href=\"?bref=2Thes.1.6-10\">2 Thes 1:6-10</a>; <a href=\"?bref=2Thes.2.8\">2:8</a>) represents the carrying out of his judgment against evil. However, God destined believers for salvation, not wrath (<a href=\"?bref=2Thes.2.13-14\">2 Thes 2:13-14</a>), and they will escape the terrors of the day of the Lord (<a href=\"?bref=1Thes.5.1-3\">1 Thes 5:1-3</a>).</p>"
+    },
+    {
+      "sequence": 15684,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.10",
+      "citation": {
+        "short": "1Thess 5:10",
+        "long": "1 Thessalonians 5:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.10\">5:10</a></span> The promise that believers will <span class=\"sn-excerpt\">live with him forever</span> is based on Christ’s resurrection (<a href=\"?bref=1Thes.4.14\">4:14</a>). • <span class=\"sn-excerpt\">dead or alive:</span> A reference to living and deceased believers (<a href=\"?bref=1Thes.4.13-15\">4:13-15</a>) rather than people’s moral condition (as in <a href=\"?bref=1Thes.5.6-7\">5:6-7</a>).</p>"
+    },
+    {
+      "sequence": 15685,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.11",
+      "citation": {
+        "short": "1Thess 5:11",
+        "long": "1 Thessalonians 5:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.11\">5:11</a></span> Paul wants the Thessalonians to use the instruction about the end to <span class=\"sn-excerpt\">encourage</span> and <span class=\"sn-excerpt\">build each other up</span> (see <a href=\"?bref=1Thes.4.18\">4:18</a>), not to fuel speculation about the timing of the Lord’s return.</p>"
+    },
+    {
+      "sequence": 15686,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.12",
+      "citation": {
+        "short": "1Thess 5:12",
+        "long": "1 Thessalonians 5:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.12\">5:12</a></span> <span class=\"sn-excerpt\">honor</span> (or <span class=\"ital\">know</span>): This may be a call either to honor church leaders or to recognize the emerging leaders in the church (<a href=\"?bref=1Cor.16.15-16\">1 Cor 16:15-16</a>). True <span class=\"sn-excerpt\">leaders . . . work hard</span> (<a href=\"?bref=1Tim.4.10\">1 Tim 4:10</a>; <a href=\"?bref=1Tim.5.17\">5:17</a>) and govern to serve (<a href=\"?bref=Matt.20.25-28\">Matt 20:25-28</a>). They preside over, as well as help and protect, the church (<a href=\"?bref=Rom.16.1-2\">Rom 16:1-2</a>; <a href=\"?bref=1Tim.3.4-5\">1 Tim 3:4-5</a>, <a href=\"?bref=1Tim.3.12\">12</a>). • <span class=\"sn-excerpt\">give you spiritual guidance:</span> Leaders correct both moral and doctrinal errors (<a href=\"?bref=Acts.20.31\">Acts 20:31</a>; <a href=\"?bref=1Cor.4.14\">1 Cor 4:14</a>; <a href=\"?bref=Col.1.28\">Col 1:28</a>).</p>"
+    },
+    {
+      "sequence": 15687,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.13",
+      "citation": {
+        "short": "1Thess 5:13",
+        "long": "1 Thessalonians 5:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.13\">5:13</a></span> Leaders were to receive honor and <span class=\"sn-excerpt\">love</span> not because of their high position but <span class=\"sn-excerpt\">because of their work</span>. • <span class=\"sn-excerpt\">live peacefully:</span> Teaching about community peace and harmony was a standard topic in ancient moral instruction. Harmony between believers and leaders was especially important because of the persecution the church suffered (<a href=\"?bref=1Thes.2.14\">2:14</a>).</p>"
+    },
+    {
+      "sequence": 15688,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.14",
+      "citation": {
+        "short": "1Thess 5:14",
+        "long": "1 Thessalonians 5:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.14\">5:14</a></span> The responsibility for the moral progress of the congregation does not rest solely with the leaders (<a href=\"?bref=1Thes.4.18\">4:18</a>; <a href=\"?bref=1Thes.5.11\">5:11</a>). Paul urged the church to <span class=\"sn-excerpt\">warn those who are lazy</span><span class=\"ital\">,</span> that is, those who were “disorderly,” and who did not live by the apostles’ instructions (see <a href=\"?bref=2Thes.3.6-15\">2 Thes 3:6-15</a>). • <span class=\"sn-excerpt\">Take tender care of those who are weak</span><span class=\"ital\">,</span> or those who have no economic or social power. Greek society denigrated the weak. • Instead of being irritable, believers should <span class=\"sn-excerpt\">be patient</span> in their relationships (<a href=\"?bref=Gal.5.23\">Gal 5:23</a>; <a href=\"?bref=Eph.4.2\">Eph 4:2</a>).</p>"
+    },
+    {
+      "sequence": 15689,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.15",
+      "citation": {
+        "short": "1Thess 5:15",
+        "long": "1 Thessalonians 5:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.15\">5:15</a></span> Jesus and the apostles warned against retaliation (<a href=\"?bref=Matt.5.38-48\">Matt 5:38-48</a>; <a href=\"?bref=Luke.6.27-36\">Luke 6:27-36</a>; <a href=\"?bref=Rom.12.17-21\">Rom 12:17-21</a>; <a href=\"?bref=1Pet.3.9\">1 Pet 3:9</a>). The Roman author Seneca, by contrast, considered revenge legitimate and necessary as a way of restoring social honor lost because of ill treatment from others. Paul calls Christians <span class=\"sn-excerpt\">to do good</span>—both to members of the church (<span class=\"sn-excerpt\">each other</span>) and to those outside the Christian community (<span class=\"sn-excerpt\">to all people</span>), including their persecutors (<a href=\"?bref=1Thes.2.14\">1 Thes 2:14</a>; see <a href=\"?bref=1Thes.3.12\">3:12</a>; <a href=\"?bref=Gal.6.10\">Gal 6:10</a>).</p>"
+    },
+    {
+      "sequence": 15690,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.17",
+      "citation": {
+        "short": "1Thess 5:17",
+        "long": "1 Thessalonians 5:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.17\">5:17</a></span> <span class=\"sn-excerpt\">Never stop praying</span> means not giving up (<a href=\"?bref=1Thes.1.2\">1:2</a>; <a href=\"?bref=Luke.18.1\">Luke 18:1</a>; <a href=\"?bref=Rom.12.12\">Rom 12:12</a>; <a href=\"?bref=Eph.6.18\">Eph 6:18</a>); it does not mean praying at every moment.</p>"
+    },
+    {
+      "sequence": 15691,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.18",
+      "citation": {
+        "short": "1Thess 5:18",
+        "long": "1 Thessalonians 5:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.18\">5:18</a></span> <span class=\"sn-excerpt\">Be thankful:</span> God is sovereign and can redeem any situation (<a href=\"?bref=Rom.8.28\">Rom 8:28</a>).</p>"
+    },
+    {
+      "sequence": 15692,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.19",
+      "citation": {
+        "short": "1Thess 5:19",
+        "long": "1 Thessalonians 5:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.19\">5:19</a></span> <span class=\"sn-excerpt\">Do not stifle the Holy Spirit:</span> Paul exhorts the Thessalonian believers not to put out the Spirit’s fire (<a href=\"?bref=Matt.3.11\">Matt 3:11</a>; <a href=\"?bref=Acts.2.3\">Acts 2:3</a>; <a href=\"?bref=2Tim.1.6\">2 Tim 1:6</a>) by prohibiting prophecy in the church (<a href=\"?bref=Jer.20.9\">Jer 20:9</a>; <a href=\"?bref=1Jn.4.1-2\">1 Jn 4:1-2</a>).</p>"
+    },
+    {
+      "sequence": 15693,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.20",
+      "citation": {
+        "short": "1Thess 5:20",
+        "long": "1 Thessalonians 5:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.20-21\">5:20-21</a></span> Prophecy, meant to build up the church (<a href=\"?bref=1Cor.14.1-4\">1 Cor 14:1-4</a>), should not be rejected. Instead, the Thessalonians should <span class=\"sn-excerpt\">test</span> the <span class=\"sn-excerpt\">prophecies</span> (<a href=\"?bref=1Cor.12.10\">1 Cor 12:10</a>; <a href=\"?bref=1Cor.14.29\">14:29</a>) to discern their origin, to check their agreement with the teaching of the apostles (<a href=\"?bref=2Thes.2.2\">2 Thes 2:2</a>; <a href=\"?bref=1Jn.4.1-3\">1 Jn 4:1-3</a>), and to gauge the character of those who utter them (<a href=\"?bref=Matt.7.15-20\">Matt 7:15-20</a>). Early Christian teaching said, “Not everyone who speaks about spiritual things is a prophet, but only if the person’s conduct is like the Lord” (<span class=\"ital\">Didache</span> 11:8). They should <span class=\"sn-excerpt\">hold on to what is good</span>—namely, prophecies that have been tested and found to be genuine.</p>"
+    },
+    {
+      "sequence": 15694,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.22",
+      "citation": {
+        "short": "1Thess 5:22",
+        "long": "1 Thessalonians 5:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.22\">5:22</a></span> They should reject <span class=\"sn-excerpt\">every kind of evil</span><span class=\"ital\">,</span> especially false prophecies (<a href=\"?bref=1Thes.5.19-21\">5:19-21</a>).</p>"
+    },
+    {
+      "sequence": 15695,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.23",
+      "citation": {
+        "short": "1Thess 5:23",
+        "long": "1 Thessalonians 5:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.23-28\">5:23-28</a></span> Greek and Roman letters ended with a wish for the good health of the recipient. Jewish letters concluded with a peace blessing. Paul closes with a Christian variation on these practices.</p>"
+    },
+    {
+      "sequence": 15696,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.23",
+      "citation": {
+        "short": "1Thess 5:23",
+        "long": "1 Thessalonians 5:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.23\">5:23</a></span> God enables Christians to live a <span class=\"sn-excerpt\">holy</span> life (<a href=\"?bref=1Thes.3.11-13\">3:11-13</a>). His sanctifying work extends to the <span class=\"sn-excerpt\">spirit and soul and body</span><span class=\"ital\">,</span> the totality of human life (cp. <a href=\"?bref=Matt.10.28\">Matt 10:28</a>; <a href=\"?bref=Mark.12.30\">Mark 12:30</a>; <a href=\"?bref=1Cor.7.34\">1 Cor 7:34</a>).</p>"
+    },
+    {
+      "sequence": 15697,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.24",
+      "citation": {
+        "short": "1Thess 5:24",
+        "long": "1 Thessalonians 5:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.24\">5:24</a></span> <span class=\"sn-excerpt\">God will make this happen:</span> Paul bases his confidence on the <span class=\"sn-excerpt\">faithful</span> character of God (<a href=\"?bref=1Cor.1.9\">1 Cor 1:9</a>; <a href=\"?bref=2Thes.3.3\">2 Thes 3:3</a>; <a href=\"?bref=2Tim.2.13\">2 Tim 2:13</a>; <a href=\"?bref=1Jn.1.9\">1 Jn 1:9</a>).</p>"
+    },
+    {
+      "sequence": 15698,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.26",
+      "citation": {
+        "short": "1Thess 5:26",
+        "long": "1 Thessalonians 5:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.26\">5:26</a></span> <span class=\"sn-excerpt\">a sacred kiss</span> (see also <a href=\"?bref=Rom.16.16\">Rom 16:16</a>; <a href=\"?bref=1Cor.16.20\">1 Cor 16:20</a>; <a href=\"?bref=2Cor.13.12\">2 Cor 13:12</a>; <a href=\"?bref=1Pet.5.14\">1 Pet 5:14</a>): Kissing on the cheek or forehead was a common form of greeting that reflected such sentiments as honor, friendship, and love among family members (<a href=\"?bref=Mark.14.44-45\">Mark 14:44-45</a>; <a href=\"?bref=Luke.7.36-47\">Luke 7:36-47</a>; <a href=\"?bref=Luke.15.20\">15:20</a>; <a href=\"?bref=Acts.20.37\">Acts 20:37</a>).</p>"
+    },
+    {
+      "sequence": 15699,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.27",
+      "citation": {
+        "short": "1Thess 5:27",
+        "long": "1 Thessalonians 5:27"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.27\">5:27</a></span> <span class=\"sn-excerpt\">read this letter:</span> Public reading of Scripture was practiced in both the synagogue (<a href=\"?bref=Luke.4.16\">Luke 4:16</a>; <a href=\"?bref=Acts.13.15\">Acts 13:15</a>) and the church (<a href=\"?bref=1Tim.4.13\">1 Tim 4:13</a>). Similarly, Paul’s letters were to be read aloud to the whole congregation (<a href=\"?bref=Col.4.16\">Col 4:16</a>).</p>"
+    },
+    {
+      "sequence": 15700,
+      "bookOsisID": "1Thess",
+      "chapterOsisID": "1Thess.5",
+      "verseOsisID": "1Thess.5.28",
+      "citation": {
+        "short": "1Thess 5:28",
+        "long": "1 Thessalonians 5:28"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=1Thes.5.28\">5:28</a></span> Paul improves the customary greeting by adding a blessing of <span class=\"sn-excerpt\">grace</span> at the end of his correspondence (<a href=\"?bref=Rom.16.20\">Rom 16:20</a>; <a href=\"?bref=1Cor.16.23\">1 Cor 16:23</a>; <a href=\"?bref=Gal.6.18\">Gal 6:18</a>; <a href=\"?bref=Eph.6.24\">Eph 6:24</a>; <a href=\"?bref=2Thes.3.18\">2 Thes 3:18</a>).</p>"
+    }
+  ]
+}

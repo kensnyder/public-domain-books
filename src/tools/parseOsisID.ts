@@ -29,7 +29,7 @@ export default function parseOsisID(verseString: string) {
 
 export function parseVerseOsisID(verse: string) {
   const parsed = parseOsisID(verse);
-  if (!parsed.chapterNumber || !parsed.verseNumber) {
+  if (parsed.chapterNumber === null || parsed.verseNumber === null) {
     return null;
   }
   return parsed;

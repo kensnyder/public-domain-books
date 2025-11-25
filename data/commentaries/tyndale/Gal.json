@@ -1,0 +1,1871 @@
+{
+  "author": "William Tyndale",
+  "title": "Tyndale Open Study Notes",
+  "copyright": "© 2022 by Tyndale House Publishers",
+  "attribution": "CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0 and http://www.tyndaleopenresources.com",
+  "source": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+  "bookOsisID": "Gal",
+  "bookName": "Galatians",
+  "importedAt": "2025-11-25",
+  "commentary": [
+    {
+      "sequence": 15150,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.1",
+      "citation": {
+        "short": "Gal 1:1",
+        "long": "Galatians 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.1-2.21\">1:1–2:21</a></span> Paul’s opponents had questioned his integrity and authority as an apostle, so he opens his letter by defending his apostleship.</p>"
+    },
+    {
+      "sequence": 15151,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.1",
+      "citation": {
+        "short": "Gal 1:1",
+        "long": "Galatians 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.1-5\">1:1-5</a></span> As in all his letters, Paul identifies himself and greets the recipients. This greeting is notable for (1) Paul’s strong assertion of his apostolic authority (<a href=\"?bref=Gal.1.1\">1:1</a>); and (2) the lack of thanks, prayer, or praise, which are replaced by rebuke (<a href=\"?bref=Gal.1.6-10\">1:6-10</a>).</p>"
+    },
+    {
+      "sequence": 15152,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.1",
+      "citation": {
+        "short": "Gal 1:1",
+        "long": "Galatians 1:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.1\">1:1</a></span> <span class=\"sn-excerpt\">Paul, an apostle:</span> Apostles were commissioned representatives having authority delegated by a sending agent, often a church body or council (e.g., <a href=\"?bref=2Cor.8.23\">2 Cor 8:23</a>; <a href=\"?bref=Phil.2.25\">Phil 2:25</a>). But Paul was not made an apostle by the Jerusalem church. Rather, he was directly commissioned <span class=\"sn-excerpt\">by Jesus Christ himself</span> and had Christ’s authority (<a href=\"?bref=Acts.9.1-15\">Acts 9:1-15</a>; <a href=\"?bref=Acts.26.12-20\">26:12-20</a>; see also <a href=\"?bref=Rom.1.5\">Rom 1:5</a>), which gave him equal authority with the other apostles. • Paul traced his commission to <span class=\"sn-excerpt\">God the Father, who raised Jesus from the dead</span>. The resurrection made Paul’s commission possible.</p>"
+    },
+    {
+      "sequence": 15153,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.2",
+      "citation": {
+        "short": "Gal 1:2",
+        "long": "Galatians 1:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.2\">1:2</a></span> <span class=\"sn-excerpt\">the brothers and sisters here join me:</span> Paul probably wrote from Antioch of Syria. Antioch was the hub of Paul’s ministry and the earliest center of Gentile Christianity (see <a href=\"?bref=Acts.11.20-26\">Acts 11:20-26</a>). Paul did not stand alone (as his opponents in Galatia might have suggested), but in fellowship with a significant New Testament church. • <span class=\"sn-excerpt\">The churches of Galatia</span> were probably founded by Paul during his first missionary journey (<a href=\"?bref=Acts.13.4-14.26\">Acts 13:4–14:26</a>; see <a href=\"?item=Gal_BookIntro_Filament\">Galatians Book Introduction</a>, “Recipients”).</p>"
+    },
+    {
+      "sequence": 15154,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.3",
+      "citation": {
+        "short": "Gal 1:3",
+        "long": "Galatians 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.3-5\">1:3-5</a></span> Paul followed the usual practice for first-century letters, including this greeting and wish of well-being as well as introducing the main topic, the Good News.</p>"
+    },
+    {
+      "sequence": 15155,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.3",
+      "citation": {
+        "short": "Gal 1:3",
+        "long": "Galatians 1:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.3\">1:3</a></span> <span class=\"sn-excerpt\">May God . . . give you grace and peace:</span> This typical greeting by Paul (see also <a href=\"?item=ICor.1.3_StudyNote_Filament\">study note on 1 Cor 1:3</a>) uses elements of Greek and Hebrew greetings: “grace” (Greek <span class=\"greek\">charis</span>), is similar to “greetings” (Greek <span class=\"greek\">chairein</span>); “peace” mirrors Hebrew <span class=\"hebrew\">shalom</span>. Thus Paul included both Jewish and Gentile Christians (cp. <a href=\"?bref=Gal.3.28\">Gal 3:28</a>). The Galatians were at risk of losing God’s grace and peace (<a href=\"?bref=Gal.3.1-4\">3:1-4</a>; <a href=\"?bref=Gal.5.1-4\">5:1-4</a>).</p>"
+    },
+    {
+      "sequence": 15156,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.4",
+      "citation": {
+        "short": "Gal 1:4",
+        "long": "Galatians 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.4-5\">1:4-5</a></span> This summary of the Good News is the basis for the rebuke that follows (<a href=\"?bref=Gal.1.6-10\">1:6-10</a>). This might be a creed or confession of faith that Paul used to remind the Galatians of the message they had earlier embraced.</p>"
+    },
+    {
+      "sequence": 15157,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.4",
+      "citation": {
+        "short": "Gal 1:4",
+        "long": "Galatians 1:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.4\">1:4</a></span> Because Jesus completely rescued us from <span class=\"sn-excerpt\">our sins</span><span class=\"ital\">,</span> there is no place for efforts to save ourselves. • Christian faith rescues us from <span class=\"sn-excerpt\">this evil world in which we live</span> (see <a href=\"?bref=Gal.4.8-12\">4:8-12</a>; <a href=\"?bref=Gal.5.13-26\">5:13-26</a>).</p>"
+    },
+    {
+      "sequence": 15158,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.5",
+      "citation": {
+        "short": "Gal 1:5",
+        "long": "Galatians 1:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.5\">1:5</a></span> <span class=\"sn-excerpt\">All glory</span> must go <span class=\"sn-excerpt\">to God</span> for salvation, because it is his work alone.</p>"
+    },
+    {
+      "sequence": 15159,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.6",
+      "citation": {
+        "short": "Gal 1:6",
+        "long": "Galatians 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.6-10\">1:6-10</a></span> <span class=\"sn-excerpt\">I am shocked:</span> In most of his letters, Paul followed his greeting with gratitude for his readers and a prayer for them (e.g., <a href=\"?bref=Rom.1.8-10\">Rom 1:8-10</a>; <a href=\"?bref=1Cor.1.4-5\">1 Cor 1:4-5</a>; <a href=\"?bref=Phil.1.3-6\">Phil 1:3-6</a>; <a href=\"?bref=Col.1.3-5\">Col 1:3-5</a>; <a href=\"?bref=2Thes.1.3-12\">2 Thes 1:3-12</a>), but he found nothing to praise in the Galatian church.</p>"
+    },
+    {
+      "sequence": 15160,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.6",
+      "citation": {
+        "short": "Gal 1:6",
+        "long": "Galatians 1:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.6\">1:6</a></span> The Galatians were <span class=\"sn-excerpt\">turning away . . . from God</span> by rejecting the Good News Paul proclaimed and looking instead to the law. God <span class=\"sn-excerpt\">called</span> them to himself <span class=\"sn-excerpt\">through the loving mercy of Christ,</span> not through the law (<a href=\"?bref=Gal.2.16\">2:16</a>). • <span class=\"sn-excerpt\">God, who called you:</span> Cp. <a href=\"?bref=Gal.1.15\">1:15</a>; <a href=\"?bref=Rom.8.30\">Rom 8:30</a>; <a href=\"?bref=Rom.9.24\">9:24</a>; <a href=\"?bref=Rom.11.29\">11:29</a>. • <span class=\"sn-excerpt\">a different way that pretends to be the Good News:</span> Some were teaching that Gentile Christians had to be circumcised to be considered members of God’s family. Paul rejected any requirement besides faith in Jesus (cp. <a href=\"?bref=Gal.5.2-4\">Gal 5:2-4</a>).</p>"
+    },
+    {
+      "sequence": 15161,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.7",
+      "citation": {
+        "short": "Gal 1:7",
+        "long": "Galatians 1:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.7\">1:7</a></span> The “different way” (<a href=\"?bref=Gal.1.6\">1:6</a>) was a distortion, <span class=\"sn-excerpt\">not the Good News</span> of salvation <span class=\"sn-excerpt\">at all</span>. The only way to be saved is by faith in Christ. Adding any requirements makes the message no longer the Good News. • <span class=\"sn-excerpt\">those who deliberately twist the truth concerning Christ:</span> The Judaizers knew they were changing the Good News to fit their views.</p>"
+    },
+    {
+      "sequence": 15162,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.8",
+      "citation": {
+        "short": "Gal 1:8",
+        "long": "Galatians 1:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.8-9\">1:8-9</a></span> <span class=\"sn-excerpt\">Let God’s curse fall on anyone</span> (literally <span class=\"ital\">Let that person be anathema</span>): The Greek word <span class=\"greek\">anathema</span> was often used to translate the Hebrew <span class=\"hebrew\">kherem</span><span class=\"ital\">,</span> which in the Old Testament means something dedicated to God for total destruction (see <a href=\"?bref=Lev.27.28-29\">Lev 27:28-29</a>; cp. <a href=\"?bref=Rom.9.3\">Rom 9:3</a>; <a href=\"?bref=1Cor.12.3\">1 Cor 12:3</a>; <a href=\"?bref=1Cor.16.22\">16:22</a>). Paul was invoking God’s strongest wrath on those who distort the Good News (<a href=\"?bref=Gal.1.7\">Gal 1:7</a>). • <span class=\"sn-excerpt\">including us or even an angel from heaven:</span> No one is authorized to change the Good News (cp. <a href=\"?bref=Gal.2.6-10\">2:6-10</a>, <a href=\"?bref=Gal.2.11-14\">11-14</a>).</p>"
+    },
+    {
+      "sequence": 15163,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.9",
+      "citation": {
+        "short": "Gal 1:9",
+        "long": "Galatians 1:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.9\">1:9</a></span> The <span class=\"sn-excerpt\">Good News . . . you welcomed</span> was precisely the message Paul had preached to them (<a href=\"?bref=Gal.1.8\">1:8</a>; cp. <a href=\"?bref=2Thes.2.15\">2 Thes 2:15</a>).</p>"
+    },
+    {
+      "sequence": 15164,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.10",
+      "citation": {
+        "short": "Gal 1:10",
+        "long": "Galatians 1:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.10\">1:10</a></span> The tone and content of this letter make it clear that <span class=\"sn-excerpt\">trying to win the approval of people</span> was not Paul’s goal. Paul was probably criticized by the Judaizers for trying to please people by presenting only the part of the Good News pertaining to faith and grace, and not what they perceived to be the whole message including the law. • Being <span class=\"sn-excerpt\">Christ’s servant</span> requires fidelity to Christ, regardless of how people respond (cp. <a href=\"?bref=Acts.5.29\">Acts 5:29</a>; <a href=\"?bref=Eph.6.5-6\">Eph 6:5-6</a>; <a href=\"?bref=1Thes.2.3-6\">1 Thes 2:3-6</a>).</p>"
+    },
+    {
+      "sequence": 15165,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.11",
+      "citation": {
+        "short": "Gal 1:11",
+        "long": "Galatians 1:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.11-2.21\">1:11–2:21</a></span> The Judaizers who had come to Galatia preaching faith plus circumcision questioned Paul’s apostleship and attempted to discredit his message. Paul defended his apostolic authority, demonstrating from past events that his message was the true Good News.</p>"
+    },
+    {
+      "sequence": 15166,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.11",
+      "citation": {
+        "short": "Gal 1:11",
+        "long": "Galatians 1:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.11\">1:11</a></span> <span class=\"sn-excerpt\">the gospel message I preach:</span> Paul’s message was that people are made right with God by grace through faith, not by obeying the law (see <a href=\"?bref=Gal.2.16-17\">2:16-17</a>; <a href=\"?bref=Rom.10.9-13\">Rom 10:9-13</a>; <a href=\"?bref=Eph.2.8-9\">Eph 2:8-9</a>).</p>"
+    },
+    {
+      "sequence": 15167,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.12",
+      "citation": {
+        "short": "Gal 1:12",
+        "long": "Galatians 1:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.12\">1:12</a></span> <span class=\"sn-excerpt\">no human source . . . no one taught me:</span> Jewish scholars primarily depended on teachers. The Judaizers argued that Paul had received his commission and message from the other apostles, but then had unfaithfully changed the message. • <span class=\"sn-excerpt\">I received it by direct revelation from Jesus Christ:</span> See <a href=\"?bref=Gal.1.17\">1:17</a>; <a href=\"?bref=Acts.9.3-15\">Acts 9:3-15</a>; <a href=\"?bref=Acts.26.12-18\">26:12-18</a>. Paul’s unique experience gave him distinctive authority and insight. But he learned other matters, such as the life of Christ, from others (e.g., <a href=\"?bref=Gal.1.18\">Gal 1:18</a>; <a href=\"?bref=1Cor.11.23-26\">1 Cor 11:23-26</a>; <a href=\"?bref=1Cor.15.3-11\">15:3-11</a>).</p>"
+    },
+    {
+      "sequence": 15168,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.13",
+      "citation": {
+        "short": "Gal 1:13",
+        "long": "Galatians 1:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.13-14\">1:13-14</a></span> To prove that his message did not come from human reason (<a href=\"?bref=Gal.1.11\">1:11</a>), Paul describes what he was like before he encountered Christ: He was a highly successful Jew (see <a href=\"?bref=Acts.8.1-3\">Acts 8:1-3</a>; <a href=\"?bref=Acts.22.1-5\">22:1-5</a>; <a href=\"?bref=Acts.26.4-5\">26:4-5</a>; <a href=\"?bref=Phil.3.4-7\">Phil 3:4-7</a>). His antagonism to <span class=\"sn-excerpt\">God’s church</span> and strict adherence to Judaism demonstrated his faith in the law before Christ confronted him (<a href=\"?bref=Gal.1.15-16\">Gal 1:15-16</a>).</p>"
+    },
+    {
+      "sequence": 15169,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.14",
+      "citation": {
+        "short": "Gal 1:14",
+        "long": "Galatians 1:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.14\">1:14</a></span> <span class=\"sn-excerpt\">zeal for the traditions of my ancestors:</span> Cp. <a href=\"?bref=Mark.7.6-13\">Mark 7:6-13</a>.</p>"
+    },
+    {
+      "sequence": 15170,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.15",
+      "citation": {
+        "short": "Gal 1:15",
+        "long": "Galatians 1:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.15-16\">1:15-16</a></span> <span class=\"sn-excerpt\">even before I was born:</span> Cp. <a href=\"?bref=Jer.1.5\">Jer 1:5</a>; see also <a href=\"?bref=Ps.139.13-16\">Ps 139:13-16</a>; <a href=\"?bref=Isa.49.1-6\">Isa 49:1-6</a>; <a href=\"?bref=Rom.9.10-13\">Rom 9:10-13</a>. • <span class=\"sn-excerpt\">God chose me and called me:</span> For the account of Paul’s conversion, see <a href=\"?bref=Acts.9.1-19\">Acts 9:1-19</a>; <a href=\"?bref=Acts.22.1-21\">22:1-21</a>; <a href=\"?bref=Acts.26.9-23\">26:9-23</a>. • Paul’s calling was specifically to <span class=\"sn-excerpt\">proclaim the Good News about Jesus to the Gentiles</span> (<a href=\"?bref=Gal.2.7\">Gal 2:7</a>), and he even educated other apostles in what that means (e.g., <a href=\"?bref=Gal.2.11-21\">2:11-21</a>). • <span class=\"sn-excerpt\">to reveal his Son to me</span> (or <span class=\"ital\">in me</span>): This might refer to Paul’s encounter with Christ (<a href=\"?bref=Acts.9.1-19\">Acts 9:1-19</a>; cp. <a href=\"?bref=1Cor.9.1\">1 Cor 9:1</a>; <a href=\"?bref=1Cor.15.8\">15:8</a>); <span class=\"ital\">in me</span> might also suggest an internal revelation (cp. <a href=\"?bref=Gal.2.20\">Gal 2:20</a>; <a href=\"?bref=Gal.4.6-7\">4:6-7</a>) and implies that Paul’s changed heart revealed Christ to others.</p>"
+    },
+    {
+      "sequence": 15171,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.16",
+      "citation": {
+        "short": "Gal 1:16",
+        "long": "Galatians 1:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.16-20\">1:16b-20</a></span> Paul was taught by the Lord directly and <span class=\"sn-excerpt\">did not . . . consult with any human being,</span> even the other <span class=\"sn-excerpt\">apostles</span>. Paul was independent from the other apostles yet in harmony with them (<a href=\"?bref=Gal.2.1-10\">2:1-10</a>).</p>"
+    },
+    {
+      "sequence": 15172,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.17",
+      "citation": {
+        "short": "Gal 1:17",
+        "long": "Galatians 1:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.17\">1:17</a></span> <span class=\"sn-excerpt\">those who were apostles before I was:</span> Paul put his own apostleship in the same category as the original disciples (see <a href=\"?bref=1Cor.9.1\">1 Cor 9:1</a>; <a href=\"?bref=1Cor.15.5-9\">15:5-9</a>; cp. <a href=\"?bref=Acts.1.22\">Acts 1:22</a>; <a href=\"?bref=Acts.10.41\">10:41</a>). • Paul’s trip to <span class=\"sn-excerpt\">Arabia</span> is not mentioned elsewhere; his understanding of the Good News was apparently formed during that time. Paul knew the Scriptures (see <a href=\"?bref=Acts.22.3\">Acts 22:3</a>), the claims of the first Christians (see <a href=\"?bref=Acts.8.1\">Acts 8:1</a>), and what others had told him since his conversion.</p>"
+    },
+    {
+      "sequence": 15173,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.18",
+      "citation": {
+        "short": "Gal 1:18",
+        "long": "Galatians 1:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.18-20\">1:18-20</a></span> <span class=\"sn-excerpt\">Peter</span> and <span class=\"sn-excerpt\">James</span> had <span class=\"sn-excerpt\">fifteen days</span> to talk with Paul about his message, which was clearly in harmony with theirs. Paul did not receive a commission from the Jerusalem church—his apostleship did not derive from Jerusalem.</p>"
+    },
+    {
+      "sequence": 15174,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.18",
+      "citation": {
+        "short": "Gal 1:18",
+        "long": "Galatians 1:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.18\">1:18</a></span> <span class=\"sn-excerpt\">three years later</span> (or <span class=\"ital\">in the third year</span>): Either three years after Paul’s conversion or after his return from Arabia. This event is probably the visit recorded in <a href=\"?bref=Acts.9.26-30\">Acts 9:26-30</a>. • <span class=\"sn-excerpt\">to get to know Peter:</span> Peter had something Paul did not: deep personal acquaintance with Jesus during Jesus’ earthly ministry. • <span class=\"sn-excerpt\">Fifteen days</span> was much too short a time for Paul to become dependent on Peter as his mentor, but plenty of time for the content of each man’s preaching to be thoroughly discussed.</p>"
+    },
+    {
+      "sequence": 15175,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.20",
+      "citation": {
+        "short": "Gal 1:20",
+        "long": "Galatians 1:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.20\">1:20</a></span> <span class=\"sn-excerpt\">I declare before God:</span> Paul here takes an oath to emphasize the truthfulness of his account of his trip to Jerusalem.</p>"
+    },
+    {
+      "sequence": 15176,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.21",
+      "citation": {
+        "short": "Gal 1:21",
+        "long": "Galatians 1:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.21-22\">1:21-22</a></span> Paul was not working under the supervision of the apostles in Jerusalem nor of the <span class=\"sn-excerpt\">churches</span> . . . <span class=\"sn-excerpt\">in Judea</span>.</p>"
+    },
+    {
+      "sequence": 15177,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.1",
+      "verseOsisID": "Gal.1.23",
+      "citation": {
+        "short": "Gal 1:23",
+        "long": "Galatians 1:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.1.23-24\">1:23-24</a></span> Paul’s conversion was a source of rejoicing in the Jerusalem church. This change (cp. <a href=\"?bref=Gal.1.13-14\">1:13-14</a>) and his message were both the work of God (cp. <a href=\"?bref=Acts.9.31\">Acts 9:31</a>). Paul was not out of sync with the church in Jerusalem.</p>"
+    },
+    {
+      "sequence": 15178,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.1",
+      "citation": {
+        "short": "Gal 2:1",
+        "long": "Galatians 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.1-10\">2:1-10</a></span> During Paul’s second visit to Jerusalem, the other apostles affirmed his message. Traditionally, this passage has been seen as a description of the church council (<a href=\"?bref=Acts.15.1-41\">Acts 15:1-41</a>), but it is much more likely that Paul was talking about his previous visit to Jerusalem (<a href=\"?bref=Acts.11.30\">Acts 11:30</a>; <a href=\"?bref=Acts.12.25\">12:25</a>; see <a href=\"?item=Gal_BookIntro_Filament\">Galatians Book Introduction</a>, “Date of Writing”).</p>"
+    },
+    {
+      "sequence": 15179,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.1",
+      "citation": {
+        "short": "Gal 2:1",
+        "long": "Galatians 2:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.1\">2:1</a></span> Counting <span class=\"sn-excerpt\">fourteen years</span> from Paul’s conversion (<a href=\"?bref=Gal.1.15-17\">1:15-17</a>), instead of from his previous visit (<a href=\"?bref=Gal.1.18\">1:18</a>), fits well with Acts. • That <span class=\"sn-excerpt\">Barnabas</span> was familiar to the Galatians suggests that the Galatians were evangelized during the first missionary journey (<a href=\"?bref=Acts.13.4-14.26\">Acts 13:4–14:26</a>; see <a href=\"?item=Gal_BookIntro_Filament\">Galatians Book Introduction</a>, “Recipients”). • <span class=\"sn-excerpt\">Titus:</span> See “<a href=\"?item=Titus_Profile_Filament\">Titus</a>” Profile.</p>"
+    },
+    {
+      "sequence": 15180,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.2",
+      "citation": {
+        "short": "Gal 2:2",
+        "long": "Galatians 2:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.2\">2:2</a></span> If <a href=\"?bref=Gal.2.1-10\">2:1-10</a> correlates with the visit of <a href=\"?bref=Acts.11.30\">Acts 11:30</a>, <span class=\"sn-excerpt\">God</span> might have <span class=\"sn-excerpt\">revealed</span> his will through Agabus’s prophecy and the church’s decision to send aid (<a href=\"?bref=Acts.11.27-29\">Acts 11:27-29</a>). • If Paul needed the endorsement of the leaders in Jerusalem, he would have met with them publicly; that they <span class=\"sn-excerpt\">met privately</span> indicates that no one thought he needed public endorsement. • <span class=\"sn-excerpt\">those considered to be leaders of the church:</span> Paul’s tone downplays their importance, perhaps to counteract the false teachers’ undue regard for them. • Paul <span class=\"sn-excerpt\">shared</span> his <span class=\"sn-excerpt\">message</span> with the apostles in Jerusalem, not for endorsement, but to ensure <span class=\"sn-excerpt\">agreement</span><span class=\"ital\">,</span> so that the church would not split into Jewish and Gentile factions. • <span class=\"sn-excerpt\">for fear that all my efforts had been wasted:</span> A split between Jewish and Gentile Christians would undermine the fundamental unity that Christ had secured (<a href=\"?bref=Gal.3.28\">Gal 3:28</a>).</p>"
+    },
+    {
+      "sequence": 15181,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.3",
+      "citation": {
+        "short": "Gal 2:3",
+        "long": "Galatians 2:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.3\">2:3</a></span> The Jerusalem apostles affirmed Paul’s message without qualification. They stood together on the same Good News—that God’s grace comes through faith in Christ, not through keeping the law. Clearly the Jerusalem apostles did not think that circumcision was necessary for <span class=\"sn-excerpt\">a Gentile</span> like <span class=\"sn-excerpt\">Titus</span>.</p>"
+    },
+    {
+      "sequence": 15182,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.4",
+      "citation": {
+        "short": "Gal 2:4",
+        "long": "Galatians 2:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.4-5\">2:4-5</a></span> The false Christians entered the church <span class=\"sn-excerpt\">there</span> (either Jerusalem or Antioch) to subvert Paul’s message that Gentiles are free from Jewish requirements such as circumcision.</p>"
+    },
+    {
+      "sequence": 15183,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.4",
+      "citation": {
+        "short": "Gal 2:4",
+        "long": "Galatians 2:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.4\">2:4</a></span> By labeling <span class=\"sn-excerpt\">some so-called believers</span> as <span class=\"sn-excerpt\">false,</span> Paul denied that they were Christians at all. They did not understand or truly receive the Good News, in contrast with the apostles in Jerusalem (<a href=\"?bref=Gal.2.3\">2:3</a>). • <span class=\"sn-excerpt\">were secretly brought in:</span> Paul implies that a larger group of Jewish “Christians” opposed his preaching (cp. <a href=\"?bref=Acts.15.5\">Acts 15:5</a>) and stood behind the false teachers who entered the church. • Requiring Gentile Christians to observe Jewish law would <span class=\"sn-excerpt\">enslave</span> them to regulations (see <a href=\"?bref=Gal.3.23-4.11\">Gal 3:23–4:11</a>) and deny the Good News of Christ.</p>"
+    },
+    {
+      "sequence": 15184,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.5",
+      "citation": {
+        "short": "Gal 2:5",
+        "long": "Galatians 2:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.5\">2:5</a></span> <span class=\"sn-excerpt\">we refused to give in to them for a single moment:</span> Titus was not circumcised (<a href=\"?bref=Gal.2.3\">2:3</a>), and Paul did not require circumcision of Gentile Christians. • <span class=\"sn-excerpt\">to preserve the truth:</span> The false teaching would destroy <span class=\"sn-excerpt\">the gospel message</span> by adding other requirements and impeaching the effectiveness of Christ’s death and God’s grace (cp. <a href=\"?bref=Gal.2.11-21\">2:11-21</a>).</p>"
+    },
+    {
+      "sequence": 15185,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.6",
+      "citation": {
+        "short": "Gal 2:6",
+        "long": "Galatians 2:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.6-10\">2:6-10</a></span> Paul’s message was in harmony with the Jerusalem apostles, but their affirmation was not the source of Paul’s authority (<a href=\"?bref=Gal.1.12\">1:12</a>, <a href=\"?bref=Gal.1.16-20\">16-20</a>).</p>"
+    },
+    {
+      "sequence": 15186,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.6",
+      "citation": {
+        "short": "Gal 2:6",
+        "long": "Galatians 2:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.6\">2:6</a></span> The Jerusalem apostles’ <span class=\"sn-excerpt\">reputation as great leaders</span> was probably derived from their personal acquaintance with Jesus’ earthly ministry, which did not give them greater apostolic authority than Paul had. What mattered most was Christ’s personal commission (see <a href=\"?bref=1Cor.9.1\">1 Cor 9:1</a>; cp. <a href=\"?bref=2Cor.12.11-12\">2 Cor 12:11-12</a>). • <span class=\"sn-excerpt\">God has no favorites:</span> The Judaizers probably regarded the Jerusalem apostles’ earthly relationship with Jesus as an advantage. Paul argues that such favoritism is inconsistent with God’s character (cp. <a href=\"?bref=Lev.19.15-16\">Lev 19:15-16</a>; <a href=\"?bref=Deut.1.17\">Deut 1:17</a>; <a href=\"?bref=2Chr.19.7\">2 Chr 19:7</a>; <a href=\"?bref=Job.13.10\">Job 13:10</a>; <a href=\"?bref=Ps.82.1-2\">Ps 82:1-2</a>; <a href=\"?bref=Pr.18.5\">Prov 18:5</a>; <a href=\"?bref=Mal.2.8-9\">Mal 2:8-9</a>).</p>"
+    },
+    {
+      "sequence": 15187,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.7",
+      "citation": {
+        "short": "Gal 2:7",
+        "long": "Galatians 2:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.7-8\">2:7-8</a></span> The apostles in Jerusalem <span class=\"sn-excerpt\">saw that</span> Paul and Peter had different scopes of ministry (for Peter’s, see <a href=\"?bref=Acts.1.1-5.42\">Acts 1:1–5:42</a>; <a href=\"?bref=Acts.9.1-10.48\">9:1–10:48</a>; for Paul’s, see <a href=\"?bref=Acts.13.1-28.31\">Acts 13:1–28:31</a>), but they both preached the same <span class=\"sn-excerpt\">gospel</span>.</p>"
+    },
+    {
+      "sequence": 15188,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.9",
+      "citation": {
+        "short": "Gal 2:9",
+        "long": "Galatians 2:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.9\">2:9</a></span> <span class=\"sn-excerpt\">James:</span> See “<a href=\"?item=JamesBrotherofJesus_Profile_Filament\">James, Brother of Jesus</a>” Profile. • <span class=\"sn-excerpt\">they accepted Barnabas and me as their co-workers</span> (literally <span class=\"ital\">they gave me and Barnabas a right hand of fellowship</span>): This symbolic handshake showed full acceptance for Paul and Barnabas, their ministry, and their message.</p>"
+    },
+    {
+      "sequence": 15189,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.10",
+      "citation": {
+        "short": "Gal 2:10",
+        "long": "Galatians 2:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.10\">2:10</a></span> The mention of <span class=\"sn-excerpt\">helping the poor</span> connects this narrative with <a href=\"?bref=Acts.11.30\">Acts 11:30</a>; <a href=\"?bref=Acts.12.25\">12:25</a>. The Christians in Judea suffered years of deep poverty, and Paul was <span class=\"sn-excerpt\">eager</span> to have the Gentile churches alleviate some of that difficulty and build unity with the Jewish church (see <a href=\"?bref=Rom.15.25-27\">Rom 15:25-27</a>; <a href=\"?bref=1Cor.16.1-4\">1 Cor 16:1-4</a>; <a href=\"?bref=2Cor.8.1-9.15\">2 Cor 8:1–9:15</a>).</p>"
+    },
+    {
+      "sequence": 15190,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.11",
+      "citation": {
+        "short": "Gal 2:11",
+        "long": "Galatians 2:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.11-21\">2:11-21</a></span> In Antioch, Peter and others compromised the Good News in contradiction of their own principles (this incident is not recorded in Acts). Paul’s rebuke of Peter showed that Paul’s apostleship was independent of Jerusalem and faithful to the Good News of Christ.</p>"
+    },
+    {
+      "sequence": 15191,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.11",
+      "citation": {
+        "short": "Gal 2:11",
+        "long": "Galatians 2:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.11\">2:11</a></span> <span class=\"sn-excerpt\">when Peter came to Antioch:</span> This occasion, not recorded in Acts, probably occurred following the return of Paul and Barnabas from their first missionary journey (<a href=\"?bref=Acts.14.26-28\">Acts 14:26-28</a>). Paul probably wrote this letter soon afterward. • <span class=\"sn-excerpt\">what he did was very wrong</span> (or <span class=\"ital\">he stood condemned</span>): Peter’s actions were inconsistent with what he knew to be true—that God accepts Gentiles by faith, not by keeping the law (see <a href=\"?bref=Acts.10.1-11.30\">Acts 10–11</a>). • Paul <span class=\"sn-excerpt\">had to oppose</span> Peter <span class=\"sn-excerpt\">to his face</span>. Paul wanted to keep the Good News from being corrupted (<a href=\"?bref=Gal.2.21\">Gal 2:21</a>), which required showing publicly that Peter’s own public action was wrong (cp. <a href=\"?bref=1Tim.5.20\">1 Tim 5:20</a>).</p>"
+    },
+    {
+      "sequence": 15192,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.12",
+      "citation": {
+        "short": "Gal 2:12",
+        "long": "Galatians 2:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.12\">2:12</a></span> That Peter <span class=\"sn-excerpt\">ate with the Gentile believers</span> was consistent with what God had shown him (<a href=\"?bref=Acts.10.9-16\">Acts 10:9-16</a>, <a href=\"?bref=Acts.10.34-35\">34-35</a>). • The <span class=\"sn-excerpt\">friends of James</span> wanted to reassert Jewish scruples and prevent the free communion between Gentiles and Jews from continuing. • <span class=\"sn-excerpt\">Peter wouldn’t eat with the Gentiles anymore:</span> When Peter refused to share regular meals and the Lord’s Supper (cp. <a href=\"?bref=1Cor.11.20-22\">1 Cor 11:20-22</a>, <a href=\"?bref=1Cor.11.33-34\">33-34</a>) with fellow Christians, he divided the Jewish and Gentile Christians and implied that the Jews’ observances made them more acceptable to God. Peter’s example, if uncorrected, would have undermined the Good News of salvation by grace through faith. • <span class=\"sn-excerpt\">He was afraid:</span> The friends of James intimidated Peter, who had previously withstood the same sort of <span class=\"sn-excerpt\">criticism</span> with power and eloquence (<a href=\"?bref=Acts.11.2-18\">Acts 11:2-18</a>). Peter might have been trying to avoid creating a barrier for the evangelism of Jews, or he might have been concerned for the safety and well-being of the Jewish Christians in Judea, who experienced persecution from non-Christian Jews (cp. <a href=\"?bref=Gal.5.11\">5:11</a>; <a href=\"?bref=Gal.6.12\">6:12</a>). In any case, his actions were inexcusable.</p>"
+    },
+    {
+      "sequence": 15193,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.13",
+      "citation": {
+        "short": "Gal 2:13",
+        "long": "Galatians 2:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.13\">2:13</a></span> Peter’s <span class=\"sn-excerpt\">hypocrisy</span> drew <span class=\"sn-excerpt\">other Jewish believers</span> into error regarding the Good News.</p>"
+    },
+    {
+      "sequence": 15194,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.14",
+      "citation": {
+        "short": "Gal 2:14",
+        "long": "Galatians 2:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.14-21\">2:14-21</a></span> The actions of Peter and the others implied that faith in Christ was not enough. Paul eloquently argues against such a compromise of the <span class=\"sn-excerpt\">truth of the gospel message</span><span class=\"ital\">,</span> showing that the law plays no role in defining a Christian’s position before God, which is by grace through faith (<a href=\"?bref=Eph.2.8-9\">Eph 2:8-9</a>). • It is not clear where Paul’s public rebuke of Peter ends and his message to the Galatians resumes (see <a href=\"?item=Gal.2.16_StudyNote_Filament\">study note on Gal 2:16</a>). While Paul was recounting his address to Peter, he was also speaking to the Galatians. His rebuke of Peter was also a rebuke of them (see <a href=\"?bref=Gal.3.1\">3:1</a>).</p>"
+    },
+    {
+      "sequence": 15195,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.14",
+      "citation": {
+        "short": "Gal 2:14",
+        "long": "Galatians 2:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.14\">2:14</a></span> By <span class=\"sn-excerpt\">living like a Gentile</span>—eating with Gentiles and not observing <span class=\"sn-excerpt\">Jewish</span> food <span class=\"sn-excerpt\">laws</span>—Peter communicated God’s acceptance of Gentiles on equal terms with Jews, on the basis of faith in Christ (see <a href=\"?bref=Acts.10.34-43\">Acts 10:34-43</a>; <a href=\"?bref=Acts.11.17-18\">11:17-18</a>). • <span class=\"sn-excerpt\">why are you now trying to make these Gentiles follow the Jewish traditions?</span> Both Jews and Gentiles would draw this conclusion from Peter’s actions.</p>"
+    },
+    {
+      "sequence": 15196,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.15",
+      "citation": {
+        "short": "Gal 2:15",
+        "long": "Galatians 2:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.15\">2:15</a></span> Gentiles were <span class=\"sn-excerpt\">‘sinners’</span> in that they did not have the law and could not obey God’s commands. Paul was using the categories of Jewish thinking (cp. <a href=\"?bref=Matt.15.21-28\">Matt 15:21-28</a>; <a href=\"?bref=Matt.26.45\">26:45</a>; <a href=\"?bref=Luke.6.32-34\">Luke 6:32-34</a>; <a href=\"?bref=Luke.18.9-14\">18:9-14</a>) with strong irony in light of the sinful condition of all people (<a href=\"?bref=Gal.2.16\">Gal 2:16</a>; <a href=\"?bref=Rom.3.23\">Rom 3:23</a>).</p>"
+    },
+    {
+      "sequence": 15197,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.16",
+      "citation": {
+        "short": "Gal 2:16",
+        "long": "Galatians 2:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.16\">2:16</a></span> Jews and Gentiles alike are sinners; the Good News requires both Jews and Gentiles to acknowledge that they are sinful (see <a href=\"?bref=Rom.2.1-5\">Rom 2:1-5</a>; <a href=\"?bref=Rom.3.1-20\">3:1-20</a>) and in need of God’s grace (<a href=\"?bref=Rom.3.21-26\">Rom 3:21-26</a>). Peter later demonstrated his agreement with this message (<a href=\"?bref=Acts.15.7-11\">Acts 15:7-11</a>).</p>"
+    },
+    {
+      "sequence": 15198,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.17",
+      "citation": {
+        "short": "Gal 2:17",
+        "long": "Galatians 2:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.17-21\">2:17-21</a></span> The false teachers probably claimed that Paul’s law-free Good News would lead to lawlessness, that people would flaunt their sinfulness, and that <span class=\"sn-excerpt\">Christ</span> would thus be seen as leading people into sin (<a href=\"?bref=Gal.2.17\">2:17</a>). Paul shows that this is false, because those who place their faith in Christ are empowered by the Holy Spirit to live holy, God-honoring lives (see <a href=\"?bref=Gal.5.13-26\">5:13-26</a>).</p>"
+    },
+    {
+      "sequence": 15199,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.18",
+      "citation": {
+        "short": "Gal 2:18",
+        "long": "Galatians 2:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.18\">2:18</a></span> <span class=\"sn-excerpt\">I am a sinner</span> (or <span class=\"ital\">lawbreaker</span>): Turning away from faith and back to the law brings a person under the jurisdiction of the law, where all stand under God’s judgment (<a href=\"?bref=Rom.3.10-12\">Rom 3:10-12</a>, <a href=\"?bref=Rom.3.23-24\">23-24</a>; see <a href=\"?bref=Heb.6.1-8\">Heb 6:1-8</a>), and is itself a serious sin against Christ (<a href=\"?bref=Gal.5.2-4\">Gal 5:2-4</a>; cp. <a href=\"?bref=Heb.6.4-6\">Heb 6:4-6</a>). See also <a href=\"?item=Gal.2.19_StudyNote_Filament\">study note on 2:19</a>. • <span class=\"sn-excerpt\">if I rebuild:</span> By insisting on keeping Jewish laws concerning food and circumcision (<a href=\"?bref=Gal.2.11-13\">Gal 2:11-13</a>). • Christ <span class=\"sn-excerpt\">tore down</span> the <span class=\"sn-excerpt\">system of law</span> through his death (<a href=\"?bref=Eph.2.14-16\">Eph 2:14-16</a>).</p>"
+    },
+    {
+      "sequence": 15200,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.19",
+      "citation": {
+        "short": "Gal 2:19",
+        "long": "Galatians 2:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.19\">2:19</a></span> <span class=\"sn-excerpt\">when I tried to keep the law, it condemned me:</span> Attempting to gain acceptance with God through keeping the law inevitably leads to sin (<a href=\"?bref=Gal.5.2-4\">5:2-4</a>; see <a href=\"?bref=Rom.7.5\">Rom 7:5</a>, <a href=\"?bref=Rom.7.8-11\">8-11</a>), whereas living by the Spirit leads away from sin (<a href=\"?bref=Gal.5.16\">Gal 5:16</a>, <a href=\"?bref=Gal.5.22-24\">22-24</a>). • <span class=\"sn-excerpt\">I died to the law:</span> The NLT adds an explanation that this means <span class=\"sn-excerpt\">I stopped trying to meet all its requirements</span>. Those who trust in Christ participate in his death (<a href=\"?bref=Gal.2.20\">2:20</a>); they are no longer under the law’s judgment (see <a href=\"?bref=Rom.6.2\">Rom 6:2</a>, <a href=\"?bref=Rom.6.10-11\">10-11</a>; <a href=\"?bref=Rom.7.2-6\">7:2-6</a>), and they stop seeing the law as a means of their salvation. Instead, Christians <span class=\"sn-excerpt\">live for God</span> in a new relationship with God through Christ (<a href=\"?bref=Gal.3.23-4.11\">Gal 3:23–4:11</a>; see <a href=\"?bref=Rom.6.10-11\">Rom 6:10-11</a>; <a href=\"?bref=Rom.14.7-8\">14:7-8</a>; <a href=\"?bref=2Cor.5.15\">2 Cor 5:15</a>).</p>"
+    },
+    {
+      "sequence": 15201,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.20",
+      "citation": {
+        "short": "Gal 2:20",
+        "long": "Galatians 2:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.20\">2:20</a></span> A law-free Good News does not lead to lawlessness, as Paul’s opponents argued (<a href=\"?bref=Gal.2.17\">2:17</a>), because lawlessness is a response of the unredeemed. The redeemed Christian <span class=\"sn-excerpt\">has been crucified with Christ</span>. See also <a href=\"?bref=Col.2.11-14\">Col 2:11-14</a>, <a href=\"?bref=Col.2.20-23\">20-23</a>. A Christian has laid aside the <span class=\"sn-excerpt\">old self</span><span class=\"ital\">,</span> which strove to achieve merit by keeping the law (cp. <a href=\"?bref=Rom.7.4-6\">Rom 7:4-6</a>). • <span class=\"sn-excerpt\">It is no longer I who live, but Christ lives in me:</span> Christians, having experienced Christ’s death and resurrection (<a href=\"?bref=Rom.6.1-14\">Rom 6:1-14</a>), have new hearts (see <a href=\"?bref=Jer.31.31-34\">Jer 31:31-34</a>; <a href=\"?bref=Jer.32.38-41\">32:38-41</a>; <a href=\"?bref=Ezek.11.19-20\">Ezek 11:19-20</a>; <a href=\"?bref=Ezek.36.24-31\">36:24-31</a>) by the indwelling power of the Spirit (see <a href=\"?bref=Rom.8.9-11\">Rom 8:9-11</a>; <a href=\"?bref=Eph.3.16-19\">Eph 3:16-19</a>; <a href=\"?bref=Col.1.27\">Col 1:27</a>; <a href=\"?bref=Col.3.1-17\">3:1-17</a>). • <span class=\"sn-excerpt\">I live in this earthly body:</span> Christianity does not teach that the body is evil or that we have to escape from this world to have fellowship with God. Instead, <span class=\"sn-excerpt\">by trusting in the Son of God</span><span class=\"ital\">,</span> we fulfill God’s purposes for our lives. • <span class=\"sn-excerpt\">who loved me and gave himself for me:</span> Christ’s self-giving love makes new life possible (<a href=\"?bref=Gal.1.4\">Gal 1:4</a>; <a href=\"?bref=Rom.8.32-39\">Rom 8:32-39</a>; <a href=\"?bref=2Thes.2.16-17\">2 Thes 2:16-17</a>).</p>"
+    },
+    {
+      "sequence": 15202,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.2",
+      "verseOsisID": "Gal.2.21",
+      "citation": {
+        "short": "Gal 2:21",
+        "long": "Galatians 2:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.2.21\">2:21</a></span> Perhaps Paul’s opponents in Galatia suggested that his message would make God’s grace to Israel <span class=\"sn-excerpt\">meaningless</span><span class=\"ital\">,</span> since it was connected with the law (cp. <a href=\"?bref=Rom.3.1-2\">Rom 3:1-2</a>, <a href=\"?bref=Rom.3.31\">31</a>). Instead, it was Paul’s opponents who treated <span class=\"sn-excerpt\">the grace of God as meaningless</span> by voiding the <span class=\"sn-excerpt\">need for Christ to die</span>.</p>"
+    },
+    {
+      "sequence": 15203,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.1",
+      "citation": {
+        "short": "Gal 3:1",
+        "long": "Galatians 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.1-5.12\">3:1–5:12</a></span> Paul now defends the truth of his message—that right relationship with God comes by faith in Christ alone—and proves the fallacy of the message that Gentiles must keep the law in order to be acceptable to God.</p>"
+    },
+    {
+      "sequence": 15204,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.1",
+      "citation": {
+        "short": "Gal 3:1",
+        "long": "Galatians 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.1-9\">3:1-9</a></span> Paul compares the Galatians’ spiritual experience (<a href=\"?bref=Gal.3.1-5\">3:1-5</a>) with Abraham’s (<a href=\"?bref=Gal.3.6-9\">3:6-9</a>), showing that they were made right with God in the same way, through faith and not through the law (<a href=\"?bref=Eph.2.8-9\">Eph 2:8-9</a>).</p>"
+    },
+    {
+      "sequence": 15205,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.1",
+      "citation": {
+        "short": "Gal 3:1",
+        "long": "Galatians 3:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.1\">3:1</a></span> <span class=\"sn-excerpt\">Oh, foolish Galatians!</span> Their foolishness was both intellectual and spiritual (cp. <a href=\"?bref=Luke.24.25\">Luke 24:25</a>; see <a href=\"?bref=1Sam.25.1-38\">1 Sam 25:1-38</a>) as they turned away from Christ (<a href=\"?bref=Gal.1.6\">Gal 1:6</a>) and put faith in the law. • The Galatians were deceived by the teachers’ <span class=\"sn-excerpt\">evil spell</span> (cp. <a href=\"?bref=Gen.3.1-7\">Gen 3:1-7</a>)—not literal witchcraft, but enticing arguments. • <span class=\"sn-excerpt\">For the meaning of Jesus Christ’s death was made as clear to you as if you had seen a picture of his death on the cross</span> (literally <span class=\"ital\">Before your eyes Jesus Christ was publicly portrayed as crucified</span>): Paul’s proclamation of the Good News clearly portrayed Christ’s death and explained its significance (see <a href=\"?bref=Rom.10.14-17\">Rom 10:14-17</a>).</p>"
+    },
+    {
+      "sequence": 15206,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.2",
+      "citation": {
+        "short": "Gal 3:2",
+        "long": "Galatians 3:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.2\">3:2</a></span> The Galatians, like all Christians, <span class=\"sn-excerpt\">received the Spirit</span> by faith in Christ, not <span class=\"sn-excerpt\">by obeying the law of Moses</span> (see <a href=\"?bref=Acts.2.38-39\">Acts 2:38-39</a>; <a href=\"?bref=Rom.8.9-11\">Rom 8:9-11</a>; <a href=\"?bref=2Cor.1.22\">2 Cor 1:22</a>; <a href=\"?bref=Eph.1.11-14\">Eph 1:11-14</a>; cp. <a href=\"?bref=Acts.10.44-48\">Acts 10:44-48</a>; <a href=\"?bref=Acts.11.15-18\">11:15-18</a>). God accepted the Galatians because of their faith in <span class=\"sn-excerpt\">the message</span> . . . <span class=\"sn-excerpt\">about Christ</span> (cp. <a href=\"?bref=Rom.10.14-17\">Rom 10:14-17</a>), which made their turning to the law absurd (<a href=\"?bref=Gal.3.3-4\">Gal 3:3-4</a>).</p>"
+    },
+    {
+      "sequence": 15207,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.3",
+      "citation": {
+        "short": "Gal 3:3",
+        "long": "Galatians 3:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.3\">3:3</a></span> <span class=\"sn-excerpt\">by . . . human effort</span> (literally <span class=\"ital\">by flesh</span>): Paul makes a pun: The Galatians were trying to <span class=\"sn-excerpt\">become perfect</span> by <span class=\"ital\">human effort</span> through keeping the law about circumcising the <span class=\"ital\">flesh</span> of the male foreskin.</p>"
+    },
+    {
+      "sequence": 15208,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.4",
+      "citation": {
+        "short": "Gal 3:4",
+        "long": "Galatians 3:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.4\">3:4</a></span> <span class=\"sn-excerpt\">Have you experienced</span> (or <span class=\"ital\">suffered</span>) <span class=\"sn-excerpt\">so much for nothing?</span> This could refer to suffering, but what is known about the Galatian church does not suggest this. Paul was probably referring to the spiritual experiences the Galatians had through the Holy Spirit (<a href=\"?bref=Gal.3.3\">Gal 3:3</a>, <a href=\"?bref=Gal.3.5\">5</a>). Turning to the law for right standing with God would mean regarding the work of the Spirit as meaningless.</p>"
+    },
+    {
+      "sequence": 15209,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.5",
+      "citation": {
+        "short": "Gal 3:5",
+        "long": "Galatians 3:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.5\">3:5</a></span> <span class=\"sn-excerpt\">work miracles:</span> See <a href=\"?bref=1Cor.12.4-11\">1 Cor 12:4-11</a>. The Holy Spirit is present with believers and in the church because of faith in <span class=\"sn-excerpt\">the message</span> . . . <span class=\"sn-excerpt\">about Christ</span>.</p>"
+    },
+    {
+      "sequence": 15210,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.6",
+      "citation": {
+        "short": "Gal 3:6",
+        "long": "Galatians 3:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.6-9\">3:6-9</a></span> Abraham’s experience shows that faith has always been the basis for relationship with God and for receiving what God has promised.</p>"
+    },
+    {
+      "sequence": 15211,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.6",
+      "citation": {
+        "short": "Gal 3:6",
+        "long": "Galatians 3:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.6\">3:6</a></span> This quote is from <a href=\"?bref=Gen.15.6\">Gen 15:6</a>, where God established his covenant with Abraham (see <a href=\"?bref=Gen.15.1-21\">Gen 15:1-21</a>; <a href=\"?bref=Gen.17.1-27\">17:1-27</a>). This statement is foundational in defining God’s relationship with humanity (see <a href=\"?bref=Hab.2.4\">Hab 2:4</a>; <a href=\"?bref=Rom.4.1-8\">Rom 4:1-8</a>, <a href=\"?bref=Rom.4.17-22\">17-22</a>).</p>"
+    },
+    {
+      "sequence": 15212,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.7",
+      "citation": {
+        "short": "Gal 3:7",
+        "long": "Galatians 3:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.7\">3:7</a></span> Gentile Christians—including the Galatians—are among <span class=\"sn-excerpt\">the real children of Abraham</span><span class=\"ital\">,</span> not by keeping the law of Moses, but by <span class=\"sn-excerpt\">faith in God</span> (see <a href=\"?bref=Rom.4.9-17\">Rom 4:9-17</a>, <a href=\"?bref=Rom.4.23-25\">23-25</a>; cp. <a href=\"?bref=Matt.12.48-50\">Matt 12:48-50</a>).</p>"
+    },
+    {
+      "sequence": 15213,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.8",
+      "citation": {
+        "short": "Gal 3:8",
+        "long": "Galatians 3:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.8\">3:8</a></span> <span class=\"sn-excerpt\">the Scriptures looked forward:</span> By faith, Abraham foresaw the coming Messiah (cp. <a href=\"?bref=John.8.56\">John 8:56</a>) and received the message that <span class=\"sn-excerpt\">“All nations will be blessed through you”</span> (<a href=\"?bref=Gen.12.3\">Gen 12:3</a>; <a href=\"?bref=Gen.18.18\">18:18</a>; <a href=\"?bref=Gen.22.18\">22:18</a>).Through Abraham’s offspring, the Messiah, God would accept all nations on the same basis as Abraham himself—by faith.</p>"
+    },
+    {
+      "sequence": 15214,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.10",
+      "citation": {
+        "short": "Gal 3:10",
+        "long": "Galatians 3:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.10-12\">3:10-12</a></span> By relying on circumcision, the Galatians depended <span class=\"sn-excerpt\">on the law</span>. Those who look to the law for right standing with God are under a <span class=\"sn-excerpt\">curse</span>. They cannot keep the whole law, so they cannot receive blessing under its terms.</p>"
+    },
+    {
+      "sequence": 15215,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.10",
+      "citation": {
+        "short": "Gal 3:10",
+        "long": "Galatians 3:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.10\">3:10</a></span> Paul here quotes <a href=\"?bref=Deut.27.26\">Deut 27:26</a>, which summarized the curse that Israel would experience if they failed to keep all the stipulations of God’s covenant (see <a href=\"?bref=Deut.27.9-26\">Deut 27:9-26</a>; cp. <a href=\"?bref=Deut.28.15-68\">Deut 28:15-68</a>; <a href=\"?bref=Deut.31.26\">31:26</a>; <a href=\"?bref=Josh.1.8\">Josh 1:8</a>; <a href=\"?bref=Mal.2.2\">Mal 2:2</a>; see also <a href=\"?bref=Gen.3.14-19\">Gen 3:14-19</a>; <a href=\"?bref=Gen.4.10-12\">4:10-12</a>). It is impossible for sinful human beings to obey God’s will completely (see <a href=\"?bref=Rom.3.9-20\">Rom 3:9-20</a>).</p>"
+    },
+    {
+      "sequence": 15216,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.11",
+      "citation": {
+        "short": "Gal 3:11",
+        "long": "Galatians 3:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.11\">3:11</a></span> <span class=\"sn-excerpt\">So it is clear</span> from Scripture, even if it was not clear to the Galatians or the false teachers who were insisting on circumcision for Gentile believers. • <span class=\"sn-excerpt\">“It is through faith that a righteous person has life”:</span> Paul quotes <a href=\"?bref=Hab.2.4\">Hab 2:4</a>, in which the prophet was waiting in faith for God’s promise to be fulfilled.</p>"
+    },
+    {
+      "sequence": 15217,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.12",
+      "citation": {
+        "short": "Gal 3:12",
+        "long": "Galatians 3:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.12\">3:12</a></span> The <span class=\"sn-excerpt\">law</span> itself is not opposed to <span class=\"sn-excerpt\">faith</span> (see <a href=\"?bref=Gal.3.19-25\">3:19-25</a>; <a href=\"?bref=Rom.7.7-13\">Rom 7:7-13</a>), but trying to be righteous by keeping the law opposes righteousness by faith in Christ. Paul quotes <a href=\"?bref=Lev.18.5\">Lev 18:5</a> to show that <span class=\"sn-excerpt\">life</span> under the law comes by <span class=\"sn-excerpt\">obeying</span> rather than <span class=\"ital\">believing</span>. Right standing with God is impossible on that basis (<a href=\"?bref=Gal.3.10-11\">Gal 3:10-11</a>).</p>"
+    },
+    {
+      "sequence": 15218,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.13",
+      "citation": {
+        "short": "Gal 3:13",
+        "long": "Galatians 3:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.13-14\">3:13-14</a></span> In contrast with those who depend on the law (<a href=\"?bref=Gal.3.10-12\">3:10-12</a>), those who look to God through faith in Christ freely receive God’s life and blessings.</p>"
+    },
+    {
+      "sequence": 15219,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.13",
+      "citation": {
+        "short": "Gal 3:13",
+        "long": "Galatians 3:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.13\">3:13</a></span> <span class=\"sn-excerpt\">rescued us</span> (or <span class=\"ital\">ransomed us</span>): Christ paid a ransom to buy back his people (see <a href=\"?bref=Gal.4.4-5\">4:4-5</a>; <a href=\"?bref=1Pet.1.18-20\">1 Pet 1:18-20</a>). • <span class=\"sn-excerpt\">“Cursed is everyone who is hung on a tree”:</span> Paul quotes <a href=\"?bref=Deut.21.23\">Deut 21:23</a>, in which executed criminals exposed for public shame were under God’s curse (see <a href=\"?item=Deut.21.22_StudyNote_Filament\">study note on Deut 21:22</a>). Jesus, when he was crucified, <span class=\"sn-excerpt\">took upon himself</span> God’s <span class=\"sn-excerpt\">curse</span> that should have fallen upon all sinners (cp. <a href=\"?bref=2Cor.5.21\">2 Cor 5:21</a>).</p>"
+    },
+    {
+      "sequence": 15220,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.14",
+      "citation": {
+        "short": "Gal 3:14",
+        "long": "Galatians 3:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.14\">3:14</a></span> <span class=\"sn-excerpt\">Christ Jesus</span> has <span class=\"sn-excerpt\">blessed the Gentiles with the same blessing . . . promised to Abraham</span><span class=\"ital\">,</span> as described in <a href=\"?bref=Gal.3.6-13\">3:6-13</a>. Paul equates this blessing with receiving <span class=\"sn-excerpt\">the promised Holy Spirit</span> (<a href=\"?bref=Gal.3.2-6\">3:2-6</a>; see also <a href=\"?bref=Rom.8.1-17\">Rom 8:1-17</a>, <a href=\"?bref=Rom.8.23\">23</a>; <a href=\"?bref=Eph.1.13-14\">Eph 1:13-14</a>).</p>"
+    },
+    {
+      "sequence": 15221,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.15",
+      "citation": {
+        "short": "Gal 3:15",
+        "long": "Galatians 3:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.15-18\">3:15-18</a></span> Christ, not the law, has fulfilled the promise and covenant given to Abraham.</p>"
+    },
+    {
+      "sequence": 15222,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.15",
+      "citation": {
+        "short": "Gal 3:15",
+        "long": "Galatians 3:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.15\">3:15</a></span> An <span class=\"sn-excerpt\">irrevocable agreement</span><span class=\"ital\">,</span> such as a person’s last will and testament, is unalterable after the person has died, and it must be executed exactly as written.</p>"
+    },
+    {
+      "sequence": 15223,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.16",
+      "citation": {
+        "short": "Gal 3:16",
+        "long": "Galatians 3:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.16\">3:16</a></span> The <span class=\"sn-excerpt\">promises to Abraham</span> were primarily inherited by <span class=\"sn-excerpt\">Abraham</span> and <span class=\"sn-excerpt\">his child</span> (literally <span class=\"ital\">his seed</span>)—the promised Messiah, the ultimate descendant of Abraham. “Seed” can refer to a single descendant or to many descendants (see <a href=\"?bref=Gen.12.7\">Gen 12:7</a>; <a href=\"?bref=Gen.13.15\">13:15</a>). Although the promise has a plural sense (see <a href=\"?bref=Gal.3.29\">Gal 3:29</a>; <a href=\"?bref=Gen.13.15-16\">Gen 13:15-16</a>; <a href=\"?bref=Gen.15.5-6\">15:5-6</a>; <a href=\"?bref=Gen.17.7-8\">17:7-8</a>), this singular noun points to the one descendant, Christ, who completely fulfilled the promise. The heirs of the promise are not Jacob’s physical children, but the spiritual children of Christ by the Spirit through faith.</p>"
+    },
+    {
+      "sequence": 15224,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.17",
+      "citation": {
+        "short": "Gal 3:17",
+        "long": "Galatians 3:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.17\">3:17</a></span> Just as irrevocable agreements cannot be canceled (<a href=\"?bref=Gal.3.15\">3:15</a>), the terms of God’s covenant with Abraham were not changed by the giving of <span class=\"sn-excerpt\">the law</span>. • <span class=\"sn-excerpt\">430 years:</span> See <a href=\"?item=Exod.12.40_StudyNote_Filament\">study note on Exod 12:40</a>.</p>"
+    },
+    {
+      "sequence": 15225,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.18",
+      "citation": {
+        "short": "Gal 3:18",
+        "long": "Galatians 3:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.18\">3:18</a></span> The <span class=\"sn-excerpt\">inheritance</span> (see <a href=\"?bref=Gal.4.1-7\">4:1-7</a>) cannot come through <span class=\"sn-excerpt\">keeping the law</span><span class=\"ital\">,</span> because that would nullify <span class=\"sn-excerpt\">God’s promise</span> to Abraham, which was accepted by faith before the law.</p>"
+    },
+    {
+      "sequence": 15226,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.19",
+      "citation": {
+        "short": "Gal 3:19",
+        "long": "Galatians 3:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.19-22\">3:19-22</a></span> Paul’s argument so far might lead his readers to believe that the law had no purpose. Here, however, Paul emphasizes the law’s proper role in order to correct false teaching about the law.</p>"
+    },
+    {
+      "sequence": 15227,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.19",
+      "citation": {
+        "short": "Gal 3:19",
+        "long": "Galatians 3:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.19\">3:19</a></span> If people do not receive God’s inheritance through the law, <span class=\"sn-excerpt\">why, then, was the law given?</span> It was <span class=\"sn-excerpt\">to show people their sins</span> and make it clear that sinful actions are offenses against God. People cannot rely on their own goodness to save them, but must turn to God in faith (see <a href=\"?bref=Rom.3.19-20\">Rom 3:19-20</a>; <a href=\"?bref=Rom.4.15\">4:15</a>; <a href=\"?bref=Rom.5.20\">5:20</a>; <a href=\"?bref=Rom.7.7-13\">7:7-13</a>). • <span class=\"sn-excerpt\">until the coming of the child who was promised:</span> See <a href=\"?bref=Gal.3.16\">Gal 3:16</a>. While the promise is permanent, the law was temporary. With Christ’s coming, the law was fulfilled (see <a href=\"?bref=Matt.5.17-20\">Matt 5:17-20</a>; cp. <a href=\"?bref=Matt.3.13-15\">Matt 3:13-15</a>; <a href=\"?bref=John.19.30\">John 19:30</a>) and God’s acceptance is based entirely on faith in Christ. • <span class=\"sn-excerpt\">through angels:</span> <a href=\"?bref=Deut.33.2\">Deuteronomy 33:2</a> in the Greek version describes the Lord’s coming from Sinai “with myriads of holy ones, angels with him at his right hand.” See also <a href=\"?bref=Ps.68.17\">Ps 68:17</a>; <a href=\"?bref=Acts.7.38\">Acts 7:38</a>, <a href=\"?bref=Acts.7.53\">53</a>; <a href=\"?bref=Heb.2.2\">Heb 2:2</a>. • <span class=\"sn-excerpt\">Moses, who was the mediator:</span> See <a href=\"?bref=Exod.20.19\">Exod 20:19</a>; <a href=\"?bref=Deut.5.24-27\">Deut 5:24-27</a>.</p>"
+    },
+    {
+      "sequence": 15228,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.20",
+      "citation": {
+        "short": "Gal 3:20",
+        "long": "Galatians 3:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.20\">3:20</a></span> The law, given through angels and <span class=\"sn-excerpt\">a mediator</span><span class=\"ital\">,</span> required <span class=\"sn-excerpt\">agreement</span> between God and the people. The law was conditional, with blessings and curses attached to keeping or not keeping its statutes. In contrast, God <span class=\"sn-excerpt\">gave his promise to Abraham</span> directly; he <span class=\"sn-excerpt\">did not use a mediator</span>. It was God’s unilateral and unconditional commitment. • <span class=\"sn-excerpt\">God, who is one:</span> Paul used the basic Jewish creed (<a href=\"?bref=Deut.6.4\">Deut 6:4</a>) to convince Gentile Christians not to become Jewish converts.</p>"
+    },
+    {
+      "sequence": 15229,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.21",
+      "citation": {
+        "short": "Gal 3:21",
+        "long": "Galatians 3:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.21-25\">3:21-25</a></span> See <a href=\"?bref=Rom.7.7-13\">Rom 7:7-13</a>.</p>"
+    },
+    {
+      "sequence": 15230,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.21",
+      "citation": {
+        "short": "Gal 3:21",
+        "long": "Galatians 3:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.21\">3:21</a></span> No <span class=\"sn-excerpt\">conflict</span> of purpose exists between law and promise, or between law and faith. Law partners with the promise in bringing people to faith in Christ. Law has its proper roles of declaring people prisoners of sin (<a href=\"?bref=Gal.3.19\">3:19</a>, <a href=\"?bref=Gal.3.22\">22</a>) and of restraining sin (<a href=\"?bref=Gal.3.23-25\">3:23-25</a>). In Galatia, the Judaizers tried to convince Gentile Christians that the law could do something it was never intended to do—<span class=\"sn-excerpt\">give</span> . . . <span class=\"sn-excerpt\">new life</span> and make people <span class=\"sn-excerpt\">right with God</span>. God does these things on the basis of faith in his promise, which was fulfilled in Jesus Christ (see <a href=\"?bref=Gal.3.22\">3:22</a>).</p>"
+    },
+    {
+      "sequence": 15231,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.22",
+      "citation": {
+        "short": "Gal 3:22",
+        "long": "Galatians 3:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.22\">3:22</a></span> <span class=\"sn-excerpt\">we are all prisoners of sin:</span> See <a href=\"?bref=Rom.3.9\">Rom 3:9</a>; <a href=\"?bref=Rom.7.1-13\">7:1-13</a>; <a href=\"?bref=Rom.11.32\">11:32</a>. Keeping the law is of no use in bringing salvation; only <span class=\"sn-excerpt\">believing in Jesus Christ</span> can bring <span class=\"sn-excerpt\">freedom</span>.</p>"
+    },
+    {
+      "sequence": 15232,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.23",
+      "citation": {
+        "short": "Gal 3:23",
+        "long": "Galatians 3:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.23-29\">3:23-29</a></span> Paul contrasts the condition of God’s people under the law before Christ with their condition now under Christ.</p>"
+    },
+    {
+      "sequence": 15233,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.23",
+      "citation": {
+        "short": "Gal 3:23",
+        "long": "Galatians 3:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.23\">3:23</a></span> Because sin had imprisoned us (<a href=\"?bref=Gal.3.22\">3:22</a>), <span class=\"sn-excerpt\">the law</span> was a <span class=\"sn-excerpt\">guard</span><span class=\"ital\">,</span> keeping God’s people in <span class=\"sn-excerpt\">protective custody</span> . . . <span class=\"sn-excerpt\">until the way of faith</span> in Christ <span class=\"sn-excerpt\">was revealed</span>. It made God’s requirements explicit, and thus highlights the need for a Savior. The law also restrains sin by making the consequences of sin explicit.</p>"
+    },
+    {
+      "sequence": 15234,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.24",
+      "citation": {
+        "short": "Gal 3:24",
+        "long": "Galatians 3:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.24\">3:24</a></span> The law is like a child’s <span class=\"sn-excerpt\">guardian</span> (Greek <span class=\"greek\">paidagōgos</span><span class=\"ital\">,</span> “tutor”). In Greco-Roman culture, a <span class=\"ital\">guardian</span> was a faithful slave responsible for training and protecting the heir until he came of age.</p>"
+    },
+    {
+      "sequence": 15235,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.25",
+      "citation": {
+        "short": "Gal 3:25",
+        "long": "Galatians 3:25"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.25\">3:25</a></span> <span class=\"sn-excerpt\">the way of faith has come:</span> The principle of righteousness by faith was always operative (cp. <a href=\"?bref=Gal.3.6-9\">3:6-9</a>), but the object of that faith and the means of appropriating it are now clear to everyone through Jesus Christ. • <span class=\"sn-excerpt\">we no longer need the law as our guardian:</span> In Greco-Roman culture, a freeborn child who came of age was no longer under the discipline of a guardian, but was free to rule himself. So, too, those who are “of age” through faith in Christ are free from the guardianship of the law. They serve Christ directly as he leads by his word and Spirit.</p>"
+    },
+    {
+      "sequence": 15236,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.26",
+      "citation": {
+        "short": "Gal 3:26",
+        "long": "Galatians 3:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.26-29\">3:26-29</a></span> Because of Christ, our condition under faith contrasts with our condition under the law (<a href=\"?bref=Gal.3.23-24\">3:23-24</a>).</p>"
+    },
+    {
+      "sequence": 15237,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.26",
+      "citation": {
+        "short": "Gal 3:26",
+        "long": "Galatians 3:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.26\">3:26</a></span> Those who are <span class=\"sn-excerpt\">children of God through faith in Christ Jesus</span> (see also <a href=\"?bref=Gal.4.4-7\">4:4-7</a>; <a href=\"?bref=John.1.12\">John 1:12</a>; <a href=\"?bref=Rom.9.8\">Rom 9:8</a>) have come of age as heirs of his promises (see <a href=\"?bref=Gal.3.24-25\">Gal 3:24-25</a>, <a href=\"?bref=Gal.3.29\">29</a>) and have received the down payment of that inheritance (<a href=\"?bref=Gal.3.14\">3:14</a>; <a href=\"?bref=Eph.1.14\">Eph 1:14</a>). The Galatians were foolish (<a href=\"?bref=Gal.3.1\">Gal 3:1</a>) in trying to gain access to God through circumcision. As God’s children by faith, they already had the best possible access to God.</p>"
+    },
+    {
+      "sequence": 15238,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.27",
+      "citation": {
+        "short": "Gal 3:27",
+        "long": "Galatians 3:27"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.27\">3:27</a></span> <span class=\"sn-excerpt\">united with Christ in baptism:</span> See <a href=\"?bref=Rom.6.3-4\">Rom 6:3-4</a>. Baptism represents death of an old life and birth into a new one. In the new life, the law’s curse no longer has any force (cp. <a href=\"?bref=Rom.7.1-6\">Rom 7:1-6</a>). • <span class=\"sn-excerpt\">have put on Christ, like putting on new clothes:</span> Christ covers us and gives us a new identity. Cp. <a href=\"?bref=Col.3.12\">Col 3:12</a>; <a href=\"?bref=1Thes.5.8\">1 Thes 5:8</a>.</p>"
+    },
+    {
+      "sequence": 15239,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.28",
+      "citation": {
+        "short": "Gal 3:28",
+        "long": "Galatians 3:28"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.28\">3:28</a></span> <span class=\"sn-excerpt\">There is no longer:</span> Everyone comes to Christ and receives God’s promises in exactly the same way (cp. <a href=\"?bref=1Cor.12.12-13\">1 Cor 12:12-13</a>; <a href=\"?bref=Eph.2.14\">Eph 2:14</a>; <a href=\"?bref=Col.3.11\">Col 3:11</a>). • <span class=\"sn-excerpt\">male and female:</span> Cp. <a href=\"?bref=Gen.1.27\">Gen 1:27</a>. • <span class=\"sn-excerpt\">you are all one:</span> The community of believers is one body, the body of Christ (see <a href=\"?bref=Rom.12.4-5\">Rom 12:4-5</a>; <a href=\"?bref=1Cor.12.27\">1 Cor 12:27</a>; <a href=\"?bref=Eph.2.15-16\">Eph 2:15-16</a>, <a href=\"?bref=Eph.2.19-22\">19-22</a>). • <span class=\"sn-excerpt\">in Christ Jesus:</span> See <a href=\"?bref=Col.2.6-3.11\">Col 2:6–3:11</a>.</p>"
+    },
+    {
+      "sequence": 15240,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.3",
+      "verseOsisID": "Gal.3.29",
+      "citation": {
+        "short": "Gal 3:29",
+        "long": "Galatians 3:29"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.3.29\">3:29</a></span> Because Christ is the ideal descendant of Abraham (<a href=\"?bref=Gal.3.16\">3:16</a>), it follows that those who are one with Christ (<a href=\"?bref=Gal.3.27-28\">3:27-28</a>) are <span class=\"sn-excerpt\">children of Abraham</span> and <span class=\"sn-excerpt\">heirs</span> of all that was promised to him.</p>"
+    },
+    {
+      "sequence": 15241,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.1",
+      "citation": {
+        "short": "Gal 4:1",
+        "long": "Galatians 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.1-7\">4:1-7</a></span> Paul supports his argument that the law’s purpose for God’s children was fulfilled when Christ came, so that we are no longer bound by it.</p>"
+    },
+    {
+      "sequence": 15242,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.1",
+      "citation": {
+        "short": "Gal 4:1",
+        "long": "Galatians 4:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.1-3\">4:1-3</a></span> A child inheriting an estate might receive a large fortune, but before coming of age, the child must obey <span class=\"sn-excerpt\">guardians</span> and trustees until the time set by the father. Similarly, before Christ came, God’s people were under the guardianship of the law (see <a href=\"?bref=Gal.3.23-24\">3:23-24</a>).</p>"
+    },
+    {
+      "sequence": 15243,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.3",
+      "citation": {
+        "short": "Gal 4:3",
+        "long": "Galatians 4:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.3\">4:3</a></span> <span class=\"sn-excerpt\">Before Christ came</span><span class=\"ital\">,</span> God’s people were like underage heirs to a large estate (<a href=\"?bref=Gal.4.1-2\">4:1-2</a>). They would inherit a great fortune (<a href=\"?bref=Gal.4.5\">4:5</a>), but they were still subject to their guardian (<a href=\"?bref=Gal.3.23-25\">3:23-25</a>). • <span class=\"sn-excerpt\">the basic spiritual principles of this world:</span> This probably refers to the principles of law that govern the world apart from Christ; these principles were fully expressed in the law of Moses (<a href=\"?bref=Gal.3.23-24\">3:23-24</a>; cp. <a href=\"?bref=Gal.4.5\">4:5</a>).</p>"
+    },
+    {
+      "sequence": 15244,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.4",
+      "citation": {
+        "short": "Gal 4:4",
+        "long": "Galatians 4:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.4-5\">4:4-5</a></span> God set <span class=\"sn-excerpt\">the right time</span> in the course of history for Christ to come (cp. <a href=\"?bref=Luke.4.18-19\">Luke 4:18-19</a>; <a href=\"?bref=Eph.4.8-10\">Eph 4:8-10</a>). • Christ was fully human (<span class=\"sn-excerpt\">born of a woman</span>) and <span class=\"sn-excerpt\">subject to the law</span>. Christ fulfilled the law (see <a href=\"?bref=Matt.3.13-15\">Matt 3:13-15</a>; <a href=\"?bref=Matt.5.17\">5:17</a>) so that now God’s <span class=\"sn-excerpt\">children</span> have <span class=\"sn-excerpt\">freedom</span> and are no longer bound as <span class=\"sn-excerpt\">slaves</span> to it. • <span class=\"sn-excerpt\">to buy freedom:</span> By fulfilling the law and bearing its curse, Christ ransomed us from its claims (<a href=\"?bref=Gal.3.13\">Gal 3:13</a>; see also <a href=\"?bref=Rom.3.24\">Rom 3:24</a>; <a href=\"?bref=Col.1.13-14\">Col 1:13-14</a>). • <span class=\"sn-excerpt\">so that he could adopt us:</span> See also <a href=\"?bref=Rom.8.15-17\">Rom 8:15-17</a>.</p>"
+    },
+    {
+      "sequence": 15245,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.6",
+      "citation": {
+        "short": "Gal 4:6",
+        "long": "Galatians 4:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.6\">4:6</a></span> The Holy <span class=\"sn-excerpt\">Spirit</span> provides an inner testimony to assure us that <span class=\"sn-excerpt\">we</span> are God’s <span class=\"sn-excerpt\">children</span> (see <a href=\"?bref=Rom.8.16\">Rom 8:16</a>; <a href=\"?bref=Eph.1.13-14\">Eph 1:13-14</a>). • Those who have the <span class=\"sn-excerpt\">Spirit of his Son</span> are able to address God as <span class=\"sn-excerpt\">Father</span>, just as Christ did (<a href=\"?bref=Mark.14.36\">Mark 14:36</a>; cp. <a href=\"?bref=Matt.6.9\">Matt 6:9</a>).</p>"
+    },
+    {
+      "sequence": 15246,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.8",
+      "citation": {
+        "short": "Gal 4:8",
+        "long": "Galatians 4:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.8-11\">4:8-11</a></span> Paul reminds the Galatians of their former paganism; he argues that practicing circumcision (and the law in general) would be a return to the same kind of slavery that they experienced <span class=\"sn-excerpt\">before</span> they <span class=\"sn-excerpt\">knew God</span>.</p>"
+    },
+    {
+      "sequence": 15247,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.8",
+      "citation": {
+        "short": "Gal 4:8",
+        "long": "Galatians 4:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.8\">4:8</a></span> The Gentile Galatians had previously practiced pagan idolatry; they worshiped the elements and the seasons (cp. <a href=\"?bref=Rom.1.25\">Rom 1:25</a>) and were <span class=\"sn-excerpt\">slaves</span> to the fear of offending these <span class=\"sn-excerpt\">so-called gods</span> (<a href=\"?bref=1Cor.8.5-6\">1 Cor 8:5-6</a>).</p>"
+    },
+    {
+      "sequence": 15248,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.9",
+      "citation": {
+        "short": "Gal 4:9",
+        "long": "Galatians 4:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.9\">4:9</a></span> <span class=\"sn-excerpt\">now that you know God:</span> Christians have a relationship with God that is like a child to a parent rather than a slave to a master (<a href=\"?bref=Gal.4.5-7\">4:5-7</a>). • <span class=\"sn-excerpt\">why do you want to go back?</span> Paul was perplexed (cp. <a href=\"?bref=Gal.4.19-20\">4:19-20</a>) that Christians who had this standing would want to return to their old life of slavery. • <span class=\"sn-excerpt\">now that God knows you:</span> God is the agent of salvation and had taken the initiative in laying their souls bare (cp. <a href=\"?bref=Ps.139.1-6\">Ps 139:1-6</a>, <a href=\"?bref=Ps.139.23-24\">23-24</a>; <a href=\"?bref=Luke.2.34-35\">Luke 2:34-35</a>; <a href=\"?bref=Heb.4.12\">Heb 4:12</a>) and forgiving them freely. • By turning to circumcision, the Galatians would be returning to the same <span class=\"sn-excerpt\">useless spiritual principles of this world</span> that they had known under paganism. In both cases, one must work to satisfy an unyielding master.</p>"
+    },
+    {
+      "sequence": 15249,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.10",
+      "citation": {
+        "short": "Gal 4:10",
+        "long": "Galatians 4:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.10-11\">4:10-11</a></span> Circumcision was not the Galatians’ only attempt to follow the law; it was one example of a whole way of thinking. They had also begun celebrating the Jewish festivals, thinking that it would make them more acceptable to God. To Paul, it was another indication that they did not understand, or had turned their backs on, the Good News of God’s grace through Christ.</p>"
+    },
+    {
+      "sequence": 15250,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.11",
+      "citation": {
+        "short": "Gal 4:11",
+        "long": "Galatians 4:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.11\">4:11</a></span> <span class=\"sn-excerpt\">I fear for you:</span> The Galatians were in danger of turning away from Christ by relying upon the law. If they did, Paul’s <span class=\"sn-excerpt\">hard work</span> would have been <span class=\"sn-excerpt\">for nothing</span>. The Good News would have done them no good (cp. <a href=\"?bref=Heb.6.4-6\">Heb 6:4-6</a>; <a href=\"?bref=2Pet.2.20-22\">2 Pet 2:20-22</a>). See <a href=\"?bref=Acts.13.44-14.24\">Acts 13:44–14:24</a> for a description of Paul’s work for the sake of the Christians in that region.</p>"
+    },
+    {
+      "sequence": 15251,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.12",
+      "citation": {
+        "short": "Gal 4:12",
+        "long": "Galatians 4:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.12-20\">4:12-20</a></span> Turning aside from scriptural arguments, Paul appeals personally to the Galatians by reminding them of their close relationship with him.</p>"
+    },
+    {
+      "sequence": 15252,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.12",
+      "citation": {
+        "short": "Gal 4:12",
+        "long": "Galatians 4:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.12\">4:12</a></span> <span class=\"sn-excerpt\">live as I do:</span> Paul, the scrupulous Jew, abandoned his own efforts at righteousness and received the free grace of God in Christ. Now he calls these Gentiles to adopt his position rather than take on the practices he had abandoned. Paul’s exhortations throughout the rest of the letter (<a href=\"?bref=Gal.4.12-6.10\">4:12–6:10</a>) grow out of this single command. • <span class=\"sn-excerpt\">You did not mistreat me:</span> Likewise, the Galatians should not mistreat Paul now but should continue in their warm acceptance of his ministry and message.</p>"
+    },
+    {
+      "sequence": 15253,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.13",
+      "citation": {
+        "short": "Gal 4:13",
+        "long": "Galatians 4:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.13-14\">4:13-14</a></span> <span class=\"sn-excerpt\">I was sick:</span> Paul might have had a chronic physical ailment, but it is not certain what it was (cp. <a href=\"?bref=2Cor.12.7\">2 Cor 12:7</a>). Paul’s <span class=\"sn-excerpt\">condition</span> was serious and apparently caused difficulty or even offense to the new church in Galatia. Physical trouble was often regarded by both Jews and Gentiles as a sign of God’s judgment (cp. <a href=\"?bref=John.9.1-2\">John 9:1-2</a>; <a href=\"?bref=Acts.28.4\">Acts 28:4</a>). The Galatians saw past Paul’s outward condition and received him as God’s messenger (literally <span class=\"sn-excerpt\">angel</span><span class=\"ital\">;</span> Greek <span class=\"ital\">angelos</span>). • <span class=\"sn-excerpt\">or even Christ Jesus himself:</span> Cp. <a href=\"?bref=Luke.10.16\">Luke 10:16</a>.</p>"
+    },
+    {
+      "sequence": 15254,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.15",
+      "citation": {
+        "short": "Gal 4:15",
+        "long": "Galatians 4:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.15\">4:15</a></span> The Galatians had been <span class=\"sn-excerpt\">joyful and grateful</span> in response to Paul’s preaching of the Good News. • <span class=\"sn-excerpt\">your own eyes:</span> Some conclude from this phrase that Paul’s eyes were diseased, but Paul might have been using <span class=\"ital\">eyes</span> as a word-picture of a precious asset (cp. <a href=\"?bref=Deut.32.10\">Deut 32:10</a>; <a href=\"?bref=Ps.17.8\">Ps 17:8</a>; <a href=\"?bref=Matt.18.9\">Matt 18:9</a>). In their gratitude to Paul for the message of good news, the Galatians <span class=\"sn-excerpt\">would have . . . given</span> him their most valuable possession.</p>"
+    },
+    {
+      "sequence": 15255,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.16",
+      "citation": {
+        "short": "Gal 4:16",
+        "long": "Galatians 4:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.16\">4:16</a></span> The contrast couldn’t be greater between the Galatians’ acceptance of Paul and his message at the beginning of their Christian life, and their current suspicion or even rejection of him.</p>"
+    },
+    {
+      "sequence": 15256,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.17",
+      "citation": {
+        "short": "Gal 4:17",
+        "long": "Galatians 4:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.17\">4:17</a></span> <span class=\"sn-excerpt\">are so eager:</span> The Greek word can have the positive meaning of zeal and eagerness or the negative meaning of jealousy and envy. The same word is also translated <span class=\"sn-excerpt\">will pay attention</span> and “is eager” (<a href=\"?bref=Gal.4.18\">4:18</a>). • <span class=\"sn-excerpt\">They are trying to shut you off from me:</span> Perhaps the Judaizers were so eager because they envied the Galatians’ devotion to Paul and wanted it for themselves (cp. 2 Corinthians; see also <a href=\"?bref=Luke.11.46-52\">Luke 11:46-52</a>). Another possibility is that the Judaizers wanted the Galatians to become dependent on them as interpreters of the law.</p>"
+    },
+    {
+      "sequence": 15257,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.18",
+      "citation": {
+        "short": "Gal 4:18",
+        "long": "Galatians 4:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.18\">4:18</a></span> Paul’s statement might mean that it was fine for people to seek the Galatians’ loyalty, but those other teachers were not in fact eager to do good things for them. Alternatively, this verse could be translated <span class=\"ital\">It is good to be always sought eagerly for good things, and not just when I’m with you.</span> In this case it would mean that it was good for the Galatians to continue eagerly embracing Paul and his message and not change their attitude toward him in his absence.</p>"
+    },
+    {
+      "sequence": 15258,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.19",
+      "citation": {
+        "short": "Gal 4:19",
+        "long": "Galatians 4:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.19\">4:19</a></span> The Galatians were Paul’s spiritual <span class=\"sn-excerpt\">children</span> (cp. <a href=\"?bref=1Cor.4.14-15\">1 Cor 4:14-15</a>; <a href=\"?bref=Phlm.1.10\">Phlm 1:10</a>). The process of bringing them to Christ had been like <span class=\"sn-excerpt\">going through labor pains</span><span class=\"ital\">,</span> a hard labor with a definite and joyful conclusion. Now Paul felt that it wasn’t finished after all. • <span class=\"sn-excerpt\">until Christ is fully developed in your lives:</span> Paul uses wordplay, switching the metaphor so that the Galatians would give birth to Christ’s image if they continued in the faith that Paul delivered to them. However, if they took up the law, they would produce a stillbirth. Paul must continue his hard work as a midwife in order to prevent this from happening.</p>"
+    },
+    {
+      "sequence": 15259,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.20",
+      "citation": {
+        "short": "Gal 4:20",
+        "long": "Galatians 4:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.20\">4:20</a></span> Had Paul been personally present, he would have been able to “read” his hearers and thus shape his appeal to their exact spiritual and emotional condition. From afar, he wasn’t sure if the <span class=\"sn-excerpt\">tone</span> he was using would be effective.</p>"
+    },
+    {
+      "sequence": 15260,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.21",
+      "citation": {
+        "short": "Gal 4:21",
+        "long": "Galatians 4:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.21-31\">4:21-31</a></span> Paul now returns to arguing from Scripture, using the contrast between Hagar and Sarah and between their children. Paul argues for a similar contrast between those who are slaves under the law and those who are free in Christ. • Paul’s argument uses the allegorical techniques of rabbinic Judaism (see <a href=\"?item=Gal.4.24_StudyNote_Filament\">study note on 4:24</a>). Having been trained as a rabbi (<a href=\"?bref=Acts.22.3\">Acts 22:3</a>), Paul could out-argue the Judaizers using their own methods.</p>"
+    },
+    {
+      "sequence": 15261,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.21",
+      "citation": {
+        "short": "Gal 4:21",
+        "long": "Galatians 4:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.21\">4:21</a></span> <span class=\"sn-excerpt\">do you know what the law actually says?</span> They were trying to achieve righteousness by the law, but they did not truly understand its meaning (cp. <a href=\"?bref=Luke.24.25-27\">Luke 24:25-27</a>; <a href=\"?bref=1Tim.1.7\">1 Tim 1:7</a>).</p>"
+    },
+    {
+      "sequence": 15262,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.22",
+      "citation": {
+        "short": "Gal 4:22",
+        "long": "Galatians 4:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.22-23\">4:22-23</a></span> <span class=\"sn-excerpt\">The son of the slave wife</span> was Ishmael, born to Sarah’s servant Hagar (see <a href=\"?bref=Gen.16.15\">Gen 16:15</a>). Sarah gave Hagar to Abraham <span class=\"sn-excerpt\">in a human attempt</span> to obtain the heir (see <a href=\"?bref=Gen.16.1-4\">Gen 16:1-4</a>) that God had promised (see <a href=\"?bref=Gen.15.1-6\">Gen 15:1-6</a>). Sarah’s son, Isaac, was <span class=\"sn-excerpt\">the son of the freeborn wife</span> (see <a href=\"?bref=Gen.21.2-3\">Gen 21:2-3</a>); he was miraculously conceived as <span class=\"sn-excerpt\">God’s own fulfillment of his promise</span> (see <a href=\"?bref=Gen.17.15-21\">Gen 17:15-21</a>).</p>"
+    },
+    {
+      "sequence": 15263,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.24",
+      "citation": {
+        "short": "Gal 4:24",
+        "long": "Galatians 4:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.24-25\">4:24-25</a></span> Paul connects Abraham’s human attempt to fulfill God’s promises (<a href=\"?bref=Gal.4.23\">4:23</a>) with the human attempt in Galatia and elsewhere to attain salvation by keeping the law. Hagar’s status as a slave-wife corresponds with Israel’s <span class=\"sn-excerpt\">enslaved</span> status under the law. This status contrasts with the status of those who have faith in Christ (<a href=\"?bref=Gal.4.26-27\">4:26-27</a>).</p>"
+    },
+    {
+      "sequence": 15264,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.24",
+      "citation": {
+        "short": "Gal 4:24",
+        "long": "Galatians 4:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.24\">4:24</a></span> <span class=\"sn-excerpt\">serve as an illustration</span> (literally <span class=\"ital\">are being allegorized</span>): In allegorical writing, every character and event is symbolic of a deeper meaning. Allegorical interpretations often ignore the historical meaning of the text and invent fanciful meanings. Here, by contrast, Paul understood the story correctly in its historical context and recognized the story as history. But he interpreted the characters of the historical story as symbolizing the current situation. Paul’s opponents were apparently also using allegorical methods of interpretation, so Paul refuted faulty allegory with true allegory (cp. <a href=\"?bref=1Cor.9.22\">1 Cor 9:22</a>). • <span class=\"sn-excerpt\">God’s two covenants:</span> The old covenant was formed through Moses; the new covenant came through Jesus Christ. • <span class=\"sn-excerpt\">Hagar represents Mount Sinai:</span> Just as Hagar was a slave-wife who represents human effort, <span class=\"sn-excerpt\">Mount Sinai</span> brought slavery to following the law.</p>"
+    },
+    {
+      "sequence": 15265,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.25",
+      "citation": {
+        "short": "Gal 4:25",
+        "long": "Galatians 4:25"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.25\">4:25</a></span> Both Hagar and Mount Sinai were symbols of <span class=\"sn-excerpt\">Jerusalem</span><span class=\"ital\">,</span> which stood for Judaism in Paul’s day. Judaism continued to trust in the law and in physical descent from Abraham for their status before God (cp. <a href=\"?bref=John.8.31-59\">John 8:31-59</a>); they rejected Christ and continued to live <span class=\"sn-excerpt\">in slavery to the law</span> (<a href=\"?bref=Gal.3.23-24\">Gal 3:23-24</a>; <a href=\"?bref=Gal.4.1-3\">4:1-3</a>). • <span class=\"sn-excerpt\">Mount Sinai in Arabia:</span> The traditional location for Mount Sinai is in the Sinai Peninsula in Egypt. However, some have suggested that <span class=\"sn-excerpt\">in Arabia</span> means that Mount Sinai was in Midian, where Moses once lived (see <a href=\"?bref=Exod.3.1\">Exod 3:1</a>).</p>"
+    },
+    {
+      "sequence": 15266,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.26",
+      "citation": {
+        "short": "Gal 4:26",
+        "long": "Galatians 4:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.26\">4:26</a></span> Just as Hagar represents slavery to human effort based on Mount Sinai (<a href=\"?bref=Gal.4.24-25\">4:24-25</a>), <span class=\"sn-excerpt\">Sarah represents</span> freedom in <span class=\"sn-excerpt\">the heavenly Jerusalem</span><span class=\"ital\">,</span> the ideal city of God. Abraham’s true children by faith (<a href=\"?bref=Gal.3.29\">3:29</a>) now live in the reality of God’s reign in Christ. • <span class=\"sn-excerpt\">she is our mother:</span> Sarah’s child, Isaac, was the freeborn recipient of all of God’s promises apart from the law. Similarly, Jews and Gentiles who live by faith in Christ are Sarah’s true children—they receive God’s promises to Abraham freely apart from the law (<a href=\"?bref=Gal.3.26-29\">3:26-29</a>; <a href=\"?bref=Gal.4.4-7\">4:4-7</a>).</p>"
+    },
+    {
+      "sequence": 15267,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.27",
+      "citation": {
+        "short": "Gal 4:27",
+        "long": "Galatians 4:27"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.27\">4:27</a></span> The quoted passage, <a href=\"?bref=Isa.54.1\">Isa 54:1</a>, promised Israel that they would be fruitful after the Exile. Because those who have faith in Christ are Sarah’s children (<a href=\"?bref=Gal.4.26\">Gal 4:26</a>), they fulfill the promise that Sarah (the <span class=\"sn-excerpt\">childless woman</span>) would be more abundantly fruitful than the slave-wife Hagar. To the Judaizers, those who don’t follow the law may have been considered “barren,” but through faith they are abundantly fruitful as the bride of Christ (<a href=\"?bref=2Cor.11.2\">2 Cor 11:2</a>; <a href=\"?bref=Eph.5.31-33\">Eph 5:31-33</a>).</p>"
+    },
+    {
+      "sequence": 15268,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.28",
+      "citation": {
+        "short": "Gal 4:28",
+        "long": "Galatians 4:28"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.28-31\">4:28-31</a></span> Paul applies the allegory of Hagar and Sarah (<a href=\"?bref=Gal.4.21-27\">4:21-27</a>) to the situation in Galatia. <span class=\"sn-excerpt\">Isaac</span> represents those who are born through God’s <span class=\"sn-excerpt\">promise</span> (<a href=\"?bref=Gal.3.8\">3:8</a>) <span class=\"sn-excerpt\">by the power of the Spirit</span> (<a href=\"?bref=Gal.3.2-5\">3:2-5</a>; cp. <a href=\"?bref=Eph.1.13-14\">Eph 1:13-14</a>) and who trust in God for salvation through Christ by faith alone. <span class=\"sn-excerpt\">Ishmael</span> represents those who believe that <span class=\"sn-excerpt\">human effort</span> by keeping the law will make them acceptable to God (<a href=\"?bref=Gal.3.10-11\">Gal 3:10-11</a>). This identification would have been shocking to the Judaizers, who thought of themselves as the legitimate children of Abraham because of their insistence on law-keeping.</p>"
+    },
+    {
+      "sequence": 15269,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.29",
+      "citation": {
+        "short": "Gal 4:29",
+        "long": "Galatians 4:29"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.29\">4:29</a></span> Ishmael <span class=\"sn-excerpt\">persecuted</span> Isaac, the child of the promise, at Isaac’s weaning ceremony (see <a href=\"?bref=Gen.21.9\">Gen 21:9</a>). Similarly, in Galatia, <span class=\"sn-excerpt\">those who want you to keep the law</span> were persecuting those who trusted in God’s promise, the message of God’s grace through faith in Christ alone (cp. <a href=\"?bref=Acts.13.50-51\">Acts 13:50-51</a>; <a href=\"?bref=Acts.14.1-7\">14:1-7</a>).</p>"
+    },
+    {
+      "sequence": 15270,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.4",
+      "verseOsisID": "Gal.4.30",
+      "citation": {
+        "short": "Gal 4:30",
+        "long": "Galatians 4:30"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.4.30-31\">4:30-31</a></span> Sarah’s demand regarding Ishmael, quoted from <a href=\"?bref=Gen.21.10\">Gen 21:10</a>, becomes a principle (see <a href=\"?bref=Gen.21.12\">Gen 21:12</a>) for dealing with the current <span class=\"sn-excerpt\">son of the slave woman</span>—anyone who refuses to abandon slavery to the law. God does not allow those who seek righteousness through human effort to share in his inheritance (see <a href=\"?bref=Rom.9.30-33\">Rom 9:30-33</a>). Those who come to God through Christ alone, by faith and not by keeping the law, are <span class=\"sn-excerpt\">children of the free woman</span> who inherit God’s blessings.</p>"
+    },
+    {
+      "sequence": 15271,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.1",
+      "citation": {
+        "short": "Gal 5:1",
+        "long": "Galatians 5:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.1\">5:1</a></span> Paul succinctly summarizes his message to the Galatians, decrying their foolish behavior and offering a positive alternative—freedom. • <span class=\"sn-excerpt\">So Christ has truly set us free:</span> Christians are free to walk by faith in Christ alone (cp. <a href=\"?bref=Rom.8.1-39\">Rom 8</a>). • <span class=\"sn-excerpt\">don’t get tied up</span> (literally <span class=\"ital\">don’t take on a yoke</span>): In Judaism, it was a duty and an honor to “take the yoke of the law.” God’s children in Christ are not called to bear this heavy burden (see <a href=\"?bref=Luke.11.46\">Luke 11:46</a>; <a href=\"?bref=Acts.15.10\">Acts 15:10</a>); instead, they enjoy Christ’s yoke of freedom (<a href=\"?bref=Matt.11.28-30\">Matt 11:28-30</a>).</p>"
+    },
+    {
+      "sequence": 15272,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.2",
+      "citation": {
+        "short": "Gal 5:2",
+        "long": "Galatians 5:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.2-6\">5:2-6</a></span> The Judaizers taught that keeping the law would earn God’s favor (cp. <a href=\"?bref=Acts.15.1\">Acts 15:1</a>), but that path actually leads to alienation from God. Real righteousness comes to those who live in Christ by the power of the Spirit.</p>"
+    },
+    {
+      "sequence": 15273,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.2",
+      "citation": {
+        "short": "Gal 5:2",
+        "long": "Galatians 5:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.2\">5:2</a></span> <span class=\"sn-excerpt\">Paul</span> reminded the Galatians of who was talking to them: the apostle of Christ who represented the Lord to the Gentiles and who had first proclaimed the Good News to them.</p>"
+    },
+    {
+      "sequence": 15274,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.3",
+      "citation": {
+        "short": "Gal 5:3",
+        "long": "Galatians 5:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.3\">5:3</a></span> Those who seek righteousness through the law <span class=\"sn-excerpt\">must obey every regulation</span> of it (see <a href=\"?bref=Gal.2.15-16\">2:15-16</a>; cp. <a href=\"?bref=Jas.2.10\">Jas 2:10</a>).</p>"
+    },
+    {
+      "sequence": 15275,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.4",
+      "citation": {
+        "short": "Gal 5:4",
+        "long": "Galatians 5:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.4\">5:4</a></span> People who think circumcision is necessary for salvation are putting faith in the law and in themselves, not in Christ. Such people are <span class=\"sn-excerpt\">cut off from Christ</span><span class=\"ital\">,</span> outside of his grace (cp. <a href=\"?bref=Rom.5.2\">Rom 5:2</a>); they are under the judgment of the law. They have <span class=\"sn-excerpt\">fallen away from</span> the benefits of <span class=\"sn-excerpt\">God’s grace</span> (cp. <a href=\"?bref=Gal.1.6\">Gal 1:6</a>; <a href=\"?bref=1Pet.5.12\">1 Pet 5:12</a>).</p>"
+    },
+    {
+      "sequence": 15276,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.5",
+      "citation": {
+        "short": "Gal 5:5",
+        "long": "Galatians 5:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.5\">5:5</a></span> The alternative to living by faith in the law is to <span class=\"sn-excerpt\">live by</span> complete reliance on <span class=\"sn-excerpt\">the Spirit</span> to make us pleasing to God. • <span class=\"sn-excerpt\">eagerly wait to receive by faith the righteousness God has promised to us</span> (or <span class=\"ital\">eagerly await by faith the hope that righteousness gives us</span>): We receive God’s righteousness at our salvation (<a href=\"?bref=Rom.5.9-11\">Rom 5:9-11</a>; <a href=\"?bref=Rom.10.10\">10:10</a>), in an ongoing way through the Spirit’s sanctification (<a href=\"?bref=Rom.8.1-14\">Rom 8:1-14</a>), and fully at the resurrection when Christ returns (<a href=\"?bref=Rom.8.18-30\">Rom 8:18-30</a>). It is God’s power that provides righteousness, and he fulfills his promise (<a href=\"?bref=Gal.3.14\">Gal 3:14</a>, <a href=\"?bref=Gal.3.22\">22</a>).</p>"
+    },
+    {
+      "sequence": 15277,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.6",
+      "citation": {
+        "short": "Gal 5:6",
+        "long": "Galatians 5:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.6\">5:6</a></span> <span class=\"sn-excerpt\">Faith in Christ Jesus</span> provides access to all of God’s favor and grace, so <span class=\"sn-excerpt\">no</span> further <span class=\"sn-excerpt\">benefit</span> is available through human effort. <span class=\"sn-excerpt\">Faith</span> is expressed by exercising <span class=\"sn-excerpt\">love</span> toward others (cp. <a href=\"?bref=Rom.13.10\">Rom 13:10</a>; <a href=\"?bref=Rom.14.17-19\">14:17-19</a>; <a href=\"?bref=2Cor.8.8-13\">2 Cor 8:8-13</a>).</p>"
+    },
+    {
+      "sequence": 15278,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.7",
+      "citation": {
+        "short": "Gal 5:7",
+        "long": "Galatians 5:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.7\">5:7</a></span> The life of faith is like <span class=\"sn-excerpt\">running</span> a <span class=\"sn-excerpt\">race</span> (cp. <a href=\"?bref=1Cor.9.24-27\">1 Cor 9:24-27</a>; <a href=\"?bref=Phil.3.13-14\">Phil 3:13-14</a>; <a href=\"?bref=2Tim.4.7-8\">2 Tim 4:7-8</a>). The law became a hindrance to the Galatians in this race rather than a help (cp. <a href=\"?bref=Luke.11.52\">Luke 11:52</a>).</p>"
+    },
+    {
+      "sequence": 15279,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.8",
+      "citation": {
+        "short": "Gal 5:8",
+        "long": "Galatians 5:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.8\">5:8</a></span> The Galatians thought that their commitment to the law would please God, but <span class=\"sn-excerpt\">God</span> wasn’t calling them to this slavery. God <span class=\"sn-excerpt\">called</span> them to <span class=\"sn-excerpt\">freedom</span>.</p>"
+    },
+    {
+      "sequence": 15280,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.9",
+      "citation": {
+        "short": "Gal 5:9",
+        "long": "Galatians 5:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.9\">5:9</a></span> This verse was apparently a well-known adage (literally <span class=\"ital\">A little yeast makes the whole loaf rise;</span> cp. <a href=\"?bref=Matt.13.33\">Matt 13:33</a>; <a href=\"?bref=Matt.16.6\">16:6</a>, <a href=\"?bref=Matt.16.11-12\">11-12</a>; <a href=\"?bref=1Cor.5.6-7\">1 Cor 5:6-7</a>). A little reliance on the law for acceptance by God soon results in forgetting that Christ saves by <span class=\"ital\">his</span> work alone.</p>"
+    },
+    {
+      "sequence": 15281,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.10",
+      "citation": {
+        "short": "Gal 5:10",
+        "long": "Galatians 5:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.10\">5:10</a></span> <span class=\"sn-excerpt\">that person, whoever he is:</span> Perhaps Paul did not know who the false teachers were, or perhaps he meant that their credentials were unimportant (cp. <a href=\"?bref=Gal.2.6\">2:6</a>). • <span class=\"sn-excerpt\">confusing you:</span> The false teaching distorted the Good News, so Paul wrote to clear up their thinking.</p>"
+    },
+    {
+      "sequence": 15282,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.11",
+      "citation": {
+        "short": "Gal 5:11",
+        "long": "Galatians 5:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.11\">5:11</a></span> <span class=\"sn-excerpt\">if I were still preaching:</span> This statement probably refers to Paul’s preaching as an ardent zealot of Judaism before his conversion to Christ (<a href=\"?bref=Gal.1.13-14\">1:13-14</a>; <a href=\"?bref=Acts.7.58-8.3\">Acts 7:58–8:3</a>). As a Christian, Paul had never preached that Gentiles <span class=\"sn-excerpt\">must be circumcised</span>. • <span class=\"sn-excerpt\">why am I still being persecuted?</span> If Paul had been preaching a law-based religion, the zealous Jews would not have been persecuting him wherever he went. They found the rejection of the necessity of their laws to be scandalous (cp. <a href=\"?bref=Rom.9.33\">Rom 9:33</a>; <a href=\"?bref=1Cor.1.23\">1 Cor 1:23</a>).</p>"
+    },
+    {
+      "sequence": 15283,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.12",
+      "citation": {
+        "short": "Gal 5:12",
+        "long": "Galatians 5:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.12\">5:12</a></span> <span class=\"sn-excerpt\">mutilate themselves</span> (literally <span class=\"ital\">cut themselves off;</span> cp. <a href=\"?bref=Phil.3.2\">Phil 3:2</a>): Paul uses biting sarcasm and wordplay with multiple levels of meaning: (1) Paul might be alluding to pagan priests in the province of Galatia who castrated themselves in devotion to pagan gods. An insistence on circumcision for Christians is essentially no different. It involved cutting the flesh to become acceptable to God by physical deeds rather than by faith in Christ. (2) Depending on circumcision mutilated the false teachers’ standing before God, so they might as well mutilate themselves physically. (3) In the old covenant, emasculated men were not allowed to enter the congregation (<a href=\"?bref=Deut.23.1\">Deut 23:1</a>); similarly, those who rely on circumcision have no place in the new covenant community. Paul probably wished that the Judaizers would <span class=\"ital\">cut themselves off</span> by removing themselves from the community.</p>"
+    },
+    {
+      "sequence": 15284,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.13",
+      "citation": {
+        "short": "Gal 5:13",
+        "long": "Galatians 5:13"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.13-6.10\">5:13–6:10</a></span> Having shown that justification comes by faith alone, Paul now addresses the question, “If we don’t keep the law, then what will guide our conduct?” His answer is that righteousness comes from the Spirit. The Judaizers probably warned that Paul’s message of <span class=\"sn-excerpt\">freedom</span> (<a href=\"?bref=Gal.5.1\">5:1</a>) would put believers on a slippery slope to moral ruin. Paul argues that freedom is not a license to sin, because <span class=\"sn-excerpt\">love</span> guides Christians. Liberty should be used <span class=\"sn-excerpt\">to serve one another in love</span> (cp. <a href=\"?bref=Gal.2.20\">2:20</a>; <a href=\"?bref=2Cor.5.14-15\">2 Cor 5:14-15</a>).</p>"
+    },
+    {
+      "sequence": 15285,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.14",
+      "citation": {
+        "short": "Gal 5:14",
+        "long": "Galatians 5:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.14\">5:14</a></span> <span class=\"sn-excerpt\">the whole law can be summed up</span> (or <span class=\"ital\">the whole law is fulfilled</span>): Christ’s followers fulfill the law by exercising <span class=\"sn-excerpt\">love</span> toward every <span class=\"sn-excerpt\">neighbor</span> (<a href=\"?bref=Lev.19.18\">Lev 19:18</a>; see <a href=\"?bref=Matt.7.12\">Matt 7:12</a>; <a href=\"?bref=Luke.6.27-36\">Luke 6:27-36</a>; <a href=\"?bref=Luke.10.25-37\">10:25-37</a>; <a href=\"?bref=John.13.34-35\">John 13:34-35</a>; <a href=\"?bref=John.15.9-17\">15:9-17</a>; <a href=\"?bref=Rom.13.8-10\">Rom 13:8-10</a>).</p>"
+    },
+    {
+      "sequence": 15286,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.15",
+      "citation": {
+        "short": "Gal 5:15",
+        "long": "Galatians 5:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.15\">5:15</a></span> The opposite of love is <span class=\"sn-excerpt\">biting and devouring one another</span> (cp. <a href=\"?bref=Ps.35.25\">Ps 35:25</a>; <a href=\"?bref=Pr.30.14\">Prov 30:14</a>; <a href=\"?bref=Jer.8.17\">Jer 8:17</a>). People who do not love are characterized by strife and bitterness. They will end up <span class=\"sn-excerpt\">destroying one another</span>. By contrast, love gives life to others (<a href=\"?bref=John.3.16\">John 3:16</a>; <a href=\"?bref=John.15.12-13\">15:12-13</a>).</p>"
+    },
+    {
+      "sequence": 15287,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.16",
+      "citation": {
+        "short": "Gal 5:16",
+        "long": "Galatians 5:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.16-26\">5:16-26</a></span> A law-free faith will not lead to moral ruin because having the <span class=\"sn-excerpt\">Holy Spirit</span> to <span class=\"sn-excerpt\">guide</span> people’s <span class=\"sn-excerpt\">lives</span> changes their hearts to follow the will of God and not sin (cp. <a href=\"?bref=Jer.31.33\">Jer 31:33</a>; <a href=\"?bref=Heb.8.10\">Heb 8:10</a>).</p>"
+    },
+    {
+      "sequence": 15288,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.17",
+      "citation": {
+        "short": "Gal 5:17",
+        "long": "Galatians 5:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.17\">5:17</a></span> We cannot simply decide to keep the law and not sin: A war rages between God’s Spirit and our <span class=\"sn-excerpt\">sinful nature</span> (see <a href=\"?bref=Rom.7.14-25\">Rom 7:14-25</a>; <a href=\"?bref=1Pet.2.11\">1 Pet 2:11</a>; cp. <a href=\"?bref=Gen.4.7\">Gen 4:7</a>). The answer is not human effort at law-keeping, but living by God’s Spirit. When we are resurrected, we will finally be freed from sin (see <a href=\"?bref=Rom.8.18-25\">Rom 8:18-25</a>).</p>"
+    },
+    {
+      "sequence": 15289,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.18",
+      "citation": {
+        "short": "Gal 5:18",
+        "long": "Galatians 5:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.18\">5:18</a></span> Those who are <span class=\"sn-excerpt\">directed by the Spirit</span> are under the Spirit’s authority and not <span class=\"sn-excerpt\">under obligation to the law</span>. They do not answer to the law but to the Spirit of God. It was not Paul’s intent to justify civil disobedience (see <a href=\"?bref=Rom.13.1-7\">Rom 13:1-7</a>; <a href=\"?bref=Titus.3.1\">Titus 3:1</a>; cp. <a href=\"?bref=1Pet.2.13-17\">1 Pet 2:13-17</a>). He was addressing the means of obtaining spiritual righteousness before God.</p>"
+    },
+    {
+      "sequence": 15290,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.19",
+      "citation": {
+        "short": "Gal 5:19",
+        "long": "Galatians 5:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.19-26\">5:19-26</a></span> These two lists contrast life dominated by the sinful nature (<a href=\"?bref=Gal.5.19-21\">5:19-21</a>) with life led by the Spirit (<a href=\"?bref=Gal.5.22-26\">5:22-26</a>). Living by the Spirit means observing a higher ethical standard than can be achieved under the law.</p>"
+    },
+    {
+      "sequence": 15291,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.19",
+      "citation": {
+        "short": "Gal 5:19",
+        "long": "Galatians 5:19"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.19\">5:19</a></span> <span class=\"sn-excerpt\">When you follow . . . the results are</span> (literally <span class=\"ital\">The works of the flesh are</span>): An emphasis on law-keeping and sinful actions both flow from trying to live apart from the power of God’s Spirit. • <span class=\"sn-excerpt\">very clear:</span> Basic understanding of right and wrong is universal (cp. <a href=\"?bref=Rom.1.32\">Rom 1:32</a>; <a href=\"?bref=Rom.2.14-15\">2:14-15</a>; <a href=\"?bref=1Cor.5.1\">1 Cor 5:1</a>), though some people suppress this awareness (<a href=\"?bref=Rom.1.18-21\">Rom 1:18-21</a>). • The list begins with <span class=\"sn-excerpt\">sexual immorality;</span> in contrast, the list of Christian virtues begins with love (<a href=\"?bref=Gal.5.22\">Gal 5:22</a>). All kinds of sexual misconduct were common (cp. <a href=\"?bref=Rom.1.24-27\">Rom 1:24-27</a>; <a href=\"?bref=1Cor.5.1\">1 Cor 5:1</a>; <a href=\"?bref=1Cor.6.15-18\">6:15-18</a>; <a href=\"?bref=2Cor.12.21\">2 Cor 12:21</a>; <a href=\"?bref=2Pet.3.10\">2 Pet 3:10</a>, <a href=\"?bref=2Pet.3.18\">18</a>). Sexual immorality was connected in paganism with fertility worship (cp. <a href=\"?bref=Rev.2.14\">Rev 2:14</a>, <a href=\"?bref=Rev.2.20\">20</a>). • Moral <span class=\"sn-excerpt\">impurity</span> removes holiness and makes fellowship with a holy God impossible (see <a href=\"?bref=Matt.23.27\">Matt 23:27</a>; <a href=\"?bref=Rom.6.19\">Rom 6:19</a>; <a href=\"?bref=2Cor.12.21\">2 Cor 12:21</a>; <a href=\"?bref=Eph.5.3\">Eph 5:3</a>; <a href=\"?bref=Col.3.5\">Col 3:5</a>; <a href=\"?bref=1Thes.4.7\">1 Thes 4:7</a>).</p>"
+    },
+    {
+      "sequence": 15292,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.20",
+      "citation": {
+        "short": "Gal 5:20",
+        "long": "Galatians 5:20"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.20\">5:20</a></span> <span class=\"sn-excerpt\">Idolatry</span><span class=\"ital\">,</span> the worship of false gods, was common in Galatia and was often accompanied by <span class=\"sn-excerpt\">sorcery</span> (see <a href=\"?bref=Acts.19.19\">Acts 19:19</a>; cp. <a href=\"?bref=1Sam.15.23\">1 Sam 15:23</a>; <a href=\"?bref=Rev.9.21\">Rev 9:21</a>; <a href=\"?bref=Rev.18.23\">18:23</a>; <a href=\"?bref=Rev.21.8\">21:8</a>; <a href=\"?bref=Rev.22.15\">22:15</a>) and sexual immorality (cp. <a href=\"?bref=1Cor.6.9\">1 Cor 6:9</a>, <a href=\"?bref=1Cor.6.15-20\">15-20</a>). • <span class=\"sn-excerpt\">Hostility</span> arises from angry pride rather than the Spirit’s humility and love (<a href=\"?bref=Gal.5.22-23\">Gal 5:22-23</a>). • <span class=\"sn-excerpt\">Quarreling</span> refers not to standing up for what is right, but to stirring up discord and looking for a fight (<a href=\"?bref=1Cor.3.3\">1 Cor 3:3</a>; <a href=\"?bref=2Cor.12.20\">2 Cor 12:20</a>; <a href=\"?bref=1Tim.6.4\">1 Tim 6:4</a>; <a href=\"?bref=Titus.3.9\">Titus 3:9</a>). Those who are guided by the Holy Spirit seek to speak the truth in love with a peacemaking attitude (<a href=\"?bref=Gal.5.22\">Gal 5:22</a>; <a href=\"?bref=Eph.4.15\">Eph 4:15</a>; <a href=\"?bref=2Tim.2.23-26\">2 Tim 2:23-26</a>). • <span class=\"sn-excerpt\">Jealousy</span> (Greek <span class=\"greek\">zēlos</span><span class=\"ital\">,</span> “zeal”) has both a positive sense (“passionate commitment”) and, as here, a negative one (“intense desire for another’s things”); cp. <a href=\"?bref=Jas.3.14-16\">Jas 3:14-16</a>. • <span class=\"sn-excerpt\">Outbursts of anger</span> (or <span class=\"ital\">fits of rage</span>) contrast with self-control (<a href=\"?bref=Gal.5.23\">Gal 5:23</a>; see, e.g., <a href=\"?bref=Acts.19.28\">Acts 19:28</a>; <a href=\"?bref=2Cor.12.20\">2 Cor 12:20</a>; <a href=\"?bref=1Tim.3.3\">1 Tim 3:3</a>; <a href=\"?bref=Titus.1.7\">Titus 1:7</a>). • <span class=\"sn-excerpt\">Selfish ambition</span> (or <span class=\"ital\">Selfishness</span>) is the antithesis of Christian love (cp. <a href=\"?bref=Rom.2.8\">Rom 2:8</a>; <a href=\"?bref=Phil.2.3\">Phil 2:3</a>; <a href=\"?bref=Jas.3.14\">Jas 3:14</a>, <a href=\"?bref=Jas.3.16\">16</a>). • <span class=\"sn-excerpt\">Division</span> (Greek <span class=\"greek\">haireseis</span><span class=\"ital\">,</span> “heresies, factions, sects”) refers to people using differing beliefs or practices to divide the community (cp. <a href=\"?bref=1Cor.11.17-19\">1 Cor 11:17-19</a>; <a href=\"?bref=2Pet.2.1-3\">2 Pet 2:1-3</a>).</p>"
+    },
+    {
+      "sequence": 15293,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.21",
+      "citation": {
+        "short": "Gal 5:21",
+        "long": "Galatians 5:21"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.21\">5:21</a></span> <span class=\"sn-excerpt\">Drunkenness</span> has no place in the Christian life (see <a href=\"?bref=Luke.21.34\">Luke 21:34</a>; <a href=\"?bref=1Cor.11.20-22\">1 Cor 11:20-22</a>; <a href=\"?bref=Eph.5.18\">Eph 5:18</a>). • <span class=\"sn-excerpt\">wild parties:</span> Festivals in honor of pagan gods were often accompanied by drunken orgies (cp. <a href=\"?bref=1Pet.4.3\">1 Pet 4:3</a>). • <span class=\"sn-excerpt\">other sins like these:</span> This list is only representative of the vices of the sinful nature (cp. <a href=\"?bref=Mark.7.20-23\">Mark 7:20-23</a>; <a href=\"?bref=Rom.1.29-31\">Rom 1:29-31</a>; <a href=\"?bref=1Cor.6.9-10\">1 Cor 6:9-10</a>; <a href=\"?bref=Eph.5.3-5\">Eph 5:3-5</a>; <a href=\"?bref=Col.3.5-8\">Col 3:5-8</a>; <a href=\"?bref=1Tim.1.9-10\">1 Tim 1:9-10</a>; <a href=\"?bref=2Tim.3.2-5\">2 Tim 3:2-5</a>; <a href=\"?bref=Jas.3.13-18\">Jas 3:13-18</a>; <a href=\"?bref=Rev.21.8\">Rev 21:8</a>). People <span class=\"sn-excerpt\">living that sort of life</span> are not living by the Spirit, and thereby demonstrate no relationship with God by faith. Such people <span class=\"sn-excerpt\">will not inherit the Kingdom of God:</span> They are still slaves of their sinful nature (<a href=\"?bref=Gal.4.8-9\">Gal 4:8-9</a>, <a href=\"?bref=Gal.4.22-25\">22-25</a>; cp. <a href=\"?bref=Rom.6.16-22\">Rom 6:16-22</a>; <a href=\"?bref=1Cor.6.9-10\">1 Cor 6:9-10</a>) and are not under God’s rule.</p>"
+    },
+    {
+      "sequence": 15294,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.22",
+      "citation": {
+        "short": "Gal 5:22",
+        "long": "Galatians 5:22"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.22\">5:22</a></span> Unlike following the sinful nature (<a href=\"?bref=Gal.5.19-21\">5:19-21</a>), letting the <span class=\"sn-excerpt\">Holy Spirit</span> guide (<a href=\"?bref=Gal.5.16\">5:16</a>) <span class=\"sn-excerpt\">produces</span> a life pleasing to God, which human effort and the law cannot do (cp. <a href=\"?bref=John.15.1-8\">John 15:1-8</a>). • These virtues directly address the issues in the church of Galatia. • <span class=\"sn-excerpt\">love:</span> The greatest Christian virtue encompasses all the others (<a href=\"?bref=1Cor.13.4-7\">1 Cor 13:4-7</a>). Only the Spirit of God can produce in us love for those who hate us (<a href=\"?bref=Matt.5.43-48\">Matt 5:43-48</a>; <a href=\"?bref=Luke.6.35-36\">Luke 6:35-36</a>). • <span class=\"sn-excerpt\">Joy</span> produced by the Spirit does not depend on circumstances (<a href=\"?bref=Rom.15.13\">Rom 15:13</a>; <a href=\"?bref=2Cor.6.10\">2 Cor 6:10</a>; <a href=\"?bref=2Cor.8.2\">8:2</a>; <a href=\"?bref=1Thes.1.6\">1 Thes 1:6</a>). • <span class=\"sn-excerpt\">Peace</span> with God creates internal well-being (<a href=\"?bref=Rom.5.1\">Rom 5:1</a>; <a href=\"?bref=Eph.2.15\">Eph 2:15</a>; <a href=\"?bref=Phil.4.6-7\">Phil 4:6-7</a>; <a href=\"?bref=Col.1.20\">Col 1:20</a>) that spills into our relationships with others so that we become peacemakers (<a href=\"?bref=Matt.5.9\">Matt 5:9</a>; <a href=\"?bref=Rom.8.6\">Rom 8:6</a>; <a href=\"?bref=Rom.12.18\">12:18</a>; <a href=\"?bref=Rom.14.17-19\">14:17-19</a>; <a href=\"?bref=2Cor.13.11\">2 Cor 13:11</a>; <a href=\"?bref=Eph.4.3\">Eph 4:3</a>; <a href=\"?bref=Eph.6.15\">6:15</a>). • <span class=\"sn-excerpt\">Patience</span> (or <span class=\"ital\">tolerance,</span> or <span class=\"ital\">long-suffering</span>) gives us forbearance toward other people and endurance under unfavorable circumstances (<a href=\"?bref=Eph.4.2\">Eph 4:2</a>; <a href=\"?bref=2Tim.4.2\">2 Tim 4:2</a>; <a href=\"?bref=Jas.5.10-11\">Jas 5:10-11</a>). God is patient with us (<a href=\"?bref=Exod.34.6\">Exod 34:6</a>; <a href=\"?bref=Ps.103.8\">Ps 103:8</a>; <a href=\"?bref=Rom.2.4\">Rom 2:4</a>; <a href=\"?bref=Rom.9.22\">9:22</a>; <a href=\"?bref=1Tim.1.16\">1 Tim 1:16</a>; <a href=\"?bref=2Pet.3.15\">2 Pet 3:15</a>) and promises his presence with those who are patient with others (<a href=\"?bref=Isa.57.15\">Isa 57:15</a>). • <span class=\"sn-excerpt\">Kindness</span> connotes generosity, a giving spirit that reflects how God treats us (<a href=\"?bref=Rom.2.4\">Rom 2:4</a>; <a href=\"?bref=Rom.11.22\">11:22</a>; <a href=\"?bref=Titus.3.4-6\">Titus 3:4-6</a>). • <span class=\"sn-excerpt\">goodness:</span> Cp. <a href=\"?bref=Rom.15.14\">Rom 15:14</a>; <a href=\"?bref=Eph.5.9\">Eph 5:9</a>; <a href=\"?bref=2Thes.1.11\">2 Thes 1:11</a>. • <span class=\"sn-excerpt\">Faithfulness</span> (or <span class=\"ital\">faith</span>) means exercising good faith and fidelity in our relationships, just as God does with us (<a href=\"?bref=1Cor.1.9\">1 Cor 1:9</a>; <a href=\"?bref=1Cor.10.13\">10:13</a>; <a href=\"?bref=2Thes.3.3\">2 Thes 3:3</a>).</p>"
+    },
+    {
+      "sequence": 15295,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.23",
+      "citation": {
+        "short": "Gal 5:23",
+        "long": "Galatians 5:23"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.23\">5:23</a></span> <span class=\"sn-excerpt\">Gentleness</span> is antithetical to the vices of <a href=\"?bref=Gal.5.20\">5:20</a> and requires strength (see <a href=\"?bref=Pr.15.1\">Prov 15:1</a>, <a href=\"?bref=Pr.15.4\">4</a>; <a href=\"?bref=Matt.11.28-29\">Matt 11:28-29</a>; <a href=\"?bref=Eph.4.2\">Eph 4:2</a>). • <span class=\"sn-excerpt\">self-control:</span> The Holy Spirit does not give moral license but empowers people to avoid sin (cp. <a href=\"?bref=Gal.5.13\">Gal 5:13</a>; <a href=\"?bref=Rom.6.14-18\">Rom 6:14-18</a>; <a href=\"?bref=1Thes.4.3-7\">1 Thes 4:3-7</a>; <a href=\"?bref=1Pet.2.16\">1 Pet 2:16</a>; see also <a href=\"?bref=Acts.24.25\">Acts 24:25</a>; <a href=\"?bref=Titus.1.8\">Titus 1:8</a>). • <span class=\"sn-excerpt\">There is no law against these things!</span> Paul is stating the obvious, but also making the point that those who are virtuous by the Spirit do not need law to govern them.</p>"
+    },
+    {
+      "sequence": 15296,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.24",
+      "citation": {
+        "short": "Gal 5:24",
+        "long": "Galatians 5:24"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.24\">5:24</a></span> Those who have faith in Christ are <span class=\"sn-excerpt\">crucified</span> with him (cp. <a href=\"?bref=Gal.2.19-20\">2:19-20</a>; <a href=\"?bref=Rom.6.1-23\">Rom 6</a>) and become new people (<a href=\"?bref=Rom.6.1-2\">Rom 6:1-2</a>; <a href=\"?bref=2Cor.5.17\">2 Cor 5:17</a>; <a href=\"?bref=Col.3.5-15\">Col 3:5-15</a>): They have died to their <span class=\"sn-excerpt\">sinful nature</span> and to the law (<a href=\"?bref=Gal.2.19\">Gal 2:19</a>; <a href=\"?bref=Rom.7.4-6\">Rom 7:4-6</a>; <a href=\"?bref=2Cor.5.14\">2 Cor 5:14</a>; <a href=\"?bref=Col.3.1-4\">Col 3:1-4</a>). • <span class=\"sn-excerpt\">passions and desires:</span> As in <a href=\"?bref=Gal.5.19-21\">5:19-21</a>.</p>"
+    },
+    {
+      "sequence": 15297,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.25",
+      "citation": {
+        "short": "Gal 5:25",
+        "long": "Galatians 5:25"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.25\">5:25</a></span> Christians do not live by the law but follow <span class=\"sn-excerpt\">the Spirit’s leading</span>.</p>"
+    },
+    {
+      "sequence": 15298,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.5",
+      "verseOsisID": "Gal.5.26",
+      "citation": {
+        "short": "Gal 5:26",
+        "long": "Galatians 5:26"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.5.26\">5:26</a></span> The Galatian church was apparently having trouble with factions (see also <a href=\"?item=Gal.5.20_StudyNote_Filament\">study note on 5:20</a>; cp. <a href=\"?bref=1Cor.3.1-23\">1 Cor 3</a>) instead of following the Spirit’s leading.</p>"
+    },
+    {
+      "sequence": 15299,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.1",
+      "citation": {
+        "short": "Gal 6:1",
+        "long": "Galatians 6:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.1-10\">6:1-10</a></span> Living by the Spirit (<a href=\"?bref=Gal.5.13-6.10\">5:13–6:10</a>) results in doing good (<a href=\"?bref=Gal.6.1-5\">6:1-5</a>) and reaping rewards from one’s work (<a href=\"?bref=Gal.6.6-10\">6:6-10</a>).</p>"
+    },
+    {
+      "sequence": 15300,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.1",
+      "citation": {
+        "short": "Gal 6:1",
+        "long": "Galatians 6:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.1-5\">6:1-5</a></span> Paul outlines how to treat other Christians with love when they sin.</p>"
+    },
+    {
+      "sequence": 15301,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.1",
+      "citation": {
+        "short": "Gal 6:1",
+        "long": "Galatians 6:1"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.1\">6:1</a></span> Perhaps some of the Galatians were proud of their obedience to the law or their spiritual freedom and willpower. But those who are truly <span class=\"sn-excerpt\">godly</span> are not proud of their accomplishments but <span class=\"sn-excerpt\">humbly help</span> others. • <span class=\"sn-excerpt\">be careful:</span> We are all susceptible to <span class=\"sn-excerpt\">the same temptation</span> to sin (<a href=\"?bref=Rom.3.9-20\">Rom 3:9-20</a>).</p>"
+    },
+    {
+      "sequence": 15302,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.2",
+      "citation": {
+        "short": "Gal 6:2",
+        "long": "Galatians 6:2"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.2\">6:2</a></span> Carrying <span class=\"sn-excerpt\">each other’s burdens</span> (<a href=\"?bref=Gal.6.1\">6:1</a>) fulfills <span class=\"sn-excerpt\">the law of Christ</span> to love one another (<a href=\"?bref=Gal.5.13-14\">5:13-14</a>; see also <a href=\"?bref=Lev.19.18\">Lev 19:18</a>; <a href=\"?bref=Matt.22.36-40\">Matt 22:36-40</a>; <a href=\"?bref=John.13.34\">John 13:34</a>; <a href=\"?bref=John.15.12\">15:12</a>; <a href=\"?bref=1Jn.3.23\">1 Jn 3:23</a>).</p>"
+    },
+    {
+      "sequence": 15303,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.3",
+      "citation": {
+        "short": "Gal 6:3",
+        "long": "Galatians 6:3"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.3\">6:3</a></span> Those with a proud attitude wrongly assume they are <span class=\"sn-excerpt\">too important</span> to help the weak (see <a href=\"?item=Gal.6.1_StudyNote_Filament\">study note on 6:1</a>).</p>"
+    },
+    {
+      "sequence": 15304,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.4",
+      "citation": {
+        "short": "Gal 6:4",
+        "long": "Galatians 6:4"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.4\">6:4</a></span> Instead of regarding ourselves as better than others, we should examine our <span class=\"sn-excerpt\">own work</span> and ensure that we obey Christ in everything (cp. <a href=\"?bref=1Cor.3.12-15\">1 Cor 3:12-15</a>).</p>"
+    },
+    {
+      "sequence": 15305,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.5",
+      "citation": {
+        "short": "Gal 6:5",
+        "long": "Galatians 6:5"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.5\">6:5</a></span> If believers carry their own load (<a href=\"?bref=Gal.6.4\">6:4</a>), they will have no occasion to treat a brother or sister with contempt (<a href=\"?bref=Gal.6.3\">6:3</a>).</p>"
+    },
+    {
+      "sequence": 15306,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.6",
+      "citation": {
+        "short": "Gal 6:6",
+        "long": "Galatians 6:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.6-10\">6:6-10</a></span> In financially supporting those who teach them God’s message (<a href=\"?bref=Gal.6.6\">6:6</a>), believers harvest a spiritual crop.</p>"
+    },
+    {
+      "sequence": 15307,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.6",
+      "citation": {
+        "short": "Gal 6:6",
+        "long": "Galatians 6:6"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.6\">6:6</a></span> Supporting Christian teachers applies <a href=\"?bref=Gal.5.13\">5:13</a> and <a href=\"?bref=Gal.6.2\">6:2</a> (cp. <a href=\"?bref=1Tim.5.17-18\">1 Tim 5:17-18</a>).</p>"
+    },
+    {
+      "sequence": 15308,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.7",
+      "citation": {
+        "short": "Gal 6:7",
+        "long": "Galatians 6:7"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.7\">6:7</a></span> <span class=\"sn-excerpt\">you cannot mock the justice of God:</span> God cannot be fooled by spiritual pretenses. All people will <span class=\"sn-excerpt\">harvest</span> the consequences of their actions (<span class=\"sn-excerpt\">what you plant</span><span class=\"ital\">;</span> see also <a href=\"?bref=Job.4.8\">Job 4:8</a>; <a href=\"?bref=Ps.126.5\">Ps 126:5</a>; <a href=\"?bref=Pr.22.8\">Prov 22:8</a>; <a href=\"?bref=Hos.8.7\">Hos 8:7</a>; <a href=\"?bref=Hos.10.12-15\">10:12-15</a>; <a href=\"?bref=Luke.19.21-23\">Luke 19:21-23</a>; <a href=\"?bref=1Cor.3.12-15\">1 Cor 3:12-15</a>; <a href=\"?bref=1Cor.9.11\">9:11</a>; <a href=\"?bref=2Cor.9.6\">2 Cor 9:6</a>).</p>"
+    },
+    {
+      "sequence": 15309,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.8",
+      "citation": {
+        "short": "Gal 6:8",
+        "long": "Galatians 6:8"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.8\">6:8</a></span> Living <span class=\"sn-excerpt\">to please the Spirit</span> is only possible in the Spirit’s power (<a href=\"?bref=Gal.3.3\">3:3</a>; <a href=\"?bref=Gal.5.16\">5:16</a>). Those who trust in human effort and those who think they can do as they wish are in the same position: They live <span class=\"sn-excerpt\">to satisfy their own sinful nature</span>. Such people <span class=\"sn-excerpt\">harvest decay and death</span>. Those who live by the Spirit’s power and trust in God <span class=\"sn-excerpt\">will harvest everlasting life</span>.</p>"
+    },
+    {
+      "sequence": 15310,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.9",
+      "citation": {
+        "short": "Gal 6:9",
+        "long": "Galatians 6:9"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.9\">6:9</a></span> <span class=\"sn-excerpt\">Let’s not get tired:</span> Either by letting sinful behavior creep in or by grasping for a legal code of conduct rather than being in step with the Spirit (<a href=\"?bref=Gal.5.25\">5:25</a>). • <span class=\"sn-excerpt\">At just the right time we will reap:</span> This assurance is a source of strength for Christians to continue doing good work (cp. <a href=\"?bref=Rom.8.28\">Rom 8:28</a>). • <span class=\"sn-excerpt\">if we don’t give up:</span> The fulfillment of God’s promises to believers requires their steadfast perseverance in faith (see also <a href=\"?bref=Luke.18.1\">Luke 18:1</a>; <a href=\"?bref=2Cor.4.1\">2 Cor 4:1</a>).</p>"
+    },
+    {
+      "sequence": 15311,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.10",
+      "citation": {
+        "short": "Gal 6:10",
+        "long": "Galatians 6:10"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.10\">6:10</a></span> <span class=\"sn-excerpt\">Therefore:</span> This statement forms an <span class=\"ital\">inclusio</span> (bookends) for the section (<a href=\"?bref=Gal.5.13-6.10\">5:13–6:10</a>) by stating the same theme as <a href=\"?bref=Gal.5.13\">5:13</a>: Freedom in the Spirit compels us to <span class=\"sn-excerpt\">do good</span> to others in love. • Doing good <span class=\"sn-excerpt\">to those in the family of faith</span> demonstrates God’s faithfulness to his children: He provides for all their needs.</p>"
+    },
+    {
+      "sequence": 15312,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.11",
+      "citation": {
+        "short": "Gal 6:11",
+        "long": "Galatians 6:11"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.11-18\">6:11-18</a></span> Paul took up the pen from his <span class=\"ital\">amanuensis</span> (secretary) and added a postscript in his <span class=\"sn-excerpt-sc\">own handwriting</span> to show that the letter was authentically his and to make a final appeal.</p>"
+    },
+    {
+      "sequence": 15313,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.12",
+      "citation": {
+        "short": "Gal 6:12",
+        "long": "Galatians 6:12"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.12-13\">6:12-13</a></span> For all of their theological reasoning, the false teachers’ motivation was self-serving: They felt pressure from non-Christian Jews and were more concerned with their own reputation than with honoring God.</p>"
+    },
+    {
+      "sequence": 15314,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.14",
+      "citation": {
+        "short": "Gal 6:14",
+        "long": "Galatians 6:14"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.14\">6:14</a></span> In contrast with the false teachers (<a href=\"?bref=Gal.6.12-13\">6:12-13</a>), Paul’s motivation was to increase, not his own reputation, but God’s glory. Boasting about law-keeping would detract from recognition of <span class=\"sn-excerpt\">the cross of our Lord Jesus Christ</span>. • In the Greco-Roman world, <span class=\"sn-excerpt\">the cross</span> was a senseless scandal to those who did not believe (<a href=\"?bref=Gal.5.11\">5:11</a>; <a href=\"?bref=1Cor.1.23\">1 Cor 1:23</a>; cp. <a href=\"?bref=John.6.53-61\">John 6:53-61</a>), but it is the basis for a Christian’s faith and hope (<a href=\"?bref=1Cor.1.17-18\">1 Cor 1:17-18</a>; <a href=\"?bref=1Cor.15.3\">15:3</a>; <a href=\"?bref=Phil.2.8-11\">Phil 2:8-11</a>; <a href=\"?bref=Col.1.20-22\">Col 1:20-22</a>; <a href=\"?bref=Col.2.14-15\">2:14-15</a>).</p>"
+    },
+    {
+      "sequence": 15315,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.15",
+      "citation": {
+        "short": "Gal 6:15",
+        "long": "Galatians 6:15"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.15\">6:15</a></span> The Galatians had missed the point of the Good News, that <span class=\"sn-excerpt\">a new creation</span> has come in Christ by the Spirit, not by human effort (cp. <a href=\"?bref=2Cor.5.16-17\">2 Cor 5:16-17</a>).</p>"
+    },
+    {
+      "sequence": 15316,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.16",
+      "citation": {
+        "short": "Gal 6:16",
+        "long": "Galatians 6:16"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.16\">6:16</a></span> <span class=\"sn-excerpt\">This principle</span> is putting trust in Christ for salvation (<a href=\"?bref=Gal.6.14-15\">6:14-15</a>) • <span class=\"sn-excerpt\">they are the new people of God</span> (literally <span class=\"ital\">and</span> [or<span class=\"ital\"> even</span>]<span class=\"ital\"> upon the Israel of God</span>): The Greek conjunction <span class=\"greek\">kai</span>, usually translated “and,” often means “even.” If it means <span class=\"ital\">and,</span> then the <span class=\"ital\">Israel of God</span> is a separate group from <span class=\"ital\">all who live by this principle;</span> if it means <span class=\"ital\">even,</span> then they are the same group. The Jewish people still have an identity before God (<a href=\"?bref=Rom.9.1-5\">Rom 9:1-5</a>; <a href=\"?bref=Rom.10.1-4\">10:1-4</a>; <a href=\"?bref=Rom.11.1-32\">11:1-32</a>). Gentiles who believe have been grafted in, and Jews who disbelieve have been pruned out of the spiritual Israel (<a href=\"?bref=Rom.11.17-24\">Rom 11:17-24</a>; cp. <a href=\"?bref=Phil.3.2-3\">Phil 3:2-3</a>; <a href=\"?bref=Col.2.11-12\">Col 2:11-12</a>). Paul thus considers all Christians to be the true Israel (see <a href=\"?bref=Rom.2.28-29\">Rom 2:28-29</a>; <a href=\"?bref=Rom.9.6-8\">9:6-8</a>; cp. <a href=\"?bref=Gal.4.21-31\">Gal 4:21-31</a>). The phrase <span class=\"ital\">the Israel of God</span> does not appear elsewhere in the New Testament or in other literature; perhaps the false teachers promised this identification to Gentiles who would accept circumcision. If so, then Paul turned their argument on its head: The believing Gentiles in Galatia didn’t need circumcision, for they were already God’s <span class=\"ital\">Israel—</span>his true people—through faith in Christ.</p>"
+    },
+    {
+      "sequence": 15317,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.17",
+      "citation": {
+        "short": "Gal 6:17",
+        "long": "Galatians 6:17"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.17\">6:17</a></span> <span class=\"sn-excerpt\">don’t let anyone trouble me with these things:</span> No one has a right to criticize Paul or his message because of his proven status as Christ’s servant. • Paul’s <span class=\"sn-excerpt\">scars</span> (Greek <span class=\"greek\">stigmata</span>) probably resulted from the severe persecution he had endured as a servant of Christ (see <a href=\"?bref=Acts.14.19\">Acts 14:19</a>; <a href=\"?bref=2Cor.6.4-10\">2 Cor 6:4-10</a>; <a href=\"?bref=2Cor.11.21-33\">11:21-33</a>). In contrast with the physical mark of circumcision that the false teachers in Galatia wanted to impose on Gentile Christians, Paul’s scars of suffering were proof that he was Christ’s servant (cp. <a href=\"?bref=Exod.21.6\">Exod 21:6</a>).</p>"
+    },
+    {
+      "sequence": 15318,
+      "bookOsisID": "Gal",
+      "chapterOsisID": "Gal.6",
+      "verseOsisID": "Gal.6.18",
+      "citation": {
+        "short": "Gal 6:18",
+        "long": "Galatians 6:18"
+      },
+      "html": "<p class=\"sn-text\"><span class=\"sn-ref\"><a href=\"?bref=Gal.6.18\">6:18</a></span> Paul prayed at the end as at the beginning (<a href=\"?bref=Gal.1.3-4\">1:3-4</a>). More than law, the Galatians needed <span class=\"sn-excerpt\">the grace of our Lord Jesus Christ</span> to be with their <span class=\"sn-excerpt\">spirit</span>.</p>"
+    }
+  ]
+}
