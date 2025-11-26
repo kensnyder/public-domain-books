@@ -14,10 +14,12 @@ import type {
   VerseShape,
 } from '../../src/types/data-shapes.ts';
 
-const versesByWorkName = {
+const versesByWorkName: Record<string, VerseShape[]> = {
+  // @ts-expect-error BofM is too large for TS to infer
   BofM: BofM.verses as VerseShape[],
   'D&C': DnC.verses as VerseShape[],
   Didache: Didache.verses as VerseShape[],
+  // @ts-expect-error KJV is too large for TS to infer
   KJV: KJV.verses as VerseShape[],
   KJVA: KJVA.verses as VerseShape[],
   PGP: PGP.verses as VerseShape[],

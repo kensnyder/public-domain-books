@@ -42,13 +42,8 @@ async function main() {
     }
     const parseable = verseRange
       .replace(/([A-Z])\./gi, '$1 ')
-      .replace(/^Pr /, 'Prov ')
-      .replace(/^Hagg /, 'Hag ')
       .replace(/\.title$/, '.0')
       .replaceAll('.', ':')
-      .replace(/^III/, '3')
-      .replace(/^II/, '2')
-      .replace(/^I([A-Z])/, `1$1`)
       .replace(/[a-z]$/, '');
     const verseOsisIDs = parseCitation(parseable);
     if (verseOsisIDs.length === 0) {

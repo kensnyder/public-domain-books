@@ -45,6 +45,7 @@ async function main() {
   console.log(`got ${references.length} references into memory`);
   const data = {
     license: license || 'Public Domain',
+    workOsisID: 'KJV',
     date,
     references,
   };
