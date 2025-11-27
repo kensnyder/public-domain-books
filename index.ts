@@ -1,13 +1,5 @@
-export type {
-  BookShape,
-  WorkShape,
-  VerseShape,
-  AnalysisShape,
-  VerseDataFileShape,
-} from 'src/types/data-shapes.ts';
-export {
-  works, worksLookup, books, booksLookup, groupsLookup
-} from 'data/compiled/books-and-works.ts';
+export * from 'src/types/data-shapes.ts';
+export * from 'data/compiled/books-and-works.ts';
 export { default as getBookByName } from 'src/tools/getBookByName.ts';
 export { default as getChapterList } from 'src/tools/getChapterList.ts';
 export { getRelativeChapter, getNextChapter, getPreviousChapter } from 'src/tools/getRelativeChapter.ts';

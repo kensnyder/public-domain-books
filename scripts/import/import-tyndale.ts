@@ -3,25 +3,7 @@ import JSZip from 'jszip';
 import osisToCitation from '../../src/tools/osisToCitation.ts';
 import parseCitation from '../../src/tools/parseCitation.ts';
 import { parseVerseOsisID } from '../../src/tools/parseOsisID.ts';
-
-type SaveFileSchema = {
-  author: string; // William Tyndale
-  title: string; // Tyndale Open Study Notes
-  copyright: string; // © 2022 by Tyndale House Publishers. CC BY-SA 4.0, see http://creativecommons.org/licenses/by-sa/4.0, http://www.tyndaleopenresources.com
-  source: string;
-  attribution: string;
-  bookOsisID: string;
-  bookName: string;
-  importedAt: string;
-  commentary: Array<{
-    sequence: number;
-    bookOsisID: string;
-    chapterOsisID: string;
-    verseOsisID: string;
-    citation: string;
-    html: string;
-  }>;
-};
+import type { CommentaryDataFileShape } from '../../src/types/data-shapes.ts';
 
 main().catch(console.error);
 
@@ -91,6 +73,7 @@ async function main() {
     const contents = exists
       ? await file.json()
       : ({
+          commentaryID: 'tyndale',
           author: 'William Tyndale',
           title: 'Tyndale Open Study Notes',
           copyright: '© 2022 by Tyndale House Publishers',
@@ -101,7 +84,7 @@ async function main() {
           bookName: fromVerse.book.bookName,
           importedAt: new Date().toISOString().slice(0, 10),
           commentary: [],
-        } as SaveFileSchema);
+        } as CommentaryDataFileShape);
     contents.commentary.push({
       sequence: sequence++,
       bookOsisID: fromVerse.bookOsisID,

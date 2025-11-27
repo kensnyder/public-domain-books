@@ -100,6 +100,7 @@ export type CrossReferenceDataFileShape = {
   references: CrossReferenceShape[];
 }
 export type CommentaryDataFileShape = {
+  commentaryID: string;
   author: string;
   title: string;
   copyright: string;

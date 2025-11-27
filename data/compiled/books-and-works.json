@@ -4287,6 +4287,44 @@
     },
     {
       "workOsisID": "KJVA",
+      "bookName": "Baruch",
+      "bookSubtitle": "Baruch the Prophet",
+      "bookOsisID": "Bar",
+      "paratext": "BAR",
+      "groups": [
+        "Deuterocannon",
+        "Apocrypha"
+      ],
+      "aliases": [
+        "Brch"
+      ],
+      "chapterLabel": "Chapter",
+      "verseLabel": "Verse",
+      "authors": [
+        "Baruch",
+        "Jeremiah"
+      ],
+      "traditions": [
+        "roman catholic",
+        "eastern orthodox",
+        "oriental orthodox",
+        "ethiopian orthodox"
+      ],
+      "dateEarliest": "-0200-01-01",
+      "dateLatest": "-0100-12-31",
+      "chapterCount": 5,
+      "verseCounts": [
+        0,
+        22,
+        35,
+        37,
+        37,
+        9
+      ],
+      "hasData": true
+    },
+    {
+      "workOsisID": "KJVA",
       "bookName": "Epistle of Jeremiah",
       "bookSubtitle": "The Epistle of Jeremiah",
       "bookOsisID": "EpJer",
@@ -6141,7 +6179,8 @@
       76,
       77,
       78,
-      79
+      79,
+      80
     ],
     "APOCRYPHA": [
       66,
@@ -6159,16 +6198,16 @@
       78,
       79,
       80,
-      81
+      81,
+      82
     ],
     "VULGATE": [
-      80
-    ],
-    "APOSTOLIC FATHERS": [
       81
     ],
+    "APOSTOLIC FATHERS": [
+      82
+    ],
     "BOOK OF MORMON": [
-      82,
       83,
       84,
       85,
@@ -6182,18 +6221,18 @@
       93,
       94,
       95,
-      96
+      96,
+      97
     ],
     "SMALL PLATES OF NEPHI": [
-      82,
       83,
       84,
       85,
       86,
-      87
+      87,
+      88
     ],
     "LDS": [
-      82,
       83,
       84,
       85,
@@ -6213,10 +6252,10 @@
       99,
       100,
       101,
-      102
+      102,
+      103
     ],
     "MORMON": [
-      88,
       89,
       90,
       91,
@@ -6224,62 +6263,63 @@
       93,
       94,
       95,
-      96
+      96,
+      97
     ],
     "LARGE PLATES OF NEPHI": [
-      89,
       90,
       91,
       92,
       93,
       94,
       95,
-      96
+      96,
+      97
     ],
     "ABRIDGEMENT": [
-      89,
       90,
       91,
       92,
       93,
       94,
       95,
-      96
+      96,
+      97
     ],
     "PEARL OF GREAT PRICE": [
-      97,
       98,
       99,
       100,
-      101
+      101,
+      102
     ],
     "INSPIRED TRANSLATION": [
-      97,
       98,
-      100,
-      101
+      99,
+      101,
+      102
     ],
     "JOSEPH SMITH TRANSLATION": [
-      97,
       98,
-      100,
-      101
+      99,
+      101,
+      102
     ],
     "JST": [
-      97,
       98,
-      100,
-      101
+      99,
+      101,
+      102
     ],
     "JOSEPH SMITH": [
-      97,
       98,
       99,
       100,
-      101
+      101,
+      102
     ],
     "DOCTRINE AND COVENANTS": [
-      102
+      103
     ]
   }
 }

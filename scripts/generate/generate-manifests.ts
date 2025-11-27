@@ -137,7 +137,7 @@ async function getCommentaries() {
     const file = Bun.file(`${baseDir}/${dataPath}`);
     const data = await file.json();
     commentaries.push({
-      dataPath: `data/verses/${dataPath}`,
+      dataPath: `data/commentaries/${dataPath}`,
       workOsisID,
       commentaryID,
       bookOsisID,
