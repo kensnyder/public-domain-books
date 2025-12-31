@@ -93,6 +93,51 @@ export type VerseDataFileShape = {
   books: BookShape[];
   verses: VerseShape[];
 };
+export type NonRecursiveVerseDataFileShape = {
+  work: {
+    bookCount: number;
+    workOsisID: string;
+    workTitle: string;
+    workSubtitle: string;
+    aliases: string[];
+    hasData: boolean;
+  };
+  compiledAt: string;
+  sources: string[];
+  books: Array<{
+    workOsisID: string;
+    bookOsisID: string;
+    bookName: string;
+    bookSubtitle: string;
+    paratext: string | null;
+    aliases: string[];
+    groups: string[];
+    authors: string[];
+    dateEarliest: string;
+    dateLatest: string;
+    chapterLabel: string;
+    verseLabel: string;
+    traditions: string[];
+    hasData: boolean;
+    chapterCount: number;
+    verseCounts: number[];
+  }>;
+  verses: Array<{
+    workOsisID: string;
+    bookOsisID: string;
+    bookGroups: string[];
+    chapterTitle: string;
+    chapterNumber: number;
+    chapterOsisID: string;
+    verseNumber: number;
+    verseOsisID: string;
+    verseText: string;
+    verseLanguage: string;
+    verseSequence: number;
+    authors: string[];
+    traditions: string[];
+  }>;
+};
 export type CrossReferenceDataFileShape = {
   license: string;
   date: string;

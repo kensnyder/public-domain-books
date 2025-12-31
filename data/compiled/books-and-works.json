@@ -7,6 +7,7 @@
       "bookOsisID": "Gen",
       "paratext": "GEN",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
@@ -96,6 +97,7 @@
       "bookOsisID": "Exod",
       "paratext": "EXO",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
@@ -175,6 +177,7 @@
       "bookOsisID": "Lev",
       "paratext": "LEV",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
@@ -240,6 +243,7 @@
       "bookOsisID": "Num",
       "paratext": "NUM",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
@@ -316,9 +320,12 @@
       "bookOsisID": "Deut",
       "paratext": "DEU",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Pentatuech",
+        "Torah"
       ],
       "aliases": [
         "Deut",
@@ -388,12 +395,18 @@
       "bookOsisID": "Josh",
       "paratext": "JOS",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi’im",
+        "Nevi'im",
+        "Nevi’im Rishonim",
+        "Nevi'im Rishonim"
       ],
       "aliases": [
-        "Josh"
+        "Josh",
+        "Yehoshua"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -447,15 +460,21 @@
       "bookOsisID": "Judg",
       "paratext": "JDG",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi’im",
+        "Nevi'im",
+        "Nevi’im Rishonim",
+        "Nevi'im Rishonim"
       ],
       "aliases": [
         "Judg",
         "Jdg",
         "Jdgs",
-        "Jg"
+        "Jg",
+        "Shoftim"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -506,9 +525,12 @@
       "bookOsisID": "Ruth",
       "paratext": "RUT",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim",
+        "Five Megillot"
       ],
       "aliases": [
         "Rth",
@@ -546,9 +568,13 @@
       "bookOsisID": "1Sam",
       "paratext": "1SA",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Kings",
+        "Nevi’im",
+        "Nevi'im"
       ],
       "aliases": [
         "Sa1",
@@ -573,7 +599,8 @@
         "1st Sam",
         "1st Sa",
         "1st S",
-        "1st Samuel"
+        "1st Samuel",
+        "1 Shmuel"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -636,9 +663,13 @@
       "bookOsisID": "2Sam",
       "paratext": "2SA",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Kings",
+        "Nevi’im",
+        "Nevi'im"
       ],
       "aliases": [
         "Sa2",
@@ -665,7 +696,8 @@
         "2nd Sam",
         "2nd Sa",
         "2nd S",
-        "2nd Samuel"
+        "2nd Samuel",
+        "2 Shmuel"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -720,10 +752,13 @@
       "bookOsisID": "1Kgs",
       "paratext": "1KI",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
-        "Kings"
+        "Kings",
+        "Nevi’im",
+        "Nevi'im"
       ],
       "aliases": [
         "Ki1",
@@ -775,7 +810,8 @@
         "3rd K",
         "3rd Ki",
         "3rd Kgs",
-        "3rd Kings"
+        "3rd Kings",
+        "1 Melakhim"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -827,10 +863,13 @@
       "bookOsisID": "2Kgs",
       "paratext": "2KI",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
-        "Kings"
+        "Kings",
+        "Nevi’im",
+        "Nevi'im"
       ],
       "aliases": [
         "Ki2",
@@ -881,7 +920,8 @@
         " 4th K",
         " 4th Ki",
         " 4th Kgs",
-        " 4th Kings"
+        " 4th Kings",
+        "2 Melakhim"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -936,10 +976,12 @@
       "bookOsisID": "1Chr",
       "paratext": "1CH",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
-        "Persian Period"
+        "Persian Period",
+        "Ketuvim"
       ],
       "aliases": [
         "Ch1",
@@ -966,7 +1008,8 @@
         "1st Ch",
         "1st Chr",
         "1st Chron",
-        "1st Chronicles"
+        "1st Chronicles",
+        "1 Divrei HaYamim"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1025,10 +1068,12 @@
       "bookOsisID": "2Chr",
       "paratext": "2CH",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
-        "Persian Period"
+        "Persian Period",
+        "Ketuvim"
       ],
       "aliases": [
         "Ch2",
@@ -1055,7 +1100,8 @@
         "2nd Ch",
         "2nd Chr",
         "2nd Chron",
-        "2nd Chronicles"
+        "2nd Chronicles",
+        "2 Divrei HaYamim"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1121,10 +1167,12 @@
       "bookOsisID": "Ezra",
       "paratext": "EZR",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
-        "Persian Period"
+        "Persian Period",
+        "Ketuvim"
       ],
       "aliases": [
         "Ez"
@@ -1167,13 +1215,16 @@
       "bookOsisID": "Neh",
       "paratext": "NEH",
       "groups": [
+        "OT",
         "Old Testament",
         "Hebrew Bible",
         "Bible",
-        "Persian Period"
+        "Persian Period",
+        "Ketuvim"
       ],
       "aliases": [
-        "Ne"
+        "Ne",
+        "Nechemiah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1217,9 +1268,12 @@
       "bookOsisID": "Esth",
       "paratext": "EST",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim",
+        "Five Megillot"
       ],
       "aliases": [
         "Es"
@@ -1262,12 +1316,15 @@
       "bookOsisID": "Job",
       "paratext": "JOB",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim"
       ],
       "aliases": [
-        "Jb"
+        "Jb",
+        "Iyov"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1340,15 +1397,18 @@
       "bookOsisID": "Ps",
       "paratext": "PSA",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim"
       ],
       "aliases": [
         "Psalm",
         "Pslm",
         "Psm",
-        "Pss"
+        "Pss",
+        "Tehillim"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1534,14 +1594,17 @@
       "bookOsisID": "Prov",
       "paratext": "PRO",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim"
       ],
       "aliases": [
         "Prv",
         "Pv",
-        "Pr"
+        "Pr",
+        "Mishlei"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1604,12 +1667,16 @@
       "bookOsisID": "Eccl",
       "paratext": "ECC",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim",
+        "Five Megillot"
       ],
       "aliases": [
-        "Qohelet"
+        "Qohelet",
+        "Kohelet"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1651,14 +1718,19 @@
       "bookOsisID": "Song",
       "paratext": "SNG",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim",
+        "Five Megillot"
       ],
       "aliases": [
         "Canticles",
         "Solomon's Song",
-        "Sol"
+        "Sol",
+        "Shir HaShirim",
+        "Song of Songs"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1696,12 +1768,18 @@
       "bookOsisID": "Isa",
       "paratext": "ISA",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim"
       ],
       "aliases": [
-        "Is"
+        "Is",
+        "Yeshayahu"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1797,13 +1875,19 @@
       "bookOsisID": "Jer",
       "paratext": "JER",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim"
       ],
       "aliases": [
         "Je",
-        "Jr"
+        "Jr",
+        "Yirmiyahu"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1885,12 +1969,16 @@
       "bookOsisID": "Lam",
       "paratext": "LAM",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim",
+        "Five Megillot"
       ],
       "aliases": [
-        "La"
+        "La",
+        "Eichah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -1925,13 +2013,19 @@
       "bookOsisID": "Ezek",
       "paratext": "EZK",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim"
       ],
       "aliases": [
         "Ezk",
-        "Eze"
+        "Eze",
+        "Yechezkel"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2009,9 +2103,11 @@
       "bookOsisID": "Dan",
       "paratext": "DAN",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Ketuvim"
       ],
       "aliases": [
         "Da",
@@ -2057,12 +2153,19 @@
       "bookOsisID": "Hos",
       "paratext": "HOS",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
-        "Ho"
+        "Ho",
+        "Hoshea"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2106,12 +2209,19 @@
       "bookOsisID": "Joel",
       "paratext": "JOL",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
-        "Jl"
+        "Jl",
+        "Yoel"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2144,9 +2254,15 @@
       "bookOsisID": "Amos",
       "paratext": "AMO",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
         "Am"
@@ -2188,12 +2304,19 @@
       "bookOsisID": "Obad",
       "paratext": "OBA",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
-        "Ob"
+        "Ob",
+        "Ovadiah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2224,11 +2347,19 @@
       "bookOsisID": "Jonah",
       "paratext": "JON",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
-      "aliases": [],
+      "aliases": [
+        "Yonah"
+      ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
       "authors": [
@@ -2261,12 +2392,19 @@
       "bookOsisID": "Mic",
       "paratext": "MIC",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
-        "Mc"
+        "Mc",
+        "Mikhah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2303,13 +2441,20 @@
       "bookOsisID": "Nah",
       "paratext": "NAM",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
         "Nh",
-        "Nhm"
+        "Nhm",
+        "Nachum"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2342,12 +2487,19 @@
       "bookOsisID": "Hab",
       "paratext": "HAB",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
-        "Hb"
+        "Hb",
+        "Chavakuk"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2380,12 +2532,19 @@
       "bookOsisID": "Zeph",
       "paratext": "ZEP",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
-        "Zp"
+        "Zp",
+        "Tzefanyah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2418,15 +2577,22 @@
       "bookOsisID": "Hag",
       "paratext": "HAG",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
         "Hg",
         "Hgi",
         "Hagi",
-        "Hagg"
+        "Hagg",
+        "Chaggai"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2458,13 +2624,20 @@
       "bookOsisID": "Zech",
       "paratext": "ZEC",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
         "Zc",
-        "Zac"
+        "Zac",
+        "Zecharyah"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2508,12 +2681,19 @@
       "bookOsisID": "Mal",
       "paratext": "MAL",
       "groups": [
-        "Hebrew Bible",
+        "OT",
         "Old Testament",
-        "Bible"
+        "Hebrew Bible",
+        "Bible",
+        "Nevi'im",
+        "Nevi’im",
+        "Nevi'im Acharonim",
+        "Nevi’im Acharonim",
+        "Trei Asar"
       ],
       "aliases": [
-        "Ml"
+        "Ml",
+        "Malakhi"
       ],
       "chapterLabel": "Chapter",
       "verseLabel": "Verse",
@@ -2547,6 +2727,7 @@
       "bookOsisID": "Matt",
       "paratext": "MAT",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Gospels"
@@ -2614,6 +2795,7 @@
       "bookOsisID": "Mark",
       "paratext": "MRK",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Gospels"
@@ -2670,6 +2852,7 @@
       "bookOsisID": "Luke",
       "paratext": "LUK",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Gospels"
@@ -2733,6 +2916,7 @@
       "bookOsisID": "John",
       "paratext": "JHN",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Gospels"
@@ -2794,6 +2978,7 @@
       "bookOsisID": "Acts",
       "paratext": "ACT",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -2855,6 +3040,7 @@
       "bookOsisID": "Rom",
       "paratext": "ROM",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -2906,6 +3092,7 @@
       "bookOsisID": "1Cor",
       "paratext": "1CO",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -2974,6 +3161,7 @@
       "bookOsisID": "2Cor",
       "paratext": "2CO",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3039,6 +3227,7 @@
       "bookOsisID": "Gal",
       "paratext": "GAL",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3079,6 +3268,7 @@
       "bookOsisID": "Eph",
       "paratext": "EPH",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3120,6 +3310,7 @@
       "bookOsisID": "Phil",
       "paratext": "PHP",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3159,6 +3350,7 @@
       "bookOsisID": "Col",
       "paratext": "COL",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3197,6 +3389,7 @@
       "bookOsisID": "1Thess",
       "paratext": "1TH",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3260,6 +3453,7 @@
       "bookOsisID": "2Thess",
       "paratext": "2TH",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3321,6 +3515,7 @@
       "bookOsisID": "1Tim",
       "paratext": "1TI",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3379,6 +3574,7 @@
       "bookOsisID": "2Tim",
       "paratext": "2TI",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3435,6 +3631,7 @@
       "bookOsisID": "Titus",
       "paratext": "TIT",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3473,6 +3670,7 @@
       "bookOsisID": "Phlm",
       "paratext": "PHM",
       "groups": [
+        "NT",
         "New Testament",
         "Bible",
         "Pauline Epistles"
@@ -3509,6 +3707,7 @@
       "bookOsisID": "Heb",
       "paratext": "HEB",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3551,6 +3750,7 @@
       "bookOsisID": "Jas",
       "paratext": "JAS",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3590,6 +3790,7 @@
       "bookOsisID": "1Pet",
       "paratext": "1PE",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3658,6 +3859,7 @@
       "bookOsisID": "2Pet",
       "paratext": "2PE",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3724,6 +3926,7 @@
       "bookOsisID": "1John",
       "paratext": "1JN",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3792,6 +3995,7 @@
       "bookOsisID": "2John",
       "paratext": "2JN",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3856,6 +4060,7 @@
       "bookOsisID": "3John",
       "paratext": "3JN",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3920,6 +4125,7 @@
       "bookOsisID": "Jude",
       "paratext": "JUD",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -3955,6 +4161,7 @@
       "bookOsisID": "Rev",
       "paratext": "REV",
       "groups": [
+        "NT",
         "New Testament",
         "Bible"
       ],
@@ -5943,6 +6150,47 @@
   "worksLookup": {},
   "booksLookup": {},
   "groupsLookup": {
+    "OT": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
     "OLD TESTAMENT": [
       0,
       1,
@@ -6097,15 +6345,95 @@
       0,
       1,
       2,
-      3
+      3,
+      4
     ],
     "TORAH": [
       0,
       1,
       2,
-      3
+      3,
+      4
+    ],
+    "NEVI’IM": [
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      22,
+      23,
+      25,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "NEVI'IM": [
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      22,
+      23,
+      25,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "NEVI’IM RISHONIM": [
+      5,
+      6
+    ],
+    "NEVI'IM RISHONIM": [
+      5,
+      6
+    ],
+    "KETUVIM": [
+      7,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      24,
+      26
+    ],
+    "FIVE MEGILLOT": [
+      7,
+      16,
+      20,
+      21,
+      24
     ],
     "KINGS": [
+      8,
+      9,
       10,
       11
     ],
@@ -6114,6 +6442,83 @@
       13,
       14,
       15
+    ],
+    "NEVI'IM ACHARONIM": [
+      22,
+      23,
+      25,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "NEVI’IM ACHARONIM": [
+      22,
+      23,
+      25,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "TREI ASAR": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "NT": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
     ],
     "NEW TESTAMENT": [
       39,

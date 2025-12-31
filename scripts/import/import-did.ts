@@ -2,7 +2,7 @@ import { DOMParser } from '@xmldom/xmldom';
 import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
 import getJsonWorkByName from '../../src/lib/getJsonWorkByName.ts';
 import type {
-  VerseDataFileShape,
+  NonRecursiveVerseDataFileShape,
   VerseShape,
 } from '../../src/types/data-shapes.ts';
 
@@ -75,10 +75,11 @@ async function main() {
     });
   }
 
-  const data: VerseDataFileShape = {
+  const data: NonRecursiveVerseDataFileShape = {
     work: {
       ...work,
       bookCount: 1,
+      hasData: true,
     },
     compiledAt: new Date().toISOString().slice(0, 10),
     sources: [url],

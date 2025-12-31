@@ -2,7 +2,7 @@ import process from 'node:process';
 import getChapterCount from '~/lib/getChapterCount.ts';
 import getBookByName from '~/lib/getJsonBookByName.ts';
 import getWorkByName from '~/lib/getJsonWorkByName.ts';
-import books from '../../data/books/books.json' with { type: 'json' };
+import books from '../../data/research/books.json' with { type: 'json' };
 import getVerseCounts from '../../src/lib/getVerseCounts.ts';
 import type { VerseShape } from '../../src/types/data-shapes.ts';
 
