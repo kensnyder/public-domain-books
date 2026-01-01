@@ -19,7 +19,7 @@ export default function getVerseSiblings(
     // @ts-expect-error our pareVerseOsisID should ensure we have valid chapter and verse
     const osisID = `${parsed.chapterOsisID}.${parsed.verseNumber + i}`;
     const curr = parseVerseOsisID(osisID);
-    if (curr?.verseOsisID) {
+    if (curr && curr.verseOsisID && curr.verseNumber) {
       siblings.push(curr.verseOsisID);
     }
   }

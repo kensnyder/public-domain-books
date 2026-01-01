@@ -1,6 +1,7 @@
 import getBookByName from './getBookByName.ts';
 import parseVerseRange from './parseVerseRange.ts';
 import parseVerseReference from './parseVerseReference.ts';
+import {verseCounts} from "../../data/compiled/books-and-works.ts";
 
 const trim = (s: string) => s.trim();
 
@@ -78,13 +79,16 @@ export default function parseCitation(citation: string) {
       const b = from.bookOsisID;
       let ch = from.chapterNumber;
       let v = from.verseNumber;
+      if (!verseCounts[b]) {
+        throw new Error(`Unable to find verse counts for book ${b}`);
+      }
       while (--failsafe > 0) {
         verseOsisIDs.push(`${b}.${ch}.${v}`);
         if (ch === thru.chapterNumber && v === thru.verseNumber) {
           break;
         }
         v++;
-        if (v > from.book.verseCounts[ch]) {
+        if (v > verseCounts[b][ch]) {
           ch++;
           v = 1;
         }

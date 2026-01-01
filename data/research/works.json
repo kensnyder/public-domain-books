@@ -6,5 +6,7 @@
   { "workOsisID": "BofM", "workTitle": "The Book of Mormon", "workSubtitle": "Another Testament of Jesus Christ", "aliases": ["BOM","Book of Mormon"], "hasData": true },
   { "workOsisID": "PGP", "workTitle": "Pearl of Great Price", "workSubtitle": "of The Church of Jesus Christ of Latter-day Saints", "aliases": ["The Pearl of Great Price","PGoP"], "hasData": true },
   { "workOsisID": "D&C", "workTitle": "Doctrine and Covenants", "workSubtitle": "of The Church of Jesus Christ of Latter-day Saints", "aliases": ["D and C", "The Doctrine & Covenants","Doctrine & Covenants", "The Doctrine and Covenants"], "hasData": true },
-  { "workOsisID": "Fathers", "workTitle": "Apostolic Fathers", "workSubtitle": "Translated by J.  B. Lightfoot", "aliases": ["The Apostolic Fathers"], "hasData": false }
+  { "workOsisID": "Fathers", "workTitle": "Apostolic Fathers", "workSubtitle": "Translated by J.  B. Lightfoot", "aliases": ["The Apostolic Fathers"], "hasData": false },
+  { "workOsisID": "Jasher", "workTitle": "Jasher", "workSubtitle": "", "aliases": ["Sepir Ha Yasher","Sefer haYashar","The Book of Jasher","Book of Jasher"], "hasData": true },
+  { "workOsisID": "AscIsa", "workTitle": "Ascension of Isaiah", "workSubtitle": "Translated by R. H. Charles", "aliases": ["The Ascension of Isaiah"], "hasData": true }
 ]

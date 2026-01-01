@@ -1,4 +1,5 @@
 import getBookByName from './getBookByName.ts';
+import {verseCounts} from "../../data/compiled/books-and-works.ts";
 
 export type ListedChapter = {
   chapterNumber: number;
@@ -12,9 +13,13 @@ export default function getChapterList(bookOsisID: string) {
   if (!book) {
     throw new Error(`Book ${bookOsisID} not found`);
   }
+  const counts = verseCounts[book.bookOsisID];
+  if (!counts) {
+    throw new Error(`Verse counts not found for book ${bookOsisID}`);
+  }
   const list: ListedChapter[] = [];
-  for (let i = 0; i < book.verseCounts.length; i++) {
-    const count = book.verseCounts[i];
+  for (let i = 0; i < counts.length; i++) {
+    const count = counts[i];
     if (count === 0) {
       continue;
     }
@@ -22,7 +27,7 @@ export default function getChapterList(bookOsisID: string) {
       chapterNumber: i,
       chapterLabel: i === 0 ? 'Prologue' : `${book.chapterLabel} ${i}`,
       chapterAbbr: i === 0 ? 'P' : String(i),
-      verseCount: book.verseCounts[i],
+      verseCount: counts[i],
     });
   }
   return list;

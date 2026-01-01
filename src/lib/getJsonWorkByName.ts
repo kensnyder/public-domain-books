@@ -1,9 +1,8 @@
 import { LRUCache } from 'lru-cache';
-import works from '../../data/works/works.json' with { type: 'json' };
+import type { RawWorkShape } from '~/types/data-shapes.ts';
+import works from '../../data/research/works.json' with { type: 'json' };
 
-type Work = (typeof works)[number];
-
-const cache = new LRUCache<string, Work>({
+const cache = new LRUCache<string, RawWorkShape>({
   max: 5000,
 });
 

@@ -26,6 +26,5 @@ export default function parseVerseReference(verseString: string) {
     chapterOsisID,
     verseNumber,
     verseOsisID,
-    book,
   };
 }

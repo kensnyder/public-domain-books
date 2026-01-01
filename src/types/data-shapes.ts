@@ -36,7 +36,6 @@ export type WorkShape = Merge<RawWorkShape, {
 export type VerseShape = {
   workOsisID: string;
   bookOsisID: string;
-  bookGroups: string[];
   chapterTitle: string;
   chapterNumber: number;
   chapterOsisID: string;
@@ -45,8 +44,6 @@ export type VerseShape = {
   verseText: string;
   verseLanguage: string;
   verseSequence: number;
-  authors: string[];
-  traditions: string[];
 };
 export type AnalysisShape = {
   chapterOsisID: string;

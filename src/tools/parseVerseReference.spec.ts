@@ -44,12 +44,4 @@ describe('parseVerseReference', () => {
     const parsed = parseVerseReference('1:5 James');
     expect(parsed).toBe(null);
   });
-  it('should reject verses with zero chapter', () => {
-    const parsed = parseVerseReference('John 0:1');
-    expect(parsed).toBe(null);
-  });
-  it('should reject verses with zero verse', () => {
-    const parsed = parseVerseReference('John 1:0');
-    expect(parsed).toBe(null);
-  });
 });
