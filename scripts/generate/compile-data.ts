@@ -3,8 +3,8 @@ import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
 import getJsonWorkByName from '../../src/lib/getJsonWorkByName.ts';
 import getVerseCounts from '../../src/lib/getVerseCounts.ts';
 import type {
-  RawBookShape,
-  RawWorkShape,
+  BookShape,
+  WorkShape,
 } from '../../src/types/data-shapes.ts';
 
 const s = (v:any) => JSON.stringify(v, null, 2);
@@ -22,8 +22,8 @@ async function main() {
     `${import.meta.dir}/../../data/compiled/books-and-works.json`,
   );
   const glob = new Bun.Glob('*.json');
-  const works: RawWorkShape[] = [];
-  const books: RawBookShape[] = [];
+  const works: WorkShape[] = [];
+  const books: BookShape[] = [];
   const chapterCounts: Record<string, number> = {};
   const verseCounts: Record<string, number[]> = {};
   const worksLookup: Record<string, number> = {};
@@ -130,13 +130,13 @@ async function main() {
     output.push(
       `
 import type {
-  RawBookShape,
-  RawWorkShape,
+  BookShape,
+  WorkShape,
 } from '../../src/types/data-shapes.ts';
   `.trim(),
     );
-    output.push(`export const works : RawWorkShape[] = ${s(works)};`);
-    output.push(`export const books : RawBookShape[] = ${s(books)};`);
+    output.push(`export const works : WorkShape[] = ${s(works)};`);
+    output.push(`export const books : BookShape[] = ${s(books)};`);
     output.push(`export const chapterCounts : Record<string, number> = ${s(chapterCounts)};`);
     output.push(`export const verseCounts : Record<string, number[]> = ${s(verseCounts)};`);
     output.push(`export const worksLookup : Record<string, number> = ${s(worksLookup)};`);

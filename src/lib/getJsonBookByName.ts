@@ -1,8 +1,8 @@
 import { LRUCache } from 'lru-cache';
-import type { RawBookShape } from '~/types/data-shapes.ts';
+import type { BookShape } from '~/types/data-shapes.ts';
 import books from '../../data/research/books.json' with { type: 'json' };
 
-const cache = new LRUCache<string, RawBookShape>({
+const cache = new LRUCache<string, BookShape>({
   max: 5000,
 });
 

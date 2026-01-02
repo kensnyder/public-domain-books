@@ -1,4 +1,4 @@
-import type { RawBookShape } from '~/types/data-shapes.ts';
+import type { BookShape } from '~/types/data-shapes.ts';
 import { books, verseCounts } from "../../data/compiled/books-and-works.ts";
 import getBookByName from './getBookByName.ts';
 import getWorkByName from "./getWorkByName.ts";
@@ -64,7 +64,7 @@ export function getPreviousChapter(bookOsisID: string, chapterNumber: number) {
   return getRelativeChapter(bookOsisID, chapterNumber, -1);
 }
 
-function toObject(book: RawBookShape, chapterNumber: number) {
+function toObject(book: BookShape, chapterNumber: number) {
   return {
     workOsisID: book.workOsisID,
     bookOsisID: book.bookOsisID,

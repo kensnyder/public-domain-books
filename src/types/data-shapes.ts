@@ -1,7 +1,5 @@
-import { Merge } from 'type-fest';
-
 // Data shapes
-export type RawBookShape = {
+export type BookShape = {
   workOsisID: string;
   bookOsisID: string;
   bookName: string;
@@ -17,22 +15,13 @@ export type RawBookShape = {
   traditions: string[];
   hasData: boolean;
 };
-export type BookShape = Merge<RawBookShape, {
-  work: WorkShape | null;
-  chapterCount: number;
-  verseCounts: number[];
-}>;
-export type RawWorkShape = {
+export type WorkShape = {
   workOsisID: string;
   workTitle: string;
   workSubtitle: string;
   aliases: string[];
   hasData: boolean;
 };
-export type WorkShape = Merge<RawWorkShape, {
-  books: BookShape[];
-  bookCount: number;
-}>;
 export type VerseShape = {
   workOsisID: string;
   bookOsisID: string;
@@ -84,56 +73,9 @@ export type GeocodingShape = {}
 export type ArtworkShape = {}
 // Shapes for files that contain multiple entries
 export type VerseDataFileShape = {
-  work: WorkShape;
   compiledAt: string;
   sources: string[];
-  books: BookShape[];
   verses: VerseShape[];
-};
-export type NonRecursiveVerseDataFileShape = {
-  work: {
-    bookCount: number;
-    workOsisID: string;
-    workTitle: string;
-    workSubtitle: string;
-    aliases: string[];
-    hasData: boolean;
-  };
-  compiledAt: string;
-  sources: string[];
-  books: Array<{
-    workOsisID: string;
-    bookOsisID: string;
-    bookName: string;
-    bookSubtitle: string;
-    paratext: string | null;
-    aliases: string[];
-    groups: string[];
-    authors: string[];
-    dateEarliest: string;
-    dateLatest: string;
-    chapterLabel: string;
-    verseLabel: string;
-    traditions: string[];
-    hasData: boolean;
-    chapterCount: number;
-    verseCounts: number[];
-  }>;
-  verses: Array<{
-    workOsisID: string;
-    bookOsisID: string;
-    bookGroups: string[];
-    chapterTitle: string;
-    chapterNumber: number;
-    chapterOsisID: string;
-    verseNumber: number;
-    verseOsisID: string;
-    verseText: string;
-    verseLanguage: string;
-    verseSequence: number;
-    authors: string[];
-    traditions: string[];
-  }>;
 };
 export type CrossReferenceDataFileShape = {
   license: string;
