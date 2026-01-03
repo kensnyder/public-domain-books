@@ -7,34 +7,49 @@
   },
   "verses": [
     {
+      "dataPath": "data/verses/T12Patr.json",
+      "workOsisID": "T12Patr",
+      "compiledAt": "2026-01-02"
+    },
+    {
       "dataPath": "data/verses/D&C.json",
       "workOsisID": "D&C",
-      "compiledAt": "2025-11-04"
+      "compiledAt": "2026-01-02"
     },
     {
       "dataPath": "data/verses/PGP.json",
       "workOsisID": "PGP",
-      "compiledAt": "2025-11-04"
+      "compiledAt": "2026-01-02"
+    },
+    {
+      "dataPath": "data/verses/AscIsa.json",
+      "workOsisID": "AscIsa",
+      "compiledAt": "2025-12-31"
     },
     {
       "dataPath": "data/verses/KJV.json",
       "workOsisID": "KJV",
-      "compiledAt": "2025-11-04"
+      "compiledAt": "2026-01-02"
     },
     {
       "dataPath": "data/verses/BofM.json",
       "workOsisID": "BofM",
-      "compiledAt": "2025-11-04"
+      "compiledAt": "2026-01-02"
     },
     {
       "dataPath": "data/verses/Didache.json",
       "workOsisID": "Didache",
-      "compiledAt": "2025-11-04"
+      "compiledAt": "2026-01-02"
+    },
+    {
+      "dataPath": "data/verses/Jasher.json",
+      "workOsisID": "Jasher",
+      "compiledAt": "2025-12-31"
     },
     {
       "dataPath": "data/verses/KJVA.json",
       "workOsisID": "KJVA",
-      "compiledAt": "2025-11-10"
+      "compiledAt": "2026-01-02"
     }
   ],
   "analysis": [
@@ -14187,462 +14202,462 @@
   "artwork": [],
   "commentaries": [
     {
-      "dataPath": "data/verses/tyndale/Gal.json",
+      "dataPath": "data/commentaries/tyndale/Gal.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Gal",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Luke.json",
+      "dataPath": "data/commentaries/tyndale/Luke.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Luke",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Ps.json",
+      "dataPath": "data/commentaries/tyndale/Ps.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Ps",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2Pet.json",
+      "dataPath": "data/commentaries/tyndale/2Pet.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2Pet",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Hos.json",
+      "dataPath": "data/commentaries/tyndale/Hos.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Hos",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Jude.json",
+      "dataPath": "data/commentaries/tyndale/Jude.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Jude",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Zeph.json",
+      "dataPath": "data/commentaries/tyndale/Zeph.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Zeph",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1Thess.json",
+      "dataPath": "data/commentaries/tyndale/1Thess.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1Thess",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Lev.json",
+      "dataPath": "data/commentaries/tyndale/Lev.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Lev",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Amos.json",
+      "dataPath": "data/commentaries/tyndale/Amos.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Amos",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1Cor.json",
+      "dataPath": "data/commentaries/tyndale/1Cor.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1Cor",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Obad.json",
+      "dataPath": "data/commentaries/tyndale/Obad.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Obad",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Phlm.json",
+      "dataPath": "data/commentaries/tyndale/Phlm.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Phlm",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Acts.json",
+      "dataPath": "data/commentaries/tyndale/Acts.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Acts",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Ezra.json",
+      "dataPath": "data/commentaries/tyndale/Ezra.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Ezra",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2Chr.json",
+      "dataPath": "data/commentaries/tyndale/2Chr.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2Chr",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Heb.json",
+      "dataPath": "data/commentaries/tyndale/Heb.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Heb",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Rom.json",
+      "dataPath": "data/commentaries/tyndale/Rom.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Rom",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/3John.json",
+      "dataPath": "data/commentaries/tyndale/3John.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "3John",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2John.json",
+      "dataPath": "data/commentaries/tyndale/2John.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2John",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2Cor.json",
+      "dataPath": "data/commentaries/tyndale/2Cor.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2Cor",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Rev.json",
+      "dataPath": "data/commentaries/tyndale/Rev.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Rev",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Phil.json",
+      "dataPath": "data/commentaries/tyndale/Phil.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Phil",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Esth.json",
+      "dataPath": "data/commentaries/tyndale/Esth.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Esth",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Mal.json",
+      "dataPath": "data/commentaries/tyndale/Mal.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Mal",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Eccl.json",
+      "dataPath": "data/commentaries/tyndale/Eccl.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Eccl",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Titus.json",
+      "dataPath": "data/commentaries/tyndale/Titus.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Titus",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Neh.json",
+      "dataPath": "data/commentaries/tyndale/Neh.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Neh",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1Pet.json",
+      "dataPath": "data/commentaries/tyndale/1Pet.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1Pet",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Nah.json",
+      "dataPath": "data/commentaries/tyndale/Nah.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Nah",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Dan.json",
+      "dataPath": "data/commentaries/tyndale/Dan.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Dan",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Ruth.json",
+      "dataPath": "data/commentaries/tyndale/Ruth.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Ruth",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1Chr.json",
+      "dataPath": "data/commentaries/tyndale/1Chr.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1Chr",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Mic.json",
+      "dataPath": "data/commentaries/tyndale/Mic.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Mic",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Num.json",
+      "dataPath": "data/commentaries/tyndale/Num.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Num",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Eph.json",
+      "dataPath": "data/commentaries/tyndale/Eph.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Eph",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Hab.json",
+      "dataPath": "data/commentaries/tyndale/Hab.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Hab",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2Sam.json",
+      "dataPath": "data/commentaries/tyndale/2Sam.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2Sam",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Exod.json",
+      "dataPath": "data/commentaries/tyndale/Exod.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Exod",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Isa.json",
+      "dataPath": "data/commentaries/tyndale/Isa.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Isa",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Col.json",
+      "dataPath": "data/commentaries/tyndale/Col.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Col",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2Tim.json",
+      "dataPath": "data/commentaries/tyndale/2Tim.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2Tim",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Ezek.json",
+      "dataPath": "data/commentaries/tyndale/Ezek.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Ezek",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1Kgs.json",
+      "dataPath": "data/commentaries/tyndale/1Kgs.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1Kgs",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Jonah.json",
+      "dataPath": "data/commentaries/tyndale/Jonah.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Jonah",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Matt.json",
+      "dataPath": "data/commentaries/tyndale/Matt.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Matt",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/John.json",
+      "dataPath": "data/commentaries/tyndale/John.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "John",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Job.json",
+      "dataPath": "data/commentaries/tyndale/Job.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Job",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Deut.json",
+      "dataPath": "data/commentaries/tyndale/Deut.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Deut",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Prov.json",
+      "dataPath": "data/commentaries/tyndale/Prov.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Prov",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Joel.json",
+      "dataPath": "data/commentaries/tyndale/Joel.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Joel",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1Tim.json",
+      "dataPath": "data/commentaries/tyndale/1Tim.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1Tim",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Zech.json",
+      "dataPath": "data/commentaries/tyndale/Zech.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Zech",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Song.json",
+      "dataPath": "data/commentaries/tyndale/Song.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Song",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1Sam.json",
+      "dataPath": "data/commentaries/tyndale/1Sam.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1Sam",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2Thess.json",
+      "dataPath": "data/commentaries/tyndale/2Thess.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2Thess",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Jas.json",
+      "dataPath": "data/commentaries/tyndale/Jas.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Jas",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/2Kgs.json",
+      "dataPath": "data/commentaries/tyndale/2Kgs.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "2Kgs",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Jer.json",
+      "dataPath": "data/commentaries/tyndale/Jer.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Jer",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Hag.json",
+      "dataPath": "data/commentaries/tyndale/Hag.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Hag",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Judg.json",
+      "dataPath": "data/commentaries/tyndale/Judg.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Judg",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Mark.json",
+      "dataPath": "data/commentaries/tyndale/Mark.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Mark",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Lam.json",
+      "dataPath": "data/commentaries/tyndale/Lam.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Lam",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/1John.json",
+      "dataPath": "data/commentaries/tyndale/1John.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "1John",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Josh.json",
+      "dataPath": "data/commentaries/tyndale/Josh.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Josh",
       "compiledAt": "2025-11-25"
     },
     {
-      "dataPath": "data/verses/tyndale/Gen.json",
+      "dataPath": "data/commentaries/tyndale/Gen.json",
       "workOsisID": "KJV",
       "commentaryID": "tyndale",
       "bookOsisID": "Gen",

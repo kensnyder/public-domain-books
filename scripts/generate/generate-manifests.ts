@@ -1,73 +1,9 @@
 import { Glob } from 'bun';
-
-type ManifestFormat = {
-  works: {
-    dataPath: string;
-  };
-  books: {
-    dataPath: string;
-  };
-  verses: Array<{
-    dataPath: string;
-    workOsisID: string;
-    compiledAt: string;
-  }>;
-  crossReferences: Array<{
-    dataPath: string;
-    workOsisID: string;
-    date: string;
-    license: string;
-  }>;
-  geocoding: Array<{
-    url: string;
-    workOsisID: string;
-    bookOsisID: string;
-    chapterOsisID: string | null;
-    compiledAt: string;
-  }>;
-  maps: Array<{
-    dataPath: string;
-    workOsisID: string;
-    bookOsisID: string;
-    chapterOsisID: string | null;
-    verseOsisID: string | null;
-    compiledAt: string;
-  }>;
-  artwork: Array<{
-    dataPath: string;
-    workOsisID: string;
-    bookOsisID: string;
-    chapterOsisID: string | null;
-    verseOsisID: string | null;
-    compiledAt: string;
-  }>;
-  analysis: Array<{
-    dataPath: string;
-    workOsisID: string;
-    bookOsisID: string;
-    chapterOsisID: string;
-    modelId: string;
-    createdAt: string;
-  }>;
-  commentaries: Array<{
-    dataPath: string;
-    commentaryID: string;
-    workOsisID: string;
-    bookOsisID: string;
-    compiledAt: string;
-  }>;
-  dictionaries: Array<{
-    dataPath: string;
-    dictionaryID: string;
-    workOsisID: string;
-    sectionLetter: string;
-    compiledAt: string;
-  }>;
-};
+import {ManifestShape} from "../../src/types/data-shapes";
 
 main().catch(console.error);
 async function main() {
-  const manifest: ManifestFormat = {
+  const manifest: ManifestShape = {
     works: {
       dataPath: 'data/compiled/works.json',
     },
@@ -91,7 +27,7 @@ async function main() {
 }
 
 async function getCrossReferences() {
-  const xrs: ManifestFormat['crossReferences'] = [];
+  const xrs: ManifestShape['crossReferences'] = [];
   const glob = new Glob('*.json');
   const baseDir = `${import.meta.dir}/../../data/crossReferences`;
   for await (const dataPath of glob.scan(baseDir)) {
@@ -111,7 +47,7 @@ async function getCrossReferences() {
 }
 
 async function getVerses() {
-  const verses: ManifestFormat['verses'] = [];
+  const verses: ManifestShape['verses'] = [];
   const glob = new Glob('*.json');
   const baseDir = `${import.meta.dir}/../../data/verses`;
   for await (const dataPath of glob.scan(baseDir)) {
@@ -128,7 +64,7 @@ async function getVerses() {
 }
 
 async function getCommentaries() {
-  const commentaries: ManifestFormat['commentaries'] = [];
+  const commentaries: ManifestShape['commentaries'] = [];
   const glob = new Glob('**/*.json');
   const baseDir = `${import.meta.dir}/../../data/commentaries`;
   for await (const dataPath of glob.scan(baseDir)) {
@@ -150,7 +86,7 @@ async function getCommentaries() {
 async function getAnalysisFiles() {
   const glob = new Glob('**/*.json');
   const baseDir = `${import.meta.dir}/../../data/analysis`;
-  const analysis: ManifestFormat['analysis'] = [];
+  const analysis: ManifestShape['analysis'] = [];
   for await (const dataPath of glob.scan(baseDir)) {
     const [workOsisID, filename] = dataPath.split('/');
     const dataFile = Bun.file(`${baseDir}/${dataPath}`);
