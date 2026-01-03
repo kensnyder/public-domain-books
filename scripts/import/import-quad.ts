@@ -1,9 +1,6 @@
 import process from 'node:process';
-import getChapterCount from '~/lib/getChapterCount.ts';
 import getBookByName from '~/lib/getJsonBookByName.ts';
 import getWorkByName from '~/lib/getJsonWorkByName.ts';
-import books from '../../data/research/books.json' with { type: 'json' };
-import getVerseCounts from '../../src/lib/getVerseCounts.ts';
 import type { VerseShape } from '../../src/types/data-shapes.ts';
 
 main().catch(console.error);
@@ -65,7 +62,6 @@ async function main() {
     }
 
     const bookOsisID = book.bookOsisID;
-    const bookGroups = book.groups;
     const chapterNumber = parseInt(verse.chapter_number, 10);
     const chapterTitle = `${book.chapterLabel} ${chapterNumber}`;
     const chapterOsisID = `${bookOsisID}.${chapterNumber}`;
@@ -76,7 +72,6 @@ async function main() {
     data.push({
       workOsisID,
       bookOsisID,
-      bookGroups,
       chapterTitle,
       chapterNumber,
       chapterOsisID,
@@ -85,8 +80,6 @@ async function main() {
       verseText,
       verseLanguage,
       verseSequence,
-      authors: book.authors,
-      traditions: book.traditions,
     });
 
     verseSequence++;
@@ -99,29 +92,9 @@ async function main() {
     const ymd = new Date().toISOString().slice(0, 10);
 
     const writeTo = `${import.meta.dir}/../../data/verses/${workOsisID}.json`;
-    const work = getWorkByName(workOsisID);
-    const theseBooks = books
-      .filter((b) => b.workOsisID === workOsisID)
-      .map((b) => ({
-        bookName: b.bookName,
-        bookSubtitle: b.bookSubtitle,
-        bookOsisID: b.bookOsisID,
-        paratext: b.paratext,
-        aliases: b.aliases,
-        groups: b.groups,
-        authors: b.authors,
-        dateEarliest: b.dateEarliest,
-        dateLatest: b.dateLatest,
-        chapterLabel: b.chapterLabel,
-        verseLabel: b.verseLabel,
-        chapterCount: getChapterCount(b.bookOsisID, verses),
-        verseCounts: getVerseCounts(b.bookOsisID, verses),
-      }));
     const data = {
-      work,
       compiledAt: ymd,
       sources: [source],
-      books: theseBooks,
       verses,
     };
     await Bun.file(writeTo).write(JSON.stringify(data, null, 2));

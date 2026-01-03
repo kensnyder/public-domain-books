@@ -1,23 +1,19 @@
 import * as cheerio from 'cheerio';
-import getChapterCount from '~/lib/getChapterCount.ts';
 import getJsonBookByName from '~/lib/getJsonBookByName.ts';
-import getJsonWorkByName from '~/lib/getJsonWorkByName.ts';
-import getVerseCounts from '~/lib/getVerseCounts.ts';
 import type { VerseShape } from '~/types/data-shapes.ts';
-import books from '../../data/research/books.json' with { type: 'json' };
 
 const randInt = (min: number, max: number) => {
   return Math.floor(Math.random() * (max - min)) + min;
 };
 
-const saveToTemp = `${import.meta.dir}/../../data/verses/T12Patr.temp.json`;
-const saveToFinal = `${import.meta.dir}/../../data/verses/T12Patr.json`;
+const saveTo = `${import.meta.dir}/../../data/verses/T12Patr.json`;
 
 main().catch(console.error);
 
 async function main() {
+  await Bun.file(saveTo).write('');
   const baseUrl = 'https://sacred-texts.com/bib/fbe';
-  let next: string | undefined = 'fbe277.htm';
+  let next: string | undefined = 'fbe267.htm';
   const progress = { sequence: 1, book: null };
   while (next) {
     next = await extractChapter(progress, `${baseUrl}/${next}`);
@@ -28,43 +24,6 @@ async function main() {
     }
   }
   console.log('[DONE] No more next links.');
-  await writeMetadata();
-}
-async function writeMetadata() {
-  const file = Bun.file(saveToTemp);
-  if (file.size === 0) {
-    throw new Error(`Unable to find verses at ${saveToTemp}`);
-  }
-  const verses = await file.json();
-  const work = getJsonWorkByName('T12Patr');
-  const ymd = new Date().toISOString().slice(0, 10);
-  const theseBooks = books
-    .filter((b) => b.workOsisID === 'T12Patr')
-    .map((b) => ({
-      bookName: b.bookName,
-      bookSubtitle: b.bookSubtitle,
-      bookOsisID: b.bookOsisID,
-      paratext: b.paratext,
-      aliases: b.aliases,
-      groups: b.groups,
-      authors: b.authors,
-      dateEarliest: b.dateEarliest,
-      dateLatest: b.dateLatest,
-      chapterLabel: b.chapterLabel,
-      verseLabel: b.verseLabel,
-      chapterCount: getChapterCount(b.bookOsisID, verses),
-      verseCounts: getVerseCounts(b.bookOsisID, verses),
-    }));
-  const data = {
-    work,
-    compiledAt: ymd,
-    sources: ['https://sacred-texts.com/bib/fbe/fbe267.htm'],
-    books: theseBooks,
-    verses,
-  };
-  const dest = Bun.file(saveToFinal);
-  await dest.write(JSON.stringify(data, null, 2));
-  console.log(`Wrote ${dest.size} bytes to ${saveToFinal}`);
 }
 async function extractChapter(
   progress: { sequence: number; book: any },
@@ -158,7 +117,6 @@ async function writeVerses({
     data.push({
       workOsisID: 'T12Patr',
       bookOsisID: book.bookOsisID,
-      bookGroups: ['Ethiopian Orthodox', 'Apocrypha'],
       chapterTitle: `Chapter ${chapterNumber}`,
       chapterNumber,
       chapterOsisID: `${book.bookOsisID}.${chapterNumber}`,
@@ -167,14 +125,17 @@ async function writeVerses({
       verseText,
       verseLanguage: 'en',
       verseSequence: progress.sequence++,
-      authors: book.authors,
-      traditions: book.traditions,
     });
   }
-  const file = Bun.file(saveToTemp);
-  const existing = file.size === 0 ? [] : await file.json();
-  const all = [...existing, ...data];
-  await file.write(JSON.stringify(all, null, 2));
+  const file = Bun.file(saveTo);
+  const existing = file.size === 0 ? { verses: [] } : await file.json();
+  const toWrite = {
+    compiledAt: new Date().toISOString().slice(0, 10),
+    sources: ['https://sacred-texts.com/chr/apo/jasher/index.htm'],
+    verses: [...existing.verses, ...data],
+  };
+
+  await file.write(JSON.stringify(toWrite, null, 2));
   console.log(
     `Wrote ${data.length} verses for ${book.bookOsisID}.${chapterNumber}`,
   );

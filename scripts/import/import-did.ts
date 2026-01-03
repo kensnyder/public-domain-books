@@ -2,7 +2,7 @@ import { DOMParser } from '@xmldom/xmldom';
 import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
 import getJsonWorkByName from '../../src/lib/getJsonWorkByName.ts';
 import type {
-  NonRecursiveVerseDataFileShape,
+  VerseDataFileShape,
   VerseShape,
 } from '../../src/types/data-shapes.ts';
 
@@ -43,9 +43,6 @@ async function main() {
   }
   const workOsisID = work.workOsisID;
   const bookOsisID = book.bookOsisID;
-  const bookGroups = book.groups;
-  const traditions = book.traditions;
-  const authors = book.authors;
   for (let i = 0, len = textSections.length; i < len; i++) {
     if (!titles[i]) {
       throw new Error(`Unable to find a title for Chapter ${i}`);
@@ -61,7 +58,6 @@ async function main() {
     verses.push({
       workOsisID,
       bookOsisID,
-      bookGroups,
       chapterTitle,
       chapterNumber,
       chapterOsisID,
@@ -70,26 +66,12 @@ async function main() {
       verseText,
       verseLanguage,
       verseSequence,
-      authors,
-      traditions,
     });
   }
 
-  const data: NonRecursiveVerseDataFileShape = {
-    work: {
-      ...work,
-      bookCount: 1,
-      hasData: true,
-    },
+  const data: VerseDataFileShape = {
     compiledAt: new Date().toISOString().slice(0, 10),
     sources: [url],
-    books: [
-      {
-        ...book,
-        chapterCount: 16,
-        verseCounts: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-      },
-    ],
     verses,
   };
   await Bun.file(`${import.meta.dir}/../../data/verses/Didache.json`).write(

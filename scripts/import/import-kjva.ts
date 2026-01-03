@@ -1,9 +1,7 @@
 import JSZip from 'jszip';
-import getChapterCount from '../../src/lib/getChapterCount.ts';
 import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
 import getJsonWorkByName from '../../src/lib/getJsonWorkByName.ts';
-import getVerseCounts from '../../src/lib/getVerseCounts.ts';
-import type { RawBookShape, VerseShape } from '../../src/types/data-shapes.ts';
+import type { BookShape, VerseShape } from '../../src/types/data-shapes.ts';
 
 main().then(console.error);
 
@@ -15,7 +13,7 @@ async function main() {
   const lines = text.split('\n').filter(Boolean);
   console.log('First 4 lines:', lines.slice(0, 4).join('\n'));
   const verses: VerseShape[] = [];
-  const books = new Set<RawBookShape>();
+  const books = new Set<BookShape>();
   for (const line of lines) {
     if (line.trim() === '') {
       continue;
@@ -34,7 +32,6 @@ async function main() {
     verses.push({
       workOsisID: 'KJVA',
       bookOsisID,
-      bookGroups: book.groups,
       chapterTitle,
       chapterNumber,
       chapterOsisID: `${bookOsisID}.${chapterNumber}`,
@@ -43,8 +40,6 @@ async function main() {
       verseText,
       verseLanguage: 'en',
       verseSequence: verses.length + 1,
-      authors: book.authors,
-      traditions: book.traditions,
     });
   }
   const ymd = new Date().toISOString().slice(0, 10);
@@ -54,14 +49,8 @@ async function main() {
     throw new Error(`Unable to find work "KJVA" in our work list`);
   }
   const data = {
-    work,
     compiledAt: ymd,
     sources: [zipUrl],
-    books: Array.from(books).map((book) => ({
-      ...book,
-      chapterCount: getChapterCount(book.bookOsisID, verses),
-      verseCounts: getVerseCounts(book.bookOsisID, verses),
-    })),
     verses,
   };
   const writeTo = `${import.meta.dir}/../../data/verses/KJVA.json`;
