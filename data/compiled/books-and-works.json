@@ -6606,6 +6606,10 @@
     "12 PATR": 8
   },
   "booksLookup": {
+    "TREU": 0,
+    "THE TESTAMENT OF REUBEN CONCERNING THOUGHTS": 0,
+    "TESTAMENT OF REUBEN": 0,
+    "THE TESTAMENT OF REUBEN": 0,
     "TSIM": 1,
     "THE TESTAMENT OF SIMEON CONCERNING ENVY": 1,
     "TESTAMENT OF SIMEON": 1,
@@ -7591,6 +7595,7 @@
   },
   "groupsLookup": {
     "ETHIOPIAN ORTHODOX": [
+      0,
       1,
       2,
       3,
@@ -7604,6 +7609,7 @@
       11
     ],
     "APOCRYPHA": [
+      0,
       1,
       2,
       3,

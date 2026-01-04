@@ -1,6 +1,7 @@
 export * from 'src/types/data-shapes.ts';
 export * from 'data/compiled/books-and-works.ts';
 export { default as getBookByName } from 'src/tools/getBookByName.ts';
+export { default as getBooksByWork } from 'src/tools/getBooksByWork.ts';
 export { default as getChapterList } from 'src/tools/getChapterList.ts';
 export { getRelativeChapter, getNextChapter, getPreviousChapter } from 'src/tools/getRelativeChapter.ts';
 export { default as getRelativeVerse, getNextVerse, getPreviousVerse } from 'src/tools/getRelativeVerse.ts';

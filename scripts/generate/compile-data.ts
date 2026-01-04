@@ -99,10 +99,10 @@ async function main() {
     }
     booksLookup[up] = i;
   }
-  for (let i = 1; i < books.length; i++) {
+  for (let i = 0; i < books.length; i++) {
     const book = books[i];
     addBook(book.bookOsisID,i);
-    if (book.bookOsisID !== book.bookName) {
+    if (book.bookName !== book.bookOsisID) {
       addBook(book.bookName,i);
     }
     if (book.paratext && book.paratext !== u(book.bookOsisID) && book.paratext !== u(book.bookName)) {
