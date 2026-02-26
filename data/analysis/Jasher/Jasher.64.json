@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.64",
+  "briefOverview": "Zepho, king of Chittim, forms a large coalition to attack Egypt and Israel, but the battle turns decisively when Israel calls on the Lord and routs the invaders. The chapter also highlights Egypt’s distrust of Israel and Israel’s retaliatory violence after being abandoned in battle.",
+  "summary": "After Zepho defeats Angeas of Africa, Balaam flees to Chittim and is honored by Zepho, who celebrates his victory yet is criticized for forgetting the Lord and persisting in idolatrous ways.\n\nZepho then plans an attack on Egypt and the Israelites there, framing it as revenge for earlier conflict connected to Jacob’s burial at Hebron; he summons Edom (Hadad), “children of the east,” and Ishmaelites to join him, and they assemble a massive army.\n\nEgypt musters about three hundred thousand men and calls on Israel in Goshen, but only one hundred and fifty Israelites come; Egyptians keep them separate out of suspicion that Israel might side with their “brethren” (Esau and Ishmael).\n\nBalaam is asked to divine the battle’s outcome, but his divination repeatedly fails “from the Lord,” intended to bring Zepho’s forces into Israel’s hand.\n\nWhen Egypt is routed and pursued, the Egyptians beg Israel for help; Israel cries to the Lord, strikes down thousands, and drives the coalition to the border of Cush without losing a man.\n\nAfterward, Israel, angered that Egypt fled and left them to fight alone, kills about two hundred Egyptians on the road through deceptive accusations, which causes Egypt to fear Israel; Israel returns to Goshen in joy while Egypt disperses back to its cities.",
+  "externalContext": "The Book of Jasher (Sefer haYashar) is a later Jewish work that retells and expands narratives associated with Genesis–Exodus, and it is not part of the Jewish or most Christian biblical canons. Characters like Balaam are known from the Torah, and later interpretive traditions often depict him as a renowned but morally compromised diviner. Terms such as “Chittim” are used in biblical and post-biblical literature to refer broadly to western maritime peoples, though their precise historical identification varies by period and tradition. Egypt’s “Goshen” setting reflects the biblical tradition that Israelites lived in a distinct region within Egypt prior to the exodus (cf. Genesis).",
+  "externalReferences": "Balaam’s identity as “son of Beor” and his association with divination strongly recalls Numbers 22:5–7, where he is consulted to determine and influence outcomes against Israel, though there his speech is constrained by God rather than his art simply failing.\n\nThe repeated theme that military victory comes from the Lord when Israel calls upon Him parallels portrayals such as Exodus 14:13–14, where deliverance is attributed to the Lord rather than Israel’s numbers or strength.\n\nThe mention of “Goshen” and Israel’s presence in Egypt connects to the settlement tradition in Genesis 46:28–34 and the later oppression/deliverance arc beginning in Exodus 1:8–14.",
+  "seeAlso": [
+    "Numbers 22:5-7",
+    "Exodus 14:13-14",
+    "Genesis 46:28-34",
+    "Exodus 1:8-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Zepho’s victory and forgetfulness"
+    },
+    {
+      "range": "7-29",
+      "title": "Coalition formed; Balaam thwarted"
+    },
+    {
+      "range": "30-50",
+      "title": "Israel rescues, then retaliates"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Pride and idolatry",
+    "Distrust between peoples",
+    "War and retaliation",
+    "Cunning and moral reversal"
+  ],
+  "practicalQuestions": [
+    "Where might success or security be leading me to “remember not the Lord” (i.e., to ignore the sources of help and accountability the text emphasizes)?",
+    "How should communities handle cooperation when there is deep mutual suspicion, as between Egypt and Israel in the battle arrangements?",
+    "When have I benefited from someone’s courage or sacrifice and then failed to stand with them, as the Egyptians do when they flee?",
+    "What boundaries should govern retaliation after betrayal, in light of Israel’s deceptive killing of Egyptians on the road?",
+    "How do I evaluate the use of “wisdom” or spiritual techniques (like divination here) when the text portrays them as unreliable or opposed to God’s purposes?"
+  ],
+  "uncertainAreas": "Identification of ‘Chittim,’ ‘Pathros,’ and ‘Tachpanches’ is not fully clear within the chapter alone; these names have varying referents in different periods and traditions. The chapter’s casualty numbers (e.g., ‘one hundred and eighty men of Egypt’ amid armies of hundreds of thousands) may reflect textual transmission issues or idiomatic usage; I did not attempt to harmonize them beyond reporting what is written. The precise earlier event at Jacob’s burial that Zepho seeks to avenge is mentioned but not detailed here, so its correspondence to canonical Genesis narratives is uncertain.",
+  "createdAt": "2026-01-30T23:46:01.786Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

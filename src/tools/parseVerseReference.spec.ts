@@ -32,6 +32,16 @@ describe('parseVerseReference', () => {
       verseOsisID: '1Ne.3.7',
     });
   });
+  it('should handle D&C', () => {
+    const parsed = parseVerseReference('D&C 4:1');
+    expect(parsed).toEqual({
+      bookOsisID: 'D&C',
+      chapterNumber: 4,
+      chapterOsisID: 'D&C.4',
+      verseNumber: 1,
+      verseOsisID: 'D&C.4.1',
+    });
+  });
   it('should reject unknown book names', () => {
     const parsed = parseVerseReference('Foobar 6:7');
     expect(parsed).toBe(null);

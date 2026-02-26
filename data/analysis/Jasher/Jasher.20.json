@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Jasher.20",
+  "briefOverview": "Abraham’s move to Gerar leads to a crisis when Sarah is taken into Abimelech’s house due to Abraham’s claim that she is his sister. Divine warning and affliction compel Abimelech to restore Sarah and seek Abraham’s intercessory prayer for healing.",
+  "summary": "Abraham settles in Gerar among the Philistines and instructs Sarah to say she is his sister for their protection. Abimelech, impressed by Sarah’s beauty and believing her to be Abraham’s sister, brings her into his house and offers honor and support to Abraham. That night Abimelech dreams of an angel threatening death unless Sarah is returned, and the land is struck with terror, confusion, and bodily affliction, including closed wombs, attributed to Sarah’s being taken. Abimelech’s servants recall a similar earlier incident involving Pharaoh and Abraham, urging immediate restoration to avoid greater disaster. Abimelech confronts Abraham, who explains he feared being killed because of Sarah, and Abimelech returns Sarah, compensates Abraham with wealth, and grants him freedom to dwell anywhere in the land. At Abimelech’s request, Abraham prays, and God removes the plague from Abimelech and his subjects.",
+  "externalContext": "The Book of Jasher is an ancient-style retelling/expansion of biblical narratives; the version commonly circulated in English is not part of the Jewish or most Christian biblical canons and is generally treated as a later midrashic-like work rather than a primary historical source. In the wider ancient Near Eastern setting reflected in the biblical Abraham traditions, powerful rulers could claim women attached to foreign men, and outsiders might resort to kinship claims for protection. Narratives of divine protection over a chosen family often function to underscore the seriousness of endangering that family and the deity’s ability to act in foreign territory.",
+  "externalReferences": "This episode closely parallels Genesis 20:1–18, where Abraham sojourns in Gerar, Sarah is taken by Abimelech, God warns Abimelech in a dream, and Abraham prays for healing after Sarah is restored. The servants’ mention of a prior incident with Pharaoh corresponds to Genesis 12:10–20, where Abram says Sarai is his sister in Egypt and plagues come upon Pharaoh’s house until she is returned. The closing of wombs and subsequent healing echo Genesis 20:17–18, emphasizing both judgment and restoration tied to Abraham’s intercession.",
+  "seeAlso": [
+    "Genesis 20:1-18",
+    "Genesis 12:10-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Sarah taken in Gerar"
+    },
+    {
+      "range": "12-23",
+      "title": "Dream, plague, and alarm"
+    },
+    {
+      "range": "24-30",
+      "title": "Restoration and intercession"
+    }
+  ],
+  "themes": [
+    "Divine protection",
+    "Deception and fear",
+    "Judgment and mercy",
+    "Intercessory prayer"
+  ],
+  "practicalQuestions": [
+    "When fear pressures me toward half-truths or deception, what truthful alternatives does this chapter push me to consider?",
+    "How do I respond when I discover I benefited from misinformation—do I move quickly toward repair as Abimelech does?",
+    "What does Abraham’s role in both causing risk and then praying for healing suggest about taking responsibility after harm?",
+    "Where might my community need both accountability and restoration (justice and mercy) rather than only one of them?"
+  ],
+  "uncertainAreas": "Jasher’s relationship to the canonical Genesis account (dependence, dating, and purpose) cannot be established from the chapter alone; I treated it as a retelling because of strong narrative overlap. The identity of the “figure of a man standing with a drawn sword” (vv. 15–16) is described but not fully clarified beyond being associated with the angel’s action.",
+  "createdAt": "2026-01-30T23:29:51.720Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

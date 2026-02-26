@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "TReu.1",
+  "briefOverview": "On his deathbed, Reuben publicly confesses his sexual sin against his father’s household and warns his children against lust and deception. He frames moral failure as a battle of “spirits” working through human faculties, urging truthfulness and self-restraint.",
+  "summary": "Near death, Reuben gathers his sons (and grandsons) and calls God as witness while he warns them not to repeat his youthful sins, especially fornication. He recalls that he “defiled the bed” of Jacob and suffered a severe plague for seven months, escaping destruction through his father’s prayer and then repenting for seven years with fasting-like self-denial.\n\nReuben then teaches about “seven spirits” given at creation (life and the human senses, including procreation) and “seven spirits of deceit” that corrupt these faculties—such as fornication, insatiableness, fighting, pride, lying, and injustice—along with sleep as a doorway to error and fantasy. He concludes that these deceptions especially ruin the young by darkening the mind from truth and the law of God.\n\nPractically, Reuben urges love of truth and avoidance of situations that inflame desire: do not fixate on a woman’s appearance, avoid another man’s wife, and do not involve oneself in “affairs of womankind.” He narrates the circumstances of his fall with Bilhah—seeing her naked while she slept drunk—and says an angel revealed the act to Jacob, who mourned and then no longer had relations with her.",
+  "externalContext": "The Testament of Reuben is part of the Testament of the Twelve Patriarchs, a collection of Jewish ethical testaments presented as the final words of Jacob’s sons. Most scholars date the work’s core composition to the late Second Temple period (often around the 2nd–1st century BCE), with later Christian transmission and possible editorial layers reflected in surviving manuscripts. The genre resembles other farewell addresses in Jewish literature, combining confession, moral exhortation, and symbolic teaching (here, a moral-psychological scheme of “spirits”).",
+  "externalReferences": "Reuben’s confession about “defil[ing] the bed of my father Jacob” corresponds to the narrative of Reuben sleeping with Bilhah in Genesis 35:22, a deed later recalled when Jacob declares Reuben will not excel because he “went up to [his] father’s bed” (Genesis 49:3–4). The setting references Jacob traveling to Isaac (cf. Genesis 35:27) and place names associated with the Bethlehem region (cf. Genesis 35:19, 35:21).\n\nThe warnings about desire sparked through seeing align broadly with biblical wisdom cautions about lust and the eyes (e.g., Job 31:1; Proverbs 6:25), though the chapter develops its own distinctive “seven spirits” framework rather than directly quoting those texts.",
+  "seeAlso": [
+    "Genesis 35:19-22",
+    "Genesis 35:27",
+    "Genesis 49:3-4",
+    "Job 31:1",
+    "Proverbs 6:25"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Confession and repentance"
+    },
+    {
+      "range": "11-32",
+      "title": "Spirits shaping youth"
+    },
+    {
+      "range": "33-41",
+      "title": "Avoidance and fall recounted"
+    }
+  ],
+  "themes": [
+    "Sexual sin warning",
+    "Repentance and discipline",
+    "Truth versus deceit",
+    "Moral psychology",
+    "Consequences of sin"
+  ],
+  "practicalQuestions": [
+    "What specific situations (places, media, relationships) tend to trigger lustful “thoughts,” and what boundaries would help you avoid them?",
+    "How do you distinguish healthy bodily desires (food, sleep, sexuality) from the “spirits of error” that distort them into excess or harm?",
+    "When you fail morally, what would sustained repentance and concrete change look like in your habits over time (not merely regret)?",
+    "Where might pride, lying, or injustice be working together in your life—especially in ways that are hidden from “kindred and friends”?"
+  ],
+  "uncertainAreas": "The text’s mention of Jacob’s prayer (and the spelling “Jamb”) and the claim that Jacob then ‘touched her no more’ go beyond the Genesis narrative; I treated them as internal to this testament rather than verifiable historical detail. The exact compositional history (Jewish core vs. later redaction) is debated, so the dating/context is kept broad and conventional.",
+  "createdAt": "2026-01-31T00:05:03.991Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

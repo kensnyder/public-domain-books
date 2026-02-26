@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.25",
+  "briefOverview": "This chapter traces Abraham’s later family lines through Keturah and then expands the genealogy and settlement patterns of Ishmael’s descendants. It closes by noting Rebekah’s barrenness and placing Isaac’s life within a broader chronological frame.",
+  "summary": "Abraham marries Keturah in old age, and she bears six sons whose families are listed, with special attention to the Midianite line. Abraham gives these sons gifts and sends them away from Isaac; they settle largely “to the east,” building cities, while some groups (notably Sheba and Dedan) live more nomadically. Midian and his descendants are portrayed as establishing a distinct land and spreading through it. The narrative then turns to Ishmael: his first Egyptian wife (Ribah/Meribah) bears several children, but he divorces her for her misconduct and later marries a Canaanite woman (Malchuth), through whom additional sons are born. Ishmael’s sons are presented as “twelve princes,” who settle near the wilderness of Paran, from Havilah to Shur, increasing greatly and building cities. The chapter ends by observing that Rebekah remains barren while Isaac lives with Abraham in Canaan, and it notes the death of Arpachshad (descendant of Shem) in a specified year of Isaac’s life.",
+  "externalContext": "The Book of Jasher is an ancient pseudepigraphal work known primarily through much later Hebrew recensions and early modern printed editions; it is not the same as the “Book of Jashar” mentioned in the Hebrew Bible and is generally treated as non-canonical in Jewish and most Christian traditions. Its style often resembles expanded biblical narrative, especially genealogies and explanatory details that fill out brief biblical notices. Genealogical lists in ancient Near Eastern literature could function to map perceived kinship among peoples, explain territorial claims, and situate groups within a shared origin story.",
+  "externalReferences": "Abraham’s marriage to Keturah, the list of her sons, and the sending away of other sons with gifts parallel Genesis 25:1–6. Ishmael’s sons being “twelve princes” and the description of their territory from Havilah to Shur near Egypt correspond closely to Genesis 25:12–18. Rebekah’s barrenness is a key setup for the later birth narrative in Genesis 25:21, where Isaac prays and she conceives.",
+  "seeAlso": [
+    "Genesis 25:1-6",
+    "Genesis 25:12-18",
+    "Genesis 25:19-21",
+    "1 Chronicles 1:32-33",
+    "1 Chronicles 1:28-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Keturah’s sons and settlements"
+    },
+    {
+      "range": "14-27",
+      "title": "Ishmael’s line and territory"
+    },
+    {
+      "range": "28",
+      "title": "Isaac’s household notice"
+    }
+  ],
+  "themes": [
+    "Genealogies",
+    "Separation from Isaac",
+    "Territorial settlement",
+    "Twelve princes",
+    "Barren matriarch"
+  ],
+  "practicalQuestions": [
+    "How do family decisions about inheritance and separation (as with Abraham sending sons away from Isaac) shape long-term relationships and responsibilities today?",
+    "What does the chapter’s emphasis on “cities,” territories, and spread suggest about how communities form identity through place and shared ancestry?",
+    "How might the note of Rebekah’s barrenness function as a narrative hinge—inviting patience, prayer, or reflection on delayed hopes?",
+    "When evaluating a text that expands earlier traditions, what criteria help you distinguish between the core narrative claims and later elaborations?"
+  ],
+  "uncertainAreas": "Some names and sub-genealogies (e.g., specific descendants of Keturah’s sons and detailed Midianite family lists) do not have clear one-to-one parallels in the biblical genealogies, so it is uncertain whether they reflect independent tradition, later harmonization, or creative expansion within Jasher. The identification of Ribah as “the same is Meribah,” and the moral explanation for the divorce (“very bad in the sight…”) are interpretive additions whose historical basis cannot be verified from the chapter itself.",
+  "createdAt": "2026-01-30T23:31:33.415Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

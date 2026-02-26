@@ -54,6 +54,94 @@
   ],
   "analysis": [
     {
+      "dataPath": "data/analysis/AscIsa/AscIsa.1.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.1",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T22:57:56.765Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.2.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.2",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T22:58:24.396Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.3.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.3",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T22:58:56.061Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.4.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.4",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T22:59:28.424Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.5.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.5",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T22:59:56.812Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.6.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.6",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T23:00:35.407Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.7.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.7",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T23:01:09.070Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.8.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.8",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T23:01:33.787Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.9.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.9",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T23:02:21.096Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.10.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.10",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T23:02:53.717Z"
+    },
+    {
+      "dataPath": "data/analysis/AscIsa/AscIsa.11.json",
+      "workOsisID": "AscIsa",
+      "bookOsisID": "AscIsa",
+      "chapterOsisID": "AscIsa.11",
+      "modelId": "gpt-5-mini-2025-08-07",
+      "createdAt": "2026-01-30T23:03:38.153Z"
+    },
+    {
       "dataPath": "data/analysis/BofM/1Ne.1.json",
       "workOsisID": "BofM",
       "bookOsisID": "1Ne",
@@ -3196,6 +3284,734 @@
       "chapterOsisID": "Did.16",
       "modelId": "gpt-5-2025-08-07",
       "createdAt": "2025-10-20T12:39:16.148Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.1.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:23:19.135Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.2.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:23:39.326Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.3.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.3",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:24:02.444Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.4.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.4",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:24:22.680Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.5.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.5",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:24:41.627Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.6.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.6",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:25:02.086Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.7.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.7",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:25:27.061Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.8.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.8",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:25:48.298Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.9.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.9",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:26:07.981Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.10.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.10",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:26:27.708Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.11.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.11",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:26:49.379Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.12.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.12",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:27:11.470Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.13.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.13",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:27:32.459Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.14.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.14",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:27:52.210Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.15.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.15",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:28:12.852Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.16.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.16",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:28:34.438Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.17.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.17",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:28:52.805Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.18.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.18",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:29:14.113Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.19.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.19",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:29:36.078Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.20.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.20",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:29:51.720Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.21.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.21",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:30:14.821Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.22.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.22",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:30:37.161Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.23.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.23",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:30:58.462Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.24.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.24",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:31:16.013Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.25.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.25",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:31:33.415Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.26.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.26",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:31:54.981Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.27.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.27",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:32:13.866Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.28.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.28",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:32:34.404Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.29.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.29",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:32:56.252Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.30.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.30",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:33:15.665Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.31.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.31",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:33:39.457Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.32.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.32",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:34:02.913Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.33.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.33",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:34:21.965Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.34.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.34",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:34:47.749Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.35.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.35",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:35:07.233Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.36.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.36",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:35:36.337Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.37.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.37",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:35:59.027Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.38.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.38",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:36:23.136Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.39.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.39",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:36:40.609Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.40.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.40",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:37:01.284Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.41.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.41",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:37:20.227Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.42.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.42",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:37:44.648Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.43.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.43",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:38:04.219Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.44.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.44",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:38:23.042Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.45.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.45",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:38:43.447Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.46.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.46",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:38:59.576Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.47.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.47",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:39:24.309Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.48.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.48",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:39:47.027Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.49.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.49",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:40:10.200Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.50.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.50",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:40:30.220Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.51.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.51",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:40:52.134Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.52.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.52",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:41:13.703Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.53.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.53",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:41:32.448Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.54.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.54",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:42:00.610Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.55.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.55",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:42:19.626Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.56.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.56",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:42:48.884Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.57.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.57",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:43:13.428Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.58.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.58",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:43:40.384Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.59.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.59",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:43:56.861Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.60.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.60",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:44:23.511Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.61.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.61",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:44:52.670Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.62.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.62",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:45:14.535Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.63.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.63",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:45:36.978Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.64.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.64",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:46:01.786Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.65.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.65",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:46:20.932Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.66.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.66",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:46:38.614Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.67.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.67",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:47:03.872Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.68.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.68",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:47:25.261Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.69.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.69",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:47:40.447Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.70.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.70",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:48:01.233Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.71.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.71",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:48:19.519Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.72.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.72",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:48:40.594Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.73.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.73",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:49:01.365Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.74.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.74",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:49:20.096Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.75.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.75",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:49:37.513Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.76.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.76",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:50:02.091Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.77.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.77",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:50:23.839Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.78.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.78",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:50:46.850Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.79.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.79",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:51:12.876Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.80.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.80",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:51:32.023Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.81.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.81",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:51:55.716Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.82.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.82",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:52:15.841Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.83.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.83",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:52:40.338Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.84.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.84",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:53:01.785Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.85.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.85",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:53:25.551Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.86.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.86",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:53:43.268Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.87.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.87",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:53:59.062Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.88.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.88",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:54:22.926Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.89.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.89",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:54:44.464Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.90.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.90",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:55:02.200Z"
+    },
+    {
+      "dataPath": "data/analysis/Jasher/Jasher.91.json",
+      "workOsisID": "Jasher",
+      "bookOsisID": "Jasher",
+      "chapterOsisID": "Jasher.91",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-30T23:55:19.907Z"
     },
     {
       "dataPath": "data/analysis/KJV/1Chr.1.json",
@@ -14188,6 +15004,238 @@
       "chapterOsisID": "Mos.8",
       "modelId": "gpt-5-2025-08-07",
       "createdAt": "2025-10-19T16:14:53.797Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TAsh.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TAsh",
+      "chapterOsisID": "TAsh.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:14:50.395Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TBenj.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TBenj",
+      "chapterOsisID": "TBenj.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:16:07.072Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TBenj.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TBenj",
+      "chapterOsisID": "TBenj.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:16:32.232Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TDan.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TDan",
+      "chapterOsisID": "TDan.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:12:23.851Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TDan.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TDan",
+      "chapterOsisID": "TDan.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:12:47.281Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TGad.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TGad",
+      "chapterOsisID": "TGad.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:14:03.115Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TGad.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TGad",
+      "chapterOsisID": "TGad.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:14:24.179Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TIss.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TIss",
+      "chapterOsisID": "TIss.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:10:58.075Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TIss.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TIss",
+      "chapterOsisID": "TIss.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:11:18.454Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TJos.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TJos",
+      "chapterOsisID": "TJos.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:15:14.784Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TJos.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TJos",
+      "chapterOsisID": "TJos.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:15:42.355Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TJud.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TJud",
+      "chapterOsisID": "TJud.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:09:19.002Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TJud.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TJud",
+      "chapterOsisID": "TJud.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:09:44.843Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TJud.3.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TJud",
+      "chapterOsisID": "TJud.3",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:10:07.864Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TJud.4.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TJud",
+      "chapterOsisID": "TJud.4",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:10:33.556Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TLevi.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TLevi",
+      "chapterOsisID": "TLevi.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:06:49.896Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TLevi.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TLevi",
+      "chapterOsisID": "TLevi.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:07:15.628Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TLevi.3.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TLevi",
+      "chapterOsisID": "TLevi.3",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:07:44.196Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TLevi.4.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TLevi",
+      "chapterOsisID": "TLevi.4",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:08:07.931Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TLevi.5.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TLevi",
+      "chapterOsisID": "TLevi.5",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:08:57.715Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TNaph.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TNaph",
+      "chapterOsisID": "TNaph.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:13:15.094Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TNaph.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TNaph",
+      "chapterOsisID": "TNaph.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:13:40.946Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TReu.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TReu",
+      "chapterOsisID": "TReu.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:05:03.991Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TReu.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TReu",
+      "chapterOsisID": "TReu.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:05:24.778Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TSim.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TSim",
+      "chapterOsisID": "TSim.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:05:40.119Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TSim.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TSim",
+      "chapterOsisID": "TSim.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:05:58.378Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TSim.3.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TSim",
+      "chapterOsisID": "TSim.3",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:06:25.103Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TZeb.1.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TZeb",
+      "chapterOsisID": "TZeb.1",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:11:39.823Z"
+    },
+    {
+      "dataPath": "data/analysis/T12Patr/TZeb.2.json",
+      "workOsisID": "T12Patr",
+      "bookOsisID": "TZeb",
+      "chapterOsisID": "TZeb.2",
+      "modelId": "gpt-5.2-2025-12-11",
+      "createdAt": "2026-01-31T00:12:01.389Z"
     }
   ],
   "crossReferences": [

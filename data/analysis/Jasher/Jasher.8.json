@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jasher.8",
+  "briefOverview": "This chapter narrates the circumstances surrounding Abram’s birth and a royal attempt to eliminate him after astrologers interpret a celestial sign as forecasting his future dominance. It emphasizes providential protection and human deception to preserve Abram’s life.",
+  "summary": "On the night Abram is born, Terah hosts Nimrod’s wise men and conjurors, who later observe a large star from the east “swallow” four other stars and interpret this as a sign that Terah’s newborn will multiply, possess the earth, and overthrow kings. Fearing blame for concealing the omen, they report it to Nimrod and recommend killing the child before he grows powerful. Nimrod summons Terah and offers wealth in exchange for the child’s life; Terah replies with a parable about the king’s prized horse to argue that no payment can compensate for the loss of a son. Under pressure and threat, Terah requests three days, then substitutes a servant’s newborn child, which Nimrod kills believing it to be Abram. The text attributes the successful deception to divine providence, after which Terah hides Abram, his mother, and nurse in a cave for ten years while the court assumes Abram is dead.",
+  "externalContext": "The “Book of Jasher” is a post-biblical work (known from much later medieval forms) that expands biblical narratives with additional legendary and interpretive details; it is distinct from the canonical biblical text, though the Bible mentions a “book of Jashar/Jasher.” Ancient Near Eastern royal courts often employed astrologers, diviners, and “wise men,” and stories about ominous signs at the birth of a significant figure are common in ancient literature. The motif of a ruler attempting to kill a threatening child (and the child being preserved through concealment or substitution) also appears in multiple ancient and biblical traditions.",
+  "externalReferences": "The Bible briefly mentions a “Book of Jashar” as a source in connection with poetic material and historical recollection (Joshua 10:13; 2 Samuel 1:18), though it does not preserve this chapter’s narrative about Abram. The story’s pattern—royal fear of a divinely significant child leading to an attempted killing, but the child’s preservation—resembles later biblical accounts such as Pharaoh’s oppression surrounding Moses’ infancy (Exodus 1:15–2:10) and Herod’s attempt to destroy Jesus in infancy (Matthew 2:1–16). The chapter’s focus on a heavenly sign connected to a child’s destiny also invites comparison to the “star” motif in Matthew’s infancy narrative (Matthew 2:2, 2:9–10), though the contexts and purposes differ.",
+  "seeAlso": [
+    "Joshua 10:13",
+    "2 Samuel 1:18",
+    "Exodus 1:15-2:10",
+    "Matthew 2:1-16",
+    "Matthew 2:2",
+    "Matthew 2:9-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Star omen and report"
+    },
+    {
+      "range": "13-31",
+      "title": "Nimrod bargains with Terah"
+    },
+    {
+      "range": "32-36",
+      "title": "Substitution and hiding"
+    }
+  ],
+  "themes": [
+    "Divine protection",
+    "Prophetic signs",
+    "Royal oppression",
+    "Deception for survival",
+    "Destiny of Abram"
+  ],
+  "practicalQuestions": [
+    "How do I respond when fear leads authorities or institutions to target perceived threats rather than seek truth?",
+    "When facing coercive pressure, what ethical boundaries should guide my choices (e.g., Terah’s deception to save life)?",
+    "What practices help sustain hope when outcomes depend on forces beyond my control, as this text portrays “Providence” doing?",
+    "Where do I rely on “signs” or predictions (social, political, spiritual) to interpret events, and how might that shape my decisions for good or ill?"
+  ],
+  "uncertainAreas": "The text’s astronomical imagery (one star swallowing four) is symbolic and its precise meaning within the story-world is clear (Abram’s future dominance), but any attempt to map it to historical astronomy would be speculative. The identity of “Ayon, son of Mored” is not explained in the chapter, so his role functions mainly as part of Terah’s rhetorical parable. Because Jasher exists in later recensions, the historical provenance of these specific narrative details cannot be established from the chapter itself.",
+  "createdAt": "2026-01-30T23:25:48.298Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

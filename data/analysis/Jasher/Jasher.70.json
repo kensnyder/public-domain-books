@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jasher.70",
+  "briefOverview": "This chapter portrays Moses’ early life in Pharaoh’s house, including a test that spares his life and results in a speech impediment. It also presents Moses as beginning to identify with Israel’s suffering and to advocate for their relief.",
+  "summary": "At a royal banquet, the young Moses takes Pharaoh’s crown and places it on his own head, alarming Pharaoh and his officials. Balaam interprets the act as a deliberate threat rooted in a pattern of Hebrew “cunning” and urges Moses’ execution, citing examples from the patriarchs and Joseph’s rise in Egypt. Pharaoh consults Egypt’s wise men; an angel (appearing as a wise man) proposes a test with an onyx stone and a live coal to determine whether Moses acted knowingly. Moses reaches for the onyx, but the angel redirects his hand to the coal; Moses burns his lips and tongue and becomes “heavy in mouth and tongue,” convincing the court he lacked intent, so he is spared and continues to grow in Pharaoh’s house with divine favor. As Moses matures, he regularly visits Goshen, learns of Israel’s oppression and Balaam’s role, and Balaam flees to Cush out of fear. Moses then requests that Pharaoh grant Israel one day of rest each week; Pharaoh issues a proclamation establishing a seventh-day rest, which the text frames as God beginning to remember Israel for the fathers’ sake and as Moses’ reputation spreading in Egypt.",
+  "externalContext": "The “Book of Jasher” is a later Jewish work preserved in various forms and is not the same as the lost ancient “Book of Jashar” mentioned in the Hebrew Bible (e.g., Joshua 10:13). This chapter reflects a broader stream of post-biblical Jewish narrative expansions that fill gaps in the biblical account of Moses’ youth, often emphasizing divine providence and explaining later features of Moses’ life (such as a speech difficulty). Egyptian royal courts in ancient Near Eastern storytelling commonly feature councils of “wise men” or advisers, functioning as stock figures for political intrigue and dream-interpretation motifs.",
+  "externalReferences": "Moses being raised in Pharaoh’s household aligns with Exodus 2:1–10, though the crown episode and coal test are not found in Exodus and resemble later interpretive traditions. The resulting description that Moses became “heavy in mouth and tongue” echoes Moses’ own claim of impaired speech in Exodus 4:10. Moses’ sympathy for Israel’s burdens and his going out to “see” their labor parallels Exodus 2:11–12, though this chapter depicts him first seeking relief through a negotiated day of rest. Balaam “son of Beor,” later known from Numbers 22:5 and associated with counsel against Israel in Numbers 31:16, is here placed earlier in the Egyptian court as an antagonist.",
+  "seeAlso": [
+    "Exodus 2:1-15",
+    "Exodus 4:10-16",
+    "Joshua 10:13",
+    "2 Samuel 1:18",
+    "Numbers 22:5-7",
+    "Numbers 31:16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Crown incident and accusation"
+    },
+    {
+      "range": "21-31",
+      "title": "Coal test spares Moses"
+    },
+    {
+      "range": "32-51",
+      "title": "Moses aids Israel"
+    }
+  ],
+  "themes": [
+    "Divine protection",
+    "Political intrigue",
+    "Israel’s oppression",
+    "Moses’ calling",
+    "Sabbath-like rest"
+  ],
+  "practicalQuestions": [
+    "When interpreting someone’s actions, how can I avoid assuming malicious intent (as Pharaoh’s court initially does) and seek fair ways to discern the truth?",
+    "What forms of advocacy are available to me—like Moses’ request for a day of rest—when confronting unjust or exhausting working conditions?",
+    "How might personal limitations or wounds (Moses’ impaired speech) shape, rather than cancel, a person’s capacity for leadership or service?",
+    "Do I regularly “go out” to see and understand the burdens of vulnerable communities, or do I remain insulated from their lived experience?"
+  ],
+  "uncertainAreas": "Dating and textual lineage of this Jasher tradition vary by edition; I treated it as a later expansion rather than the biblical lost source. The identity of Alparanith and Bathia as portrayed here, and the historical plausibility of a formal weekly rest decree in Pharaoh’s Egypt, are unclear and may be primarily literary/theological motifs rather than verifiable history.",
+  "createdAt": "2026-01-30T23:48:01.233Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

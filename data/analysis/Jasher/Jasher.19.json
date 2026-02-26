@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.19",
+  "briefOverview": "This chapter portrays Sodom and neighboring cities as systematically cruel toward outsiders and the poor, culminating in divine judgment and destruction. It also follows Lot’s rescue, his wife’s fate, and the origins of Moab and Ammon through Lot’s daughters.",
+  "summary": "The chapter opens by describing Sodom’s civic leaders and grotesque legal “customs,” including forced measurements on beds and a scheme to let strangers starve so citizens can reclaim the money they gave them. Sarah sends Abraham’s servant Eliezer to check on Lot; Eliezer is assaulted and then exposes Sodom’s corrupt justice by turning its own ruling against a judge.\n\nIt recalls a war in which Lot was taken captive and later rescued by Abraham, and introduces Lot’s daughter Paltith, who secretly feeds a starving man—an act treated as a capital crime, leading to her execution by fire. A similar episode in Admah ends with a young woman executed via bees after showing hospitality, and the text emphasizes that the cities had plenty yet refused to sustain the needy.\n\nProvoked by these sins, the Lord sends angels who warn Lot to flee; they lead Lot’s household out, and Sodom and Gomorrah (and associated cities) are destroyed by fire and brimstone. Lot’s wife looks back out of compassion for daughters left behind and becomes a pillar of salt. The chapter closes with Lot and his two remaining daughters in a cave, where the daughters, believing humanity has perished, intoxicate their father and conceive sons who become ancestors of the Moabites and Ammonites.",
+  "externalContext": "The Book of Jasher is an extra-biblical work associated in later Jewish and broader religious reception with expansions on narratives from Genesis and Exodus; it is not part of the Jewish Tanakh or most Christian canons in the form known today. Stories of Sodom in later interpretive traditions often amplify Genesis’s portrayal by stressing social injustice—especially hostility to strangers and neglect of the poor—as emblematic sins of the cities.",
+  "externalReferences": "The destruction of Sodom and Gomorrah, the visitation by angels, Lot’s hospitality at the city gate, the command to flee without looking back, and Lot’s wife becoming a pillar of salt parallel the core narrative in Genesis 19:1–29. The episode of Lot’s daughters conceiving Moab and Ben-ammi (ancestor of Ammon) corresponds closely to Genesis 19:30–38.\n\nThe reference to a war in which Lot is captured and later rescued by Abram aligns with Genesis 14:1–16 (often summarized as the battle involving Chedorlaomer’s coalition). The chapter’s emphasis on abundant food coupled with refusal to help the needy resonates with later biblical descriptions of Sodom’s guilt as pride and neglect of the poor (Ezekiel 16:49–50).",
+  "seeAlso": [
+    "Genesis 14:1-16",
+    "Genesis 19:1-29",
+    "Genesis 19:30-38",
+    "Ezekiel 16:49-50"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Cruel laws and customs"
+    },
+    {
+      "range": "11-22",
+      "title": "Eliezer confronts injustice"
+    },
+    {
+      "range": "23-60",
+      "title": "Judgment, escape, aftermath"
+    }
+  ],
+  "themes": [
+    "Social injustice",
+    "Corrupt justice",
+    "Hospitality refused",
+    "Divine judgment",
+    "Origins of nations"
+  ],
+  "practicalQuestions": [
+    "What “customs” or social norms in my context effectively exclude or harm vulnerable outsiders, even if they are widely accepted?",
+    "When I encounter an unjust system (legal, institutional, or cultural), what does faithful, wise resistance look like without becoming complicit in its logic?",
+    "How does the chapter’s link between abundance and neglect challenge my personal and communal use of resources?",
+    "What are the costs—and the risks—of extending practical help to those stigmatized by my community?",
+    "Where might fear and distorted assumptions (like Lot’s daughters believing no one else survives) lead people into ethically harmful decisions today?"
+  ],
+  "uncertainAreas": "Jasher’s relationship to Genesis varies by tradition and edition; I treated the strongest parallels (Genesis 14; 19; Ezekiel 16) as references but did not attempt to adjudicate textual dependence. Some names and details (e.g., Paltith, the judges’ names, the “bed” custom, the pillar-of-salt description with oxen) are not in Genesis and have no clear canonical cross-reference, so I did not cite additional passages for them.",
+  "createdAt": "2026-01-30T23:29:36.078Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

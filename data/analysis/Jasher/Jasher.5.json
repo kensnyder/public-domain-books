@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.5",
+  "briefOverview": "This chapter traces the passing of the early righteous patriarchs and depicts God’s delayed judgment through a 120-year window for repentance, culminating in Noah’s call to begin building the ark and establish a family line for post-judgment renewal.",
+  "summary": "A sequence of patriarchal deaths is narrated (Enoch son of Seth, Cainan, Mahalallel, Jared), alongside the claim that those who followed the Lord died before the announced catastrophe, leaving Methuselah as the last prominent remnant. God instructs Noah and Methuselah to proclaim repentance to humanity, offering a defined period of 120 years in which judgment could be averted if people turn from evil. Despite persistent preaching, the people remain “stiffnecked” and refuse to listen. Noah initially avoids marriage and children due to the impending destruction, but God commands him to take a wife and raise seed; Noah marries Naamah and fathers Japheth and Shem, who are said to walk in the Lord’s ways. Lamech dies, and the chapter reiterates that the righteous are removed so as not to witness the coming evil. God then declares the end of all flesh and gives detailed instructions for constructing the ark, preserving animals and food supplies, and obtaining wives for Noah’s sons; Noah begins and completes the ark over five years. The chapter ends with Methuselah’s death, marking the close of an era immediately preceding the flood narrative’s escalation.",
+  "externalContext": "The “Book of Jasher” is an ancient-style retelling that expands on Genesis with additional names, dates, and speeches; versions circulating today are generally considered later compositions rather than part of the Hebrew Bible canon. Its narrative voice mirrors biblical genealogical and flood traditions, emphasizing long lifespans and moral decline before a divine judgment. The 120-year reprieve functions as a common ancient literary motif of delayed judgment meant to underscore divine patience and human responsibility.",
+  "externalReferences": "The chapter closely parallels the Genesis flood account: God’s warning period (cf. Genesis 6:3), Noah’s righteousness (Genesis 6:9), and the command to build an ark with specified dimensions and pitch (Genesis 6:14–16). The call to preach repentance and the people’s refusal resembles broader biblical prophetic patterns (e.g., Ezekiel 18:30–32), though this chapter frames Noah and Methuselah explicitly as public proclaimers. The death notices and genealogical framework evoke the antediluvian genealogies in Genesis 5, but with additional chronological anchoring “in the years of Noah.”",
+  "seeAlso": [
+    "Genesis 5:21-32",
+    "Genesis 6:3-22",
+    "Genesis 7:1-5",
+    "Ezekiel 18:30-32",
+    "2 Peter 2:5"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Patriarchs die before evil"
+    },
+    {
+      "range": "6-24",
+      "title": "A 120-year call to repent"
+    },
+    {
+      "range": "25-36",
+      "title": "Ark commanded and begun"
+    }
+  ],
+  "themes": [
+    "Delayed judgment",
+    "Call to repentance",
+    "Righteous remnant",
+    "Obedience",
+    "Preservation of life"
+  ],
+  "practicalQuestions": [
+    "Where might I be presuming on “more time” to change, rather than responding promptly to a warning or conviction?",
+    "What practices would help me persist in speaking truth or doing good “day after day” even when others refuse to listen?",
+    "How does the text’s picture of God’s patience (a defined period for repentance) shape my view of accountability and mercy?",
+    "In what concrete ways can I prepare responsibly for foreseeable crises while still acting with faith and hope (as Noah is portrayed doing)?"
+  ],
+  "uncertainAreas": "The identification of Naamah as “daughter of Enoch” (and Enoch as son of Seth) differs from more familiar biblical genealogies, making lineage correspondences uncertain. The meaning and application of the 120-year period (literal countdown vs. symbolic limit) is presented straightforwardly here but is debated in relation to Genesis 6:3. Some details (e.g., exact timing of ark construction and marriage instructions for sons) are expansions beyond Genesis, so external alignment should be treated cautiously.",
+  "createdAt": "2026-01-30T23:24:41.627Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

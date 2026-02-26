@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jasher.31",
+  "briefOverview": "Jacob completes his years of service to Laban, is deceived into marrying Leah before Rachel, and builds a large household and wealth in Haran before fleeing back toward Canaan. The chapter culminates in escalating conflict: Laban pursues Jacob, and Esau mobilizes to attack him as Jacob approaches home.",
+  "summary": "After seven years of service, Jacob seeks to marry Rachel, but Laban deceives him by giving Leah in the dark, justifying it as local custom; Jacob then receives Rachel as well, committing to another seven years of service. Leah bears Reuben, Simeon, Levi, and Judah, while rivalry over children leads Rachel and Leah to give their handmaids Bilhah and Zilpah to Jacob, producing Dan, Naphtali, Gad, and Asher; Leah later bears Issachar, Zebulon, and Dinah. Rachel prays and bears Joseph, interpreting his birth as the removal of reproach and expressing hope for another son.\n\nRebecca sends word urging Jacob to return to Canaan, but Jacob negotiates wages with Laban through ownership of speckled/spotted animals and becomes exceedingly prosperous over six additional years, provoking envy and suspicion in Laban’s household. God then directs Jacob to return to his birthplace; Jacob departs secretly while Laban is shearing sheep. Rachel steals Laban’s “images,” described at length as oracular objects, to prevent Laban from discovering Jacob’s route; Laban catches Jacob, searches unsuccessfully, and they settle by covenant and a witness-heap at Gilead.\n\nAfter separating from Jacob, Laban sends messengers to stir Esau against Jacob; Esau gathers four hundred armed men to strike Jacob. Hearing this, Rebecca sends a protective company to Jacob; Jacob names the place Machnayim and follows his mother’s counsel to seek reconciliation through humility, gifts, and careful speech toward his elder brother.",
+  "externalContext": "The Book of Jasher is a later extra-biblical Jewish work (not part of the Hebrew Bible canon) that retells and expands narratives found in Genesis, often adding speeches, genealogical notes, and explanatory details. Its surviving forms circulated in medieval Jewish tradition, and later English translations popularized it, though its historical relationship to any ancient “Book of Jashar” mentioned in the Bible is disputed. The chapter’s setting reflects patriarchal-era family structures assumed in ancient Near Eastern narratives, including bride-service arrangements, polygynous households, and the use of household servants/handmaids within family economics.",
+  "externalReferences": "Much of this chapter closely parallels Genesis’ account of Jacob’s marriages, the birth of his children, his wage agreement with Laban, his flight, and Laban’s pursuit and covenant (Genesis 29:15–30; 29:31–30:24; 30:25–31:55). The naming of Machanayim/Mahanaim as a divinely appointed “camp” corresponds to Jacob’s encounter as he approaches Canaan (Genesis 32:1–2). The statement that Esau comes with four hundred men matches the depiction of Esau’s approach in Genesis 32:6 and frames Jacob’s strategy of appeasement and reconciliation.",
+  "seeAlso": [
+    "Genesis 29:15-30",
+    "Genesis 29:31-35",
+    "Genesis 30:1-24",
+    "Genesis 30:25-43",
+    "Genesis 31:1-55",
+    "Genesis 32:1-8",
+    "Genesis 32:9-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Leah and Rachel married"
+    },
+    {
+      "range": "14-21",
+      "title": "Children and household rivalry"
+    },
+    {
+      "range": "22-77",
+      "title": "Departure, covenant, Esau threat"
+    }
+  ],
+  "themes": [
+    "Deception and custom",
+    "Family rivalry",
+    "Divine intervention",
+    "Wealth and envy",
+    "Covenant witness"
+  ],
+  "practicalQuestions": [
+    "Where might “custom” or social convention be used to excuse wrongdoing, as Laban does, and how should it be challenged?",
+    "How do jealousy and comparison (Leah and Rachel’s rivalry) distort family life, and what practices reduce those pressures today?",
+    "What is a responsible way to pursue security and provision (Jacob’s wage agreement) without escalating mistrust or exploitation?",
+    "When conflict is imminent (Esau’s approach), what does it look like to combine prudence (planning, gifts, careful speech) with reliance on God’s guidance?",
+    "What boundaries or agreements (like the heap-witness covenant) could help resolve ongoing disputes in a durable, accountable way?"
+  ],
+  "uncertainAreas": "The detailed description of the stolen “images” (vv. 41–43) is distinctive to Jasher; I cannot confidently map it to a specific ancient Near Eastern artifact type beyond noting it functions as an oracular/household cult object in the narrative. The identity and role of Beor and Abichorof (vv. 54–55) are unclear relative to biblical genealogies, so I treated them only as messengers within this retelling.",
+  "createdAt": "2026-01-30T23:33:39.457Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

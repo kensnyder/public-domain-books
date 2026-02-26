@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "AscIsa.3",
+  "briefOverview": "The chapter recounts leaders accusing and seizing Isaiah for his visions, then summarizes Isaiah’s revelation about the Beloved’s passion, resurrection, and ascension, and closes with warnings about widespread corruption before the Lord’s coming.",
+  "summary": "Belchira, a Samaritan opponent in Jerusalem, accuses Isaiah of prophesying against Judah and the king; his words find favor with Manasseh and Isaiah is seized. The charge includes Isaiah’s claim to have seen God and his denunciation of Jerusalem as like Sodom and Gomorrah. The text then outlines Isaiah’s vision concerning the Beloved: His descent from the seventh heaven in the likeness of a man, His persecution and crucifixion with wicked men, burial, the guard at the sepulchre, an angelic opening of the tomb on the third day, the Beloved’s resurrection, and His ascension back to the seventh heaven. The vision includes the sending out of twelve disciples who will teach the nations and the promise that believers will be saved through the Beloved’s cross. Finally, the chapter gives an extended eschatological warning that, before the Beloved’s approach, many will fall into lawlessness: leaders will be corrupt, the Holy Spirit will withdraw from many, true prophets will be scarce, and jealousy, vainglory, and love of honor will prevail.",
+  "externalContext": "The Ascension of Isaiah is an ancient pseudepigraphal/apocalyptic work reflecting a Jewish–Christian milieu that blends Jewish prophetic motifs with Christian narratives about Jesus. It invokes historical names associated with the monarchy of Judah (Hezekiah, Manasseh) and Assyrian exile traditions, though its composition is later than those events and presupposes knowledge of Christian claims about crucifixion, resurrection, and ascension. Terms like Beliar/Belial reflect Second Temple-era Jewish language for cosmic evil.",
+  "externalReferences": "The chapter directly echoes Exodus 33:20 (\"No man can see God and live\") and Isaiah’s own vision tradition (cf. Isaiah 6:1) when contesting Isaiah’s claim to have seen God. Its narrative of crucifixion, burial, resurrection on the third day, and ascension into heaven parallels New Testament material (Gospel passion/resurrection accounts: Mark 15–16; Matthew 27–28; Luke 23–24; John 19–20) and later summaries such as 1 Corinthians 15:3–4 (died, was buried, rose on the third day) and Acts 1:9 (ascension). The mention of twelve disciples and the Spirit-enabled proclamation recalls Matthew 10 and Acts 2 (the outpouring of the Holy Spirit and speaking through the Spirit).",
+  "seeAlso": [
+    "Exodus 33:20",
+    "Isaiah 6:1",
+    "Mark 15-16",
+    "Matthew 27-28",
+    "Luke 23-24",
+    "John 19-20",
+    "1 Corinthians 15:3-4",
+    "Acts 1:9",
+    "Acts 2",
+    "Matthew 10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Accusation and Flight"
+    },
+    {
+      "range": "7-19",
+      "title": "Arrest and Vision of Beloved"
+    },
+    {
+      "range": "20-31",
+      "title": "Corruption before the Lord"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Persecution",
+    "Christ's Passion",
+    "Eschatological Corruption"
+  ],
+  "practicalQuestions": [
+    "How should communities weigh accusations against prophets or whistleblowers when institutional leaders oppose them?",
+    "What practices help maintain prophetic integrity and discernment amid popular or political pressure?",
+    "How can contemporary religious communities guard against the love of honor, vainglory, and corruption described here?",
+    "In what ways should believers prepare for a decline in visible spiritual gifts or prophetic voices without abandoning commitment and charity?"
+  ],
+  "uncertainAreas": "The chapter contains uncertain historical references and names (e.g., Belchira, Alagar Zagar) whose identities and chronology are unclear. The precise dating and provenance of this text are debated, and some elements (explicit Christian details about crucifixion, resurrection, ascension) reflect traditions external to the earlier Isaiah material and may represent later Christian interpolation or reworking.",
+  "createdAt": "2026-01-30T22:58:56.061Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

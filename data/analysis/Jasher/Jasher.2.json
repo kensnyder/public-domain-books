@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.2",
+  "briefOverview": "This chapter traces early human generations from Adam to Seth and beyond, highlighting a rapid growth of rebellion and idolatry alongside intermittent figures who preserve wisdom. It culminates in a dramatic account of Cain’s death and Lamech’s accidental killing of his son, set against the looming prospect of a future flood judgment.",
+  "summary": "Adam fathers Seth, and Seth fathers Enosh, during whose days humanity increasingly rebels, practices idolatry, and provokes divine anger. The Lord sends a catastrophic overflowing of the river Gihon and a severe famine, yet people persist in evil, and the cursed ground yields thorns rather than crops. Enosh’s line continues to Cainan, portrayed as a wise ruler who understands (and records on stone tablets) that God will eventually destroy humanity with floodwaters, though he also turns some back to God. Social corruption intensifies as men deliberately render their wives barren to preserve beauty, leading to distorted marital attachments; later, Zillah’s womb is opened in old age and she bears Tubal Cain and Naamah. In the field, the aged, near-blind Lamech—guided by young Tubal Cain—shoots and kills Cain by mistake, and in grief Lamech strikes and kills Tubal Cain; Lamech’s wives separate, then return but bear no more children, fearing imminent flood judgment. The chapter closes with brief genealogy notes through Mahlallel, Jared, and Enoch.",
+  "externalContext": "The Book of Jasher is a later retelling/expansion of Genesis traditions and is not part of the Jewish or most Christian biblical canons; it often elaborates genealogies and moralizes early history with additional narrative details. In the ancient Near Eastern milieu, idol-making (metal/wood/stone images) and attributing agency to multiple deities was widespread, so the chapter’s polemic against images reflects a common biblical critique of surrounding religious practices. Genealogical lists functioned not only as family records but also as theological framing devices, linking moral decline or faithfulness to particular generations.",
+  "externalReferences": "The chapter closely parallels Genesis’ genealogy from Adam through Seth and onward (Genesis 4:25–26; 5:6–22), while intensifying the theme of early idolatry associated with Enosh. Its famine/thorns imagery echoes the curse on the ground after Adam’s sin (Genesis 3:17–19). The prediction of a coming flood corresponds to the flood narrative that begins later in Genesis (Genesis 6:5–17). Lamech’s speech to his wives resembles the “Song of Lamech” in Genesis 4:23–24, though here it is reinterpreted in light of the accidental killing of Cain and Tubal Cain.",
+  "seeAlso": [
+    "Genesis 3:17-19",
+    "Genesis 4:23-26",
+    "Genesis 5:6-22",
+    "Genesis 6:5-17"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Seth’s line and idolatry"
+    },
+    {
+      "range": "10-16",
+      "title": "Cainan’s wisdom and record"
+    },
+    {
+      "range": "17-37",
+      "title": "Barren wives and Cain’s death"
+    }
+  ],
+  "themes": [
+    "Genealogy",
+    "Idolatry",
+    "Divine judgment",
+    "Corrupted social order",
+    "Foreseen flood"
+  ],
+  "practicalQuestions": [
+    "What “images” (values, ideologies, possessions) most readily compete for loyalty in my life, and what practices help me resist that drift into functional idolatry?",
+    "When consequences or warnings (like famine or disaster in the chapter) occur, do I treat them as prompts for self-examination and change, or do I persist unchanged?",
+    "How do beauty, status, or fear shape family and relationship decisions today, and where might those pressures lead to devaluing people who bear costly responsibilities?",
+    "What responsibilities come with knowledge about future risks (whether moral, social, or environmental), and how can that knowledge be recorded or shared in ways that help others choose wisely?"
+  ],
+  "uncertainAreas": "The identity and location of the river “Gihon” and what it means to have destroyed “the third part of the earth” are unclear within the text and may be symbolic or a later elaboration. The description of Cainan ruling over “spirits and demons” could be metaphorical, legendary, or reflect later demonological traditions, but the chapter does not clarify its intent. The potion-induced barrenness narrative raises interpretive questions (historicity vs. moral exemplum) that cannot be resolved from the chapter alone.",
+  "createdAt": "2026-01-30T23:23:39.326Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

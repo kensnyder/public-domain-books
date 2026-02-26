@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "TGad.2",
+  "briefOverview": "Gad warns against hatred, jealousy, and retaliatory anger, urging wholehearted love, forgiveness, and trust in God’s justice. He closes with instructions for future generations and a brief notice of his death and burial.",
+  "summary": "Gad describes how hatred can darken the mind, confessing that although he spoke peaceably to Joseph before their father, hatred later stirred him toward violence. He commands his children to love from the heart, confront sin with peaceful speech, forgive repentance, and avoid escalating conflict—especially when the offender denies wrongdoing—so that one does not spread “poison” and sin doubly. He advises discretion in legal disputes, moderating reproof when shame is evident, and leaving vengeance to God even when wrong persists. He also warns against envy when others prosper or rise in status, calling instead for prayer, praise to God, and a settled mind through seeking the Lord’s judgments. He contrasts temporary gain by evil means with God’s final judgment, praising the envy-free poor as blessed, and urges transmitting these teachings while honoring Judah and Levi as lines through whom salvation will arise. The chapter ends with Gad’s request for burial near his fathers, his peaceful death, and his later burial at Hebron.",
+  "externalContext": "The “Testament of Gad” belongs to the Testaments of the Twelve Patriarchs, a collection of Jewish ethical and testamentary speeches attributed pseudepigraphically to Jacob’s sons and preserved largely through later manuscript traditions. The work is commonly dated by scholars to the Second Temple period (with possible later editing), and it often blends moral exhortation with retrospective interpretation of Genesis narratives. In the patriarchal framework, Hebron is a traditional ancestral burial area associated with the patriarchs and their family tomb. The mention of Judah and Levi reflects the later prominence of the royal (Judah) and priestly (Levi) lines in Israel’s self-understanding.",
+  "externalReferences": "Gad’s confession about hostility toward Joseph evokes the Genesis cycle where Joseph’s brothers envied him and plotted against him (Genesis 37:3–11, 18–28). The instruction to forgive and to leave vengeance to God parallels later biblical teachings such as Leviticus 19:18 (“you shall not take vengeance”) and Deuteronomy 32:35 (vengeance belonging to God), echoed in Romans 12:19. The location of burial at Hebron aligns with the ancestral burial tradition centered on the cave of Machpelah (Genesis 23:17–20; 49:29–32).",
+  "seeAlso": [
+    "Genesis 37:3-11",
+    "Genesis 37:18-28",
+    "Leviticus 19:18",
+    "Deuteronomy 32:35",
+    "Genesis 23:17-20",
+    "Genesis 49:29-32",
+    "Romans 12:17-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Hatred, confrontation, forgiveness"
+    },
+    {
+      "range": "9-16",
+      "title": "Reject envy and jealousy"
+    },
+    {
+      "range": "17-21",
+      "title": "Charge, death, and burial"
+    }
+  ],
+  "themes": [
+    "Love and forgiveness",
+    "Hatred’s danger",
+    "Jealousy and envy",
+    "Divine justice",
+    "Peaceful speech"
+  ],
+  "practicalQuestions": [
+    "When someone wrongs me, do I address it with truthful but peaceful speech, or do I escalate the conflict through anger or sarcasm?",
+    "What “secrets” or private grievances am I tempted to share in ways that could create enemies or multiply harm during conflict?",
+    "How do I respond when others prosper more than I do—do I pray for their good and give thanks, or do I nurture envy?",
+    "Where do I need to stop seeking personal vengeance and instead entrust judgment and outcome to God (or to appropriate, impartial processes)?",
+    "What practices help my mind “rest and be at peace” as I seek what is right rather than obsessing over comparisons or injustices?",
+    "What moral lessons from my own failures should I pass on to those I mentor, without excusing the wrongdoing?"
+  ],
+  "uncertainAreas": "The opening phrase in verse 1 appears truncated in the provided text, making the immediate antecedent unclear. The reference to honoring Judah and Levi and salvation arising from them is interpretively broad; it could reflect later Israelite institutions (kingship/priesthood) or a more specific eschatological hope, but the text does not specify details.",
+  "createdAt": "2026-01-31T00:14:24.179Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

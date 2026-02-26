@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.48",
+  "briefOverview": "Pharaoh’s disturbing dreams prompt a kingdom-wide search for a true interpretation, culminating in Joseph’s divinely attributed explanation and practical plan for surviving an impending famine.",
+  "summary": "After Isaac’s death, a divinely caused famine begins to affect the whole earth, and Pharaoh dreams of seven fat cows swallowed by seven lean cows and seven good ears of grain swallowed by seven thin, wind-blasted ears. Egypt’s magicians and wise men offer multiple interpretations (daughters, cities, dynastic conflicts, wars, queens, children), but Pharaoh rejects them as improper and threatens execution, issuing proclamations that intensify the crisis. The text attributes the failure and confusion of the sages to the Lord’s purpose to bring Joseph out of confinement and elevate him. The chief butler (Merod) recalls Joseph’s accurate interpretations in prison and urges Pharaoh to summon him, halting the slaughter of the wise men. Joseph, brought from the dungeon, credits God with interpretations, explains the two dreams as one message: seven years of plenty followed by seven years of severe famine, and advises centralized administration and storage. To confirm his reliability, Joseph predicts an immediate sign involving Pharaoh’s children—birth of a son that day and the death of the firstborn—and the sign occurs, persuading Pharaoh that Joseph’s words are true.",
+  "externalContext": "The “Book of Jasher” (Sefer haYashar) is an extra-biblical work associated in later tradition with narratives from Genesis–Joshua; the commonly circulated printed form is medieval/early modern and is not part of the Jewish or most Christian biblical canons. This chapter parallels the Joseph story set in an Egyptian royal court where dream interpretation and court “wise men” function as tools of statecraft. The emphasis on administrative preparation (officials, storage, taxation/collection) reflects a common ancient Near Eastern concern with managing cyclical agricultural risk, especially for river-based economies.",
+  "externalReferences": "This chapter closely parallels the canonical Joseph narrative in Genesis 41:1–36, including Pharaoh’s paired dreams of cows and ears of grain, the inadequacy of the magicians’ interpretations, Joseph’s claim that interpretation belongs to God, and the forecast of seven years of plenty followed by seven years of famine. The butler’s remembrance of Joseph echoes Genesis 41:9–13, where the cupbearer recounts Joseph’s accurate prison interpretations. The chapter’s theme of God frustrating the wise to accomplish a larger purpose resonates more broadly with texts that portray divine sovereignty over human counsel (e.g., Isaiah 19:11–14), though the immediate narrative alignment is most direct with Genesis 41.",
+  "seeAlso": [
+    "Genesis 41:1-36",
+    "Genesis 40:1-23",
+    "Isaiah 19:11-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Pharaoh dreams; court convenes"
+    },
+    {
+      "range": "16-29",
+      "title": "Failed interpretations; threatened purge"
+    },
+    {
+      "range": "30-66",
+      "title": "Joseph interprets; sign confirmed"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Dream interpretation",
+    "Wisdom and authority",
+    "Famine and provision",
+    "Rise of Joseph"
+  ],
+  "practicalQuestions": [
+    "When “expert” opinions diverge or prove unreliable, what criteria (integrity, track record, accountability) should guide whose counsel we trust?",
+    "How does Joseph’s insistence that “interpretations belong to God” shape a healthy posture toward personal gifts, insight, or professional competence today?",
+    "What long-range planning practices (saving, shared reserves, contingency plans) can individuals or communities adopt during times of “plenty” to prepare for likely hardship?",
+    "Where might fear-driven leadership (threats, scapegoating, sweeping punishments) be causing harm in our contexts, and what would a more measured response look like?",
+    "How do we discern when a crisis may be an opportunity to elevate overlooked or marginalized people with proven character and skill?"
+  ],
+  "uncertainAreas": "External dating and provenance of the printed Book of Jasher vary across editions; I kept background general and avoided precise claims. The chapter’s details about Egypt’s “seventy languages” and the throne’s steps are difficult to corroborate historically and may be literary embellishment; I treated them as narrative features rather than verified historical custom. The identification of the chief butler as “Merod” differs from Genesis and may be tradition-specific; I did not attempt to harmonize beyond noting the parallel role.",
+  "createdAt": "2026-01-30T23:39:47.027Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

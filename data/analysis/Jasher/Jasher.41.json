@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.41",
+  "briefOverview": "This chapter moves from Jacob’s family settling near Hebron and Leah’s death to the escalating conflict between Joseph and his brothers, culminating in Joseph being thrown into a pit.",
+  "summary": "Jacob’s household relocates from Shechem to Hebron to dwell near Isaac, though the flocks continue to pasture in Shechem. Leah dies in Hebron and is buried in the cave of Machpelah, and Jacob’s family becomes widely known for strength in the land. Joseph, favored by Jacob and given a special garment, exalts himself and reports negatively about his brothers, deepening their hatred. Joseph relates two dreams implying his preeminence; Jacob alternates between blessing/keeping the matter in mind and rebuking Joseph in front of the brothers, while the brothers’ jealousy intensifies. When the brothers delay while pasturing, Jacob sends Joseph to check on them; Joseph becomes lost but is redirected by an angel to Dothan. The brothers plot to kill Joseph, but Reuben persuades them to throw him into a pit instead, intending to rescue him later. Joseph is cast into a pit containing serpents and scorpions, yet God protects him, and his pleas for mercy are ignored as the brothers withdraw to avoid hearing his cries.",
+  "externalContext": "The Book of Jasher is an ancient-sounding retelling/expansion of biblical narratives; the version commonly circulated in English is generally treated by modern scholarship as a later composition rather than part of the Jewish or Christian biblical canons. The chapter’s settings (Hebron, Shechem, Dothan) are locales in the central/southern Levant that also appear in Genesis narratives about the patriarchs. “Machpelah” is traditionally identified as the ancestral burial site associated with the patriarchal family in Hebron.",
+  "externalReferences": "This chapter closely parallels the Joseph narrative in Genesis, including Jacob’s preference for Joseph, Joseph’s dreams, his being sent to check on his brothers, and the brothers’ plot leading to Joseph being put into a pit (Genesis 37:3–28). Leah’s burial in the cave of Machpelah connects to broader Genesis traditions about the patriarchal burial place (Genesis 49:31; Genesis 23:17–20). The mention of an angel directing Joseph echoes the biblical detail of a “man” who finds Joseph wandering and points him to Dothan (Genesis 37:15–17), here explicitly identified as an angel.",
+  "seeAlso": [
+    "Genesis 23:17-20",
+    "Genesis 37:3-28",
+    "Genesis 49:31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Settlement and Leah’s burial"
+    },
+    {
+      "range": "5-17",
+      "title": "Favoritism and troubling dreams"
+    },
+    {
+      "range": "18-34",
+      "title": "Joseph sent and seized"
+    }
+  ],
+  "themes": [
+    "Family favoritism",
+    "Jealousy and hatred",
+    "Dreams of rule",
+    "Providential protection",
+    "Betrayal of a brother"
+  ],
+  "practicalQuestions": [
+    "How might unequal treatment within a family or community (real or perceived) fuel resentment, and what practices could reduce that harm?",
+    "When receiving praise or success, what does this chapter suggest about the dangers of self-exaltation in relationships?",
+    "How should one respond when private hopes or “dreams” about the future provoke tension—what is wise to share, and with whom?",
+    "What does Reuben’s partial intervention imply about the difference between limiting harm and actively doing what is right?",
+    "In moments when you feel abandoned or unheard (as Joseph in the pit), what resources—spiritual, communal, or practical—help you endure and seek help?"
+  ],
+  "uncertainAreas": "The chapter’s chronology (Jacob’s age, timing since Padan-aram, Leah’s age) cannot be confidently harmonized here without relying on external chronological systems; I therefore did not attempt to reconcile it. Also, identifying the pit’s “serpents and scorpions” as literal versus rhetorical intensification is ambiguous, though the text presents them as real and divinely restrained.",
+  "createdAt": "2026-01-30T23:37:20.227Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

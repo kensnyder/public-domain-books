@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jasher.36",
+  "briefOverview": "This chapter traces Jacob’s return to Bethel and then to Hebron, marked by divine reaffirmation, family deaths, and the reordering of inheritance roles among Jacob’s sons. It also pivots to Esau’s settlement in Seir and extensive genealogies, including a striking etiological tale about Anah.",
+  "summary": "God instructs Jacob to go to Bethel, where Jacob builds an altar and remains for a time. During this period Deborah (Rebekah’s nurse) dies, and Rebekah also dies in Hebron; Jacob mourns and names the mourning site Allon-bachuth.\n\nThe text reports Laban’s death as divine punishment for breaking covenant, and then describes another divine appearance to Jacob in which he is blessed and called Israel; Rachel conceives. On the journey toward Hebron, Rachel dies in childbirth near Ephrath (Bethlehem), and Jacob names the child Benjamin and sets a pillar over Rachel’s grave.\n\nAfter Rachel’s death, Jacob pitches his tent in Bilhah’s tent; Reuben reacts in jealousy for Leah and interferes with his father’s bed, leading to the loss of Reuben’s birthright and the distribution of privileges: birthright to Joseph, kingship to Judah, priesthood to Levi. The chapter then lists Jacob’s twelve sons and recounts Jacob’s dwelling with Isaac in Hebron, while Esau relocates to Seir.\n\nA long genealogy of Esau and Seir follows, including the account of Anah encountering frightening hybrid creatures that seize his father’s asses, after which the family avoids that area. The chapter closes by emphasizing Esau’s prosperity in Seir and Jacob’s continued residence in Canaan in line with the command given to Abraham.",
+  "externalContext": "The “Book of Jasher” is best known today from later works transmitted in medieval Jewish circles and early modern printings; it is not the same as the lost ancient “Book of Jashar” referenced in the Hebrew Bible (e.g., Joshua 10:13). Many readers treat it as a later retelling/expansion of Genesis traditions rather than as part of the biblical canon.\n\nPlace-names such as Bethel/Luz, Hebron/Kiriath-arba, Machpelah, and Ephrath/Bethlehem correspond to locations central to Genesis’ ancestral narratives, and they function as memory-markers that anchor family stories to sacred geography. Genealogies like those of Esau and Seir commonly served to explain ethnic relationships, territorial claims, and later political groupings (e.g., “dukes”) in the southern Levant and Edom/Seir regions.",
+  "externalReferences": "Jacob’s command to go to Bethel, his altar-building, and the naming of Jacob as Israel closely parallel Genesis 35:1–15, including the notice of Deborah’s death (Genesis 35:8). Rachel’s death near Ephrath/Bethlehem and the pillar over her grave aligns with Genesis 35:16–20.\n\nReuben’s profaning of his father’s bed recalls Genesis 35:22, while the idea that Joseph receives a form of “birthright” resonates with 1 Chronicles 5:1–2; Jacob’s later blessings also elevate Judah and Levi in distinct ways (Genesis 49:8–12; Genesis 49:5–7; Exodus 32:25–29). The Esau/Seir genealogies echo the catalog in Genesis 36:1–43, though this chapter includes additional narrative elaboration (e.g., Anah’s frightening encounter).",
+  "seeAlso": [
+    "Genesis 35:1-29",
+    "Genesis 36:1-43",
+    "Genesis 49:1-28",
+    "1 Chronicles 5:1-2",
+    "Exodus 32:25-29",
+    "Joshua 10:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Bethel, blessing, and loss"
+    },
+    {
+      "range": "13-19",
+      "title": "Reuben’s offense; sons listed"
+    },
+    {
+      "range": "20-38",
+      "title": "Esau and Seir genealogies"
+    }
+  ],
+  "themes": [
+    "Divine guidance",
+    "Mourning and memory",
+    "Inheritance and leadership",
+    "Covenant consequences",
+    "Genealogy and land"
+  ],
+  "practicalQuestions": [
+    "What practices (like Jacob’s altar and memorial pillar) help you remember moments of deliverance, grief, or major transition without becoming trapped in the past?",
+    "When family conflict arises from jealousy or perceived displacement (as with Reuben), what concrete steps can you take to address it before it becomes destructive?",
+    "How do you think about accountability in relationships—what does this chapter suggest about the long-term effects of breaking covenant commitments?",
+    "In what ways do family histories and “origin stories” (genealogies, migrations, place-names) shape your identity and responsibilities today?"
+  ],
+  "uncertainAreas": "The identity of the “keephas” and “ducheephath,” and what the “Yemim” are (v.28) are unclear and may reflect transliteration issues or legendary motifs; the narrative intent could be etiological (explaining a name/event) rather than reporting literal zoology. The precise meaning of Jacob pitching his tent “in the tent of her handmaid Bilhah” (v.13) is ambiguous in this retelling and may compress or reinterpret the biblical account (Genesis 35:22). The statement that God smote Laban for transgressing a covenant (v.7) is not stated in Genesis in that causal form, so its source and intended emphasis are uncertain.",
+  "createdAt": "2026-01-30T23:35:36.337Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

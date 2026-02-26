@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.7",
+  "briefOverview": "This chapter traces post-flood genealogies from Noah’s sons and then shifts to an extended narrative about Nimrod’s rise to power, his idolatry, and the setting in which Abram is born.",
+  "summary": "The text lists descendants of Japheth, Ham, and Shem, including approximate counts of men in each line, presenting an early map of families after the flood.\n\nIt then traces Shem’s line through Arpachshad, Shelach, and Eber, explaining the names of Peleg (linked to “division” of humanity/earth) and Yoktan (linked to shortened human lifespans). Yoktan’s sons are enumerated, and the genealogy proceeds through Peleg to Terah.\n\nA narrative follows about Cush’s son Nimrod, including a tradition that “garments of skin” originally made for Adam and Eve were passed down, stolen by Ham, and ultimately given to Nimrod. When Nimrod wears them, he becomes exceptionally strong, a “mighty hunter,” builds altars, wins battles for his kin, and is crowned king.\n\nNimrod establishes rulers under him, appoints Terah as commander, and builds a capital city called Shinar, drawing nations to submit to him while humanity shares one language. Despite his success, Nimrod is portrayed as turning from the Lord into idolatry and leading others astray; his son Mardon is depicted as even more wicked, generating a proverb about wickedness producing wickedness.\n\nThe chapter concludes by returning to Terah, naming his wife and reporting the birth of Abram, whose name is linked here to the king’s honoring of Terah.",
+  "externalContext": "The “Book of Jasher” is best known from later Jewish legendary expansions on Genesis narratives; the version commonly circulated in English is not the same work as the “Book of Jashar” mentioned in the Hebrew Bible. Its genealogical framework parallels the “Table of Nations” tradition (a schematic linking peoples to Noah’s sons), a common ancient way of explaining ethnic and geographic relationships.\n\n“Shinar” is a biblical name associated with Mesopotamia/Babylonia; ancient Near Eastern kingship ideologies often celebrated rulers as conquerors, city-builders, and organizers of officials—motifs echoed here in Nimrod’s enthronement and administration.\n\nThe story of special antediluvian “garments” passed down through patriarchs reflects a broader stream of post-biblical lore that amplifies brief biblical notices into symbolic narratives about authority, blessing, or power.",
+  "externalReferences": "The genealogy of Noah’s sons and many of the listed names broadly correspond to the Table of Nations and Shem’s line in Genesis (Genesis 10:1–32; 11:10–26), though this chapter includes additional names and headcounts not found there.\n\nThe note that “all the earth was of one tongue” and the placement of a centralized power in Shinar aligns with the setting of the Tower of Babel narrative (Genesis 11:1–9), and Nimrod’s association with Shinar echoes Genesis’ brief depiction of his kingdom’s beginnings there (Genesis 10:8–12).\n\nThe “garments of skin” allude to the clothing God made for Adam and Eve after the fall (Genesis 3:21), here expanded into a transmission narrative that culminates in Nimrod’s empowerment.",
+  "seeAlso": [
+    "Genesis 3:21",
+    "Genesis 10:1-32",
+    "Genesis 10:8-12",
+    "Genesis 11:1-9",
+    "Genesis 11:10-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-18",
+      "title": "Nations from Noah’s sons"
+    },
+    {
+      "range": "19-22",
+      "title": "Shem’s line to Terah"
+    },
+    {
+      "range": "23-51",
+      "title": "Nimrod, Shinar, Abram’s birth"
+    }
+  ],
+  "themes": [
+    "Genealogies",
+    "Kingship and empire",
+    "Idolatry",
+    "Human division",
+    "Ancestral lineage"
+  ],
+  "practicalQuestions": [
+    "How should success, strength, or leadership be evaluated when the text portrays a powerful ruler as morally corrupt and spiritually rebellious?",
+    "What “inheritances” (values, habits, stories) am I passing on—or receiving—that might shape others for good or ill, as the chapter depicts both transmission and theft of what is considered valuable?",
+    "When a community desires unity (“one tongue and words of union”), what safeguards help ensure unity is directed toward just and faithful ends rather than toward oppression or idolatry?",
+    "What kinds of proverbs or sayings circulate in my environment that normalize wrongdoing (“from the wicked goeth forth wickedness”), and how might I resist or reframe them?"
+  ],
+  "uncertainAreas": "The chapter’s explanations of Peleg and Yoktan (“division” of men/earth; diminished lifespans) are suggestive but not fully clear about whether the division is geographic, linguistic, political, or eschatological (“in the latter days”). The narrative about the garments of skin being passed from Adam to Nimrod is not directly corroborated within the chapter beyond its own claim, and its intended symbolism (legitimacy, hunting prowess, divine favor) is implied rather than stated. The etymology given for “Shinar” (as if meaning the Lord ‘shook’ enemies) is uncertain, and may reflect internal wordplay rather than historically grounded derivation.",
+  "createdAt": "2026-01-30T23:25:27.061Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

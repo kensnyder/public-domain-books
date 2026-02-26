@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Jasher.1",
+  "briefOverview": "This chapter retells early humanity’s beginnings—creation, life in Eden, and the first disobedience—then traces the first family conflict culminating in Abel’s murder and Cain’s judgment. It highlights how divine command, human choice, and accountability shape the world outside Eden.",
+  "summary": "God creates Adam in the divine image, gives him life, and then creates Eve as a companion; the pair are blessed with fruitfulness and placed in Eden with a single prohibition regarding the tree of the knowledge of good and evil. A serpent persuades the woman to eat the forbidden fruit, and she also gives it to Adam; God responds in anger, curses them, and expels them from Eden to toil the ground. Outside the garden, Eve bears children including Cain and Abel; they take up farming and shepherding. Both offer gifts to God, but Abel’s is accepted (consumed by fire), while Cain’s is rejected because it is described as inferior; jealousy grows into conflict. After a dispute in the field, Cain kills Abel, then buries him; God confronts Cain, declares that Abel’s blood “crieth” from the ground, and curses Cain to frustrated labor and wandering. Cain departs east of Eden, later fathers Enoch, builds a city named for him, and a brief genealogy continues through several generations.",
+  "externalContext": "The “Book of Jasher” is known from later Jewish and early modern traditions as a work that retells biblical history in an expanded narrative style; the text circulated in different forms and is not part of the Jewish or most Christian biblical canons. Many of its episodes closely parallel Genesis while adding dialogue and explanatory details, reflecting the broader ancient and medieval practice of rewriting scripture with interpretive expansions (often called “rewritten Bible” in scholarship). The Eden, Cain–Abel, and early genealogy material belongs to the primeval-history cycle that ancient Near Eastern audiences commonly associated with origins of agriculture, mortality, violence, and city-building.",
+  "externalReferences": "The chapter closely parallels Genesis 1:26–31 and 2:7, 18–25 in its account of humanity’s creation in God’s image, Adam formed from the ground, and Eve made as a companion from Adam’s rib. The temptation and expulsion narrative aligns with Genesis 3:1–24, including the serpent’s role and the banishment to toil the soil. The offerings, jealousy, murder, and divine interrogation echo Genesis 4:1–16 (notably “Am I my brother’s keeper?” and the motif of blood crying from the ground), while the city of Enoch and genealogy correspond to Genesis 4:17–18.",
+  "seeAlso": [
+    "Genesis 1:26-31",
+    "Genesis 2:7-25",
+    "Genesis 3:1-24",
+    "Genesis 4:1-18",
+    "Hebrews 11:4",
+    "1 John 3:11-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Creation and Eden command"
+    },
+    {
+      "range": "9-12",
+      "title": "Transgression and expulsion"
+    },
+    {
+      "range": "13-36",
+      "title": "Cain, Abel, and aftermath"
+    }
+  ],
+  "themes": [
+    "Creation in God’s image",
+    "Disobedience and exile",
+    "Accepted worship",
+    "Jealousy and violence",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "What boundaries or commands in my life function like the Eden prohibition, and how do I respond to them when tempted?",
+    "In the text, Cain’s offering is rejected as “inferior”—what might integrity and care in worship or work look like today?",
+    "Where do I notice jealousy beginning to shape my thoughts or speech, and what steps could interrupt its progression toward harm?",
+    "Cain tries to evade responsibility (“Am I my brother’s keeper?”); what responsibilities toward others am I tempted to deny or minimize?",
+    "How does the chapter link violence to the land (blood crying from the ground, cursed soil), and what might that suggest about the wider consequences of personal wrongdoing?"
+  ],
+  "uncertainAreas": "The precise provenance and dating of this Jasher form are uncertain, so external-context claims are kept general. The chapter’s explanation for Cain’s rejection (“inferior fruit”) is explicit here but differs in emphasis from some biblical interpretations; I treated it as this text’s stated rationale. The genealogy endpoint in v.36 is partial, making it unclear whether the chapter intends a complete lineage or a transition to later material.",
+  "createdAt": "2026-01-30T23:23:19.135Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "TDan.1",
+  "briefOverview": "Dan, nearing death, warns his children against anger and lying, presenting them as spiritually blinding forces that lead to cruelty and ruin. He frames truth, just dealing, and longsuffering as pleasing to God and protective of community life.",
+  "summary": "Dan gathers his family and teaches that truthful, just conduct pleases God, while lying and anger nurture “all wickedness.”\n\nHe confesses that jealousy and vainglory once led him to approve Joseph’s sale and to contemplate killing him, describing this impulse as stirred by “spirits” associated with Beliar and anger. Dan credits “the God of my fathers” with preventing him from murdering Joseph and thereby bringing further destruction on Israel.\n\nHe then argues that anger functions like blindness: it distorts perception, turns even close relationships hostile, and works together with deceit and hatred to produce envy. Anger, he says, can take mastery over a person—using the body to commit injustice and then leading the soul to rationalize what was done.\n\nDan gives practical counsel: do not react angrily to insults; do not become proud or emotionally volatile when praised; and do not let losses (voluntary or involuntary) become fuel for vexation. He concludes that wrath joined with lying continually disturbs the soul until the Lord departs and Beliar rules.",
+  "externalContext": "The Testament of Dan is part of the Testaments of the Twelve Patriarchs, a Jewish work preserved largely in Greek and commonly dated (in its extant form) to the late Second Temple period, with later Christian transmission and possible Christian editorial features in some manuscripts. The work adopts a “farewell discourse” genre: a patriarch near death gathers descendants, reviews past failures, and offers moral exhortation for the future. Its language about hostile spiritual forces (e.g., Beliar) reflects apocalyptic-style moral psychology found in some Second Temple Jewish literature.",
+  "externalReferences": "Dan’s confession about jealousy toward Joseph and rejoicing in his sale closely aligns with the Genesis narrative of Joseph’s brothers envying him and selling him into slavery (Genesis 37:11, 28).\n\nThe warning that anger alienates one even from parents and siblings echoes wisdom and ethical instruction found elsewhere in biblical literature, such as admonitions to avoid wrath and deceit (e.g., Proverbs 14:29; Proverbs 12:22). The figure “Beliar” as an embodiment of lawlessness is also prominent in Second Temple texts such as the Dead Sea Scrolls’ dualism of spirits (e.g., 1QS 3:13–4:26, where “Belial” opposes truth).",
+  "seeAlso": [
+    "Genesis 37:11-28",
+    "Proverbs 12:22",
+    "Proverbs 14:29",
+    "1QS 3:13-4:26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Confession and final warning"
+    },
+    {
+      "range": "11-20",
+      "title": "Anger’s blindness and deceit"
+    },
+    {
+      "range": "21-27",
+      "title": "Counsel against wrath"
+    }
+  ],
+  "themes": [
+    "Truthfulness",
+    "Anger as blindness",
+    "Jealousy and envy",
+    "Spiritual conflict",
+    "Longsuffering"
+  ],
+  "practicalQuestions": [
+    "Where do I most rationalize anger as “justified,” and what would it look like to seek truth instead of self-justification?",
+    "How do praise and criticism affect my emotional control, and what practices help me remain steady rather than reactive?",
+    "When I experience loss or disappointment, do I use it as fuel for resentment—how can I respond without “vexation” becoming wrath?",
+    "Are there relationships in which anger has made me treat someone like an enemy; what steps would repair begin with (truth-telling, apology, patience)?"
+  ],
+  "uncertainAreas": "Dating and compositional history of the Testaments of the Twelve Patriarchs are debated; I gave a cautious, commonly cited Second Temple context without asserting a single definitive date. The reference to 1QS reflects thematic overlap (truth vs. Belial) rather than a direct quotation; the text does not explicitly cite it.",
+  "createdAt": "2026-01-31T00:12:23.851Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

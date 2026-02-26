@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "AscIsa.1",
+  "briefOverview": "A prophetic commission recounting Isaiah’s transmission of visions about judgment, the corruption of Manasseh, and Isaiah’s foretold suffering.",
+  "summary": "In Hezekiah’s twenty-sixth year the king summons his son Manasseh before Isaiah and Josab so Isaiah can deliver words about eternal judgment, Gehenna, the prince of this world, and the fate of the righteous. Isaiah declares that earlier visions (from Hezekiah’s fifteenth year and the prophet’s twentieth year) and written records have been preserved by a scribe named Samnas. He prophesies that Manasseh will undo Hezekiah’s reforms, be inhabited by demonic powers (Sammael/Malchira and Beliar), lead many in Judah into apostasy, and that Isaiah himself will be sawn asunder by Manasseh’s hands. Hezekiah reacts with bitter mourning and even resolves to kill his son, but Isaiah responds that the Beloved has frustrated Hezekiah’s plan and affirms his own calling and inheritance with the Beloved.",
+  "externalContext": "The Ascension of Isaiah is an ancient Jewish pseudepigraphon with layers likely formed in the late Second Temple or early post‑exilic period; it preserves traditions about biblical figures that expand on canonical narratives. Hezekiah (c. late 8th century BCE) and his son Manasseh are historical Judean kings whose reigns are recounted in 2 Kings and 2 Chronicles; Manasseh in those accounts is associated with idolatry and religious decline. Names like Sammael (Samael) and Beliar (Belial) reflect developing Jewish demonology in extracanonical literature.",
+  "externalReferences": "The chapter connects to the biblical accounts of Hezekiah’s illness and his reignal context (see 2 Kings 20) and to the negative portrait of Manasseh’s reign found in 2 Kings 21 and 2 Chronicles 33, which describe idolatry and the corruption of Judah. The prophetic martyrdom motif (a prophet ‘sawn in two’) finds a later echo in Hebrews 11:37, which lists prophets persecuted and put to death; the names Sammael/Samael and Belial/Beliar are attested in other Jewish apocryphal and pseudepigraphal texts as demonic figures.",
+  "seeAlso": [
+    "2 Kings 20:1",
+    "2 Kings 21:1-18",
+    "2 Chronicles 33",
+    "Hebrews 11:37"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Call and Records"
+    },
+    {
+      "range": "6-13",
+      "title": "Prophecy Against Manasseh"
+    }
+  ],
+  "themes": [
+    "Prophecy",
+    "Judgment",
+    "Apostasy",
+    "Martyrdom"
+  ],
+  "practicalQuestions": [
+    "How should religious communities respond when leaders or successors appear likely to reverse ethical or spiritual reforms?",
+    "What criteria should guide discernment of alleged prophetic warnings in the life of a community or family?",
+    "How can believers reconcile distressing prophetic predictions with trust in divine sovereignty when human plans fail?",
+    "What responsibilities do those in positions of power have to prevent the spread of harmful influences in their communities?"
+  ],
+  "uncertainAreas": "Uncertainties include the precise identity and role of figures named Samnas and Josab, the dating and compositional layers of this chapter within the Ascension of Isaiah, and whether the report that Isaiah will be 'sawn asunder' is intended as a literal historical claim or a symbolic motif later associated with prophetic martyrdom.",
+  "createdAt": "2026-01-30T22:57:56.765Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

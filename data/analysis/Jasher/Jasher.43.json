@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jasher.43",
+  "briefOverview": "Jacob’s sons attempt to conceal Joseph’s sale by staging evidence of his death, triggering Jacob’s prolonged grief. The chapter culminates in an extraordinary scene where a captured wolf speaks to deny guilt and mirror Jacob’s sorrow.",
+  "summary": "After selling Joseph, Jacob’s sons feel remorse and unsuccessfully search for him; Reuben returns to the pit, finds it empty, and panics about facing their father. The brothers swear an oath of secrecy, threatening death to anyone who reveals the truth, and they devise a deception: they tear Joseph’s coat, dip it in a slain goat’s blood, and send it to Jacob via Naphtali with a rehearsed story. Jacob recognizes the coat, concludes that an “evil beast” has devoured Joseph, and erupts into extended lamentation, self-blame, and refusal of comfort as the household mourns and Isaac comes to console him. Jacob orders his sons to search for Joseph’s body and to capture the first wild animal they find, hoping to avenge Joseph. They bring a wolf, and Jacob accuses it, but God opens the animal’s mouth; it claims innocence and says it too is searching for its missing son. Astonished, Jacob releases the wolf, yet continues mourning Joseph for many days.",
+  "externalContext": "The Book of Jasher (Sefer ha-Yashar) is generally known as a later retelling or expansion of biblical narratives rather than part of the Hebrew Bible canon, and it often elaborates scenes with additional dialogue and dramatic motifs. Retellings like this were common in Jewish interpretive tradition, expanding brief biblical episodes to explore motives (e.g., remorse, oaths) and to heighten moral or theological lessons. In ancient Near Eastern storytelling, speaking animals are a recognized literary motif used to deliver irony, instruction, or consolation, though such features are not typical of the Genesis Joseph narrative itself.",
+  "externalReferences": "The core plot closely parallels Genesis 37:12–35, where Joseph’s brothers present Jacob with Joseph’s bloodied garment, leading Jacob to conclude a wild animal killed him and to refuse comfort. Reuben’s distress and torn garments align with Genesis 37:29–30, and the goat’s blood deception echoes Genesis 37:31–33. Jacob’s prolonged mourning in this chapter corresponds to the statement that he mourned “many days” and would not be comforted (Genesis 37:34–35).",
+  "seeAlso": [
+    "Genesis 37:12-35",
+    "Genesis 37:29-33",
+    "Genesis 37:34-35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Remorse and secrecy oath"
+    },
+    {
+      "range": "13-35",
+      "title": "The coat and Jacob’s grief"
+    },
+    {
+      "range": "36-48",
+      "title": "Hunt, wolf, and release"
+    }
+  ],
+  "themes": [
+    "Deception",
+    "Guilt and remorse",
+    "Grief and lament",
+    "Providence"
+  ],
+  "practicalQuestions": [
+    "What “oaths of silence” or group pressures can keep people complicit in wrongdoing, and how might integrity break that cycle?",
+    "How does the chapter portray the ripple effects of a single deception on family relationships and communal life?",
+    "In Jacob’s lament, where do you see healthy grief versus potentially harmful self-blame, and how might that inform how we mourn today?",
+    "What might the speaking wolf scene suggest about misdirected anger and the need to verify blame before seeking vengeance?"
+  ],
+  "uncertainAreas": "The intent and meaning of the speaking wolf episode are not explicitly explained in the text; it may function as consolation, irony, or a mirror of Jacob’s loss, but the chapter does not state its purpose directly. The statement that the wolf has never eaten human flesh is also difficult to interpret literally versus as a literary device.",
+  "createdAt": "2026-01-30T23:38:04.219Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

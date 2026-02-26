@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.16",
+  "briefOverview": "This chapter centers on Abram’s rescue of Lot after a regional war and Abram’s refusal to profit from Sodom’s spoil, followed by God’s renewed promise to bless Abram’s descendants and the beginnings of conflict around Sarai, Hagar, and the birth of Ishmael.",
+  "summary": "A coalition led by Chedorlaomer wages war against Sodom and its allied cities, defeats them in the valley of Siddim, and carries off goods and captives, including Lot. Abram learns of Lot’s capture, pursues the kings by night with 318 men, defeats them, and recovers Lot and the stolen property. On Abram’s return, the king of Jerusalem (identified here as Adonizedek/Shem) blesses Abram with bread and wine, and Abram gives him a tenth of the spoil; Abram then refuses to take anything from Sodom’s recovered wealth so that Sodom cannot claim to have made him rich, allowing only provisions and fair shares for his allies. God appears to Abram in Hebron to reassure him and reaffirm promises of innumerable descendants and land, calling him to fearlessness and integrity. The narrative then turns to Sarai’s barrenness: she gives Hagar (given to her by Pharaoh) to Abram as a wife, Hagar conceives and despises Sarai, Sarai afflicts her, and Hagar flees. An angel finds Hagar at a well, promises multiplied offspring, instructs her to return and submit, and announces the birth and name of her son Ishmael; Hagar returns and bears Ishmael when Abram is eighty-six.",
+  "externalContext": "The Book of Jasher is an ancient Jewish work known from later manuscripts and is not part of the Hebrew Bible’s canonical collection; it often retells and expands narratives found in Genesis with additional details. In the ancient Near East, vassalage and rebellion among city-states and regional rulers were common, as were punitive campaigns and taking captives and spoil after victory. Practices reflected in the chapter—such as giving a handmaid to bear children for an infertile wife and naming wells/places after significant encounters—fit broader ancient customs attested in Near Eastern legal and narrative traditions.",
+  "externalReferences": "The war of the kings and Abram’s rescue of Lot closely parallels Genesis 14:1–16, including the pursuit with 318 men and recovery of captives and goods. The blessing by the king-priest of Jerusalem and Abram’s giving of a tenth resembles Genesis 14:18–20, and Abram’s refusal to take Sodom’s goods echoes Genesis 14:21–24. God’s reassurance and promise of descendants like the stars and the call to “walk before me and be perfect” align with Genesis 15:1–5 and Genesis 17:1. Sarai’s giving of Hagar, Hagar’s flight, the angelic encounter at a well, and the naming of Ishmael correspond to Genesis 16:1–16.",
+  "seeAlso": [
+    "Genesis 14:1-24",
+    "Genesis 15:1-6",
+    "Genesis 16:1-16",
+    "Genesis 17:1-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "War and Lot’s rescue"
+    },
+    {
+      "range": "20-21",
+      "title": "Promise and reassurance"
+    },
+    {
+      "range": "23-36",
+      "title": "Hagar, flight, and Ishmael"
+    }
+  ],
+  "themes": [
+    "Deliverance in conflict",
+    "Integrity with wealth",
+    "Covenant promises",
+    "Barrenness and surrogate birth",
+    "Divine guidance"
+  ],
+  "practicalQuestions": [
+    "When helping others in crisis, how can I act decisively without seeking personal gain or credit (cf. Abram’s refusal of Sodom’s goods)?",
+    "What boundaries or principles should guide my use of resources or rewards that come through morally compromised sources?",
+    "How do jealousy and perceived status shifts (as between Sarai and Hagar) distort relationships, and what steps can I take to address conflict without oppression?",
+    "In situations where I feel driven into isolation or flight (like Hagar), what practices help me seek guidance and return to responsible commitments?",
+    "What does “do not fear…walk before me and be perfect” suggest about integrity and courage in my current responsibilities?"
+  ],
+  "uncertainAreas": "Jasher’s identification of the Jerusalem king as “Adonizedek…the same was Shem” differs from the more common biblical naming (Melchizedek) and later interpretive traditions; it is unclear whether this is a variant name, a harmonizing move, or a separate tradition. The very large troop count (“about eight hundred thousand men”) may be rhetorical or traditional rather than historical, but the text itself does not clarify.",
+  "createdAt": "2026-01-30T23:28:34.438Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

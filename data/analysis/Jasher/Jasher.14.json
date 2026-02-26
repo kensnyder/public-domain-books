@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.14",
+  "briefOverview": "A poor but clever foreigner, Rikayon, rises to power in Egypt through an exploitative scheme tied to burial practices. The chapter explains how he gains favor with the king and becomes the prototype for the royal title “Pharaoh.”",
+  "summary": "Rikayon, a wise but impoverished man from Shinar, travels to Egypt hoping to gain support from King Oswiris. Learning that the king is publicly accessible only one day each year, Rikayon struggles to survive and is mocked and robbed when he tries to sell vegetables. He then devises a scheme: he hires armed men to control a sepulchre and claims “Thus saith the king,” demanding 200 pieces of silver before anyone may be buried, thereby amassing wealth. When the king finally appears, the Egyptians complain that the king is taxing not only the living but even the dead, and Oswiris—unaware of the policy—becomes angry and summons Rikayon. Rikayon arrives with lavish gifts (including richly dressed children and treasure), speaks wisely, and wins favor, so the king renames him “Pharaoh” (explained as linked to taxing the dead) and the people make him prefect who administers daily justice while the king judges only annually. Rikayon then consolidates power, taxes all inhabitants, and the Egyptians decree that future kings will bear the title “Pharaoh.”",
+  "externalContext": "The “land of Shinar” is a biblical geographic term typically associated with southern Mesopotamia (often linked with Babylonia in Genesis traditions). Ancient Egyptian kingship was surrounded by elaborate court protocol and access could be restricted, though the chapter’s claim that the king appears publicly only one day per year is not presented here as a historical record and differs from what is known of pharaonic administration. In many ancient Near Eastern societies, proper burial was a significant social and religious concern, so controlling burial access would create strong public pressure and could function like a coercive tax.",
+  "externalReferences": "The chapter’s assertion that Egyptian rulers were thereafter called “Pharaoh” echoes the biblical convention of referring to Egypt’s kings as “Pharaoh,” though the Hebrew Bible does not provide this particular origin story (e.g., Genesis 12:15; Exodus 5:1). The narrative’s use of Shinar as a point of origin evokes other texts that place major postdiluvian developments in Shinar, such as the building project at Babel (Genesis 11:1–9).",
+  "seeAlso": [
+    "Genesis 11:1-9",
+    "Genesis 12:15-20",
+    "Exodus 5:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Rikayon’s poverty and plan"
+    },
+    {
+      "range": "13-23",
+      "title": "Taxing burials and backlash"
+    },
+    {
+      "range": "24-33",
+      "title": "Renaming as Pharaoh"
+    }
+  ],
+  "themes": [
+    "Ambition and ascent",
+    "Deception and power",
+    "Taxation and injustice",
+    "Public favor",
+    "Royal authority"
+  ],
+  "practicalQuestions": [
+    "Where might I be tempted to use deception or borrowed authority (“Thus saith the king”) to get what I want?",
+    "How should communities respond when a policy exploits vulnerable moments (like grief and burial) for profit?",
+    "What safeguards can prevent charismatic, successful people from “cunningly” usurping power?",
+    "When admiration and gifts influence leaders, how can justice and accountability be maintained?",
+    "What does this story suggest about how titles and institutions can arise from morally ambiguous beginnings?"
+  ],
+  "uncertainAreas": "The etymological explanation connecting the name/title “Pharaoh” to “tax from the dead” is internal to this text and does not match standard historical-linguistic explanations; I treated it as a narrative claim rather than verified history. The chapter’s depiction of Egyptian royal custom (public appearance one day per year) and the precise legal arrangement around the sepulchre cannot be corroborated from the passage itself, so related background is stated cautiously.",
+  "createdAt": "2026-01-30T23:27:52.210Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

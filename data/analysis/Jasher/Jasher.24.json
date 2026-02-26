@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jasher.24",
+  "briefOverview": "The chapter centers on Sarah’s death and Abraham’s securing of a permanent burial property in Canaan, then moves to Abraham’s arrangements for Isaac’s marriage within his kin group.",
+  "summary": "Sarah dies at 127, and Abraham negotiates with the people of Heth to purchase the cave of Machpelah and its field from Ephron at full price, recording the transaction with named witnesses and burying Sarah with great honor and public mourning.\n\nAfter the mourning, Isaac is sent to the house of Shem and Eber for instruction, and later returns to Beersheba. The narrative then notes the deaths of Abimelech (with his young son succeeding him), Lot, and Nahor, including brief genealogical details about Lot’s descendants.\n\nWith his own death in view, Abraham commissions his servant Eliezer to find a wife for Isaac from Abraham’s family in his birthplace region, insisting Isaac must not be taken back there. Eliezer travels to Haran, prays for divine guidance, encounters Bethuel’s daughter Rebecca, and the family recognizes God’s providence and sends her with gifts to Canaan. Isaac marries Rebecca at age forty, bringing her into the tent as his wife.",
+  "externalContext": "The “children of Heth” reflects Hittite/Hethite identity as used in some biblical traditions for local Canaanite groups; burial-property negotiations and “at the gate of the city” language align with ancient Near Eastern customs where legal transactions were witnessed publicly. Written purchase records and witness lists resemble broader ancient legal practices, though the precise details here are particular to this work. The figure of Shem and Eber functioning as teachers reflects a later interpretive tradition that portrays ancestral patriarchs as repositories of divine instruction.",
+  "externalReferences": "The purchase of the cave of Machpelah as a family burial place closely parallels Genesis 23, including Abraham’s insistence on paying full price and establishing legal certainty before local inhabitants. The commissioning of a servant to find a wife for Isaac from Abraham’s kin, the prayer for guidance, and the successful betrothal of Rebekah parallels Genesis 24; however, this chapter adds distinctive details (e.g., a written deed with named witnesses and Rebekah’s age). The report of Isaac being instructed by Shem and Eber echoes a tradition found in later Jewish interpretation (often framed as the “school/house” of Shem and Eber) rather than the Genesis narrative itself.",
+  "seeAlso": [
+    "Genesis 23:1-20",
+    "Genesis 24:1-67",
+    "Genesis 25:19-20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-16",
+      "title": "Sarah’s burial purchased"
+    },
+    {
+      "range": "17-28",
+      "title": "Deaths and transitions noted"
+    },
+    {
+      "range": "29-45",
+      "title": "Rebecca chosen for Isaac"
+    }
+  ],
+  "themes": [
+    "Burial and inheritance",
+    "Covenant land claim",
+    "Providential guidance",
+    "Endogamous marriage",
+    "Legal witness and record"
+  ],
+  "practicalQuestions": [
+    "What does Abraham’s insistence on a full-price, witnessed purchase suggest about integrity and long-term responsibility in our own agreements?",
+    "How do public mourning and communal comfort in this chapter challenge or shape the way we support grieving families today?",
+    "Where might you need to seek guidance (as Eliezer prays) before making a major family or life decision?",
+    "What boundaries or convictions (like Abraham’s insistence that Isaac not return) guide your choices, and how do you articulate them to others?"
+  ],
+  "uncertainAreas": "Some details appear unique to this version of the tradition (e.g., named witnesses, the written “book of the purchase,” and Rebekah’s stated age of ten), making it difficult to determine whether they reflect a historical claim, a later interpretive expansion, or a literary emphasis on legal permanence and providence. The identity and chronology of “Abimelech king of the Philistines” and his successor within this narrative are not independently verifiable from the chapter alone.",
+  "createdAt": "2026-01-30T23:31:16.013Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

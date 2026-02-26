@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Jasher.4",
+  "briefOverview": "This chapter traces the transition from Enoch to Methuselah and portrays escalating human corruption that leads God to determine widespread destruction, while highlighting Noah as the chosen remnant.",
+  "summary": "After Enoch ascends to heaven, earthly kings anoint his son Methuselah to reign, and Methuselah teaches wisdom and the fear of God. Over time, humanity turns from the Lord into theft, violence, and rebellion, refusing Methuselah’s admonitions. In response, God’s anger is expressed through ongoing destruction and agricultural futility (failed harvests and the growth of thorns and thistles), yet the people persist in evil and God “repents” of making humanity. The narrative notes Seth’s death and the birth of Noah to Lamech’s wife, with two naming traditions attached: Methuselah calls him Noah (rest in his days), and Lamech calls him Menachem (comfort from cursed toil). As corruption deepens—idolatry, forced taking of women by rulers, and even the corrupting of animals through mixing species—God declares intent to blot out humans and animals. Those who walked in the Lord’s ways die before the announced evil comes, and Noah uniquely finds grace and is chosen with his children to preserve seed on earth.",
+  "externalContext": "The Book of Jasher is best known from later Jewish and early modern sources and is not part of the Hebrew Bible’s canonical books, though “Jasher” is mentioned in the Bible as a sourcebook (e.g., Joshua 10:13; 2 Samuel 1:18). This chapter stands within a broader ancient Near Eastern and biblical primeval-history framework in which genealogies, long lifespans, increasing violence, and a coming deluge function as theological explanations for human mortality, moral disorder, and divine judgment. The motif of a righteous figure being “taken” or translated (here Enoch) is also found in later Jewish interpretive traditions that expand brief biblical notices.",
+  "externalReferences": "The chapter closely parallels the flood prologue in Genesis, including the earth’s corruption and violence, God’s regret over making humanity, and Noah finding favor (compare Genesis 6:5–8, 11–13). The agricultural curse imagery of “thorns and thistles” echoes the Eden curse in Genesis 3:17–18, connecting pre-flood hardship to humanity’s broader rebellion. The note that Enoch lived 365 years and then ascended corresponds to Genesis 5:23–24, and the death notice for Seth corresponds to Genesis 5:6–8.",
+  "seeAlso": [
+    "Genesis 3:17-18",
+    "Genesis 5:6-8",
+    "Genesis 5:23-24",
+    "Genesis 6:5-8",
+    "Genesis 6:11-13",
+    "Joshua 10:13",
+    "2 Samuel 1:18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-3",
+      "title": "Enoch’s ascent; Methuselah reigns"
+    },
+    {
+      "range": "4-8",
+      "title": "Corruption and divine displeasure"
+    },
+    {
+      "range": "9-21",
+      "title": "Noah’s birth and chosen remnant"
+    }
+  ],
+  "themes": [
+    "Human corruption",
+    "Divine judgment",
+    "Noah’s election",
+    "Righteous instruction",
+    "Violence and injustice"
+  ],
+  "practicalQuestions": [
+    "Where do I see “violence” or exploitation (personal or systemic) in my context, and what concrete steps can I take to resist or reduce it?",
+    "How do I respond to moral warning or counsel—do I “hearken” like Methuselah urges, or rationalize continued wrongdoing?",
+    "What modern practices might parallel the chapter’s picture of rulers using power to take what they want (e.g., relationships, labor, resources), and how should accountability be pursued?",
+    "In a culture of widespread wrongdoing, what does it look like to “find grace” through integrity and faithful living, as Noah is described?"
+  ],
+  "uncertainAreas": "Authorship and dating of Jasher are historically complex; I treated it generally as a later work drawing on Genesis-like traditions without asserting a precise provenance. The meaning of the ‘mixture of animals’ detail (v.18) could be read as illicit breeding or symbolic moral disorder; the text does not specify mechanism. The statement that all who walked in the Lord’s ways died before the evil (v.20) is interpretively unclear (mercy vs. judgment), so I summarized it cautiously.",
+  "createdAt": "2026-01-30T23:24:22.680Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jasher.51",
+  "briefOverview": "Jacob sends his sons to Egypt for grain during the famine, and Joseph—unrecognized by them—engineers a test that forces them to confront their past treatment of him. The chapter highlights guilt, providence, and the beginnings of family reconciliation under pressure.",
+  "summary": "With famine pressing in Canaan, Jacob sends ten sons (not Benjamin) to Egypt to buy grain and instructs them to enter by different gates. On the way they repent of selling Joseph and resolve to find and redeem him if possible. Joseph learns they have entered through ten gates, closes all storehouses but one, and has his brothers seized when located after they spend three days searching for Joseph in the “walls of harlots.” Brought before Joseph in royal splendor, the brothers bow; Joseph accuses them of spying, probes their story, and demands proof by requiring they bring their youngest brother, while one remains confined. Simeon is chosen and, after a dramatic show of strength, is subdued and bound by Manasseh; Joseph secretly returns their money in their sacks and sends them back with grain and warnings to return with Benjamin. When they discover the restored money, fear and theological reflection intensify: Judah and Reuben interpret their distress as divine reckoning for Joseph. They return home to Jacob without Simeon and recount everything that happened in Egypt.",
+  "externalContext": "The Book of Jasher is an extra-biblical work associated in later Jewish and Christian tradition with the title “Jasher” mentioned in the Hebrew Bible; the widely circulated English “Jasher” is generally treated by scholars as a much later composition or compilation rather than a text from the patriarchal period. Its narrative here closely parallels the Joseph cycle in Genesis, expanding it with additional dialogue and scenes. In ancient Near Eastern famine crises, long-distance travel to centralized granaries under state authority (especially in Egypt) is a plausible economic backdrop, though this chapter’s details are presented through a literary-theological lens rather than as administrative record.",
+  "externalReferences": "This chapter tracks the Genesis account where Jacob sends his sons to Egypt for grain, keeps Benjamin back, and Joseph accuses them of spying and detains Simeon while demanding Benjamin be brought (Genesis 42:1–24). The brothers’ fear upon finding their money returned and their interpretation of events as divine judgment echoes Genesis 42:25–28. Joseph’s accusation that they came to “see the nakedness of the land” also reflects the language of Genesis 42:9, 12.",
+  "seeAlso": [
+    "Genesis 42:1-38",
+    "Genesis 37:18-36",
+    "Genesis 34:25-31"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Brothers sent to Egypt"
+    },
+    {
+      "range": "8-36",
+      "title": "Joseph’s test and imprisonment"
+    },
+    {
+      "range": "37-54",
+      "title": "Simeon bound, return home"
+    }
+  ],
+  "themes": [
+    "Famine and provision",
+    "Hidden identity",
+    "Guilt and repentance",
+    "Testing and truth"
+  ],
+  "practicalQuestions": [
+    "When past wrongdoing resurfaces through present pressures, do I respond with denial, fear, or honest repentance like Judah and Reuben begin to model here?",
+    "How do I balance prudent caution (Jacob withholding Benjamin) with trust and courage when my family or community faces real risk?",
+    "Do my efforts to “fix” old harm focus on restoring the person harmed (as the brothers intend for Joseph), or mainly on relieving my own guilt?",
+    "Where might my quick judgments about others’ motives (Joseph’s repeated “you are spies”) need tempering with careful listening and fair tests?"
+  ],
+  "uncertainAreas": "The phrase “walls of the harlots” and why the brothers search there is unusual compared with Genesis and may reflect a later interpretive expansion; its precise meaning (a district, a literal wall area, or a euphemism) is unclear from the text alone. The depiction of Simeon’s supernatural-sounding shriek and Manasseh’s overpowering blow reads like embellishment; it is uncertain whether it intends literal history or heightened narrative drama. Joseph’s ‘temple’ throne setting also differs in tone from Genesis’ administrative setting, and its intended nuance is not fully clear.",
+  "createdAt": "2026-01-30T23:40:52.134Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

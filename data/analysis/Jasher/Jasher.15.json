@@ -1,0 +1,39 @@
+{
+  "chapterOsisID": "Jasher.15",
+  "briefOverview": "Abram’s household enters Egypt during famine, where Sarai is endangered but divinely protected, and Abram departs enriched. Back in Canaan, growing wealth leads to conflict with Lot and their eventual separation.",
+  "summary": "A severe famine drives Abram, Sarai, Lot, and their household to Egypt, where Abram fears Egyptians will kill him to take Sarai and instructs others to call her his sister. Despite hiding Sarai in a chest, Pharaoh’s officers discover her and bring her to Pharaoh, and Abram prays while Sarai also prays for deliverance based on God’s prior guidance and promises.\n\nGod sends an angel who prevents Pharaoh from touching Sarai and afflicts Pharaoh and his household until Sarai discloses that Abram is her husband. Pharaoh rebukes Abram, returns Sarai, urges them to leave, and gives Abram additional wealth and servants, including a handmaid for Sarai.\n\nAfter returning to Canaan, tension grows between Abram’s and Lot’s herdsmen, especially because Lot’s herdsmen graze in others’ fields, drawing local complaints against Abram. Abram urges peace and separation, Lot chooses the well-watered plain of the Jordan and settles in Sodom, and Abram remains in the region of Mamre/Hebron.",
+  "externalContext": "The Book of Jasher is an ancient-style retelling/expansion of biblical narratives, known from later Jewish and early modern editions; it is not part of the Jewish or most Christian biblical canons. Stories about patriarchs traveling to Egypt during famine reflect a common ancient Near Eastern reality: Egypt’s Nile-based agriculture could make it a refuge in regional droughts. The motif of a powerful ruler taking interest in a foreigner’s wife and the household suffering plagues or divine judgment appears in multiple ancient narrative traditions, functioning to highlight divine protection and the peril of life as a resident alien.",
+  "externalReferences": "This chapter closely parallels Genesis 12:10–20, where Abram goes to Egypt during famine, presents Sarai as his sister, Pharaoh takes her, and divine plagues lead to her release and Abram’s departure with wealth. The quarrel between Abram’s and Lot’s herdsmen and their separation corresponds to Genesis 13:5–13, including Lot’s choice of the Jordan plain and his settlement near/at Sodom. The gift of a maidservant to Sarai anticipates later Genesis developments associated with Hagar in Genesis 16:1–4, though this chapter presents the handmaid as given by Pharaoh.",
+  "seeAlso": [
+    "Genesis 12:10-20",
+    "Genesis 13:5-13",
+    "Genesis 16:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-33",
+      "title": "Sarai taken, angel intervenes"
+    },
+    {
+      "range": "34-47",
+      "title": "Lot separates from Abram"
+    }
+  ],
+  "themes": [
+    "Divine protection",
+    "Fear and deception",
+    "Wealth and conflict",
+    "Peaceful separation",
+    "Life as stranger"
+  ],
+  "practicalQuestions": [
+    "When fear pressures me toward half-truths or deception, what practices help me act with integrity while still seeking safety?",
+    "How do I pray in crisis in a way that honestly names harm while also appealing to God’s commitments and character, as Sarai does?",
+    "In conflicts where my associates’ actions damage my reputation (as with Lot’s herdsmen), what boundaries or conversations are necessary?",
+    "What criteria shape my “choice of land” (Lot’s decision)—short-term advantage, moral environment, long-term consequences, or something else?",
+    "When resources and success create friction in relationships, what peacemaking steps can I take before matters escalate?"
+  ],
+  "uncertainAreas": "Jasher’s textual history and relationship to other ‘Book of Jasher’ traditions can be complex; I described it generally without pinning down a single origin. The identity of the handmaid given to Sarai is not named here; relating it to later Hagar material is suggestive but not explicit, so I framed it as anticipation rather than certainty.",
+  "createdAt": "2026-01-30T23:28:12.852Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "AscIsa.2",
+  "briefOverview": "A portrait of King Manasseh's apostasy and the resulting corruption in Jerusalem, followed by Isaiah and other faithful prophets withdrawing into ascetic exile; the chapter closes with accusations against false prophets and the killing of a true seer.",
+  "summary": "The chapter depicts Manasseh abandoning his father's godly ways and embracing Sammael/Beliar and occult practices, which brings widespread lawlessness—witchcraft, divination, sexual immorality, and persecution of the righteous. Isaiah, distressed by these corruptions, withdraws first to Bethlehem and then to a desert mountain where a community of prophets and faithful live ascetically—clothed in hair, eating wild herbs, and lamenting Israel's apostasy for two years. The narrative then shifts to a report about a false prophet Belchira of Samaria and recounts tensions with other prophetic figures: Micaiah is reproved and imprisoned (and later slain), with connections to the courts of Ahab and Ahaziah and the prophetic activity of Elijah. The chapter refers readers to the book of the Kings for other acts, leaving parts of the account fragmentary and allusive.",
+  "externalContext": "Ascension of Isaiah is a pseudepigraphal work combining Jewish and early Christian traditions, likely composed in the late Second Temple or early Common Era. The figure Beliar (Belial) and names like Sammael reflect intertestamental demonology found in other writings of the period. The account reworks and expands themes from the Hebrew monarchic narratives (kings and prophets) to emphasize spiritual warfare, prophetic witness, and ecclesial decline.",
+  "externalReferences": "The condemnation of Manasseh’s idolatry and wicked deeds echoes the accounts in 2 Kings 21:1–18 and 2 Chronicles 33:1–20, which likewise depict his turning to foreign gods and provoking the people to do worse things. The episode about Micaiah’s rebuke, imprisonment, and conflict with court prophets has a close parallel to the Micaiah narrative in 1 Kings 22:1–28, while Elijah’s prophetic confrontations with royal courts appear in the Elijah–Elisha cycle (e.g., 1 Kings 17–19; 2 Kings 1). These canonical passages provide likely literary and thematic sources the author is reworking or alluding to.",
+  "seeAlso": [
+    "2 Kings 21:1-18",
+    "2 Chronicles 33:1-20",
+    "1 Kings 22:1-28",
+    "2 Kings 1:1-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Manasseh's Apostasy"
+    },
+    {
+      "range": "7-11",
+      "title": "Isaiah's Withdrawal"
+    },
+    {
+      "range": "12-16",
+      "title": "False Prophets and Micaiah"
+    }
+  ],
+  "themes": [
+    "Apostasy",
+    "False Prophecy",
+    "Persecution",
+    "Ascetic Withdrawal"
+  ],
+  "practicalQuestions": [
+    "How should religious communities respond when political leaders promote practices that undermine communal ethics?",
+    "When institutions are corrupt, what forms of faithful witness or withdrawal are appropriate and effective today?",
+    "What criteria should communities use to distinguish authentic prophetic critique from deceptive or self-serving 'prophecy'?",
+    "How can lament and ascetic practices function as communal responses to moral collapse in contemporary settings?"
+  ],
+  "uncertainAreas": "Some names and genealogies (e.g., Mantanbuchus, Belchira, Hezekiah son of Chanani) and the chronology are unclear or conflated with other traditions. The text is fragmentary at the end and mixes motifs from different prophetic episodes (Ahab/Ahaziah/Elijah/Micaiah) in ways that do not align neatly with the canonical books, so precise historical mapping is uncertain.",
+  "createdAt": "2026-01-30T22:58:24.396Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

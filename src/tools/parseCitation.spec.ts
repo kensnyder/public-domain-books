@@ -17,9 +17,13 @@ describe('parseCitation', () => {
     expect(osisIDs).toContain('Matt.1.25');
     expect(osisIDs).toHaveLength(48);
   });
-  it('should handle ignore descending ranges', () => {
+  it('should ignore descending ranges', () => {
     const osisIDs = parseCitation('Genesis 1:5-3');
     expect(osisIDs).toEqual(['Gen.1.5']);
+  });
+  it('should handle d&c', () => {
+    const osisIDs = parseCitation('d&c 1:3');
+    expect(osisIDs).toEqual(['D&C.1.3']);
   });
   it('should handle abbreviations', () => {
     const osisIDs = parseCitation('Gen. 1:1 - 3');

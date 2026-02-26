@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Jasher.12",
+  "briefOverview": "Abram is condemned by royal authority for opposing the king and despising the gods, yet is miraculously delivered from a furnace. The chapter then pivots to Nimrod’s renewed fear of Abram and Abram’s decision to hide and plan departure toward Canaan.",
+  "summary": "After hearing Abram’s words, the king imprisons him and convenes rulers and sages to determine punishment; they recommend death by burning for reviling the king and rejecting the gods. Abram and his brother Haran are cast into the furnace, but the Lord delivers Abram so that only his bonds burn, while Haran dies and even some executioners are consumed by the flames. The king, astonished, summons Abram out, and Abram attributes his rescue to “the God of heaven and earth,” urging observers to worship God rather than bow to him; Abram receives gifts and servants (including Eliezer) and gains followers. Abram’s ongoing influence is noted, along with marriages to Milcah (Nahor) and Sarai (Abram), and Sarai’s barrenness. Two years later Nimrod dreams ominous symbols interpreted as Abram’s future “seed” overthrowing and ultimately killing him, so Nimrod secretly attempts to seize Abram. Warned by Eliezer, Abram hides with Noah and Shem and persuades Terah—supported by Noah and Shem—to leave toward Canaan to escape Nimrod and abandon “vanities of the world.”",
+  "externalContext": "The “Book of Jasher” is an ancient-style retelling/expansion of biblical primeval and patriarchal narratives, known from later Jewish tradition and surviving in medieval Hebrew recensions; it is distinct from the lost “Book of Jashar” mentioned in the Hebrew Bible. This chapter reflects a common post-biblical motif in which Abram is persecuted by an idolatrous ruler (often identified as Nimrod) and saved from fire, a story developed in later Jewish midrashic literature rather than stated in Genesis. The setting names “Ur of the Chaldees/Casdim” and “Babel” echo Mesopotamian geography familiar from biblical tradition, though the narrative’s court scene, furnace execution, and dream interpretation function primarily as theological storytelling about divine deliverance and the contest between kingship and true worship.",
+  "externalReferences": "The chapter’s movement toward Canaan parallels the biblical trajectory where Abram’s family is connected with “Ur of the Chaldeans” and migration toward Canaan (Genesis 11:31), and Abram is later called to go to the land God will show him (Genesis 12:1–5). Sarai’s barrenness is a major biblical premise for the later promise narrative (Genesis 11:30; 15:1–6; 17:15–21). The motif of deliverance from a fiery furnace resembles the later story of Shadrach, Meshach, and Abednego, who survive Nebuchadnezzar’s furnace and emerge with garments intact (Daniel 3:19–27), though the characters and setting differ.",
+  "seeAlso": [
+    "Genesis 11:27-32",
+    "Genesis 11:30",
+    "Genesis 12:1-5",
+    "Daniel 3:19-27",
+    "Genesis 15:1-6",
+    "Genesis 17:15-21"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Trial and death decree"
+    },
+    {
+      "range": "7-40",
+      "title": "Furnace deliverance and witness"
+    },
+    {
+      "range": "45-70",
+      "title": "Nimrod’s dream and flight"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "True worship",
+    "Royal oppression",
+    "Imperfect loyalty",
+    "Calling to Canaan"
+  ],
+  "practicalQuestions": [
+    "Where do I feel pressure to compromise convictions to preserve safety or social standing, and what would “trust” like Abram’s look like there?",
+    "When others credit me for success or resilience, how can I redirect attention toward God (or toward the true source of good) rather than accepting misplaced honor?",
+    "How do mixed motives—like Haran’s conditional allegiance—show up in my own commitments, and what would greater integrity require?",
+    "What “vanities of the world” (status, wealth, protection through powerful allies) might be keeping me from a needed change of direction?",
+    "Who are the “Eliezers” in my life—people who warn or guide me—and do I listen when their counsel is costly?"
+  ],
+  "uncertainAreas": "Uncertainty remains about the identity of the unnamed “king” in the first half versus Nimrod explicitly later, and about how literally to take the dream symbols (egg/river/bird) beyond the text’s own interpretation. The historical details (numbers of spectators, ages, locations) are presented narratively and cannot be independently verified from the chapter itself.",
+  "createdAt": "2026-01-30T23:27:11.470Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

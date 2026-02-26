@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.71",
+  "briefOverview": "This chapter recounts Moses’ early intervention on behalf of an abused Hebrew, his resulting exposure and flight from Egypt, and Israel’s continued oppression alongside a prophetic warning from Aaron.",
+  "summary": "At eighteen, Moses goes to Goshen, witnesses an Egyptian beating a Hebrew, hears the Hebrew’s claim that the Egyptian had violated his household, and Moses kills the Egyptian and hides the body. The rescued Hebrew returns home, but the incident creates turmoil as the man considers repudiating his wife, and conflict arises with her brothers. The next day Moses confronts a quarrel between two Hebrews, but one accuses him of having slain the Egyptian, making Moses realize the matter is known. Pharaoh orders Moses’ death, but God sends an angel who deceives Pharaoh’s guards and enables Moses’ escape far beyond Egypt’s border. Aaron remains in Egypt and urges Israel to renounce Egyptian idols, but the people refuse. Despite Israel’s rebellion, God refrains from destroying them because of the covenant with Abraham, Isaac, and Jacob, while Pharaoh’s oppression continues until God “takes notice” of them.",
+  "externalContext": "The Book of Jasher (also called Sefer ha-Yashar) is a later Jewish work that retells and expands biblical narratives with additional details and interpretations not found in the Hebrew Bible’s canonical form. In many Jewish and Christian traditions it is not considered canonical scripture, though it has circulated in various forms and has been used as a narrative supplement. The setting presumes the Israelite sojourn in Egypt and Pharaoh’s forced labor policies, a backdrop central to the Exodus tradition.",
+  "externalReferences": "The core storyline parallels Exodus 2:11–15, where Moses sees an Egyptian beating a Hebrew, kills the Egyptian, is confronted about it, and flees after Pharaoh seeks his life. Aaron’s call to abandon “the idols of Egypt” echoes Ezekiel 20:7–8, which depicts Israel being told in Egypt to cast away idols and refusing, and God’s restraint for covenantal reasons resonates with God’s remembrance of the patriarchal covenant in Exodus 2:24.",
+  "seeAlso": [
+    "Exodus 2:11-15",
+    "Exodus 2:23-25",
+    "Ezekiel 20:7-8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Moses kills the Egyptian"
+    },
+    {
+      "range": "5-11",
+      "title": "Exposure and divine escape"
+    },
+    {
+      "range": "12-16",
+      "title": "Aaron warns; oppression continues"
+    }
+  ],
+  "themes": [
+    "Deliverance",
+    "Divine intervention",
+    "Covenant memory",
+    "Idolatry",
+    "Oppression"
+  ],
+  "practicalQuestions": [
+    "When confronting injustice, how can I act decisively without letting anger or secrecy create further harm?",
+    "What forms of “idols” (competing loyalties or cultural pressures) might I be reluctant to throw away, as Israel was?",
+    "How do I respond when my attempts to help are misunderstood or rejected, as Moses’ intervention was?",
+    "What does it look like to rely on God’s faithfulness to prior promises (covenant) when present circumstances feel unchanged?",
+    "Where might I be complicit in systems that “crush and oppress,” and what concrete steps could reduce others’ burdens?"
+  ],
+  "uncertainAreas": "The chapter’s additional details (the Egyptian’s alleged assault, the threatened repudiation, the angel’s impersonation leading to a guard’s death, and the stated forty-days’ distance) go beyond the canonical Exodus account; their intended theological or moral emphasis is plausible (injustice, divine rescue), but their historical-literal status within Jasher’s tradition is difficult to assess without broader textual-critical context. Aaron’s “prophecy” in Egypt aligns with Ezekiel 20’s retrospective framing, but the precise relationship (direct borrowing vs. shared tradition) is uncertain.",
+  "createdAt": "2026-01-30T23:48:19.519Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.47",
+  "briefOverview": "Isaac gathers Jacob and Esau’s households, blesses their children, and charges Jacob’s line to keep God’s ways tied to the promised land. After Isaac’s death, Jacob and Esau divide Isaac’s legacy, with Esau taking the wealth and Jacob securing the land (and Machpelah) by a written purchase.",
+  "summary": "With Isaac near death at 180 years, Esau returns from Edom/Seir to Canaan, and Jacob comes with his sons while still mourning Joseph. Isaac blesses Jacob’s eleven sons with growth and divine favor and also blesses Esau’s sons with fearsome strength toward enemies. Isaac then instructs Jacob to teach future generations to fear the Lord and keep his statutes, linking obedience to God’s covenant promise of the land given to Abraham.\n\nAfter Isaac dies, Jacob and Esau weep and bury him at the cave of Machpelah in Hebron with significant public honor, including the participation of Canaanite kings and extended mourning. The brothers then agree to divide Isaac’s estate; Jacob offers Esau a choice between the land and the movable riches. After consulting Nebayoth son of Ishmael, Esau takes all the riches, leaving Jacob the land of Canaan, and Jacob also acquires Machpelah from Esau, recording the transaction in a “book of purchase” witnessed and preserved. Esau returns permanently to Seir, and the chapter concludes by portraying Canaan as Israel’s enduring inheritance and Seir as Esau’s.",
+  "externalContext": "The Book of Jasher is an extra-biblical work known from later Jewish/medieval transmission; it is distinct from the “Book of Jashar” mentioned in the Hebrew Bible and is not part of the Jewish or most Christian biblical canons. Its narratives often expand or harmonize episodes associated with Genesis and early Israelite history, sometimes adding legal-style details (such as written deeds) and broader public ceremonies. In the broader ancient Near Eastern setting, written purchase records and named witnesses functioned to secure land claims and inheritance rights across generations.",
+  "externalReferences": "Isaac’s death at 180 years and his burial by Jacob and Esau in the cave of Machpelah at Hebron parallels Genesis 35:28–29 and the Machpelah burial tradition in Genesis 49:29–32. The chapter’s contrast between Jacob receiving the land and Esau settling in Seir echoes Genesis 36:6–8, where Esau relocates away from Jacob and becomes established in Seir/Edom. The promised-land language (“from the brook/river of Egypt unto the river Euphrates”) resembles the territorial promise formula found in Genesis 15:18.",
+  "seeAlso": [
+    "Genesis 15:18",
+    "Genesis 23:17-20",
+    "Genesis 35:28-29",
+    "Genesis 36:6-8",
+    "Genesis 49:29-32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "Blessings and final charge"
+    },
+    {
+      "range": "10-14",
+      "title": "Burial and public mourning"
+    },
+    {
+      "range": "15-33",
+      "title": "Inheritance divided and recorded"
+    }
+  ],
+  "themes": [
+    "Covenant and land",
+    "Intergenerational obedience",
+    "Blessing and legacy",
+    "Burial and honor",
+    "Jacob-Esau separation"
+  ],
+  "practicalQuestions": [
+    "What practices could help you “teach your children and your children’s children” (v. 8) values you claim are central, rather than leaving them implicit?",
+    "How do you weigh material gain versus long-term commitments (as Esau and Jacob do when choosing riches or land in vv. 19–24)?",
+    "What does this chapter suggest about making agreements clear and durable (e.g., written record and witnesses in vv. 26–29) in family or community matters?",
+    "Where might grief (Jacob mourning Joseph, v. 3) shape the way you show up for family responsibilities, and what would steadiness look like in that situation?"
+  ],
+  "uncertainAreas": "The identity and role of “Nebayoth” (vv. 20–23) is presented without explanation; while the name matches Ishmael’s firstborn in Genesis 25:13, the chapter’s chronology and the nature of his counsel are not internally clarified. The claim that Jacob ‘took all the land of Canaan’ and recorded a purchase (vv. 24–29) reads like a legal-theological assertion rather than a historically detailed conquest or transaction, and its relationship to the Genesis portrayal of patriarchal landholding is unclear.",
+  "createdAt": "2026-01-30T23:39:24.309Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

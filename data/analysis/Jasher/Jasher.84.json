@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jasher.84",
+  "briefOverview": "This chapter recounts a sequence of wilderness-era crises and boundary decisions: Korah’s rebellion and punishment, Israel’s prolonged travel, and God’s commands not to wage war against Edom (Esau) and Moab. It culminates with Israel’s arrival near Kadesh and the deaths of Miriam and Aaron.",
+  "summary": "Korah leads a revolt against Moses and Aaron, and God judges the rebels as the earth opens and swallows them and their households. Israel is then directed to travel around Mount Seir, with explicit instructions not to fight Edom (Esau’s descendants) and instead to purchase food and water from them.\n\nThe narrative includes a chronological note about a king of Chittim (Latinus) dying and Abimnas succeeding him. After many years, Israel passes near Edom and Moab; God also forbids war with Moab and Israel complies.\n\nLater, Sihon king of the Amorites attacks and subdues Moab; he summons Beor and Balaam to curse Moab, captures Moabite cities including Heshbon, and rewards the diviners. In the fortieth year after the exodus, Israel returns to Kadesh in the wilderness of Sin where Miriam dies; Israel requests passage through Edom but is refused, and Israel does not fight. The chapter ends with God telling Moses that Aaron will die on Mount Hor, where Aaron dies at age 123.",
+  "externalContext": "The Korah rebellion is part of a broader wilderness tradition in which challenges to Moses and Aaron’s leadership are portrayed as direct challenges to divine ordering of Israel’s community. The commands to avoid war with Edom and Moab reflect an ancient Near Eastern assumption that peoples had allotted territories and kinship relations (Edom linked to Esau) that could shape diplomatic expectations.\n\nNames like Balaam are known from other Israelite traditions as a non-Israelite diviner associated with the Transjordan region. The references to “Chittim” are often associated in later biblical usage with western maritime peoples/lands, though its identification shifts by period; the specific kings named here are not part of the Hebrew Bible’s historical narratives.",
+  "externalReferences": "The swallowing of Korah and his company closely parallels Numbers 16:1–35, where Korah leads a rebellion and the earth opens to consume the rebels. The instruction not to provoke war with Edom (Mount Seir) aligns with Deuteronomy 2:4–6, and the instruction not to harass Moab aligns with Deuteronomy 2:9.\n\nSihon’s conquest involving Heshbon and the associated “Come to Heshbon” proverb resembles the song quoted in Numbers 21:26–30. The deaths of Miriam and Aaron correspond to Numbers 20:1 (Miriam at Kadesh) and Numbers 20:22–29 (Aaron on Mount Hor), while the refusal of Edom to grant passage echoes Numbers 20:14–21.",
+  "seeAlso": [
+    "Numbers 16:1-35",
+    "Deuteronomy 2:4-6",
+    "Deuteronomy 2:9",
+    "Numbers 21:26-30",
+    "Numbers 20:1",
+    "Numbers 20:14-21",
+    "Numbers 20:22-29"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-2",
+      "title": "Korah’s revolt judged"
+    },
+    {
+      "range": "3-13",
+      "title": "No war with Edom, Moab"
+    },
+    {
+      "range": "24-32",
+      "title": "Kadesh and leadership deaths"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Territorial boundaries",
+    "Obedience to command",
+    "Wilderness wandering",
+    "Leadership succession"
+  ],
+  "practicalQuestions": [
+    "When confronted with conflict or rivalry in leadership, what boundaries does this chapter suggest between legitimate concern and destructive rebellion?",
+    "Are there situations where restraint—refusing escalation even when obstructed (as with Edom’s refusal)—is the most faithful or wise response?",
+    "How do the commands to buy necessities rather than seize them challenge modern assumptions about entitlement, power, and resource use?",
+    "What practices help a community navigate long periods of “wandering” or delay without losing purpose or cohesion?",
+    "How should communities prepare for leadership transition and mortality, as signaled by the deaths of Miriam and Aaron?"
+  ],
+  "uncertainAreas": "The historical identification of “Latinus” and “Abimnas” as kings of Chittim is uncertain and not corroborated by the biblical narratives; also, this chapter’s account of Beor/Balaam cursing Moab differs from the better-known biblical Balaam cycle (Numbers 22–24), so the relationship between these traditions is unclear.",
+  "createdAt": "2026-01-30T23:53:01.785Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

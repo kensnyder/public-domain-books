@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jasher.55",
+  "briefOverview": "Jacob relocates to Egypt under divine assurance, reunites with Joseph, and his family is settled securely in Goshen. The chapter also emphasizes Joseph’s political-economic management during the famine and the family’s growth and religious continuity.",
+  "summary": "Jacob resolves to go to Egypt to see Joseph and receives a divine message not to fear the move, with a promise that God will make him a great nation there. Jacob also reflects on whether Joseph still fears God, and is reassured that Joseph has maintained integrity. Judah is sent ahead to arrange a place in Goshen, and Joseph leads an extravagant Egyptian procession to meet Jacob; father and son reunite with public mourning and joy. Joseph presents selected brothers to Pharaoh, explains their need due to famine, and Pharaoh authorizes them to dwell in the best of the land; Jacob blesses Pharaoh. During the famine Joseph sustains Jacob’s household abundantly, while Egyptians buy bread through Joseph, resulting in Joseph’s acquisition of Egypt’s lands for Pharaoh and the accumulation of wealth and goods, some of which Joseph hides in multiple locations. When the famine ends, Israel’s family remains in Goshen, multiplies, and Joseph’s sons (with other children) are depicted as learning “the ways of the Lord and his law” in Jacob’s household.",
+  "externalContext": "The Book of Jasher is a Jewish literary work known from later compilations and printings; it is not the same as the “Book of Jashar” mentioned in the Hebrew Bible (e.g., Joshua 10:13), and its historical dating and relationship to biblical narratives are debated. Many of its episodes parallel or expand upon Genesis, often adding speeches, numbers, and dramatic details to familiar scenes. “Goshen” is presented in biblical tradition as a region in Egypt associated with shepherding, and later becomes the main setting for Israel’s early life in Egypt before the Exodus.",
+  "externalReferences": "This chapter closely parallels Genesis 46–47: God’s reassurance to Jacob about going to Egypt (Genesis 46:2–4), Judah being sent ahead and the settling in Goshen (Genesis 46:28–34), the emotional reunion of Jacob and Joseph (Genesis 46:29–30), Jacob blessing Pharaoh (Genesis 47:7–10), and Joseph’s administration during the famine including the acquisition of Egyptian land for Pharaoh (Genesis 47:13–26). The mention of Ephraim and Manasseh living with Jacob anticipates their later prominence and Jacob’s interaction with them in Genesis 48.",
+  "seeAlso": [
+    "Genesis 46:1-34",
+    "Genesis 47:1-26",
+    "Genesis 47:7-12",
+    "Genesis 46:28-30",
+    "Genesis 48:1-22",
+    "Joshua 10:13"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Jacob called to Egypt"
+    },
+    {
+      "range": "6-18",
+      "title": "Joseph meets Jacob"
+    },
+    {
+      "range": "19-36",
+      "title": "Goshen settlement and famine"
+    }
+  ],
+  "themes": [
+    "Divine guidance",
+    "Family reunion",
+    "Goshen settlement",
+    "Famine administration",
+    "Covenant growth"
+  ],
+  "practicalQuestions": [
+    "When facing a major relocation or life change, what would it look like to seek (and heed) moral or spiritual reassurance as Jacob does?",
+    "How can public honor and private affection be held together well, as seen in Joseph’s humility toward Jacob amid great power?",
+    "What responsibilities come with managing scarce resources (food, money, land) so that the vulnerable are sustained without exploitation?",
+    "In what ways can families or communities intentionally pass on “the ways of the Lord” to the next generation, as the children are depicted doing in Jacob’s house?"
+  ],
+  "uncertainAreas": "The historical reliability and provenance of specific details unique to Jasher (e.g., Joseph’s decree that non-attendees “shall die,” the precise amounts of gold/silver, and the four hiding places of wealth) are difficult to assess without broader textual-critical discussion; I treated them as internal narrative claims rather than verifiable history. The phrase “Joseph the king” and Joseph wearing Pharaoh’s crown may be rhetorical or legendary embellishment compared with Genesis, where Joseph is second to Pharaoh.",
+  "createdAt": "2026-01-30T23:42:19.626Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

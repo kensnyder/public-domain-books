@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jasher.33",
+  "briefOverview": "Jacob’s family settles near Shechem, where Dinah is violated by Shechem, provoking a crisis that leads Jacob’s sons to plot revenge under the pretext of covenantal circumcision.",
+  "summary": "Jacob arrives near Shechem, buys land, builds a dwelling, and lives at Succoth for a year and six months. During a public celebration, Shechem the prince desires Dinah, takes her by force, and keeps her in his house while professing love for her. Jacob initially remains silent until his sons return, though he sends attendants to stay with Dinah, and Shechem seeks Dinah as a wife through his father Hamor. Jacob’s sons argue that Shechem and the city deserve death for violating commands attributed to God’s injunctions to Noah against robbery and sexual wrongdoing. Hamor and Shechem propose intermarriage and economic integration; Simeon and Levi respond deceptively, delaying and then proposing circumcision for all males as a condition. The men of the city consent and are circumcised by Jacob’s sons, and the narrative concludes by attributing this development to the Lord’s purpose to deliver Shechem into Jacob’s sons’ hands.",
+  "externalContext": "The “Book of Jasher” is a later retelling/expansion of biblical narratives rather than part of the Hebrew Bible canon; it often harmonizes and embellishes episodes known from Genesis. In the ancient Near East, marriages could involve negotiations between families, dowries, and political-economic alliances, which helps explain Hamor’s appeal to land, trade, and becoming “one people.” Circumcision functioned as a key identity marker in Israelite tradition, later framed as a covenant sign originating with Abraham, and could thus be invoked rhetorically in boundary-making between groups.",
+  "externalReferences": "This chapter closely parallels the Dinah-Shechem narrative in Genesis 33:18–20 and Genesis 34:1–31, including Shechem’s seizure of Dinah, Hamor’s intermarriage proposal, and the brothers’ demand for circumcision. The purchase of land near Shechem echoes Jacob’s purchase in Genesis 33:19 and his settling there after returning to Canaan. The chapter’s appeal to commands given to Noah resembles later Jewish notions of Noahide prohibitions (cf. Genesis 9:5–6 for the post-flood moral framework, though the specific list here is expanded beyond that passage).",
+  "seeAlso": [
+    "Genesis 33:18-20",
+    "Genesis 34:1-31",
+    "Genesis 9:5-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Jacob settles near Shechem"
+    },
+    {
+      "range": "5-18",
+      "title": "Dinah violated; Shechem petitions"
+    },
+    {
+      "range": "19-52",
+      "title": "Deceptive covenant and circumcision"
+    }
+  ],
+  "themes": [
+    "Sexual violence",
+    "Deception",
+    "Group identity",
+    "Retributive justice",
+    "Divine providence"
+  ],
+  "practicalQuestions": [
+    "When serious wrongdoing occurs, what does this chapter suggest about the dangers of silence, delay, or acting only when anger peaks?",
+    "How should communities weigh justice for victims against collective punishment of bystanders or an entire city?",
+    "What are the ethical risks of using sacred identity-markers (here, circumcision) as tools for manipulation or violence?",
+    "In negotiations after harm, what distinguishes genuine repentance and repair from self-interested bargaining (e.g., offers of wealth, land, and intermarriage)?"
+  ],
+  "uncertainAreas": "The chapter ends by asserting that the circumcision plan was “from the Lord,” which is difficult to interpret: it could mean providential judgment on Shechem, approval of the brothers’ strategy, or simply that events were directed toward a divinely intended outcome; the text does not explicitly clarify the moral evaluation. The appeal to commands to Noah against both robbery and adultery reflects a broader legal tradition than the wording of Genesis 9 alone, so identifying precise textual sources for that claim is uncertain.",
+  "createdAt": "2026-01-30T23:34:21.965Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

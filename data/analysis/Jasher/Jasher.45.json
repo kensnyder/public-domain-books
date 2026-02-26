@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.45",
+  "briefOverview": "This chapter traces the marriages and offspring of Jacob’s sons during the period after Joseph was sold into Egypt. It culminates in Judah’s family crisis with Tamar, resulting in the birth of twins.",
+  "summary": "The chapter records a series of marriages by Jacob’s sons (including Reuben, Simeon, Judah, Levi, Issachar, Dan, Gad, Naphtali, Asher, Zebulun, and Benjamin) and lists many of their children, emphasizing the growth of the family in Canaan and surrounding regions.\n\nIt notes Dan’s wife’s initial barrenness and her later conception after God “remembered” her. Asher marries twice; his second wife Hadurah brings a daughter, Serach, into Jacob’s household and later bears Asher four sons.\n\nThe narrative then focuses on Judah: his firstborn Er marries Tamar but is killed by the Lord for “outwardly” destroying his seed; Onan is likewise killed for similar conduct after being commanded to raise offspring for his brother. Judah delays giving Tamar to his younger son (here called Shiloh), and after Judah’s wife dies, Tamar disguises herself, conceives by Judah, and bears twins, Perez and Zarah.",
+  "externalContext": "The Book of Jasher is an ancient Jewish pseudepigraphal work known in multiple later forms; it is not part of the Jewish or most Christian biblical canons, though it retells and expands stories associated with Genesis and Exodus. Texts like this often aim to supply additional genealogical detail, harmonize narratives, and explain motives behind terse biblical accounts.\n\nSeveral practices assumed in the chapter reflect ancient Near Eastern social norms, including arranging marriages within extended kin networks and the expectation that a close male relative would provide offspring for a deceased brother’s line (often discussed as levirate-style obligation).",
+  "externalReferences": "Judah’s story with Tamar closely parallels Genesis 38:1–30, including Er and Onan’s deaths and Tamar’s strategy leading to the birth of Perez and Zerah (cf. Genesis 38:27–30). The instruction to Onan to “raise up seed” for his brother resonates with later, more formal statements of levirate duty in Deuteronomy 25:5–10.\n\nMany of the chapter’s genealogical notices resemble the tribal/family lists preserved elsewhere, such as the sons of Jacob and their lines as recorded in Genesis 46:8–27 and 1 Chronicles 2:3–4 (Perez and Zerah as Judah’s descendants through Tamar).",
+  "seeAlso": [
+    "Genesis 38:1-30",
+    "Genesis 46:8-27",
+    "Deuteronomy 25:5-10",
+    "1 Chronicles 2:3-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-22",
+      "title": "Marriages and offspring listed"
+    },
+    {
+      "range": "23-28",
+      "title": "Er and Onan judged"
+    },
+    {
+      "range": "29-32",
+      "title": "Tamar and Judah’s twins"
+    }
+  ],
+  "themes": [
+    "Genealogy",
+    "Marriage alliances",
+    "Divine judgment",
+    "Lineage preservation",
+    "Providence"
+  ],
+  "practicalQuestions": [
+    "What criteria should guide family and marriage decisions when the text highlights both kinship ties and marriages to outsiders?",
+    "How does the chapter’s emphasis on offspring and naming shape one’s understanding of legacy and responsibility across generations?",
+    "Where might delaying or avoiding a responsibility (as Judah does toward Tamar) create harm, and what would timely integrity look like?",
+    "How should readers wrestle ethically with Tamar’s deception and Judah’s actions while still taking seriously the text’s concern for justice and lineage?",
+    "What does it mean in practice to trust that God “remembers” those who suffer lack or barrenness, as in Dan’s wife’s story?"
+  ],
+  "uncertainAreas": "The chapter’s names and some genealogical details diverge from canonical Genesis lists (e.g., Judah’s third son called “Shiloh” here; Reuben’s wife and several mothers’ names), and I cannot confidently map each to biblical equivalents beyond the clear Genesis 38 parallels. The identity and historicity of some figures (e.g., Jobab son of Yoktan; Aram son of Zoba) as used here may reflect later literary genealogizing rather than recoverable historical persons.",
+  "createdAt": "2026-01-30T23:38:43.447Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

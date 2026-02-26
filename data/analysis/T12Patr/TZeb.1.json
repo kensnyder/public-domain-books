@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "TZeb.1",
+  "briefOverview": "Zebulun recounts the family crisis surrounding Joseph’s betrayal, emphasizing his own grief, attempts to prevent bloodshed, and a moral reading of subsequent shame that fell on the brothers. The chapter frames compassion and mercy as the proper response to injustice and fraternal conflict.",
+  "summary": "On his deathbed, Zebulun addresses his sons and recalls his life, admitting no wrongdoing except consenting (through fear and silence) to conceal from Jacob what his brothers did to Joseph. He describes Joseph’s tearful pleas for mercy and how Zebulun himself wept and urged his brothers not to kill him. Reuben persuades the brothers to throw Joseph into a dry pit instead, which Zebulun interprets as providentially prepared so Joseph would be preserved. Joseph is then sold to Ishmaelites; Zebulun says he received no share of the sale price and, out of pity, refused to eat while Joseph remained in danger. The brothers allegedly used the money to buy sandals, and Zebulun connects this to the Torah’s “loosening of the sandal” disgrace, portraying later humiliation in Egypt (including being unloosed and spit upon) as fitting shame for their earlier cruelty. Finally, the chapter narrates Reuben’s grief at the sale and the brothers’ deception of Jacob by dipping Joseph’s coat in goat’s blood, with Simeon coerced into handing over the coat despite his violent intent.",
+  "externalContext": "The “Testament of Zebulun” belongs to the Testament of the Twelve Patriarchs, a collection of speeches placed in the mouths of Jacob’s sons and presented as deathbed instructions. Most scholars date the composition in its extant form to the Second Temple period (often the 2nd–1st century BCE), with later transmission in Christian manuscripts. The work retells and expands Genesis narratives to promote moral virtues—in this case, compassion and mercy—often by adding interpretive details and explicit ethical lessons.",
+  "externalReferences": "The chapter retells and expands the Genesis account of Joseph being thrown into a pit and sold, along with the brothers’ deception of Jacob using a bloodied garment (Genesis 37:18–36). It also explicitly invokes the “loosing of the sandal” shame ritual from levirate marriage law (Deuteronomy 25:7–10), applying it typologically as divine retribution for the brothers’ treatment of Joseph. The brothers’ later obeisance to Joseph in Egypt echoes Joseph’s dreams and their fulfillment (Genesis 37:5–11; 42:6).",
+  "seeAlso": [
+    "Genesis 30:25-43",
+    "Genesis 37:18-36",
+    "Genesis 37:31-35",
+    "Genesis 42:6",
+    "Deuteronomy 25:7-10"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Zebulun’s confession and pity"
+    },
+    {
+      "range": "9-24",
+      "title": "Joseph spared and shaming"
+    },
+    {
+      "range": "25-37",
+      "title": "Sale and deception plot"
+    }
+  ],
+  "themes": [
+    "Compassion",
+    "Mercy",
+    "Guilt and remorse",
+    "Divine retribution",
+    "Truth and deception"
+  ],
+  "practicalQuestions": [
+    "Where might fear of others be keeping me silent about wrongdoing, as Zebulun describes his “sin of ignorance” against Joseph?",
+    "How can I practice compassion in conflicts where group pressure encourages harshness or scapegoating?",
+    "What forms of “profit” from injustice (direct or indirect) might I be tempted to accept or rationalize?",
+    "How do my choices contribute to repairing trust after deception within family or community relationships?"
+  ],
+  "uncertainAreas": "Some details appear to be interpretive expansions beyond Genesis (e.g., purchase of sandals with the sale price, the claim that Joseph’s brothers were “spit upon” in Egypt, and the providential explanation for the pit’s dryness). The identification of specific brothers (e.g., Simeon and Gad as leading attackers) and the exact meaning of “the Troglodytes” route are unclear without additional textual-critical context.",
+  "createdAt": "2026-01-31T00:11:39.823Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jasher.60",
+  "briefOverview": "The chapter traces Zepho’s rise to military power in Africa and the outbreak of a wider conflict sparked by competing marriage claims over Jania. It culminates in a major battle in which Turnus is killed and Jania is taken as Angeas’s wife.",
+  "summary": "Seventy-two years after Israel’s descent into Egypt and after Joseph’s death, Zepho (Esau’s descendant) flees Egypt and is honored by Angeas, king of Africa, who makes him captain of the army. Zepho repeatedly urges Angeas to wage war against Egypt and the sons of Jacob, but Angeas refuses, fearing their proven strength. Meanwhile, in Chittim a notable man, Uzu, dies leaving a single daughter, Jania, renowned for beauty and wisdom; Angeas requests her as a wife, but Turnus king of Bibentu also seeks her and is refused because Angeas asked first. Chittim warns Angeas that Turnus has gathered an army and plans to attack via Sardunia; Angeas mobilizes, joins his brother Lucus king of Sardunia, and appoints Lucus’s son Niblos captain. In a fierce battle in the valley of Canopia, Lucus’s forces suffer heavily and Niblos dies, but Angeas ultimately defeats and kills Turnus and annihilates his army. Memorials are established along the highroad between Alphanu and Romah where Niblos and Turnus are buried, and Angeas spares Bibentu though his troops thereafter plunder Chittim; finally Angeas takes Jania and brings her to Africa as his wife.",
+  "externalContext": "The Book of Jasher is a later Jewish pseudepigraphal work that expands biblical narratives with additional names and episodes; it is not part of the Hebrew Bible canon, though a work by this title is mentioned in the Bible. In biblical usage, “Chittim” often functions as a term associated with western maritime peoples and distant coastlands/islands, so the chapter’s geography (islands, ships, multiple kingdoms) fits a Mediterranean-oriented imagination rather than a detailed biblical itinerary. The genealogical framing around Esau’s line reflects a broader Second Temple and medieval interest in mapping nations and political rivals onto biblical family lines.",
+  "externalReferences": "The chapter’s mention of “Jasher” aligns with the biblical references to a “Book of Jashar” cited as a source in Joshua 10:13 and 2 Samuel 1:18. Zepho is identified as the son of Eliphaz, son of Esau, corresponding to Esau’s genealogy where Eliphaz is Esau’s son (Genesis 36:10–11). The repeated fear of the “sons of Jacob” as formidable warriors echoes earlier conflict traditions between Jacob/Israel and Esau/Edom in Genesis’s family narratives (Genesis 32–33; Genesis 36).",
+  "seeAlso": [
+    "Joshua 10:13",
+    "2 Samuel 1:18",
+    "Genesis 36:10-11",
+    "Genesis 32:6-8",
+    "Genesis 33:1-4"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Zepho’s rise in Africa"
+    },
+    {
+      "range": "7-15",
+      "title": "Jania sought; war threatened"
+    },
+    {
+      "range": "16-31",
+      "title": "War with Turnus; Jania taken"
+    }
+  ],
+  "themes": [
+    "Political ambition",
+    "War and vengeance",
+    "Honor and fear",
+    "Marriage as alliance",
+    "Memorializing the dead"
+  ],
+  "practicalQuestions": [
+    "What motivations (revenge, fear, honor, self-advancement) are driving the leaders in this chapter, and how do similar motives shape decisions in public life today?",
+    "When a powerful figure “refuses” a proposal out of prudence (as Angeas does regarding war with Jacob’s sons), what helps distinguish wise restraint from cowardice or indecision?",
+    "How does the chapter portray the consequences of treating marriage primarily as political acquisition, and where might modern relationships be pressured by similar calculations?",
+    "What does the building of tombs and towers “unto this day” suggest about how communities remember trauma and victory, and what kinds of memorials are healthy or unhealthy?",
+    "How do the actions of armies after victory (plundering Chittim) complicate the claim of a just cause, and how should success be evaluated ethically beyond winning?"
+  ],
+  "uncertainAreas": "Geographic identifications (e.g., Dinhabah, Bibentu, Puzimna, Canopia, Alphanu, Romah) are not securely identifiable from the text alone and may be literary or traditional rather than historical. The phrase describing Uzu as being “degenerately deified” is unclear in meaning and translation, so its social/religious implications are uncertain. The chapter’s internal chronology (72 years after descent to Egypt) cannot be checked here against biblical timelines without additional assumptions.",
+  "createdAt": "2026-01-30T23:44:23.511Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

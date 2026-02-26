@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "TGad.1",
+  "briefOverview": "Gad reflects on his hatred toward Joseph and warns his children that hatred corrupts moral judgment and leads to lawlessness. He commends love, humility, and repentance as the cure, drawing on his own experience and suffering.",
+  "summary": "Gad introduces himself as Jacob’s ninth son and recounts his strength in protecting the flocks. He explains that Joseph reported misconduct by the sons of Zilpah and Bilhah, and Gad’s anger over Joseph’s rebuke grew into a settled “spirit of hatred,” even to the point of wishing Joseph dead. Gad interprets Joseph’s deliverance (through being sold rather than killed) as God preventing greater “lawlessness in Israel.”\n\nHe then teaches that hatred distorts perception: it refuses to honor goodness, welcomes slander, envies success, and blinds the soul. Hatred, he says, violates God’s commands to love one’s neighbor and collaborates with Satan toward destruction, while love works with God’s law in patient endurance toward salvation. Gad urges his children to drive out hatred by practicing righteousness and humility and to embrace repentance, which enlightens the person and leads the mind toward salvation.\n\nFinally, he ties moral failure to fitting punishment, describing a severe liver disease as divine chastening corresponding to his “merciless” inner disposition toward Joseph; he claims he suffered for eleven months, matching the length of his anger.",
+  "externalContext": "The “Testaments of the Twelve Patriarchs” is a collection of ethical farewell speeches attributed pseudonymously to Jacob’s sons and preserved in Greek manuscripts; many scholars date its core composition to the late Second Temple period (often around the 2nd–1st centuries BCE), with evidence of later editorial activity. The work reads like wisdom/paraenetic literature, using ancestral narratives to teach virtues and warn against vices. Its portrayal of “spirits” (e.g., hatred, envy) reflects a moral-psychological framework common in Jewish and early Christian texts of the era, where inner dispositions are treated as active powers shaping behavior.",
+  "externalReferences": "Gad’s account presupposes the Genesis Joseph narrative: Joseph reports his brothers’ misconduct to Jacob (Genesis 37:2–4), the brothers’ hostility escalates (Genesis 37:8), and Judah proposes selling Joseph rather than killing him (Genesis 37:26–28). The warning that hatred violates the command to love one’s neighbor echoes the Torah’s love command (Leviticus 19:18). The claim that a person is punished “by what things” they transgress resembles the principle of measure-for-measure retribution seen elsewhere in biblical tradition (compare the rhetorical logic of Obadiah 1:15).",
+  "seeAlso": [
+    "Genesis 37:2-28",
+    "Leviticus 19:18",
+    "Obadiah 1:15",
+    "Proverbs 10:12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-14",
+      "title": "Gad’s hatred of Joseph"
+    },
+    {
+      "range": "15-30",
+      "title": "Hatred’s corrupting power"
+    },
+    {
+      "range": "31-36",
+      "title": "Repentance and fitting punishment"
+    }
+  ],
+  "themes": [
+    "Hatred",
+    "Repentance",
+    "Love of neighbor",
+    "Moral blindness",
+    "Divine chastening"
+  ],
+  "practicalQuestions": [
+    "Where do I see hatred (or persistent resentment) shaping what I am willing to believe about another person’s motives or character?",
+    "When someone corrects me, do I respond with humility and self-examination, or with defensiveness that hardens into hostility?",
+    "How might envy of another’s “prosperity” be feeding negative speech, selective truth-telling, or delight in their failures?",
+    "What concrete practice could replace hatred with love in my relationships (e.g., refusing slander, pursuing reconciliation, praying for the person, making restitution)?",
+    "Do I interpret consequences of my actions as opportunities for repentance and moral illumination, as Gad claims to have learned through suffering?"
+  ],
+  "uncertainAreas": "The text’s line numbering skips verse 12, likely a transmission/edition issue rather than a narrative feature. The precise meaning of the liver disease as direct divine punishment is presented as Gad’s interpretation; historically verifying such causality is not possible from the text alone. Dating and compositional history of the Testaments are debated; the external context reflects broadly common scholarly views without pinning down a single certainty.",
+  "createdAt": "2026-01-31T00:14:03.115Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

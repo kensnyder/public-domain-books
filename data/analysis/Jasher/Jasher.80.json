@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jasher.80",
+  "briefOverview": "This chapter recounts the escalation of divine plagues on Egypt and culminates in the Passover night and the death of Egypt’s firstborn, compelling Pharaoh to release Israel. It emphasizes divine sovereignty, Pharaoh’s resistance, and Israel’s preparation to depart.",
+  "summary": "After two years, Moses again confronts Pharaoh, who refuses to heed God’s command to release Israel, and Egypt is struck with severe plagues. The narrative describes a sequence of afflictions—waters turned to blood, frogs, lice, swarms of destructive creatures, pestilence, skin inflammation/boils, hail with fire, locusts, and three days of paralyzing darkness.\n\nDuring the darkness, some Israelites who refused to trust Moses and Aaron die, and they are buried discreetly. God then commands Israel to keep the Passover, promising to “pass over” them while striking Egypt’s firstborn. At midnight Egypt’s firstborn (human and animal) die, provoking national lament and prompting Pharaoh to urge Israel to depart and to ask for prayer.\n\nIsrael leaves with wealth taken from the Egyptians, and Moses retrieves Joseph’s coffin; the Israelites also carry coffins of their fathers and tribes as they prepare to go out.",
+  "externalContext": "The “Book of Jasher” is an extra-biblical work associated in some traditions with the “book of Jashar” mentioned in the Hebrew Bible; the commonly circulated versions are much later than the events they narrate and often expand biblical stories with additional details. In the biblical Exodus tradition, the plagues function both as judgments on Egypt and as a public demonstration of Israel’s God over against Pharaoh’s claims and authority. “Passover” becomes a foundational festival in Israel’s religious calendar, commemorating deliverance from Egypt and shaping later identity and worship.",
+  "externalReferences": "The plague sequence and Moses/Aaron’s confrontations with Pharaoh closely parallel Exodus 7–12, including blood (Exodus 7:14–24), frogs (Exodus 8:1–15), pestilence (Exodus 9:1–7), boils (Exodus 9:8–12), hail (Exodus 9:13–35), locusts (Exodus 10:1–20), darkness (Exodus 10:21–29), and the death of the firstborn with Passover protection (Exodus 12:1–30). The departure with Egyptian valuables echoes Exodus 12:35–36, while the retrieval of Joseph’s remains matches Exodus 13:19 and the earlier oath tradition in Genesis 50:24–26.",
+  "seeAlso": [
+    "Exodus 7:14-24",
+    "Exodus 8:1-19",
+    "Exodus 9:1-12",
+    "Exodus 9:13-35",
+    "Exodus 10:1-29",
+    "Exodus 12:1-36",
+    "Exodus 13:19",
+    "Genesis 50:24-26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-23",
+      "title": "Early plagues on Egypt"
+    },
+    {
+      "range": "24-40",
+      "title": "Pestilence, storms, and darkness"
+    },
+    {
+      "range": "41-63",
+      "title": "Passover night and departure"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Deliverance",
+    "Passover",
+    "Hardness of heart",
+    "Covenant memory"
+  ],
+  "practicalQuestions": [
+    "Where might I be resisting clear moral or spiritual instruction, as Pharaoh resists repeated warnings in this narrative?",
+    "What practices (personal or communal) help me remember past deliverance and sustain trust when outcomes are uncertain, in the way Passover functions here?",
+    "How should the text’s contrast between those who “hearkened” and those who did not shape my view of responsibility and trust?",
+    "What does it look like to prepare concretely for change or liberation (as Israel gathers belongings and honors ancestral remains) rather than only hoping for it?"
+  ],
+  "uncertainAreas": "The identity and symbolism of the “Sulanuth” sea-creature (vv. 19–22) is unclear and does not have a straightforward biblical parallel. The statement that lice reached “two cubits” (v. 10) appears hyperbolic, but the text does not signal genre explicitly. The report that rebellious Israelites died during the three days of darkness (vv. 37–39) differs from the canonical Exodus account, so its relationship to earlier traditions is uncertain.",
+  "createdAt": "2026-01-30T23:51:32.023Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

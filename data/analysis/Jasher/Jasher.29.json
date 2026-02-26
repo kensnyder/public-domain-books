@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.29",
+  "briefOverview": "Isaac’s attempt to bless Esau is overturned when Jacob, aided by Rebecca, receives the blessing instead, triggering Esau’s hostility. The chapter then traces Jacob’s flight and the family’s efforts to secure a non-Canaanite marriage for Jacob amid escalating conflict.",
+  "summary": "Isaac, elderly and nearly blind, sends Esau to hunt so he can bless him before death, but Rebecca directs Jacob to impersonate Esau and receive the blessing first. When Esau returns, he realizes the blessing has been taken and grows bitter, resolving to kill Jacob.\n\nJacob flees first to the house of Eber (where he remains fourteen years learning “the ways of the Lord”), while Esau relocates briefly to Seir, takes an additional Hittite wife (renaming her Adah), and later returns; Esau’s wives provoke Isaac and Rebecca through idolatrous practices. Rebecca, distressed at the prospect of Jacob marrying among the “daughters of Heth,” later sends Jacob to Haran to her family; Isaac blesses Jacob again, commands him not to marry Canaanites, and invokes Abraham’s covenantal blessing.\n\nAs Jacob departs with gifts, Esau secretly commissions his son Eliphaz to kill Jacob, but Jacob persuades Eliphaz to spare him by surrendering all his possessions; Eliphaz returns with the goods, angering Esau. Esau then takes another wife from Ishmael’s family, apparently in response to Isaac’s disapproval of Canaanite wives.",
+  "externalContext": "The Book of Jasher is a later Jewish work (often classified as rewritten Bible/midrashic-style narrative) that expands and harmonizes stories found in Genesis; the medieval Hebrew Sefer ha-Yashar is distinct from the later English “Jasher” publications, and “Jasher” texts vary by edition. The chapter reflects ancient Near Eastern customs in which patriarchal blessings, inheritance rights, and marriage alliances were central to family identity and land claims. “Haran/Padan-aram” refers to a region in northern Mesopotamia associated with Aramean kin networks in the Genesis patriarchal narratives.",
+  "externalReferences": "The chapter closely parallels the biblical narrative of Jacob receiving Isaac’s blessing intended for Esau (Genesis 27:1–41) and Jacob’s subsequent departure to Paddan-aram with instructions not to marry Canaanites (Genesis 28:1–7). Esau’s additional marriages—including a wife from Ishmael’s line—echo Genesis 28:8–9, where Esau marries Mahalath (also spelled similarly to “Machlath”) in response to parental displeasure over Canaanite wives. The notice about Esau’s wives grieving Isaac and Rebecca aligns with Genesis 26:34–35.",
+  "seeAlso": [
+    "Genesis 25:29-34",
+    "Genesis 26:34-35",
+    "Genesis 27:1-41",
+    "Genesis 28:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Blessing taken by Jacob"
+    },
+    {
+      "range": "11-30",
+      "title": "Flight and covenantal charge"
+    },
+    {
+      "range": "31-43",
+      "title": "Eliphaz spares Jacob"
+    }
+  ],
+  "themes": [
+    "Deception and blessing",
+    "Family conflict",
+    "Covenant inheritance",
+    "Marriage boundaries",
+    "Divine favor"
+  ],
+  "practicalQuestions": [
+    "What kinds of “ends” do I pursue (like a blessing or advantage) in ways that compromise honesty, and what would integrity require instead?",
+    "How do I respond when I feel wronged—do I move toward reconciliation or toward revenge, as Esau does?",
+    "What influences (relationships, habits, beliefs) function like Esau’s wives’ idolatry in the household, and how do they affect shared faith and wellbeing?",
+    "When making major life decisions (marriage, relocation, vocation), how can I align them with long-term commitments and values rather than short-term reactions?",
+    "Where might I need to “let go” of possessions or status (as Jacob does) to preserve life, peace, or calling?"
+  ],
+  "uncertainAreas": "Jasher exists in multiple forms; the precise provenance and relationship of this chapter’s details (e.g., Jacob’s 14 years with Eber; Eliphaz’s age and the robbery as ransom) to specific textual traditions can vary, so I treated them as internal narrative claims and only cross-referenced what clearly parallels Genesis.",
+  "createdAt": "2026-01-30T23:32:56.252Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.42",
+  "briefOverview": "This chapter narrates Joseph’s removal from the pit and his sale into slavery through a sequence involving Midianite traders and Ishmaelites. It emphasizes human culpability and divine oversight as Joseph suffers yet is repeatedly preserved.",
+  "summary": "Joseph’s brothers debate whether to kill him, but Judah persuades them to profit by selling him rather than shedding his blood. Before the Ishmaelites arrive, Midianite traders discover Joseph in the pit, draw him out, and a confrontation with Jacob’s sons nearly turns violent until Simeon’s intimidation leads to a negotiated sale. Joseph is sold for twenty pieces of silver while Reuben is absent, and the Midianites later resell him to the Ishmaelites, who carry him toward Egypt and treat him harshly when he laments.\n\nAlong the journey Joseph reaches Rachel’s grave near Ephrath and pours out a long lament about betrayal, slavery, and separation from his father. A consoling voice from beneath the ground responds as Rachel, urging Joseph to hope in the Lord and not fear because God will deliver him. When the Ishmaelites continue to afflict him, God strikes them with darkness, confusion, and physical impairment until they beg Joseph to intercede; when he forgives and prays, the storm abates and they recognize their suffering was “on account of Joseph.”\n\nEven after acknowledging this, the traders deliberate not about freeing Joseph but about how to avoid further harm, concluding they will proceed to Egypt and sell him there at a higher price.",
+  "externalContext": "The Book of Jasher is a later retelling/expansion of biblical narratives rather than part of the Jewish or most Christian biblical canons; versions circulating in English (notably the 19th-century translation) draw on earlier Jewish literary traditions and midrash-like expansions. In the ancient Near East, long-distance caravans commonly traveled between Canaan and Egypt via routes through Gilead, and trafficking in enslaved persons was an established economic practice. Rachel’s tomb is traditionally located near Bethlehem/Ephrath, and references to it function as a geographic and emotional marker in Jacob’s family story.",
+  "externalReferences": "This chapter closely parallels the Joseph-sale narrative in Genesis, including the pit, Judah’s proposal, and Joseph being sold for twenty pieces of silver (Genesis 37:18–28). Simeon’s claim about destroying Shechem recalls the vengeance taken by Simeon and Levi after Dinah’s defilement (Genesis 34:25–31). The mention of Rachel’s burial near Ephrath corresponds to the account of her death and burial site (Genesis 35:19–20). The motif of God afflicting oppressors in response to mistreatment and then relenting after intercession echoes broader biblical patterns of divine judgment and mercy, though this chapter’s specific storms and withering are distinctive to Jasher’s telling.",
+  "seeAlso": [
+    "Genesis 37:18-36",
+    "Genesis 34:25-31",
+    "Genesis 35:16-20",
+    "Genesis 42:21-24",
+    "Genesis 50:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Judah proposes selling Joseph"
+    },
+    {
+      "range": "5-25",
+      "title": "Midianites and Ishmaelites trade"
+    },
+    {
+      "range": "26-53",
+      "title": "Rachel’s grave and divine chastening"
+    }
+  ],
+  "themes": [
+    "Betrayal",
+    "Slavery",
+    "Divine protection",
+    "Guilt and fear",
+    "Intercession"
+  ],
+  "practicalQuestions": [
+    "When facing wrongdoing, do I settle for a “lesser evil” (harm without bloodshed) rather than pursuing genuine repentance and repair?",
+    "How do I respond when I realize my actions have harmed someone—do I seek forgiveness and change, or only try to avoid consequences?",
+    "What practices help me maintain hope and integrity when I feel powerless or mistreated, as Joseph does on the road to Egypt?",
+    "In what situations might I be called to intercede (pray/advocate) for people who have wronged me, as Joseph does for his captors?"
+  ],
+  "uncertainAreas": "Jasher’s relationship to any specific historical setting is difficult to pin down from the chapter alone; “Rachel’s voice from beneath the ground” is presented narratively as a real response, but it could be read as supernatural consolation, visionary experience, or literary device. The sequence of Midianites versus Ishmaelites differs in detail from Genesis and may reflect harmonization or expansion rather than a recoverable historical itinerary.",
+  "createdAt": "2026-01-30T23:37:44.648Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

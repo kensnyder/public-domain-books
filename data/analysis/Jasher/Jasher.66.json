@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jasher.66",
+  "briefOverview": "This chapter links regional political fears to Egypt’s escalating oppression of Israel, culminating in Pharaoh’s attempt to curb Israelite growth through infanticide. It highlights the moral resistance of the Hebrew midwives, whose fear of God overrides royal command.",
+  "summary": "After Hadad of Edom dies, Samlah reigns and considers war against Zepho son of Eliphaz and the Chittim but turns back at the urging of the Edomites because Zepho is viewed as a “brother.” Pharaoh hears rumors of Edom’s military intentions and, fearing future conflict, increases the Israelites’ labor to weaken them. The strategy backfires: as the oppression increases, Israel continues to multiply until Egypt and Goshen are filled with them. Egypt’s elders and wise men report the failure of forced labor and ask for new counsel, and a royal counselor named Job proposes a decree to kill every Israelite male infant, aiming to remove the perceived military threat. Pharaoh summons the Hebrew midwives, Shephrah and Puah, and orders them to kill male babies at birth under threat of death by fire. The midwives fear God, refuse the order, and preserve the children; when questioned, they claim Hebrew women deliver before the midwives arrive. Pharaoh accepts their explanation, and God benefits the midwives as the people continue to multiply greatly.",
+  "externalContext": "The “Book of Jasher” is a later work presented as an ancient chronicle; it overlaps with biblical narratives but is not part of the Hebrew Bible canon and survives in various later forms and editions. Edom, associated with Esau, is portrayed in many Israelite traditions as a neighboring kin-nation, and the chapter uses that kinship language (“brother”) to explain political restraint. The identification of “Chittim” often functions in ancient Jewish literature as a general designation for western/sea peoples, though its precise historical referent can vary by text and period. The figure “Job from the land of Uz” reflects a tradition linking Job to the broader patriarchal world east of Canaan, though the biblical book of Job does not place him in Pharaoh’s court.",
+  "externalReferences": "The account strongly parallels Exodus 1:8–22: Pharaoh increases Israel’s burdens, yet Israel multiplies; then he commands the Hebrew midwives to kill male infants, and they refuse because they fear God. The midwives’ names, Shiphrah and Puah, match Exodus 1:15, and the explanation that Hebrew women deliver quickly echoes Exodus 1:19.",
+  "seeAlso": [
+    "Exodus 1:8-22"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Edom’s aborted campaign"
+    },
+    {
+      "range": "5-14",
+      "title": "Oppression and failed strategy"
+    },
+    {
+      "range": "15-31",
+      "title": "Job’s counsel; midwives resist"
+    }
+  ],
+  "themes": [
+    "Oppression",
+    "Divine favor",
+    "Fear of God",
+    "Civil disobedience",
+    "Population growth"
+  ],
+  "practicalQuestions": [
+    "When institutional pressure increases, what practices help a community remain resilient rather than fearful or reactive?",
+    "How do we discern when obedience to authority conflicts with reverence for God and basic moral duties?",
+    "What kinds of “security fears” today lead societies to dehumanize vulnerable groups, and how can those patterns be challenged?",
+    "In situations where truth-telling carries severe risk, what does the text suggest about courage, prudence, and accountability?",
+    "How might a community honor and protect those who resist unjust policies on behalf of the vulnerable?"
+  ],
+  "uncertainAreas": "The historical identification of “Chittim” and “Angeas king of Africa” is unclear from the chapter alone, and the portrayal of Job as Pharaoh’s counselor reflects a tradition not explicit in the biblical Job narrative; I treated these cautiously as literary/traditional elements rather than firm historical claims.",
+  "createdAt": "2026-01-30T23:46:38.614Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

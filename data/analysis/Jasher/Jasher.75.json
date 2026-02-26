@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jasher.75",
+  "briefOverview": "A large force from Ephraim leaves Egypt prematurely, trusting in its own strength, and is destroyed by the Philistines near Gath. The chapter frames the disaster as divine judgment for violating God’s appointed timetable.",
+  "summary": "In the 180th year after Israel’s descent into Egypt, thirty thousand Ephraimite warriors depart, believing the divinely set period of sojourning had ended. They arm themselves but carry no food, assuming they can buy provisions from the Philistines—or seize them by force. Reaching the region of Gath, they attempt to take sheep when refused, provoking Gath and then broader Philistine mobilization. Exhausted by hunger and thirst, the Ephraimites are defeated, and only ten escape back to Egypt to report the calamity. The text interprets the defeat as “from the Lord” because they left before the appointed time; the Philistines also suffer heavy losses, but the Ephraimite dead remain unburied in the valley for years. Ephraim mourns, and a later son is born and named Beriah, marking misfortune in the household.",
+  "externalContext": "The Book of Jasher is a non-canonical work in most Jewish and Christian traditions, known today largely through later editions and translations; it presents itself as an ancient chronicle but is generally treated by scholars as a much later composition. In biblical geography, Gath is associated with Philistine territory in the southern Levant, and conflicts between Israelite groups and Philistines are a recurring theme in later Israelite narratives. Genealogically, Ephraim is presented in the Hebrew Bible as a major tribe descended from Joseph, and tribal identity often functions as a key organizing category in later storytelling.",
+  "externalReferences": "The idea of a divinely appointed period tied to God’s word to Abraham echoes the sojourn/affliction prediction in Genesis 15:13–16. The report of Ephraimite slain left in the region of Gath resembles the tradition referenced in 1 Chronicles 7:20–22, where Ephraim’s sons are killed by men of Gath while attempting to take livestock, leading to Ephraim’s mourning and the naming of Beriah. The emphasis on leaving before God’s timing also parallels the broader Exodus theme that deliverance occurs by God’s initiative rather than human impatience (cf. Exodus 12:40–41 for a defined period).",
+  "seeAlso": [
+    "Genesis 15:13-16",
+    "Exodus 12:40-41",
+    "1 Chronicles 7:20-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Premature exodus attempt"
+    },
+    {
+      "range": "6-18",
+      "title": "Clash at Gath"
+    },
+    {
+      "range": "19-22",
+      "title": "Aftermath and mourning"
+    }
+  ],
+  "themes": [
+    "Divine timing",
+    "Human presumption",
+    "Judgment",
+    "Tribal tragedy",
+    "Violence and loss"
+  ],
+  "practicalQuestions": [
+    "Where am I tempted to act on confidence in my own strength rather than with patience for appropriate timing and guidance?",
+    "What “provisions” (practical preparation, humility, accountability) am I neglecting because I assume outcomes will be easy to secure later?",
+    "How do my choices affect my community, especially when I pursue needs (food, security, resources) in ways that harm others?",
+    "When facing loss, what practices of truthful remembrance and care (for the dead, for survivors) does this chapter prompt me to consider?"
+  ],
+  "uncertainAreas": "Dating and authorship of Jasher are complex and debated; I summarized cautiously. Numbers (30,000; 40,000; 20,000) may be stylized, but the text treats them as factual. The relationship between this narrative and 1 Chronicles 7 could be dependence in one direction or shared tradition; I did not assume which.",
+  "createdAt": "2026-01-30T23:49:37.513Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,50 @@
+{
+  "chapterOsisID": "Jasher.85",
+  "briefOverview": "This chapter narrates Israel’s transition from fear-driven retreat to divinely aided victories east of the Jordan, followed by a moral collapse in Moab that brings plague and a decisive act of zeal by Phineas.",
+  "summary": "Hearing of King Arad’s approach, Israel panics and attempts to return toward Egypt, but the Levites force the people back to Mount Hor after killing many in internal conflict. Israel then vows to destroy Arad’s cities if delivered, and the Lord grants victory, leading to the place-name Hormah. Traveling onward, Israel requests passage through Moab and then through Sihon’s territory; Moab refuses and Israel is told not to fight Moab, but Sihon attacks and is defeated, and Israel takes Amorite cities. God likewise forbids Israel to attack Ammon, after which Og of Bashan confronts Israel and is defeated in a dramatic account involving a massive stone, angelic intervention, and Moses killing Og. Israel then takes additional territory (including Jaazer) and camps in the plains of Moab, where Moab—terrified—makes Balak king, reconciles with Midian, and hires Balaam to curse Israel, but Balaam refuses because of the Lord’s word. Finally, Moab ensnares Israelites through sexual temptation and sacrificial feasting, provoking divine anger and a plague that kills 24,000 until Phineas kills Zimri and Cosbi, stopping the pestilence.",
+  "externalContext": "The Book of Jasher is an ancient-sounding narrative work known primarily from much later editions and is not part of the Jewish or most Christian biblical canons; it often retells and expands stories found in the Pentateuch and early historical books. The setting aligns with Israel’s wilderness period near the end of the journey toward Canaan, with peoples such as Moab, Midian, Ammon, and Amorite kingdoms portrayed as neighboring polities along key travel and trade routes east of the Jordan.",
+  "externalReferences": "The defeat of Arad and the naming of Hormah parallels the tradition in Numbers 21:1–3. Israel’s requests to pass through Edom/Moab/Amorite territories and the wars with Sihon and Og resemble the narratives in Numbers 21:21–35 and Deuteronomy 2:9, 2:19, 2:24–37; 3:1–11, including the specific divine prohibitions against attacking Moab and Ammon. Balak’s commissioning of Balaam and Balaam’s inability (or refusal) to curse Israel reflect Numbers 22–24, while the seduction at Shittim, the plague of 24,000, and Phinehas’s spear-killing of the offending couple correspond closely to Numbers 25:1–9.",
+  "seeAlso": [
+    "Numbers 21:1-3",
+    "Numbers 21:21-35",
+    "Deuteronomy 2:9-19",
+    "Deuteronomy 2:24-37",
+    "Deuteronomy 3:1-11",
+    "Numbers 22:1-20",
+    "Numbers 22:21-41",
+    "Numbers 23:1-12",
+    "Numbers 24:1-9",
+    "Numbers 25:1-9"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-8",
+      "title": "Fear, vow, and victory"
+    },
+    {
+      "range": "9-32",
+      "title": "Passage denied, kings defeated"
+    },
+    {
+      "range": "33-63",
+      "title": "Moab’s scheme and plague"
+    }
+  ],
+  "themes": [
+    "Divine deliverance",
+    "Holy war",
+    "Obedience limits",
+    "Temptation and idolatry",
+    "Zeal and judgment"
+  ],
+  "practicalQuestions": [
+    "Where do fear-driven decisions tempt me to “turn back” from responsibilities or callings, and what would faithful perseverance look like?",
+    "How do I distinguish between opportunities to act boldly and times when restraint is the obedient choice (as Israel is told not to fight Moab and Ammon)?",
+    "What social pressures or “enticements” (food, drink, sexuality, flattery) most commonly weaken my moral judgment, and what safeguards can I put in place?",
+    "How should a community respond to wrongdoing in ways that seek justice and protection without descending into uncontrolled violence or scapegoating?",
+    "What does this chapter suggest about the relationship between private sin and communal consequences, and how might that shape accountability today?"
+  ],
+  "uncertainAreas": "Dating and provenance of Jasher are uncertain, so external historical claims are kept general. The account of the Levites killing Israelites to force a return, and the hyperbolic details about Og (e.g., stone size measured in parsa; angel piercing the stone; Moses killing Og with a stick) appear as expansions beyond the more familiar canonical versions, so their literary intent (legendary amplification vs. moral exemplum) is not fully clear from the chapter alone. The phrase “avenged the cause of Moab” (v.16) is somewhat ambiguous in motivation, since Israel’s stated cause is passage and survival, not explicit alliance with Moab.",
+  "createdAt": "2026-01-30T23:53:25.551Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

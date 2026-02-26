@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Jasher.88",
+  "briefOverview": "After Moses’ death, Joshua leads Israel into Canaan, highlighting how conquest depends on obedience to God’s commands. The chapter intertwines military victories with covenantal themes of holiness, judgment, and divine aid.",
+  "summary": "The Lord commissions Joshua to cross the Jordan, promises territorial boundaries and success contingent on strict obedience to Moses’ law, and Joshua prepares the people for entry into the land. Israel crosses the Jordan, camps at Gilgal, keeps Passover, and the manna ceases as they begin eating the land’s produce.\n\nJericho falls through a divinely directed ritual march and trumpet-blast; the city is devoted to destruction, with precious metals reserved for the Lord’s treasury, and Joshua pronounces a curse on rebuilding it. Achan’s theft of devoted spoil brings Israel’s defeat at Ai and prompts Joshua’s lament; God identifies Israel’s sin, Achan is singled out (via the Urim), confesses, and is executed with his household, after which Israel successfully captures Ai through an ambush and is permitted to take its spoil.\n\nCanaanite kings unite against Israel, but Gibeon secures peace by deception, becoming servile laborers because Israel’s leaders had sworn an oath. When five Amorite kings attack Gibeon, Joshua marches from Gilgal, defeats them with God’s help, including deadly hailstones. As the day wanes, Joshua commands the sun and moon to stand still, and the text presents this as a unique moment of divine intervention in battle.",
+  "externalContext": "The Book of Jasher is an ancient-sounding work known primarily through much later medieval compilations and early modern editions; it is distinct from the “Book of Jashar” referenced in the Hebrew Bible and is not generally treated as part of the Jewish or most Christian biblical canons. This chapter closely parallels the narrative arc of Israel’s entry and early campaigns in the biblical book of Joshua, reflecting traditions about conquest, covenant loyalty, and sacred war.\n\nPractices like Passover observance, the use of the Urim for divination, and devoting conquered goods (often termed “herem,” things devoted to God, sometimes by destruction) reflect ritual and legal concepts associated with ancient Israelite religion and warfare in the broader ancient Near Eastern context.",
+  "externalReferences": "The chapter’s commissioning of Joshua, promise of land, and command to be strong and obedient closely parallel Joshua 1:1–9, including the emphasis on prosperity through adherence to Moses’ law. The crossing, Passover at Gilgal, and the cessation of manna mirror Joshua 4:19 and Joshua 5:10–12.\n\nJericho’s fall, the ban on devoted spoil, Achan’s trespass and the defeat at Ai, and the subsequent ambush victory align with Joshua 6:1–27 and Joshua 7–8. The Gibeonite deception and covenant correspond to Joshua 9, while the coalition of kings, hailstones, and the “sun standing still” episode correspond to Joshua 10:1–14; the biblical version also notes a source citation (Joshua 10:13) to a “Book of Jashar.”",
+  "seeAlso": [
+    "Joshua 1:1-9",
+    "Joshua 4:19",
+    "Joshua 5:10-12",
+    "Joshua 6:1-27",
+    "Joshua 7:1-26",
+    "Joshua 8:1-29",
+    "Joshua 9:1-27",
+    "Joshua 10:1-14",
+    "2 Samuel 1:17-18"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Commission, crossing, Passover"
+    },
+    {
+      "range": "13-48",
+      "title": "Jericho and Ai campaigns"
+    },
+    {
+      "range": "49-65",
+      "title": "Gibeon treaty and great battle"
+    }
+  ],
+  "themes": [
+    "Obedience and success",
+    "Devoted things",
+    "Corporate responsibility",
+    "Divine warfare",
+    "Covenant and oath"
+  ],
+  "practicalQuestions": [
+    "Where might my community be experiencing “setbacks” that call for honest moral examination rather than only new tactics (vv. 28–32)?",
+    "What boundaries or practices help me resist “coveting” what is forbidden or unethical, as Achan confesses (vv. 34–35)?",
+    "How do I balance keeping promises (the oath to Gibeon) with correcting decisions made under deception (vv. 51–54)?",
+    "In what ways do I attribute outcomes—success or failure—to God’s guidance versus my own strategy, and how does this text challenge that balance (vv. 14–18, 38–45, 60–65)?"
+  ],
+  "uncertainAreas": "Jasher’s compositional history and relationship to the biblical ‘Book of Jashar’ are complex; I treated the chapter primarily as a parallel retelling of Joshua while noting that it is not the same work as the biblical citation. The phrase ‘six and thirty moments’ (v. 64) is unclear in meaning and duration, and the mechanism of the ‘sun standing still’ is presented narratively without interpretive detail.",
+  "createdAt": "2026-01-30T23:54:22.926Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

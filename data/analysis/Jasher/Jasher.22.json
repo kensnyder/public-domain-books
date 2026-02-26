@@ -1,0 +1,46 @@
+{
+  "chapterOsisID": "Jasher.22",
+  "briefOverview": "This chapter blends narrative and genealogy: Abraham’s settling and covenant-making around Beersheba is followed by extensive family records for Nahor’s line and a theological setup for testing Abraham’s loyalty through Isaac.",
+  "summary": "Ishmael returns with his household to Abraham in the land of the Philistines, and after many years Abraham relocates near Hebron where a dispute arises over wells dug by Abraham’s servants. Abimelech meets Abraham, denies prior knowledge of his servants’ seizure, and the two formalize an oath and covenant at Beersheba, marked by Abraham’s gift of seven ewe lambs as testimony to his claim. Abraham then establishes a grove and a hospitable, open household designed to welcome travelers, provide food and clothing, and teach them about the Creator. The narrative shifts to Nahor’s family in Haran, listing his sons (through Milcah and Reumah), their descendants, and migrations that culminate in the founding of named cities and regions (including references to Aram Naharaim and Kasdim). It records Terah’s later marriage, the birth of Zoba, Terah’s death and burial in Haran, and the growth and relocation of Zoba’s line. Finally, as Isaac matures, Ishmael boasts about his circumcision; Isaac responds that he would even submit joyfully to being offered if God commanded it, prompting a heavenly scene where Satan challenges Abraham’s faithfulness and God affirms Abraham’s integrity while allowing the prospect of a test.",
+  "externalContext": "The “Book of Jasher” is an extra-biblical work that retells and expands stories associated with the Torah; it is not part of the Jewish or most Christian biblical canons, though it has circulated in various forms. Ancient Near Eastern life in this period depended heavily on wells and access to water; disputes over wells and boundary claims commonly required oaths and covenants between local rulers and pastoralist clans. Hospitality toward travelers was a major social expectation in the ancient Near East, especially for households with ample resources, and could be framed as both social duty and religious witness. Genealogies in ancient texts often function to explain later peoples, places, and territorial names by anchoring them in family lines and migrations.",
+  "externalReferences": "The well dispute and covenant with Abimelech at Beersheba closely parallels the biblical account in Genesis 21:22–34, including the oath, seven ewe lambs, and the naming of Beersheba. The portrayal of Abraham’s open-handed hospitality echoes Genesis 18:1–8, where Abraham receives and feeds visitors. The heavenly court scene with “sons of God” and Satan’s accusation resembles Job 1:6–12 and Job 2:1–6, where Satan challenges the sincerity of a righteous man’s devotion. The concluding setup anticipates the binding of Isaac narrative found in Genesis 22:1–19, though here the catalyst includes Isaac’s statement and Satan’s charge that Abraham has become complacent after receiving blessings.",
+  "seeAlso": [
+    "Genesis 21:22-34",
+    "Genesis 18:1-8",
+    "Genesis 22:1-19",
+    "Job 1:6-12",
+    "Job 2:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Wells and covenant at Beersheba"
+    },
+    {
+      "range": "11-14",
+      "title": "Abraham’s open hospitality"
+    },
+    {
+      "range": "15-55",
+      "title": "Nahor’s line and coming test"
+    }
+  ],
+  "themes": [
+    "Covenant and oath",
+    "Hospitality",
+    "Genealogy and origins",
+    "Testing of faith",
+    "Divine court scene"
+  ],
+  "practicalQuestions": [
+    "How do I handle resource or boundary conflicts (like “well disputes”) in ways that seek truth, accountability, and peace rather than escalation?",
+    "What would “open gates” hospitality look like in my context—practically, financially, and relationally—without neglecting wise boundaries?",
+    "In what ways might comfort after answered prayers lead to spiritual complacency, and what habits could prevent that?",
+    "How should I respond when tempted to measure faithfulness by boasting or comparison, as in Ishmael and Isaac’s exchange?",
+    "What “family history” (values, patterns, commitments) am I passing on intentionally, as Abraham teaches Isaac “the way of the Lord”?",
+    "When facing trials, do I assume they prove abandonment, or can I see them as tests that refine integrity? What's my evidence either way?"
+  ],
+  "uncertainAreas": "Some place identifications (e.g., Pethor/Aram Naharaim; “Kasdim” as a land name) are presented as etiologies within the text, but correlating them confidently with specific historical sites is uncertain without broader source criticism. The chapter’s chronology (e.g., the stated 26 years and Isaac’s age 37) is internally stated but difficult to align precisely with canonical Genesis timelines, so cross-text harmonization is uncertain.",
+  "createdAt": "2026-01-30T23:30:37.161Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

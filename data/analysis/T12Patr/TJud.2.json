@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "TJud.2",
+  "briefOverview": "Judah recounts two major episodes: a military conflict with Esau’s descendants and a morally fraught family narrative centered on Tamar. The chapter highlights how violence, intoxication, sexual sin, and family manipulation lead to shame and death, while also stressing Judah’s personal responsibility.",
+  "summary": "After eighteen years of peace living alongside Esau’s family, Esau attacks with a strong force; Jacob wounds Esau, who later dies, and Jacob’s sons besiege a fortified city until Judah leads a daring assault that helps force terms of peace and tribute. The narrative then shifts to Judah’s household: his son Er marries Tamar but is portrayed as wicked and is struck down by an angel; Onan likewise acts wickedly toward Tamar and dies. Judah intends to give Shelah to Tamar but is prevented by Shelah’s mother, whom Judah later condemns for opposing Tamar because she is not Canaanite; the mother and her sons then die “through wickedness.” Two years later Tamar, still a widow, disguises herself in bridal attire and sits by the city gate at Enaim; Judah, drunk on wine, fails to recognize her and sleeps with her, giving royal pledges (staff, girdle, diadem) and she conceives. When Judah later realizes what happened, he is shamed by the return of his pledges and refrains from killing her, concluding “it was from the Lord,” and he never again approaches her. The chapter closes by locating these events relative to the famine migration to Egypt and Judah’s age and years lived there.",
+  "externalContext": "The Testament of Judah is part of the Testaments of the Twelve Patriarchs, a Jewish pseudepigraphal work preserved mainly in Greek and commonly dated (in its extant form) to the late Second Temple period, with later Christian transmission and possible editorial influence. It retells and expands patriarchal stories known from Genesis, often to offer moral exhortation (here, warnings about wine, sexual sin, and greed). The description of besieging a fortified city and extracting tribute reflects ancient Near Eastern warfare motifs, though the chapter’s details go beyond the Genesis narrative.",
+  "externalReferences": "Much of the second half closely parallels Genesis 38 (Judah, Tamar, Er, Onan, Shelah, the pledges, and the exposure of Judah’s actions), though this chapter adds motives and moral framing (e.g., deception through wine, a stated “law of the Amorites”). The move to Egypt “because of the famine” echoes Genesis 42–46, where Jacob’s family goes down to Joseph during famine. The claim that Jacob shot Esau and that Esau died is not in Genesis; Genesis 33 portrays Jacob and Esau reconciling, and Genesis 36 later records Esau’s line without describing his death in this manner.",
+  "seeAlso": [
+    "Genesis 33:1-17",
+    "Genesis 36:1-43",
+    "Genesis 38:1-30",
+    "Genesis 42:1-5",
+    "Genesis 45:25-28",
+    "Genesis 46:1-7"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-9",
+      "title": "War, siege, and tribute"
+    },
+    {
+      "range": "10-21",
+      "title": "Er, Onan, and death"
+    },
+    {
+      "range": "22-35",
+      "title": "Tamar, shame, and Egypt"
+    }
+  ],
+  "themes": [
+    "Fortitude in conflict",
+    "Sexual sin",
+    "Wine and deception",
+    "Family responsibility",
+    "Divine judgment"
+  ],
+  "practicalQuestions": [
+    "What patterns in the chapter connect intoxication with impaired judgment, and what safeguards would help prevent similar outcomes today?",
+    "Where does the text place responsibility for wrongdoing (Judah, his sons, Shelah’s mother), and how might that shape how you handle blame in family conflict?",
+    "How do power and status (Judah’s “diadem,” pledges, authority to punish) intensify the consequences of private sin becoming public?",
+    "What does it look like to seek accountability after moral failure, in light of Judah’s acknowledgment of shame and decision not to repeat the act?"
+  ],
+  "uncertainAreas": "The chapter’s account of Jacob killing Esau by arrow and the siege of an iron-walled city is not readily reconcilable with the Genesis narrative; it is unclear whether the author intends an alternative tradition, symbolic expansion, or moralized epic embellishment. The statement about “a law of the Amorites” requiring a woman to sit in fornication for seven days is difficult to verify historically and may function as a narrative rationale rather than a documented custom. The phrase about Er not knowing Tamar “according to the evil craftiness of his mother” is ambiguous (whether it blames Tamar’s mother-in-law, Judah’s wife, or another figure), and the causal logic of multiple deaths “through wickedness” is presented as theological interpretation rather than historically testable detail.",
+  "createdAt": "2026-01-31T00:09:44.843Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

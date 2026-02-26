@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "TJud.1",
+  "briefOverview": "Judah, speaking near death, recounts his early life and heroic exploits, attributing his success to divine favor and a protecting angel. The chapter closes by pivoting from warfare and strength to Judah’s marriage into an Adullamite household and the death of two of his sons.",
+  "summary": "Judah gathers his sons to hear his final words and begins by locating himself as Jacob’s fourth son, praised for youthful swiftness, obedience, and honor toward his mother and aunt. He narrates extraordinary feats of hunting and personal combat, presenting himself as a decisive protector of Jacob’s household. He then describes a series of wars against Canaanite kings and cities—ambushes, sieges, recoveries of seized spoil, and occasional restraint (making peace and restoring spoil when Jacob does so). Judah interprets his military success as assisted by God’s favor and a vision in which an angel of might followed him so he would not be overcome. After these campaigns, he notes his wealth in cattle and introduces Iram the Adullamite, through whom he meets the Adullamite king Parsaba; in a moment of being “heated,” Judah is given Parsaba’s daughter Bathshua as wife. Bathshua bears Er, Onan, and Shelah, and Judah states that the Lord struck two of them so that Shelah survived and is the ancestor of his listeners.",
+  "externalContext": "The “Testaments of the Twelve Patriarchs” is generally regarded by scholars as a Jewish work from the Second Temple period, later transmitted in Christian circles, written in the style of farewell speeches (a patriarch addressing his children before death). Such testamentary literature often combines moral instruction with idealized ancestral narratives and may amplify or reshape earlier biblical traditions to highlight virtues and vices suggested by the title (here, fortitude, greed, and sexual sin).",
+  "externalReferences": "The chapter’s framing (Judah’s last words to his sons) parallels other biblical farewell discourses such as Jacob’s blessings over his sons (Genesis 49) and Moses’ final address (Deuteronomy 31–33). Judah’s marriage to an Adullamite woman and the naming of Er, Onan, and Shelah clearly recalls Genesis 38:1–5, while the statement that the Lord “smote” two sons corresponds to Genesis 38:7–10. The repeated emphasis on divine help and victory resembles biblical depictions of God/angels aiding warriors (e.g., 2 Kings 19:35), though the specific Canaanite battles narrated here do not map neatly onto a single canonical account.",
+  "seeAlso": [
+    "Genesis 38:1-10",
+    "Genesis 49:8-12",
+    "Deuteronomy 33:7",
+    "2 Kings 19:35"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Judah’s identity and blessing"
+    },
+    {
+      "range": "8-51",
+      "title": "Feats and wars recounted"
+    },
+    {
+      "range": "52-54",
+      "title": "Marriage and sons"
+    }
+  ],
+  "themes": [
+    "Fortitude",
+    "Divine favor",
+    "Warfare and deliverance",
+    "Family legacy",
+    "Marriage choices"
+  ],
+  "practicalQuestions": [
+    "When describing our successes, do we (like Judah) acknowledge forces beyond ourselves—community support, providence, or grace—rather than only personal strength?",
+    "What patterns in this chapter suggest how unchecked anger (“I was wroth”) can endanger good judgment, and how might we build safeguards against it?",
+    "How might a single decision made while “heated” (impulsive, intoxicated, or emotionally charged) shape long-term family outcomes?",
+    "Where do we need to practice restraint after conflict—restoring what was taken, making peace when possible—rather than escalating retaliation?",
+    "What responsibilities come with being seen as a protector or leader in a family or community, and what are the risks of building identity mainly on strength and victory?"
+  ],
+  "uncertainAreas": "Several place names and kings (e.g., Aretan, Kozeba, Jobel, Makir as a city, Beelesath, Parsaba) are not securely identifiable, and the war narratives do not align clearly with specific canonical episodes; it is uncertain whether they reflect lost traditions, later embellishment, or symbolic storytelling. The phrase “when I was heated” is ambiguous (anger vs. wine/intoxication vs. passion), though the context of a feast and sudden marriage suggests impaired judgment without specifying the cause.",
+  "createdAt": "2026-01-31T00:09:19.002Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

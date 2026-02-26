@@ -1,0 +1,38 @@
+{
+  "chapterOsisID": "Jasher.17",
+  "briefOverview": "This chapter combines an origin-style narrative about conflict and intermarriage between Chittim and Tubal with a pivotal moment in Abram’s life: God establishes the covenant of circumcision and renames Abram and Sarai.",
+  "summary": "A war breaks out between the children of Chittim and the children of Tubal in Abram’s ninety-first year, ending with Tubal suffering heavy losses and then swearing not to intermarry with Chittim. Tubal’s daughters are described as exceptionally beautiful, attracting “kings and princes,” yet Tubal initially keeps its oath. Later, Chittim men seize Tubal women during harvest, prompting Tubal to attempt retaliation, first unsuccessfully due to the terrain and then with hired forces. When Tubal gains the advantage, Chittim displays the children born from Tubal’s daughters and appeals to kinship, leading Tubal to stop fighting. Chittim then builds two coastal cities. The narrative shifts to Abram at ninety-nine: the Lord appears, promises to multiply his descendants, commands circumcision of every male at eight days as an “everlasting covenant,” and changes Abram/Sarai’s names to Abraham/Sarah with the promise of a great nation and kings.",
+  "externalContext": "The names “Chittim” and “Tubal” are associated in broader biblical tradition with peoples/regions around the Mediterranean world (often linked to Cyprus/Aegean areas for Chittim and Anatolian regions for Tubal), though identifications vary by period and source. Circumcision functioned in the ancient Near East as a significant bodily marker of identity; in the Abrahamic tradition it becomes a distinctive sign of covenant membership rather than merely a cultural rite. The renaming of significant figures is a common ancient literary convention used to signal a new status, vocation, or divine promise.",
+  "externalReferences": "The covenant of circumcision, the command to circumcise male infants on the eighth day, and the renaming of Abram to Abraham and Sarai to Sarah closely parallel Genesis 17:1–16. The appeal to kinship (“flesh and bones”) reflects a broader biblical idiom for familial solidarity and shared identity, seen for example in Genesis 2:23 and 2 Samuel 5:1.",
+  "seeAlso": [
+    "Genesis 17:1-16",
+    "Genesis 2:23",
+    "2 Samuel 5:1"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-15",
+      "title": "Chittim, Tubal, and war"
+    },
+    {
+      "range": "16-20",
+      "title": "Covenant and new names"
+    }
+  ],
+  "themes": [
+    "Intergroup conflict",
+    "Marriage and kinship",
+    "Covenant sign",
+    "Promise of descendants",
+    "Identity and naming"
+  ],
+  "practicalQuestions": [
+    "What commitments (oaths, agreements) do I make, and how do my actions—directly or indirectly—undermine them?",
+    "How should a community respond when conflict involves shared family ties or innocent parties who will bear the consequences?",
+    "What visible practices or habits function as “covenant signs” in my life, marking loyalty to core values over time?",
+    "In what ways does receiving a new identity or calling (like a new name) require changes in conduct, not just self-description?"
+  ],
+  "uncertainAreas": "The geographical and ethnic identifications of Chittim, Tubal, Canopia, the river Tibreu, and the cities named are not clear from the text alone and can vary across traditions. The moral framing of Chittim’s seizure of women is narrated without explicit condemnation, leaving interpretive uncertainty about the author’s evaluative stance. The chronology link between the opening ethnographic-war narrative and the Abraham covenant scene is not fully explained beyond the time markers.",
+  "createdAt": "2026-01-30T23:28:52.805Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

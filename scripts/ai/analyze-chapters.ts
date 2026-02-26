@@ -3,62 +3,23 @@ import { aiAnalyzeChapter } from '~/lib/aiAnalyzeChapter.ts';
 import getBookByName from '~/lib/getJsonBookByName.ts';
 import { updateTokenCounts } from '~/lib/updateTokenCounts.ts';
 import type { VerseDataFileShape } from '~/types/data-shapes.ts';
-import data from '../../data/verses/KJV.json' with { type: 'json' };
 
-const workData = data as VerseDataFileShape;
-const toAnalyze = `
-Gen
-Exod
-Lev
-Num
-Deut
-Josh
-Judg
-Ruth
-1Sam
-2Sam
-1Kgs
-2Kgs
-1Chr
-2Chr
-Ezra
-Neh
-Esth
-Job
-Ps
-Prov
-Eccl
-Song
-Isa
-Jer
-Lam
-Ezek
-Dan
-Hos
-Joel
-Amos
-Obad
-Jonah
-Mic
-Nah
-Hab
-Zeph
-Hag
-Zech
-Mal
-`
-  .trim()
-  .split('\n');
+const workOsisID = 'T12Patr';
+const bookOsisIDs: string[] = [];
 
 main().catch(console.error);
 
 async function main() {
-  const allChapters = getAllChapters();
+  const path = `${import.meta.dir}/../../data/verses/${workOsisID}.json`;
+  const file = Bun.file(path);
+  const workData: VerseDataFileShape = await file.json();
+  const allChapters = getAllChapters(workData);
   let idx = 1;
   for (const osisID of allChapters) {
-    const path = `${import.meta.dir}/../../data/analysis/KJV/${osisID}.json`;
+    const path = `${import.meta.dir}/../../data/analysis/${workOsisID}/${osisID}.json`;
     const file = Bun.file(path);
     if (file.size) {
+      // Skipping existing analysis
       continue;
     }
     const chapter = workData.verses.filter((v) => v.chapterOsisID === osisID);
@@ -94,10 +55,10 @@ async function main() {
   console.log(`${idx - 1} Chapters saved.`);
 }
 
-function getAllChapters() {
+function getAllChapters(workData: VerseDataFileShape) {
   const set = new Set();
   for (const verse of workData.verses) {
-    if (!toAnalyze.includes(verse.bookOsisID)) {
+    if (bookOsisIDs.length > 0 && !bookOsisIDs.includes(verse.bookOsisID)) {
       continue;
     }
     set.add(verse.chapterOsisID);

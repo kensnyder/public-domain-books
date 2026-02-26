@@ -1,0 +1,42 @@
+{
+  "chapterOsisID": "Jasher.78",
+  "briefOverview": "This chapter juxtaposes regional political shifts in Edom and Moab with Moses’ family life in Midian, then turns to Pharaoh’s intensified oppression of Israel and God’s resolve to deliver them.",
+  "summary": "After the death of Baal Channan, Edom enthrones Hadad, who reigns forty-eight years and considers subduing Moab but withdraws when Moab quickly organizes, chooses a king, and secures Ammonite support. The narrative then shifts to Moses in Midian, who marries Zipporah and has two sons, Gershom and Eliezer, with differing notes about their circumcision connected to Reuel’s direction and Moses’ confession of God’s help. Meanwhile Pharaoh increases Israel’s labor, ordering that straw no longer be supplied while the quota of bricks remains unchanged. Israel mourns and cries out to the Lord under the bitterness of oppression. God hears, sees their suffering, and determines to bring them out of Egypt to give them Canaan as an inheritance.",
+  "externalContext": "The Book of Jasher is a non-canonical Jewish work known primarily through medieval compilations/editions and is not part of the Hebrew Bible/Old Testament canon, though it draws on and expands biblical narratives. In the ancient Near Eastern setting reflected here, Edom, Moab, and Ammon are portrayed as neighboring polities east and south of the Dead Sea region, often depicted in biblical tradition as kin-related peoples who nevertheless compete politically. The brickmaking labor described matches a wider ancient practice of large-scale state building projects relying on forced labor and mudbrick production, where straw could be used as a binder to strengthen bricks.",
+  "externalReferences": "Pharaoh’s decree to stop providing straw while requiring the same brick quota closely parallels the narrative of increased burdens in Exodus 5:6–19. Moses’ marriage to Zipporah and the naming of Gershom as reflecting his status as a “stranger” in a foreign land correspond to Exodus 2:21–22. The name Eliezer and its explanation (“God of my father was my help”) aligns with Exodus 18:4, while the focus on circumcision resonates with the covenant sign emphasized in Genesis 17:10–14.",
+  "seeAlso": [
+    "Exodus 2:21-22",
+    "Exodus 5:6-19",
+    "Exodus 18:4",
+    "Genesis 17:10-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Hadad and Moab tension"
+    },
+    {
+      "range": "7-10",
+      "title": "Moses, Zipporah, and sons"
+    },
+    {
+      "range": "11-16",
+      "title": "Oppression and divine resolve"
+    }
+  ],
+  "themes": [
+    "Oppression",
+    "Divine deliverance",
+    "Covenant sign",
+    "Leadership politics"
+  ],
+  "practicalQuestions": [
+    "When pressures increase beyond what seems fair (like Israel’s brick quota), how do I respond—despair, bitterness, prayer, or perseverance?",
+    "What does this text suggest about God’s attention to suffering—do I act as if cries for help matter to God and to me?",
+    "How might family decisions shaped by authority figures (as with Reuel’s role and circumcision) affect spiritual identity and practice today?",
+    "Where do I see fear or deterrence shaping political or personal decisions (as with Hadad), and how should I evaluate when to press forward versus refrain?"
+  ],
+  "uncertainAreas": "The rationale and chronology behind Gershom being left uncircumcised “at the command of Reuel” while Eliezer is circumcised is not explained here and may reflect a distinct tradition from (or an expansion upon) Exodus; the text does not clarify whether Moses’ agreement was voluntary, conflicted, or later corrected. The opening Edomite-Moabite material is not explicitly synchronized with the Moses/Pharaoh narrative, so the intended timeline relationship is uncertain.",
+  "createdAt": "2026-01-30T23:50:46.850Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

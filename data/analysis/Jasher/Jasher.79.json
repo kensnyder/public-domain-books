@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "Jasher.79",
+  "briefOverview": "Moses receives his commission at Horeb and begins his return to Egypt, where he and Aaron confront Pharaoh with signs and a demand to release Israel. The chapter highlights divine authority, covenant obligation, and the initial escalation of oppression before deliverance.",
+  "summary": "While Moses tends Reuel’s flock, a stray goat leads him to Horeb, where God appears in a burning bush and commissions Moses to confront Pharaoh and free Israel, promising signs to authenticate the mission.\n\nOn the journey, an angel seeks to kill Moses because his firstborn has not been circumcised; Zipporah quickly circumcises Gershom with a sharp stone and averts the threat. Aaron is then directed to meet Moses; after seeing Zipporah and the children, Aaron urges Moses to send them back to Reuel’s house, and they remain there until the eventual exodus.\n\nMoses and Aaron tell Israel God’s words and the people rejoice, then they enter Pharaoh’s court carrying the “stick of God,” dramatically loosening the lions at the gate. Pharaoh delays and consults Balaam, Jannes, Jambres, and other magicians; a contest follows in which Aaron’s rod becomes a serpent and ultimately swallows the magicians’ rods even after the serpents return to rods.\n\nPharaoh refuses to recognize the Lord, searches his royal records for God’s name, and rejects the request for a three-day journey to sacrifice. After Moses and Aaron describe God as creator and sovereign over life and death, Pharaoh angrily dismisses them and increases Israel’s labor; Moses complains to God, who promises Pharaoh will ultimately send Israel out “with an outstretched hand and heavy plagues.”",
+  "externalContext": "The “Book of Jasher” is an extra-biblical work (not part of the Hebrew Bible or New Testament canon) that retells and expands narratives known from the Pentateuch, often adding legendary details and named figures. The burning bush (Horeb/Sinai), Moses’ call, and the first confrontation with Pharaoh belong to Israel’s foundational exodus tradition, in which divine signs challenge royal ideology and the perceived power of Egypt’s gods.\n\nCircumcision is presented in Israelite tradition as a covenant marker associated with Abraham; the chapter frames it as a non-negotiable obligation for Moses’ household, even on the cusp of his public mission.",
+  "externalReferences": "The burning bush commission and God’s assurance that those who sought Moses’ life are dead parallel Exodus 3:1–10 and Exodus 4:19. The incident at the lodging place where Moses is threatened because of an uncircumcised son corresponds to the difficult passage in Exodus 4:24–26, though this chapter explicitly attributes the cause to the firstborn and to Reuel’s advice.\n\nMoses and Aaron’s demand—“Send my people that they may serve me”—and Pharaoh’s subsequent intensification of labor echo Exodus 5:1–9. The rod-to-serpent sign and the magicians’ imitation align closely with Exodus 7:8–13, though this chapter adds details such as lions at the gate and the consultation of royal records for the divine name.",
+  "seeAlso": [
+    "Exodus 3:1-12",
+    "Exodus 4:19-26",
+    "Exodus 5:1-9",
+    "Exodus 7:8-13",
+    "Genesis 17:9-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-7",
+      "title": "Call at Horeb"
+    },
+    {
+      "range": "8-18",
+      "title": "Circumcision and family return"
+    },
+    {
+      "range": "19-57",
+      "title": "Signs before Pharaoh"
+    }
+  ],
+  "themes": [
+    "Divine commissioning",
+    "Covenant circumcision",
+    "Signs and authority",
+    "Pharaoh’s resistance",
+    "Oppression intensified"
+  ],
+  "practicalQuestions": [
+    "What responsibilities or neglected commitments (like the chapter’s emphasis on covenant circumcision) might undermine the integrity of a calling or mission today?",
+    "When initial efforts for justice or reform lead to backlash (as Israel’s labor increases), how can a community persevere without losing trust in its purpose?",
+    "How do you discern the difference between authentic authority and mere imitation when “signs” can be replicated by rivals in the narrative?",
+    "What does this chapter suggest about the relationship between private household faithfulness and public leadership (Moses’ family situation before confronting Pharaoh)?"
+  ],
+  "uncertainAreas": "Identification and historicity of figures such as Balaam, Jannes, and Jambres in this setting; the narrative’s added elements (lions at the gate, royal record-book search) are not directly verifiable from the chapter itself and differ in detail from Exodus. The precise reasoning for Aaron’s grief about Zipporah and the children is implied but not explicitly explained beyond his urging that they return to her father.",
+  "createdAt": "2026-01-30T23:51:12.876Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

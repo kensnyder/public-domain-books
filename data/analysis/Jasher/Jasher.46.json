@@ -1,0 +1,40 @@
+{
+  "chapterOsisID": "Jasher.46",
+  "briefOverview": "Joseph interprets the dreams of Pharaoh’s imprisoned butler and baker, accurately predicting restoration for one and execution for the other. The chapter underscores divine control over Joseph’s timing, including the butler’s forgetfulness and Joseph’s continued confinement.",
+  "summary": "While Joseph is still imprisoned in Egypt, Pharaoh’s chief butler and chief baker are confined after defects are found in the king’s wine and bread. After a year in custody, both officials dream troubling dreams on the same night, and Joseph—seeing their sadness—offers to interpret, attributing the answer to God. Joseph interprets the butler’s dream as a sign that he will be restored in three days and asks him to remember Joseph’s unjust imprisonment and foreign origin. Joseph interprets the baker’s dream as a sign that he will be executed in three days. The narrative links the “three days” to Pharaoh’s celebration of a firstborn son and a multi-day feast, during which the officials’ fates would be enacted. Despite his promise, the restored butler forgets Joseph, which the text presents as divinely permitted to correct Joseph’s reliance on human help; Joseph remains imprisoned two more years, totaling twelve years.",
+  "externalContext": "The chief butler (cupbearer) and chief baker were high-ranking palace officials in ancient Egypt with direct responsibility for the king’s food and drink, roles that carried both privilege and severe liability when something went wrong. Imprisonment of officials pending investigation and punishment would be consistent with centralized royal administration. Feasts celebrating royal births and public rejoicing fit broader ancient Near Eastern patterns of dynastic celebration and political display.",
+  "externalReferences": "This chapter closely parallels the biblical account of Joseph interpreting the dreams of Pharaoh’s cupbearer and baker, including the three-day timeframe, the contrasting outcomes, and the cupbearer’s later forgetfulness (Genesis 40:1–23). The later resolution—when the cupbearer finally remembers Joseph and introduces him to Pharaoh after Pharaoh’s own dreams—continues the same storyline (Genesis 41:9–14).",
+  "seeAlso": [
+    "Genesis 40:1-23",
+    "Genesis 41:9-14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Two officials imprisoned"
+    },
+    {
+      "range": "6-14",
+      "title": "Joseph interprets dreams"
+    },
+    {
+      "range": "15-20",
+      "title": "Feast and Joseph forgotten"
+    }
+  ],
+  "themes": [
+    "Dream interpretation",
+    "Divine providence",
+    "Injustice and patience",
+    "Human forgetfulness"
+  ],
+  "practicalQuestions": [
+    "When facing delays or injustice, what practices help you remain faithful and hopeful rather than cynical?",
+    "Who in your life is “forgotten” or overlooked, and what concrete step could you take to remember and advocate for them?",
+    "How do you balance seeking help from people with the chapter’s warning against ultimately “trusting in man” for deliverance?",
+    "What responsibilities in your work or community resemble the butler/baker’s roles—where small failures have big consequences—and how can you cultivate integrity there?"
+  ],
+  "uncertainAreas": "Book of Jasher is a later, non-canonical work in many traditions; its relationship to Genesis varies by edition and reception. The statement that the butler’s forgetfulness was ‘from the Lord…to punish Joseph because he had trusted in man’ is explicit in this text but represents a theological interpretation that is not phrased the same way in Genesis, so its intended nuance (discipline vs. providential timing) could be read in more than one way.",
+  "createdAt": "2026-01-30T23:38:59.576Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

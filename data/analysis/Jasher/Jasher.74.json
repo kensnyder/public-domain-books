@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.74",
+  "briefOverview": "This chapter offers a chronological notice of changing kings and regional power shifts during Moses’ reign over Cush, focusing especially on a prolonged naval war between Chittim and Africa. It also notes Edom’s internal succession and Moab’s rebellion against Edomite control.",
+  "summary": "Saul king of Edom dies and is succeeded by Baal Chanan son of Achbor, whose reign is synchronized with the sixteenth year of Moses’ rule over Cush. During Baal Chanan’s days, Moab rebels and withdraws allegiance from Edom, ending a prior period of subjection dating to Hadad son of Bedad. The chapter then reports the deaths of Angeas king of Africa and Janeas king of Chittim, with their sons Azdrubal and Latinus respectively taking power.\n\nLatinus builds major state structures, commissions ships, and launches an expedition against Azdrubal in Africa, defeating him and killing him in battle; he also seizes and destroys an aqueduct-bridge linked to earlier marital and political ties. Latinus takes Azdrubal’s daughter Ushpezena as his wife and returns to Chittim. Africa then enthrones Anibal, Azdrubal’s younger brother, who wages a retaliatory campaign against Chittim, winning major victories and maintaining war for eighteen years before returning to rule securely in Africa.",
+  "externalContext": "The “Book of Jasher” is best known as a later medieval work that presents itself as an ancient chronicle; it is not the same text as the lost “Book of Jashar” referenced in the Hebrew Bible. Its narrative style often resembles annalistic historiography, linking events by regnal years and successions to create a broader world chronology around Israel’s foundational figures. The identification of groups like “Chittim” and “Cush” varies across ancient and later traditions; in many biblical contexts, “Chittim” is associated with peoples across the sea (often linked to Cyprus or broader Mediterranean regions), while “Cush” is commonly associated with regions south of Egypt.",
+  "externalReferences": "The text’s mention of successive Edomite kings resembles the king-list tradition found in Genesis, where multiple Edomite rulers are named as reigning “before there reigned any king over the children of Israel” (Genesis 36:31–39), including “Baal-hanan the son of Achbor” (Genesis 36:38). The name “Chittim” appears elsewhere as a designation for distant maritime peoples (e.g., Numbers 24:24) and later as a symbol for western/coastal powers (e.g., Daniel 11:30).",
+  "seeAlso": [
+    "Genesis 36:31-39",
+    "Genesis 36:38",
+    "Numbers 24:24",
+    "Daniel 11:30"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Edom’s succession; Moab rebels"
+    },
+    {
+      "range": "5-16",
+      "title": "Latinus defeats Azdrubal"
+    },
+    {
+      "range": "17-23",
+      "title": "Anibal’s long retaliation"
+    }
+  ],
+  "themes": [
+    "Regnal chronology",
+    "War and vengeance",
+    "Rebellion and suzerainty",
+    "Dynastic succession",
+    "Marriage as alliance"
+  ],
+  "practicalQuestions": [
+    "When power changes hands (as with Edom, Africa, and Chittim), what practices help prevent cycles of retaliation rather than intensify them?",
+    "How does the chapter portray the consequences of vengeance-driven leadership (e.g., Anibal’s eighteen-year war) for both victors and the defeated?",
+    "What does the narrative suggest about the fragility of political control over subject peoples (as with Moab’s withdrawal from Edom)?",
+    "In what ways might personal decisions by rulers (such as Latinus taking Ushpezena) function as political acts, and how should modern leaders weigh such entanglements?"
+  ],
+  "uncertainAreas": "Dating is internally anchored to “the reign of Moses over Cush,” but the chapter provides no independent markers to correlate these events historically. The geographic and ethnic identifications of “Chittim,” “Africa,” and the specific locations of structures like the aqueduct are unclear from the text alone, and the narrative may be stylized chronicle rather than recoverable history.",
+  "createdAt": "2026-01-30T23:49:20.096Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

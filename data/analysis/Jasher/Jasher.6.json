@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jasher.6",
+  "briefOverview": "This chapter recounts the entry of Noah, his family, and the animals into the ark, the onset and devastation of the flood, and God’s deliverance and eventual command to leave the ark. It emphasizes divine judgment on persistent human evil alongside mercy toward Noah.",
+  "summary": "After Methuselah’s death, God instructs Noah to sit at the ark’s entrance and admit only the animals that “crouch” before him; Noah and his sons bring these into the ark, including an unusual episode where two lion whelps drive off their mother and are taken in. The text notes pairs entering, with seven couples of “clean” animals and birds, and describes seven days of waiting before cataclysmic signs shake the earth and the flood begins. As the rains intensify, a huge crowd begs Noah to open the ark, claiming willingness to repent, but Noah rebukes them for ignoring 120 years of warning; when they attempt to break in, God uses the surrounding beasts to drive them away. The waters kill all outside the ark and lift it into violent, terrifying motion, prompting both animals and humans inside to cry out; Noah prays for deliverance and God answers by sending a wind, restraining rain, and bringing the ark to rest on Ararat. After a full year the earth dries, but Noah waits for God’s command to exit; once they leave, creatures disperse, Noah’s family settles where God directs, and God blesses them with a renewed mandate to be fruitful and fill the earth.",
+  "externalContext": "The Book of Jasher is an ancient-sounding work known through much later Jewish and early modern publications; it is distinct from the “Book of Jashar” mentioned in the Hebrew Bible and is generally treated as a later midrashic-style retelling rather than part of the biblical canon. Its narratives frequently expand biblical episodes with additional dialogue, numbers, and dramatic details, often to clarify motives or heighten moral lessons. The flood story itself is set within the wider ancient Near Eastern context where deluge traditions are common, though this chapter’s presentation is specifically shaped by Israelite-style monotheistic judgment and covenantal renewal themes.",
+  "externalReferences": "Many details parallel the canonical flood account: God’s command for Noah to enter the ark, the gathering of animals, the seven-day waiting period, the “fountains of the deep” and “windows of heaven,” forty days of rain, and the ark’s resting on Ararat (Genesis 7:1–24; 8:1–4). The chapter’s closing blessing and mandate to “be fruitful and fill all the earth” echoes God’s post-flood blessing (Genesis 9:1). Noah’s mention of a 120-year warning period aligns with the pre-flood timeframe often associated with Genesis 6:3 and Noah’s long-term warning motif (cf. Genesis 6:3; 1 Peter 3:20).",
+  "seeAlso": [
+    "Genesis 6:3",
+    "Genesis 7:1-24",
+    "Genesis 8:1-22",
+    "Genesis 9:1-7",
+    "1 Peter 3:20"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Animals gathered to ark"
+    },
+    {
+      "range": "11-26",
+      "title": "Flood begins, people refused"
+    },
+    {
+      "range": "27-42",
+      "title": "Deliverance, rest, new mandate"
+    }
+  ],
+  "themes": [
+    "Divine judgment",
+    "Mercy and deliverance",
+    "Repentance delayed",
+    "Obedient waiting",
+    "Creation renewal"
+  ],
+  "practicalQuestions": [
+    "What warnings or opportunities for change might I be ignoring until circumstances become painful?",
+    "How does this chapter challenge “last-minute” repentance that seeks only relief rather than genuine change?",
+    "In stressful or frightening situations, what does Noah’s prayer model about naming fear and asking for help?",
+    "Where might obedience look like patient waiting for God’s timing rather than acting as soon as conditions seem favorable?",
+    "How can the mandate to “fill the earth” be understood today as responsibility to rebuild life faithfully after crisis?"
+  ],
+  "uncertainAreas": "The meaning of admitting only animals that “crouch” (and leaving those that stand) is not explained; it could symbolize selection, docility, or divine signaling, but the text does not state the rationale. The lioness episode is also opaque—whether it implies divine sorting, animal hierarchy, or a moral illustration is unclear. The figure of about seven hundred thousand people appears rhetorically large and cannot be verified from the chapter itself or securely cross-anchored to a parallel canonical number.",
+  "createdAt": "2026-01-30T23:25:02.086Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Jasher.76",
+  "briefOverview": "This chapter recounts Moses’ departure from his long reign in Cush and his arrival in Midian, alongside an extended portrayal of Pharaoh’s worsening afflictions and escalating cruelty toward Israel.",
+  "summary": "After forty years as king in Cush, Moses is challenged by Queen Adoniah, who objects that he has not approached her and has not served Cushite gods; the people enthrone her son Menacrus instead, yet they honor Moses and send him away peacefully, seeing the change as providential timing for Israel’s deliverance.\n\nMoses travels to Midian, aids Reuel’s daughters at a well, and is welcomed into Reuel’s household; however, Reuel secretly imprisons Moses for ten years, during which Zipporah sustains him with food and water.\n\nMeanwhile, Israel’s harsh servitude in Egypt continues, and the text portrays the Lord responding to Israel’s cries by striking Pharaoh with severe diseases, including leprosy and later other destructive plagues.\n\nPharaoh, following his advisors, compounds his guilt by ordering Israelite infants seized and killed for a purported medical remedy, yet his condition worsens and his heart hardens further.\n\nIn attempting to confront Israel in Goshen, Pharaoh suffers a catastrophic fall that leaves him broken; anticipating death, he installs his son Adikam as king, and then dies in shame without customary embalming due to decay, which the chapter presents as divine recompense for his oppression of Israel.",
+  "externalContext": "The Book of Jasher is a later Jewish narrative work (often classified as midrashic/legendary) that expands biblical stories with additional names, episodes, and moralizing details; it is distinct from the “Book of Jashar” mentioned in the Hebrew Bible.\n\nThe depiction of Moses reigning in Cush/Ethiopia for decades is not part of the canonical Exodus narrative, but appears in later Jewish and medieval traditions that elaborate Moses’ early life.\n\nEgyptian royal burial customs typically included embalming/mummification; the chapter’s emphasis on the inability to embalm Pharaoh highlights dishonor by contrasting him with expected elite practice.",
+  "externalReferences": "Moses’ flight to Midian and his aid to a priest’s daughters at a well parallels the core narrative in Exodus 2:15–22, though this chapter adds the elements of a prior Cushite reign and a decade-long imprisonment.\n\nThe chapter’s picture of Israel’s intensifying bondage and God’s response to their cries aligns thematically with Exodus 2:23–25 and Exodus 3:7–10, where Israel’s groaning leads to divine attention and the commissioning of Moses.\n\nPharaoh’s “hardened” disposition echoes the Exodus pattern (e.g., Exodus 7:13; 8:15), although the specific plagues of leprosy and child-blood “medicine” are expansions beyond the Exodus plague cycle as commonly presented.\n\nThe setting of Goshen as Israel’s location in Egypt matches Genesis 47:1–6 and Exodus 8:22.",
+  "seeAlso": [
+    "Exodus 2:15-22",
+    "Exodus 2:23-25",
+    "Exodus 3:7-10",
+    "Exodus 7:13",
+    "Exodus 8:15",
+    "Exodus 8:22",
+    "Genesis 47:1-6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-12",
+      "title": "Moses Departs from Cush"
+    },
+    {
+      "range": "13-23",
+      "title": "Midian and Moses Imprisoned"
+    },
+    {
+      "range": "24-62",
+      "title": "Pharaoh Afflicted and Dethroned"
+    }
+  ],
+  "themes": [
+    "Divine providence",
+    "Oppression and judgment",
+    "Leadership transition",
+    "Hardening of heart",
+    "Deliverance timing"
+  ],
+  "practicalQuestions": [
+    "What does this chapter suggest about leadership legitimacy—birth/ethnicity, religious allegiance, or demonstrated justice?",
+    "When circumstances force an unwanted transition (as with Moses leaving Cush), how might one interpret or respond to it without retaliation?",
+    "How does the text portray the moral trajectory of suffering—what happens when power responds to pain with increased cruelty?",
+    "Who plays quiet, sustaining roles in times of injustice (as Zipporah does), and what support can you realistically offer to someone trapped in a long hardship?",
+    "What practices today resemble “instrumentalizing” vulnerable people for the benefit of the powerful, and how should such logic be confronted?",
+    "How might the idea of delayed but fitting recompense (Pharaoh’s end) shape one’s approach to justice and patience?"
+  ],
+  "uncertainAreas": "Dating and precise provenance of Jasher traditions vary across editions; I limited external claims to broad, well-attested descriptions. Some cross-references (e.g., hardening language) are thematic rather than direct quotations, since Jasher’s details differ substantially from Exodus’ specific plague narratives.",
+  "createdAt": "2026-01-30T23:50:02.091Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

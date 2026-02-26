@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "Jasher.86",
+  "briefOverview": "The chapter recounts a post-plague census of Israel and then narrates Israel’s divinely commanded campaign against Midian as an act of vengeance for prior harm to Israel.",
+  "summary": "After a pestilence, the Lord instructs Moses and Eleazar to number Israel’s fighting-age males (twenty years old and up), resulting in a total of 700,730. Levi is also counted separately from one month old and up, totaling 23,000, and the text emphasizes that none of the earlier wilderness generation remains except Caleb and Joshua, in fulfillment of God’s prior word. God then commands Moses to have Israel avenge their brethren against Midian. Israel selects 12,000 men—one thousand from each tribe—and wages war, killing every male, including five Midianite princes and Balaam son of Beor. The Israelites take Midian’s women, children, cattle, and goods as captives and spoil, bring everything to Moses and Eleazar in the plains of Moab, and then divide the spoil, portrayed as a completed act of retributive justice.",
+  "externalContext": "The combination of a post-plague census and a Midianite campaign closely parallels the narrative sequence in the Pentateuch where a new generation is numbered on the plains of Moab as Israel prepares to enter Canaan. In ancient Near Eastern societies, censuses commonly served military and administrative purposes (e.g., mustering able-bodied men for war and organizing tribes/clans). The “plains of Moab” function as a staging area east of the Jordan River in Israel’s wilderness-to-land transition narratives.",
+  "externalReferences": "The census after the plague and the emphasis that the earlier wilderness generation had died (except Caleb and Joshua) aligns with Numbers 26:1–65, including the separate accounting for Levi (Numbers 26:57–62) and the fulfillment of the wilderness-death decree (cf. Numbers 14:28–35). The command to take vengeance on Midian, the mustering of 12,000 men (one thousand per tribe), the killing of Midianite leaders, and the death of Balaam son of Beor correspond strongly with Numbers 31:1–12 and Numbers 31:8. The hostility between Israel and Midian in this context is commonly tied in the Torah to the earlier episode where Midianites are associated with leading Israel into transgression (Numbers 25:1–18).",
+  "seeAlso": [
+    "Numbers 14:28-35",
+    "Numbers 25:1-18",
+    "Numbers 26:1-65",
+    "Numbers 26:57-62",
+    "Numbers 31:1-12",
+    "Numbers 31:8"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Census after the plague"
+    },
+    {
+      "range": "6-12",
+      "title": "Vengeance on Midian"
+    }
+  ],
+  "themes": [
+    "Covenant judgment",
+    "Communal accountability",
+    "Holy war",
+    "Leadership transition",
+    "Spoil and division"
+  ],
+  "practicalQuestions": [
+    "What does this chapter suggest about how communities remember collective failures and their consequences across generations?",
+    "How should a modern reader wrestle ethically with the text’s framing of warfare and vengeance as divinely commanded?",
+    "What responsibilities do leaders (like Moses and Eleazar here) have in organizing, receiving, and fairly distributing communal resources after a crisis?",
+    "Where do you see the tension between justice, retribution, and mercy in this narrative, and how might that shape your approach to conflict today?"
+  ],
+  "uncertainAreas": "The chapter is brief and assumes familiarity with earlier events: the specific “pestilence” and the precise wrong done by Midian are not described here, so their details must be inferred from likely parallels (e.g., Numbers 25). The phrase about none remaining “excepting Caleb… and Joshua” is clear in intent but telescopes complex census/generation language; without external comparison it is hard to know how strictly to read it with respect to the Levites counted separately.",
+  "createdAt": "2026-01-30T23:53:43.268Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

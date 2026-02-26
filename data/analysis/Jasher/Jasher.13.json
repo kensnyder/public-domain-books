@@ -1,0 +1,48 @@
+{
+  "chapterOsisID": "Jasher.13",
+  "briefOverview": "This chapter traces Abram’s repeated call to leave Haran for Canaan and highlights God’s covenant promises of land, descendants, and blessing. It also situates Abram’s life alongside wider political conflicts involving Nimrod, Chedorlaomer, and the cities of the plain.",
+  "summary": "Terah migrates with Abram’s household from Ur Casdim toward Canaan but settles in Haran, where Abram gains a reputation for uprightness and teaches others “the instruction of the Lord.” After three years, God appears to Abram, promises protection, blessing, and innumerable descendants, and commands him to go to Canaan; Abram obeys and builds an altar there. The narrative marks time by noting Noah’s death and by separating Abram’s residence in Canaan from relatives who remain in Haran. It then describes regional upheavals: Sodom and Gomorrah’s rebellion against Chedorlaomer and a major war in which Nimrod is defeated and subjected to Chedorlaomer, who forms alliances with other kings. God again appears to Abram, expands the land promise (from the river of Mitzraim to the Euphrates), and foretells Abram’s peaceful death and a later return of the “fourth generation.” Abram briefly returns to Haran, gathers additional followers, receives a renewed call echoing earlier promises, and finally returns to Canaan at age seventy-five, dwelling near Mamre and building another altar after God reiterates the land promise.",
+  "externalContext": "The Book of Jasher (Sefer haYashar) is a later Jewish narrative work that retells and expands stories known from the Hebrew Bible, often adding chronological notices, speeches, and dramatic details not found in Genesis. “Ur Casdim” is traditionally associated with southern Mesopotamia, and “Haran” with a major settlement in northern Mesopotamia on key trade routes, making the migration path culturally plausible in broad outline. Altars and sacrifice function in ancient Near Eastern religion as public markers of worship and covenant loyalty, and the chapter portrays Abram doing this repeatedly at key moments of divine encounter.",
+  "externalReferences": "Abram’s departure from Ur/Haran under divine command, the promise of land and descendants “like the stars,” and the claim that “in thee shall the families of the earth be blessed” closely parallel Genesis 12:1–3 and Genesis 15:5. Abram’s age of seventy-five when departing Haran matches Genesis 12:4, while the mention of Mamre aligns with Abram’s later dwelling place in Genesis 13:18. The revolt of the cities of the plain and Chedorlaomer’s role as an overlord anticipate the war narrative of Genesis 14:1–12, though Jasher adds expanded details about Nimrod and troop numbers.",
+  "seeAlso": [
+    "Genesis 11:31",
+    "Genesis 12:1-5",
+    "Genesis 12:7-8",
+    "Genesis 13:18",
+    "Genesis 15:5",
+    "Genesis 15:18",
+    "Genesis 17:1",
+    "Genesis 14:1-12"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-10",
+      "title": "Call, travel, and altar"
+    },
+    {
+      "range": "11-16",
+      "title": "Kings’ revolt and war"
+    },
+    {
+      "range": "17-28",
+      "title": "Renewed promises and return"
+    }
+  ],
+  "themes": [
+    "Divine calling",
+    "Covenant promises",
+    "Altars and worship",
+    "Obedience",
+    "Blessing and land"
+  ],
+  "practicalQuestions": [
+    "What “good land” comforts or delays might keep me from following a conviction I believe God has given me?",
+    "How can Abram’s pattern of building altars (marking commitments through worship) translate into concrete practices of remembrance or dedication today?",
+    "Where do I see the text linking moral character (“upright with God and men”) with influence on others, and how might that challenge my public and private life?",
+    "The chapter places Abram’s faith journey alongside large political conflicts—how can I keep spiritual commitments steady when the broader world feels unstable?",
+    "What does it look like to gather others ethically (as Abram teaches and people join him) without coercion or self-promotion?"
+  ],
+  "uncertainAreas": "Dating and provenance of Jasher are complex and vary by scholarly assessment; I kept external context general. The identification of “river Mitzraim” is debated (often associated with an Egyptian border region), and the text’s chronology (multiple departures/returns and Abram’s ages) is internally specific but may not align neatly with Genesis; I treated those differences descriptively rather than harmonizing them.",
+  "createdAt": "2026-01-30T23:27:32.459Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

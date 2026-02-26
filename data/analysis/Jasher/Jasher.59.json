@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.59",
+  "briefOverview": "This chapter catalogs Jacob’s family who settled in Egypt and then narrates Joseph’s final testimony about God’s future deliverance. It closes with Joseph’s death and the beginning of a new political posture in Egypt toward Israel.",
+  "summary": "The text lists the sons of Israel, their mothers, and many of their offspring, emphasizing the family’s composition as it moved from Canaan into Egypt. It totals the descendants who came from Jacob’s line as seventy souls and describes Israel’s security and prosperity in Egypt during Joseph’s lifetime. Joseph’s age and length of rule are given, and as he approaches death he gathers his brothers and household to announce that God will “surely visit” them and bring them to the land promised to their fathers. He requests—then binds them by oath—to carry his bones up from Egypt when that deliverance comes. Joseph dies at 110, is embalmed and mourned widely in Egypt, and is placed in a perfumed coffin by the river Sihor. After his death, the chapter notes a shift: Egyptians begin to “rule over” the children of Israel under a new Pharaoh who consolidates Egypt’s laws and governance.",
+  "externalContext": "The style of family listing reflects ancient Near Eastern genealogies, which commonly established identity, inheritance, and tribal relationships for later generations. Egyptian embalming and extended mourning practices are well-attested in Egyptian culture and were typically associated with high status. The chapter’s “seventy souls” is a traditional symbolic total for Israel’s founding family group, echoed in other Israelite traditions to mark the completeness of the clan that entered Egypt.",
+  "externalReferences": "The genealogical list and the “seventy” total correspond closely to parallel lists of Jacob’s descendants entering Egypt (Genesis 46:8–27; Exodus 1:1–5). Joseph’s dying charge about God’s future “visitation” and the request to carry his bones from Egypt aligns with Genesis 50:24–26 and is later fulfilled when Israel leaves Egypt (Exodus 13:19; Joshua 24:32). The notice that Egyptians began to rule over Israel anticipates the oppression narrative associated with “a new king over Egypt” (Exodus 1:8–14).",
+  "seeAlso": [
+    "Genesis 46:8-27",
+    "Genesis 50:24-26",
+    "Exodus 1:1-14",
+    "Exodus 13:19",
+    "Joshua 24:32"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-19",
+      "title": "Names and offspring listed"
+    },
+    {
+      "range": "20-27",
+      "title": "Joseph’s final charge"
+    },
+    {
+      "range": "28",
+      "title": "Shift after Joseph’s death"
+    }
+  ],
+  "themes": [
+    "Genealogy",
+    "Covenant promise",
+    "Death and burial",
+    "Oppression begins"
+  ],
+  "practicalQuestions": [
+    "What family stories or “genealogies” (literal or spiritual) shape your identity and responsibilities today?",
+    "How does Joseph’s confidence that God will “visit” and restore his people challenge or strengthen your hope amid long-term uncertainty?",
+    "What promises or values would you want future generations to remember and “carry with them,” as Israel was to carry Joseph’s bones?",
+    "Where might periods of comfort be masking an approaching change in social or political conditions, and how should a community prepare wisely?"
+  ],
+  "uncertainAreas": "The identification of “Sihor” and the precise location of Joseph’s burial in this text is unclear (it differs from other traditions that associate Joseph’s eventual burial with Shechem). The statement that Joseph ‘reigned over all Egypt eighty years’ is difficult to reconcile with other chronologies and may reflect a distinct tradition within Jasher.",
+  "createdAt": "2026-01-30T23:43:56.861Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

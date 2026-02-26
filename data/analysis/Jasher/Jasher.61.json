@@ -1,0 +1,43 @@
+{
+  "chapterOsisID": "Jasher.61",
+  "briefOverview": "This chapter intertwines Israel’s settled life in Egypt (including forced royal labor and the deaths of Jacob’s sons) with a separate geopolitical narrative about Zepho’s rise to power among the Chittim after failed attempts to provoke war against Jacob’s family.",
+  "summary": "Pharaoh orders the construction of a strong palace, and the sons of Jacob are compelled to assist in the building, after which Pharaoh’s rule is described as secure. The chapter notes the deaths of Zebulun (114 years old) and Simeon (120 years old), each placed in a coffin and entrusted to their descendants. Meanwhile, Zepho (Esau’s descendant) repeatedly urges Angeas, king of Dinhabah, to wage war against the sons of Jacob in Egypt, but Angeas initially refuses due to reports of Jacob’s sons’ military strength. Angeas eventually consults a young, wise Balaam, who uses witchcraft-like divination with wax models and water to foresee Angeas’s defeat, causing Angeas to abandon the campaign. Zepho then flees to Chittim, gains honor and wealth as a military champion, and becomes famous for killing a man-beast creature in a cave—an act commemorated with an annual day bearing his name and offerings. As Angeas’s queen Jania falls ill, Angeas’s advisors attribute it to differences in air and water; he imports Chittim’s water and even channels it by a massive bridge, along with importing soil and building palaces, and she recovers. Later Zepho repels African raiders from Chittim, is made king, and reigns over Chittim and “Italia” for fifty years after further conquests.",
+  "externalContext": "The Book of Jasher is an ancient Jewish pseudepigraphal work known primarily through later forms (including a medieval Hebrew compilation and later translations) and is not the same as the now-lost “Book of Jashar” mentioned in the Hebrew Bible. Its narratives often expand biblical storylines with legendary material, additional characters, and etiological explanations (e.g., origins of names, festivals, or political developments). In ancient Near Eastern and Mediterranean settings, royal building projects commonly functioned as displays of power and stability and were frequently sustained through corvée (state-imposed labor), a practice also known from Egypt and later empires. Divination and magical arts (including image-based rites and water-omen practices) were widespread in many ancient cultures, even when later biblical tradition polemicizes against them.",
+  "externalReferences": "The notice that Israelites were made to labor for Pharaoh anticipates the broader biblical theme of Israel’s enslavement in Egypt and forced building labor (Exodus 1:11–14). The figure Balaam appears prominently in the Torah as a foreign diviner consulted by a king before conflict with Israel (Numbers 22:2–7), which resembles this chapter’s portrayal of a young Balaam using occult insight about an impending battle. The chapter’s emphasis on coffin burial and family custody loosely echoes Joseph’s embalming and placement in a coffin in Egypt (Genesis 50:26), though here applied to Zebulun and Simeon within a later timeline.",
+  "seeAlso": [
+    "Exodus 1:11-14",
+    "Numbers 22:2-7",
+    "Genesis 50:26"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-4",
+      "title": "Pharaoh’s palace; deaths"
+    },
+    {
+      "range": "5-12",
+      "title": "War plot; Balaam divines"
+    },
+    {
+      "range": "13-25",
+      "title": "Zepho’s rise in Chittim"
+    }
+  ],
+  "themes": [
+    "Forced labor",
+    "Death and legacy",
+    "Divination",
+    "Political power",
+    "War and conquest"
+  ],
+  "practicalQuestions": [
+    "What kinds of “building projects” today rely on coerced, exploitative, or unequal labor, and how should communities respond?",
+    "How should the text’s portrayal of divination influencing political decisions inform our evaluation of leaders who rely on superstition, propaganda, or unethical counsel?",
+    "What does it look like to preserve family memory and responsibility (as with the coffins entrusted to children) in a way that is healthy rather than merely symbolic?",
+    "When a community celebrates a heroic figure (as Chittim honors Zepho), what safeguards can prevent admiration from turning into uncritical veneration or harmful ritual?",
+    "How do we discern whether infrastructure and wealth (palaces, waterworks) are being used for common good or primarily to consolidate elite comfort and power?"
+  ],
+  "uncertainAreas": "Place names and peoples (Dinhabah, Chittim, Cuptizia, Purmah, Tubal, and especially “Italia”) are not clearly identifiable from the chapter alone and may reflect legendary geography. The “man-beast” creature reads as mythic/etiological material rather than straightforward history, but the text does not signal genre explicitly. The relationship between Angeas, Africa, Chittim, and the described water-bridge engineering is unclear and may be symbolic or exaggerated. The identification of Balaam with the biblical Balaam is plausible but not explicitly proven within the chapter beyond the shared name and role as a diviner.",
+  "createdAt": "2026-01-30T23:44:52.670Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

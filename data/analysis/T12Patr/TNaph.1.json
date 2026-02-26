@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "TNaph.1",
+  "briefOverview": "Naphtali recounts his origins and family background, then turns to a moral exhortation: live in ordered, God-fearing “natural goodness” rather than the disorder associated with evil. He also issues a prophetic warning of Israel’s future apostasy, exile, partial return, and eventual worldwide scattering until divine compassion comes.",
+  "summary": "On the occasion of a family feast, Naphtali tells his sons that he is about to die and begins his final instruction.\n\nHe recounts his birth through Bilhah, Rachel’s affection for him, and a genealogical tradition about Bilhah’s ancestry and how she and Zilpah came into Laban’s household. He describes his own swiftness and Jacob’s use of him as a messenger.\n\nNaphtali then teaches that God fashions creation with “weight, measure, and rule,” comparing God to a potter who knows each vessel; human bodies and spirits are fitted to each other, and God knows each person’s inclinations. He emphasizes that different faculties have different proper functions, and that bodily parts are ordered for distinct roles.\n\nFrom this he draws an ethical appeal: do works “in order,” in the fear of God, not disorderly, not through covetousness or deceptive speech; purity and silence of heart help one hold to God’s will and reject “the will of Beliar.” He uses the fixed order of sun, moon, and stars as a model for not changing God’s law.\n\nHe warns against Gentile idolatry and cites Sodom and the Watchers as examples of “changing the order of nature.” Claiming to have read Enoch, he predicts his descendants will imitate Gentile lawlessness, suffer captivity and affliction, then partially return through God’s mercy, fall again into forgetfulness, and finally be scattered until God’s compassion comes through “a man working righteousness and…mercy” to those far and near.",
+  "externalContext": "The “Testaments of the Twelve Patriarchs” is a Jewish (and later Christian-edited) pseudepigraphal work, likely compiled in its present form in the late Second Temple period and transmitted in Greek, presenting each patriarch as giving a deathbed exhortation. Its ethical teaching often blends biblical themes with Hellenistic-style moral instruction and apocalyptic warnings. The reference to “Beliar” reflects Second Temple Jewish language for a chief evil power (similar to Satan) found in several texts from this era. Mention of “the writing of Enoch” aligns with the popularity of Enochic literature in Second Temple Judaism as a source for interpreting Genesis traditions about angels and judgment.",
+  "externalReferences": "Naphtali’s origin story echoes the biblical account of Rachel giving Bilhah to Jacob and naming Naphtali (Genesis 30:3–8). The “Watchers” motif and the appeal to Enoch correspond to traditions stemming from Genesis 6:1–4 and expanded in 1 Enoch 6–16.\n\nHis warnings about captivity, return, and renewed unfaithfulness resemble the covenant pattern of disobedience leading to exile and eventual restoration found in Deuteronomy 28:36–37 and Deuteronomy 30:1–5. The phrase about mercy reaching “afar off” and “near” resonates with prophetic language of restoration that addresses both distant and nearby peoples (e.g., Isaiah 57:19).",
+  "seeAlso": [
+    "Genesis 30:3-8",
+    "Genesis 6:1-4",
+    "Deuteronomy 28:36-37",
+    "Deuteronomy 30:1-5",
+    "Isaiah 57:19",
+    "1 Enoch 6-16"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-13",
+      "title": "Setting and ancestry"
+    },
+    {
+      "range": "14-24",
+      "title": "Creation’s order and ethics"
+    },
+    {
+      "range": "25-32",
+      "title": "Warning, exile, and mercy"
+    }
+  ],
+  "themes": [
+    "Created order",
+    "Natural goodness",
+    "Rejecting Beliar",
+    "Apostasy and exile",
+    "Divine mercy"
+  ],
+  "practicalQuestions": [
+    "What would it look like for my daily choices (speech, desires, timing, priorities) to be done “in order” rather than impulsively or disorderly?",
+    "Where do I see “covetousness” or manipulative speech tempting me to “beguile” my own conscience, and what practices (silence, honesty, restraint) would counter that?",
+    "How does the chapter’s appeal to the orderedness of creation challenge my tendency to redefine moral boundaries to fit convenience?",
+    "When I see patterns of moral failure repeated over time (in myself or my community), how can I pursue repentance and restoration without presuming on mercy or falling into despair?"
+  ],
+  "uncertainAreas": "Authorship/date are inherently uncertain for pseudepigrapha; I kept external context general. The identification of Isaiah 57:19 as the best parallel for “afar off” and “near” is plausible but not exclusive; similar phrasing occurs elsewhere, so the resonance is somewhat interpretive. The line about a coming “man working righteousness” could be read in various ways (prophetic leader, ideal righteous person, messianic figure); the text itself is not explicit in this excerpt.",
+  "createdAt": "2026-01-31T00:13:15.094Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

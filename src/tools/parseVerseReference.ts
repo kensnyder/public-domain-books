@@ -6,7 +6,7 @@ export default function parseVerseReference(verseString: string) {
     return null;
   }
   // remove punctuation such as periods
-  const cleanBook = match[1].replace(/[^a-z0-9 ]/gi, '');
+  const cleanBook = match[1].replace(/[^a-z0-9& ]/gi, '');
   const book = getBookByName(cleanBook);
   if (!book) {
     return null;

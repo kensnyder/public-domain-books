@@ -1,0 +1,44 @@
+{
+  "chapterOsisID": "AscIsa.11",
+  "briefOverview": "A visionary account presenting the birth, ministry, death, resurrection, and heavenly ascent of Jesus as revealed to the prophet Isaiah.",
+  "summary": "An angel tells Isaiah he will witness a revelation. Isaiah sees Mary, a virgin of David’s line, betrothed to Joseph; Joseph initially intends to put her away but is reassured by an angel and witnesses a miraculous infant in secret. Rumors spread in Bethlehem, the child is raised in Nazareth, and in adulthood performs signs and wonders; he is handed over, crucified, descends to the angel of Sheol, rises on the third day, and sends out the Twelve. Isaiah then watches the risen Lord ascend through the seven heavens, who is praised by angels and ultimately sits at the right hand of the Great Glory. The angel instructs Isaiah to return to his earthly life until the appointed time, and the narrative ends by reporting Isaiah’s martyrdom under Manasseh and the failure of Manasseh to heed the vision.",
+  "externalContext": "The Ascension of Isaiah is part of the Christian pseudepigraphal/apocalyptic literature that circulated in late antiquity (roughly 1st–3rd centuries CE) and survives in fragmented Greek and Ethiopic forms. It blends Jewish prophetic motifs with Christian gospel themes and belongs to a wider genre of 'heavenly ascent' narratives (e.g., 1 Enoch, Apocalypse of Paul) that describe visionary journeys through multiple heavens.",
+  "externalReferences": "The nativity material parallels elements of the Gospel infancy narratives (compare Matthew 1:18–25 and Luke 1:26–2:21) in its emphasis on a virgin Mary, Joseph’s initial doubt, and angelic intervention. The crucifixion, resurrection on the third day, commissioning of the Twelve, and ascension echo accounts in the canonical Gospels and Acts (see Acts 1:9–11), while the detailed ascent through multiple heavens finds close formal kinship with Jewish and Christian ascent traditions such as 1 Enoch 14 and the vision Paul mentions in 2 Corinthians 12:2–4. The tradition that Isaiah was martyred under Manasseh also appears in later Jewish and Christian martyrdom legends about prophets.",
+  "seeAlso": [
+    "Matthew 1:18-25",
+    "Luke 1:26-2:21",
+    "Acts 1:9-11",
+    "2 Corinthians 12:2-4",
+    "1 Enoch 14",
+    "Isaiah 6"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-11",
+      "title": "Nativity and Secrecy"
+    },
+    {
+      "range": "12-18",
+      "title": "Upbringing and Ministry"
+    },
+    {
+      "range": "19-43",
+      "title": "Passion, Ascent, Aftermath"
+    }
+  ],
+  "themes": [
+    "Virgin birth",
+    "Resurrection",
+    "Ascension",
+    "Prophetic vision"
+  ],
+  "practicalQuestions": [
+    "How should communities discern and respond to extraordinary private revelations today?",
+    "What responsibilities do witnesses have when instructed to keep spiritual experiences secret?",
+    "How does the depiction of the divine entering ordinary life (a child in Nazareth) affect our understanding of sacred presence in the everyday?",
+    "In what ways should we remember and honor prophetic voices who suffer or are marginalized?"
+  ],
+  "uncertainAreas": "Uncertainties include the text’s precise date, original language, and compositional history; some narrative details are ambiguous (e.g., Mary’s womb appearing both pregnant and restored, the visionary sighting of the infant), and the identity/role of certain figures (the 'angel of the Holy Spirit', the 'Great Glory') is not fully explained in the chapter.",
+  "createdAt": "2026-01-30T23:03:38.153Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

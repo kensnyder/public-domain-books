@@ -1,0 +1,49 @@
+{
+  "chapterOsisID": "Jasher.82",
+  "briefOverview": "Israel receives the Ten Commandments at Sinai, quickly falls into idolatry with the golden calf, and is then restored through Moses’ intercession and renewed covenant tablets. The chapter closes with Israel’s unified effort to build a sanctuary (tabernacle) as commanded.",
+  "summary": "Israel journeys from Rephidim and camps in the wilderness of Sinai in the third month after leaving Egypt, where Moses’ Midianite father-in-law Reuel arrives with Zipporah and Moses’ sons and comes to know the Lord.\n\nOn the sixth day of the third month, God gives the Ten Commandments at Mount Sinai; Moses enters the cloud, fasts forty days and nights, and receives the commandments on stone tablets written by God.\n\nWhen Moses delays, the people pressure Aaron to make a god to go before them; Aaron fashions a molten calf, and God announces judgment, but Moses pleads for the people and descends with the tablets.\n\nSeeing the calf, Moses breaks the tablets, destroys the idol, and makes Israel drink the water with the ground dust; about three thousand die by sword in the ensuing judgment.\n\nMoses returns to God to seek atonement, intercedes for another forty days and nights, and God directs him to hew new tablets on which the Ten Commandments are rewritten, while further laws are given.\n\nGod commands the making of a sanctuary and shows Moses its pattern; Moses delivers God’s words to Israel, and the people respond with eager obedience, generous offerings, and skilled craftsmanship until the tabernacle and its furnishings are completed and blessed by Moses.",
+  "externalContext": "The “Book of Jasher” is a later Jewish work known primarily through medieval and early modern forms, and it is not part of the Hebrew Bible canon; its narrative often parallels and expands stories found in Exodus. “Reuel” is a name associated with Moses’ Midianite father-in-law in some biblical traditions, while “Jethro” is the more common name used elsewhere, reflecting either alternate naming traditions or harmonizing retellings. The wilderness of Sinai functions in Israel’s foundational memory as the setting for covenant formation, lawgiving, and the establishment of worship practices centered on a portable sanctuary.",
+  "externalReferences": "The chapter closely parallels the Sinai lawgiving narrative in Exodus: the Ten Commandments (Exodus 20:1–17), Moses’ forty days on the mountain and the tablets (Exodus 24:18; 31:18), the golden calf episode and Moses’ intercession (Exodus 32:1–35), and the renewal of tablets (Exodus 34:1–4, 28). The sanctuary instructions and Israel’s offerings and craftsmanship correspond to the tabernacle material in Exodus 25–31 and its construction in Exodus 35–40.",
+  "seeAlso": [
+    "Exodus 18:1-12",
+    "Exodus 19:1-25",
+    "Exodus 20:1-17",
+    "Exodus 24:18",
+    "Exodus 31:18",
+    "Exodus 32:1-35",
+    "Exodus 34:1-4",
+    "Exodus 34:28",
+    "Exodus 35:4-29",
+    "Exodus 40:16-33"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-5",
+      "title": "Reuel visits Israel"
+    },
+    {
+      "range": "6-26",
+      "title": "Covenant, calf, renewal"
+    },
+    {
+      "range": "27-37",
+      "title": "Sanctuary built and blessed"
+    }
+  ],
+  "themes": [
+    "Covenant lawgiving",
+    "Idolatry and judgment",
+    "Moses’ intercession",
+    "Repentance and restoration",
+    "Worship sanctuary"
+  ],
+  "practicalQuestions": [
+    "When leadership or guidance feels “delayed,” what pressures tempt you to substitute something visible and immediate for faithful trust?",
+    "How does this chapter portray the role of intercession—what might it look like to plead for others while still taking wrongdoing seriously?",
+    "What practices help a community move from failure (the calf) to renewed obedience (offerings and construction of the sanctuary)?",
+    "What do the people’s “generous offerings” suggest about aligning material resources with shared spiritual commitments today?"
+  ],
+  "uncertainAreas": "Unclear whether “so that thou shalt not die” (v.13) reflects fear of Moses’ absence, fear of divine judgment, or a textual/translation awkwardness. The identity and naming of Moses’ father-in-law as “Reuel” (rather than “Jethro”) is consistent with some traditions but may reflect harmonization; the chapter does not explain the naming difference. The statement that about three thousand died “by the swords of each other” (v.20) is textually clear here but differs in phrasing from Exodus, so the mechanism of the killing is not fully explained within this retelling.",
+  "createdAt": "2026-01-30T23:52:15.841Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

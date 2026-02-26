@@ -1,0 +1,41 @@
+{
+  "chapterOsisID": "AscIsa.6",
+  "briefOverview": "Isaiah visits King Hezekiah and, in the presence of many prophets, is caught up into a heavenly vision brought by an angel from the seventh heaven; only a few righteous scribes later receive his account.",
+  "summary": "Isaiah and his son Josab come to King Hezekiah, and a large assembly of prophets and 'sons of the prophets' gathers to hear him, receive his laying on of hands, and prophesy. While Isaiah speaks under the influence of the Holy Spirit, a heavenly voice is heard, the assembly worships, and Isaiah's consciousness is taken up: his lips are silent though his eyes are open and his breath remains as he sees a vision. The angel who enables the vision is described as not belonging to this firmament or to the world's angels but as coming from the seventh heaven. After the vision Isaiah recounts it to Hezekiah, Josab, and the other prophets, but most leaders and the people do not receive or hear the account; only a few righteous officials—the scribes Samna, Ijoaqem, and Asaph—are said to have heard because of their righteousness and the 'sweet smell of the Spirit.'",
+  "externalContext": "The Ascension of Isaiah is a Jewish apocalyptic/pseudepigraphal work that likely reflects traditions circulating in the late Second Temple period (roughly 1st century BCE–1st century CE). The motif of ascent to heaven and layered heavens (including a 'seventh heaven') is common in Jewish apocalyptic literature (for example, 1 Enoch) and reflects a cosmology in which multiple heavenly realms house different orders of angels. 'Sons of the prophets' and prophetic guilds are attested in biblical narratives (e.g., 2 Kings) and represent organized prophetic circles in ancient Israel.",
+  "externalReferences": "The scene of a prophet taken into a heavenly vision echoes the canonical Isaiah's call-vision (Isaiah 6:1) though details differ in setting and content. The gathering of 'sons of the prophets' parallels similar groups in the Deuteronomistic history (e.g., 2 Kings 2:3, 2:5). The explicit language of ascent to the seventh heaven and seeing hidden heavenly realities finds close parallels in 1 Enoch 14, which describes ascent into high heavens and visionary experiences.",
+  "seeAlso": [
+    "Isaiah 6:1",
+    "2 Kings 2:3,5",
+    "1 Enoch 14"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Arrival and Assembly"
+    },
+    {
+      "range": "7-13",
+      "title": "Holy Spirit and Vision"
+    },
+    {
+      "range": "14-17",
+      "title": "Aftermath and Few Hearers"
+    }
+  ],
+  "themes": [
+    "Heavenly vision",
+    "Prophecy",
+    "Holy Spirit",
+    "Selective revelation"
+  ],
+  "practicalQuestions": [
+    "How should a faith community discern and respond when a leader reports an extraordinary spiritual experience?",
+    "What practices (e.g., laying on of hands, communal worship) help prepare people to receive prophetic ministry today?",
+    "Who are the 'righteous listeners' in our context, and how do we recognize or cultivate the discernment described here?",
+    "What does it mean for parts of a community to be excluded from spiritual revelation, and how should leaders care for those who do not perceive it?"
+  ],
+  "uncertainAreas": "Identities and roles of named individuals (Macaiah, Samna, Ijoaqem, Asaph, Josab) are not fully clear from the text; the phrase 'door in an alien world' and the exact nature of 'wisdom of this world' being taken from someone are ambiguous. The text's chronology (Hezekiah's 20th year) and its relation to historical Isaiah are traditional but anachronistic for some scholarly reconstructions; likewise the theological implications of the 'seventh heaven' reflect later apocalyptic motifs whose precise influence on this text cannot be fixed from the chapter alone.",
+  "createdAt": "2026-01-30T23:00:35.407Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

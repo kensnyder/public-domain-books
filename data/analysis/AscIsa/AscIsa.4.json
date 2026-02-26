@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "AscIsa.4",
+  "briefOverview": "An apocalyptic vision describing a coming false ruler (Beliar) who imitates the true Lord, persecutes the faithful, and is ultimately defeated when the Beloved (Christ) returns to judge and restore the godly.",
+  "summary": "The chapter predicts that after the world is consummated a powerful ruler named Beliar will descend in the likeness of a man, imitate the Beloved, perform signs, be worshiped as God, and persecute the community established by the Twelve Apostles. He will appear to accomplish the desires of this age—causing wonders such as making the sun rise at night—and will reign for a precise period (three years, seven months, twenty-seven days). Many faithful will be driven to deserts, while a remnant remains as servants awaiting the Beloved. After 1,332 days the Lord returns with angels from the seventh heaven, drags Beliar into Gehenna, gives rest to the godly found in the body, and brings down the saints clothed from on high. A universal rebuke and judgment follows, with fire consuming the godless. The chapter concludes by noting that additional material of the vision and parallel prophetic sayings are recorded elsewhere in writings attributed to Psalms, the prophets, and Daniel.",
+  "externalContext": "The Ascension of Isaiah is a Jewish–Christian apocalyptic work compiled and transmitted in the early centuries of the common era; it mixes Jewish prophetic motifs (seven heavens, Sheol) with Christian references to Jesus as the Beloved. The figure called Beliar (Belial) is a common Jewish and early Christian name for the adversary or a personified evil power. The use of precise reign-lengths and day-counts reflects apocalyptic numerical symbolism found elsewhere in Jewish and Christian literature.",
+  "externalReferences": "The warning about a deceiving, miracle-performing false ruler parallels New Testament cautions against false christs and false prophets (e.g., Matthew 24:24). The setting up of an image and enforced worship echoes motifs in Revelation about the two beasts and the image of the beast (Revelation 13:11–15). The given periods and day-counts resonate with Daniel's and Revelation's symbolic time periods (see Daniel 12:11–12; Revelation 11:2–3, 12:6), while the name Belial appears elsewhere in early Christian literature as a term for the enemy (e.g., 2 Corinthians 6:15).",
+  "seeAlso": [
+    "Matthew 24:24",
+    "Revelation 13:11-15",
+    "Revelation 13:1-8",
+    "Revelation 11:2-3",
+    "Revelation 12:6",
+    "Daniel 12:11-12",
+    "2 Corinthians 6:15"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-6",
+      "title": "Beliar's Deception and Claim"
+    },
+    {
+      "range": "7-13",
+      "title": "Persecution and the Faithful"
+    },
+    {
+      "range": "14-18",
+      "title": "Return, Judgment, Restoration"
+    }
+  ],
+  "themes": [
+    "False Messiah",
+    "Persecution",
+    "Judgment",
+    "Vindication"
+  ],
+  "practicalQuestions": [
+    "How can communities today discern teachings or leaders that mimic religious authority but lead away from core commitments?",
+    "What practices of endurance and communal care does this vision imply for those facing persecution or marginalization?",
+    "How should belief in final vindication shape present ethical behavior and priorities?",
+    "In what ways might shared scripture and memory (the 'garments stored on high') sustain hope under trial?"
+  ],
+  "uncertainAreas": "The text has abrupt or unclear elements (e.g., an 'undefined' line at verse 8) and precise chronological details (the period of reign and the 1,332 days) whose relation to other apocalyptic numbers (like Daniel's 1,290/1,335 days or Revelation's 1,260 days) is not explicit. The phrase 'slayer of his mother' and some formulae are cryptic and open to interpretive uncertainty. There is also the broader uncertainty about the composition history and which parts may be later Christian interpolations.",
+  "createdAt": "2026-01-30T22:59:28.424Z",
+  "modelId": "gpt-5-mini-2025-08-07"
+}

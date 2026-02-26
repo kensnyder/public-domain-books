@@ -1,0 +1,45 @@
+{
+  "chapterOsisID": "Jasher.23",
+  "briefOverview": "This chapter retells Abraham’s near-sacrifice of Isaac with expanded dialogue, highlighting temptation, steadfast obedience, and the emotional cost borne especially by Sarah. It climaxes with divine intervention and a substitutionary ram, followed by Sarah’s death after being deceived by Satan.",
+  "summary": "God commands Abraham to take Isaac to Moriah to offer him as a burnt offering, and Abraham privately wrestles with how to separate Isaac from Sarah, telling her instead that Isaac will study with Shem and Eber. Sarah’s extended farewell emphasizes her deep attachment and fear that she will not see Isaac again, and Abraham departs with Isaac, Ishmael, and Eliezer.\n\nOn the road, Ishmael and Eliezer dispute over inheritance, and Satan repeatedly tries to stop the sacrifice—first by arguing with Abraham, then by frightening Isaac, and finally by creating an illusory flood—yet Abraham recognizes the deception and continues. On the third day Abraham and Isaac see signs of divine glory on the mountain; Ishmael and Eliezer do not, so Abraham leaves them behind.\n\nIsaac voluntarily accepts being the offering, asks to be bound securely, and urges Abraham to fulfill God’s command; at the critical moment angels plead for mercy and God stops Abraham. A ram—said to have been prepared since creation—is offered instead, and Abraham repeatedly declares the ram’s blood to be “in the place” of Isaac.\n\nSatan then deceives Sarah into believing Isaac has been killed; after prolonged grief she resigns herself to God’s righteousness, but later, when Satan admits the lie and she learns Isaac lives, the shock of overwhelming joy causes her death. Abraham and Isaac return, discover Sarah dead in Hebron, and mourn deeply for her.",
+  "externalContext": "The “Book of Jasher” is a later Jewish pseudepigraphal work that expands narratives found in the Torah/Old Testament with additional speeches, motivations, and characters (notably Satan’s active role). The episode is set within the patriarchal period and centers on a burnt offering (a total-consumption sacrifice), a ritual category prominent in ancient Israelite worship. Moriah and Hebron are well-known locales in biblical tradition: Moriah is associated with Abraham’s test and later with Jerusalem’s temple mount in some interpretations, while Hebron is associated with the patriarchal family’s dwelling and burial traditions. The figures Shem and Eber function in later Jewish tradition as ancient sages/teachers who preserve knowledge of God before the Sinai law.",
+  "externalReferences": "The core narrative closely parallels Genesis 22:1–19 (the binding of Isaac/Aqedah): the command to offer Isaac, the journey, Isaac’s question about the lamb, and God’s last-moment prohibition. The chapter’s emphasis on a substitutionary ram corresponds to Genesis 22:13–14, while the claim that the ram was prepared beforehand resembles later interpretive traditions rather than Genesis’s wording.\n\nSarah’s death and its proximity to the Aqedah echoes the narrative sequence in Genesis 23:1–2 (Sarah dies at Hebron shortly after Genesis 22), and this chapter supplies an explanatory tradition by attributing her death to Satan’s deceptive report and the shock of reversal.",
+  "seeAlso": [
+    "Genesis 22:1-19",
+    "Genesis 22:13-14",
+    "Genesis 23:1-2",
+    "Hebrews 11:17-19",
+    "James 2:21-23"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-20",
+      "title": "Command and Sarah’s farewell"
+    },
+    {
+      "range": "21-48",
+      "title": "Temptation and the journey"
+    },
+    {
+      "range": "49-90",
+      "title": "Binding, substitution, and mourning"
+    }
+  ],
+  "themes": [
+    "Obedience to God",
+    "Testing and temptation",
+    "Substitutionary sacrifice",
+    "Parental grief",
+    "Divine mercy"
+  ],
+  "practicalQuestions": [
+    "How do I discern and resist voices that appeal to fear or moral confusion when I believe I must obey God’s direction?",
+    "What does this chapter suggest about honest communication within families when difficult or painful duties are involved?",
+    "In what ways does Isaac’s willing participation challenge or reshape my understanding of faithfulness and courage?",
+    "How should communities care for those who bear intense emotional costs while others focus on “successful” outcomes?",
+    "What does the repeated language of “in the place of my son” imply about substitution, and how might that shape my view of sacrifice and mercy?"
+  ],
+  "uncertainAreas": "Some elements are interpretive expansions rather than verifiable historical details (e.g., Satan’s specific disguises, the brook illusion, the ram’s creation-day preparation, and Sarah’s death being caused by shock at Satan’s reversal). The identification of Moriah with later temple geography is a traditional association and not established by this chapter alone; likewise, Shem and Eber functioning as teachers reflects later tradition more than the Genesis narrative.",
+  "createdAt": "2026-01-30T23:30:58.462Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}

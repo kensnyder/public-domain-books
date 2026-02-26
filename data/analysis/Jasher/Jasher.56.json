@@ -1,0 +1,47 @@
+{
+  "chapterOsisID": "Jasher.56",
+  "briefOverview": "Jacob’s final illness prompts him to bless and instruct his family, emphasizing faithfulness to God and burial in Machpelah. The chapter then narrates his death, Egypt’s extensive mourning, and the contested burial in Hebron culminating in violent conflict with Esau’s household.",
+  "summary": "Jacob, nearing death after seventeen years in Egypt, summons Joseph and his sons, affirms God’s future “visit” to bring the family back to the promised land, and makes his sons swear to bury him in the cave of Machpelah in Hebron. He exhorts his descendants to serve the Lord, blesses his grandchildren, and then blesses his sons individually, giving Judah a leadership role and urging martial preparedness. Jacob specifies a careful funeral procession arrangement and instructs Joseph to forgive his brothers and to protect the family from harm among the Egyptians, while warning of future troubles and promising eventual deliverance through a servant raised from among their descendants. After Jacob dies, Joseph and the household mourn intensely; Egyptians and even mourners from Canaan participate, and Jacob is embalmed and mourned for seventy days. With Pharaoh’s permission—and broad Egyptian participation—Jacob’s body is carried with royal-like honors toward Canaan, where Canaanite kings also join the mourning. At the cave of Machpelah, Esau and his sons dispute the burial, leading to a fight; as Joseph sends Naphtali to retrieve purchase records, Chushim son of Dan kills Esau, and Jacob is buried in Machpelah “by force,” followed by seven days of mourning.",
+  "externalContext": "The “Book of Jasher” is an ancient-sounding work known chiefly from much later compilations; it is not part of the Jewish or most Christian biblical canons, though it draws heavily on Genesis narratives and expands them with additional details. Machpelah in Hebron is a prominent ancestral burial site in the patriarchal traditions, associated with Abraham, Isaac, and Jacob. Egyptian embalming reflects well-attested mortuary practice in ancient Egypt, where preservation and extended mourning customs were culturally significant. The depiction of diplomatic permission from Pharaoh and the participation of Egyptian officials reflects the plausible social reality that high-ranking foreigners could receive state recognition, though the chapter’s precise scale and royal trappings are literary expansions beyond the shorter biblical account.",
+  "externalReferences": "This chapter closely parallels Genesis 47:28–31 (Jacob’s final days and burial request) and Genesis 49:1–28 (Jacob’s blessings, including Judah’s prominence), while adding expanded funeral and conflict narratives. The burial in Machpelah echoes Genesis 23:17–20, which describes Abraham’s purchase of the cave as a burial possession, and Genesis 50:1–14, which narrates embalming, Egyptian mourning, and the journey to Canaan. The promise that God will “visit” and bring the descendants out of Egypt anticipates the Exodus theme expressed in Exodus 3:16–17. The dispute with Esau over burial rights is an elaboration beyond Genesis, but it engages the broader Jacob–Esau tension seen earlier (e.g., Genesis 25:29–34; 27:35–41).",
+  "seeAlso": [
+    "Genesis 23:17-20",
+    "Genesis 47:28-31",
+    "Genesis 49:1-28",
+    "Genesis 50:1-14",
+    "Exodus 3:16-17",
+    "Genesis 25:29-34",
+    "Genesis 27:35-41"
+  ],
+  "sectionTitles": [
+    {
+      "range": "1-22",
+      "title": "Jacob’s final blessings"
+    },
+    {
+      "range": "23-45",
+      "title": "National mourning procession"
+    },
+    {
+      "range": "46-68",
+      "title": "Machpelah burial conflict"
+    }
+  ],
+  "themes": [
+    "Covenant hope",
+    "Faithful obedience",
+    "Ancestral burial",
+    "Forgiveness",
+    "Family conflict"
+  ],
+  "practicalQuestions": [
+    "What commitments or values do I want to clearly pass on to my family or community before I am gone, and how can I articulate them plainly (as Jacob does)?",
+    "How do I balance honoring the dead (ritual, memory, legacy) with preventing family disputes over inheritance, status, or “rights” from escalating?",
+    "Where do I need to practice Joseph’s posture of forgiveness—interpreting harm through a larger purpose without minimizing wrongdoing?",
+    "What habits of teaching (to “children and children’s children”) would make faithfulness more durable across generations in my context?",
+    "When I anticipate future “troubles,” do I respond primarily with fear, or with disciplined preparation and trust (Jacob’s warnings plus exhortations)?"
+  ],
+  "uncertainAreas": "The chapter’s claims about Jacob purchasing “all the land of Canaan” from Esau, the existence and contents of multiple formal ‘records’ (sealed/open), the number of ‘thirty-one kings of Canaan,’ and the detailed slaying of Esau by Chushim are not corroborated within this chapter itself and appear to be expansions beyond the Genesis account; I treated them as internal narrative elements rather than established historical details.",
+  "createdAt": "2026-01-30T23:42:48.884Z",
+  "modelId": "gpt-5.2-2025-12-11"
+}
