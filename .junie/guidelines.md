@@ -5,7 +5,7 @@ It also contains scripts to fetch the text of the works themselves along with me
 
 ## General
 
-- **CRITICAL:** State that you read `.junie/guidelines.md` every time you read these guidelines.
+- **CRITICAL:** When you read these guidelines, say "I read .junie/guidelines.md".
 - **Support:** Consult docs/web for weak knowledge; ask if tasks are ambiguous or you're stuck (large files/output).
 - **Environment:** Use `/tmp` for temporary files; see `README.md` for project-specific docs.
 - **Runtime:** Use `bun` not `npm`.
