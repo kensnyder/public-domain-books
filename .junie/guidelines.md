@@ -24,6 +24,7 @@ It also contains scripts to fetch the text of the works themselves along with me
 - **CLI:** If building CLI tools, use `import { parseArgs } from "node:util"`.
 - **Imports:** Use relative imports.
 - **Testing:** Use `bun:test` with describe->it->expect() in colocated `.spec.ts` files.
+- **Arguments:** Functions that need 3+ input values should accept 1 argument object with named properties.
 
 ## Project Architecture
 
