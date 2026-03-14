@@ -27,7 +27,10 @@ import {
  * autocompleteVerseOsisID('Matthew 15:3', 3) => ['Matthew 15:3', 'Matthew 15:30', 'Matthew 15:31']
  * autocompleteVerseOsisID('Matthew 15:33', 3) => ['Matthew 15:33']
  */
-export default function autocompleteVerseOsisID(text: string, limit: number): string[] {
+export default function autocompleteVerseOsisID(
+  text: string,
+  limit: number,
+): string[] {
   const input = text.trim();
   if (!input) {
     return [];
@@ -50,7 +53,8 @@ export default function autocompleteVerseOsisID(text: string, limit: number): st
       // Mode 3: Exact book and exact chapter provided, suggest verse numbers
       if (versePart !== undefined) {
         const chapterNum = Number.parseInt(chapterPart, 10);
-        const versesForChapter = verseCounts[book.bookOsisID]?.[chapterNum] || 0;
+        const versesForChapter =
+          verseCounts[book.bookOsisID]?.[chapterNum] || 0;
         const suggestions: string[] = [];
 
         for (let i = 1; i <= versesForChapter; i++) {
@@ -80,9 +84,13 @@ export default function autocompleteVerseOsisID(text: string, limit: number): st
       // If we matched an exact book, but also want to suggest verses (Mode 3)
       // The example says autocompleteVerseOsisID('Matthew 15', 3) => ['Matthew 15:1', 'Matthew 15:2', 'Matthew 15:3']
       // This happens when chapterPart is exactly a chapter number.
-      if (suggestions.length === 1 && suggestions[0] === `${book.bookName} ${chapterPart}`) {
+      if (
+        suggestions.length === 1 &&
+        suggestions[0] === `${book.bookName} ${chapterPart}`
+      ) {
         const chapterNum = Number.parseInt(chapterPart, 10);
-        const versesForChapter = verseCounts[book.bookOsisID]?.[chapterNum] || 0;
+        const versesForChapter =
+          verseCounts[book.bookOsisID]?.[chapterNum] || 0;
         const verseSuggestions: string[] = [];
         for (let i = 1; i <= versesForChapter; i++) {
           verseSuggestions.push(`${book.bookName} ${chapterNum}:${i}`);
@@ -120,7 +128,9 @@ export default function autocompleteVerseOsisID(text: string, limit: number): st
     const nameMatches = book.bookName.toUpperCase().includes(upperInput);
     const osisMatches = book.bookOsisID.toUpperCase().includes(upperInput);
     const paratextMatches = book.paratext?.toUpperCase().includes(upperInput);
-    const aliasMatches = book.aliases.some((a) => a.toUpperCase().includes(upperInput));
+    const aliasMatches = book.aliases.some((a) =>
+      a.toUpperCase().includes(upperInput),
+    );
 
     if (nameMatches || osisMatches || paratextMatches || aliasMatches) {
       suggestions.push(book.bookName);

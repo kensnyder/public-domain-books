@@ -1,7 +1,7 @@
 import type { BookShape } from '~/types/data-shapes.ts';
-import { books, verseCounts } from "../../../data/compiled/books-and-works.ts";
+import { books, verseCounts } from '../../../data/compiled/books-and-works.ts';
 import getBookByName from '../getBookByName/getBookByName.ts';
-import getWorkByName from "../getWorkByName/getWorkByName.ts";
+import getWorkByName from '../getWorkByName/getWorkByName.ts';
 
 export function getRelativeChapter(
   bookOsisID: string,
@@ -18,9 +18,11 @@ export function getRelativeChapter(
   }
   const work = getWorkByName(book.workOsisID);
   if (!work) {
-    throw new Error(`Error finding work ${book.workOsisID} referenced by book ${book.bookName}`);
+    throw new Error(
+      `Error finding work ${book.workOsisID} referenced by book ${book.bookName}`,
+    );
   }
-  const siblings = books.filter(b => b.workOsisID === book.workOsisID);
+  const siblings = books.filter((b) => b.workOsisID === book.workOsisID);
   let idx = siblings.indexOf(book);
   const inc = add > 0 ? 1 : -1;
   let toMove = Math.abs(add);

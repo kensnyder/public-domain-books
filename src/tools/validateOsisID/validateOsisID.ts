@@ -1,6 +1,6 @@
 import getBookByName from '../getBookByName/getBookByName.ts';
 import parseOsisID from '../parseOsisID/parseOsisID.ts';
-import {verseCounts} from "../../../data/compiled/books-and-works.ts";
+import { verseCounts } from '../../../data/compiled/books-and-works.ts';
 
 export default function validateOsisID(osisID: string) {
   const { bookOsisID, chapterNumber, verseNumber } = parseOsisID(osisID);
@@ -8,7 +8,9 @@ export default function validateOsisID(osisID: string) {
   const isBookValid = !!book;
   const hasChapter = chapterNumber !== null;
   const isChapterValid =
-    hasChapter && isBookValid && (verseCounts[book.bookOsisID]?.[chapterNumber] || 0) > 0;
+    hasChapter &&
+    isBookValid &&
+    (verseCounts[book.bookOsisID]?.[chapterNumber] || 0) > 0;
   const hasVerse = verseNumber !== null;
   const isVerseValid =
     hasVerse &&
