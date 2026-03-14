@@ -1,5 +1,5 @@
-import { parseVerseOsisID } from './parseOsisID.ts';
-import { isValidVerseOsisID } from './validateOsisID.ts';
+import { parseVerseOsisID } from '../parseOsisID/parseOsisID.ts';
+import { isValidVerseOsisID } from '../validateOsisID/validateOsisID.ts';
 
 export default function getRelativeVerse(osisID: string, addend: number) {
   if (!isValidVerseOsisID(osisID)) {

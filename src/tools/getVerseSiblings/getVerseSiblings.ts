@@ -1,4 +1,4 @@
-import { parseVerseOsisID } from './parseOsisID.ts';
+import { parseVerseOsisID } from '../parseOsisID/parseOsisID.ts';
 
 export default function getVerseSiblings(
   verseOsisID: string,

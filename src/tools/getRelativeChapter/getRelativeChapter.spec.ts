@@ -32,10 +32,10 @@ describe('getRelativeChapter', () => {
   });
   it('should handle AddEsth', () => {
     const rel = getRelativeChapter('addEsth', 10, -1);
-    expect(rel?.chapterOsisID).toBe('Jdt.16');
+    expect(rel?.chapterOsisID).toBe('2Esd.16');
   });
   it('should handle AddEsth', () => {
     const rel = getRelativeChapter('AddEsth', 17, 1);
-    expect(rel?.chapterOsisID).toBe('Wis.1');
+    expect(rel?.chapterOsisID).toBe('1Macc.1');
   });
 });

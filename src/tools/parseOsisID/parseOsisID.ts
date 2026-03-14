@@ -1,4 +1,4 @@
-import getBookByName from './getBookByName.ts';
+import getBookByName from '../getBookByName/getBookByName.ts';
 
 export default function parseOsisID(verseString: string) {
   const [b, ch, v] = verseString.split('.').map((s) => s.trim());

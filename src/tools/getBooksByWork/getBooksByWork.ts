@@ -1,8 +1,8 @@
 import type { BookShape } from '~/types/data-shapes.ts';
 import {
   books
-} from '../../data/compiled/books-and-works.ts';
-import {getWorkByName} from "../../index.ts";
+} from '../../../data/compiled/books-and-works.ts';
+import {getWorkByName} from "../../../index.ts";
 
 export default function getBooksByWork(name: string): BookShape[] | undefined {
   const work = getWorkByName(name);

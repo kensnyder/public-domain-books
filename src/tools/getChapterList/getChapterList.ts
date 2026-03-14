@@ -1,5 +1,5 @@
-import getBookByName from './getBookByName.ts';
-import {verseCounts} from "../../data/compiled/books-and-works.ts";
+import getBookByName from '../getBookByName/getBookByName.ts';
+import {verseCounts} from "../../../data/compiled/books-and-works.ts";
 
 export type ListedChapter = {
   chapterNumber: number;

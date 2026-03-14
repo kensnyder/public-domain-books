@@ -1,4 +1,4 @@
-import getBookByName from './getBookByName.ts';
+import getBookByName from '../getBookByName/getBookByName.ts';
 
 export default function parseVerseReference(verseString: string) {
   const match = verseString.match(/^(.+?)\s+(\d+|intro)\s*:\s*(\d+|title)$/);

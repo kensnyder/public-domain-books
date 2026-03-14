@@ -1,6 +1,6 @@
-import getBookByName from './getBookByName.ts';
-import getWorkByName from './getWorkByName.ts';
-import parseOsisID from './parseOsisID.ts';
+import getBookByName from '../getBookByName/getBookByName.ts';
+import getWorkByName from '../getWorkByName/getWorkByName.ts';
+import parseOsisID from '../parseOsisID/parseOsisID.ts';
 
 export default function parseVerseRange(givenVerseOsisIDs: string[]) {
   const parsed = givenVerseOsisIDs.map(parseOsisID).filter(Boolean);

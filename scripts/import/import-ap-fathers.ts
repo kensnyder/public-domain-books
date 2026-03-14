@@ -1,7 +1,7 @@
 import process from 'node:process';
 import { DOMParser } from '@xmldom/xmldom';
 import getJsonBookByName from '../../src/lib/getJsonBookByName.ts';
-import getWorkByName from '../../src/tools/getWorkByName.ts';
+import getWorkByName from '../../src/tools/getWorkByName/getWorkByName.ts';
 import type {
   BookShape,
   VerseDataFileShape,

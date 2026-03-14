@@ -1,4 +1,4 @@
-import parseOsisID from './parseOsisID.ts';
+import parseOsisID from '../parseOsisID/parseOsisID.ts';
 
 export default function osisToCitation(osis: string) {
   if (!osis) {

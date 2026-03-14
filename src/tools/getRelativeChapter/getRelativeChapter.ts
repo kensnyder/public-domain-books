@@ -1,7 +1,7 @@
 import type { BookShape } from '~/types/data-shapes.ts';
-import { books, verseCounts } from "../../data/compiled/books-and-works.ts";
-import getBookByName from './getBookByName.ts';
-import getWorkByName from "./getWorkByName.ts";
+import { books, verseCounts } from "../../../data/compiled/books-and-works.ts";
+import getBookByName from '../getBookByName/getBookByName.ts';
+import getWorkByName from "../getWorkByName/getWorkByName.ts";
 
 export function getRelativeChapter(
   bookOsisID: string,
@@ -20,7 +20,7 @@ export function getRelativeChapter(
   if (!work) {
     throw new Error(`Error finding work ${book.workOsisID} referenced by book ${book.bookName}`);
   }
-  const siblings = books.filter(b => b.workOsisID === bookOsisID);
+  const siblings = books.filter(b => b.workOsisID === book.workOsisID);
   let idx = siblings.indexOf(book);
   const inc = add > 0 ? 1 : -1;
   let toMove = Math.abs(add);
@@ -41,9 +41,13 @@ export function getRelativeChapter(
       if (!book) {
         break;
       }
+      const countsForNewBook = verseCounts[book.bookOsisID];
+      if (!countsForNewBook) {
+        throw new Error(`Error finding verse counts for book ${book.bookName}`);
+      }
       if (inc === -1) {
         // roll back to highest chapter of next work
-        chapterNumber = counts.length - 1;
+        chapterNumber = countsForNewBook.length - 1;
       } else if (inc === 1) {
         chapterNumber = 1;
       }

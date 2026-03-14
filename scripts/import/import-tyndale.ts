@@ -1,8 +1,8 @@
 import { DOMParser, XMLSerializer } from '@xmldom/xmldom';
 import JSZip from 'jszip';
-import osisToCitation from '../../src/tools/osisToCitation.ts';
-import parseCitation from '../../src/tools/parseCitation.ts';
-import { parseVerseOsisID } from '../../src/tools/parseOsisID.ts';
+import osisToCitation from '../../src/tools/osisToCitation/osisToCitation.ts';
+import parseCitation from '../../src/tools/parseCitation/parseCitation.ts';
+import { parseVerseOsisID } from '../../src/tools/parseOsisID/parseOsisID.ts';
 import type { CommentaryDataFileShape } from '../../src/types/data-shapes.ts';
 
 main().catch(console.error);

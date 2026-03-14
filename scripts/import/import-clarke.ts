@@ -1,8 +1,8 @@
 import * as cheerio from 'cheerio';
-import getBookByName from '../../src/tools/getBookByName.ts';
-import osisToCitation from '../../src/tools/osisToCitation.ts';
-import parseCitation from '../../src/tools/parseCitation.ts';
-import parseVerseOsisID from '../../src/tools/parseOsisID.ts';
+import getBookByName from '../../src/tools/getBookByName/getBookByName.ts';
+import osisToCitation from '../../src/tools/osisToCitation/osisToCitation.ts';
+import parseCitation from '../../src/tools/parseCitation/parseCitation.ts';
+import parseVerseOsisID from '../../src/tools/parseOsisID/parseOsisID.ts';
 
 const randInt = (min: number, max: number) => {
   return Math.floor(Math.random() * (max - min)) + min;
