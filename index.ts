@@ -19,7 +19,7 @@ export {
   default as osisToCitation,
   type OsisCitation,
 } from 'src/tools/osisToCitation/osisToCitation.ts';
-export { default as parseCitation } from 'src/tools/parseCitation/parseCitation.ts';
+export { default as citationToOsisIDs } from 'src/tools/citationToOsisIDs/citationToOsisIDs.ts';
 export {
   default as parseOsisID,
   parseVerseOsisID,

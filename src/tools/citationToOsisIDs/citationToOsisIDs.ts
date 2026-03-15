@@ -11,7 +11,7 @@ const trim = (s: string) => s.trim();
  * @param citation The citation string to parse.
  * @returns An array of verse OSIS IDs.
  */
-export default function parseCitation(citation: string): string[] {
+export default function citationToOsisIDs(citation: string): string[] {
   const groups = citation.split(',').map(trim);
   const verseOsisIDs: string[] = [];
   for (let group of groups) {

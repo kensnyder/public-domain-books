@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio';
 import getBookByName from '../../src/tools/getBookByName/getBookByName.ts';
 import osisToCitation from '../../src/tools/osisToCitation/osisToCitation.ts';
-import parseCitation from '../../src/tools/parseCitation/parseCitation.ts';
+import citationToOsisIDs from '../../src/tools/citationToOsisIDs/citationToOsisIDs.ts';
 import parseVerseOsisID from '../../src/tools/parseOsisID/parseOsisID.ts';
 
 const randInt = (min: number, max: number) => {
@@ -121,7 +121,7 @@ async function extractCommentary(progress: { sequence: number }, url: string) {
       .map((e) => $(e));
     for (const $link of $links) {
       const citation = $link.text();
-      const verseOsisIDs = parseCitation(citation);
+      const verseOsisIDs = citationToOsisIDs(citation);
       if (verseOsisIDs.length > 0) {
         const parsed = parseVerseOsisID(verseOsisIDs[0]);
         if (parsed) {

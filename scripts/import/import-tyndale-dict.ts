@@ -1,7 +1,7 @@
 // import { DOMParser, XMLSerializer } from '@xmldom/xmldom';
 // import JSZip from 'jszip';
 // import osisToCitation from '../../src/tools/osisToCitation.ts';
-// import parseCitation from '../../src/tools/parseCitation.ts';
+// import citationToOsisIDs from '../../src/tools/citationToOsisIDs/citationToOsisIDs.ts';
 // import { parseVerseOsisID } from '../../src/tools/parseOsisID.ts';
 //
 // type SaveFileSchema = {
@@ -45,7 +45,7 @@
 //       .replace(/\.title$/, '.0')
 //       .replaceAll('.', ':')
 //       .replace(/[a-z]$/, '');
-//     const verseOsisIDs = parseCitation(parseable);
+//     const verseOsisIDs = citationToOsisIDs(parseable);
 //     if (verseOsisIDs.length === 0) {
 //       throw new Error(
 //         `Unable to parse item name="${verseRange}" (parseable=${parseable})`,
@@ -65,7 +65,7 @@
 //       !thruVerse.verseOsisID
 //     ) {
 //       throw new Error(
-//         `Unable to find book "${parseable}" that we got from parseCitation()`,
+//         `Unable to find book "${parseable}" that we got from citationToOsisIDs()`,
 //       );
 //     }
 //     const body = item.getElementsByTagName('body').item(0);
