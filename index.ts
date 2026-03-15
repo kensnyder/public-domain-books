@@ -34,6 +34,10 @@ export {
   type ParsedVerseReference,
 } from 'src/tools/parseVerseReference/parseVerseReference.ts';
 export {
+  default as parseReference,
+  type ParsedReference,
+} from 'src/tools/parseReference/parseReference.ts';
+export {
   default as validateOsisID,
   isValidOsisID,
   isValidVerseOsisID,

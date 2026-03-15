@@ -17,20 +17,23 @@ export interface ParsedVerseReference {
 export default function parseVerseReference(
   verseString: string,
 ): ParsedVerseReference | null {
-  const match = verseString.match(/^(.+?)\s+(\d+|intro)\s*:\s*(\d+|title)$/);
+  const match = String(verseString)
+    .trim()
+    .toUpperCase()
+    .match(/^(.+?)\s+(\d+|INTRO)\s*:\s*(\d+|TITLE)$/);
   if (!match) {
     return null;
   }
   // remove punctuation such as periods
-  const cleanBook = match[1].replace(/[^a-z0-9& ]/gi, '');
+  const cleanBook = match[1].replace(/[^A-Z0-9& ]/g, '').toUpperCase();
   const book = getBookByName(cleanBook);
   if (!book) {
     return null;
   }
   const bookOsisID = book.bookOsisID;
   const chapterNumber =
-    match[2] === 'intro' ? 0 : Number.parseInt(match[2], 10);
-  const verseNumber = match[3] === 'title' ? 0 : Number.parseInt(match[3], 10);
+    match[2] === 'INTRO' ? 0 : Number.parseInt(match[2], 10);
+  const verseNumber = match[3] === 'TITLE' ? 0 : Number.parseInt(match[3], 10);
   if (Number.isNaN(chapterNumber) || Number.isNaN(verseNumber)) {
     return null;
   }
