@@ -49,6 +49,11 @@ describe('autocompleteVerseOsisID', () => {
     expect(results).toEqual(['Matthew 1', 'Matthew 2', 'Matthew 3']);
   });
 
+  it('should ignore extra whitespace', () => {
+    const results = autocompleteVerseOsisID({ text: '1 Samuel ', limit: 3 });
+    expect(results).toEqual(['1 Samuel 1', '1 Samuel 2', '1 Samuel 3']);
+  });
+
   it('should handle empty input', () => {
     const results = autocompleteVerseOsisID({ text: '', limit: 5 });
     expect(results).toEqual([]);
