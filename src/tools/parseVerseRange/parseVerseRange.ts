@@ -1,8 +1,28 @@
+import type { BookShape, WorkShape } from '../../types/data-shapes.ts';
 import getBookByName from '../getBookByName/getBookByName.ts';
 import getWorkByName from '../getWorkByName/getWorkByName.ts';
 import parseOsisID from '../parseOsisID/parseOsisID.ts';
 
-export default function parseVerseRange(givenVerseOsisIDs: string[]) {
+export interface ParsedVerseRange {
+  workOsisID: string | null;
+  bookOsisID: string;
+  chapterOsisID: string;
+  chapterNumber: number | null;
+  verseNumbers: number[];
+  verseOsisIDs: string[];
+  book: BookShape | null;
+  work: WorkShape | null;
+}
+
+/**
+ * Parses an array of verse OSIS IDs and generates a full range of verses between the first and last ID.
+ *
+ * @param givenVerseOsisIDs An array of OSIS IDs.
+ * @returns An object containing the range metadata or undefined if input is empty.
+ */
+export default function parseVerseRange(
+  givenVerseOsisIDs: string[],
+): ParsedVerseRange | undefined {
   const parsed = givenVerseOsisIDs.map(parseOsisID).filter(Boolean);
   if (parsed.length === 0) {
     return undefined;

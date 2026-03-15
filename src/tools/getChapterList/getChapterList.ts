@@ -8,7 +8,14 @@ export type ListedChapter = {
   verseCount: number;
 };
 
-export default function getChapterList(bookOsisID: string) {
+/**
+ * Retrieves a list of chapters for a given book, including labels and verse counts.
+ *
+ * @param bookOsisID The OSIS ID of the book.
+ * @returns A list of chapters with metadata.
+ * @throws Error if the book is not found or verse counts are missing.
+ */
+export default function getChapterList(bookOsisID: string): ListedChapter[] {
   const book = getBookByName(bookOsisID);
   if (!book) {
     throw new Error(`Book ${bookOsisID} not found`);

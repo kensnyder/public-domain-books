@@ -1,6 +1,17 @@
 import parseOsisID from '../parseOsisID/parseOsisID.ts';
 
-export default function osisToCitation(osis: string) {
+export interface OsisCitation {
+  short: string;
+  long: string;
+}
+
+/**
+ * Converts an OSIS ID string into human-readable citation strings.
+ *
+ * @param osis The OSIS ID to convert.
+ * @returns An object containing short and long citation strings, or null if input is empty.
+ */
+export default function osisToCitation(osis: string): OsisCitation | null {
   if (!osis) {
     return null;
   }

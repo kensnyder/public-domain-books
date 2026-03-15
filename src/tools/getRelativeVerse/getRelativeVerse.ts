@@ -1,7 +1,17 @@
 import { parseVerseOsisID } from '../parseOsisID/parseOsisID.ts';
 import { isValidVerseOsisID } from '../validateOsisID/validateOsisID.ts';
 
-export default function getRelativeVerse(osisID: string, addend: number) {
+/**
+ * Retrieves an OSIS ID of a verse relative to a given verse OSIS ID.
+ *
+ * @param osisID The starting verse OSIS ID.
+ * @param addend The number of verses to move.
+ * @returns The relative verse OSIS ID if valid, otherwise null.
+ */
+export default function getRelativeVerse(
+  osisID: string,
+  addend: number,
+): string | null {
   if (!isValidVerseOsisID(osisID)) {
     return null;
   }
@@ -14,10 +24,22 @@ export default function getRelativeVerse(osisID: string, addend: number) {
   return newOsisID;
 }
 
-export function getPreviousVerse(osisID: string) {
+/**
+ * Retrieves the OSIS ID of the previous verse.
+ *
+ * @param osisID The current verse OSIS ID.
+ * @returns The previous verse OSIS ID if valid, otherwise null.
+ */
+export function getPreviousVerse(osisID: string): string | null {
   return getRelativeVerse(osisID, -1);
 }
 
-export function getNextVerse(osisID: string) {
+/**
+ * Retrieves the OSIS ID of the next verse.
+ *
+ * @param osisID The current verse OSIS ID.
+ * @returns The next verse OSIS ID if valid, otherwise null.
+ */
+export function getNextVerse(osisID: string): string | null {
   return getRelativeVerse(osisID, 1);
 }

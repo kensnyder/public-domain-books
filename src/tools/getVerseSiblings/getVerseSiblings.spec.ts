@@ -18,4 +18,7 @@ describe('getVerseSiblings', () => {
     const thrower = () => getVerseSiblings('John.3.1', -1, 2);
     expect(thrower).toThrow(TypeError);
   });
+  it('should return empty array for invalid OsisID', () => {
+    expect(getVerseSiblings('invalid')).toEqual([]);
+  });
 });

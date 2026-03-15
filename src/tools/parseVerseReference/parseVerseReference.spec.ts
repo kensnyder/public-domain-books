@@ -50,8 +50,9 @@ describe('parseVerseReference', () => {
     const parsed = parseVerseReference('1:5 James');
     expect(parsed).toBe(null);
   });
-  it('should reject invalid format', () => {
-    const parsed = parseVerseReference('1:5 James');
-    expect(parsed).toBe(null);
+  it('should handle intro and title', () => {
+    const parsed = parseVerseReference('John intro:title');
+    expect(parsed?.chapterNumber).toBe(0);
+    expect(parsed?.verseNumber).toBe(0);
   });
 });

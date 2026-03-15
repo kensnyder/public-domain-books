@@ -14,4 +14,7 @@ describe('getChapterList', () => {
     const abbr = getChapterList('AddEsth').map((c) => c.chapterAbbr);
     expect(abbr).toEqual(['10', '11', '12', '13', '14', '15', '16']);
   });
+  it('should throw if book not found', () => {
+    expect(() => getChapterList('INVALID')).toThrow('Book INVALID not found');
+  });
 });

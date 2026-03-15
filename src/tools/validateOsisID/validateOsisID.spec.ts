@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'bun:test';
-import validateOsisID from './validateOsisID.ts';
+import validateOsisID, { isValidOsisID, isValidVerseOsisID } from './validateOsisID.ts';
 
 describe('validateOsisID', () => {
   it('should check correct and known verse', () => {
@@ -113,5 +113,13 @@ describe('validateOsisID', () => {
         "isVerseValid": false,
       }
     `);
+  });
+
+  it('isValidOsisID should return true for valid ID', () => {
+    expect(isValidOsisID('Gen.1.1')).toBe(true);
+  });
+
+  it('isValidVerseOsisID should return true for valid verse ID', () => {
+    expect(isValidVerseOsisID('Gen.1.1')).toBe(true);
   });
 });

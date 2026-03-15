@@ -45,4 +45,16 @@ describe('parseCitation', () => {
     const osisIDs = parseCitation('hello world');
     expect(osisIDs).toEqual([]);
   });
+  it('should handle book and chapter only', () => {
+    const osisIDs = parseCitation('John 3');
+    expect(osisIDs).toEqual(['John.3.1']);
+  });
+  it('should handle chapter range without colons', () => {
+    const osisIDs = parseCitation('2 Kings 3-4');
+    expect(osisIDs).toEqual(['2Kgs.3.1']);
+  });
+  it('should skip lone verse at beginning of citation', () => {
+    const osisIDs = parseCitation('15, John 3:16');
+    expect(osisIDs).toEqual(['John.3.16']);
+  });
 });

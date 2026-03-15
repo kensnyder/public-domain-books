@@ -5,7 +5,13 @@ import { verseCounts } from '../../../data/compiled/books-and-works.ts';
 
 const trim = (s: string) => s.trim();
 
-export default function parseCitation(citation: string) {
+/**
+ * Parses a citation string (e.g., "John 3:16, 18", "Genesis 1-2") into a list of verse OSIS IDs.
+ *
+ * @param citation The citation string to parse.
+ * @returns An array of verse OSIS IDs.
+ */
+export default function parseCitation(citation: string): string[] {
   const groups = citation.split(',').map(trim);
   const verseOsisIDs: string[] = [];
   for (let group of groups) {

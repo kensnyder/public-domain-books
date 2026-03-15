@@ -1,6 +1,24 @@
+import type { BookShape } from '../../types/data-shapes.ts';
 import getBookByName from '../getBookByName/getBookByName.ts';
 
-export default function parseOsisID(verseString: string) {
+export interface ParsedOsisID {
+  bookOsisID: string;
+  chapterOsisID: string | null;
+  verseOsisID: string | null;
+  chapterNumber: number | null;
+  bookChapterTitle: string | null;
+  chapterTitle: string | null;
+  verseNumber: number | null;
+  book: BookShape | undefined;
+}
+
+/**
+ * Parses an OSIS ID string (e.g., 'Gen.1.1', 'Gen.1', or 'Gen') into its components.
+ *
+ * @param verseString The OSIS ID string to parse.
+ * @returns An object containing the parsed components, including book, chapter, and verse information.
+ */
+export default function parseOsisID(verseString: string): ParsedOsisID {
   const [b, ch, v] = verseString.split('.').map((s) => s.trim());
   const verseNumber = parseInt(v || '-1', 10);
   const chapterNumber = parseInt(ch || '-1', 10);
@@ -27,7 +45,13 @@ export default function parseOsisID(verseString: string) {
   };
 }
 
-export function parseVerseOsisID(verse: string) {
+/**
+ * Parses an OSIS ID string and returns the result only if it represents a complete verse.
+ *
+ * @param verse The OSIS ID string to parse.
+ * @returns The parsed result if it has both chapter and verse numbers, otherwise null.
+ */
+export function parseVerseOsisID(verse: string): ParsedOsisID | null {
   const parsed = parseOsisID(verse);
   if (parsed.chapterNumber === null || parsed.verseNumber === null) {
     return null;

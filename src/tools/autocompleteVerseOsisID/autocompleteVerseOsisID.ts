@@ -8,7 +8,7 @@ import {
   works,
 } from '../../../data/compiled/books-and-works.ts';
 
-interface AutocompleteOptions {
+export interface AutocompleteOptions {
   text: string;
   limit: number;
   collections?: string[];

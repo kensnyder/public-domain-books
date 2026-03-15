@@ -1,6 +1,22 @@
 import getBookByName from '../getBookByName/getBookByName.ts';
 
-export default function parseVerseReference(verseString: string) {
+export interface ParsedVerseReference {
+  bookOsisID: string;
+  chapterNumber: number;
+  chapterOsisID: string;
+  verseNumber: number;
+  verseOsisID: string;
+}
+
+/**
+ * Parses a human-readable verse reference string (e.g., "John 3:16", "Genesis 1:1") into its components.
+ *
+ * @param verseString The reference string to parse.
+ * @returns An object containing the parsed components, or null if the format is invalid or the book is not found.
+ */
+export default function parseVerseReference(
+  verseString: string,
+): ParsedVerseReference | null {
   const match = verseString.match(/^(.+?)\s+(\d+|intro)\s*:\s*(\d+|title)$/);
   if (!match) {
     return null;
