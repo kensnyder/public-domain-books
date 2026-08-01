@@ -37,6 +37,14 @@ describe('citationToOsisIDs', () => {
     const osisIDs = citationToOsisIDs('2 Kings 1:1,15');
     expect(osisIDs).toEqual(['2Kgs.1.1', '2Kgs.1.15']);
   });
+  it('should handle continuation commas', () => {
+    const osisIDs = citationToOsisIDs('Dan 8:16, 9:21');
+    expect(osisIDs).toEqual(['Dan.8.16', 'Dan.9.21']);
+  });
+  it('should handle semicolons', () => {
+    const osisIDs = citationToOsisIDs('Dan 8:16; 9:21');
+    expect(osisIDs).toEqual(['Dan.8.16', 'Dan.9.21']);
+  });
   it('should handle n-dashes', () => {
     const osisIDs = citationToOsisIDs('1 Samuel 3:7–8');
     expect(osisIDs).toEqual(['1Sam.3.7', '1Sam.3.8']);

@@ -12,9 +12,16 @@ const trim = (s: string) => s.trim();
  * @returns An array of verse OSIS IDs.
  */
 export default function citationToOsisIDs(citation: string): string[] {
-  const groups = citation.split(',').map(trim);
+  const groups = citation.split(/[,;]/).map(trim);
   const verseOsisIDs: string[] = [];
   for (let group of groups) {
+    if (!/[a-zA-Z]/.test(group) && group.includes(':')) {
+      const last = verseOsisIDs[verseOsisIDs.length - 1];
+      if (last) {
+        const book = last.split('.')[0];
+        group = `${book} ${group}`;
+      }
+    }
     if (/^[^:]+ \d+$/.test(group)) {
       // e.g. John 3 becomes John 3:1 and we continue below
       // TODO: if we know the number of verses in this chapter, maybe we want to convert to a range?
