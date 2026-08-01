@@ -7,7 +7,12 @@ type Found = Array<{
   verseOsisIDs: string[];
 }>;
 
-const books = Object.keys(booksLookup).toSorted((a, b) => b.length - a.length);
+const escapeRegExp = (string: string) =>
+  string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+const books = Object.keys(booksLookup)
+  .toSorted((a, b) => b.length - a.length)
+  .map(escapeRegExp);
 
 const regex = new RegExp(
   `\\b(${books.join('|')})\\.?\\s+[\\d\\s:.,;–-]+`,
