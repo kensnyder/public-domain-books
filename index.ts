@@ -15,6 +15,7 @@ export {
 export { default as getRelativeVerse, getNextVerse, getPreviousVerse } from 'src/tools/getRelativeVerse/getRelativeVerse.ts';
 export { default as getVerseSiblings } from 'src/tools/getVerseSiblings/getVerseSiblings.ts';
 export { default as getWorkByName } from 'src/tools/getWorkByName/getWorkByName.ts';
+export { default as findCitations } from "~/tools/findCitations/findCitations.ts";
 export {
   default as osisToCitation,
   type OsisCitation,
