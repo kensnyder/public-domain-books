@@ -1,4 +1,3 @@
-import ScriptureRef from './ScriptureRef.ts';
 import ScriptureRefCollection from './ScriptureRefCollection.ts';
 import type { WorkShape } from '../types/data-shapes.ts';
 import { books } from '../../data/compiled/books-and-works.ts';

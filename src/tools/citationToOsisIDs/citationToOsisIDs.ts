@@ -1,7 +1,7 @@
+import { verseCounts } from '../../../data/compiled/books-and-works.ts';
 import getBookByName from '../getBookByName/getBookByName.ts';
 import parseVerseRange from '../parseVerseRange/parseVerseRange.ts';
 import parseVerseReference from '../parseVerseReference/parseVerseReference.ts';
-import { verseCounts } from '../../../data/compiled/books-and-works.ts';
 
 const trim = (s: string) => s.trim();
 

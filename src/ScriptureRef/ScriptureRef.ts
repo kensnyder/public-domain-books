@@ -229,11 +229,11 @@ export default class ScriptureRef {
 
   // 4. "With-ers" for modification (Returns NEW instance)
   withBook(bookTitle: string | null): ScriptureRef {
-    return new ScriptureRef(bookTitle, this._chapterNumber, this._verseNumber);
+    return new ScriptureRef(bookTitle, null, null);
   }
 
   withChapter(chapter: number | null): ScriptureRef {
-    return new ScriptureRef(this._bookOsisID, chapter, this._verseNumber);
+    return new ScriptureRef(this._bookOsisID, chapter, null);
   }
 
   withVerse(verse: number | null): ScriptureRef {
