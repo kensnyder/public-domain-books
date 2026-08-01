@@ -1,14 +1,22 @@
 import { Glob } from 'bun';
-import {ManifestShape} from "../../src/types/data-shapes";
+import type { ManifestShape } from '../../src/types/data-shapes.ts';
 
 main().catch(console.error);
 async function main() {
   const manifest: ManifestShape = {
     works: {
-      dataPath: 'data/compiled/works.json',
+      dataPath: 'data/research/works.json',
+      size: Bun.file(`${import.meta.dir}/../../data/research/books.json`).size,
     },
     books: {
-      dataPath: 'data/compiled/books.json',
+      dataPath: 'data/research/books.json',
+      size: Bun.file(`${import.meta.dir}/../../data/research/books.json`).size,
+    },
+    booksAndWorks: {
+      dataPath: 'data/compiled/books-and-works.json',
+      size: Bun.file(
+        `${import.meta.dir}/../../data/compiled/books-and-works.json`,
+      ).size,
     },
     verses: await getVerses(),
     analysis: await getAnalysisFiles(),
@@ -33,7 +41,8 @@ async function getCrossReferences() {
   for await (const dataPath of glob.scan(baseDir)) {
     const workOsisID = dataPath.replace('.json', '');
     const file = Bun.file(`${baseDir}/${dataPath}`);
-    const data = await file.json();
+    const text = await file.text();
+    const data = JSON.parse(text);
     const date = data.date;
     const license = data.licence;
     xrs.push({
@@ -41,6 +50,7 @@ async function getCrossReferences() {
       workOsisID,
       date,
       license,
+      size: text.length,
     });
   }
   return xrs;
@@ -53,11 +63,13 @@ async function getVerses() {
   for await (const dataPath of glob.scan(baseDir)) {
     const workOsisID = dataPath.replace('.json', '');
     const file = Bun.file(`${baseDir}/${dataPath}`);
-    const data = await file.json();
+    const text = await file.text();
+    const data = JSON.parse(text);
     verses.push({
       dataPath: `data/verses/${dataPath}`,
       workOsisID,
       compiledAt: data.compiledAt,
+      size: text.length,
     });
   }
   return verses;
@@ -71,13 +83,15 @@ async function getCommentaries() {
     const workOsisID = 'KJV';
     const [commentaryID, bookOsisID] = dataPath.split(/[/.]/);
     const file = Bun.file(`${baseDir}/${dataPath}`);
-    const data = await file.json();
+    const text = await file.text();
+    const data = JSON.parse(text);
     commentaries.push({
       dataPath: `data/commentaries/${dataPath}`,
       workOsisID,
       commentaryID,
       bookOsisID,
       compiledAt: data.importedAt,
+      size: text.length,
     });
   }
   return commentaries;
@@ -89,9 +103,10 @@ async function getAnalysisFiles() {
   const analysis: ManifestShape['analysis'] = [];
   for await (const dataPath of glob.scan(baseDir)) {
     const [workOsisID, filename] = dataPath.split('/');
-    const dataFile = Bun.file(`${baseDir}/${dataPath}`);
-    const dataContents = await dataFile.json();
-    const createdAt = new Date(dataContents.createdAt);
+    const file = Bun.file(`${baseDir}/${dataPath}`);
+    const text = await file.text();
+    const data = JSON.parse(text);
+    const createdAt = new Date(data.createdAt);
     const chapterOsisID = filename.replace('.json', '');
     const bookOsisID = chapterOsisID.split('.').shift() || '';
     analysis.push({
@@ -99,8 +114,9 @@ async function getAnalysisFiles() {
       workOsisID,
       bookOsisID,
       chapterOsisID,
-      modelId: dataContents.modelId,
+      modelId: data.modelId,
       createdAt: createdAt.toISOString(),
+      size: text.length,
     });
   }
   analysis.sort((a, b) => {

@@ -111,20 +111,28 @@ export type DictionaryDataFileShape = {
 export type ManifestShape = {
   works: {
     dataPath: string;
+    size: number;
   };
   books: {
     dataPath: string;
+    size: number;
+  };
+  booksAndWorks: {
+    dataPath: string;
+    size: number;
   };
   verses: Array<{
     dataPath: string;
     workOsisID: string;
     compiledAt: string;
+    size: number;
   }>;
   crossReferences: Array<{
     dataPath: string;
     workOsisID: string;
     date: string;
     license: string;
+    size: number;
   }>;
   geocoding: Array<{
     url: string;
@@ -132,6 +140,7 @@ export type ManifestShape = {
     bookOsisID: string;
     chapterOsisID: string | null;
     compiledAt: string;
+    size: number;
   }>;
   maps: Array<{
     dataPath: string;
@@ -140,6 +149,7 @@ export type ManifestShape = {
     chapterOsisID: string | null;
     verseOsisID: string | null;
     compiledAt: string;
+    size: number;
   }>;
   artwork: Array<{
     dataPath: string;
@@ -148,6 +158,7 @@ export type ManifestShape = {
     chapterOsisID: string | null;
     verseOsisID: string | null;
     compiledAt: string;
+    size: number;
   }>;
   analysis: Array<{
     dataPath: string;
@@ -156,6 +167,7 @@ export type ManifestShape = {
     chapterOsisID: string;
     modelId: string;
     createdAt: string;
+    size: number;
   }>;
   commentaries: Array<{
     dataPath: string;
@@ -163,6 +175,7 @@ export type ManifestShape = {
     workOsisID: string;
     bookOsisID: string;
     compiledAt: string;
+    size: number;
   }>;
   dictionaries: Array<{
     dataPath: string;
@@ -170,5 +183,6 @@ export type ManifestShape = {
     workOsisID: string;
     sectionLetter: string;
     compiledAt: string;
+    size: number;
   }>;
 };
