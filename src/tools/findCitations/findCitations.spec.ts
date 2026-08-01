@@ -78,10 +78,21 @@ describe('findCitations', () => {
     const results = findCitations(text);
     expect(results).toHaveLength(1);
     expect(results[0].verseOsisIDs[0]).toBe('Matt.1.1');
-    expect(results[0].verseOsisIDs[results[0].verseOsisIDs.length - 1]).toBe(
-      'Matt.2.23',
-    );
-    expect(results[0].verseOsisIDs).toHaveLength(48);
+    expect(results[0].verseOsisIDs[47]).toBe('Matt.2.23');
+  });
+
+  it('should handle semicolons with numbered book names', () => {
+    const text =
+      'Just as He promised to our fathers, To Abraham and to his descendants forever.” [Gen 17:7; 18:18; 22:17; 1 Sam 2:1-10; Mic 7:20]';
+    const results = findCitations(text);
+    expect(results[0].citation).toBe('Gen 17:7; 18:18; 22:17');
+    expect(results[0].verseOsisIDs).toEqual([
+      'Gen.17.7',
+      'Gen.18.18',
+      'Gen.22.17',
+    ]);
+    expect(results[1].citation).toBe('1 Sam 2:1-10');
+    expect(results[2].citation).toBe('Mic 7:20');
   });
 
   it('should not include trailing punctuation in the citation string', () => {

@@ -14,20 +14,34 @@ const books = Object.keys(booksLookup)
   .toSorted((a, b) => b.length - a.length)
   .map(escapeRegExp);
 
-const regex = new RegExp(
-  `\\b(${books.join('|')})\\.?\\s+[\\d\\s:.,;–-]+`,
-  'gi',
+const bookPattern = books.join('|');
+const bookRegex = new RegExp(`\\b(${bookPattern})\\b`, 'gi');
+const citationRegex = new RegExp(
+  `^(${bookPattern})\\.?\\s+[\\d\\s:.,;–-]+`,
+  'i',
 );
 
 export default function findCitations(text: string): Found {
   const found: Found = [];
-  for (const match of text.matchAll(regex)) {
-    const citation = match[0].replace(/[\s:.,;–-]+$/, '');
-    const verseOsisIDs = citationToOsisIDs(citation);
-    if (verseOsisIDs.length === 0) {
-      continue;
+  const matches = [...text.matchAll(bookRegex)];
+
+  for (let i = 0; i < matches.length; i++) {
+    const match = matches[i];
+    const startIndex = match.index;
+    const nextMatchIndex =
+      i + 1 < matches.length ? matches[i + 1].index : text.length;
+
+    const slice = text.slice(startIndex, nextMatchIndex);
+    const citationMatch = slice.match(citationRegex);
+
+    if (citationMatch) {
+      const citation = citationMatch[0].replace(/[\s:.,;–-]+$/, '');
+      const verseOsisIDs = citationToOsisIDs(citation);
+      if (verseOsisIDs.length === 0) {
+        continue;
+      }
+      found.push({ citation, index: startIndex, verseOsisIDs });
     }
-    found.push({ citation, index: match.index, verseOsisIDs });
   }
   return found;
 }

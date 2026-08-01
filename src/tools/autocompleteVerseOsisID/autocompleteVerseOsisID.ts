@@ -2,10 +2,10 @@ import {
   books,
   booksLookup,
   chapterCounts,
-  verseCounts,
-  worksLookup,
   groupsLookup,
+  verseCounts,
   works,
+  worksLookup,
 } from '../../../data/compiled/books-and-works.ts';
 
 export interface AutocompleteOptions {

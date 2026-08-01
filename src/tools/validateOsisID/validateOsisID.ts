@@ -1,6 +1,6 @@
+import { verseCounts } from '../../../data/compiled/books-and-works.ts';
 import getBookByName from '../getBookByName/getBookByName.ts';
 import parseOsisID from '../parseOsisID/parseOsisID.ts';
-import { verseCounts } from '../../../data/compiled/books-and-works.ts';
 
 export interface OsisValidation {
   isValid: boolean;
