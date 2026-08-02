@@ -85,14 +85,31 @@ describe('findCitations', () => {
     const text =
       'Just as He promised to our fathers, To Abraham and to his descendants forever.” [Gen 17:7; 18:18; 22:17; 1 Sam 2:1-10; Mic 7:20]';
     const results = findCitations(text);
-    expect(results[0].citation).toBe('Gen 17:7; 18:18; 22:17');
-    expect(results[0].verseOsisIDs).toEqual([
-      'Gen.17.7',
-      'Gen.18.18',
-      'Gen.22.17',
+    expect(results[0].citation).toBe('Gen 17:7');
+    expect(results[0].verseOsisIDs).toEqual(['Gen.17.7']);
+    expect(results[1].citation).toBe('18:18');
+    expect(results[1].verseOsisIDs).toEqual(['Gen.18.18']);
+    expect(results[2].citation).toBe('22:17');
+    expect(results[2].verseOsisIDs).toEqual(['Gen.22.17']);
+    expect(results[3].citation).toBe('1 Sam 2:1-10');
+    expect(results[4].citation).toBe('Mic 7:20');
+  });
+
+  it('should handle semicolons without surrounding characters', () => {
+    const text = 'Gen 17:7; 1 Cor 15:49';
+    const results = findCitations(text);
+    expect(results).toEqual([
+      {
+        citation: 'Gen 17:7',
+        index: 0,
+        verseOsisIDs: ['Gen.17.7'],
+      },
+      {
+        citation: '1 Cor 15:49',
+        index: 10,
+        verseOsisIDs: ['1Cor.15.49'],
+      },
     ]);
-    expect(results[1].citation).toBe('1 Sam 2:1-10');
-    expect(results[2].citation).toBe('Mic 7:20');
   });
 
   it('should not include trailing punctuation in the citation string', () => {

@@ -35,12 +35,39 @@ export default function findCitations(text: string): Found {
     const citationMatch = slice.match(citationRegex);
 
     if (citationMatch) {
-      const citation = citationMatch[0].replace(/[\s:.,;–-]+$/, '');
-      const verseOsisIDs = citationToOsisIDs(citation);
-      if (verseOsisIDs.length === 0) {
-        continue;
+      const fullCitation = citationMatch[0].replace(/[\s:.,;–-]+$/, '');
+      const parts = fullCitation.split(';');
+      const bookName = citationMatch[1];
+      
+      let offset = 0;
+
+      for (let j = 0; j < parts.length; j++) {
+        const part = parts[j];
+        const trimmedPart = part.trim();
+        
+        if (!trimmedPart) {
+          continue;
+        }
+
+        const partIndexInCitation = fullCitation.indexOf(trimmedPart, offset);
+        
+        let citationToParse = trimmedPart;
+        if (j > 0) {
+          citationToParse = `${bookName} ${trimmedPart}`;
+        }
+
+        const verseOsisIDs = citationToOsisIDs(citationToParse);
+        if (verseOsisIDs.length > 0) {
+          found.push({
+            citation: trimmedPart,
+            index: startIndex + partIndexInCitation,
+            verseOsisIDs,
+          });
+        }
+        
+        // Advance offset to prevent finding an earlier duplicate string
+        offset = partIndexInCitation + trimmedPart.length;
       }
-      found.push({ citation, index: startIndex, verseOsisIDs });
     }
   }
   return found;
