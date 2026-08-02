@@ -5,16 +5,21 @@ It also contains scripts to fetch the text of the works themselves along with me
 
 ## General
 
-- **CRITICAL:** When you read these guidelines, say "I read .junie/guidelines.md".
+- **CRITICAL:** When you read these guidelines, say "I read AGENTS.md".
 - **Support:** Consult docs/web for weak knowledge; ask if tasks are ambiguous or you're stuck (large files/output).
 - **Environment:** Use `/tmp` for temporary files; see `README.md` for project-specific docs.
-- **Runtime:** Use `bun` not `npm`.
+
+## Tooling
+
+- **Runtime:** Use `bun`, `bunx` and `bunx --bun`. DO NOT use `node`, `npm` or `npx` without user approval.
+- **Dependencies:** Prefer using existing dependencies and packages over installing new ones. Consult `package.json` as needed.
+- **Validation:** After any edit, format using `bunx biome format --write <path>`, typecheck using `bunx tsc --noEmit`, then test using `bun test`.
 
 ## Domain-Specific Notes
 
 - **Scripture:** Use camelCase OSIS-style identifiers including `workOsisID`, `bookOsisID`, `chapterOsisID`, `verseOsisID`.
 - **Aliases:** Use existing functions to support works and books with a large number of equivalent names such as `1 Corinthians`, `1 Cor`, `1Cor`, etc.
-- **Verse Notation:** Use existing functions to support common notations such as `1:2`, `1:2-3`, `1:2–3`, `1:2-3, 5`, `1:2-3; 5` etc.
+- **Verse Notation:** Use existing functions to support common notations such as `1:2`, `1:2-3`, `1:2–3`, `1:2-3, 5`, `1:2-3; 2:5` etc.
 
 ## Style / Code Layout
 
@@ -23,16 +28,17 @@ It also contains scripts to fetch the text of the works themselves along with me
 - **Logic:** Avoid nested ternaries. Max 80 chars for ternary lines; otherwise use `if` blocks.
 - **CLI:** If building CLI tools, use `import { parseArgs } from "node:util"`.
 - **Imports:** Use relative imports.
-- **Testing:** Use `bun:test` with `describe('<UAT>')->it('should ...')->expect()` in colocated `.spec.ts(x)` files.- 
+- **Testing:** Use `bun:test` with `describe('Unit under test')->it('should ...')->expect()` in colocated `.spec.ts` files.-
 - **Arguments:** Functions that need 3+ input values should accept 1 argument object with named properties.
 
 ## Project Architecture
 
 - **Scripts:** Scripts are organized by purpose within `scripts` with AI analysis (`ai`), compilation (`generation`), and import (`import`).
-- **Script Helpers:** Defined in functions within `src/lib`.
 - **Tools:** Functions exported from `index.ts` are found in `src/tools` and bundled for an npm package called `scripture-tools` into `dist` using `bun run build`. `.spec.ts` tests are colocated in each function's directory.
-- **Data:** Tools can import compiled book data from `data/compiled/books-and-works.ts` to obtain metadata for works and books including names, aliases, chapter/verse counts.
-- **Reading Data:** `data/compiled/books-and-works.json` exactly mirrors the contents and variable name exports of `data/compiled/books-and-works.ts` which allows you to more easily inspect the data. See the table below for a reference.
+- **Scripts Helpers:** Defined in functions within `src/lib` to support files in `scripts`. These are not exported as part of the package.
+- **ScriptureRef Class:** Experimental object-oriented interface defined in `src/ScriptureRef`.
+- **Importing Data:** Tools, Scripts and Helpers can import compiled book data from `data/compiled/books-and-works.ts` to obtain metadata for works and books including names, aliases, chapter/verse counts.
+- **Querying Data:** `data/compiled/books-and-works.json` exactly mirrors the contents and variable name exports of `data/compiled/books-and-works.ts` which allows you to use JSON inspection tools to query parts of the data without reading the entire 142kb file. See the table below for a reference.
 
 | export const name / JSON object key | `src/types/data-shapes.ts` type | Description                                                                                                                                          |
 |-------------------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
